@@ -11,5 +11,8 @@
     "docs:build": "vuepress build docs"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
 }
