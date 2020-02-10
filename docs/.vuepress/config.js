@@ -1,6 +1,7 @@
 module.exports = {
   /* title: 'Søk og skriv', */
   home: 'false',
+  dest: 'public',
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
@@ -151,6 +152,5 @@ module.exports = {
         ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
       ], */
-      dest: 'public'
     }
   }
