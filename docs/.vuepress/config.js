@@ -55,7 +55,7 @@ module.exports = {
               title: 'Struktur og argumentasjon',
               children: [
                 'struktur-og-argumentasjon',
-                'oppbygging-av-en-oppgave',
+                'oppbygning-av-en-oppgave',
                 'redegjor-og-droft',
                 'a-argumentere-i-egen-tekst',
                 'imrod-modellen'
@@ -65,7 +65,7 @@ module.exports = {
               title: 'Akademisk sprak og stil',
               children: [
                 'akademisk-sprak-og-stil',
-                'a-skrive-ryddig',
+                'skrive-ryddig',
                 'a-skape-flyt',
                 'ikke-akademisk-sprak'
               ]
