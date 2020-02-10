@@ -12,7 +12,7 @@ module.exports = {
     '/en/': {
       lang: 'EN',
       /* title: 'Search and write', */
-      description: ''
+      /* description: '' */
     }
   },
   themeConfig: {
@@ -20,6 +20,12 @@ module.exports = {
     locales: {
       '/': {
         selectText: 'Språk',
+        serviceWorker: {
+          updatePopup: {
+            message: 'New content is available.',
+            buttonText: 'Refresh'
+          }
+        },
         nav: [
           { text: 'Søking', link: '/soking/' },
           { text: 'Lesing', link: '/lesing/' },
@@ -111,6 +117,29 @@ module.exports = {
           ]
         }
       },
+      '/en/': {
+        selectText: 'Languages',
+        sidebar: 'auto',
+        serviceWorker: {
+          updatePopup: {
+            message: 'New content is available.',
+            buttonText: 'Refresh'
+          }
+        },
+        nav: [
+          { text: 'Searching', link: '/en/searching/' },
+          { text: 'Seading', link: '/en/reading/' },
+          { text: 'Writing', link: '/en/writing/' },
+          { text: 'Sources and referencing', link: '/en/sources-and-referencing/' }
+        ],
+        sidebar: {
+          '/en/': [
+            '/en/',
+            '/en/about-search-write',
+          ]
+        }
+      }
+    },
       /* head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -122,11 +151,6 @@ module.exports = {
         ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
       ], */
-      serviceWorker: true,
       dest: 'public'
-    },
-    'en': {
-      selectText: 'Languages',
     }
   }
-}

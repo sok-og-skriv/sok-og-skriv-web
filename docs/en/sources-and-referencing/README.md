@@ -5,7 +5,7 @@ date: "2012-03-16"
 
 All research is based on sources. The relevance of different types of sources varies from subject to subject. Examples of sources include books, official reports, journal articles, images, maps, music, interviews, doctoral theses, newspapers and online documents.
 
-![soking](./images/illustrasjoner_kildehenvisning_500x450.png)
+![soking](../images/illustrasjoner_kildehenvisning_500x450.png)
 
 The theme of your thesis, or more specifically your research question, is the starting point for selecting what sources to use. When you have sought and found relevant sources for your writing, you must ensure that they are reliable and live up to good academic standards.
 
