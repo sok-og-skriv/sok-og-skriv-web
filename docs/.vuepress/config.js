@@ -1,64 +1,132 @@
 module.exports = {
-  title: 'Søk og skriv',
-  description: 'Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving, uavhengig av studiested og -emne',
-  home: 'true',
+  /* title: 'Søk og skriv', */
+  home: 'false',
+  locales: {
+    // The key is the path for the locale to be nested under.
+    // As a special case, the default locale can use '/' as its path.
+    '/': {
+      lang: 'NO', // this will be set as the lang attribute on <html>
+      /* title: 'Søk og skriv', */
+      description: 'Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving, uavhengig av studiested og -emne',
+    },
+    '/en/': {
+      lang: 'EN',
+      /* title: 'Search and write', */
+      description: ''
+    }
+  },
   themeConfig: {
     logo: '/sokogskriv2013.png',
-    nav: [
-    ],
-    sidebar: [
-      '/',
-      {
-        title: 'Søking',
-        /* collapsable: false, */
-        children: [
-          '/planlegg-soket-dit',
-          '/soketeknikker',
-          /* '/systematisk-soking' */
-        ]
+    locales: {
+      '/': {
+        selectText: 'Språk',
+        nav: [
+          { text: 'Søking', link: '/soking/' },
+          { text: 'Lesing', link: '/lesing/' },
+          { text: 'Skriving', link: '/skriving/' },
+          { text: 'Kildebruk og referanser', link: '/kildebruk-og-referanser/' }
+        ],
+        sidebar: {
+          '/soking/': [
+            '',
+            'planlegg-soket-ditt',
+            'soketeknikker',
+            'systematisk-soking',
+          ],
+          '/lesing/': [
+            '',
+            'lesemater',
+            'lesing-og-skriving',
+            'kollokvie',
+            'argumentasjon-i-tekst',
+            'akademiske-sjangrer'
+          ],
+          '/skriving/': [
+            '',
+            {
+              title: 'Skriveprosessen',
+              children: [
+                'skriveprosessen',
+                'kom-i-gang-a-skrive',
+                'skrivegrupper'
+              ]
+            },
+            {
+              title: 'Struktur og argumentasjon',
+              children: [
+                'struktur-og-argumentasjon',
+                'oppbygging-av-en-oppgave',
+                'redegjor-og-droft',
+                'a-argumentere-i-egen-tekst',
+                'imrod-modellen'
+              ]
+            },
+            {
+              title: 'Akademisk sprak og stil',
+              children: [
+                'akademisk-sprak-og-stil',
+                'a-skrive-ryddig',
+                'a-skape-flyt',
+                'ikke-akademisk-sprak'
+              ]
+            },
+            'formelle-krav-til-oppsett',
+            'formidling',
+          ],
+          '/kildebruk-og-referanser/': [
+            '',
+            {
+              title: 'Hvordan referere',
+              children: [
+                'hvordan-referere',
+                'hva-refereres',
+                'forkortelser'
+              ]
+            },
+            {
+              title: 'Hvorfor referere',
+              children: [
+                'hvorfor-referere',
+                'etiske-retningslinjer-i-akademia',
+                'opphavsrettslige-forhold'
+              ]
+            },
+            {
+              title: 'Referansestiler',
+              children: [
+                'referansestiler/',
+                'referansestiler/apa-6th',
+                'referansestiler/chicago-fotnoter',
+                'referansestiler/chicago-forfatter-aar',
+                'referansestiler/mla',
+                'referansestiler/harvard',
+                'referansestiler/vancouver',
+              ]
+            },
+            'kildevurdering'
+          ],
+          '/': [
+            '',
+            'om-sok-og-skriv'
+          ]
+        }
       },
-      {
-        title: 'Lesing',
-        children: [ 
-          '/lesemater',
-          '/lesing-og-skriving',
-          '/kollokvie',
-          '/argumentasjon-i-tekst',
-          /* '/akademiske sjangrer' */
-        ]
-      },
-      {
-        title: 'Skriving',
-        children: [
-          '/skriveprosessen',
-          '/struktur-og-argumentasjon',
-          '/sprak-og-stil',
-          '/formelle-krav',
-          '/formidling'
-        ]
-      },
-      {
-        title: 'Kildebruk og referanser',
-        children: [
-          '/hvordan-referere',
-          /* '/hvorfor-referere', */
-          '/referansestiler',
-          '/kildevurdering'
-        ]
-      }
-    ]
-  },
-  /* head: [
-    ['link', { rel: 'icon', href: `/logo.png` }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
-    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
-    ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
-  ], */
-  serviceWorker: true,
-  dest: 'public'
+      /* head: [
+        ['link', { rel: 'icon', href: `/logo.png` }],
+        ['link', { rel: 'manifest', href: '/manifest.json' }],
+        ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+        ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+        ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+        ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
+        ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
+        ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
+        ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+      ], */
+      serviceWorker: true,
+      dest: 'public'
+    },
+    'en': {
+      selectText: 'Languages',
+    }
+  }
 }

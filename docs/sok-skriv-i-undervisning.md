@@ -11,9 +11,9 @@ Denne siden er tenkt som en idébank for faglærere, bibliotekarer og andre som 
 
 Søk & Skriv er nettbasert, men mye av materialet kan brukes i klasseroms-undervisning. Man kan for eksempel komponere forelesninger som følger mer eller mindre samme struktur som nettstedet og supplere med øvelser, oppgaver og fagspesifikke eksempler. Nettstedet inneholder materiale som egner seg for utskrift i en undervisningssituasjon. En oversikt over alle oppgavene på nettstedet finner du [nederst på denne siden](#oppgaveoversikt).
 
-De fire hovedsporene _[Søking](http://sokogskriv.no/soking/)_, [_Lesing_](http://sokogskriv.no/lesing/), [_Skriving_](http://sokogskriv.no/skriving) og [_Kildebruk og referanser_](http://sokogskriv.no/kildebruk-og-referanser/) tar for seg ulike faser i oppgaveprosessen. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre oppgaver underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
+De fire hovedsporene _[Søking](/soking/)_, [_Lesing_](/lesing/), [_Skriving_](/skriving) og [_Kildebruk og referanser_](/kildebruk-og-referanser/) tar for seg ulike faser i oppgaveprosessen. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre oppgaver underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
 
-Det skal være lett å navigere rundt på nettstedet ved hjelp av hovedmenyen som er synlig på alle sider, og detaljerte, klikkbare innholdsfortegnelser i margen. Under sporet [Om Søk & Skriv](http://sokogskriv.no/om-sok-skriv/) ligger det en alfabetisk indeks over temaer som er behandlet på nettstedet ([Kategorier](http://sokogskriv.no/om-sok-skriv/kategorier/)), og på hver side er det en søkeboks man kan bruke til å gjøre fritekstsøk på hele nettstedet.
+Det skal være lett å navigere rundt på nettstedet ved hjelp av hovedmenyen som er synlig på alle sider, og detaljerte, klikkbare innholdsfortegnelser i margen. Under sporet [Om Søk & Skriv](/om-sok-skriv/) ligger det en alfabetisk indeks over temaer som er behandlet på nettstedet ([Kategorier](/om-sok-skriv/kategorier/)), og på hver side er det en søkeboks man kan bruke til å gjøre fritekstsøk på hele nettstedet.
 
 # Forslag til kurs
 
@@ -23,7 +23,7 @@ Kursets innhold må tilpasses studentenes nivå og behov, lærestedenes krav og 
 
 Vi har oppgitt læringsmål for kursforslagene som de står her - disse kan selvsagt også tilpasses av kursholder.
 
-Søk & Skriv-redaksjonen tar gjerne imot [tilbakemeldinger](http://sokogskriv.no/om-sok-skriv/kontaktinformasjon/) og forslag til forbedringer.
+Søk & Skriv-redaksjonen tar gjerne imot [tilbakemeldinger](/om-sok-skriv/kontaktinformasjon/) og forslag til forbedringer.
 
 ## 1\. Informasjonssøk ved oppgaveskriving / Søkeverksted
 
@@ -74,7 +74,7 @@ Etter å ha gjennomgått lesekurset skal studentene
 
 Mange studenter sliter med å skille mellom oversikts- og dybdelesning. De bruker unødvendig mye tid på hver enkelt tekst, også de mindre relevante, med den konsekvens at de ikke får tid til å lese hele pensum eller alt de trenger for å skrive en oppgave. Et lesekurs kan bevisstgjøre studenter om nytten av å lage en lesestrategi, og hjelpe dem å lære, gjennom praktiske øvelser, teknikker som hurtiglesing.
 
-Kurset kan ta utgangspunkt i lesesporet. Man kan starte med å gi en kort introduksjon om lesing – for eksempel om formålet med lesingen, forskjellige måter å lese på og viktige spørsmål å stille til teksten. Hent gjerne inspirasjon på siden [_Lesemåter_](http://sokogskriv.no/lesing/lesemater/).
+Kurset kan ta utgangspunkt i lesesporet. Man kan starte med å gi en kort introduksjon om lesing – for eksempel om formålet med lesingen, forskjellige måter å lese på og viktige spørsmål å stille til teksten. Hent gjerne inspirasjon på siden [_Lesemåter_](/lesing/lesemater/).
 
 Deretter bør studentene gjøre en praktisk øvelse. Finn fram til en eller flere egnede tekster – det kan være lettere sagt enn gjort. Det bør helst være artikler, kapitler eller tekstutdrag som utgjør et hele og kan stå på egne bein. Teksten(e) bør være hentet fra studentenes pensum eller i det minste fagområde – erfaringsmessig styrker det studentenes motivasjon og gir størst læringsutbytte.
 
@@ -123,13 +123,13 @@ Etter å ha gjennomgått kurset skal studentene
 
 Det å kunne forholde seg selvstendig og kritisk til det man leser, er resultat av en modningsprosess. Ulike studenter vil befinne seg på ulike stadier i en slik prosess. Et kurs i kildevurdering basert på Søk & Skriv vil passe for nokså ferske studenter, som først og fremst trenger bevisstgjøring om, og innføring i det akademiske håndverket.
 
-Kurset i kildevurdering kan for eksempel organiseres som et praktisk verksted der studentene under veiledning jobber seg gjennom sidene [_Kvalitative vurderinger_](http://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/) og [_Vurdering av relevans_](http://sokogskriv.no/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/).
+Kurset i kildevurdering kan for eksempel organiseres som et praktisk verksted der studentene under veiledning jobber seg gjennom sidene [_Kvalitative vurderinger_](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/) og [_Vurdering av relevans_](/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/).
 
 Hold gjerne en introduksjon basert på eller inspirert av det som står på nettstedet om kildevurdering. Det kan også være en idé å reflektere, og invitere studentene til å gjøre det samme, rundt nytten av kildevurdering. Hvorfor skal vi drive med det?
 
 La deretter studentene ta utgangspunkt i en tekst de har på pensum eller vil bruke i oppgaven sin – helst en de har lest eller i hvert fall kjenner sånn noenlunde til innholdet i. La dem, enkeltvis eller i små grupper, vurdere teksten og si noe om i hvilken grad den er nyttig og relevant for dem. Vil de bruke den? Hvorfor eller hvorfor ikke? Her er det også grunnlag for en fagkritisk diskusjon. Spør: Hvorfor står denne teksten på pensum, eller hvorfor er den anbefalt?
 
-På siden [_Kvalitative vurderinger_](http://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/) omtales en rekke elementer det kan være nyttig for studentene å ta i betraktning når de skal gjøre sin vurdering av teksten:
+På siden [_Kvalitative vurderinger_](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/) omtales en rekke elementer det kan være nyttig for studentene å ta i betraktning når de skal gjøre sin vurdering av teksten:
 
 - Forfatter
 - Tekstens kilder
@@ -159,7 +159,7 @@ Det er viktig å merke seg at opphavsretten gjelder fra åndsverket blir til, i 
 
 **Om Creative Commons–materiale (CC**)
 
-Bruker studenter og andre CC materiale, pass på at en også her navngir opphavsperson. For å bruke et verk med en [Creative Commons–lisens](http://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) skal du, i samband med bruken, oppgi:
+Bruker studenter og andre CC materiale, pass på at en også her navngir opphavsperson. For å bruke et verk med en [Creative Commons–lisens](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) skal du, i samband med bruken, oppgi:
 
 - navn (eller kjennetegn) på opphavsperson, eller (for verk med et stort antall forfattere, som for eksempel Wikipedia) kilde
 - tittel på verket
@@ -168,7 +168,7 @@ Bruker studenter og andre CC materiale, pass på at en også her navngir opphavs
 
 **Oppgave om bruk av bilder i oppgaver**
 
-\[caption id="attachment\_3515" align="alignleft" width="228"\][![IMG_0374(c)sandrajecmenica-web](./images/IMG_0374csandrajecmenica-web-200x300.jpg)](http://sokogskriv.no/wp-content/uploads/2013/09/IMG_0374csandrajecmenica-web.jpg) _Naturhistorisk museum_ Foto: Sandra Jecmenica © UiB\[/caption\]
+\[caption id="attachment\_3515" align="alignleft" width="228"\][![IMG_0374(c)sandrajecmenica-web](./images/IMG_0374csandrajecmenica-web-200x300.jpg)](/wp-content/uploads/2013/09/IMG_0374csandrajecmenica-web.jpg) _Naturhistorisk museum_ Foto: Sandra Jecmenica © UiB\[/caption\]
 
 - Hvordan krediterer du bildet over i en tekst? Vurder bildet til forskjellige formål (for eksempel akademisk oppgave, utstilling, katalog…)
 - Hvordan fører du det opp i en referanseliste?
@@ -184,7 +184,7 @@ Be studentene vurdere et gitt nettsted og se spesielt på kildebruken. Studenten
 - Informerer nettstedet om opphavsrett på eget nettsted? Informerer nettstedet om hvem som har opphavsrett til materialet de selv bruker på siden?
 - Velg ut et bilde eller annet visuelt materiale fra nettstedet. Om du selv skulle bruke det i en publisert tekst, vurder følgende:
     - Ville det være etisk og lovlig å bruke det? Hvordan ville du eventuelt avklart bruk av materialet?
-    - Hvordan henviser du til denne visuelle kilden i teksten, og hvordan oppgir du den i en referanseliste? Bruk Harvard/APA/MLA osv. (den [referansestilen](http://sokogskriv.no/kildebruk-og-referanser/referansestiler/) som anbefales eller er mest vanlig på det aktuelle faget eller lærestedet.)
+    - Hvordan henviser du til denne visuelle kilden i teksten, og hvordan oppgir du den i en referanseliste? Bruk Harvard/APA/MLA osv. (den [referansestilen](/kildebruk-og-referanser/referansestiler/) som anbefales eller er mest vanlig på det aktuelle faget eller lærestedet.)
 
 ## 6\. Sitering og etisk kildebruk
 
@@ -197,7 +197,7 @@ Etter fullført kurs skal studentene kunne
 
 Følgende opplegg er rettet mot studenter som skal begynne å skrive oppgave på universitets- og høyskolenivå, og som ikke har vært vant til å følge standardiserte referansestiler. Opplegget kan gjennomføres både i store auditorier og i mindre grupper eller klasser.
 
-Et kurs i sitering og etisk kildebruk bør inneholde noe teori, i form av forelesning, samt praktiske oppgaver. Forelesningen kan gjerne baseres på sporet [_Kildebruk og referanser_](http://sokogskriv.no/kildebruk-og-referanser/) i Søk & Skriv. Da kan man for det første bevisstgjøre studentene om viktigheten (etisk og praktisk) av å sitere og referere korrekt. For det andre kan man gjøre dem kjent med ulike typer henvisninger og vise dem hvilke hjelpemidler som finnes, for eksempel Søk & Skriv som oppslagsverk og de ulike referansestilmanualene i digital og trykt form. Hvis institusjonen tilbyr et lisensiert referansehåndterings-verktøy kan det være aktuelt å kombinere dette kurset med et kurs i bruk av verktøyet.
+Et kurs i sitering og etisk kildebruk bør inneholde noe teori, i form av forelesning, samt praktiske oppgaver. Forelesningen kan gjerne baseres på sporet [_Kildebruk og referanser_](/kildebruk-og-referanser/) i Søk & Skriv. Da kan man for det første bevisstgjøre studentene om viktigheten (etisk og praktisk) av å sitere og referere korrekt. For det andre kan man gjøre dem kjent med ulike typer henvisninger og vise dem hvilke hjelpemidler som finnes, for eksempel Søk & Skriv som oppslagsverk og de ulike referansestilmanualene i digital og trykt form. Hvis institusjonen tilbyr et lisensiert referansehåndterings-verktøy kan det være aktuelt å kombinere dette kurset med et kurs i bruk av verktøyet.
 
 Demonstrer en eller to aktuelle referansestiler som studentene ved institusjonen anbefales å bruke, gjerne ved hjelp av nettsiden. Vis både hvordan man henviser i teksten og hvordan man setter opp referanseliste. Temaer som bør eller kan tas opp:
 
@@ -218,7 +218,7 @@ Det er lurt å aktivisere studentene underveis med praktiske oppgaver. Vi har he
 
 **Sitering**
 
-Ta utgangspunkt i en tekst der du finner både direkte og indirekte sitat. Teksten kan gjerne være hentet fra studentenes pensumlitteratur. Fjern alle henvisninger fra teksten, la gjerne anførselstegn stå igjen for at de skal kunne oppfatte signalene om at dette sannsynligvis er et sitat. La studentene lese teksten nøye (del gjerne ut en papirkopi), og diskutere to og to hvor i teksten de mener det bør stå henvisninger. Diskuter 2–3 forslag i plenum. Vis til slutt den opprinnelige teksten som fasit, etter å ha gjennomgått forslag. (Ideen til oppgaven er hentet fra Carroll og Zetterling, 2009, s. 30). Oppsummer med hovedpunkter fra [_Hvorfor referere_](http://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/) i Søk & Skriv.
+Ta utgangspunkt i en tekst der du finner både direkte og indirekte sitat. Teksten kan gjerne være hentet fra studentenes pensumlitteratur. Fjern alle henvisninger fra teksten, la gjerne anførselstegn stå igjen for at de skal kunne oppfatte signalene om at dette sannsynligvis er et sitat. La studentene lese teksten nøye (del gjerne ut en papirkopi), og diskutere to og to hvor i teksten de mener det bør stå henvisninger. Diskuter 2–3 forslag i plenum. Vis til slutt den opprinnelige teksten som fasit, etter å ha gjennomgått forslag. (Ideen til oppgaven er hentet fra Carroll og Zetterling, 2009, s. 30). Oppsummer med hovedpunkter fra [_Hvorfor referere_](/kildebruk-og-referanser/sitering-og-etikk/) i Søk & Skriv.
 
 **Parafrasering**
 
@@ -228,7 +228,7 @@ Finn et avsnitt fra en tekst studentene har på pensum. Skriv ned tre forslag ti
 
 Lag en liste over relevant litteratur innen faget, gjerne fra pensumlisten. Listen må være korrekt satt opp i forhold til den referansestilen studentene skal benytte. Be studentene lese listen nøye, og bestemme hvilken type dokument hver enkelt referanse viser. Studentene kan gjerne diskutere to og to. Gå gjennom listen i plenum sammen med studentene. Be dem komme med forslag til de enkelte innførslene og i tillegg begrunne forslaget. Ta med spørsmål og kommentarer fra andre studenter i diskusjonen.
 
-Studentene kan for eksempel benytte referansestilene i Søk & Skriv underveis i oppgaven, men dette er ikke nødvendig så lenge man viser stilen på nettstedet etter gjennomgangen. I tillegg kan man vise studentene [tilsvarende oppgave](http://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/) i Søk & Skriv.
+Studentene kan for eksempel benytte referansestilene i Søk & Skriv underveis i oppgaven, men dette er ikke nødvendig så lenge man viser stilen på nettstedet etter gjennomgangen. I tillegg kan man vise studentene [tilsvarende oppgave](/kildebruk-og-referanser/hvordan-referere/) i Søk & Skriv.
 
 En annen måte å jobbe med referanselister på er å vise studentene en faktisk, eksisterende pensumliste som inneholder noen feil, og be dem finne feilene. Så kan man i fellesskap, og ved hjelp av Søk & Skriv, finne fram til hvordan det skulle vært gjort.
 
@@ -236,22 +236,22 @@ En annen måte å jobbe med referanselister på er å vise studentene en faktisk
 
 Målet med et skrivekurs er gjerne at studentene skal bli tryggere på sin egen skriving, både når det gjelder arbeidsmåte og personlig skrivestil. De skal også kjenne til viktige trekk ved det akademiske håndverket. De aller fleste studenter har mer kunnskap om lesing og skriving enn de er klar over, og et mål for kursholderen kan være å hjelpe dem til å bli klar over dette. En måte å oppøve trygghet på er å arbeide med begreper (”metaspråk for skriving”). Gjennom å sette ord på hva som gjør en tekst god og hva som gjør den mindre god, vil studentene kunne utvikle et analytisk blikk for tekster, noe som også er til god hjelp for den egne skrivingen.
 
-Skrivesporet består av fem underkategorier, hvor særlig [_Struktur_](http://sokogskriv.no/skriving/struktur/) og [_Språk og stil_](http://sokogskriv.no/skriving/sprak-og-stil/) egner seg til bruk i undervisning. Også lesesporet vil være til god nytte, for eksempel undersporet [_Akademiske sjangrer_](http://sokogskriv.no/lesing/hvordan-hente-noe-ut-av-en-tekst/). Det er fullt mulig å legge opp disse sporene som forelesninger, gjerne med bruk av PowerPoint. I tillegg må det lages relevante teksteksempler fra de aktuelle fagene. Korte forelesninger kan veksle med øvelser knyttet til de ulike temaene.
+Skrivesporet består av fem underkategorier, hvor særlig [_Struktur_](/skriving/struktur/) og [_Språk og stil_](/skriving/sprak-og-stil/) egner seg til bruk i undervisning. Også lesesporet vil være til god nytte, for eksempel undersporet [_Akademiske sjangrer_](/lesing/hvordan-hente-noe-ut-av-en-tekst/). Det er fullt mulig å legge opp disse sporene som forelesninger, gjerne med bruk av PowerPoint. I tillegg må det lages relevante teksteksempler fra de aktuelle fagene. Korte forelesninger kan veksle med øvelser knyttet til de ulike temaene.
 
-Skrivekurs for masterstudenter fungerer best dersom studentene kan arbeide med sine egne tekster, og aller helst utkast som er sendt inn på forhånd. Da er det viktig at studentene er trygge nok til å vise fram arbeider som ikke er ferdige. Dersom studenten anser teksten for å være ferdig, vil det ikke være rom for læring, verken for den som har skrevet eller den som skal kommentere teksten. Når det gjelder organiseringen av skrivegrupper, kommentering og den slags er det tips og råd å finne under [_Skriveprosessen_](http://sokogskriv.no/skriving/skriving-er-en-prosess/).
+Skrivekurs for masterstudenter fungerer best dersom studentene kan arbeide med sine egne tekster, og aller helst utkast som er sendt inn på forhånd. Da er det viktig at studentene er trygge nok til å vise fram arbeider som ikke er ferdige. Dersom studenten anser teksten for å være ferdig, vil det ikke være rom for læring, verken for den som har skrevet eller den som skal kommentere teksten. Når det gjelder organiseringen av skrivegrupper, kommentering og den slags er det tips og råd å finne under [_Skriveprosessen_](/skriving/skriveprosessen/).
 
 Det å holde et skrivekurs krever en del erfaring med emner som tekstanalyse, veiledning og redigering. Kursholderens erfaring hjelper studentene til å bli trygge på at også de er kompetente lesere og skrivere. En viktig faktor er da å oppmuntre til dialog og innspill fra gruppa, samt å lage øvelser som kan åpne opp for kreative løsninger, snarere enn å lede inn mot en bestemt type svar.
 
 # Oversikt over oppgaver på nettstedet
 
-- [Finn søkeord og synonyme](http://sokogskriv.no/soking/planlegg-soket-dit/#Gjr_deg_kjent_med_databasen)_[r](http://sokogskriv.no/soking/planlegg-soket-dit/#Gjr_deg_kjent_med_databasen)_ – øvelser i søketeknikk
-- [Spør teksten](http://sokogskriv.no/lesing/lesemater/#Spr_teksten) – identifisering av tema, problemstilling og resultater, vurdering av aktualitet og anvendelighet.
-- Toulmins modell – argumentasjonsanalyse brukt på [andres tekst](http://sokogskriv.no/lesing/argumentasjon-i-tekst/) og på [egen tekst.](http://sokogskriv.no/skriving/struktur/a-argumenterere-i-egen-tekst/#Argumentasjonens_struktur)
-- [Skriv flere åpninger til teksten](http://sokogskriv.no/skriving/struktur/oppbygning-av-en-oppgave/#11Bakgrunn) – skriveteknisk øvelse
-- [Skriv om til aktiv](http://sokogskriv.no/skriving/sprak-og-stil/#Aktiv_passiv) – skriveteknisk øvelse
-- [Bruk av «jeg»](http://sokogskriv.no/skriving/sprak-og-stil/#Kan_jeg_skrive_jeg) – refleksjon rundt akademisk stil
-- [Gjenkjennelse av referansetype](http://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_[r](http://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_ _–_ interaktiv øvelse i identifisering av ulike referansetyper
-- [Refleksjon rundt fordreining av meningsinnhold](http://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/#Fordreining_av_meningsinnhold)– refleksjon omkring opphavsrett
+- [Finn søkeord og synonyme](/soking/planlegg-soket-dit/#Gjr_deg_kjent_med_databasen)_[r](/soking/planlegg-soket-dit/#Gjr_deg_kjent_med_databasen)_ – øvelser i søketeknikk
+- [Spør teksten](/lesing/lesemater/#Spr_teksten) – identifisering av tema, problemstilling og resultater, vurdering av aktualitet og anvendelighet.
+- Toulmins modell – argumentasjonsanalyse brukt på [andres tekst](/lesing/argumentasjon-i-tekst/) og på [egen tekst.](/skriving/struktur/a-argumenterere-i-egen-tekst/#Argumentasjonens_struktur)
+- [Skriv flere åpninger til teksten](/skriving/struktur/oppbygning-av-en-oppgave/#11Bakgrunn) – skriveteknisk øvelse
+- [Skriv om til aktiv](/skriving/sprak-og-stil/#Aktiv_passiv) – skriveteknisk øvelse
+- [Bruk av «jeg»](/skriving/sprak-og-stil/#Kan_jeg_skrive_jeg) – refleksjon rundt akademisk stil
+- [Gjenkjennelse av referansetype](/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_[r](/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_ _–_ interaktiv øvelse i identifisering av ulike referansetyper
+- [Refleksjon rundt fordreining av meningsinnhold](/kildebruk-og-referanser/hvordan-referere/#Fordreining_av_meningsinnhold)– refleksjon omkring opphavsrett
 
 **Videre lesing:  
 **Carroll, J. og Zetterling, C.-M. (2009) _Guiding students away from plagiarism_ \[Internett\]. Stockholm: KTH Learning Lab. Tilgjengelig fra: <[http://people.kth.se/~ambe/KTH/Guidingstudents.pdf](http://people.kth.se/~ambe/KTH/Guidingstudents.pdf)\> \[Lest 5. september 2015\].

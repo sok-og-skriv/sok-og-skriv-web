@@ -1,0 +1,748 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+        <!--[if IE 6]>
+        <html id="ie6" lang="nb-NO">
+        <![endif]-->
+        <!--[if IE 7]>
+        <html id="ie7" lang="nb-NO">
+        <![endif]-->
+        <!--[if IE 8]>
+        <html id="ie8" lang="nb-NO">
+        <![endif]-->
+        <!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+        <html lang="nb-NO">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<!--<meta name="viewport" content="width=device-width" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Søk & Skriv">
+<meta property="og:image" content="images/Stort_logo.png">
+<meta property="og:description" content="Søk & Skriv inneholder materiale om informasjonssøk og akademisk skriving, og er rettet mot studenter som skal skrive oppgaver på bachelor- og masternivå.">
+<meta name="description" content="Søk & Skriv inneholder materiale om informasjonssøk og akademisk skriving, og er rettet mot studenter som skal skrive oppgaver på bachelor- og masternivå.">
+<meta name="keywords" content="Søk & Skriv, Søk&Skriv, informasjonssøk, søketeknikker, systematisk søking, kollokvie, akademisk skriving, kildebruk, referanserstiler, kildevurdering, opplæring, læringsressurs, nettressurs, undervisningsressurs, lærebok, digital, undervisning, Høgskulen på Vestlandet, Norges Handelshøyskole, Universitetet i Bergen, Universitetet i Oslo, Nasjonalbiblioteket">
+
+
+<title>Fant ikke siden | Søk &amp; Skriv</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="shortcut icon" href="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/images/favicon.ico" />
+<link rel="pingback" href="https://sokogskriv.no/xmlrpc.php" />
+<link href='https://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+<script type="text/javascript" src="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/scripts/swipeview.js?ver=4.8.5"></script>
+
+<meta name="google-site-verification" content="8fmD6wxZ8aWdq0MLm5rjqz2pYl1ITUMzvmfWoEjT9Tc" />
+<!--[if lt IE 9]>
+<script src="https://sokogskriv.no/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//ssl.p.jwpcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Søk &amp; Skriv &raquo; strøm" href="https://sokogskriv.no/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Søk &amp; Skriv &raquo; kommentarstrøm" href="https://sokogskriv.no/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sokogskriv.no\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpsqt-main-css'  href='https://sokogskriv.no/wp-content/plugins/wp-survey-and-quiz-tool/css/main.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css'  href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sm-core-css-css'  href='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/css/sm-core-css.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sm-simple-css'  href='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/css/sm-simple.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='https://sokogskriv.no/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://sokogskriv.no/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='https://sokogskriv.no/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/scripts/jquery-1.11.3.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/plugins/wp-survey-and-quiz-tool/js/site.js?ver=4.8'></script>
+<script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js?ver=1'></script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/scripts/movetoaside.js?ver=4.8'></script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/scripts/smartmenu.js?ver=4.8'></script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/scripts/jquery.smartmenus.js?ver=4.8'></script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/scripts/hibmoreless.js?ver=4.8'></script>
+<script type='text/javascript' src='https://ssl.p.jwpcdn.com/6/9/jwplayer.js?ver=4.8'></script>
+<link rel='https://api.w.org/' href='https://sokogskriv.no/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sokogskriv.no/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sokogskriv.no/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8" />
+<script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            <style type="text/css">div#toc_container {width: 275px;}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css" id="wp-custom-css">
+			/*
+Du kan legge til din egen CSS her.
+
+Klikk hjelp-ikonet over for å lære mer.
+*/
+
+/*.page-index .entry-content {
+   background-color: #c4c978 !important;
+   
+} */
+
+.page-index .entry-content p, .home #content h1 {
+  color: black  !important;
+}
+
+.page-index .entry-content p a {
+  color: black  !important;
+}
+
+
+table td {
+   hyphens : none !important;
+   -moz-hyphens: none !important;
+   -webkit-hyphens: none !important;
+}
+
+/*@media only screen and (min-width: 965px) {
+.page-index img[class*="wp-image-"] {
+    width: 43% !important;
+  }
+}*/		</style>
+	<link rel="stylesheet" type="text/css" media="all" href="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/style.css" />
+</head>
+
+
+	<body class="error404 two-column right-sidebar">
+
+
+
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+		<div class="row space-over">
+			<div class="col-sm-4">
+				<!-- Logo -->
+
+				<h1 id="logo">
+				    <a title="Søk &amp; Skriv" href="https://sokogskriv.no/">
+					  <img src="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/images/sokogskriv2013.png">
+
+					</a>
+				</h1>
+			</div>
+
+
+			<div class="col-sm-8">
+				<div class="pull-right">
+				    <div class="search-and-lang-group-pos">
+						<div class="ajust-language-pos">
+							<!-- Engelsk / Norsk valg -->
+							
+							 <div class="language"><a href="//sokogskriv.no/en/">English</a></div>
+
+							
+						</div>
+
+
+
+						<!-- Søkefelt -->
+						<span class="hide-mobile">
+							
+							<form id="searchform" action="https://sokogskriv.no/" method="get">
+							   <label class="assistive-text" for="s">S&oslash;k</label>
+							   <input name="s" class="search-field norsk-search" id="s" type="text" placeholder="S&oslash;k">	
+							   <input name="submit" class="submit" id="searchsubmit" type="submit" value="Search">		
+							</form>
+
+							
+							
+													</span>
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+
+    </header>
+
+
+	<nav class="main-nav hide-desktop hide-on-print" role="navigation">
+
+        <!-- Mobile menu toggle button (hamburger/x icon) -->
+        <input id="main-menu-state" type="checkbox" />
+        <label class="main-menu-btn" for="main-menu-state">
+            <span class="main-menu-btn-icon"></span> Toggle main menu visibility
+        </label>
+
+				
+
+        <h2 class="nav-brand">
+							  Meny
+						</h2>
+
+        <!-- Sample menu definition -->
+		<!--<ul id="main-menu" class="sm sm-mint">-->
+			<ul id="main-menu" class="sm sm-simple"><li id="menu-item-1402"><a title="Søking" href="https://sokogskriv.no/soking/" class="dropdown-toggle" aria-haspopup="true">Søking</a>
+<ul>
+	<li id="menu-item-417"><a title="Planlegg søket ditt" href="https://sokogskriv.no/soking/planlegg-soket-dit/">Planlegg søket ditt</a></li>
+	<li id="menu-item-5415"><a title="Søketeknikker" href="https://sokogskriv.no/soking/soketeknikker/">Søketeknikker</a></li>
+	<li id="menu-item-1093"><a title="Systematisk søking" href="https://sokogskriv.no/soking/utdypende-sok/">Systematisk søking</a></li>
+</ul>
+</li>
+<li id="menu-item-13"><a title="Lesing" href="https://sokogskriv.no/lesing/" class="dropdown-toggle" aria-haspopup="true">Lesing</a>
+<ul>
+	<li id="menu-item-1328"><a title="Lesemåter" href="https://sokogskriv.no/lesing/lesemater/">Lesemåter</a></li>
+	<li id="menu-item-3542"><a title="Lesing og skriving" href="https://sokogskriv.no/lesing/lesing-og-skriving/">Lesing og skriving</a></li>
+	<li id="menu-item-3543"><a title="Kollokvie" href="https://sokogskriv.no/lesing/kollokvie/">Kollokvie</a></li>
+	<li id="menu-item-3544"><a title="Argumentasjon i tekst" href="https://sokogskriv.no/lesing/argumentasjon-i-tekst/">Argumentasjon i tekst</a></li>
+	<li id="menu-item-1329"><a title="Akademiske sjangrer" href="https://sokogskriv.no/lesing/hvordan-hente-noe-ut-av-en-tekst/">Akademiske sjangrer</a></li>
+</ul>
+</li>
+<li id="menu-item-14"><a title="Skriving" href="https://sokogskriv.no/skriving/" class="dropdown-toggle" aria-haspopup="true">Skriving</a>
+<ul>
+	<li id="menu-item-640"><a title="Skriveprosessen" href="https://sokogskriv.no/skriving/skriveprosessen/">Skriveprosessen</a>
+	<ul>
+		<li id="menu-item-5727"><a title="Kom i gang å skrive" href="https://sokogskriv.no/skriving/skriveprosessen/kom-i-gang-a-skrive/">Kom i gang å skrive</a></li>
+		<li id="menu-item-5730"><a title="Skrivegrupper" href="https://sokogskriv.no/skriving/skriveprosessen/skrivegrupper/">Skrivegrupper</a></li>
+	</ul>
+</li>
+	<li id="menu-item-567"><a title="Struktur og argumentasjon" href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/">Struktur og argumentasjon</a>
+	<ul>
+		<li id="menu-item-5720"><a title="Oppbygning av en oppgave" href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/">Oppbygning av en oppgave</a></li>
+		<li id="menu-item-5721"><a title="Redegjør og drøft" href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/redegjor-og-droft/">Redegjør og drøft</a></li>
+		<li id="menu-item-5722"><a title="Å argumentere i egen tekst" href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/a-argumenterere-i-egen-tekst/">Å argumentere i egen tekst</a></li>
+		<li id="menu-item-5723"><a title="IMRoD-modellen" href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/imrod-modellen/">IMRoD-modellen</a></li>
+	</ul>
+</li>
+	<li id="menu-item-566"><a title="Akademisk språk og stil" href="https://sokogskriv.no/skriving/sprak-og-stil/">Akademisk språk og stil</a>
+	<ul>
+		<li id="menu-item-5724"><a title="Å skrive ryddig" href="https://sokogskriv.no/skriving/sprak-og-stil/aa-skrive-ryddig/">Å skrive ryddig</a></li>
+		<li id="menu-item-5725"><a title="Å skape flyt" href="https://sokogskriv.no/skriving/sprak-og-stil/a-skape-flyt/">Å skape flyt</a></li>
+		<li id="menu-item-5726"><a title="Ikke-akademisk språk" href="https://sokogskriv.no/skriving/sprak-og-stil/ordbruk-vanlige-feil/">Ikke-akademisk språk</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1415"><a title="Formelle krav" href="https://sokogskriv.no/skriving/formelle-krav/">Formelle krav</a></li>
+	<li id="menu-item-2138"><a title="Formidling" href="https://sokogskriv.no/skriving/formidling/">Formidling</a></li>
+</ul>
+</li>
+<li id="menu-item-15"><a title="Kildebruk og referanser" href="https://sokogskriv.no/kildebruk-og-referanser/" class="dropdown-toggle" aria-haspopup="true">Kildebruk og referanser</a>
+<ul>
+	<li id="menu-item-1404"><a title="Hvordan referere?" href="https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/">Hvordan referere?</a>
+	<ul>
+		<li id="menu-item-5731"><a title="Hva refereres?" href="https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/hva-refereres/">Hva refereres?</a></li>
+		<li id="menu-item-5799"><a title="Forkortelser" href="https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/forkortelser/">Forkortelser</a></li>
+	</ul>
+</li>
+	<li id="menu-item-415"><a title="Hvorfor referere?" href="https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/">Hvorfor referere?</a>
+	<ul>
+		<li id="menu-item-5732"><a title="Etiske retningslinjer i akademia" href="https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/etiske-retningslinjer-i-akademia/">Etiske retningslinjer i akademia</a></li>
+		<li id="menu-item-5798"><a title="Opphavsrettslige forhold" href="https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/">Opphavsrettslige forhold</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1389"><a title="Referansestiler" href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/">Referansestiler</a>
+	<ul>
+		<li id="menu-item-5737"><a title="Chicago fotnoter" href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/chicago-fotnoter/">Chicago fotnoter</a></li>
+		<li id="menu-item-5739"><a title="Chicago forfatter-år" href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/">Chicago forfatter-år</a></li>
+		<li id="menu-item-5738"><a title="APA 6th" href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/apa-6th/">APA 6th</a></li>
+		<li id="menu-item-5795"><a title="Harvard" href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/harvard/">Harvard</a></li>
+		<li id="menu-item-5796"><a title="MLA" href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/mla/">MLA</a></li>
+		<li id="menu-item-5797"><a title="Vancouver" href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/vancouver/">Vancouver</a></li>
+	</ul>
+</li>
+	<li id="menu-item-570"><a title="Kildevurdering" href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/">Kildevurdering</a>
+	<ul>
+		<li id="menu-item-5733"><a title="Kvalitative vurderinger" href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/">Kvalitative vurderinger</a></li>
+		<li id="menu-item-5734"><a title="Vurdering av relevans" href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/">Vurdering av relevans</a>
+		<ul>
+			<li id="menu-item-5735"><a title="Kildesammenligning" href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/kildesammenligning/">Kildesammenligning</a></li>
+			<li id="menu-item-5736"><a title="Tekstanalyse" href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/tekstanalyse/">Tekstanalyse</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-301"><a title="Om Søk &amp; Skriv" href="https://sokogskriv.no/om-sok-skriv/" class="dropdown-toggle" aria-haspopup="true">Om Søk &amp; Skriv</a>
+<ul>
+	<li id="menu-item-4266"><a title="Søk &amp; Skriv i undervisning" href="https://sokogskriv.no/om-sok-skriv/sok-skriv-i-undervisning/">Søk &amp; Skriv i undervisning</a></li>
+	<li id="menu-item-306"><a title="Kategorier" href="https://sokogskriv.no/om-sok-skriv/kategorier/">Kategorier</a></li>
+	<li id="menu-item-4265"><a title="Rettigheter til Søk &amp; Skriv" href="https://sokogskriv.no/om-sok-skriv/rettigheter-til-sok-skriv/">Rettigheter til Søk &amp; Skriv</a></li>
+	<li id="menu-item-3830"><a title="Referanser" href="https://sokogskriv.no/om-sok-skriv/referanser/">Referanser</a></li>
+	<li id="menu-item-3626"><a title="Kontaktinformasjon" href="https://sokogskriv.no/om-sok-skriv/kontaktinformasjon/">Kontaktinformasjon</a></li>
+</ul>
+</li>
+</ul>
+			<!-- Script som gjør at menyen ser bra ut på alle skjermstørrelser -->
+			<script type="text/javascript">
+
+			var formText = $("#searchform")[0].outerHTML;
+	
+
+	
+				
+
+			$("#main-menu").last().append('<li class="mobile-search"> <span>Finner ikke det du leter etter?</span><br/> ' + formText + '</li>');
+
+
+					
+
+			</script>
+			<!---->
+		<!--</ul>-->   
+
+    </nav>
+
+
+    <!--<div class="navbar navbar-default hide-desktop hide-on-print">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+					<span class="sr-only">Toggle navigation </span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+
+									  <span class="navbar-brand">Meny</span>
+				  			</div>
+
+			<div class="collapse navbar-collapse" id="navbar-collapse">
+      			<ul class="nav navbar-nav">
+									</ul>
+
+									  Finner ikke det du leter etter?
+					
+
+
+
+																
+			</div>
+	</div>--><!-- .navbar -->
+
+
+	<nav class="hide-mobile hide-on-print">
+	    <!-- Script som gjør at menyen ser bra ut på alle skjermstørrelser -->
+		<script type="text/javascript">
+			function realign() {
+				var containerWidth = $( "#main" ).width();
+			    $( "nav" ).width(containerWidth);
+				$( "nav" ).css("padding-top", "");
+
+				$( ".fixed" ).width(containerWidth);
+			}
+			$( document ).ready(function() {
+				  realign();
+
+				  $( window ).resize(function() {
+					realign();
+				  });
+			});
+	    </script>
+
+		<h3 class="assistive-text">Primærmeny</h3>
+				<div class="skip-link"><a class="assistive-text" href="#content" title="Gå direkte til hovedinnholdet">Gå direkte til hovedinnholdet</a></div>
+		<div class="skip-link"><a class="assistive-text" href="#secondary" title="Gå direkte til sekundærinnholdet">Gå direkte til sekundærinnholdet</a></div>
+				<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-1402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1402"><a href="https://sokogskriv.no/soking/">Søking</a>
+<ul  class="sub-menu">
+	<li id="menu-item-417" class="soking menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://sokogskriv.no/soking/planlegg-soket-dit/">Planlegg søket ditt</a></li>
+	<li id="menu-item-5415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5415"><a href="https://sokogskriv.no/soking/soketeknikker/">Søketeknikker</a></li>
+	<li id="menu-item-1093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1093"><a href="https://sokogskriv.no/soking/utdypende-sok/">Systematisk søking</a></li>
+</ul>
+</li>
+<li id="menu-item-13" class="lesing menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13"><a href="https://sokogskriv.no/lesing/">Lesing</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1328"><a href="https://sokogskriv.no/lesing/lesemater/">Lesemåter</a></li>
+	<li id="menu-item-3542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3542"><a href="https://sokogskriv.no/lesing/lesing-og-skriving/">Lesing og skriving</a></li>
+	<li id="menu-item-3543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3543"><a href="https://sokogskriv.no/lesing/kollokvie/">Kollokvie</a></li>
+	<li id="menu-item-3544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3544"><a href="https://sokogskriv.no/lesing/argumentasjon-i-tekst/">Argumentasjon i tekst</a></li>
+	<li id="menu-item-1329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329"><a href="https://sokogskriv.no/lesing/hvordan-hente-noe-ut-av-en-tekst/">Akademiske sjangrer</a></li>
+</ul>
+</li>
+<li id="menu-item-14" class="skriving menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14"><a href="https://sokogskriv.no/skriving/">Skriving</a>
+<ul  class="sub-menu">
+	<li id="menu-item-640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://sokogskriv.no/skriving/skriveprosessen/">Skriveprosessen</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5727"><a href="https://sokogskriv.no/skriving/skriveprosessen/kom-i-gang-a-skrive/">Kom i gang å skrive</a></li>
+		<li id="menu-item-5730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5730"><a href="https://sokogskriv.no/skriving/skriveprosessen/skrivegrupper/">Skrivegrupper</a></li>
+	</ul>
+</li>
+	<li id="menu-item-567" class="skriving menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-567"><a href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/">Struktur og argumentasjon</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5720"><a href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/">Oppbygning av en oppgave</a></li>
+		<li id="menu-item-5721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5721"><a href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/redegjor-og-droft/">Redegjør og drøft</a></li>
+		<li id="menu-item-5722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5722"><a href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/a-argumenterere-i-egen-tekst/">Å argumentere i egen tekst</a></li>
+		<li id="menu-item-5723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5723"><a href="https://sokogskriv.no/skriving/struktur-og-argumentasjon/imrod-modellen/">IMRoD-modellen</a></li>
+	</ul>
+</li>
+	<li id="menu-item-566" class="skriving menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-566"><a href="https://sokogskriv.no/skriving/sprak-og-stil/">Akademisk språk og stil</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5724"><a href="https://sokogskriv.no/skriving/sprak-og-stil/aa-skrive-ryddig/">Å skrive ryddig</a></li>
+		<li id="menu-item-5725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5725"><a href="https://sokogskriv.no/skriving/sprak-og-stil/a-skape-flyt/">Å skape flyt</a></li>
+		<li id="menu-item-5726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5726"><a href="https://sokogskriv.no/skriving/sprak-og-stil/ordbruk-vanlige-feil/">Ikke-akademisk språk</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1415"><a href="https://sokogskriv.no/skriving/formelle-krav/">Formelle krav</a></li>
+	<li id="menu-item-2138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2138"><a href="https://sokogskriv.no/skriving/formidling/">Formidling</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="kilder menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15"><a href="https://sokogskriv.no/kildebruk-og-referanser/">Kildebruk og referanser</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1404"><a href="https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/">Hvordan referere?</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5731"><a href="https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/hva-refereres/">Hva refereres?</a></li>
+		<li id="menu-item-5799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5799"><a href="https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/forkortelser/">Forkortelser</a></li>
+	</ul>
+</li>
+	<li id="menu-item-415" class="kilder menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-415"><a href="https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/">Hvorfor referere?</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5732"><a href="https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/etiske-retningslinjer-i-akademia/">Etiske retningslinjer i akademia</a></li>
+		<li id="menu-item-5798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5798"><a href="https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/">Opphavsrettslige forhold</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1389"><a href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/">Referansestiler</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5737"><a href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/chicago-fotnoter/">Chicago fotnoter</a></li>
+		<li id="menu-item-5739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5739"><a href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/">Chicago forfatter-år</a></li>
+		<li id="menu-item-5738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5738"><a href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/apa-6th/">APA 6th</a></li>
+		<li id="menu-item-5795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5795"><a href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/harvard/">Harvard</a></li>
+		<li id="menu-item-5796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5796"><a href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/mla/">MLA</a></li>
+		<li id="menu-item-5797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5797"><a href="https://sokogskriv.no/kildebruk-og-referanser/referansestiler/vancouver/">Vancouver</a></li>
+	</ul>
+</li>
+	<li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-570"><a href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/">Kildevurdering</a>
+	<ul  class="sub-menu">
+		<li id="menu-item-5733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733"><a href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/">Kvalitative vurderinger</a></li>
+		<li id="menu-item-5734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5734"><a href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/">Vurdering av relevans</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-5735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5735"><a href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/kildesammenligning/">Kildesammenligning</a></li>
+			<li id="menu-item-5736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5736"><a href="https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/tekstanalyse/">Tekstanalyse</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-301"><a href="https://sokogskriv.no/om-sok-skriv/">Om Søk &amp; Skriv</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4266"><a href="https://sokogskriv.no/om-sok-skriv/sok-skriv-i-undervisning/">Søk &amp; Skriv i undervisning</a></li>
+	<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://sokogskriv.no/om-sok-skriv/kategorier/">Kategorier</a></li>
+	<li id="menu-item-4265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4265"><a href="https://sokogskriv.no/om-sok-skriv/rettigheter-til-sok-skriv/">Rettigheter til Søk &amp; Skriv</a></li>
+	<li id="menu-item-3830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3830"><a href="https://sokogskriv.no/om-sok-skriv/referanser/">Referanser</a></li>
+	<li id="menu-item-3626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3626"><a href="https://sokogskriv.no/om-sok-skriv/kontaktinformasjon/">Kontaktinformasjon</a></li>
+</ul>
+</li>
+</ul></div>	</nav><!-- #access -->
+	<!--</header>--><!-- #branding -->
+
+
+
+
+<!--<div id="main">-->
+	<!-- Spør oss - høyre meny -->
+
+	
+	    <div class="hide-mobile" id="send-spm">
+
+	       <a href="https://sokogskriv.no/send-spm"></a>
+
+	    </div>
+
+	    
+
+
+		<!-- Innhold begynner her -->
+
+		
+			<div id="main">  <!--  class="row" -->
+
+			<!--	<div class="col-sm-12">-->
+
+	<div id="primary">
+		<div id="content" role="main">
+
+			<article id="post-0" class="post error404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">Dette er litt flaut, ikke sant?</h1>
+				</header>
+
+				<div class="entry-content">
+					<p>Det synes ikke som at vi kan finne det du leter etter. Kanskje det hjelper å søke, eller å sjekke en av lenkene nedenfor.</p>
+
+						<form method="get" id="searchform" action="https://sokogskriv.no/">
+		<label for="s" class="assistive-text">Søk</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Søk" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Søk" />
+	</form>
+
+							<div class="widget widget_recent_entries">		<h2 class="widgettitle">Siste innlegg</h2>		<ul>
+					<li>
+				<a href="https://sokogskriv.no/hva-menes-med-a-ta-stilling-eller-diskutere-selvstendig/">Hva menes med å &#8216;ta stilling&#8217; eller &#8216;diskutere selvstendig&#8217;?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/hvordan-leser-man-filosofi-eller-argumenterende-tekster/">Hvordan leser man filosofi eller argumenterende tekster?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/hvordan-blir-man-en-god-skribent/">Hvordan blir man en god skribent?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/kva-kjenneteiknar-god-akademisk-kjeldebruk/">Kva kjenneteiknar god akademisk kjeldebruk?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/hvordan-bruke-informanter-som-kilde-i-akademisk-tekst/">Hvordan bruke informanter som kilde i akademisk tekst?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/hva-gjor-jeg-nar-jeg-reviderer-tekst/">Hva gjør jeg når jeg reviderer tekst?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/hva-skal-til-for-a-finne-noe-interessant-og-fruktbart-a-skrive-oppgave-om/">Hvordan finne noe interessant å skrive oppgave om?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/kva-er-forskjellen-pa-ei-god-og-ei-darleg-oppgave/">Kva er forskjellen på ei god og ei dårleg oppgåve?</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/kajsas-sandhyas-writing-club-short-version/">Kajsa’s &#038; Sandhya’s Writing Club – Short version</a>
+						</li>
+					<li>
+				<a href="https://sokogskriv.no/stine-bach-a-skrive-masteroppgave-i-spansk-og-latinamerikastudium-2/">Stine Bach – Å skrive masteroppgave i Spansk og Latinamerikastudium</a>
+						</li>
+				</ul>
+		</div>		
+					<div class="widget">
+						<h2 class="widgettitle">Mest brukte kategorier</h2>
+						<ul>
+							<li class="cat-item cat-item-141"><a href="https://sokogskriv.no/category/video/" title="Legge inn video som skal vise på forsiden.">Video</a> (16)
+</li>
+	<li class="cat-item cat-item-76"><a href="https://sokogskriv.no/category/skriving/" >Skriving</a> (15)
+<ul class='children'>
+	<li class="cat-item cat-item-77"><a href="https://sokogskriv.no/category/skriving/akademisk-skriving/" >Akademisk skriving</a> (7)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://sokogskriv.no/category/kildebruk-og-referanser/" >Kildebruk og referanser</a> (19)
+<ul class='children'>
+	<li class="cat-item cat-item-49"><a href="https://sokogskriv.no/category/kildebruk-og-referanser/referere-riktig/" >Referere</a> (10)
+	<ul class='children'>
+	<li class="cat-item cat-item-51"><a href="https://sokogskriv.no/category/kildebruk-og-referanser/referere-riktig/sitater/" >Sitater</a> (8)
+</li>
+	<li class="cat-item cat-item-52"><a href="https://sokogskriv.no/category/kildebruk-og-referanser/referere-riktig/referanseliste/" >Referanseliste</a> (8)
+</li>
+	<li class="cat-item cat-item-50"><a href="https://sokogskriv.no/category/kildebruk-og-referanser/referere-riktig/henvisninger/" >Henvisninger</a> (7)
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://sokogskriv.no/category/kildebruk-og-referanser/referansestiler/" >Referansestiler</a> (8)
+</li>
+	<li class="cat-item cat-item-24"><a href="https://sokogskriv.no/category/kildebruk-og-referanser/kildevurdering/" >Kildevurdering</a> (6)
+</li>
+</ul>
+</li>
+						</ul>
+					</div>
+
+					<div class="widget widget_archive"><h2 class="widgettitle">Arkiv</h2><p>Prøv å se i de månedlige arkivene. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Arkiv</label>
+		<select id="archives-dropdown--1" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Velg måned</option>
+				<option value='https://sokogskriv.no/2020/01/'> januar 2020 </option>
+	<option value='https://sokogskriv.no/2017/12/'> desember 2017 </option>
+	<option value='https://sokogskriv.no/2016/01/'> januar 2016 </option>
+	<option value='https://sokogskriv.no/2015/04/'> april 2015 </option>
+	<option value='https://sokogskriv.no/2015/03/'> mars 2015 </option>
+	<option value='https://sokogskriv.no/2015/02/'> februar 2015 </option>
+	<option value='https://sokogskriv.no/2015/01/'> januar 2015 </option>
+
+		</select>
+		</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Stikkord</h2><div class="tagcloud"><a href="https://sokogskriv.no/tag/argumentasjon/" class="tag-cloud-link tag-link-120 tag-link-position-1" style="font-size: 11.876923076923pt;" aria-label="Argumentasjon (2 elementer)">Argumentasjon</a>
+<a href="https://sokogskriv.no/tag/boolske-operatorer/" class="tag-cloud-link tag-link-130 tag-link-position-2" style="font-size: 8pt;" aria-label="boolske operatorer (1 element)">boolske operatorer</a>
+<a href="https://sokogskriv.no/tag/boolske-sok/" class="tag-cloud-link tag-link-129 tag-link-position-3" style="font-size: 8pt;" aria-label="boolske søk (1 element)">boolske søk</a>
+<a href="https://sokogskriv.no/tag/databaser/" class="tag-cloud-link tag-link-136 tag-link-position-4" style="font-size: 8pt;" aria-label="databaser (1 element)">databaser</a>
+<a href="https://sokogskriv.no/tag/drofting/" class="tag-cloud-link tag-link-137 tag-link-position-5" style="font-size: 8pt;" aria-label="drøfting (1 element)">drøfting</a>
+<a href="https://sokogskriv.no/tag/eksempler/" class="tag-cloud-link tag-link-139 tag-link-position-6" style="font-size: 8pt;" aria-label="eksempler (1 element)">eksempler</a>
+<a href="https://sokogskriv.no/tag/emneord/" class="tag-cloud-link tag-link-131 tag-link-position-7" style="font-size: 11.876923076923pt;" aria-label="emneord (2 elementer)">emneord</a>
+<a href="https://sokogskriv.no/tag/forfatter-ar/" class="tag-cloud-link tag-link-179 tag-link-position-8" style="font-size: 14.461538461538pt;" aria-label="forfatter-år (3 elementer)">forfatter-år</a>
+<a href="https://sokogskriv.no/tag/formatering/" class="tag-cloud-link tag-link-152 tag-link-position-9" style="font-size: 8pt;" aria-label="formatering (1 element)">formatering</a>
+<a href="https://sokogskriv.no/tag/formelle-krav/" class="tag-cloud-link tag-link-150 tag-link-position-10" style="font-size: 8pt;" aria-label="formelle krav (1 element)">formelle krav</a>
+<a href="https://sokogskriv.no/tag/forskningsetikk/" class="tag-cloud-link tag-link-167 tag-link-position-11" style="font-size: 11.876923076923pt;" aria-label="forskningsetikk (2 elementer)">forskningsetikk</a>
+<a href="https://sokogskriv.no/tag/henvisning/" class="tag-cloud-link tag-link-157 tag-link-position-12" style="font-size: 22pt;" aria-label="henvisning (8 elementer)">henvisning</a>
+<a href="https://sokogskriv.no/tag/idemyldring/" class="tag-cloud-link tag-link-145 tag-link-position-13" style="font-size: 8pt;" aria-label="idémyldring (1 element)">idémyldring</a>
+<a href="https://sokogskriv.no/tag/informasjon/" class="tag-cloud-link tag-link-123 tag-link-position-14" style="font-size: 8pt;" aria-label="informasjon (1 element)">informasjon</a>
+<a href="https://sokogskriv.no/tag/informasjonsbehov/" class="tag-cloud-link tag-link-125 tag-link-position-15" style="font-size: 8pt;" aria-label="informasjonsbehov (1 element)">informasjonsbehov</a>
+<a href="https://sokogskriv.no/tag/kildehenvisning/" class="tag-cloud-link tag-link-160 tag-link-position-16" style="font-size: 20.923076923077pt;" aria-label="kildehenvisning (7 elementer)">kildehenvisning</a>
+<a href="https://sokogskriv.no/tag/kildekritikk/" class="tag-cloud-link tag-link-111 tag-link-position-17" style="font-size: 11.876923076923pt;" aria-label="Kildekritikk (2 elementer)">Kildekritikk</a>
+<a href="https://sokogskriv.no/tag/kildevurdering/" class="tag-cloud-link tag-link-121 tag-link-position-18" style="font-size: 14.461538461538pt;" aria-label="Kildevurdering (3 elementer)">Kildevurdering</a>
+<a href="https://sokogskriv.no/tag/kvalitativ-vurdering/" class="tag-cloud-link tag-link-110 tag-link-position-19" style="font-size: 8pt;" aria-label="Kvalitativ vurdering (1 element)">Kvalitativ vurdering</a>
+<a href="https://sokogskriv.no/tag/lesestrategier/" class="tag-cloud-link tag-link-180 tag-link-position-20" style="font-size: 11.876923076923pt;" aria-label="lesestrategier (2 elementer)">lesestrategier</a>
+<a href="https://sokogskriv.no/tag/linjeavstand/" class="tag-cloud-link tag-link-154 tag-link-position-21" style="font-size: 8pt;" aria-label="linjeavstand (1 element)">linjeavstand</a>
+<a href="https://sokogskriv.no/tag/marger/" class="tag-cloud-link tag-link-155 tag-link-position-22" style="font-size: 8pt;" aria-label="marger (1 element)">marger</a>
+<a href="https://sokogskriv.no/tag/oppgaveskriving/" class="tag-cloud-link tag-link-140 tag-link-position-23" style="font-size: 8pt;" aria-label="oppgaveskriving (1 element)">oppgaveskriving</a>
+<a href="https://sokogskriv.no/tag/oppsett/" class="tag-cloud-link tag-link-151 tag-link-position-24" style="font-size: 8pt;" aria-label="oppsett (1 element)">oppsett</a>
+<a href="https://sokogskriv.no/tag/oppstartsteknikker/" class="tag-cloud-link tag-link-144 tag-link-position-25" style="font-size: 8pt;" aria-label="oppstartsteknikker (1 element)">oppstartsteknikker</a>
+<a href="https://sokogskriv.no/tag/overskrifter/" class="tag-cloud-link tag-link-153 tag-link-position-26" style="font-size: 8pt;" aria-label="overskrifter (1 element)">overskrifter</a>
+<a href="https://sokogskriv.no/tag/plagiat/" class="tag-cloud-link tag-link-165 tag-link-position-27" style="font-size: 11.876923076923pt;" aria-label="plagiat (2 elementer)">plagiat</a>
+<a href="https://sokogskriv.no/tag/problemstilling/" class="tag-cloud-link tag-link-148 tag-link-position-28" style="font-size: 8pt;" aria-label="problemstilling (1 element)">problemstilling</a>
+<a href="https://sokogskriv.no/tag/redegjorelse/" class="tag-cloud-link tag-link-138 tag-link-position-29" style="font-size: 8pt;" aria-label="redegjørelse (1 element)">redegjørelse</a>
+<a href="https://sokogskriv.no/tag/referansestil/" class="tag-cloud-link tag-link-161 tag-link-position-30" style="font-size: 14.461538461538pt;" aria-label="referansestil (3 elementer)">referansestil</a>
+<a href="https://sokogskriv.no/tag/referering/" class="tag-cloud-link tag-link-158 tag-link-position-31" style="font-size: 20.923076923077pt;" aria-label="referering (7 elementer)">referering</a>
+<a href="https://sokogskriv.no/tag/sitat/" class="tag-cloud-link tag-link-162 tag-link-position-32" style="font-size: 18.338461538462pt;" aria-label="sitat (5 elementer)">sitat</a>
+<a href="https://sokogskriv.no/tag/siteringer/" class="tag-cloud-link tag-link-132 tag-link-position-33" style="font-size: 20.923076923077pt;" aria-label="siteringer (7 elementer)">siteringer</a>
+<a href="https://sokogskriv.no/tag/sjanger/" class="tag-cloud-link tag-link-122 tag-link-position-34" style="font-size: 8pt;" aria-label="Sjanger (1 element)">Sjanger</a>
+<a href="https://sokogskriv.no/tag/skriveprosess/" class="tag-cloud-link tag-link-147 tag-link-position-35" style="font-size: 8pt;" aria-label="skriveprosess (1 element)">skriveprosess</a>
+<a href="https://sokogskriv.no/tag/systematisk-soking/" class="tag-cloud-link tag-link-133 tag-link-position-36" style="font-size: 8pt;" aria-label="systematisk søking (1 element)">systematisk søking</a>
+<a href="https://sokogskriv.no/tag/sokehistorikk/" class="tag-cloud-link tag-link-134 tag-link-position-37" style="font-size: 8pt;" aria-label="søkehistorikk (1 element)">søkehistorikk</a>
+<a href="https://sokogskriv.no/tag/sokeord/" class="tag-cloud-link tag-link-127 tag-link-position-38" style="font-size: 8pt;" aria-label="søkeord (1 element)">søkeord</a>
+<a href="https://sokogskriv.no/tag/soketermer/" class="tag-cloud-link tag-link-135 tag-link-position-39" style="font-size: 8pt;" aria-label="søketermer (1 element)">søketermer</a>
+<a href="https://sokogskriv.no/tag/soking/" class="tag-cloud-link tag-link-124 tag-link-position-40" style="font-size: 11.876923076923pt;" aria-label="søking (2 elementer)">søking</a>
+<a href="https://sokogskriv.no/tag/tabell/" class="tag-cloud-link tag-link-128 tag-link-position-41" style="font-size: 8pt;" aria-label="tabell (1 element)">tabell</a>
+<a href="https://sokogskriv.no/tag/tema/" class="tag-cloud-link tag-link-149 tag-link-position-42" style="font-size: 8pt;" aria-label="tema (1 element)">tema</a>
+<a href="https://sokogskriv.no/tag/tenkeskriving/" class="tag-cloud-link tag-link-146 tag-link-position-43" style="font-size: 8pt;" aria-label="tenkeskriving (1 element)">tenkeskriving</a>
+<a href="https://sokogskriv.no/tag/toulmin-modellen/" class="tag-cloud-link tag-link-12 tag-link-position-44" style="font-size: 8pt;" aria-label="Toulmin-modellen (1 element)">Toulmin-modellen</a>
+<a href="https://sokogskriv.no/tag/trunkering/" class="tag-cloud-link tag-link-126 tag-link-position-45" style="font-size: 8pt;" aria-label="trunkering (1 element)">trunkering</a></div>
+</div>
+				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			</div><!-- close .*-inner (main-content or sidebar, depending if sidebar is used) -->
+
+	<!--	</div>--><!-- close .row -->
+
+
+
+	<footer id="colophon" role="contentinfo">
+				
+		<div class="menu-footer">
+			<ul class="row menu" id="menu-meta-menu">
+							</ul>
+		</div>
+
+		<div id="site-generator">
+			<ul id="collab">
+				<!--<li class="nhh"><img src="/images/logos/NHH.jpg"><a href="http://www.nhh.no/">NHH - Norges handelshøyskole</a></li>-->
+				<li class="hib"><a href="http://www.hvl.no/" target="_blank"><img src="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/images/logos/HVL.jpg" alt="HVL - Høgskulen på Vestlandet" ></a></li>
+				<li class="uib"><a href="http://www.uib.no/" target="_blank"><img src="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/images/logos/UIB.jpg" alt="UiB - Universitetet i Bergen" ></a></li>
+				<li class="uio"><a href="http://www.uio.no/" target="_blank"><img src="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/images/logos/UIO.jpg" alt="UiO - Universitetet i Oslo" ></a></li>
+				<li class="nb"><a href="http://www.nb.no/" target="_blank"><img src="https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/images/logos/NB.jpg" alt="NB - Nasjonalbiblioteket"></a></li>
+				<!--<li class="nhh col-lg-1"><img src="/images/logos/NHH.jpg"><a href="http://www.nhh.no/">NHH - Norges handelshøyskole</a></li>
+				<li class="hib col-lg-2"><img src="/images/logos/HVL.jpg"><a href="http://www.hib.no/">HVL - Høgskulen på Vestlandet</a></li>
+				<li class="nb col-lg-2"><img src="/images/logos/NB.jpg"><a href="http://www.nb.no/">NB - Nasjonalbiblioteket</a></li>
+				<li class="uib col-lg-2"><img src="/images/logos/UIB.jpg"><a href="http://www.uib.no/">UiB - Universitetet i Bergen</a></li>
+				<li class="uio col-lg-2"><img src="/images/logos/UIO.jpg"><a href="http://www.uio.no/">UiO - Universitetet i Oslo</a></li>-->
+			</ul>
+		</div>
+
+	</footer><!-- #colophon -->
+
+	</div><!-- close .main -->
+</div><!-- #page -->
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-69474-9']);
+  _gaq.push (['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74198226-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/themes/SokOgSkriv2018Theme/scripts/jquery.placeholder.min.js?ver=1.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"smooth_scroll":"1","visibility_show":"Vis","visibility_hide":"Skjul","width":"275px"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/sokogskriv.no\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8.1'></script>
+<script type='text/javascript' src='https://sokogskriv.no/wp-includes/js/wp-embed.min.js?ver=4.8'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	
+	//Calculate the height of <header>
+	//Use outerHeight() instead of height() if have padding
+    var aboveHeight = $('header').outerHeight();
+	
+	// when scroll
+    $(window).scroll(function(){
+		
+		//if scrolled down more than the header's height
+        if ($(window).scrollTop() > aboveHeight){
+			
+			// if yes, add "fixed" class to the <nav>
+			// add padding top to the #content (value is same as the height of the nav)
+            $('nav').addClass('fixed').css('top','0').next().css('padding-top','39px');
+        } else {
+			
+			// when scroll up or less than aboveHeight, remove the "fixed" class, and the padding-top
+            $('nav').removeClass('fixed').next().css('padding-top','0');
+        }
+    });
+});
+</script>
+</body>
+</html>
