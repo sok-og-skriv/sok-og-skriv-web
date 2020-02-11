@@ -27,11 +27,11 @@ module.exports = {
           { text: 'Lesing', link: '/lesing/' },
           { text: 'Skriving', link: '/skriving/' },
           { text: 'Kildebruk og referanser', link: '/kildebruk-og-referanser/' },
-          { text: 'Blog', link: '/blog/' },
           {
             text: 'Om',
             ariaLabel: 'Om Søk og skriv meny',
             items: [
+              { text: 'Blog', link: '/blog/' },
               { text: 'Kontaktinformasjon', link: '/om/kontaktinformasjon/' },
               { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
               { text: 'Rettigheter', link: '/om/rettigheter-til-sok-og-skriv/' },
@@ -119,8 +119,11 @@ module.exports = {
             'kildevurdering'
           ],
           '/': [
-            '',
-            '/om/'
+            '/om/',
+            '/blog/',
+            '/om/kontaktinformasjon',
+            '/om/rettigheter-til-sok-og-skriv',
+            '/om/referanser'
           ]
         }
       },
@@ -133,14 +136,14 @@ module.exports = {
           { text: 'Reading', link: '/en/reading/' },
           { text: 'Writing', link: '/en/writing/' },
           { text: 'Sources and referencing', link: '/en/sources-and-referencing/' },
-          { text: 'Blog', link: '/en/blog/' },
           {
             text: 'About',
             ariaLabel: 'About Search and write menu',
             items: [
-              { text: 'Contact', link: '/about/contact-us/' },
-              { text: 'Rights', link: '/about/copyright-for-search-and-write/' },
-              { text: 'References', link: '/about/references/' }
+              { text: 'Blog', link: '/en/blog/' },
+              { text: 'Contact', link: '/en/about/contact-us/' },
+              { text: 'Rights', link: '/en/about/copyright-for-search-and-write/' },
+              { text: 'References', link: '/en/about/references/' }
             ]
           }
         ],
@@ -149,7 +152,7 @@ module.exports = {
             '',
             'plan-your-searches',
             'searching-techniques',
-            'in-depth-searching',
+            'systematic-searching',
           ],
           '/en/reading/': [
             '',
@@ -212,14 +215,18 @@ module.exports = {
             {
               title: 'Source evaluation',
               children: [
+                'source-evaluation',
                 'qualitative-evaluation',
                 'assessing-relevance'
               ]
             }
           ],
           '/en/': [
-            '',
-            '/en/about/'
+            '/en/about/',
+            '/en/blog/',
+            '/en/about/contact-information',
+            '/en/about/copyright-for-search-and-write',
+            '/en/about/references'
           ]
         }
       }

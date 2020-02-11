@@ -54,123 +54,31 @@ Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål 2:
 
 Alle store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord av gangen for så å [kombinere søkene](/soking/utdypende-sok/kombinasjon-av-sokeord/ "Kombinasjon av søkeord") med AND, OR eller NOT i søkehistorikken.
 
-EKSEMPEL: Systematisk søk presentert via søkehistorikken.
-
+::: details EKSEMPEL: Systematisk søk presentert via søkehistorikken.
 Her presenteres søkehistorikken til et søk på spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
 
 Søket er tatt i databasen Medline-Ovid 1996 og opp til i dag. Dato for søket: 04.04.14
 
-Searches
-
-Results
-
-1
-
-exp Diabetes Mellitus, Type 1/
-
-35330
-
-2
-
-(insulin adj dependent).tw.
-
-10687
-
-3
-
-1 or 2
-
-41759
-
-4
-
-(youth or teenager\* or adolescent\* or child\*).tw.
-
-591106
-
-5
-
-exp Adolescent/
-
-821820
-
-6
-
-exp Child/
-
-721155
-
-7
-
-4 or 5 or 6
-
-1307311
-
-8
-
-exp "Quality of Life"/
-
-98652
-
-9
-
-(quality adj2 life).tw.
-
-118348
-
-10
-
-(life adj quality).tw.
-
-2843
-
-11
-
-(well adj being).tw.
-
-28740
-
-12
-
-Wellness.tw.
-
-3183
-
-13
-
-8 or 9 or 10 or 11 or 12
-
-174420
-
-14
-
-exp Insulin Infusion Systems/
-
-1794
-
-15
-
-(infusion adj pump\*).tw.
-
-1266
-
-16
-
-exp Infusion Pumps/
-
-6397
-
-17
-
-14 or 15 or 16
-
-7034
-
-18
-
-3 and 7 and 13 and 17
-
-100
+| #        | Searches                                          | Results |
+|----------|---------------------------------------------------|---------|
+| 1        | exp Diabetes Mellitus, Type 1/                    | 35330   |
+| 2        | (insulin adj dependent).tw.                       | 10687   |
+| 3        | 1 or 2                                            | 41759   |
+| 4        | (youth or teenager* or adolescent* or child*).tw. | 591106  |
+| 5        | exp Adolescent/                                   | 821820  |
+| 6        | exp Child/                                        | 721155  |
+| 7        | 4 or 5 or 6                                       | 1307311 |
+| 8        | exp «Quality of Life»/                            | 98652   |
+| 9        | (quality adj2 life).tw.                           | 118348  |
+| 10       | (life adj quality).tw.                            | 2843    |
+| 11       | (well adj being).tw.                              | 28740   |
+| 12       | Wellness.tw.                                      | 3183    |
+| 13       | 8 or 9 or 10 or 11 or 12                          | 174420  |
+| 14       | exp Insulin Infusion Systems/                     | 1794    |
+| 15       | (infusion adj pump*).tw.                          | 1266    |
+| 16       | exp Infusion Pumps/                               | 6397    |
+| 17       | 14 or 15 or 16                                    | 7034    |
+| 18       | 3 and 7 and 13 and 17                             | 100     |
 
 Forklaringer til søkehistorikken:
 
@@ -178,6 +86,7 @@ Forklaringer til søkehistorikken:
 - exp: explode viser at underordnede termer er tatt med
 - tw : viser at dette er et søk på tekstord (text word) som hentes fra tittel eller sammendrag av artikkelen (ikke fra MeSH)
 - adj: søketermene skal opptre som en frase, det vil si rett etter hverandre og i gitt rekkefølge
+:::
 
 ## Gjennomgang av søkeresultatet
 
