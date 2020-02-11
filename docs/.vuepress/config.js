@@ -208,7 +208,7 @@ module.exports = {
                 'intellectual-property-rights'
               ]
             },
-            'Reference styles',
+            'reference-styles',
             {
               title: 'Source evaluation',
               children: [

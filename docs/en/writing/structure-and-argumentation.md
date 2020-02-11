@@ -16,6 +16,6 @@ In a good thesis:
 - The findings are duly presented
 - The conclusion follows logically from the argumentation
 
-There are many different ways to structure a thesis. While the [IMRaD](/en/writing/structure/the-imrad-format/) format is widely used in health care and the natural sciences, formats are more flexible in the social sciences and humanities.
+There are many different ways to structure a thesis. While the [IMRaD](/en/writing/the-imrad-format/) format is widely used in health care and the natural sciences, formats are more flexible in the social sciences and humanities.
 
 There are many excellent publications on thesis writing.
