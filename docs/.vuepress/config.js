@@ -21,6 +21,7 @@ module.exports = {
     locales: {
       '/': {
         selectText: 'Språk',
+        lastUpdated: 'Oppdatert',
         home: 'true',
         nav: [
           { text: 'Søking', link: '/soking/' },
@@ -130,6 +131,7 @@ module.exports = {
       '/en/': {
         selectText: 'Languages',
         sidebar: 'auto',
+        lastUpdated: 'Last Updated',
         home: 'true',
         nav: [
           { text: 'Searching', link: '/en/searching/' },
