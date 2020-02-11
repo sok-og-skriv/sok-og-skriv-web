@@ -22,17 +22,12 @@ module.exports = {
       '/': {
         selectText: 'Språk',
         home: 'true',
-        serviceWorker: {
-          updatePopup: {
-            message: 'New content is available.',
-            buttonText: 'Refresh'
-          }
-        },
         nav: [
           { text: 'Søking', link: '/soking/' },
           { text: 'Lesing', link: '/lesing/' },
           { text: 'Skriving', link: '/skriving/' },
           { text: 'Kildebruk og referanser', link: '/kildebruk-og-referanser/' },
+          { text: 'Blog', link: '/blog/' },
           {
             text: 'Om',
             ariaLabel: 'Om Søk og skriv meny',
@@ -133,42 +128,105 @@ module.exports = {
         selectText: 'Languages',
         sidebar: 'auto',
         home: 'true',
-        serviceWorker: {
-          updatePopup: {
-            message: 'New content is available.',
-            buttonText: 'Refresh'
-          }
-        },
         nav: [
           { text: 'Searching', link: '/en/searching/' },
           { text: 'Reading', link: '/en/reading/' },
           { text: 'Writing', link: '/en/writing/' },
-          { text: 'Sources and referencing', link: '/en/sources-and-referencing/' }
+          { text: 'Sources and referencing', link: '/en/sources-and-referencing/' },
+          { text: 'Blog', link: '/en/blog/' },
+          {
+            text: 'About',
+            ariaLabel: 'About Search and write menu',
+            items: [
+              { text: 'Contact', link: '/about/contact-us/' },
+              { text: 'Rights', link: '/about/copyright-for-search-and-write/' },
+              { text: 'References', link: '/about/references/' }
+            ]
+          }
         ],
         sidebar: {
+          '/en/searching/': [
+            '',
+            'plan-your-searches',
+            'searching-techniques',
+            'in-depth-searching',
+          ],
+          '/en/reading/': [
+            '',
+            'ways-of-reading',
+            'reading-and-writing',
+            'study-groups',
+            'argumentation-in-text',
+            'academic-genres'
+          ],
+          '/en/writing/': [
+            '',
+            {
+              title: 'Structure and argumentation',
+              children: [
+                'structure-and-argumentation',
+                'structuring-a-thesis',
+                'crafting-an-argument',
+                'the-imrad-format'
+              ]
+            },
+            {
+              title: 'Language and style',
+              children: [
+                'language-and-style',
+                'organising-your-writing',
+                'flow',
+                'non-academic-language'
+              ]
+            },
+            {
+              title: 'The writing process',
+              children: [
+                'the-writing-process',
+                'start-writing',
+                'writing-groups'
+              ]
+            },
+            'formal-requirements',
+            'disseminating-your-thesis',
+          ],
+          '/en/sources-and-referencing/': [
+            '',
+            {
+              title: 'How to cite?',
+              children: [
+                'how-to-cite',
+                'what-to-cite',
+                'abbreviations'
+              ]
+            },
+            {
+              title: 'Why cite sources?',
+              children: [
+                'why-cite-sources',
+                'guidelines-on-academic-ethics',
+                'intellectual-property-rights'
+              ]
+            },
+            'Reference styles',
+            {
+              title: 'Source evaluation',
+              children: [
+                'qualitative-evaluation',
+                'assessing-relevance'
+              ]
+            }
+          ],
           '/en/': [
-            '/en/',
-            '/en/about-search-write',
+            '',
+            '/en/about/'
           ]
         }
       }
-    },
-      /* head: [
-        ['link', { rel: 'icon', href: `/logo.png` }],
-        ['link', { rel: 'manifest', href: '/manifest.json' }],
-        ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-        ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-        ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-        ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
-        ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
-        ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
-        ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
-      ], */
+    }
   },
   markdown: {
     plugins: [
-      'vuepress-plugin-export',
-      '@vuepress/back-to-top'
     ],
     extendMarkdown: md => {
       // use more markdown-it plugins!
@@ -176,5 +234,33 @@ module.exports = {
         youtube: { width: 640, height: 390 }
       }))
     }
-  } 
+  },
+  plugins: [
+    'vuepress-plugin-export',
+    ['@vuepress/back-to-top', true],
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: {
+        '/': {
+          message: "Nytt innhold er tilgjenglig.",
+          buttonText: "Last inn på nytt"
+        },
+        '/en/': {
+          message: "New content is available.",
+          buttonText: "Refresh"
+        }
+      }
+    }]
+  ],
+  head: [
+    /* ['link', { rel: 'icon', href: `/sokogskriv2013.png` }], */
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['meta', { name: 'theme-color', content: '#4daebf' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+  ],
 }
