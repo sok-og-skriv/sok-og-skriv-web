@@ -27,7 +27,9 @@ Opphavsretten verner verkets konkrete utforming. Den verner ikke ideer, kunnskap
 
 Opphaver har ansvar for at innhold i verket følger [etiske retningslinjer](/kildebruk-og-referanser/sitering-og-etikk/etiske-retningslinjer-i-akademia/ "Etiske retningslinjer i akademia") så lenge det ikke finnes særskilte retningslinjer som overfører dette til andre. Opphaver har i utgangspunktet råderetten etter åndsverkloven, dette inkluderer også retten til å klausulere egne åndsverk. Dermed har studenten eller forskeren selv det endelige ansvaret for å vurdere i hvilken grad tilgjengeliggjøring kan komme i konflikt med patentering og videre publisering. Det vil likevel være lurt å lytte til råd fra veileder og forskermiljø. Fortrinnsvis bør oppgaven skrives på en slik måte at man unngår klausulering.
 
-\[caption id="attachment\_3300" align="alignleft" width="300"\][![opphavsrett_jus_30](../images/opphavsrett_jus_30-300x300.jpg)](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/opphavsrett_jus_30/) _Norges Lover, Ill.foto:UiB_\[/caption\]
+[![opphavsrett_jus_30](../images/opphavsrett_jus_30-300x300.jpg)](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/opphavsrett_jus_30/) 
+
+_Norges Lover, Ill.foto:UiB_
 
 Brudd på åndsverkloven kan få alvorlige konsekvenser. Lær deg derfor korrekt [referering](/kildebruk-og-referanser/hvordan-referere/ "Hvordan referere?"), og avklar samarbeidsforhold med veileder og medstudenter for ikke å bli utnyttet eller mistenkt for [plagiering](/kildebruk-og-referanser/sitering-og-etikk/#Unng_plagiat "Hvorfor referere?").
 
@@ -57,7 +59,9 @@ Som del av billedteksten skriver du at tillatelse til gjengivelse er innhentet f
 
 I forbindelse med oppgaven din kan det hende at du vil sitere fra TV- eller radioprogrammer, bruke musikklipp, bilder eller illustrasjoner. [Sitatretten](#sitatretten) gjelder alle åndsverk. For gjengivelse må som oftest tillatelse hentes inn.
 
-\[caption id="attachment\_3296" align="aligncenter" width="233"\][![NANGO_trom-61s](../images/NANGO_trom-61s-233x300.jpg)](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/nango_trom-61s/) _Brita Olsdatter Nango, Kautokeino, 1883_.  Foto: Sophus Tromholt. Gjengitt med tillatelse fra Universitetsbiblioteket i Bergen.\[/caption\]
+[![NANGO_trom-61s](../images/NANGO_trom-61s-233x300.jpg)](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/nango_trom-61s/) _Brita Olsdatter Nango, Kautokeino, 1883_.
+
+_Foto: Sophus Tromholt. Gjengitt med tillatelse fra Universitetsbiblioteket i Bergen._
 
 For å kunne finne tilbake til kilden gir du informasjon om fotograf, tittel, eier, inventarnummer. Dette gjør du for eksempel som en del av billedteksten, en note eller i en liste over brukte bilder på slutten av din oppgave:
 

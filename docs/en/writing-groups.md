@@ -7,7 +7,7 @@ Writing a text such as a master’s thesis requires you to work steadily for an 
 
 University of Bergen PhD students Kajsa Parding and Sandhya Tiwari talk about their writing club, and how it has helped them with their thesis work.
 
-https://www.youtube.com/watch?v=pbH-PqsYxK8
+@[youtube](pbH-PqsYxK8)
 
 ## How to give and receive feedback
 
@@ -27,7 +27,9 @@ When it is your turn to give feedback, make sure that you:
 
 **Good feedback is specific, constructive and friendly.**
 
-\[caption id="attachment\_712" align="alignleft" width="300"\][![Studygroups](./images/Studygroups-300x226.jpg "Writing groups")](/en/writing/the-writing-process/writing-groups/studygroups/) Writing groups. Photo, UiB.\[/caption\]
+[![Studygroups](./images/Studygroups-300x226.jpg "Writing groups")](/en/writing/the-writing-process/writing-groups/studygroups/) 
+
+_Writing groups. Photo, UiB._
 
 When you receive feedback:
 

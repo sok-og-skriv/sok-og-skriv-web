@@ -7,7 +7,7 @@ date: "2012-04-19"
 
 I en tidlig fase kan det være nødvendig å orientere seg bredt for å avklare problemstilling, metode og tilnærming. Da kan det være nyttig å skumlese ulike kilder. Noen av kildene vil du ta med deg i det videre arbeidet, mens andre bare er nyttige i den innledende fasen.
 
-https://www.youtube.com/watch?v=KFbQV7If\_ZY&rel=0
+@[youtube](KFbQV7If_ZY)
 
 ## Finn bakgrunnsinformasjon
 

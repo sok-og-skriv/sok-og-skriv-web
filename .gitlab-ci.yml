@@ -7,6 +7,8 @@ pages:
 
   script:
   - npm install
+  #- npm run export
+  #- mv site.pdf public sokogskriv.pdf
   - npm run build
   artifacts:
     paths:

@@ -168,7 +168,9 @@ Bruker studenter og andre CC materiale, pass på at en også her navngir opphavs
 
 **Oppgave om bruk av bilder i oppgaver**
 
-\[caption id="attachment\_3515" align="alignleft" width="228"\][![IMG_0374(c)sandrajecmenica-web](./images/IMG_0374csandrajecmenica-web-200x300.jpg)](/wp-content/uploads/2013/09/IMG_0374csandrajecmenica-web.jpg) _Naturhistorisk museum_ Foto: Sandra Jecmenica © UiB\[/caption\]
+[![IMG_0374(c)sandrajecmenica-web](../images/IMG_0374csandrajecmenica-web-200x300.jpg)](/wp-content/uploads/2013/09/IMG_0374csandrajecmenica-web.jpg) 
+
+_Naturhistorisk museum. Foto: Sandra Jecmenica © UiB_
 
 - Hvordan krediterer du bildet over i en tekst? Vurder bildet til forskjellige formål (for eksempel akademisk oppgave, utstilling, katalog…)
 - Hvordan fører du det opp i en referanseliste?
@@ -212,7 +214,7 @@ Demonstrer en eller to aktuelle referansestiler som studentene ved institusjonen
 - Ulike typer oppslagsverk
 - Regler og forskrifter knyttet til juks og plagiat ved institusjonen
 
-Har du sett filmen [Et plagieringseventyr](http://www.youtube.com/watch?v=Mwbw9KF-ACY)? Den kan også brukes i undervisningssammenheng.
+Har du sett filmen [Et plagieringseventyr](https://www.youtube.com/watch?v=Mwbw9KF-ACY)? Den kan også brukes i undervisningssammenheng.
 
 Det er lurt å aktivisere studentene underveis med praktiske oppgaver. Vi har her skissert opp forslag til tre ulike oppgaver som kan gjøres underveis i kurset, og som belyser viktige aspekter ved god kildebruk.
 

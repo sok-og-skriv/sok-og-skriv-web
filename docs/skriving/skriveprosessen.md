@@ -9,15 +9,17 @@ Skriveprosessen består av faser som involverer informasjonssøking, lesing, tol
 
 Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord på - ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene faller på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
 
-https://www.youtube.com/watch?v=PMzaT9D1SsY
+@[youtube](PMzaT9D1SsY)
 
 Mange uerfarne skribenter tror ofte at de ikke kan begynne skrive før de har skaffet seg fullstendig klarhet og oversikt. De tror at gode tekster oppstår ved at man plasserer perfekte setninger etter hverandre. Dette betyr at det tar altfor lang tid å komme i gang. I virkeligheten må de aller fleste skrive teksten sin om igjen - opptil flere ganger. Å skrive godt, er ofte å skrive om.
 
-- [ Skriv!](?p=233)
--  Snakk med medstudenter om oppgaven du skal skrive
--  Lag [skrivegrupper](?p=1216) for å holde skriveprosessen i gang, både din egen og andres.
+* [Skriv!](?p=233)
+* Snakk med medstudenter om oppgaven du skal skrive
+* Lag [skrivegrupper](?p=1216) for å holde skriveprosessen i gang, både din egen og andres.
     
-    \[caption id="attachment\_3264" align="alignnone" width="300"\][![Snakk_ny](../images/Snakk_ny-300x240.jpg)](/skriving/skriving-er-en-prosess/snakk_ny/) _Snakk med andre om oppgaven din, ill.foto UiB._\[/caption\]
+[![Snakk_ny](../images/Snakk_ny-300x240.jpg)](/skriving/skriving-er-en-prosess/snakk_ny/) 
+
+_Snakk med andre om oppgaven din, ill.foto UiB._
     
 
 **Videre lesing**:  

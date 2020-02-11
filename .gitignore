@@ -58,3 +58,4 @@ typings/
 .env
 
 docs/.vuepress/dist
+site.pdf

@@ -15,4 +15,4 @@ I denne delen får du noen enkle råd om hvordan du kan gå fram når du leser, 
 
 God lesing!
 
-https://www.youtube.com/watch?v=JchpFI50UDk
+@[youtube](JchpFI50UDk)

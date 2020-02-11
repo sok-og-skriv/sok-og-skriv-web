@@ -13,5 +13,6 @@ I løpet av arbeidet med en akademisk tekst kan du formidle innholdet på ulike
 
 Husk at ulike fag stiller ulike krav. Rådene du får her er generelle, og må alltid sjekkes mot de spesielle kravene i faget.
 
-https://www.youtube.com/watch?v=GD1scK6R01A  
-https://www.youtube.com/watch?v=p3TFJyX5DJo
+@[youtube](GD1scK6R01A)
+
+@[youtube](p3TFJyX5DJo)

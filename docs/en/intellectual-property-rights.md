@@ -27,7 +27,9 @@ Intellectual property rights protect the formulation of a work. It does not prot
 
 Creators are responsible for ensuring that the contents of their work comply with [ethical guidelines](/en/sources-and-references/why-cite-sources/guidelines-on-academic-ethics/ "Ethical guidelines for academia"), unless there are specifically applicable guidelines that transfer this duty to others. In general the Copyright Act grants the creator of a work exclusive control, including the right to restrict access. Hence, the student or the researcher has the final responsibility to decide whether making their work freely available may conflict with patent considerations or further publication. In any event it is advisable to carefully consider the advice of supervisors and fellow researchers. Preferably, research papers should be written in a way that avoids having to restrict access to them.
 
-\[caption id="attachment\_1066" align="alignleft" width="300"\][![opphavsrett_jus_30](./images/opphavsrett_jus_30-300x300.jpg)](/en/files/2013/02/opphavsrett_jus_30.jpg) Norges lover. Photo: UiB\[/caption\]
+[![opphavsrett_jus_30](./images/opphavsrett_jus_30-300x300.jpg)](/en/files/2013/02/opphavsrett_jus_30.jpg) 
+
+_Norges lover. Photo: UiB_
 
 A breach of the Intellectual Property Rights Act can result in unpleasant consequences. Learn correct [referencing](/en/sources-and-references/how-to-cite/), and clarify the collaborative relationships between advisor and fellow students to avoid being exploited or accused of [plagiarism](/en/sources-and-references/why-cite-sources/).
 

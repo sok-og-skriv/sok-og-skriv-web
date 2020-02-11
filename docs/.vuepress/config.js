@@ -1,19 +1,19 @@
 module.exports = {
-  /* title: 'Søk og skriv', */
-  home: 'false',
+  title: 'Søk og skriv',
+  home: 'true',
   dest: 'public',
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
     '/': {
       lang: 'NO', // this will be set as the lang attribute on <html>
-      /* title: 'Søk og skriv', */
+      title: 'Søk og skriv',
       description: 'Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving, uavhengig av studiested og -emne',
     },
     '/en/': {
       lang: 'EN',
-      /* title: 'Search and write', */
-      /* description: '' */
+      title: 'Search and write',
+      description: 'Search & Write is for all students who want to learn more about information gathering and academic writing, independent of institution and subject area.'
     }
   },
   themeConfig: {
@@ -21,6 +21,7 @@ module.exports = {
     locales: {
       '/': {
         selectText: 'Språk',
+        home: 'true',
         serviceWorker: {
           updatePopup: {
             message: 'New content is available.',
@@ -31,7 +32,17 @@ module.exports = {
           { text: 'Søking', link: '/soking/' },
           { text: 'Lesing', link: '/lesing/' },
           { text: 'Skriving', link: '/skriving/' },
-          { text: 'Kildebruk og referanser', link: '/kildebruk-og-referanser/' }
+          { text: 'Kildebruk og referanser', link: '/kildebruk-og-referanser/' },
+          {
+            text: 'Om',
+            ariaLabel: 'Om Søk og skriv meny',
+            items: [
+              { text: 'Kontaktinformasjon', link: '/om/kontaktinformasjon/' },
+              { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
+              { text: 'Rettigheter', link: '/om/rettigheter-til-sok-og-skriv/' },
+              { text: 'Referanser', link: '/om/referanser/' }
+            ]
+          }
         ],
         sidebar: {
           '/soking/': [
@@ -114,13 +125,14 @@ module.exports = {
           ],
           '/': [
             '',
-            'om-sok-og-skriv'
+            '/om/'
           ]
         }
       },
       '/en/': {
         selectText: 'Languages',
         sidebar: 'auto',
+        home: 'true',
         serviceWorker: {
           updatePopup: {
             message: 'New content is available.',
@@ -129,7 +141,7 @@ module.exports = {
         },
         nav: [
           { text: 'Searching', link: '/en/searching/' },
-          { text: 'Seading', link: '/en/reading/' },
+          { text: 'Reading', link: '/en/reading/' },
           { text: 'Writing', link: '/en/writing/' },
           { text: 'Sources and referencing', link: '/en/sources-and-referencing/' }
         ],
@@ -152,5 +164,16 @@ module.exports = {
         ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
       ], */
+  },
+  markdown: {
+    plugins: [
+      'vuepress-plugin-export'
+    ],
+    extendMarkdown: md => {
+      // use more markdown-it plugins!
+      md.use(require('markdown-it-video', { // <-- this use(package_name) is required
+        youtube: { width: 640, height: 390 }
+      }))
     }
-  }
+  } 
+}

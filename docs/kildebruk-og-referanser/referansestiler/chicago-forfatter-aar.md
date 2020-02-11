@@ -287,7 +287,7 @@ Opphavsperson Etternavn, Fornavn (evt. navn på produksjonsselskap e.l.). «Titt
 
 Som visualisert av ArkikonAS (2011).
 
-ArkikonAS. «Bergen anno 1350. ver.1.» Video. Work in progress. 6:04. 31. august 2011. [http://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related](http://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related).
+ArkikonAS. «Bergen anno 1350. ver.1.» Video. Work in progress. 6:04. 31. august 2011. [https://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related](https://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related).
 
 ### Musikk/Auditive kilder
 

@@ -34,7 +34,9 @@ Når du har valgt en mal, er det viktig å bruke denne til all formatering av ov
 
 Når du arbeider med oppgaven i malen, vil innholdsfortegnelsen oppdateres med riktige sidetall, overskrifter, punktlister, figurer mv. Høyreklikk på innholdsfortegnelsen for å oppdatere, eller bruk meny. Se også [Microsofts hjelpesider om redigering av innholdsfortegnelse](https://support.office.com/en-us/article/format-or-customize-a-table-of-contents-9d85eb9c-0b55-4795-8abb-a49885b3a58d).
 
-\[caption id="attachment\_6052" align="alignnone" width="300"\][![](../images/Innholdsfortegnelse-300x148.png)](/wp-content/uploads/2018/08/Innholdsfortegnelse.png) Eksempel på innholdsfortegnelse\[/caption\]
+[![](../images/Innholdsfortegnelse-300x148.png)](/wp-content/uploads/2018/08/Innholdsfortegnelse.png) 
+
+_Eksempel på innholdsfortegnelse_
 
 ## Overskrifter
 
@@ -53,7 +55,9 @@ I tabeller, figurer, fotnoter og referanseliste kan du bruke mindre punktstørre
 
 Det skal aldri være mer enn ett mellomrom etter hvert ord eller tegn. Hvis du trenger større mellomrom (innrykk), bruk tabulatortasten:
 
-\[caption id="attachment\_5927" align="alignright" width="100"\][![](../images/tabulator-150x150.jpg)](/wp-content/uploads/2018/06/tabulator-e1529940693789.jpg) Illustrasjon: Colourbox\[/caption\]
+[![](../images/tabulator-150x150.jpg)](/wp-content/uploads/2018/06/tabulator-e1529940693789.jpg) 
+
+_Illustrasjon: Colourbox_
 
 ## Sidetall (paginering)
 
@@ -77,7 +81,7 @@ Dersom du bruker figurer og/eller tabeller i teksten, må disse kommenteres og f
 
 Vær oppmerksom på [opphavsrettslige forhold](https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) ved reproduksjon av andres bilder. Slik bruk er som regel ikke omfattet av sitatretten.
 
-\[caption id="attachment\_6100" align="alignnone" width="300"\][![](../images/figur-eksempel-300x221.png)](/wp-content/uploads/2012/06/figur-eksempel.png) Eksempel på bruk av figur. Hentet fra «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.\[/caption\]
+[![](../images/figur-eksempel-300x221.png)](/wp-content/uploads/2012/06/figur-eksempel.png) Eksempel på bruk av figur. Hentet fra «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.
 
 ## Noter
 

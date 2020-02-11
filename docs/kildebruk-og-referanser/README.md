@@ -13,4 +13,4 @@ Ta stilling til kildene du bruker i oppgaven, og forklar hvorfor du har valgt n
 
 For at leseren lett skal kunne finne igjen kildene dine, bruker du kildehenvisninger underveis i teksten og samler alle referansene til slutt i en referanseliste. Hensikten er både å gjøre det mulig å kontrollere opplysningene du bruker og å kunne slå opp og lese mer.
 
-https://www.youtube.com/watch?v=GPR0phJIsuk
+@[youtube](GPR0phJIsuk)

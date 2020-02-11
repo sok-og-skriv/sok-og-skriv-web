@@ -15,7 +15,8 @@ Inexperienced writers often think that they cannot start writing until they have
 - Talk to you fellow students, who probably share your experience
 - Form [writing groups](/en/writing/the-writing-process/writing-groups/ "Writing groups"), to keep up everybody´s individual writing process
 
-\[caption id="attachment\_710" align="alignnone" width="300"\][![Writingprocess](./images/Writingprocess-300x240.jpg "Writingprocess")](/en/writing/the-writing-process/writingprocess/) Discuss your task with fellow students. Photo, UiB.\[/caption\]
+[![Writingprocess](./images/Writingprocess-300x240.jpg "Writingprocess")](/en/writing/the-writing-process/writingprocess/)
+_Discuss your task with fellow students. Photo, UiB._
 
 Source  
 Bean, J. C. (1996) _Engaging ideas : the professor’s guide to integrating writing, critical thinking, and active learning in the classroom_. San Francisco, Calif.: Jossey-Bass.

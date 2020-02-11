@@ -5,7 +5,7 @@ date: "2012-05-16"
 
 Som student drives du ofte fram av et "hvorfor?". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre**.** Hun utforsker et fenomen, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.
 
-https://www.youtube.com/watch?v=FOwhrXNnHNI
+@[youtube](FOwhrXNnHNI)
 
 Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan være veldig klargjørende å sette ord på ideene dine. Hvorfor synes du at dette temaet er interessant? Hvilke problemstillinger ser du for deg? Hvordan kan problemstillingen(e) besvares? Hva ser du for deg at du vil komme fram til? Å presentere utkast for [medstudenter](?p=1216) er også en utmerket måte å komme i gang på.
 
@@ -56,7 +56,9 @@ Idémyldring er en privat tekst, som skal gi skrivelyst.
 - Skriv ned ideene slik de faller deg inn – vær spontan!
 - Se etter forbindelser og sammenhenger som kan markeres på kartet
 
-\[caption id="attachment\_4596" align="alignnone" width="900"\][![Tankekart om grønn markedsføring](../images/norsk-tankekart-små-bokstaver.png)](/wp-content/uploads/2012/11/norsk-tankekart-små-bokstaver.png) Tankekart om grønn markedsføring\[/caption\]
+[![Tankekart om grønn markedsføring](../images/norsk-tankekart-små-bokstaver.png)](/wp-content/uploads/2012/11/norsk-tankekart-små-bokstaver.png) 
+
+_Tankekart om grønn markedsføring_
 
 **Tips:**
 

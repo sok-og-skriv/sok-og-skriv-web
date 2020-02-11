@@ -5,8 +5,9 @@ date: "2012-09-05"
 
 Lengre tekster, som masteroppgaver, krever at du skriver jevnt og trutt. For å holde prosessen i gang, er er det klokt å la andre lese utkast underveis. Slik vil du også finne ut hvordan oppgaven din kommuniserer med en leser. Som medlem av en skrivegruppe kan du legge fram utkast, gi og få respons og finne støtte i et fellesskap av medstudenter. Skrivegruppen erstatter ikke veilederen, men er et supplement. En ideell skrivegruppe er en gruppe studenter i samme fag som er på ulike stadier i oppgaven. Er du allerede med i en kollokvie eller [lesegruppe](?p=2219) som fungerer godt, bruk den!
 
-Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin skrivegruppe i sluttfasen av doktorgradsarbeidet:  
-https://www.youtube.com/watch?v=pbH-PqsYxK8
+Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin skrivegruppe i sluttfasen av doktorgradsarbeidet:
+
+@[youtube](pbH-PqsYxK8)
 
 ## Hvordan gi og ta imot tilbakemelding i skrivegrupper?
 
@@ -37,7 +38,9 @@ Avtal å møtes jevnlig og møt alltid forberedt. Som medlem av en skrivegruppe 
 
 ## Verktøy for gruppearbeidet
 
-\[caption id="attachment\_3261" align="alignleft" width="300"\][![Studentgruppe6](../images/Studentgruppe6-300x226.jpg)](/skriving/skriving-er-en-prosess/skrivegrupper/studentgruppe6/) _Skrivegrupper, Ill.foto: UiB_\[/caption\]
+[![Studentgruppe6](../images/Studentgruppe6-300x226.jpg)](/skriving/skriving-er-en-prosess/skrivegrupper/studentgruppe6/) 
+
+_Skrivegrupper, Ill.foto: UiB_
 
 Om du i deltar i et gruppearbeid der dere skal levere en felles tekst finnes det flere [verktøy for samskriving](http://en.wikipedia.org/wiki/Collaborative_real-time_editor). Det  er ikke alltid like hensiktsmessig å bruke Word og e-post eller et læringsstøttesystem. Et verktøy som dere kan bruke i stedet er Docs & Spreadsheets i Google Drive. Dette er en gratis nettbasert tekstredigerer med lav brukerterskel.
 
