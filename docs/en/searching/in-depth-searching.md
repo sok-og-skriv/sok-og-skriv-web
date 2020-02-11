@@ -49,13 +49,13 @@ EXAMPLE: the application of PICO on two research questions from the health field
 
 Question 1: _Do children with diabetes cope better with their disease when treated by a specialist at home rather than at a hospital?_
 
-![pico1 eng](./images/pico1-eng1.png)
+![pico1 eng](../images/pico1-eng1.png)
 
 In this example, we are interested in the effect of the decision “home-based treatment” (**I**) in contrast to the effect of “hospital-based treatment” (**C**). We are interested in finding studies that compare the effect of these two decisions. The outcome we want to measure (**O**) is how these patient groups are coping with their disease.It is not always necessary to use all four elements of the PICO-form. Sometimes the research question may not have a clear intervention (**I**) part, or it may also lack the element of comparison (**C**), or there may not be any clearly formulated outcome (**O**). Question 2 below is an illustration of a research question that contains only **P** and **O**.
 
 Question 2: _How do diabetic children and adolescents who use insulin pumps perceive their quality of life?_
 
-[![Pico2 eng](./images/Pico2-eng.png)](/en/files/2013/02/Pico2-eng.png)
+[![Pico2 eng](../images/Pico2-eng.png)](/en/files/2013/02/Pico2-eng.png)
 
 In this example we take into consideration the patient groups from question 1, but now the question focuses only on diabetic children and adolescents who are already using an insulin pump. However, the question does not specify any decision or action that we intend to measure the effect of. Therefore, this question has neither **I** nor **C**. What we want to know is how these patients are experiencing their own situation (**O**).
 
@@ -68,7 +68,7 @@ In most databases you are expected to use English query terms. Language resource
 To make sure that you find all relevant publications in a database, you should include synonym terms in your search. When you use the term glossaries provided by some databases, synonym terms will be included automatically in your search. Regardless, it can be useful to supplement your search with query terms taken from keyword lists provided by authors and article abstracts.
 
 EXAMPLE: synonyms within a PICO-form.Below we illustrate a compiled PICO-form with synonym suggestions for question 2 _How do diabetic children and adolescents who use insulin pumps perceive their quality of life?_  
-[![pico3 eng](./images/pico3-eng.png)](/en/files/2013/02/pico3-eng.png)
+[![pico3 eng](../images/pico3-eng.png)](/en/files/2013/02/pico3-eng.png)
 
 ### Combining query terms
 

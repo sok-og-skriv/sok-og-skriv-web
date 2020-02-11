@@ -27,7 +27,7 @@ Intellectual property rights protect the formulation of a work. It does not prot
 
 Creators are responsible for ensuring that the contents of their work comply with [ethical guidelines](/en/sources-and-references/why-cite-sources/guidelines-on-academic-ethics/ "Ethical guidelines for academia"), unless there are specifically applicable guidelines that transfer this duty to others. In general the Copyright Act grants the creator of a work exclusive control, including the right to restrict access. Hence, the student or the researcher has the final responsibility to decide whether making their work freely available may conflict with patent considerations or further publication. In any event it is advisable to carefully consider the advice of supervisors and fellow researchers. Preferably, research papers should be written in a way that avoids having to restrict access to them.
 
-[![opphavsrett_jus_30](./images/opphavsrett_jus_30-300x300.jpg)](/en/files/2013/02/opphavsrett_jus_30.jpg) 
+[![opphavsrett_jus_30](../images/opphavsrett_jus_30-300x300.jpg)](/en/files/2013/02/opphavsrett_jus_30.jpg) 
 
 _Norges lover. Photo: UiB_
 
@@ -59,7 +59,7 @@ Your image caption should include information about permission from the copyrigh
 
 You may need to quote from TV or radio programmes, use clips of recorded music, or use pictures or illustrations in your thesis. The [right to quote](#quotation-right) applies to all copyright material. Reproduction, however, will usually require the permission of the copyright holder.
 
-[![NANGO_trom-61s](./images/NANGO_trom-61s-233x300.jpg)](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/nango_trom-61s/)
+[![NANGO_trom-61s](../images/NANGO_trom-61s-233x300.jpg)](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/nango_trom-61s/)
 
 _Brita Olsdatter Nango, Kautokeino 1883._ Photo: Sophus Tromholt. Reproduced with permission from the University Library at University of Bergen.
 

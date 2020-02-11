@@ -27,7 +27,7 @@ When it is your turn to give feedback, make sure that you:
 
 **Good feedback is specific, constructive and friendly.**
 
-[![Studygroups](./images/Studygroups-300x226.jpg "Writing groups")](/en/writing/the-writing-process/writing-groups/studygroups/) 
+[![Studygroups](../images/Studygroups-300x226.jpg "Writing groups")](/en/writing/the-writing-process/writing-groups/studygroups/) 
 
 _Writing groups. Photo, UiB._
 

@@ -23,7 +23,7 @@ Using the templates available in Word can save you time and effort. Word offers 
 
 When you have chosen a template, it is important to use it consistently to format headlines, indentations, citations, footnotes, and so forth. This means that if you need to change something like your font size, for example, you’ll need to make changes to the template itself. To do this, highlight the area you have changed in your text, and right-click on the style you want to change in the Word style manager choosing "update style to match selection":
 
-![](./images/Maler-300x34.png)
+![](../images/Maler-300x34.png)
 
 **Tips:**
 
@@ -34,28 +34,28 @@ When you have chosen a template, it is important to use it consistently to forma
 
 When you work on a paper in a template, the table of contents can be updated with the correct page numbers, section titles, lists, figures, etc. Right-click on the table of contents to update, or use the menu. For further references, see [Microsoft’s help site](https://support.office.com/en-us/article/format-or-customize-a-table-of-contents-9d85eb9c-0b55-4795-8abb-a49885b3a58d) for Tables of Contents.
 
-![](./images/Innholdsfortegnelse-300x148.png)
+![](../images/Innholdsfortegnelse-300x148.png)
 
 Example of Table of Contents
 
 ## Headings
 
-You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1), while four is a maximum (ex: 1.1.1.1). Look for this symbol in your word-processor’s menu ![](./images/Nummererte-overskrifter.png) and choose a style. You can also confer the [help site for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Every new chapter in a large paper should start on a new page. Page breaks are inserted from the menu or by using the shortcut CTRL + ENTER.
+You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1), while four is a maximum (ex: 1.1.1.1). Look for this symbol in your word-processor’s menu ![](../images/Nummererte-overskrifter.png) and choose a style. You can also confer the [help site for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Every new chapter in a large paper should start on a new page. Page breaks are inserted from the menu or by using the shortcut CTRL + ENTER.
 
 ## Body text, margins and text size
 
 The body of your paper should be written in “Normal” in your style manager. Be careful with highlighting, italicization, and underlining, etc.
 
-- **Line spacing** is usually one and a half (1,5), and can be adjusted here: ![](./images/Linjeavstand.png)
+- **Line spacing** is usually one and a half (1,5), and can be adjusted here: ![](../images/Linjeavstand.png)
 - **Text size:** Standard text sizes are usually 11 for modern fonts, such as Calibri, or 12 for traditional fonts, such as Times New Roman.
-- Use **Align left** for your text (not Justify) for the best possible readability. Choose ![](./images/Venstrejustert.png)
+- Use **Align left** for your text (not Justify) for the best possible readability. Choose ![](../images/Venstrejustert.png)
 - **Header and footer** margins should be at least 2,5 cm (or 1 in.)
 
 In tables, figures, footnotes and reference lists, you can use a smaller text size and single line spacing (as long as you preserve good readability).
 
 Never use more than one space between words or symbols. For indentation, be sure to use the TAB key.
 
-![](./images/tabulator-150x150.jpg)
+![](../images/tabulator-150x150.jpg)
 
 ## Page numbers (pagination)
 
@@ -79,7 +79,7 @@ If you use figures or tables in your text, these must be explained and numbered 
 
 Be aware of [intellectual property rights](/en/sources-and-references/why-cite-sources/intellectual-property-rights/) when reproducing images. Such use is not usually covered by (sitatretten)
 
-![](./images/figur-eksempel-300x221.png)
+![](../images/figur-eksempel-300x221.png)
 
 \-- Example of use of figures. Retrieved from «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.\]
 
@@ -97,7 +97,7 @@ Most reference styles recommend to list all sources together, arranged in alphab
 
 In most fields, different source types are included in the same reference list, but in some historical subjects it can be the case that primary and secondary sources are listed separately. Read more about referencing at “[Why Cite Sources?](/en/sources-and-references/why-cite-sources/)”
 
-**Tip**: If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete. Look for this symbol: ![](./images/Cite.png)
+**Tip**: If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete. Look for this symbol: ![](../images/Cite.png)
 
 ## Other resources
 

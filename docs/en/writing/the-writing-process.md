@@ -15,7 +15,7 @@ Inexperienced writers often think that they cannot start writing until they have
 - Talk to you fellow students, who probably share your experience
 - Form [writing groups](/en/writing/the-writing-process/writing-groups/ "Writing groups"), to keep up everybody´s individual writing process
 
-[![Writingprocess](./images/Writingprocess-300x240.jpg "Writingprocess")](/en/writing/the-writing-process/writingprocess/)
+[![Writingprocess](../images/Writingprocess-300x240.jpg "Writingprocess")](/en/writing/the-writing-process/writingprocess/)
 _Discuss your task with fellow students. Photo, UiB._
 
 Source  

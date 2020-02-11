@@ -23,7 +23,7 @@ Her kan du laste ned logoer til bruk på forside fra [UiO](http://www.uio.no/om
 
 Bruk av maler (eng. _templates_) i Word anbefales for å spare arbeid. Malene har ferdige oppsett for innholdsfortegnelse, tekstformatering, overskrifter, kapittelnummerering, innrykk med mer. Når du har valgt en mal, er det viktig å bruke denne til all formatering av overskrifter, innrykk, sitater, fotnoter, figurer og så videre. Det betyr at dersom du vil gjøre endringer i for eksempel skriftstørrelse, må du endre selve malen. Marker området med den nye formateringen og høyreklikk nivået du vil endre (normal, overskrifter mv). Når du arbeider med oppgaven i malen, vil innholdsfortegnelsen automatisk oppdateres med riktige sidetall, overskrifter, punktlister, figurer mv. Høyreklikk på innholdsfortegnelsen for å oppdatere, eller bruk meny.
 
-[![](./images/Innholdsfortegnelse-300x99.png "Innholdsfortegnelse generert i Word")](/wp-content/uploads/2018/06/Innholdsfortegnelse.png)
+[![](../images/Innholdsfortegnelse-300x99.png "Innholdsfortegnelse generert i Word")](/wp-content/uploads/2018/06/Innholdsfortegnelse.png)
 
 **Tips**:
 
@@ -49,7 +49,7 @@ I tabeller, figurer, fotnoter og referanseliste kan du bruke mindre punktstørre
 
 Det skal aldri være mer enn ett mellomrom etter hvert ord eller tegn. Hvis du trenger større mellomrom (innrykk), bruk tabulatortasten:
 
-[![](./images/tabulator-150x150.jpg "Illustrasjon: Colourbox")](/wp-content/uploads/2018/06/tabulator-e1529940693789.jpg)
+[![](../images/tabulator-150x150.jpg "Illustrasjon: Colourbox")](/wp-content/uploads/2018/06/tabulator-e1529940693789.jpg)
 
 ## Sidetall (paginering)
 
@@ -106,7 +106,7 @@ The following list shows references in Harvard style for book, journal, master t
 > 
 > Other types of references in [Harvard](http://skillsforlearning.leedsmet.ac.uk/Quote_Unquote.pdf "Harvard") style
 
-![Oppgave](./images/oppgave-hode.gif)
+![Oppgave](../images/oppgave-hode.gif)
 
 ## Exercise
 

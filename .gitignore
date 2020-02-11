@@ -59,3 +59,5 @@ typings/
 
 docs/.vuepress/dist
 site.pdf
+.DS_Store
+public/

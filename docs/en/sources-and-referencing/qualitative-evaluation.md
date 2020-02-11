@@ -122,11 +122,11 @@ Accordingly a journal’s impact factor is a quantitative ranking tool. The fact
 
 The impact factor for 2004 for the journal GLOBAL BIOGEOCHEMICAL CYCLES is calculated as follows:
 
-![impact-formula](./images/impact-formula1.png)
+![impact-formula](../images/impact-formula1.png)
 
 If we insert data from ISI Journal Citation Reports into this formula we get:
 
-![impact-calculation](./images/impact-calculation.png)
+![impact-calculation](../images/impact-calculation.png)
 
 The journal’s impact factor for 2004 is thus 2.864. In other words, articles in this journal were cited on average two to three times during 2004. In practice, however, some articles will have been cited far more often, while others may not have been cited at all.
 
