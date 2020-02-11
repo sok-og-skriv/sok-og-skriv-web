@@ -12,7 +12,7 @@ features:
   details: I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil.
 - title: Kildebruk og referanser
   details: All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag. Mulige kilder kan være bøker, rapporter, tidsskriftartikler, bilder, kart, musikk, intervju, avhandlinger, aviser og nettdokumenter.
-footer: Høgskulen på Vestlandet <br> Universitetet i Bergen - Universitetet i Oslo - Nasjonalbiblioteket
+footer: Høgskulen på Vestlandet, Universitetet i Bergen, Universitetet i Oslo og Nasjonalbiblioteket
 ---
 
 # En digital verktøykasse for oppgaveskriving

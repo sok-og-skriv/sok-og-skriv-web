@@ -3,6 +3,8 @@ title: "Kildebruk og referanser"
 date: "2012-03-15"
 ---
 
+# Kildebruk og referanser
+
 All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag. Mulige kilder kan være bøker, rapporter, tidsskriftartikler, bilder, kart, musikk, intervju, avhandlinger, aviser og nettdokumenter.
 
 ![soking](../images/illustrasjoner_kildehenvisning_500x450.png)
