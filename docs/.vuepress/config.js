@@ -167,7 +167,8 @@ module.exports = {
   },
   markdown: {
     plugins: [
-      'vuepress-plugin-export'
+      'vuepress-plugin-export',
+      '@vuepress/back-to-top'
     ],
     extendMarkdown: md => {
       // use more markdown-it plugins!
