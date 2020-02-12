@@ -7,16 +7,58 @@ Vi svarer gjerne på spørsmål som dreier seg om nettstedet. Merk e-posten med 
 
 Følg oss også gjerne på [Facebook](https://www.facebook.com/sokogskriv "Søk & Skriv på Facebook") og [Youtube](//www.youtube.com/user/sokogskriv "Søk & Skriv på Youtube")!
 
-[![](../images/ingerids-pressebilde-150x150.jpg)](/en/files/2013/04/ingerids-pressebilde.jpg)
+## Liste basert på data
 
-[![](../images/Screenshot_20191019_151021.jpg)](/wp-content/uploads/2020/01/Screenshot_20191019_151021.jpg)
+<div class="persons" v-for="i in items">
+  <div>
+    <img :src="i.imageUrl">
+  </div>
+  <div>
+    <h3>{{i.fullname}}</h3>
+    <p>{{i.affiliation.no}}</p>
+  </div>
+</div>
 
-[![](../images/profilbilde-2018-150x150.png)](/en/files/2013/04/profilbilde-2018.png)
+Slik ser datafilen ut.
 
-[![](../images/meg-foto.png)](/wp-content/uploads/2013/02/meg-foto.png)
+``` json
+{
+  "persons": [
+    {
+      "fullname": "Ingerid Straume",
+      "affiliation": {
+        "no": "Universitetet i Oslo",
+        "en": "University of Oslo"
+      },
+      "imageUrl": "/ingerids-150x150.jpg",
+      "url": "https://www.ub.uio.no/om/ansatte/uboledadm/ingerids/index.html"
+    },
+    {
+      "fullname": "Tarje Sælen Lavik",
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/tarje-150x150.jpg",
+      "url": "https://www.uib.no/personer/Tarje.Sælen.Lavik"
+    }
+  ]
+}
+```
+
+## Liste basert på vanlig liste
+
+![](../images/ingerids-pressebilde-150x150.jpg)
 
 [Ingerid Straume](https://www.ub.uio.no/english/about/people/uhs/uhsfagstudier/ingerids/)  
 Universitetet i Oslo, biblioteket
+
+![](../images/june-150x150.jpg)
+
+![](../images/profilbilde-2018-150x150.png)
+
+![](../images/meg-foto.png)
+
 
 [June Audsdotter Stafsnes](https://www.hvl.no/person/?user=6022370)  
 Høgskulen på Vestlandet, biblioteket
@@ -31,3 +73,30 @@ Høgskulen på Vestlandet, biblioteket
 
 [Ingunn Rødland](https://www.uib.no/personer/Ingunn.R%C3%B8dland)  
 Universitetet i Bergen, biblioteket
+
+
+<style>
+.persons {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin: 1rem 0;
+  padding: .1rem 1.5rem;
+  border-radius: 0.4rem;
+  background-color: #f0f4f8;
+}
+
+.persons div {
+  padding: 1rem 0;
+}
+</style>
+
+<script>
+import data from './persons.json'
+export default {
+  data () {
+      return {
+          items: data.persons
+      }
+  }
+}
+</script>

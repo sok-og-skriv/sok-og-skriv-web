@@ -37,7 +37,8 @@ module.exports = {
               { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
               { text: 'Rettigheter', link: '/om/rettigheter-til-sok-og-skriv/' },
               { text: 'Referanser', link: '/om/referanser/' },
-              { text: 'Markdown demo', link: '/om/markdown-demo/' }
+              { text: 'Markdown demo', link: '/om/markdown-demo/' },
+              { text: 'Gitlab-arbeidsflyt', link: '/om/gitlab-arbeidsflyt/' }
             ]
           }
         ],
@@ -260,7 +261,29 @@ module.exports = {
           buttonText: "Refresh"
         }
       }
-    }]
+    }],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'imageBlock',
+        defaultTitle: '',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'contentBlock',
+        defaultTitle: '',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'person',
+        before: `<div class="person">`,
+        after: '</div>',
+      },
+    ],
   ],
   head: [
     /* ['link', { rel: 'icon', href: `/sokogskriv2013.png` }], */

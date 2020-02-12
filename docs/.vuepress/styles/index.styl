@@ -26,3 +26,25 @@ dt {
 dd {
   margin-bottom: 1em;
 }
+
+.person
+  display: grid
+  grid-template-columns: 1fr 2fr
+  margin 1rem 0
+  padding .1rem 1.5rem
+  border-radius 0.4rem
+  background-color #f0f4f8
+  .title
+    font-weight bold
+
+.custom-block
+  &.imageBlock
+    color transparentify($textColor, 0.4)
+    font-size 0.9rem
+    text-align right
+
+.custom-block
+  &.contentBlock
+    color transparentify($textColor, 0.4)
+    font-size 0.9rem
+    text-align right
