@@ -5,7 +5,7 @@ date: "2020-02-12"
 
 # Markdown demo
 
-Søk og skriv dokumentasjon på bruk av Markdown. 
+Søk og skriv dokumentasjon på bruk av Markdown. Se også [Markdown-it](https://markdown-it.github.io/)
 
 ## Avsnitt
 
@@ -60,6 +60,59 @@ _kursiv_
 ### Heading 3
 
 #### Heading 4
+
+## Lister
+
+``` markdown
+**Uordnet**
+
++ Lag en liste med `+`, `-`, or `*`
++ Underlister lages med to mellomrom:
+  - Underunderliste (med fire foregående mellomrom):
+    - Ac tristique libero volutpat at
+    - Facilisis in pretium nisl aliquet
++ Enkelt
+
+**Nummerert**
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+1. Du kan selv lage nummereringen...
+1. ...eller bare bruke `1.`
+
+Du kan starte på et ønsket nummer:
+
+57. foo
+1. bar
+```
+
+**Uordnet**
+
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
+
+**Nummerert**
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+1. You can use sequential numbers...
+1. ...or keep all the numbers as `1.`
+
+Start numbering with offset:
+
+57. foo
+1. bar
 
 ## Lenker og youtube
 
