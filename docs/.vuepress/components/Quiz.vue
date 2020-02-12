@@ -7,17 +7,8 @@
 
         <!--questionContainer-->
         <div class="questionContainer" v-if="questionIndex<quiz.questions.length" v-bind:key="questionIndex">
-          <header>
-            <div class="shell">
-              <div class="bar" :style="{width: questionIndex/quiz.questions.length*100 + '%' }">
-                <span>{{(questionIndex/quiz.questions.length)*100}}%</span>
-              </div>
-            </div>
-          </header>
-          <!--/progress-->
-
           <!-- questionTitle -->
-          <h2 class="titleContainer title">{{ quiz.questions[questionIndex] && quiz.questions[questionIndex].text }}</h2>
+          <h4 class="titleContainer title" v-html="quiz.questions[questionIndex] && quiz.questions[questionIndex].text"></h4>
           <!-- /questionTitle -->
           <!-- quizOptions -->
           <div class="optionContainer" v-if="quiz.questions[questionIndex]">
@@ -28,18 +19,27 @@
 
           <!--quizFooter: navigation and progress-->
           <footer class="questionFooter">
+            <header>
+              <div class="shell">
+                <div class="bar" :style="{width: questionIndex/quiz.questions.length*100 + '%' }">
+                  <!-- <span>{{(questionIndex/quiz.questions.length)*100}}%</span> -->
+                </div>
+              </div>
+            </header>
 
             <!--pagination-->
             <nav class="pagination" role="navigation" aria-label="pagination">
 
+              <span class="button">{{(questionIndex/quiz.questions.length)*100}}%</span>
+
               <!-- back button -->
-              <a class="button" v-on:click="prev();" :disabled="questionIndex < 1">
-                      Back
-                    </a>
+              <a class="button" v-on:click="prev();" v-if="questionIndex != 0">
+                Tilbake
+              </a>
 
               <!-- next button -->
               <a class="button" :class="(userResponses[questionIndex]==null)?'':'is-active'" v-on:click="next();" :disabled="questionIndex>=quiz.questions.length">
-                {{ (userResponses[questionIndex]==null)?'Skip':'Next' }}
+                {{ (userResponses[questionIndex]==null)?'Hopp over':'Neste' }}
               </a>
 
             </nav>
@@ -58,13 +58,13 @@
 
       <!--resultTitleBlock-->
       <h2 class="title">
-        You did {{ (score() / quiz.questions.length  > 0.7 ?'an amazing':(score() / quiz.questions.length < 0.4 ?'a poor':'a good')) }} job!
+        Du gjorde {{ (score() / quiz.questions.length  > 0.7 ?'en fantastisk':(score() / quiz.questions.length < 0.4 ?'en dårlig':'en god')) }} jobb!
       </h2>
       <p class="subtitle">
-        Total score: {{ score() }} / {{ quiz.questions.length }}
+        Totalt: {{ score() }} / {{ quiz.questions.length }}
       </p>
         <br>
-        <a class="button" @click="restart()">restart <i class="fa fa-refresh"></i></a>
+        <a class="button" @click="restart()">start på nytt <i class="fa fa-refresh"></i></a>
       <!--/resultTitleBlock-->
     </div>
     </transition>
@@ -174,25 +174,20 @@ export default {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
 .questionContainer header {
+  /* padding-top: 1.5rem;
   background-color: rgba(124, 32, 32, 0.025);
   background: rgba(124, 32, 32, 0.025);
-  padding: 1.5rem;
-  text-align: center;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  text-align: center; 
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);*/
 }
 .questionContainer header h1 {
   font-weight: bold;
   margin-bottom: 1rem !important;
 }
-.progressContainer {
-  width: 60%;
-  margin: 0 auto;
-}
-
 .titleContainer {
-  text-align: center;
+  /* text-align: center; */
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 1.5rem 1rem 0.5rem 1rem;
 }
 .quizForm {
   display: block;
@@ -232,36 +227,38 @@ export default {
 .questionContainer .optionContainer .option {
   border-radius: 290486px;
   padding: 9px 18px;
-  margin: 0 18px;
+  /* margin: 0 18px; */
   margin-bottom: 12px;
   transition: 0.3s;
   cursor: pointer;
-  background-color: #73818f;
+  background-color: #676767;
   color: #f0f3f5;
   border: transparent 1px solid;
 }
 .questionContainer .optionContainer .option.is-selected {
   border-color: rgba(0, 0, 0, 0.25);
-  background-color: #834c9d;
+  background-color: #A50007;
 }
 .questionContainer .optionContainer .option:hover {
-  background-color: #B589D6;
+  background-color: #A50007;
 }
 .questionContainer .optionContainer .option:active {
   transform: scaleX(0.9);
 }
 .questionContainer .questionFooter {
   background: rgba(0, 0, 0, 0.025);
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid #A50007;
   width: 100%;
   align-self: flex-end;
+  margin-top: 1rem;
+  border-radius: 5px;
 }
 .questionContainer .questionFooter .pagination {
   margin: 15px 25px;
 }
 .pagination {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
 }
 .button {
   padding: 0.5rem 1rem;
@@ -272,16 +269,17 @@ export default {
 }
 .button:hover {
   cursor: pointer;
-  background: #552586;
+  background: #388AA0;
+  color: white;
   border-color: rgba(0, 0, 0, 0.25);
 }
 .button.is-active {
-  background: #834c9d;
+  background: #388AA0;
   color: white;
   border-color: transparent;
 }
 .button.is-active:hover {
-  background: #0a2ffe;
+  background: rgb(35, 85, 99);
 }
 @media screen and (min-width: 769px) {
   .questionBox {
@@ -301,24 +299,24 @@ export default {
 }
 
 /** Custom Progress bar */
-.shell {
+/* .shell {
   height: 20px;
-  width: 250px;
+  width: 100%;
   border: 1px solid #73818f;
-  border-radius: 13px;
+  border-radius: 5px;
   padding: 3px;
   margin: 0 auto;
-}
+} */
 .bar {
-  background: linear-gradient(to right, #B589D6, #804FB3);
-  height: 20px;
+  background: linear-gradient(to right, rgb(209, 57, 65), #A50007);
+  height: 5px;
   width: 15px;
   border-radius: 9px;
 }
 .bar span {
   float: right;
   padding: 4px 5px;
-  color: #f0f3f5;
-  font-size: 0.7em;
+  color: #676767;
+  font-size: 0.8em;
 }
 </style>

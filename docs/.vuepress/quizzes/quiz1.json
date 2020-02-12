@@ -1,183 +1,94 @@
 {
   "user": "Dave",
+  "title": "Hvilken type referanse er dette?",
   "questions": [
     {
-      "text": "What is the full form of HTTP?",
+      "text": "Berg, M. A., Børresen, B. & Nustad, P. E. (2008) <i>Religion, livssyn og etikk</i>. Oslo, Cappelen.",
       "responses": [
         {
-          "text": "Hyper text transfer package"
-        },
-        {
-          "text": "Hyper text transfer protocol",
+          "text": "Bok med forfatter",
           "correct": true
         },
         {
-          "text": "Hyphenation text test program"
+          "text": "Nettside"
         },
         {
-          "text": "None of the above"
+          "text": "Tidsskriftsartikkel"
+        },
+        {
+          "text": "Kapittel i redigert bok"
         }
       ]
     },
     {
-      "text": "HTML document start and end with which tag pairs?",
+      "text": "Norad (11. oktober 2011). <i>Rettighetsbasert utvikling</i> [Internett], Norad. Tilgjengelig fra: http://www.norad.no/no/tema/menneskerettigheter/rettighetsbasert-utvikling [Lest 26.september 2012].",
       "responses": [
         {
-          "text": "HTML",
+          "text": "Bok med forfatter"
+        },
+        {
+          "text": "Nettside",
           "correct": true
         },
         {
-          "text": "WEB"
+          "text": "Tidsskriftsartikkel"
         },
         {
-          "text": "HEAD"
-        },
-        {
-          "text": "BODY"
+          "text": "Kapittel i redigert bok"
         }
       ]
     },
     {
-      "text": "Which tag is used to create body text in HTML?",
+      "text": "Rong, M. (2011) Gud i liturgien. I: Sæther, K.-W. & Rise, S. red. <i>En Bok om Gud : gudstanken i brytningen mellom det moderne og det postmoderne</i>. Trondheim, Tapir akademisk forlag, s. 79-96.",
       "responses": [
         {
-          "text": "HEAD"
+          "text": "Bok med forfatter"
         },
         {
-          "text": "BODY",
+          "text": "Nettside"
+        },
+        {
+          "text": "Tidsskriftsartikkel"
+        },
+        {
+          "text": "Kapittel i redigert bok",
           "correct": true
-        },
-        {
-          "text": "TITLE"
-        },
-        {
-          "text": "TEXT"
         }
       ]
     },
     {
-      "text": "Outlook Express is _________",
+      "text": "Haug, P. (2011) God opplæring for alle - eit felles ansvar. <i>Norsk pedagogisk tidsskrift</i>, 95 (2), s. 129-139.",
       "responses": [
         {
-          "text": "E-Mail Client",
+          "text": "Bok med forfatter"
+        },
+        {
+          "text": "Nettside",
           "correct": true
         },
         {
-          "text": "Browser"
+          "text": "Tidsskriftsartikkel"
         },
         {
-          "text": "Search Engine"
-        },
-        {
-          "text": "None of the above"
+          "text": "Kapittel i redigert bok"
         }
       ]
     },
     {
-      "text": "What is a search engine?",
+      "text": "Berge, K. L. (2012) Retorisk dannelse som grunnlag for demokratisk medborgerskap i skolen : om de grunnleggende ferdighetene skriving og muntlighet i Kunnskapsløftet. I: Berge, K. L. & Stray, J. H. red. <i>Demokratisk medborgerskap i skolen</i>. Bergen, Fagbokforlaget, s. 79-101.",
       "responses": [
         {
-          "text": "A hardware component "
+          "text": "Bok med forfatter"
         },
         {
-          "text": "A machinery engine that search data"
-        },
-        {
-          "text": "A web site that searches anything",
+          "text": "Nettside",
           "correct": true
         },
         {
-          "text": "A program that searches engines"
-        }
-      ]
-    },
-    {
-      "text": "What does the .com domain represents?",
-      "responses": [
-        {
-          "text": "Network"
+          "text": "Tidsskriftsartikkel"
         },
         {
-          "text": "Education"
-        },
-        {
-          "text": "Commercial",
-          "correct": true
-        },
-        {
-          "text": "None of the above"
-        }
-      ]
-    },
-    {
-      "text": "In Satellite based communication, VSAT stands for? ",
-      "responses": [
-        {
-          "text": " Very Small Aperture Terminal",
-          "correct": true
-        },
-        {
-          "text": "Varying Size Aperture Terminal "
-        },
-        {
-          "text": "Very Small Analog Terminal"
-        },
-        {
-          "text": "None of the above"
-        }
-      ]
-    },
-    {
-      "text": "What is the full form of TCP/IP? ",
-      "responses": [
-        {
-          "text": "Telephone call protocol / international protocol"
-        },
-        {
-          "text": "Transmission control protocol / internet protocol",
-          "correct": true
-        },
-        {
-          "text": "Transport control protocol / internet protocol "
-        },
-        {
-          "text": "None of the above"
-        }
-      ]
-    },
-    {
-      "text": "What is the full form of HTML?",
-      "responses": [
-        {
-          "text": "Hyper text marking language"
-        },
-        {
-          "text": "Hyphenation text markup language "
-        },
-        {
-          "text": "Hyper text markup language",
-          "correct": true
-        },
-        {
-          "text": "Hyphenation test marking language"
-        }
-      ]
-    },
-    {
-      "text": "\"Yahoo\", \"Infoseek\" and \"Lycos\" are _________?",
-      "responses": [
-        {
-          "text": "Browsers "
-        },
-        {
-          "text": "Search Engines",
-          "correct": true
-        },
-        {
-          "text": "News Group"
-        },
-        {
-          "text": "None of the above"
+          "text": "Kapittel i redigert bok"
         }
       ]
     }

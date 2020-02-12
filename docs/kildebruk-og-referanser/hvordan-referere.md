@@ -64,9 +64,7 @@ Referanseliste (eller litteraturliste) plasseres til slutt i oppgaven. Denne s
 
 Også ikke-skriftlige kilder du har brukt, for eksempel musikk, og bilder eller illustrasjoner [skal oppgis](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/#Opphavsrettslige "Opphavsrettslige forhold") i referanselisten. Dersom du har flere slike, kan det være lurt å gruppere dem for seg, under en egen overskrift som du kaller Liste over illustrasjoner, Liste over figurer, Liste over tabeller, Diskografi og så videre.
 
-## QUIZ
-
-\[wpsqt type="quiz" name="Referanseoppgave"\]
+## QUIZ: Hvilken type referanse er dette?
 
 <Quiz v-bind:quizNum=1 />
 
