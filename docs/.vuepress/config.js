@@ -261,29 +261,7 @@ module.exports = {
           buttonText: "Refresh"
         }
       }
-    }],
-    [
-      'vuepress-plugin-container',
-      {
-        type: 'imageBlock',
-        defaultTitle: '',
-      },
-    ],
-    [
-      'vuepress-plugin-container',
-      {
-        type: 'contentBlock',
-        defaultTitle: '',
-      },
-    ],
-    [
-      'vuepress-plugin-container',
-      {
-        type: 'person',
-        before: `<div class="person">`,
-        after: '</div>',
-      },
-    ],
+    }]
   ],
   head: [
     /* ['link', { rel: 'icon', href: `/sokogskriv2013.png` }], */

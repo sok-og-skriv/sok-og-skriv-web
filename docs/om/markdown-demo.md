@@ -215,21 +215,3 @@ __blabla__
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
-## Spesialtilpassing
-
-::: person
-<div class="imageBlock">
-  <p>
-    <img src="../images/ingerids-pressebilde-150x150.jpg">
-  </p>
-</div>
-<div class="contentBlock">
-  <p>
-    <strong>Ingerid Straume</strong>
-  </p>
-  <p>
-    <a href="https://www.ub.uio.no/om/ansatte/uboledadm/ingerids/index.html">Universitetet i Oslo, biblioteket</a>
-  </p>
-</div>
-:::
