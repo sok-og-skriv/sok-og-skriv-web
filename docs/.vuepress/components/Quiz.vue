@@ -173,13 +173,13 @@ export default {
   overflow: hidden;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
-.questionContainer header {
-  /* padding-top: 1.5rem;
+/* .questionContainer header {
+  padding-top: 1.5rem;
   background-color: rgba(124, 32, 32, 0.025);
   background: rgba(124, 32, 32, 0.025);
   text-align: center; 
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);*/
-}
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}*/
 .questionContainer header h1 {
   font-weight: bold;
   margin-bottom: 1rem !important;

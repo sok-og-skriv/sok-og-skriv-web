@@ -63,11 +63,11 @@
           "text": "Bok med forfatter"
         },
         {
-          "text": "Nettside",
-          "correct": true
+          "text": "Nettside"
         },
         {
-          "text": "Tidsskriftsartikkel"
+          "text": "Tidsskriftsartikkel",
+          "correct": true
         },
         {
           "text": "Kapittel i redigert bok"
@@ -81,14 +81,14 @@
           "text": "Bok med forfatter"
         },
         {
-          "text": "Nettside",
-          "correct": true
+          "text": "Nettside"
         },
         {
           "text": "Tidsskriftsartikkel"
         },
         {
-          "text": "Kapittel i redigert bok"
+          "text": "Kapittel i redigert bok",
+          "correct": true
         }
       ]
     }
