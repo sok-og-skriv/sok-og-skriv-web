@@ -5,7 +5,7 @@ date: "2020-02-12"
 
 # Markdown demo
 
-Søk og skriv dokumentasjon på bruk av Markdown. Se også [Markdown-it](https://markdown-it.github.io/)
+Søk og skriv dokumentasjon på bruk av Markdown. Se også [Markdown-it](https://markdown-it.github.io/) for flere muligheter.
 
 ## Avsnitt
 
