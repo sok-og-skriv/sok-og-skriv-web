@@ -68,6 +68,8 @@ Også ikke-skriftlige kilder du har brukt, for eksempel musikk, og bilder eller 
 
 \[wpsqt type="quiz" name="Referanseoppgave"\]
 
+<Quiz v-bind:quizNum=1 />
+
 ## Eksempel på referanseliste
 
 Denne listen viser referanser i Harvard-stil for bok, tidsskrift, hovedoppgave, bilde og elektronisk tidsskriftartikkel. Referanselister skal sorteres alfabetisk.
