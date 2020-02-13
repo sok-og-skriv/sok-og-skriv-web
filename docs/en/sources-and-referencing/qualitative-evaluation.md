@@ -3,6 +3,8 @@ title: "Qualitative evaluation"
 date: "2013-02-22"
 ---
 
+# Qualitative evaluation
+
 Source evaluation involves evaluating a source based on its type, authenticity, credibility and authority. The quality of a source may be judged by questions like who it is written for, how it refers to other sources, who wrote it and when it was published. Evaluate the source you have in front of you based on:
 
 - [Author](#author)
