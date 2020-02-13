@@ -3,6 +3,8 @@ title: "Kildevurdering"
 date: "2012-05-08"
 ---
 
+# Kildevurdering
+
 Gode kilder er vesentlig for å kunne skrive en god oppgave. Du bør alltid være bevisst på hvilke kilder du bruker, og hvilken funksjon ulike typer kilder har for din oppgave.
 
 Kildevurdering er et samlebegrep for metoder brukt for å skille verifiserte opplysninger fra spekulasjoner. Kildevurdering handler om å se nærmere på kvaliteten til informasjonen du har funnet i relasjon til problemstillingen din.
