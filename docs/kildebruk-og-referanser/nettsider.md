@@ -3,6 +3,8 @@ title: "Nettsider"
 date: "2012-05-24"
 ---
 
+# Nettsider
+
 På Internett finner du vitenskapelig informasjon, offentlig informasjon og statistikk, aviser og andre nyhetsmedier, e-bøker og tidsskrifter. Men du finner også informasjon som mangler dokumentasjon og kvalitetssikring, eller som er ufullstendig og ustrukturert. Kildene du finner på Internett må vurderes ut fra samme kriterier som ved trykt materiale. Du bør derfor kunne identifisere hvilken sjanger du leser, uansett om den finnes på nett eller i trykt form.
 
 ## Noen huskeregler:
