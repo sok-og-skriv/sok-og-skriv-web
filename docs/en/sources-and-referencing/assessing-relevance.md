@@ -3,6 +3,8 @@ title: "Assessing relevance"
 date: "2013-02-22"
 ---
 
+# Assessing relevance
+
 You will need to refer to different types of sources depending on the nature of your research questions. Source evaluation involves assessing a source’s value for the purposes of addressing these questions. You have to consider whether the source’s contents are relevant to what you are actually looking for, in addition to performing a qualitative evaluation. In what context will you be using the source? Does the source relate to the topic of your thesis?
 
 Ask the following questions about the source you have in front of you:
