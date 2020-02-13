@@ -3,6 +3,8 @@ title: "Har du spørsmål?"
 date: "2012-03-19"
 ---
 
+# Har du spørsmål?
+
 ## Hvor kan du henvende deg for å få svar?
 
 Før du kontakter Søk & Skriv, prøv gjerne følgende:
