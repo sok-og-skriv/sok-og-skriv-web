@@ -2,6 +2,7 @@
 title: "Lesemåter"
 date: "2012-09-14"
 ---
+# Lesemåter
 
 Det finnes ulike måter å lese på. Hvordan vi leser avhenger av hva vi leser, men også av formålet med lesingen. Vi leser en roman på en annen måte enn en innføring i statistikk, men vi leser også en roman på en annen måte dersom vi skal lage en litterær analyse av den, enn hvis vi bare leser den.
 
