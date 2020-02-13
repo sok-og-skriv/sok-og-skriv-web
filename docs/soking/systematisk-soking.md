@@ -11,7 +11,7 @@ Før du kan foreta et systematisk søk, må du [arbeide grundig med problemstill
 
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
-****P****: (problem/patient): pasient/pasientgruppe/diagnose  
+**P**: (problem/patient): pasient/pasientgruppe/diagnose  
 **I**: (intervention): tiltak /eksponering  
 **C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering  
 **O**: (outcome): utfall (det du vil ha ny kunnskap om)
@@ -115,9 +115,11 @@ I enkelte fag må du, etter å ha avsluttet det systematiske søket, beskrive se
 - har du utnyttet andre søkefasiliteter i databasen?
 - dato for når søket ble tatt
 
-**TIPS**: når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
+::: tip 
+**TIPS**: Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
+:::
 
-**Videre lesing:  
-**Haraldstad, A.-M.B. og Christophersen, E. (2008) Litteratursøk og personlige referansedatabaser. I: Laake, P., Olsen, B.R. og Benestad, H.B. red. _Forskning i medisin og biofag._ 2. utg. Oslo, Gyldendal akademisk, s.147-186.
+**Videre lesing:**
+Haraldstad, A.-M.B. og Christophersen, E. (2008) Litteratursøk og personlige referansedatabaser. I: Laake, P., Olsen, B.R. og Benestad, H.B. red. _Forskning i medisin og biofag._ 2. utg. Oslo, Gyldendal akademisk, s.147-186.
 
 Se også PhD on track om [søking for systematiske oversikter. ](http://www.phdontrack.net/review-and-discover/systematic-review-searching/)
