@@ -3,6 +3,8 @@ title: "Rettigheter til Søk & Skriv"
 date: "2013-09-03"
 ---
 
+# Rettigheter til Søk & Skriv
+
 Opphavsretten til produktet Søk & Skriv tilhører institusjonene UiB, UiO og HVL.  
 Alt innhold på nettstedet Søk og Skriv er tilgjengelig for bruk under en [Creative Commons Navngivelse-IkkeKommersiell-DelPåSammeVillkår 3.0 Norge lisens.](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.no)
 
