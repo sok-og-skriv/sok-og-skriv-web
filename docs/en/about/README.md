@@ -3,6 +3,8 @@ title: "About Search & Write"
 date: "2012-05-25"
 ---
 
+#About Search & Write
+
 Search & Write is for all students who want to learn more about information gathering and academic writing, independent of institution and subject area.
 
 > _An information literate person is someone who knows when and why they need information, how to find the information and how to evaluate, use and communicate the information in an ethical way (Chartered Institute of Library and Information Professionals 2004)._
