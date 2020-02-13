@@ -3,6 +3,8 @@ title: "Vurdering av relevans"
 date: "2012-04-19"
 ---
 
+# Vurdering av relevans
+
 Du har behov for ulike typer kilder avhengig av du ønsker svar på. Kildevurdering innebærer å ta for seg informasjonskildens verdi, i forhold til disse spørsmålene.  
 For å vurdere om en kilde er relevant må du i tillegg til en kvalitativ vurdering ta for deg innholdet i kilden i forhold til hva du faktisk er ute etter. Hvilken sammenheng skal du bruke kilden i? Sammenfaller kilden med temaet du skal skrive om?
 
