@@ -3,6 +3,8 @@ title: "Reference styles"
 date: "2013-02-22"
 ---
 
+# Reference styles
+
 Reference styles are standardised rules for presenting information about the sources used in a text. Typically, a style will describe how to organise information about author(s), publication year, title and page numbers.
 
 There are many different ways to organise the references of a text. Some reference styles follow the author-year format, while others are based on footnotes and/or numerical references. Your choice of style will normally depend on your discipline, and should be discussed with your supervisor. If there is no preferred style in your discipline, you may pick a style and use it consistently. The "Harvard style" is one of the most common author-year styles, and is used in the examples in Søk & Skriv.
