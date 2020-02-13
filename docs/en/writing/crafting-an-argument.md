@@ -3,6 +3,8 @@ title: "Crafting an argument"
 date: "2013-03-26"
 ---
 
+# Crafting an argument
+
 Crafting an argument in your thesis means to clarify _what_ you claim in the text and _why_. You need to state the reasons for your claims.
 
 The argumentation consists of reasoning with the following elements

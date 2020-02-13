@@ -3,6 +3,8 @@ title: "Disseminating your thesis"
 date: "2013-02-21"
 ---
 
+# Disseminating your thesis
+
 Disseminating your results is a part of the academic process. You can do it by presenting papers at conferences or seminars, producing posters, and, of course, publishing in journals and books. You may choose to disseminate your masters' thesis by including it in your institution’s electronic archives (called self-archiving). In doing so, you make it available worldwide for free download to anyone who has access to the Internet.
 
 # Written presentations
