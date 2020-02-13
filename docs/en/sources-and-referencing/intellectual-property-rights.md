@@ -3,6 +3,8 @@ title: "Intellectual property rights"
 date: "2013-02-22"
 ---
 
+# Intellectual property rights
+
 When writing  a paper or publishing  your work it is important to familiarise yourself with matters related to intellectual property rights, that you know your own rights as a creator, respect the intellectual property rights of others, and generally follow the rules for citing and referring. In Norway the intellectual property rights are protected by the [Intellectual Property Rights Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40 "In Norwegian").
 
 It is also important that you know the practice of your institution concerning open access publishing, and other publication channels.
