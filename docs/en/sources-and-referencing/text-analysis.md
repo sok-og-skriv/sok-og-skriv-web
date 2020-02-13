@@ -3,6 +3,8 @@ title: "Text analysis"
 date: "2013-03-15"
 ---
 
+# Text analysis
+
 To be able to say more about whether a source is relevant to your thesis, you should analyse the text to find out why it was written and what reasons the author had for writing this particular text.
 
 There are three general reasons for writing a scientific text:
