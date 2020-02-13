@@ -3,6 +3,8 @@ title: "Skrivegrupper"
 date: "2012-09-05"
 ---
 
+# Skrivegrupper
+
 Lengre tekster, som masteroppgaver, krever at du skriver jevnt og trutt. For å holde prosessen i gang, er er det klokt å la andre lese utkast underveis. Slik vil du også finne ut hvordan oppgaven din kommuniserer med en leser. Som medlem av en skrivegruppe kan du legge fram utkast, gi og få respons og finne støtte i et fellesskap av medstudenter. Skrivegruppen erstatter ikke veilederen, men er et supplement. En ideell skrivegruppe er en gruppe studenter i samme fag som er på ulike stadier i oppgaven. Er du allerede med i en kollokvie eller [lesegruppe](?p=2219) som fungerer godt, bruk den!
 
 Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin skrivegruppe i sluttfasen av doktorgradsarbeidet:
