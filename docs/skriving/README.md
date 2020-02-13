@@ -3,6 +3,8 @@ title: "Skriving"
 date: "2012-03-15"
 ---
 
+# Skriving
+
 I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil.
 
 ![soking](../images/illustrasjoner_skriving_500x450.png)

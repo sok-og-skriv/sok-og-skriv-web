@@ -3,6 +3,8 @@ title: "Å argumentere i egen tekst"
 date: "2013-01-18"
 ---
 
+# Å argumentere i egen tekst
+
 Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva er hovedpoenget i teksten din, og hvordan vil du underbygge dette? Å argumentere i en tekst betyr å gjøre det klart _hva_ det er du hevder i teksten og _hva du bygger på_. Du skal med andre ord begrunne dine påstander.
 
 Den enkleste definisjonen av argumentasjon er nettopp "påstand + begrunnelse", og dette vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. Se for eksempel "[redegjør og drøft](/skriving/struktur/redegjor-og-droft/)", "[argumentasjon i tekst](/lesing/argumentasjon-i-tekst/)" og filmen "Saying what you mean".
