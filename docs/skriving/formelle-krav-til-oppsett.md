@@ -3,6 +3,8 @@ title: "Formelle krav til oppsett"
 date: "2012-06-08"
 ---
 
+* Formelle krav til oppsett
+
 Oppsettet av oppgaver ved universitet og høgskole følger bestemte formelle krav. Her finner du en generell beskrivelse, men ulike studiesteder og -programmer kan ha mer spesifikke krav til omfang, referansestil, forside og så videre. Sjekk emnesidene for faget ditt. Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og [etisk bruk av kilder](/kildebruk-og-referanser/sitering-og-etikk/). En generell beskrivelse av _innholdet_ i en større oppgave finner du under "[o](/skriving/struktur/oppbygning-av-en-oppgave/)[ppbygning av en oppgave](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/)["](/skriving/struktur/oppbygning-av-en-oppgave/).
 
 ## Forside
