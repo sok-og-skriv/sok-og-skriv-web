@@ -3,6 +3,8 @@ title: "Tekstanalyse"
 date: "2012-04-19"
 ---
 
+# Tekstanalyse
+
 For å kunne si noe mer om kilden er relevant for oppgaven din, bør du analysere teksten for å finne ut hvorfor den er skrevet og hvilke formål forfatteren har hatt ved å skrive nettopp denne teksten.
 
 Å skrive en vitenskaplig tekst har tre viktige formål:
