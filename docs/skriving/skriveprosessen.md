@@ -3,6 +3,8 @@ title: "Skriveprosessen"
 date: "2012-05-11"
 ---
 
+# Skriveprosessen
+
 Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser som avløser hverandre: flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
 
 Skriveprosessen består av faser som involverer informasjonssøking, lesing, tolkning og problematisering. I en innledende fase trenger du å søke bredt for å orientere deg i feltet. Når du har kommet i gang med skrivingen vil du trolig måtte søke på nytt - denne gangen dypere og mer spesifikt med utgangspunkt i problemstillingen.
