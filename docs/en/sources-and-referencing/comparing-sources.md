@@ -3,6 +3,8 @@ title: "Comparing sources"
 date: "2013-02-22"
 ---
 
+# Comparing sources
+
 The quality of a source becomes clearer in comparison with other sources of the same type.
 
 For example, it is not clear what conclusions can be drawn from a journal article unless it is read in conjunction with other related papers.
