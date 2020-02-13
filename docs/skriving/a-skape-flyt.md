@@ -3,6 +3,8 @@ title: "Å skape flyt"
 date: "2012-09-05"
 ---
 
+* Å skape flyt
+
 Det er mange måter å skape flyt i en tekst. Dette kalles gjerne tekstbinding. Tekstbinding brukes til å skape de rette forventningene hos leseren: en "lesekontrakt" der leserens forventninger til oppgaven blir innfridd. Åpningen er spesielt viktig: den skal ikke love mer enn du kan holde, men heller ikke for lite. Kunsten er å vise at det som kommer er interessant, og at framstillingen er tilpasset innholdet. Nedenfor er noen eksempler på tekstbinding (NB: kategoriene er til dels overlappende):
 
 - **Disposisjon: **strukturert oversikt over innholdet
