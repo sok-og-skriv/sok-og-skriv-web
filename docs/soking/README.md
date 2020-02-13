@@ -3,7 +3,7 @@ title: "Søking"
 date: "2012-06-28"
 ---
 
-#Søking 
+#Søking
 
 I denne delen finner du tips om hvordan du søker etter informasjon og hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving.
 
