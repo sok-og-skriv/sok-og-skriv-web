@@ -3,6 +3,8 @@ title: "Opphavsrettslige forhold"
 date: "2012-05-22"
 ---
 
+# Opphavsrettslige forhold
+
 Når du skal skrive en oppgave eller publisere arbeidet ditt er det viktig at du setter deg inn i opphavsrettslige forhold, kjenner rettigheter til arbeidet ditt, respekterer opphavsretten, og  at du følger god skikk regler for gjenbruk og referering av andres åndsverk. I Norge er opphavsretten vernet av [åndsverkloven](https://lovdata.no/lov/2018-06-15-40 "(nytt vindu)").
 
 Det er også viktig at du vet hvilken praksis din institusjon følger i forhold til open access-publisering og annen tilgjengeliggjøring.
