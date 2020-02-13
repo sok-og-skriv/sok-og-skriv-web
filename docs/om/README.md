@@ -3,6 +3,8 @@ title: "Om Søk & Skriv"
 date: "2012-03-19"
 ---
 
+# Om Søk & Skriv
+
 Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving, uavhengig av studiested og -emne. Søk & Skriv er delt inn i fire hoveddeler samt en filmkarusell. De fire sporene er:
 
 [Søking](?p=988). Her synliggjør vi hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving, og hvordan gode informasjonssøk kan brukes til å avgrense oppgaven og spesifisere problemstillingen du skal ta for deg.
