@@ -5,14 +5,14 @@ actionText:  Lets begin →
 actionLink: /en/searching/
 features:
 - title: Searching
-  details: I denne delen finner du tips om hvordan du søker etter informasjon og hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving.
+  details: This section explains how searching for information can help you get started with your thesis and how well-planned searches can help you define the theme and scope of your project..
 - title: Reading
-  details: Lesing og skriving er kjerneaktiviteter i akademisk arbeid. Som ferdigheter henger de nært sammen, og påvirker hverandre. For å kunne skrive en god oppgave, må du være god til å lese, og du må være bevisst på hva og hvordan du leser.
+  details: Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.
 - title: Writing
-  details: I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil. [Skriving](/skriving/)
+  details: Academic writing has certain formal requirements. In order to write a good thesis, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis. Another important aspect is of course the correct use of sources.
 - title: Sources and references
-  details: All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag. Mulige kilder kan være bøker, rapporter, tidsskriftartikler, bilder, kart, musikk, intervju, avhandlinger, aviser og nettdokumenter.
-footer: Western Norway University of Applied Sciences - University of Bergen - University of Oslo - National lbrary of Norway
+  details: All research is based on sources. The relevance of different types of sources varies from subject to subject. Examples of sources include books, official reports, journal articles, images, maps, music, interviews, doctoral theses, newspapers and online documents.
+footer: Western Norway University of Applied Sciences - University of Bergen - University of Oslo - National Library of Norway
 ---
 
 # A digital toolbox for academic writing
