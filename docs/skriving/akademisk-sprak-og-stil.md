@@ -3,6 +3,8 @@ title: "Akademisk språk og stil"
 date: "2012-05-04"
 ---
 
+* Akademisk språk og stil
+
 Akademisk språk er klart, entydig, nøkternt og objektivt. Idealet om objektivitet kan misforstås; at noe er "objektivt" betyr ikke nødvendigvis at man unnlater å ta stilling, men at man viser hva man bygger sine standpunkter på ([argumentasjon](/skriving/struktur/a-argumenterere-i-egen-tekst/)). Dette skiller argumentasjon fra såkalt "synsing".
 
 Når man er uerfaren kan det være fristende å pynte på språket ved å bruke kompliserte uttrykksformer og fremmedord, men som regel er det bedre å unngå fremmedord når vanlige ord er like presise. Tenkere som har blitt klassikere, har gjerne en enkel og likefram stil. Nettopp derfor blir de lest av mange, uavhengig av tidens konvensjoner.
