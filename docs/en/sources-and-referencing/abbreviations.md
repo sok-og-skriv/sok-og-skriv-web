@@ -3,6 +3,8 @@ title: "Abbreviations"
 date: "2013-03-08"
 ---
 
+# Abbreviations
+
 Here are som standard abbreviations that are commonly used for citations and references:
 
 ### Abbreviation
