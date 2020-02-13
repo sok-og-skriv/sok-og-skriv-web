@@ -3,6 +3,8 @@ title: "Å skrive ryddig"
 date: "2012-06-08"
 ---
 
+# Å skrive ryddig
+
 For å kunne skrive effektivt og [strukturert](?p=881) er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
 
 Ta for deg én ting om gangen og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
