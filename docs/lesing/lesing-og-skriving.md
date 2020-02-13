@@ -2,6 +2,7 @@
 title: "Lesing og skriving"
 date: "2012-12-07"
 ---
+# Lesing og skriving
 
 Oppgaveskriving i høyere utdanning går ut på å bruke det du har lest og lært til å skrive noe selv, på en selvstendig måte. Du former din egen tekst blant annet gjennom å omforme andres tekster.
 
