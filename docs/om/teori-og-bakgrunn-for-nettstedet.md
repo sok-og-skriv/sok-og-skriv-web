@@ -3,7 +3,9 @@ title: "Teori og bakgrunn for nettstedet"
 date: "2013-05-06"
 ---
 
-# Teori og bakgrunn for nettstedet
+# Teori og bakgrunn for nettstedet 
+
+ER DENNE NØDVENDIG?
 
 Nettstedet Søk & Skriv aktualiserer god kildebruk i høyere utdanning i forhold til Det nasjonale kvalifikasjonsrammeverket (NKR). Her presiseres det at bachelorstudenter på 1. 
 syklus ”kan finne, vurdere og henvise til informasjon og fagstoff og framstille dette  

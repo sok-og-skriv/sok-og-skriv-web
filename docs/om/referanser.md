@@ -3,7 +3,7 @@ title: "Referanser"
 date: "2013-02-06"
 ---
 
-# _Referanser_
+# Referanser
 
 American Psychological Association (2010) _Publication manual of the American Psychological Association._ 6\. utg. Washington, D.C.: American Psychological Association.
 
