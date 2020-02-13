@@ -3,11 +3,11 @@ title: "Søketeknikker"
 date: "2016-07-04"
 ---
 
-## Finn gode søkeord
+# Søketeknikker
 
 Det første du må gjøre, er å finne gode søkeord. Bruk problemstillingen som utgangspunkt og identifiser sentrale begreper, inkludert alternative termer (synonymer).
 
-Tenk på følgende:
+###### Tenk på følgende:
 
 - Bruk fagterminologi. Mange databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer med tilhørende synonymer.
 - Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen.
