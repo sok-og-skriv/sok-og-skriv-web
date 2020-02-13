@@ -3,6 +3,8 @@ title: "Redegjør og drøft"
 date: "2017-08-07"
 ---
 
+# Redegjør og drøft
+
 Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for i lys av noe annet. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen eller det kan være to ulike teorier/begreper som drøftes mot hverandre.
 
 Men hva betyr det å redegjøre, og hva er egentlig drøfting?
