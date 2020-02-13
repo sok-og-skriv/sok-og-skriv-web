@@ -3,7 +3,7 @@ title: "Planlegg søket ditt"
 date: "2012-04-19"
 ---
 
-## Skaff deg oversikt
+# Planlegg søket ditt 
 
 I en tidlig fase kan det være nødvendig å orientere seg bredt for å avklare problemstilling, metode og tilnærming. Da kan det være nyttig å skumlese ulike kilder. Noen av kildene vil du ta med deg i det videre arbeidet, mens andre bare er nyttige i den innledende fasen.
 
