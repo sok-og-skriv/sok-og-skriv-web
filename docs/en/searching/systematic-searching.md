@@ -9,21 +9,10 @@ Before conducting a systematic search, you need to [develop a clear research qu
 
 The PICO form can be used to structure your research question and identify its most important elements.  The acronym stands for central elements of a research question in the medical sciences.
 
-**P**
-
-patient, population, participants, problem, diagnosis
-
-**I**
-
-intervention, action/decision, exposure
-
-**C**
-
-comparison, **c**ontrol or alternative intervention
-
-**O**
-
-outcome, result, achievement (the new information you are looking for)
+**P** patient, population, participants, problem, diagnosis
+**I** intervention, action/decision, exposure
+**C** comparison, control or alternative intervention
+**O** outcome, result, achievement (the new information you are looking for)
 
 Currently PICO is the most used framework within medicine and healthcare. PICO clarifies what/who your research question deals with, it shows which intervention you want to examine, and which results you are trying to accomplish.
 
@@ -229,7 +218,10 @@ In certain subjects, after completing the systematic search, you need to describ
 - Have you used the controlled subject terms of the database?
 - Have you used other search facilities in the database?
 - The date of when the search was composed
-- **Tip:** When you are ready with a search in a database, it is a good idea to save the search history so that you can retrieve it later. The search history is the best way to document your search. Remember to note which databases you have searched in.
+
+::: tip Remember to note the database
+When you are ready with a search in a database, it is a good idea to save the search history so that you can retrieve it later. The search history is the best way to document your search. Remember to note which databases you have searched in.
+:::
 
 ## Further Reading:
 
