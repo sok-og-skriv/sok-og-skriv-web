@@ -3,6 +3,8 @@ title: "Kildesammenligning"
 date: "2012-04-20"
 ---
 
+# Kildesammenligning
+
 Kvaliteten ved en kilde blir tydeligere når du sammenligninger kilder av samme type.
 
 Hva du kan få ut av en artikkel i et tidsskrift er for eksempel ikke gitt før den leses i sammenheng med andre faglige artikler.
