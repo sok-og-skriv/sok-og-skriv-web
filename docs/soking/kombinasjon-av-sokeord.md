@@ -3,6 +3,8 @@ title: "Kombinasjon av søkeord"
 date: "2014-08-22"
 ---
 
+# Kombinasjon av søkeord
+
 Når du har kommet fram til en tydelig problemstilling og funnet relevante søkeord, må du tenke gjennom hvordan disse skal kombineres. I de fleste databaser kan du kombinere søkeord på tre forskjellige måter: med AND, OR eller NOT (disse tre kalles Boolske operatorer).
 
 ## Kombinasjon med AND
