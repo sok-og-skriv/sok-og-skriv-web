@@ -3,6 +3,8 @@ title: "Søk & Skriv i undervisning"
 date: "2013-09-23"
 ---
 
+# Søk & Skriv i undervisning
+
 Søk & Skriv er hovedsakelig rettet mot studenter som skal skrive oppgaver på bachelor- og masternivå. Nettstedet kan brukes på flere måter: som utgangspunkt for organisert undervisning ved universiteter og høgskoler, til egenaktivitet for studenter og som oppslagsverk.
 
 Denne siden er tenkt som en idébank for faglærere, bibliotekarer og andre som underviser og veileder studenter i skriveprosessen. Her finner du tips om undervisning og eksempler på ulike kursopplegg som kan tilpasses fagenes tradisjoner og  læringsmål.
