@@ -15,7 +15,7 @@
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
       },
-      "imageUrl": "/ingerids-150x150.jpg",
+      "imageUrl": "/ingerid-150x150.jpg",
       "url": "https://www.ub.uio.no/om/ansatte/uboledadm/ingerids/index.html"
     },
     {
@@ -24,7 +24,7 @@
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
-      "imageUrl": "/henry-150x150.jpg",
+      "imageUrl": "/henry-150x150.png",
       "url": "https://www.uib.no/personer/Henry.Langseth"
     },
     {
@@ -33,7 +33,7 @@
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
-      "imageUrl": "/tarje-150x150.jpg",
+      "imageUrl": "/ingunn-150x150.jpg",
       "url": "https://www.uib.no/personer/Ingunn.Rødland"
     },
     {
@@ -69,7 +69,7 @@
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
-      "imageUrl": "/tarje-150x150.jpg",
+      "imageUrl": "/oyunn-150x150.jpg",
       "url": "https://www.uib.no/personer/Øyunn.Viken"
     }
   ]
