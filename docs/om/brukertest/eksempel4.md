@@ -14,7 +14,7 @@ title: "Eksempel 4"
 Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken har et spesielt format\]. https://doi.org/10.xxx
 :::
 
-::: tip Eksempler
+::: warning Eksempler
 
 Watkins (2012) hevder at ... (s. 54).
 

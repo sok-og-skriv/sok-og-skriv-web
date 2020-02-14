@@ -3,6 +3,8 @@ title: "Chicago forfatter-år"
 date: "2012-09-18"
 ---
 
+# Chicago forfatter-år
+
 Chicago-stilen finnes i to varianter, _forfatter-årstallsstil_, som vi presenterer her (også kalt _Chicago B_), og [fotnotestil](/kildebruk-og-referanser/referansestiler/chicago-fotnoter/ "Chicago fotnoter").  
 Denne framstillingen er basert på [_The Chicago Manual of Style_. 17. utg](https://www.chicagomanualofstyle.org/book/ed17/part3/ch15/toc.html).
 

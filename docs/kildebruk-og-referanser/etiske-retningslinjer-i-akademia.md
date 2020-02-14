@@ -3,6 +3,8 @@ title: "Etiske retningslinjer i akademia"
 date: "2012-05-15"
 ---
 
+# Etiske retningslinjer i akademia
+
 Akademisk redelighet innebærer at du vektlegger prinsippene og standardene til høyere utdanningsinstitusjoner når du arbeider faglig. [Benum (2003)](/referanser/ "Referanser") viser blant annet til at redelighet ved universitetet er knyttet til bestemte verdier:
 
 - Akademisk frihet er knyttet til den frie forskning. Universitetet skal være fremmer av forskning og kunnskap som ikke er styrt av markedskreftene

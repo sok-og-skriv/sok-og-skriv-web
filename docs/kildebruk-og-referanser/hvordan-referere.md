@@ -3,6 +3,8 @@ title: "Hvordan referere?"
 date: "2012-04-20"
 ---
 
+# Hvordan referere?
+
 Du refererer korrekt ved å angi kilde i teksten med en henvisning og oppgi fullstendig informasjon om kilden i referanselisten (også kalt litteraturliste eller bibliografi). Formålet er at en leser selv skal kunne oppsøke kilden, enten for å lese videre eller for å kunne vurdere din tolkning. Dersom du henviser til en avgrenset del, skal henvisningen opplyse hvor den aktuelle delen befinner seg, som oftest med sidetall.
 
 Du trenger ikke å referere absolutt alt. Les mer under [Hva refereres?](?p=964)
