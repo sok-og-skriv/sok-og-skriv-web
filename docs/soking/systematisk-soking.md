@@ -3,6 +3,8 @@ title: "Systematisk søking"
 date: "2012-08-23"
 ---
 
+# Systematisk søking
+
 I en del fag forventes det at du lærer deg å gjøre systematiske søk etter forskningsresultater. Dette gjelder fag som er opptatt av kunnskapsbasert praksis, som sykepleie, medisin, psykologi og til dels pedagogikk. Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart.
 
 ## Problemstilling

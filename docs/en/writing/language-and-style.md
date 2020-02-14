@@ -3,6 +3,8 @@ title: "Language and style"
 date: "2013-02-21"
 ---
 
+# Language and style
+
 Academic language should be clear, unambiguous and objective. “Objective” does not mean that you avoid taking a position; rather, it means to expose its foundations (reasons, evidence). Inexperienced writers are often tempted to embellish their language, using complicated expressions and technical terminology. As a rule of thumb, however, you should choose ordinary language as long as it is adequate. Scholars who have achieved classical status often write in a plain and direct style. This is precisely why – regardless of changing literary conventions – they have been widely read over the years.
 
 Many academic studies are, by necessity, demanding to read. This is partly due to their high level of specialisation and partly due to formal requirements such as detailed descriptions of methodology and findings, numerous references etc. This means that the authors have to put down a good deal of work in order to produce a readable text.

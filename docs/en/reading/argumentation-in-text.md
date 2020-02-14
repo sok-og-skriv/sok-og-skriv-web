@@ -3,6 +3,8 @@ title: "Argumentation in text"
 date: "2013-02-21"
 ---
 
+# Argumentation in text
+
 One of most the fundamental things we use language for is argument. Arguing means claiming that something is true and trying to persuade other people to agree with your claim by presenting evidence to substantiate it. An argument is statement with three components:
 
 1. A point of view, a claim, something we are arguing _in favour of  

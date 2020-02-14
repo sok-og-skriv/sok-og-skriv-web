@@ -2,6 +2,7 @@
 title: "Lesing"
 date: "2012-03-15"
 ---
+
 # Lesing
 
 Lesing og skriving er kjerneaktiviteter i akademisk arbeid. Som ferdigheter henger de nært sammen, og påvirker hverandre. For å kunne skrive en god oppgave, må du være god til å lese, og du må være bevisst på _hva_ og _hvordan_ du leser.

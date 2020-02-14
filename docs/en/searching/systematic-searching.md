@@ -3,6 +3,8 @@ title: "Systematic searching"
 date: "2017-11-13"
 ---
 
+# Systematic searching
+
 ## Research question
 
 Before conducting a systematic search, you need to [develop a clear research question](/en/writing/the-writing-process/from-topic-to-research-question/ "From topic to research question"). This allows a precise expression of your information needs and makes searching easier.

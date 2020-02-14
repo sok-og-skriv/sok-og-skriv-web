@@ -3,6 +3,8 @@ title: "Kollokvie"
 date: "2012-12-07"
 ---
 
+# Kollokvie
+
 Kollokviegruppe (samtalegruppe, diskusjonsgruppe; "kollokvie" betyr "samtale", av latin _colloquium_). 
 
 Å diskutere tekster med andre er en god måte få et aktivt forhold til tekstene og deres faglige innhold på. Du leser mer oppmerksomt hvis du etterpå skal diskutere det du leser med noen. Gjennom å diskutere øver du deg i å bruke begreper og i å argumentere.

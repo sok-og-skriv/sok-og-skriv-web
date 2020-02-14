@@ -3,6 +3,8 @@ title: "Ways of reading"
 date: "2013-02-21"
 ---
 
+# Ways of reading
+
 There are many ways of reading, which are determined partly by what is read, but also by the purpose of reading the given text. We read novels differently from introductory works on statistics. However, whether we we read a novel for pleasure or for literary criticism will also affect how we read it.
 
 Pleasure reader get immersed in the story, and get to know the characters and wonder about the outcome. A reader analysing a novel, however, looks for answers to specific questions. How is the narrative structured? How are the characters introduced and described? What literary devices does the author use? What type of novel is it?

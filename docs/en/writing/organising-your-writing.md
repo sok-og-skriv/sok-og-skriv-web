@@ -3,6 +3,8 @@ title: "Writing one thing at a time"
 date: "2013-02-21"
 ---
 
+# Writing one thing at a time
+
 In order to write effectively, it is important to understand the different functions that your writing needs to perform. For example, you need to distinguish between **presentation, interpretation, analysis, discussion** and so on. A well organised text tackles one function at a time. It will not, for example, combine presentation with discussion.
 
 One way of distinguishing between these different functions is to put all your introductory material into dedicated chapters (a theory chapter, a chapter to present your findings etc.) and then put everything that can be classified as discussion into a separate discussion chapter. You may also choose to discuss as you go along: This is common practice in philosophical and theoretical dissertations. Whatever strategy you adopt, it is important to **indicate clearly** which parts of your text are descriptive in nature and which parts represent your interpretation, your arguments, other scholars’ arguments, and so on. This will help the reader to follow your reasoning, and help you to fulfil the research ideals of reflexivity and objectivity.

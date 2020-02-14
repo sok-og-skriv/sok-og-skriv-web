@@ -3,6 +3,8 @@ title: "Academic genres"
 date: "2013-02-21"
 ---
 
+# Academic genres
+
 When studying you have to read different types of texts: textbooks, reference works, scholarly and popular articles and essays, conference papers, official reports and theses.
 
 ## Be aware of different genres

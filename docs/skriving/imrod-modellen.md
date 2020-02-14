@@ -3,7 +3,7 @@ title: "IMRoD-modellen"
 date: "2012-09-05"
 ---
 
-* IMRoD-modellen
+# IMRoD-modellen
 
 IMRaD står for _Introduction - Method - Results - and - Discussion_. På norsk kan vi si _Introduksjon - Metode - Resultater - og - Diskusjon_ (IMRoD).
 

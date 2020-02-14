@@ -3,6 +3,8 @@ title: "Structure and argumentation"
 date: "2013-02-21"
 ---
 
+# Structure and argumentation
+
 The structure of your text is the “skeleton” that holds the various elements together - in the right order. In order to ensure that your text is properly structured and flows well, it is important to understand the function of the different chapters. In a thesis, everything you write has to have a purpose. In this section you will find advice about what the different chapters should include, and what functions they are meant to serve.
 
 In a good thesis:

@@ -3,6 +3,8 @@ title: "Searching techniques"
 date: "2013-02-21"
 ---
 
+# Searching techniques
+
 ## Finding good search terms
 
 In order to find good search terms, use your research question as a starting point and identify key terms, including their synonyms.

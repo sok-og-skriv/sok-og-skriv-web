@@ -3,7 +3,7 @@ title: "About Search & Write"
 date: "2012-05-25"
 ---
 
-#About Search & Write
+# About Search & Write
 
 Search & Write is for all students who want to learn more about information gathering and academic writing, independent of institution and subject area.
 

@@ -3,6 +3,8 @@ title: "Flow"
 date: "2013-02-21"
 ---
 
+# Flow
+
 In order to ensure a nice flow to your text, several cohesive devices are available. From the start, it is important to instil the right expectations in the reader. In other words, you are a party to a “reading contract” under which the reader’s expectations when reading the text must be satisfied. The opening is especially important. You must not promise more than you can deliver (although be careful not to undersell yourself). The idea is to show that what follows is interesting and appropriately presented. The following are examples of cohesive devices (N.B.: these categories to some extent overlap):
 
 - **Transitions: **you can use transitions between paragraphs and chapters to help the reader progress smoothly through your text by signalling what is to follow.

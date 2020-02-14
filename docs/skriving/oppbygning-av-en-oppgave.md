@@ -3,6 +3,8 @@ title: "Oppbygning av en oppgave"
 date: "2012-06-08"
 ---
 
+# Oppbygning av en oppgave
+
 Her finner du en generell beskrivelse av de viktigste elementene i større oppgaver på bachelor- og masternivå. Kapittelstrukturen tar utgangspunkt i empiriske oppgaver, men den har også relevans for deg som skal skrive teoretisk oppgave. Husk at ulike fag har forskjellige krav til oppsett; undersøk hva som gjelder i ditt fagmiljø.
 
 Når det gjelder innholdet i de ulike kapitlene, se også [Å skrive ryddig.](/skriving/sprak-og-stil/aa-skrive-ryddig/)

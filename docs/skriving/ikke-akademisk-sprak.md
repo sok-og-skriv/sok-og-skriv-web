@@ -3,7 +3,7 @@ title: "Ikke-akademisk språk"
 date: "2012-06-10"
 ---
 
-* Ikke-akademisk språk
+# Ikke-akademisk språk
 
 Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. Det kan ofte være en fordel å stryke adjektiver. For å få en ryddigere tekst kan det også være en fordel å kutte ut småord.
 

@@ -3,6 +3,8 @@ title: "Plan your searches"
 date: "2012-03-16"
 ---
 
+# Plan your searches
+
 ## Getting an overview
 
 During the early stages of your thesis work, you need to gain an overview of your chosen field. This will help to clarify your research questions, your methods and your general approach. At this point you may find it useful to skim through a few different sources. Some of them will continue to be valuable resources as your project progresses, while others will only be useful at the beginning.

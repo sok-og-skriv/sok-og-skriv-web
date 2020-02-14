@@ -3,6 +3,8 @@ title: "References"
 date: "2013-03-20"
 ---
 
+# References
+
 Aveyard, H. (2007) _Doing a literature review in health and social care._ Maidenhead : Open University Press.
 
 Bean, J. C. (1996) _Engaging ideas : the professor's guide to integrating writing, critical thinking, and active learning in the classroom_. San Francisco, Calif.: Jossey-Bass.

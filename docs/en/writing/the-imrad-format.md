@@ -3,6 +3,8 @@ title: "The IMRaD format"
 date: "2013-02-21"
 ---
 
+# The IMRaD format
+
 IMRaD is an acronym for **Introduction – Method – Results – and – Discussion**.
 
 The IMRaD format is a way of structuring a scientific article. It is often used in health care and the natural sciences. Unlike theses in the social sciences, the IMRaD format does not include a separate theory chapter.

@@ -3,6 +3,8 @@ title: "Formidling"
 date: "2012-06-28"
 ---
 
+# Formidling
+
 Formidling er en del av den akademiske virksomheten. Eksempler på formidling kan være konferanse- eller seminarbidrag, posterpresentasjoner, aviskronikker, så vel som publisering i tidsskrift eller bøker. Masteroppgaven din kan du velge å formidle i din institusjons arkiv, slik at den er fritt tilgjengelig for verden. Dette kalles gjerne egenarkivering.
 
 ## Skriftlig presentasjon

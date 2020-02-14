@@ -3,6 +3,8 @@ title: "The writing process"
 date: "2013-02-21"
 ---
 
+# The writing process
+
 Working on a text involves going through a creative process. Such processes have different phases: sometimes your writing will flow well and be enjoyable, while at other times you may feel that you do not make progress, and that you are chained to your desk. Feelings of doubt and insecurity may arise while and because the work is _in progress_. At the same time, unexpected things may provide inspiration. Enjoy yourself – and remind yourself that creative processes are _always_ something of an up-and-down experience!
 
 The writing process consists of various phases involving searches for information, reading, interpretation and the developing of a research question. In the initial phase you will need to make broad searches to orientate yourself in the field. As your writing progresses you may need to make new searches – this time more specific ones, focused on your research question.

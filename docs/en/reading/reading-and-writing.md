@@ -3,6 +3,8 @@ title: "Reading and writing"
 date: "2013-02-21"
 ---
 
+# Reading and writing
+
 The purpose of written assignments in higher education is for you to use what you have read and learned and independently write your own text. One of the ways in which you create your own text is by restructuring elements from texts written by others. Reading while writing implies reading from the perspective of a research question and actively using what you read to develop your own analyses and argumentation. Through the process of reading you collect material that you can use in your own writing.
 
 Remember that the material you use is taken out of its original context. When you refer to or cite another text, you make it your own. You are responsible for everything in your text. But, you cannot simply appropriate other people’s thoughts and writings as if they were your own. You must distinguish clearly between your own ideas, paraphrases (indirect quotations) and direct quotations. In other words, you need to master basic [citation techniques](/en/sources-and-references/how-to-cite/).

@@ -3,6 +3,8 @@ title: "Formal requirements"
 date: "2013-02-21"
 ---
 
+# Formal requirements
+
 Academic writing at the university and college level generally includes specific formatting requirements. Here you will find a general description of these requirements, though different institutions and programs may have more specific requirements concerning scope, [reference style](/en/sources-and-references/reference-styles/), title page, and so forth. Be sure to check the guidelines in your discipline for these specifics. While many of these requirements may vary by field or institution, generally, requirements concerning citations, references, and [ethical guidelines](/en/sources-and-references/why-cite-sources/) are strict and well-defined. You can find a general description of _contents_ in a large assignment under [Structuring a thesis](/en/writing/structure-and-argumentation/structuring-a-thesis/).
 
 ## Title Page

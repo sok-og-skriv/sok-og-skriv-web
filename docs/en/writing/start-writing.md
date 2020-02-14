@@ -3,6 +3,8 @@ title: "Start writing"
 date: "2013-02-21"
 ---
 
+# Start writing
+
 As a student, your motivation will often be the question “Why?” This is the same question that motivates many researchers. A researcher may question the validity of a theory or observe something that appears to lack an explanation. He or she investigates into a phenomenon, discusses with peers, writes down his or her ideas, explores potential solutions, makes numerous notes and forms them into short texts and preliminary drafts. Do as the researcher: make creative use of your feelings of curiosity and uncertainty. You will find that you become less uncertain as your ideas about your thesis gradually fall into place.
 
 Talk about your thesis with your fellow students and anyone else who will listen. It can be very illuminating to put your ideas into words. Why do you think that this theme is interesting? Which potential research questions can you think of? How might you answer your research question(s)? What conclusion do you expect to come to? Presenting a draft to your [fellow students](/en/writing/the-writing-process/writing-groups/ "Writing groups") is an excellent way of getting started.

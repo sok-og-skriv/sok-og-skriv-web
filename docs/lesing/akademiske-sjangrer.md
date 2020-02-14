@@ -2,6 +2,7 @@
 title: "Akademiske sjangrer"
 date: "2012-06-19"
 ---
+
 # Akademiske sjangrer
 
 Når du studerer, leser du ulike typer tekster: lærebøker, oppslagsverk, vitenskapelige og populærvitenskapelige artikler og essays, konferanseinnlegg, rapporter og avhandlinger.

@@ -3,6 +3,8 @@ title: "Non-academic language"
 date: "2013-02-21"
 ---
 
+# Non-academic language
+
 Everyday speech, personal views, small talk and strong characterisations should be avoided in academic texts. You may also find it helpful to omit adjectives and "filler words". 
 
 ### Vocabulary

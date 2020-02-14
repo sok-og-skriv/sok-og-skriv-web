@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /home.png
-actionText:  Lets begin →
+actionText:  Let's begin →
 actionLink: /en/searching/
 features:
 - title: Searching

@@ -3,6 +3,8 @@ title: "Writing groups"
 date: "2013-02-21"
 ---
 
+# Writing groups
+
 Writing a text such as a master’s thesis requires you to work steadily for an extended period. When working with a text, it is wise to allow others to read your text. This is a useful way of finding out how effectively your text communicates your ideas to the reader. Join a writing group to present your drafts, give and receive feedback, and find support from a community of fellow students. Participation in a writing group does not replace, but supplements your supervisor. A good writing group is a group of students who are all studying the same subject, preferably at the same level but who are at different stages in their thesis writing process ([Dysthe og Lied, 1999](/en/about-search-write/references/)).
 
 University of Bergen PhD students Kajsa Parding and Sandhya Tiwari talk about their writing club, and how it has helped them with their thesis work.

@@ -2,6 +2,7 @@
 title: "Argumentasjon i tekst"
 date: "2012-12-07"
 ---
+
 # Argumentasjon i tekst
 
 Å argumentere er en av de grunnleggende tingene vi kan gjøre med språket. Overalt hvor folk snakker finner vi argumentasjon. Å argumentere er å hevde noe og å forsøke å få andre til å gå med på det vi hevder gjennom å framføre grunner for å hevde det. Argumentasjonen utgjør et resonnement som består av
