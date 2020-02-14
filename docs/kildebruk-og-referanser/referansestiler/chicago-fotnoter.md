@@ -33,7 +33,7 @@ Finn ut om hvordan du siterer og [henviser i teksten, lager noter og referanseli
 
 ### Bok
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -51,7 +51,7 @@ Klass, Morton. _Ordered Universes: Approaches to the Anthropology of Religion._ 
 
 ### E-bok
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -69,7 +69,7 @@ Childs, Peter. _Modernism._ London: Taylor and Francis, 2016. ProQuest Ebook Cen
 
 ### Oversatt bok
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -87,7 +87,7 @@ Vargas Llosa, Mario. _Kelterens drøm_. Oversatt av Kari Risvik og Kjell Risvik.
 
 ### Kapittel i redigert bok
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -107,7 +107,7 @@ Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etterna
 
 Ved 1-3 forfattere listes alle forfatterne, i den rekkefølgen de er satt opp på tittelbladet til boken, både i note og i referanseliste. Ved flere enn 3 forfattere nevnes kun første forfatter, etterfulgt av et al. (et aali = lat. og andre) i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første 7, etterfulgt av et al.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -131,7 +131,7 @@ Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jeger
 
 ### Bok i flerbindsverk
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -151,7 +151,7 @@ Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, red
 
 Doktoravhandlinger behandles ofte som bøker. Den eneste forskjellen er at avhandlingstype og universitet erstatter utgivelsessted og forlag.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -171,7 +171,7 @@ Etternavn, Fornavn. _Tittel_. Avhandlingstype. Institusjon. Årstall.
 
 Upubliserte avhandlinger (det gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -189,7 +189,7 @@ Stange, Espen. "Inspirert av The New Brutalism?: arkitektureksempler fra Bergen 
 
 ### Artikkel i trykt tidsskrift
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -207,7 +207,7 @@ Melve, Leidulf. "Komparativ historie: Ei utfordring for historiefaget?". _Histor
 
 ### Artikkel i elektronisk tidsskrift
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -227,7 +227,7 @@ Sjöstrand, Ylva. "Raka eller böjda ben? Om variation bland älgarna på Nämfo
 
 Ofte er det nok å referere til avisartikler i teksten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -247,7 +247,7 @@ Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [http
 
 Ofte er det nok å referere til avisartikler i teksten, og det er ikke strengt nødvendig å liste dem opp i litteraturlisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -267,7 +267,7 @@ Nærø, Sturle Scholz. "Ingen tok Ketil Bjørnstad på alvor." _Aftenposten_. 25
 
 Ofte er det nok å referere til nettsider i teksten, og det er ikke strengt nødvendig å liste dem opp i litteraturlisten. Hvis det likevel ønskes gjort, står nettstedets navn i stedet for forfatternavn i litteraturlisten.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -287,7 +287,7 @@ Nettsted. "Artikkeltittel." Dato. URL/DOI
 
 Ofte er det nok å referere til nettsider eller blogger i teksten, og det er ikke strengt nødvendig å liste dem opp i litteraturlisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -307,7 +307,7 @@ Tetens, Kristian. "Dishing the Victorian Dirt," _The Victorian Peeper. Nineteent
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet).
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -321,7 +321,7 @@ Håvamål betyr «den høyes tale»19
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -337,7 +337,7 @@ Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk o
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er første og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -355,7 +355,7 @@ Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vik
 
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -379,7 +379,7 @@ I oppgaver/avhandlinger med mange illustrasjoner er det vanlig å ha en egen lis
 
 ### Fotografi
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -393,7 +393,7 @@ Olsen, Olai Schumann. _St. Hans Strædet i Bergen_. Foto. Ca. 1920. UBB-SO-0434.
 
 ### Reproduksjon av kunstverk
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -407,7 +407,7 @@ Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 x 73,5 cm..
 
 ### Digitale bilder/film
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -429,7 +429,7 @@ Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, 
 
 Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -450,7 +450,7 @@ Berlioz, Hector. "Rex tremendæ" fra _Grande messe des morts, op.5, h75_. Bror 
 Det finnes egne, spesialiserte regler for detaljerte og inngående henvisninger til juridisk materiale. Jusstudenter bør se nærmere på anbefalinger fra de juridiske bibliotek i f.eks. [Bergen](https://www.uib.no/ub/76645/rettsvitenskap#hjelp-og-veiledninger) eller [Oslo](https://www.ub.uio.no/skrive-publisere/referere/fag/rettsvitenskap.html). Chicago anbefaler _The Blue Book: A Uniform System of Citation_, publisert av the Harvard Law Review Association.  
 Eksemplene nedenfor viser hvordan man kan håndtere enkle referanser til lovtekster og lignende. Merk at Chicago 17 i all hovedsak setter lovtekster og tilsvarende i fotnoten. Slike dokumenter føres unntaksvis inn i en referanseliste.
 
-I teksten
+Kilden i teksten
 
 I noten
 
@@ -469,7 +469,7 @@ Korttittelen kan brukes i den målformen den er vedtatt, selv om oppgaven er på
 
 ### Forskrifter
 
-I teksten
+Kilden i teksten
 
 I noten
 
@@ -485,7 +485,7 @@ Forskrifter føres vanligvis ikke inn i litteraturlisten.
 
 ### Stortingsmeldinger
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -505,7 +505,7 @@ Pagineringen kan være ulik mellom trykt og elektronisk versjon av offentlige do
 
 ### Proposisjoner
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -523,7 +523,7 @@ Prop. 125 LS (2009-2010). _Endringer i skatte- og avgiftsreglane mv._ Oslo: Fina
 
 ### Norges offentlige utredninger (NOU)
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -543,7 +543,7 @@ NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inklu
 
 Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver, sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel Bibelen, Koranen, klassiske skuespill, dikt og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, enten ved å oppgi tekststed i parentes eller i en fotnote. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å ta inn i referanselisten til slutt.
 
-I teksten
+Kilden i teksten
 
 I noten
 
@@ -559,7 +559,7 @@ I Lukasevangeliet (Luk. 1:34) er Maria i tvil om hun virkelig vil føde Guds bar
 
 For manuskripter som er under vurdering skal tittel stå i anførselstegn, ikke kursiv. Erstatt dato/årstall med teksten innsendt for publisering. Ellers følges retningslinjene for den aktuelle referansetypen.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -579,7 +579,7 @@ Trille, Lille. _”Stort og smått i eggbransjen”_. Norsk tidsskrift for fikti
 
 Dersom det er en artikkel eller kapittel i en bok, oppgi sidetall hvis tilgjengelig. Dersom publikasjonstidspunkt er kjent, kan dette antydes, markert med forventet publisering (for eksempel høsten 2020) i stedet for publiseringsdato. Ellers skriver du bare ”under publisering.” For øvrig følges retningslinjene for den aktuelle referansetypen, ta med for eksempel årgang og nummer for tidsskrift hvis dette er kjent.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -599,7 +599,7 @@ Nordmann, Ola. _Håp og Tro: En studie av religiøse forestillinger_. Oslo: Fikt
 
 Personlig kommunikasjon kan være direkte tale, e-post og liknende. Forbokstaver og etternavn samt nøyaktig dato må oppgis. Personlig kommunikasjon er sjelden tilgjengelig for leseren, men kan være det som i e-post. Du kan ha selve e-posten med som et vedlegg etter oppgaveteksten. Du oppgir kun personlig kommunikasjon om dette er klarert med vedkommende (noe som ikke var mulig i det fiktive eksempelet). Det er vanlig å bare oppgi slik kommunikasjon i notene, ikke i referanselisten.
 
-I teksten
+Kilden i teksten
 
 I noten
 
@@ -611,7 +611,7 @@ I noten
 
 I primærkilder og arkivmateriale er det ofte brukt unike forkortelser, som betegnelser for dokumenter, arkiver, kataloger og institusjoner. Det er vanlig å gruppere disse referansene for seg i referanselisten, og å inkludere en liste over forkortelsene som er brukt. Det varierer hva slags informasjon som finnes i/om kilden – oppgi den så nøyaktig og fullstendig som mulig.
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 
@@ -633,7 +633,7 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 
 ### Sosiale medier
 
-I teksten
+Kilden i teksten
 
 I noten og referanseliste
 

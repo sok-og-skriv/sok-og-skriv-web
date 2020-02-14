@@ -23,9 +23,9 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 
 ### Bok
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall)  
 (Forfatter årstall, sidetall)  
@@ -40,9 +40,9 @@ Klass, Morton. 1995. _Ordered Universes: Approaches to the Anthropology of Relig
 
 ### E-bok
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall, sidetall)
 
@@ -56,9 +56,9 @@ Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/ki
 
 ### Bok med flere forfattere
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfattere årstall, sidetall)
 
@@ -72,9 +72,9 @@ Forfatterne viser til at studenter ofte vegrer seg for å omarbeide tekstutkast 
 
 ### Oversatt bok
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall)
 
@@ -86,9 +86,9 @@ Vargas Llosa, Mario. 2012. _Kelterens drøm_. Oversatt av Kari Risvik og Kjell R
 
 ### Kapittel/artikkel i redigert bok
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall, sidetall)
 
@@ -100,9 +100,9 @@ Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av For
 
 ### Bok i flerbindsverk
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall, sidetall)
 
@@ -114,9 +114,9 @@ Imsen, Steinar og Jørn Sandnes. 1995. _Avfolkning og union: 1319–448_. Bind 4
 
 ### Avhandling – doktor/master (publisert)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter (årstall)
 
@@ -128,9 +128,9 @@ Langeland, Fredrik. 2007. «Harde kropper: en kulturvitenskapelig analyse av mas
 
 ### Artikkel i trykt tidsskrift
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall, sidetall)
 
@@ -142,9 +142,9 @@ Tjøtta, Sigve. 2016. «Kunnskapsproblemet i skolen.» _Samfunnsøkonomen_ 130
 
 ### Artikkel i elektronisk tidsskrift
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter (årstall, sidetall)
 
@@ -164,9 +164,9 @@ Fra aviser kan vi sitere nyhetsartikler, ledere, kronikker, annonser m.m. Hvis d
 Hvis du har hentet artikkelen elektronisk fra et nyhetsarkiv som krever abonnement, kan du vurdere å sette databasens navn fremfor URL til slutt.  
 Noen artikler oppgir ikke forfatter/journalist. Da setter du i stedet avisens navn i forfatterfeltet, og bruker dette som forfatter i forbindelse med sitatet.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall, eventuelt sidetall)
 
@@ -182,9 +182,9 @@ Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 
 
 ### Nettside uten forfatter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Nettsted årstall).
 
@@ -196,9 +196,9 @@ Statistisk sentralbyrå. 2018. «Finansiering av politiske partier.» Oppdatert 
 
 ### Nettside med forfatter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter årstall)
 
@@ -215,9 +215,9 @@ Hvis du likevel vil legge til denne opplysningen, plasseres den rett før URL.
 
 Generelle leksika og oppslagsverk som ordbøker blir ofte nevnt i en parentes i teksten uten at det gis fullstendig referanse i referanselisten. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet) og oppgi publiseringsdato, evt dato for nedlasting. Hvis du ønsker å gi full referanse, se eksempel under.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (_Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato)
 
@@ -231,9 +231,9 @@ _The Internet Encyclopedia of Philosophy,_ s.v. «John Locke (1632–1749),» le
 
 Generelle oppslagsverk blir ofte bare nevnt i teksten uten at det gis fullstendig referanse i referanselisten. Hvis du har konsultert en utgave som ikke er den første, bør du oppgi hvilken. For oppslagsverker som i mindre grad er allment kjent eller utbredt (og ved tvil) bør du oppgi fullstendig referanse med publiseringsdata. For artikler uten oppgitt forfatter, henvis til oppslagsordet markert med s.v. (sub verbo, latin for under ordet). For artikkel med oppgitt forfatter, se eksempel under.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter («Artikkeltittel»)
 
@@ -251,9 +251,9 @@ Denne kildeinformasjonen kan vanligvis gis i selve teksten fremfor i referanseli
 
 ### Foto
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Oppgi en billedtekst under verket med henvisning til kunstner og rettighetshaver.
 
@@ -265,9 +265,9 @@ Olsen, Olai Schumann. _St. Hans Strædet. _Ca. 1920.Foto. UBB-SO-0434. Universi
 
 ### Reproduksjon av kunstverk
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Kildehenvisningen er i billedteksten.
 
@@ -279,9 +279,9 @@ Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.0
 
 ### Digitale bilder/film
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Opphavsperson, årstall)
 
@@ -297,9 +297,9 @@ Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, 
 
 Har du mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Komponist, evt. utøver årstall for utgivelse)
 
@@ -313,9 +313,9 @@ Bull, Ole. 2007. ”Sæterjentens søndag”. Dag Arnesen trio: Dag Arnesen, kla
 
 Det finnes egne, spesialiserte regler for detaljerte og inngående henvisninger til juridisk materiale. Chicago anbefaler _The Blue Book: a Uniform System of Citation_, publisert av the Harvard Law Association. Eksemplene nedenfor viser hvordan man kan håndtere enkle referanser til lovtekster og lignende.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Lov korttittel, paragraf, årstall)
 
@@ -327,9 +327,9 @@ Introduksjonsloven. _Lov om introduksjonsordning og norskopplæring for nyankomn
 
 ### Forskrifter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forskrift korttittel, paragraf, årstall)
 
@@ -341,9 +341,9 @@ Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehab
 
 ### Stortingsmeldinger og proposisjoner
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Departement årstall, eventuelt sidetall)
 
@@ -355,9 +355,9 @@ Arbeids- og inkluderingsdepartementet. «Arbeidsinnvandring.» St. meld. nr. 18 
 
 ### Norges offentlige utredninger (NOU)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (NOU årstall: nr, sidetall)
 
@@ -371,7 +371,7 @@ NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inklu
 
 Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver, sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel Bibelen, Koranen, klassiske skuespill, dikt og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, ved å oppgi sted i parentes. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å ta inn i referanselisten til slutt.
 
-I teksten
+Kilden i teksten
 
 I Lukasevangeliet (Luk 1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
 
@@ -379,9 +379,9 @@ I Lukasevangeliet (Luk 1:34) er Maria i tvil om hun virkelig vil føde Guds barn
 
 Henvisningen til et upublisert manuskript inneholder forfatternavn, kommentaren upublisert manuskript og årstall. I referanselisten skal manuskriptets tittel stå i anførselstegn, ikke kursiv. Føy også til datoen for den versjonen du har konsultert og hva slags format manuskriptet da forelå i. Ellers følges retningslinjene for den aktuelle referansetypen.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, upublisert manuskript, årstall)
 
@@ -395,9 +395,9 @@ Trille, Lille. «Stort og smått i eggebransjen». Upublisert manuskript, sist e
 
 Hvis en bok eller en artikkel er antatt, kan kommentaren "under publisering" erstatte årstallet i henvisningen. Oppgi sidetall hvis tilgjengelig og relevant. Dersom publiseringstidspunkt er kjent, kan dette antydes i referanselisten, markert med "forventet publisering" (for eksempel våren 2016). For øvrig følges retningslinjene for den aktuelle referansetypen, ta for eksempel med årgang og nummer for tidsskrift hvis dette er kjent.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, under publisering)
 
@@ -411,7 +411,7 @@ Trille, Lille. Under publisering. «Stort og smått i eggebransjen.» Andeby: _N
 
 Personlig kommunikasjon kan være direkte tale, e-post og liknende. Forbokstaver og etternavn samt nøyaktig dato må oppgis. Personlig kommunikasjon er sjelden tilgjengelig for leseren, men kan være det som i e-post. Du kan ha selve e-posten med som et vedlegg etter oppgaveteksten. Du oppgir kun personlig kommunikasjon om dette er klarert med vedkommende. Det er vanlig å bare oppgi slik kommunikasjon i en parentes i den løpende teksten, ikke i referanselisten.
 
-I teksten
+Kilden i teksten
 
 … månen er en gul ost (Ola Nordmann, personlig kommunikasjon i e-post, 17. april 2000).
 
@@ -419,9 +419,9 @@ I teksten
 
 I primærkilder og arkivmateriale er det ofte brukt unike forkortelser, som betegnelser for dokumenter, arkiver, kataloger og institusjoner. Det er vanlig å gruppere disse referansene for seg i referanselisten og inkludere en liste over forkortelsene som er brukt. Det varierer hva slags informasjon som finnes i/om kilden – oppgi den så nøyaktig og fullstendig som mulig.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forkortelse for kilde, evt. nr. evt. årstall, evt. sidetall e.l.)
 

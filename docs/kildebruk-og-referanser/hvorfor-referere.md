@@ -3,7 +3,7 @@ title: "Hvorfor referere?"
 date: "2012-04-20"
 ---
 
-# Hvorfor referere? 
+# Hvorfor referere?
 
 Et godt arbeid kjennetegnes ved bevisst bruk av sentrale og vitenskapelige kilder, og bygger videre på eksisterende kunnskap. Referansene viser redelighet ved bruk av andres arbeider. Referansene er derfor med på å legge grunnlaget for vurderingen av din oppgave.
 

@@ -22,12 +22,24 @@ module.exports = {
       '/': {
         selectText: 'Språk',
         lastUpdated: 'Oppdatert',
+        sidebarDepth: 2,
         home: 'true',
         nav: [
           { text: 'Søking', link: '/soking/' },
           { text: 'Lesing', link: '/lesing/' },
           { text: 'Skriving', link: '/skriving/' },
-          { text: 'Kildebruk og referanser', link: '/kildebruk-og-referanser/' },
+          { text: 'Kildebruk', link: '/kildebruk-og-referanser/' },
+          {
+            text: 'Referansestiler',
+            ariaLabel: 'Referansestiler meny',
+            items: [
+              { text: 'APA 6th', link: '/referansestiler/apa/' },
+              { text: 'Chicago forfatter-år', link: '/referansestiler/chicago-forfatter-aar/' },
+              { text: 'Chicago fotnoter', link: '/referansestiler/chicago-fotnoter/' },
+              { text: 'MLA', link: '/referansestiler/mla/' },
+              { text: 'Vancouver', link: '/referansestiler/vancouver/' }
+            ]
+          },
           {
             text: 'Om',
             ariaLabel: 'Om Søk og skriv meny',
@@ -38,7 +50,8 @@ module.exports = {
               { text: 'Rettigheter', link: '/om/rettigheter-til-sok-og-skriv/' },
               { text: 'Referanser', link: '/om/referanser/' },
               { text: 'Markdown demo', link: '/om/markdown-demo/' },
-              { text: 'Gitlab-arbeidsflyt', link: '/om/gitlab-arbeidsflyt/' }
+              { text: 'Gitlab-arbeidsflyt', link: '/om/gitlab-arbeidsflyt/' },
+              { text: 'Brukertest', link: '/om/brukertest/' }
             ]
           }
         ],
@@ -107,7 +120,7 @@ module.exports = {
                 'opphavsrettslige-forhold'
               ]
             },
-            {
+            /* {
               title: 'Referansestiler',
               children: [
                 'referansestiler/',
@@ -118,8 +131,57 @@ module.exports = {
                 'referansestiler/harvard',
                 'referansestiler/vancouver',
               ]
-            },
+            }, */
             'kildevurdering'
+          ],
+          '/referansestiler/apa/': [
+            '',
+            'boeker',
+            'artikler',
+            'offentlige-kilder',
+            'annet'
+          ],
+          '/referansestiler/chicago-forfatter-aar/': [
+            '',
+            /* 'boeker',
+            'artikler',
+            'offentlige-kilder',
+            'annet' */
+          ],
+          '/referansestiler/chicago-fotnoter/': [
+            '',
+            /* 'boeker',
+            'artikler',
+            'offentlige-kilder',
+            'annet' */
+          ],
+          '/referansestiler/harvard/': [
+            '',
+            /* 'boeker',
+            'artikler',
+            'offentlige-kilder',
+            'annet' */
+          ],
+          '/referansestiler/mla/': [
+            '',
+            /* 'boeker',
+            'artikler',
+            'offentlige-kilder',
+            'annet' */
+          ],
+          '/referansestiler/vancouver/': [
+            '',
+            /* 'boeker',
+            'artikler',
+            'offentlige-kilder',
+            'annet' */
+          ],
+          '/om/brukertest/': [
+            '',
+            'eksempel2',
+            'eksempel3',
+            'eksempel4',
+            'eksempel5'
           ],
           '/': [
             '/om/',
@@ -133,6 +195,7 @@ module.exports = {
       '/en/': {
         selectText: 'Languages',
         sidebar: 'auto',
+        sidebarDepth: 2,
         lastUpdated: 'Last Updated',
         home: 'true',
         nav: [

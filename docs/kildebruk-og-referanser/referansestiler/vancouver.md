@@ -23,9 +23,9 @@ Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_
 
 ### Bok
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 [Tekst](#henvisninger_i_teksten)(nummer, s. [sidetall](#sidetall))
 
@@ -37,9 +37,9 @@ xxx. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgi
 
 ### Bokkapittel
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst (nummer).
 
@@ -51,9 +51,9 @@ Retrovirus hos katter har vist seg ... (2).
 
 ### Bok med redaktør
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst (nummer)
 
@@ -65,9 +65,9 @@ xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver
 
 ### Avhandling - doktor/master (publisert)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst (nummer, sidetall)
 
@@ -81,9 +81,9 @@ Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
 
 ### Artikkel i tidsskrift
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 [Tekst (nummer](#henvisninger_i_teksten))
 
@@ -95,9 +95,9 @@ xxx. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel
 
 ### Nettside uten forfatter eller hvor forfatter er en organisasjon
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst (nummer)
 
@@ -117,9 +117,9 @@ På nettstedet til Kreftregisteret (6) belyses temaet …
 
 ### Nettside med forfatter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst ([nummer](#henvisninger_i_teksten))
 
@@ -131,9 +131,9 @@ Noack og Seierstad (7) har undersøkt forekomsten av samboerskap…
 
 ### Lover
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst (nummer)
 
@@ -145,9 +145,9 @@ Helsepersonelloven (8) sier at ...
 
 ### Norges offentlige utredninger (NOU)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst ([nummer](#henvisninger_i_teksten))
 
@@ -159,9 +159,9 @@ I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalg
 
 ### Manuskript under publisering, antatt (in press)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst ([nummer](#henvisninger_i_teksten))
 
@@ -175,9 +175,9 @@ Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel fork
 
 Når det gjelder Personlig kommunikasjon skal henvisninger i litteraturlisten kun med om det er tilgjengelige dokumenter (som for eksempel brev i arkiv). Det skal siteres i løpende tekst kun etter avtale med den som kommer med informasjonen. Forbokstaver og etternavn samt dato oppgis: Kun tilgjengelige dokumenter tas med i litteraturlisten.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
  I følge H. K. Anderssen (2001 personlig meddelelse )
 

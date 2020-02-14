@@ -26,9 +26,9 @@ Finn ut om hvordan du siterer og henviser i teksten, lager en referanseliste�
 
 ### Bok
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter (sidetall)
 
@@ -40,9 +40,9 @@ Swales, John M., og Christine B. Feak. _Academic writing for graduate students. 
 
 ### Bokkapittel
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter sidetall).
 
@@ -54,9 +54,9 @@ Ludvigsen, Sten R. “IKT i høyere utdanning. Forventinger og resultater”. _N
 
 ### Oversatt bok
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter _Tittel_.
 
@@ -68,9 +68,9 @@ Vargas Llosa, Mario. _Kelterens drøm._ Overs. Kari Risvik og Kjell Risvik. Oslo
 
 ### Avhandling - doktor/master
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter (sidetall)
 
@@ -83,9 +83,9 @@ Nordisk institutt, Universitetet i Bergen, 2001.
 
 ### Artikkel i tidsskrift
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter tekst (sidetall)
 
@@ -98,9 +98,9 @@ Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.år
 ###   
 Artikkel i nettavis
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter tekst "Artikkel"
 
@@ -112,9 +112,9 @@ Skålid, Jon Olav. "Barn lærer å lese i mange aldre." _forskning.no_. 08.janua
 
 ### Artikkel i trykt avis
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tekst forfatter (sidetall)
 
@@ -127,9 +127,9 @@ Gudbrandsen, Frøy. "Det er en kvinne inni". _Bergens Tidende_ 9.januar 2013.
 
 ### Nettside fra organisasjon
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 "Artikkel"
 
@@ -141,9 +141,9 @@ I artikkelen "Nær 8000 raskere tilbake", viser NAV sine tall at arbeidsledighet
 
 ### Nettside med forfatter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter (nettsted)
 
@@ -155,9 +155,9 @@ Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden 
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Tittel på elektronisk leksikon
 
@@ -169,9 +169,9 @@ Encyclopaedia Britannica definerer feminisme som "the belief in the social, econ
 
 ### Artikkel i trykt leksikon (med forfatter)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter (sidetall)
 
@@ -183,9 +183,9 @@ Tveite, Tonje. "'Politikk er ikke idyll': Jens Arup Seip som samtidsforfatter". 
 
 ### Lover
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
  Lovtittel paragraf, årstall
 
@@ -197,9 +197,9 @@ Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[http:
 
 ### Stortingsmeldinger og proposisjoner
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Departement _Tittel på stortingsmelding_
 
@@ -213,9 +213,9 @@ Arbeidsdepartementet. _Arbeidsinnvandring_ St.meld. nr 18 (2007-2008). Oslo: Ar
 
 Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen, og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å ta inn i litteraturlisten til slutt.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Tekststed)
 
@@ -227,9 +227,9 @@ Shakespeare, William. _Romeo and Juliet._ Red. Roma Gill. Oxford: Oxford Univers
 
 ### Upublisert materiale
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Forfatter tekst (_Tittel_)
 
@@ -241,9 +241,9 @@ Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filoso
 
 ### Manuskript under publisering, antatt (in press)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter Tittel)
 
@@ -255,9 +255,9 @@ Staksrud, Elisabeth. _Children in the online world: Risk, Regulation and Rights.
 
 ### Bilde
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Navn på fotograf. _Billedtittel_. År. Navn på institusjon som eier bildet, sted. Inventarnummer.
 
