@@ -3,6 +3,8 @@ title: "APA 6th"
 date: "2012-09-18"
 ---
 
+# APA 6th
+
 APA står for American Psychological Association. Foreningen har utviklet en referansestil som er en typisk forfatter-årstallstil. Den er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av:
 
 American Psychological Association. (2010). _Publication manual of the American Psychological Association_ (6. utg.). Washington, D.C.: Forfatter.
@@ -22,144 +24,17 @@ Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgi
 For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsessted og utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
 
 - Referanselisten skal ordnes alfabetisk på forfatternes etternavn.
-    
 - Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren.
-    
 - Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
-    
 - Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene.
-    
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første.
-    
 - Om verket har mer enn syv forfattere, listes de seks første, fulgt av en ellipse (. . .) og sisteforfatteren.
-
-## Referansetyper
-
-### Bok
-
-I teksten
-
-I referanselisten
-
-(Forfatter, årstall, sidetall)
-
-Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (utg.). Utgivelsessted: Forlag. \*Utgaveopplysninger skal ikke føres opp ved førsteutgaver.
-
-Retterstøl, Ekeberg og Mehlum (2002, s. 54) hevder at …
-
-Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Oslo: Gyldendal.
-
- (Gullestad & Killingmo, 2013, s. 35)
-
-Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i praksis_ (2. utg.). Oslo: Universitetsforlaget.
-
-### E-Bok
-
-I teksten
-
-I referanselisten
-
-(Forfatter, årstall, sidetall)
-
-Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken har et spesielt format\]. https://doi.org/10.xxx
-
-Watkins (2012) hevder at ... (s. 54).
-
-Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https://doi.org/10.1007/978-94-6091-699-1
-
-... som hevdes av Piketty (2014, A global tax on capital, avsn. 3)
-
-Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com \*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
-
-Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](http://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra http://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
-
-### Kapittel i redigert bok
-
-I teksten
-
-I referanselisten
-
-(Forfatter, årstall, sidetall)
-
-Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Utgivelsessted: Forlag.
-
-En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
-
-Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Amsterdam: Elsevier.
-
-### Avhandling - doktor/master
-
-I teksten
-
-I referanselisten
-
-(Forfatter, årstall, sidetall)
-
-Trykt oppgave:Forfatter, A. A. (Årstall). _Tittel_ (Masteroppgave). Institusjon, Sted.Avhandling på nett:Forfatter, A. A. (Årstall). _Tittel_ (Doktoravhandling, institusjon). Hentet fra http://URL
-
-Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
-
-Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ (Doktoravhandling). Universitetet i Bergen.\*Når stedsnavn  er en del av institusjonens navn, gjentas ikke dette.
-
-... (Våpenstad, 2011, s. 59).
-
- Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse av psykoterapeutens subjektivitet i psykoanalyse og psykoanalytisk psykoterapi_ (Doktoravhandling). Hentet fra https://bora.uib.no/handle/1956/4788\*Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) trenger ikke ha med institusjonsnavnet. Se kap. 7.05 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
-
-### Artikkel i tidsskrift
-
-I teksten
-
-I referanselisten
-
-(Forfatter, årstall, sidetall)
-
-Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (Årstall). Artikkeltittel. _Tidsskrifttittel_, _årgang_(hefte), sidetall.\*Heftenummer skal ikke være med dersom tidsskriftet har gjennomgående paginering. Dersom artikkelen har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), skal dette være med i referansen. Om DOI mangler, kan lenke til tidsskriftet oppgis isteden.
-
-... langtidsvirkninger av vold … (Huang & Mossige, 2012, s. 150).
-
-Huang, L. & Mossige, S. (2012). Academic achievement in Norwegian secondary schools: The impact of violence during childhood. _Social Psychology of Education_, _15_, 147–164. https://doi.org/10.1007/s11218-011-9174-y 
-
-Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov & Straume, 2003, s. 93).
-
-Dyregrov, A. & Straume, M. (2003). Kollektiv ivaretakelse etter katastrofer: Erfaringer fra ”Sleipnerulykken”. _Tidsskrift for norsk psykologforening_, _40_, 92–101.
-
-Ifølge Andersen (2012, s. 271) .....
-
-Andersen, K.I. (2012). Prosessen som ingen kunne målbinde. _Fokus på familien, 4_, 270–272. Hentet fra http://www.idunn.no/ts/fokus/2012/04/prosessen\_som\_ingen\_kunne\_mlbinde
-
-### Artikkel i trykt avis
-
-I teksten
-
-I referanselisten
-
-(Forfatter, årstall, sidetall)
-
-Forfatter. (Årstall, dato). Tittel. _Avis, del_, side.
-
-Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
-
-Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende, del 2_, s. 12.
-
-### Artikkel i nettavis
-
-I teksten
-
-I referanselisten
-
-(Forfatter, årstall)
-
-Forfatter. (Årstall, dato). Tittel. _Avis_. Hentet fra URL.
-
-Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
-
-Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_. Hentet fra http://www.bt.no/
 
 ### Nettside fra organisasjon
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Organisasjon, årstall)
 
@@ -173,9 +48,9 @@ Om du vil omtale et nettsted mer generelt, uten eksakt sideinformasjon, kan du g
 
 ### Nettside med forfatter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, årstall)
 
@@ -187,9 +62,9 @@ Lund, V. (2018, 26. september). Åtte av ti reiser med bil. Hentet fra [https:/
 
 ### Artikkel i trykt leksikon (med forfatter)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, årstall, sidetall)
 
@@ -201,9 +76,9 @@ Slagstad, R. (1979). Demokrati. I _PaxLeksikon_ (Bind C–G, s. 76–79). Oslo: 
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 («Artikkeltittel», årstall)
 
@@ -219,9 +94,9 @@ Hårarbeid. (u.å.). I _Wikipedia_. Hentet 26. juni 2018 fra [https://no.wikipe
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, årstall, sidetall)
 
@@ -239,9 +114,9 @@ I Norge henviser vi til «originalloven» som konsolideres ved endringer. Det er
 
 Lenke er ikke obligatorisk, men kan være til hjelp for lesere av elektroniske dokumenter. Bruk i så fall permanent lenke, som kan finnes under deleikonet på Lovdata.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Lovens kortnavn, årstall, paragraf)
 
@@ -257,9 +132,9 @@ Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2
 
 ### Forskrifter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forskriftens kortnavn, årstall, paragraf)
 
@@ -271,9 +146,9 @@ Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift 
 
 ### Meldinger og proposisjoner til Stortinget
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Departement, årstall, sidetall)
 
@@ -289,9 +164,9 @@ De funksjonshemmedes stilling blir behandlet i handlingsplanen (Sosial- og helse
 
 ### Norges offentlige utredninger (NOU)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (NOU årstall: nummer, årstall for publisering, sidetall)
 
@@ -307,9 +182,9 @@ NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra http://www.regjeringe
 
 ### Ramme- og læreplaner
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Organisasjon, årstall, sidetall)
 
@@ -331,9 +206,9 @@ Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver.
 
 ### Rapporter
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
  (Forfatter, årstall, sidetall)
 
@@ -351,9 +226,9 @@ Nordisk ministerråd. (2009). _Naturopplevelse, friluftsliv og vår psykiske hel
 
 Omtale av kjente kunstverk som Skrik og Mona Lisa krever ingen innførsel i referanselisten. Andre refereres som følger:
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Opphavsperson, årstall)
 
@@ -373,9 +248,9 @@ Bilder som _reproduseres_ skal også ha komplett henvisning i figurteksten. Se [
 
 Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer, dikt kan deles inn i bøker eller sanger og skuespill i akt og scene. Denne inndelingen er den samme i alle utgaver og brukes ved siteringer. Dette gjelder for eksempel Bibelen, Koranen og eldre greske og romerske tekster. En del tekster blir gjerne referert med standardforkortelser som kan variere mellom ulike fagfelt. For eksempel kan du bruke forkortelser for bøkene i Bibelen, som Apg for Apostlenes gjerninger. I henhold til APA-stilen, trenger man ikke føre opp slike verker i referanselisten, men versjonen som er brukt skal identifiseres første gang man siterer.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 I islam finnes det en rekke restriksjoner på hva slags kjøtt man kan spise (Koranen 5:3-4, overs. 1980). Om alkohol står det i Koranen at synden i den «er større enn nytten» (2:219).
 
@@ -399,9 +274,9 @@ Shakespeare, W. (2002). _Hamlet: Prins av Danmark_ (Ø. Berg, overs.). Oslo: K
 
 ### Upublisert materiale
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, årstall, sidetall)
 
@@ -413,9 +288,9 @@ Utaker, A. (2010). _Det perseptuelles antropologi: Persepsjon og bilder som filo
 
 ### Manuskript under vurdering, men ikke antatt (submitted)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, årstall, sidetall)
 
@@ -427,9 +302,9 @@ Ting, J. Y., Florsheim, P. & Huang, W. (2008). _Mental health help-seeking in et
 
 ### Manuskript under utgivelse, antatt (in press)
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, under utgivelse, sidetall)
 
@@ -449,7 +324,7 @@ Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten
 
 I figurteksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Bilder du har tatt selv: Inkluder beskrivelse, stedsangivelse og dato.  
 Figur 1. Utsikt fra Ulriken, Bergen 26. juli 2018.

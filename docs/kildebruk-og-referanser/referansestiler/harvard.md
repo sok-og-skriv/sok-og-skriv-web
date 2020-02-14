@@ -27,9 +27,9 @@ I eksempelsamlingen nedenfor brukes norske [forkortelser](/kildebruk-og-referans
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Bok med en til tre forfattere: (Etternavn og etternavn, årstall, sidetall)  
 Bok med fire eller flere forfattere: (Første forfatters etternavn mfl., årstall, sidetall)
@@ -50,9 +50,9 @@ Nortvedt, M.W. mfl. (2012) _Jobb kunnskapsbasert! En arbeidsbok._ 2. utg. Oslo: 
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall, sidetall)
 
@@ -68,9 +68,9 @@ Utgivelsessted tas med dersom det ikke er en del av universitetets eller høg
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall, Sidetall)
 
@@ -92,9 +92,9 @@ Hagenes, M. (2012) _Fysioterapi til MS-pasienter i palliativ fase: fra rehabili
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall, Sidetall)
 
@@ -112,9 +112,9 @@ Strømsø, H.I., Grøttum, P. og Lycke, K.H. (2007) Content and processes in p
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter/redaktør, Årstall)
 
@@ -136,9 +136,9 @@ Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober, del 2, s. 12.
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter/Redaktør/Organisasjon, Årstall)
 
@@ -160,9 +160,9 @@ Dersom nettadressen til oppslaget er svært lang, anbefales det kun å ta med�
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall)
 
@@ -178,9 +178,9 @@ Dersom nettadressen til oppslaget er svært lang, anbefales det kun å ta med�
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Artikkeltittel, Årstall)
 
@@ -194,9 +194,9 @@ Universell utforming (2015) i _Wikipedia_. Tilgjengelig fra: http://no.wikipedi
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall, Sidetall)
 
@@ -215,9 +215,9 @@ Bilder tilgjengeliggjøres på mange ulike måter. Omtaler du et bilde i en bok,
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall)
 
@@ -233,9 +233,9 @@ Oppgi navn på fotograf/kunstner hvis informasjonen er gitt. Bruk tittel på bil
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall)
 
@@ -263,9 +263,9 @@ Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, 
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Komponist/artist, Årstall)
 
@@ -281,9 +281,9 @@ I Norge henviser vi til «originalloven» som konsolideres ved endringer. Det er
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Lovens kortnavn, årstall, eventuelt paragraf)
 
@@ -297,9 +297,9 @@ Helsepersonelloven. _Lov 2. juli 1999 nr. 64 om helsepersonell m.v._
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forskriftens kortnavn, årstall, eventuelt paragraf)
 
@@ -317,9 +317,9 @@ F.o.m. 1. oktober 2009 er lovbehandlingen i Stortinget endret og publikasjoner f
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (St.meld. nr. x (Sesjon), sidetall)
 
@@ -345,9 +345,9 @@ Ot.prp. nr. 32 (2007–2008). _Om lov om planlegging og byggesaksbehandling (pla
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (NOU årstall: nr., sidetall)
 
@@ -363,9 +363,9 @@ De forskjellige dokumentene kan ha ulik tegnsetting for angivelse av nummer. V
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, Årstall, sidetall)
 
@@ -385,9 +385,9 @@ Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver. Noen 
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 I Lukasevangeliet (Luk 1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
 
@@ -409,9 +409,9 @@ Homer (1994) _Iliaden._ Oversatt av P. Østbye. 3. utg. Oslo: Aschehoug.
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Forfatter, Årstall)
 
@@ -425,9 +425,9 @@ Utaker, A. (2010) _Det perseptuelles antropologi: persepsjon og bilder som filos
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall)
 
@@ -441,9 +441,9 @@ Ting, J.Y., Florsheim, P. og Huang, W. (2008) _Mental health help-seeking in et
 
   
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 (Etternavn, Årstall)
 
@@ -457,9 +457,9 @@ Briscoe, R. (2009) Egocentric spatial representation in action and perception. A
 
 Personlig kommunikasjon kan være direkte tale, e-post, en telefonsamtale m.m. Du må alltid innhente tillatelse fra samtalepartneren før du refererer til noe som er kommet fram via personlig kommunikasjon. Du kan henvise til personlig kommunikasjon i teksten, men den skal ikke inkluderes i referanselisten fordi informasjonen ikke kan hentes fram igjen. Henvisningen bør inneholde navn og tittel/rolle til samtalepartneren. I tillegg bør det komme fram i hvilken kontekst kommunikasjonen fant sted, samt eksakt dato.
 
-I teksten
+Kilden i teksten
 
-I referanselisten
+Kilden i refereranselisten
 
 Fullt navn, tittel/rolle (type kommunikasjon/kontekst, dato)
 
