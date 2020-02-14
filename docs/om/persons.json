@@ -1,6 +1,15 @@
 {
   "persons": [
     {
+      "fullname": "Tarje Sælen Lavik",
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/tarje-150x150.jpg",
+      "url": "https://www.uib.no/personer/Tarje.Sælen.Lavik"
+    },
+    {
       "fullname": "Ingerid Straume",
       "affiliation": {
         "no": "Universitetet i Oslo",
@@ -10,13 +19,58 @@
       "url": "https://www.ub.uio.no/om/ansatte/uboledadm/ingerids/index.html"
     },
     {
-      "fullname": "Tarje Sælen Lavik",
+      "fullname": "Henry Langseth",
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/henry-150x150.jpg",
+      "url": "https://www.uib.no/personer/Henry.Langseth"
+    },
+    {
+      "fullname": "Ingunn Rødland",
       "affiliation": {
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
       "imageUrl": "/tarje-150x150.jpg",
-      "url": "https://www.uib.no/personer/Tarje.Sælen.Lavik"
+      "url": "https://www.uib.no/personer/Ingunn.Rødland"
+    },
+    {
+      "fullname": "Iselin Brente",
+      "affiliation": {
+        "no": "Universitetet i Oslo",
+        "en": "University of Oslo"
+      },
+      "imageUrl": "/iselin-150x150.jpg",
+      "url": "https://www.ub.uio.no/om/ansatte/uhs/uhspublikum/iselinlb/"
+    },
+    {
+      "fullname": "June Audsdotter Stafsnes",
+      "affiliation": {
+        "no": "Høgskulen på Vestlandet",
+        "en": "Western Norway University of Applied Sciences"
+      },
+      "imageUrl": "/june-150x150.jpg",
+      "url": "https://www.hvl.no/person/?user=6022370"
+    },
+    {
+      "fullname": "Toril Engesæter",
+      "affiliation": {
+        "no": "Høgskulen på Vestlandet",
+        "en": "Western Norway University of Applied Sciences"
+      },
+      "imageUrl": "/toril-150x150.jpg",
+      "url": "https://www.hvl.no/person/?user=2404847"
+    },
+    {
+      "fullname": "Øyunn Viken",
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/tarje-150x150.jpg",
+      "url": "https://www.uib.no/personer/Øyunn.Viken"
     }
   ]
 }
