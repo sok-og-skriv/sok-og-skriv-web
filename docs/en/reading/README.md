@@ -3,6 +3,8 @@ title: "Reading"
 date: "2012-03-16"
 ---
 
+#Reading
+
 Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of _how_ as well as of _what_ you read.
 
 ![soking](../images/illustrasjoner_lesing_500x450.png)
