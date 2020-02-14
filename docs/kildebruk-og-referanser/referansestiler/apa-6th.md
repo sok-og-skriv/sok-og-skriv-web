@@ -3,6 +3,8 @@ title: "APA 6th"
 date: "2012-09-18"
 ---
 
+# APA 6th
+
 APA står for American Psychological Association. Foreningen har utviklet en referansestil som er en typisk forfatter-årstallstil. Den er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av:
 
 American Psychological Association. (2010). _Publication manual of the American Psychological Association_ (6. utg.). Washington, D.C.: Forfatter.

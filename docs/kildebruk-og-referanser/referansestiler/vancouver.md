@@ -3,6 +3,8 @@ title: "Vancouver"
 date: "2012-09-18"
 ---
 
+# Vancouver
+
 Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers \[Elektronisk bok\]. 2nd ed. Wendling DL., technical editor. Bethesda (MD): National Library of Medicine (US); 2007 \[hentet 2008-01-14\]. Tilgjengelig fra: [http://www.nlm.nih.gov/citingmedicine](http://www.nlm.nih.gov/citingmedicine)

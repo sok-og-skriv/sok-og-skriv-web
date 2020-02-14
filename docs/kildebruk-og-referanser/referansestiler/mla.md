@@ -3,6 +3,8 @@ title: "MLA"
 date: "2012-09-18"
 ---
 
+# MLA
+
 MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språkfagene. Framstillingen her er basert på: _MLA Handbook for Writers of Research Papers_. 7th edition. New York: MLA, 2009.
 
 Finn ut om hvordan du siterer og henviser i teksten, lager en referanseliste og behandler forskjellige referansetyper.

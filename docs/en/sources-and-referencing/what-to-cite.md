@@ -3,6 +3,8 @@ title: "What to cite?"
 date: "2013-02-22"
 ---
 
+# What to cite?
+
 All scholarly arguments that are not based on your own material, your own reasoning and your own opinions must be referenced in the text and cited in the list of references. For example, you must give references to other people’s opinions and assessments, numerical data, models, results and conclusions. Remember that this rule also applies to illustrations/diagrams, tables, sound recordings and images, and that the use of such material has [copyright](/en/sources-and-references/why-cite-sources/intellectual-property-rights/ "Intellectual property rights") implications.
 
 ## Common knowledge

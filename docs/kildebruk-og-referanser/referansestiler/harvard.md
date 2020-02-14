@@ -3,6 +3,8 @@ title: "Harvard"
 date: "2012-09-18"
 ---
 
+# Harvard
+
 Harvard-stiler er fellesbetegnelse for referanser hvor forfatter og årstall plasseres i parentes i teksten. Det finnes ingen offisiell manual for Harvard-stil, men ulike varianter er brukt innenfor mange fagområder.
 
 Søk & Skrivs norske versjon fra 2019 bygger på manualen  

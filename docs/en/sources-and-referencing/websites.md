@@ -3,6 +3,8 @@ title: "Websites"
 date: "2013-04-02"
 ---
 
+# Websites
+
 The internet offers access to scholarly information, official information and statistics, newspapers and other news media, as well as e-books and journals. However, the internet is also home to unsubstantiated and unreliable information, as well as information that is incomplete or unstructured. Internet sources must be put under the same scrutiny as printed material. This means that you need to be able to identify what genre you are reading regardless of whether the text is printed or online.
 
 ### Some general tips:
