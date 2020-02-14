@@ -3,6 +3,8 @@ title: "Textual analysis"
 date: "2013-02-22"
 ---
 
+# Textual analysis
+
 In order to establish more accurately whether the source is relevant to your dissertation, you should analyse the text to find out a) how it is written, and b) what objectives the author had in writing precisely this text.
 
 There are three reasons for writing a scholarly text:

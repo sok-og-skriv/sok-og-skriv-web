@@ -3,6 +3,8 @@ title: "Why cite sources?"
 date: "2013-02-22"
 ---
 
+# Why cite sources?
+
 High-quality academic work is based on conscious use of key scholarly sources, and  builds on existing knowledge. Your references will reflect the scope of your work. They are also evidence of your integrity in using other people’s work. For these reasons, referencing is one of the factors that will be taken into consideration when your thesis is graded.
 
 Accurate referencing allows the reader to quickly:
