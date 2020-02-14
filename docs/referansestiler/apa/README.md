@@ -34,7 +34,6 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 - Om verket har mer enn syv forfattere, listes de seks første, fulgt av en ellipse (...) og sisteforfatteren.
 
 ::: details Bok
-## Bok
 
 |I teksten|I referanselisten|
 |---------|-----------------|
@@ -51,7 +50,6 @@ Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i 
 :::
 
 ::: details E-Bok
-## E-Bok
 
 **Kilden i teksten**
 
@@ -76,7 +74,6 @@ Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https:
 :::
 
 ::: details Kapittel i redigert bok
-## Kapittel i redigert bok
 
 ::: tip Kilden i teksten
 (Forfatter, årstall, sidetall)
@@ -93,7 +90,6 @@ Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser 
 :::
 
 ::: details Avhandling - doktor/master
-## Avhandling - doktor/master
 
 ::: tip Kilden i teksten
 (Forfatter, årstall, sidetall)
@@ -115,7 +111,6 @@ Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse a
 :::
 
 ::: details Lover
-## Lover
 
 **Kilde i teksten**
 
