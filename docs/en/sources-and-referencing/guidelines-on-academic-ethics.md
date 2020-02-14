@@ -3,6 +3,8 @@ title: "Ethical guidelines for academia"
 date: "2013-02-22"
 ---
 
+# Ethical guidelines for academia
+
 Academic integrity involves following the ethical principles and standards adopted by higher-education institutions. [Benum (2003)](/en/references/#Benum) demonstrates, among other things, that academic integrity at universities is associated with some specific values:
 
 - Academic freedom is linked to freedom of research. A university should promote research and the pursuit of knowledge without regard to market forces.
