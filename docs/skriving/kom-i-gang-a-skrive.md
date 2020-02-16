@@ -58,15 +58,16 @@ Idémyldring er en privat tekst, som skal gi skrivelyst.
 - Skriv ned ideene slik de faller deg inn – vær spontan!
 - Se etter forbindelser og sammenhenger som kan markeres på kartet
 
-[![Tankekart om grønn markedsføring](../images/norsk-tankekart-små-bokstaver.png)](/wp-content/uploads/2012/11/norsk-tankekart-små-bokstaver.png) 
+![Tankekart om grønn markedsføring](../images/norsk-tankekart-sma-bokstaver.png)
 
 _Tankekart om grønn markedsføring_
 
-**Tips:**
+::: tip Tips:
 
 - Bruk farger for å markere temaer og relasjoner, og for å framheve tanker
 - Bruk bilder eller symboler
 - Bruk små bokstaver. Små bokstaver leses og huskes bedre enn store bokstaver
+:::
 
 (Kilde: Learning Support Services (2004) _Skills for Learning_ \[CD-ROM\]. Leeds: Leeds Metropolitan University Library).
 
@@ -93,72 +94,27 @@ Det er flere måter å starte en skriveprosess på, men det kan være lurt å ut
 
 Når du arbeider med å forme en problemstilling, kan du gjerne starte med en idémyldring. Skriv ned alle de spørsmålene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
 
-EKSEMPEL  
+::: tip EKSEMPEL  
 La oss si temaet du er interessert i er miljøvennlighet som markedsføringsstrategi. Spørsmål du stiller innledningsvis kan for eksempel være: Lønner det seg for bedrifter å markedsføre seg som miljøvennlige? Hva skal til for at kundene opplever at en bedrift, vare eller tjeneste er miljøvennlig? Fører et nytt miljøvennlig produkt i produktporteføljen til at kundene også opplever at bedriftens øvrige produkter er mer miljøvennlige? Hva er effektene av å komme inn i en merkeordning? Hva gjør bedrifter for å framstå som miljøvennlige, og hvordan virker det? Hva vil det si at en bedrift er bærekraftig? Følger det noen spesiell etisk forpliktelse med slik markedsføring? Appellerer slik markedsføring til noen spesielle grupper? Hva kjennetegner miljøbevisste kunder? Er miljøbevisste forbrukere mer eller mindre kritiske enn andre? Er det samsvar mellom forbrukernes holdninger og de faktiske valgene deres? Hvordan endre konsumentenes miljøskadelige vaner? Hvordan påvirker konsumentenes personlige og sosiale identitet de valg de gjør av miljøvennlige produkter? Så gjør du [brede litteratursøk](/soking/planlegg-soket-dit/) for å orientere deg i faglitteraturen. Mulige søkeord kan være:
 
-NORSK
-
-ENGELSK
-
-merkevare, merkevarebygging
-
-branding
-
-kundeatferd
-
-consumer behaviour
-
-kundetilfredshet
-
-satisfaction
-
-troverdighet/kredibilitet
-
-credibility
-
-tillit
-
-trust
-
-holdninger
-
-attitudes
-
-vaner
-
-habits
-
-bærekraftig
-
-sustainable
-
-grønn
-
-green
-
-økologisk
-
-organic, ecological
-
-miljømerking
-
-eco-labelling, environmental labelling
-
-sertifikat, sertifisering
-
-certificate, certification
-
-sosial identitet
-
-social identity
-
-segmentering
-
-segmentation
-
-ansvarlige bedrifter
-
-corporate social responsibility
+::: details 
+| NORSK                       | ENGELSK                                |
+|-----------------------------|----------------------------------------|
+| merkevare, merkevarebygging | branding                               |
+| kundeatferd                 | consumer behaviour                     |
+| kundetilfredshet            | satisfaction                           |
+| troverdighet/kredibilitet   | credibility                            |
+| tillit                      | trust                                  |
+| holdninger                  | attitudes                              |
+| vaner                       | habits                                 |
+| bærekraftig                 | sustainable                            |
+| grønn                       | green                                  |
+| økologisk                   | organic, ecological                    |
+| miljømerking                | eco-labelling, environmental labelling |
+| sertifikat, sertifisering   | certificate, certification             |
+| sosial identitet            | social identity                        |
+| segmentering                | segmentation                           |
+| ansvarlige bedrifter        | corporate social responsibility        |
 
 [Kombiner søkeordene dine i aktuelle databaser.](/soking/planlegg-soket-dit/#Kombiner_ulike_skeord)
 
@@ -188,6 +144,8 @@ Som regel er det nødvendig å spesifisere akkurat hva det er du vil undersøke 
 - Hva kjennetegner kundegruppene hvor grønn markedsføring synes å ha størst appell?
 - Hvorfor oppfattes bedrift A som mer troverdig enn bedrift B i miljøspørsmål?
 - Hvilken effekt har «miljømerking» (f.eks. Miljøfyrtårn, Svanemerket, EU Ecolabel) på kunders holdninger og atferd?
+:::
+
 
 [![Martin Roa Skramstad](../images/Martin-Roa-Skramstad-cropped-small.jpg)](/?p=4694)
 

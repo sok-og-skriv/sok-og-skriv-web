@@ -23,7 +23,9 @@ Forordet har ingen spesielle konvensjoner, men det er vanlig å takke veiledere,
 
 Innledningen skal både gi oversikt over oppgaven som helhet, og være en appetittvekker for leseren. Det kan være lurt å gå gjennom innledningen helt til slutt, slik at det blir god sammenheng mellom den og avslutningen (konklusjonen).
 
-**Tips:** En elegant vri er å bruke samme stilgrep på innledning og konklusjon, for eksempel et "bilde" som presenteres på én måte i innledningen, og som vender tilbake til i avslutningen, men denne gang med et annet - rikere eller annerledes - perspektiv.
+::: tip Tips
+En elegant vri er å bruke samme stilgrep på innledning og konklusjon, for eksempel et "bilde" som presenteres på én måte i innledningen, og som vender tilbake til i avslutningen, men denne gang med et annet - rikere eller annerledes - perspektiv.
+:::
 
 Innledningen inneholder gjerne:
 
@@ -47,9 +49,12 @@ Hva som er en relevant bakgrunn avhenger av faget og dets tradisjoner. Det kan d
 
 Hvis faget tillater at du trekker inn egne interesser og erfaringer (som praktiker) er dette stedet å gjøre det. I resten av oppgaven bør du være forsiktig med å trekke inn egne erfaringer, særlig hvis de ikke er innsamlet på en systematisk måte.
 
-**Tips:** Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med hovedteksten!
+::: tip Tips:
+Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med hovedteksten!
+:::
 
-EKSEMPEL: Forskjellige måter å åpne en oppgave eller artikkel. Som inngang til en lengre tekst kan du blant annet bruke oppsummering, historisering, henvisning til en kjent hendelse, aktualisering og leserhenvendelse.
+::: warning EKSEMPEL: 
+Forskjellige måter å åpne en oppgave eller artikkel. Som inngang til en lengre tekst kan du blant annet bruke oppsummering, historisering, henvisning til en kjent hendelse, aktualisering og leserhenvendelse.
 
 **Oppsummering:** «Forsøk med spesielt tilrettelagt undervisning i full klasse har vist at …». «Flere studier av makt i organisasjoner har fokusert på … ». I disse konstruerte eksemplene brukes oppsummeringen som bakgrunn.
 
@@ -60,16 +65,18 @@ EKSEMPEL: Forskjellige måter å åpne en oppgave eller artikkel. Som inngang ti
 **Aktualisering av tema:** "I forbindelse med det norske TV-programmet Hjernevask har forholdet mellom arv og miljø igjen fått stor oppmerksomhet i offentligheten. Dette temaet er ikke nytt, men har en lang historie i psykologifaget såvel som i skjønnlitteraturen". Klassisk diskusjon aktualiseres ved hjelp av en nyere hendelse.
 
 **Leserhenvendelse:** «Når det blir annonsert et foredrag om lyrikk og samfunn, vil mange av dere gripes av et ubehag» (Adorno, 1991, s.394). Bruken  av personlig pronomen (du/dere) vekker oppmerksomhet, og oppfordrer leseren til å ta stilling.  
-....................................................................
+
+---
 
 Referanser til eksemplene:  
 Skirbekk, G. (2009) Ex. phil. I: Bostad, I. red. _Kunnskap og dannelse foran et nytt århundre_, Innstilling fra dannelsesutvalget for høyere utdanning. Oslo: Dannelsesutvalget ved Universitetet i Oslo.
 
 Adorno, Th. W.,(1991) Tale om lyrikk og samfunn. I: Kittang, A., Melberg, A. og Skei, H.H. red. _Moderne litteraturteori: en antologi._ Oslo: Universitetsforlaget, s. 394-411.
+:::
 
 ## Øvelse
 
-**Skriv tre forskjellige åpninger til din oppgave ved bruk av ulike litterære virkemidler (se eksemplene ovenfor), for eksempel: **
+**Skriv tre forskjellige åpninger til din oppgave ved bruk av ulike litterære virkemidler (se eksemplene ovenfor), for eksempel:**
 
 a) en åpning som "setter scenen" ved hjelp av et bilde  
 b) en historisk tilnærming til fenomenet du skal diskutere og  

@@ -77,4 +77,4 @@ Mange av avsnittene på denne siden er eksempler på T-U-R.
 
 ## Øvelse
 
-###### Les 5 avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som følger T-U-R-formelen.
+Les 5 avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som følger T-U-R-formelen.

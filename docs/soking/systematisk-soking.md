@@ -49,7 +49,6 @@ For å være sikker på å finne alle relevante artikler, bør man søke på syn
 ::: tip EKSEMPEL: PICO-skjema med forslag til synonymer
 Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
 
-::: details PICO-skjema med søkeord
 [![PICO-skjema med søkeord](../images/pico-3.png)](/wp-content/uploads/2014/08/pico-3.png)
 :::
 
@@ -117,8 +116,8 @@ I enkelte fag må du, etter å ha avsluttet det systematiske søket, beskrive se
 - har du utnyttet andre søkefasiliteter i databasen?
 - dato for når søket ble tatt
 
-::: tip 
-**TIPS**: Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
+::: tip TIPS
+Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
 :::
 
 **Videre lesing:**
