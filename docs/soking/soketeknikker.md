@@ -44,6 +44,16 @@ Eksempel: Søk på **Diabetes AND Livskvalitet** gir bare treff på litteratur s
 
 [![AND](../images/AND-300x203.png)](/wp-content/uploads/2014/08/AND.png)
 
+<ClientOnly>
+  <Venn 
+    v-bind:sets="[
+        {sets: ['Diabetes'], size: 12}, 
+        {sets: ['Livskvalitet'], size: 12},
+        {sets: ['Diabetes','Livskvalitet'], size: 2}
+    ]" 
+    type="and" />
+</ClientOnly>
+
 ### Kombinasjon med OR
 
 Dersom du velger å kombinere to søkeord med OR, får du treff som inneholder det ene, det andre eller begge ordene. Kombinasjoner med OR utvider søket og gir deg **flere** treff. OR brukes som regel ved synonyme søkeord.
@@ -52,6 +62,16 @@ Eksempel: Søk på **Diabetes OR Sukkersyke** gir treff på diabetes, sukkersyke
 
 [![OR](../images/OR-300x175.png)](/wp-content/uploads/2014/08/OR.png)
 
+<ClientOnly>
+  <Venn 
+    v-bind:sets="[
+        {sets: ['Diabetes'], size: 12}, 
+        {sets: ['Sukkersyke'], size: 12},
+        {sets: ['Diabetes','Sukkersyke'], size: 2}
+    ]" 
+    type="or" />
+</ClientOnly>
+
 ### Kombinasjon med NOT
 
 Dersom du velger å kombinere to søkeord med NOT, får du treff på det ene ordet mens du utelater det som også handler om det andre søkeordet. Kombinasjoner med NOT kan utelate svært mange treff, så de bør brukes med varsomhet.
@@ -59,6 +79,16 @@ Dersom du velger å kombinere to søkeord med NOT, får du treff på det ene ord
 Eksempel: Søk på **Diabetes NOT Insulinpumpe** gir treff på diabetes mens det utelater alt som i tillegg handler om insulinpumpe.
 
 [![NOT](../images/NOT-300x206.png)](/wp-content/uploads/2014/08/NOT.png)
+
+<ClientOnly>
+  <Venn 
+    v-bind:sets="[
+        {sets: ['Diabetes'], size: 12}, 
+        {sets: ['Insulinpumpe'], size: 12},
+        {sets: ['Diabetes','Insulinpumpe'], size: 2}
+    ]" 
+    type="not" />
+</ClientOnly>
 
 ## Bruk av søketabell
 

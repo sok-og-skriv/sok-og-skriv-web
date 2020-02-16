@@ -21,7 +21,10 @@
   },
   "dependencies": {
     "@gerhobbelt/markdown-it-deflist": "^2.0.4-1",
+    "d3": "^4.13.0",
     "markdown-it-video": "^0.6.3",
+    "venn.js": "^0.2.20",
+    "vuepress-plugin-alias": "^1.0.0-beta",
     "vuepress-plugin-export": "^0.2.0",
     "vuepress-plugin-sitemap": "^2.3.1"
   }

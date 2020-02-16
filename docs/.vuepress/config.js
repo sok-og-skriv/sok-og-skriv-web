@@ -311,6 +311,7 @@ module.exports = {
   },
   plugins: [
     'vuepress-plugin-export',
+    /* 'alias', */
     ['@vuepress/back-to-top', true],
     ['@vuepress/pwa', {
       serviceWorker: true,
