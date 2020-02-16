@@ -1,6 +1,7 @@
 ---
 title: "Kvalitative vurderinger"
 date: "2012-04-19"
+alias: "/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/"
 ---
 
 # Kvalitative vurderinger
@@ -34,7 +35,7 @@ Se på referanselisten til teksten du leser. Denne viser hvilke kilder forfatter
 - Hvem refererer forfatteren til?
 - Er kildene etterrettelige?
 
-Se også: [Akademiske sjangrer](/lesing/hvordan-hente-noe-ut-av-en-tekst/) og [Argumentasjon i tekst](/lesing/argumentasjon-i-tekst/)
+Se også: [Akademiske sjangrer](/lesing/akademiske-sjangrer/) og [Argumentasjon i tekst](/lesing/argumentasjon-i-tekst/)
 
 ## Målgruppe og sjanger
 
@@ -80,7 +81,7 @@ Essayet er en personlig formet artikkel. Det er tydelig preget av forfatteren, a
 
 En blogg kan være en grei innfallsvinkel for å følge diskusjoner i ulike fora. Du kan abonnere på blogger som RSS feeds. Vær oppmerksom på hvem som står bak bloggen. Blogger har ofte en dagbokform og reflekterer personlige erfaringer og meninger. De bygger ikke alltid på etterprøvbare og vitenskaplig dokumementerte påstander.
 
-**Tips!** Undersøk omg det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til Forskning no. http://www.forskning.no/blog
+**Tips!** Undersøk om det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til [Forskning.no](http://www.forskning.no/blog).
 
 ## Utgiver
 
