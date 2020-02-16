@@ -22,4 +22,4 @@ Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempe
 
 Det finnes også mye god litteratur om oppgaveskriving, prøv å søke i [Oria](http://oria.no "Oria").
 
-@[youtube](rnqQo0pyg3E)
+<Video id="rnqQo0pyg3E" />

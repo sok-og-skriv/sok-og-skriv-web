@@ -8,4 +8,4 @@ description: "Filosof og skrivementor Åsne Grøgaard hjelper deg å lese og skr
 
 Filosof og skrivementor Åsne Grøgaard hjelper deg å lese og skrive filosofiske tekster. Eksemplene er hentet fra Ex.Phil. ved Universitetet i Oslo.
 
-@[youtube](FJKg3G-JRpg)
+<Video id="FJKg3G-JRpg" />

@@ -124,10 +124,6 @@ Du kan starte på et ønsket nummer:
 [skriving](/skriving)
 
 [kildekompasset](https://kildekompasset.no)
-
-**youtube**
-
-@[youtube](FJKg3G-JRpg)
 ```
 
 **lenke**
@@ -136,9 +132,17 @@ Du kan starte på et ønsket nummer:
 
 [kildekompasset](http://kildekompasset.no)
 
+## YouTube
+
+``` markdown
 **youtube**
 
-@[youtube](FJKg3G-JRpg)
+<Video id="FJKg3G-JRpg" />
+```
+
+**youtube**
+
+<Video id="FJKg3G-JRpg" />
 
 ## Bilder
 

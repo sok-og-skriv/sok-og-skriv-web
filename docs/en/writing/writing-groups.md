@@ -9,7 +9,7 @@ Writing a text such as a master’s thesis requires you to work steadily for an 
 
 University of Bergen PhD students Kajsa Parding and Sandhya Tiwari talk about their writing club, and how it has helped them with their thesis work.
 
-@[youtube](pbH-PqsYxK8)
+<Video id="pbH-PqsYxK8" />
 
 ## How to give and receive feedback
 

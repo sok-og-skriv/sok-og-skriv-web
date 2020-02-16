@@ -56,7 +56,7 @@ Beck og Beck-Gemsheim referert i Kloster (2003, s. 4) snakker om tre stadier for
 
 I fag hvor deltakende observasjon er brukt som metode, er informanter en viktig kilde. Odd Are Berkaak, professor i sosialantropologi ved UiO, forteller i en video om hvordan du skriver informanter inn i teksten din.  
 
-@[youtube](ktM1r1Ca5Tc)
+<Video id="ktM1r1Ca5Tc" />
 
 ## Referanselisten
 

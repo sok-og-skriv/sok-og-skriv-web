@@ -17,4 +17,4 @@ I denne delen får du noen enkle råd om hvordan du kan gå fram når du leser, 
 
 God lesing!
 
-@[youtube](JchpFI50UDk)
+<Video id="JchpFI50UDk" />

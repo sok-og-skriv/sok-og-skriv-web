@@ -9,7 +9,7 @@ Lengre tekster, som masteroppgaver, krever at du skriver jevnt og trutt. For å 
 
 Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin skrivegruppe i sluttfasen av doktorgradsarbeidet:
 
-@[youtube](pbH-PqsYxK8)
+<Video id="pbH-PqsYxK8" />
 
 ## Hvordan gi og ta imot tilbakemelding i skrivegrupper?
 

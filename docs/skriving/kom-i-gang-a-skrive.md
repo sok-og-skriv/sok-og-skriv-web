@@ -7,7 +7,7 @@ date: "2012-05-16"
 
 Som student drives du ofte fram av et "hvorfor?". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre**.** Hun utforsker et fenomen, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.
 
-@[youtube](FOwhrXNnHNI)
+<Video id="FOwhrXNnHNI" />
 
 Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan være veldig klargjørende å sette ord på ideene dine. Hvorfor synes du at dette temaet er interessant? Hvilke problemstillinger ser du for deg? Hvordan kan problemstillingen(e) besvares? Hva ser du for deg at du vil komme fram til? Å presentere utkast for [medstudenter](?p=1216) er også en utmerket måte å komme i gang på.
 

@@ -9,7 +9,7 @@ Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva 
 
 Den enkleste definisjonen av argumentasjon er nettopp "påstand + begrunnelse", og dette vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. Se for eksempel "[redegjør og drøft](/skriving/struktur/redegjor-og-droft/)", "[argumentasjon i tekst](/lesing/argumentasjon-i-tekst/)" og filmen "Saying what you mean".
 
-@[youtube](OWeAPxlxGnE)
+<Video id="OWeAPxlxGnE" />
 
 En mer avansert argumentasjonsmodell følger nedenfor.
 

@@ -23,7 +23,7 @@ Alle utdanningsinstitusjoner er oppmerksomme på problematikken vedrørende fusk
 
 Se filmen _Et plagieringseventyr_.
 
-@[youtube](Mwbw9KF-ACY)
+<Video id="Mwbw9KF-ACY" />
 
 ## Veiledere og andre støttespillere
 

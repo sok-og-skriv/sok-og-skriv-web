@@ -24,13 +24,13 @@ Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da 
 
 Benytt databasenes muligheter for å avgrense/snevre inn en lang treffliste. I de fleste databaser kan du avgrense på publiseringsår, språk, større emneområder og dokumenttyper. Vær obs på at enhver avgrensing kan føre til at du mister viktig informasjon.
 
-@[youtube](\_yKr4R3k5Pg)
+<Video id="\_yKr4R3k5Pg" />
 
 ## Emneordssøk
 
 Å søke på emneord vil si å søke via emneordslistene i databasen. Da søker du på standardiserte emneord som beskriver innholdet i et dokument. En fordel med søk på emneord, er at det automatisk inkluderer søk på synonyme termer.
 
-@[youtube](V20SCScsECE)
+<Video id="V20SCScsECE" />
 
 ## Kombiner søkeord
 
