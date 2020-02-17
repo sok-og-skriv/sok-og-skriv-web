@@ -102,9 +102,12 @@ figcaption {
 
 .container {  
   display: grid;
+}
+.container.two-column {
   grid-template-columns: 1fr 1fr;
-  align-items: center;
-  justify-content: center;
+}
+.container.four-column {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .container .video {
   padding: 1rem;
