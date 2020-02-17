@@ -7,15 +7,15 @@ date: "2013-02-21"
 
 One of most the fundamental things we use language for is argument. Arguing means claiming that something is true and trying to persuade other people to agree with your claim by presenting evidence to substantiate it. An argument is statement with three components:
 
-1. A point of view, a claim, something we are arguing _in favour of  
-    _
+1. A point of view, a claim, something we are arguing _in favour of_
 2. The actual argument, the evidence we are using to argue _with_
 3. A statement that links the initial claim to the argument and ensures that we understand how the argument functions.
 
 The statement that connects the initial claim and the argument is referred to as the warrant. The warrant is thus an argument for the connection between the initial claim and the argument.
 
-EXAMPLE  
+::: tip EXAMPLE  
 “It’s your turn to make dinner today. I made dinner yesterday.” Counter argument: “You’re making dinner all of this week. I have an exam next week. That’s what we agreed.”
+:::
 
 If we analyse this brief conversation, there appear to be two incompatible assertions. One person says: “You must make dinner.” The other person says: “No, _you_ must make dinner.” So who will make dinner? Let's have a look at the arguments.
 

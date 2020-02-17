@@ -22,13 +22,13 @@ EXAMPLE: the application of PICO on two research questions from the health field
 
 Question 1: _Do children with diabetes cope better with their disease when treated by a specialist at home rather than at a hospital?_
 
-[![pico1 eng](../images/pico1-eng1.png)](/en/files/2013/02/pico1-eng1.png)
+![pico1 eng](../images/pico1-eng1.png)
 
 In this example, we are interested in the effect of the decision “home-based treatment” (**I**) in contrast to the effect of “hospital-based treatment” (**C**). We are interested in finding studies that compare the effects of these two decisions. The outcome we want to measure (**O**) is how these patient groups are coping with their disease. It is not always necessary to use all four elements of the PICO-form. Sometimes the research question may not have a clear intervention (**I**) part, or it may also lack the element of comparison (**C**), or there may not be any clearly formulated outcome (**O**). Question 2 below is an illustration of a research question that contains only **P** and **O**.
 
 Question 2: _How do diabetic children and adolescents who use insulin pumps perceive their quality of life?_
 
-[![Pico2 eng](../images/Pico2-eng.png)](/en/files/2013/02/Pico2-eng.png)
+![Pico2 eng](../images/Pico2-eng.png)
 
 In this example we take into consideration the patient groups from question 1, but now the question focuses only on diabetic children and adolescents who are already using an insulin pump. However, the question does not specify any decision or action that we intend to measure the effect of. Therefore, this question has neither **I** nor **C**. What we want to know is how these patients are experiencing their own situation (**O**).
 
@@ -76,117 +76,26 @@ How do children and adolescents who use insulin pumps experience life quality?
 
 The search has been conducted in the Medline-Ovid database 1996 and up until today. Date of searching: 04.04.2014
 
-Searches
-
-Results
-
-1
-
-exp Diabetes Mellitus, Type 1/
-
-35330
-
-2
-
-(insulin adj dependent).tw.
-
-10687
-
-3
-
-1 or 2
-
-41759
-
-4
-
-(youth or teenager\* or adolescent\* or child\*).tw.
-
-591106
-
-5
-
-exp Adolescent/
-
-821820
-
-6
-
-exp Child/
-
-721155
-
-7
-
-4 or 5 or 6
-
-1307311
-
-8
-
-exp «Quality of Life»/
-
-98652
-
-9
-
-(quality adj2 life).tw.
-
-118348
-
-10
-
-(life adj quality).tw.
-
-2843
-
-11
-
-(well adj being).tw.
-
-28740
-
-12
-
-Wellness.tw.
-
-3183
-
-13
-
-8 or 9 or 10 or 11 or 12
-
-174420
-
-14
-
-exp Insulin Infusion Systems/
-
-1794
-
-15
-
-(infusion adj pump\*).tw.
-
-1266
-
-16
-
-exp Infusion Pumps/
-
-6397
-
-17
-
-14 or 15 or 16
-
-7034
-
-18
-
-3 and 7 and 13 and 17
-
-100
+| #        | Searches                                          | Results |
+|----------|---------------------------------------------------|---------|
+| 1        | exp Diabetes Mellitus, Type 1/                    | 35330   |
+| 2        | (insulin adj dependent).tw.                       | 10687   |
+| 3        | 1 or 2                                            | 41759   |
+| 4        | (youth or teenager* or adolescent* or child*).tw. | 591106  |
+| 5        | exp Adolescent/                                   | 821820  |
+| 6        | exp Child/                                        | 721155  |
+| 7        | 4 or 5 or 6                                       | 1307311 |
+| 8        | exp «Quality of Life»/                            | 98652   |
+| 9        | (quality adj2 life).tw.                           | 118348  |
+| 10       | (life adj quality).tw.                            | 2843    |
+| 11       | (well adj being).tw.                              | 28740   |
+| 12       | Wellness.tw.                                      | 3183    |
+| 13       | 8 or 9 or 10 or 11 or 12                          | 174420  |
+| 14       | exp Insulin Infusion Systems/                     | 1794    |
+| 15       | (infusion adj pump*).tw.                          | 1266    |
+| 16       | exp Infusion Pumps/                               | 6397    |
+| 17       | 14 or 15 or 16                                    | 7034    |
+| 18       | 3 and 7 and 13 and 17                             | 100     |
 
 ## Explanation of Search History:
 

@@ -7,96 +7,57 @@ date: "2013-03-08"
 
 Here are som standard abbreviations that are commonly used for citations and references:
 
-### Abbreviation
+<dl>
+  <dt>anon.</dt>
+  <dd>anonymous.Used when the author is unknown</dd>
 
-### Stands for
+  <dt>ca.</dt>
+  <dd>circa. Used for approximate dates, f. ex ca. 1978</dd>
 
-### Comments
+  <dt>ch. chap.</dt>
+  <dd>chapter</dd>
+  <dt>anon.</dt>
+  <dd>anonymous.Used when the author is unknown</dd>
 
-anon.
+  <dt>ca.</dt>
+  <dd>circa. Used for approximate dates, f. ex ca. 1978</dd>
 
-anonymous
+  <dt>ch. chap.</dt>
+  <dd>chapter</dd>
 
-Used when the author is unknown
+  <dt>ed.</dt>
+  <dd>editor(s)</dd>
 
-ca.
+  <dt>et al.</dt>
+  <dd>(et alii) and others. Used to shorten author lists</dd>
 
-circa
+  <dt>ib., ibid.</dt>
+  <dd>(ibidem) In the same text as previous citation. Used when a reference is the same as the previous one. The page number can be different, for example "ibid., p. 56."</dd>
 
-Used for approximate dates, f. ex ca. 1978
+  <dt>idem, loc. cit.</dt>
+  <dd>(loco citato) in the place cited. At the same place as cited before</dd>
 
-ch. chap.
+  <dt>op. cit.</dt>
+  <dd>(opere citato). Used when a quotation comes from the same source as cited earlier. Author names should be included to indicate the source. For example "Mandelson, op. cit., s. 99".</dd>
 
-chapter
+  <dt>p.</dt>
+  <dd>page(s)</dd>
 
- 
+  <dt>rev. ed.</dt>
+  <dd>revised edition. For revised editions of books</dd>
 
-ed.
+  <dt>s. l.</dt>
+  <dd>(sine loco) without a place</dd>
 
-editor(s)
+  <dt>s. n.</dt>
+  <dd>(sine nomine) without a name. For unnamed publishers</dd>
 
- 
+  <dt>suppl.</dt>
+  <dd>supplement. Used for example for supplementary issues of a journal</dd>
 
-et al.
+  <dt>v.</dt>
+  <dd>volume</dd>
 
-(et alii) and others
-
-Used to shorten author lists
-
-ib., ibid.
-
-(ibidem) In the same text as previous citation
-
-Used when a reference is the same as the previous one. The page number can be different, for example "ibid., p. 56."
-
-idem, loc. cit.
-
-(loco citato) in the place cited
-
-At the same place as cited before
-
-op. cit.
-
-(opere citato)
-
-Used when a quotation comes from the same source as cited earlier. Author names should be included to indicate the source. For example "Mandelson, op. cit., s. 99".
-
-p.
-
-page(s)
-
- 
-
-rev. ed.
-
-revised edition
-
-For revised editions of books
-
-s. l.
-
-(sine loco) without a place
-
- 
-
-s. n.
-
-(sine nomine) without a name
-
-for unnamed publishers
-
-suppl.
-
-supplement
-
-Used for example for supplementary issues of a journal
-
-v.
-
-volume
-
- 
-
-X??
-
-uten år
+  <dt>X??</dt>
+  <dd>Without published year</dd>
+</dl>
