@@ -42,15 +42,14 @@ Dersom du velger å kombinere to søkeord med AND, får du bare treff på litter
 
 Eksempel: Søk på **Diabetes AND Livskvalitet** gir bare treff på litteratur som handler om **både** diabetes og livskvalitet.
 
-[![AND](../images/AND-300x203.png)](/wp-content/uploads/2014/08/AND.png)
-
 <ClientOnly>
   <Venn 
     v-bind:sets="[
         {sets: ['Diabetes'], size: 12}, 
         {sets: ['Livskvalitet'], size: 12},
-        {sets: ['Diabetes','Livskvalitet'], size: 2}
+        {sets: ['Diabetes','Livskvalitet'], size: 3}
     ]" 
+    text="Treff for AND-søk"
     type="and" />
 </ClientOnly>
 
@@ -60,15 +59,14 @@ Dersom du velger å kombinere to søkeord med OR, får du treff som inneholder d
 
 Eksempel: Søk på **Diabetes OR Sukkersyke** gir treff på diabetes, sukkersyke eller begge deler.
 
-[![OR](../images/OR-300x175.png)](/wp-content/uploads/2014/08/OR.png)
-
 <ClientOnly>
   <Venn 
     v-bind:sets="[
         {sets: ['Diabetes'], size: 12}, 
         {sets: ['Sukkersyke'], size: 12},
-        {sets: ['Diabetes','Sukkersyke'], size: 2}
+        {sets: ['Diabetes','Sukkersyke'], size: 3}
     ]" 
+    text="Treff for OR-søk"
     type="or" />
 </ClientOnly>
 
@@ -78,15 +76,14 @@ Dersom du velger å kombinere to søkeord med NOT, får du treff på det ene ord
 
 Eksempel: Søk på **Diabetes NOT Insulinpumpe** gir treff på diabetes mens det utelater alt som i tillegg handler om insulinpumpe.
 
-[![NOT](../images/NOT-300x206.png)](/wp-content/uploads/2014/08/NOT.png)
-
 <ClientOnly>
   <Venn 
     v-bind:sets="[
         {sets: ['Diabetes'], size: 12}, 
         {sets: ['Insulinpumpe'], size: 12},
-        {sets: ['Diabetes','Insulinpumpe'], size: 2}
+        {sets: ['Diabetes','Insulinpumpe'], size: 3}
     ]" 
+    text="Treff for NOT-søk"
     type="not" />
 </ClientOnly>
 

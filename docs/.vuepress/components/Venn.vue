@@ -1,5 +1,8 @@
 <template>
-  <div v-bind:id="'venn-' + type"></div>
+  <figure>
+    <div v-bind:id="'venn-' + type"></div>
+    <figcaption>{{text}}</figcaption>
+  </figure>
 </template>
 
 <script>
@@ -13,27 +16,27 @@
       type: String
     },
     data() {
-      /* let sets = [
-        {sets: ['A'], size: 12}, 
-        {sets: ['B'], size: 12},
-        {sets: ['A','B'], size: 2}
-      ]; */
-
-      let sets = this.sets
-    
       return {
-        sets
+        sets,
+        type
       }
     },
     methods: {
       venn(sets, type) {
-        let chart = venn.VennDiagram().height(200);
-        console.log(JSON.stringify(sets))
-        console.log(JSON.stringify(type))
-
+        let chart = venn.VennDiagram().height(300).width(600);
         let id = `#venn-${type}`
 
         d3.select(id).datum(sets).call(chart);
+        d3.select(id + " svg")
+          .attr("viewBox", "0 0 600 300")
+          .attr("preserveAspectRatio", "xMinYMin meet")
+          .attr("width", "100%")
+          .attr("height", "100%")
+
+        d3.selectAll(id + " .venn-area.venn-circle text")
+            .style("font-weight", "bold")
+            .style("font-size", "1.5em")
+            .attr("class", "venn-font")
 
         if (type == 'and') {
           d3.selectAll(id + " .venn-area.venn-intersection path")
@@ -43,22 +46,19 @@
           d3.selectAll(id + " .venn-area.venn-circle path")
             .style("fill", "rgb(215, 228, 239)")
             .style("fill-opacity", 1);
-          
-          d3.selectAll(id + " .venn-area.venn-circle text")
-            .style("font-weight", "bold")
         }
 
         if (type == 'or') {
           d3.selectAll(id + " .venn-area.venn-intersection path")
-            .style("fill", "rgb(215, 228, 239)")
+            .style("fill", "388AA0")
             .style("fill-opacity", 1);
 
           d3.selectAll(id + " .venn-area.venn-circle path")
-            .style("fill", "rgb(215, 228, 239)")
+            .style("fill", "388AA0")
             .style("fill-opacity", 1);
-
+          
           d3.selectAll(id + " .venn-area.venn-circle text")
-            .style("font-weight", "bold")
+            .style("fill", "white");
         }
 
         if (type == 'not') {
@@ -67,7 +67,7 @@
             .style("fill-opacity", 1);
           
           d3.selectAll(id + " .venn-area.venn-circle:first-child text")
-            .style("fill", "#aaa !important")
+            .style("fill", "white")
             .style("font-weight", "bolder");
           
           d3.selectAll(id + " .venn-area.venn-intersection path")
@@ -84,10 +84,7 @@
       }
     },
     mounted() {  
-      let text = this.text
-      let type = this.type 
-      // let sets = this.sets 
-      this.venn(this.sets, type)
+      this.venn(this.sets, this.type)
     }
   } 
 </script>

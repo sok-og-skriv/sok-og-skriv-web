@@ -40,8 +40,6 @@ When you combine your query terms by using AND, the resulting hits will contain 
 
 When you search for **decubitus AND prevention**, the resulting hits will contain only documents that deal with both decubitus and prevention as shown in the diagram below.
 
-![AND eng](../images/AND-eng.png)
-
 <ClientOnly>
   <Venn 
     v-bind:sets="[
@@ -49,14 +47,13 @@ When you search for **decubitus AND prevention**, the resulting hits will contai
         {sets: ['prevention'], size: 12},
         {sets: ['decubitus','prevention'], size: 2}
     ]" 
+    text="Hits when doing AND search"
     type="and" />
 </ClientOnly>
 
 ### Combining search terms using OR
 
 When you choose to join two terms with the OR operator, you get a search result that contain either one of the terms, or both. Combining search terms with OR thus generates an extended search result with a larger number of hits. The OR operator is usually employed to cover alternatives or synonyms of a query term. For example, the search for **decubitus OR bedsore**, will give a hit that contains either decubitus or bedsore, or decubitus and bedsore as shown in the diagram below.
-
-![OR eng](../images/OR-eng.png)
 
 <ClientOnly>
   <Venn 
@@ -65,6 +62,7 @@ When you choose to join two terms with the OR operator, you get a search result 
         {sets: ['bedsore'], size: 12},
         {sets: ['decubitus','bedsore'], size: 2}
     ]" 
+    text="Hits when doing a OR search"
     type="or" />
 </ClientOnly>
 
@@ -81,6 +79,7 @@ When you combine your query terms with the operator NOT, your search result will
         {sets: ['prevention'], size: 12},
         {sets: ['decubitus','prevention'], size: 2}
     ]" 
+    text="Hits when doing a NOT search"
     type="not" />
 </ClientOnly>
 
