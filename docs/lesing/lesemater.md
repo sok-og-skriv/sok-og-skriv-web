@@ -46,7 +46,7 @@ Ta for deg en tekst du har på pensum, og spør: Hva er temaet? Hva er problemst
 - Hva er sentrale **begreper** i teksten?
 - Er teksten omtalt eller referert til andre steder, for eksempel i andre **bøker og artikler**? Kanskje det finnes **anmeldelser**?
 
-::: tip EKSEMPEL  
+::: eksempel EKSEMPEL  
 Du leser et avsnitt der det står:
 
 «Syden kan altså klart sies å være et inversjonsritual i Gluckmanns forstand og en heterotop i Foucaults forstand … » (Runar Døving, «Stedet Syden», _Norsk Antropologisk Tidsskrift_ 1/2011, s. 25).

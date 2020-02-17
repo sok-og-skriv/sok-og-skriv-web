@@ -49,7 +49,7 @@ Enkelte ganger kan det være en skrivefeil i originalen. Dette markeres med å s
 
 Som hovedregel skal du kun sitere fra verk du har lest. Om originalkilden ikke er tilgjengelig, eller kun forekommer på språk du ikke forstår, kan du henvise til andres omtale av den:
 
-::: tip EKSEMPEL  
+::: eksempel EKSEMPEL  
 Beck og Beck-Gemsheim referert i Kloster (2003, s. 4) snakker om tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet.
 :::
 

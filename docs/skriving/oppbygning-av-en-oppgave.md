@@ -53,7 +53,7 @@ Hvis faget tillater at du trekker inn egne interesser og erfaringer (som praktik
 Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med hovedteksten!
 :::
 
-::: warning EKSEMPEL: 
+::: eksempel EKSEMPEL: 
 Forskjellige måter å åpne en oppgave eller artikkel. Som inngang til en lengre tekst kan du blant annet bruke oppsummering, historisering, henvisning til en kjent hendelse, aktualisering og leserhenvendelse.
 
 **Oppsummering:** «Forsøk med spesielt tilrettelagt undervisning i full klasse har vist at …». «Flere studier av makt i organisasjoner har fokusert på … ». I disse konstruerte eksemplene brukes oppsummeringen som bakgrunn.

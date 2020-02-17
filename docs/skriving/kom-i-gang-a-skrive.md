@@ -63,7 +63,6 @@ Idémyldring er en privat tekst, som skal gi skrivelyst.
 _Tankekart om grønn markedsføring_
 
 ::: tip Tips:
-
 - Bruk farger for å markere temaer og relasjoner, og for å framheve tanker
 - Bruk bilder eller symboler
 - Bruk små bokstaver. Små bokstaver leses og huskes bedre enn store bokstaver
@@ -94,7 +93,7 @@ Det er flere måter å starte en skriveprosess på, men det kan være lurt å ut
 
 Når du arbeider med å forme en problemstilling, kan du gjerne starte med en idémyldring. Skriv ned alle de spørsmålene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
 
-::: tip EKSEMPEL  
+::: eksempel EKSEMPEL  
 La oss si temaet du er interessert i er miljøvennlighet som markedsføringsstrategi. Spørsmål du stiller innledningsvis kan for eksempel være: Lønner det seg for bedrifter å markedsføre seg som miljøvennlige? Hva skal til for at kundene opplever at en bedrift, vare eller tjeneste er miljøvennlig? Fører et nytt miljøvennlig produkt i produktporteføljen til at kundene også opplever at bedriftens øvrige produkter er mer miljøvennlige? Hva er effektene av å komme inn i en merkeordning? Hva gjør bedrifter for å framstå som miljøvennlige, og hvordan virker det? Hva vil det si at en bedrift er bærekraftig? Følger det noen spesiell etisk forpliktelse med slik markedsføring? Appellerer slik markedsføring til noen spesielle grupper? Hva kjennetegner miljøbevisste kunder? Er miljøbevisste forbrukere mer eller mindre kritiske enn andre? Er det samsvar mellom forbrukernes holdninger og de faktiske valgene deres? Hvordan endre konsumentenes miljøskadelige vaner? Hvordan påvirker konsumentenes personlige og sosiale identitet de valg de gjør av miljøvennlige produkter? Så gjør du [brede litteratursøk](/soking/planlegg-soket-dit/) for å orientere deg i faglitteraturen. Mulige søkeord kan være:
 
 ::: details 

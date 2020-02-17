@@ -313,6 +313,22 @@ module.exports = {
     'vuepress-plugin-export',
     /* 'alias', */
     ['@vuepress/back-to-top', true],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'eksempel',
+        before: info => `<div class="example"><p class="title">${info}</p>`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'oppgave',
+        before: info => `<div class="exercise"><p class="title">${info}</p>`,
+        after: '</div>',
+      },
+    ],
     ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: {

@@ -13,7 +13,7 @@ One of most the fundamental things we use language for is argument. Arguing mean
 
 The statement that connects the initial claim and the argument is referred to as the warrant. The warrant is thus an argument for the connection between the initial claim and the argument.
 
-::: tip EXAMPLE  
+::: eksempel EXAMPLE  
 “It’s your turn to make dinner today. I made dinner yesterday.” Counter argument: “You’re making dinner all of this week. I have an exam next week. That’s what we agreed.”
 :::
 

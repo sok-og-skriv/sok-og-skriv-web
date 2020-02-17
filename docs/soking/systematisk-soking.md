@@ -46,7 +46,7 @@ Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten
 
 For å være sikker på å finne alle relevante artikler, bør man søke på synonyme termer. Velger du å søke via emneordslisten i en av databasene (for eksempel MeSH), vil den automatisk inkludere en del synonymer i søket. Likevel er det nyttig å supplere med søk på tekstord som hentes fra forfatters emneord og sammendraget av artikkelen.
 
-::: tip EKSEMPEL: PICO-skjema med forslag til synonymer
+::: eksempel EKSEMPEL: PICO-skjema med forslag til synonymer
 Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
 
 [![PICO-skjema med søkeord](../images/pico-3.png)](/wp-content/uploads/2014/08/pico-3.png)

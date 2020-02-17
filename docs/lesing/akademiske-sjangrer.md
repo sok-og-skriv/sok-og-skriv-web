@@ -54,4 +54,6 @@ I tillegg til å snakke om at akademiske tekster inngår i ulike akademiske sjan
 - forteller
 - argumenterer (drøfter, problematiserer)
 
-**Øvelse:** Ett av de spørsmålene du kan stille til en tekst, er: Hva gjør denne teksten nå? Forklarer den? Beskriver den? Forteller den? Argumenterer den? Ved å spørre slik kan du skjerpe din forståelse av hva det er som foregår i de tekstene du leser. Da vil også tekstlesingen fungere som en mer aktiv forberedelse av din egen skriving av tilsvarende tekster. Hvordan kan du bruke teksten i din oppgave? Hva kan du hente ut av teksten i forhold til problemstillingen du skal i gang med?
+::: oppgave Øvelse
+Ett av de spørsmålene du kan stille til en tekst, er: Hva gjør denne teksten nå? Forklarer den? Beskriver den? Forteller den? Argumenterer den? Ved å spørre slik kan du skjerpe din forståelse av hva det er som foregår i de tekstene du leser. Da vil også tekstlesingen fungere som en mer aktiv forberedelse av din egen skriving av tilsvarende tekster. Hvordan kan du bruke teksten i din oppgave? Hva kan du hente ut av teksten i forhold til problemstillingen du skal i gang med?
+:::

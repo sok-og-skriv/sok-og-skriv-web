@@ -206,6 +206,8 @@ __blabla__
 
 ## Tabeller
 
+Tabeller er aldri gøy :-(. Enkleste er å ha tabellen i Excel eller Google Sheets og konvertere til markdown. Da er [Tablesgenerator](https://www.tablesgenerator.com/markdown_tables) topp.
+
 ``` markdown
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|

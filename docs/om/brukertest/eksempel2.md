@@ -10,7 +10,7 @@ title: "Eksempel 2"
 |---------|-----------------|
 |(Forfatter, årstall, sidetall)|Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken har et spesielt format\]. https://doi.org/10.xxx|
 
-::: tip Eksemplert
+::: eksempel Eksempler
 Watkins (2012) hevder at ... (s. 54).
 
 Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https://doi.org/10.1007/978-94-6091-699-1

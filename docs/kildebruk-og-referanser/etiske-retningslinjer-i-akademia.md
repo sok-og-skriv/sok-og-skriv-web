@@ -18,7 +18,7 @@ Troverdigheten ved forskning ved høyere utdanningsinstitusjoner er avhengig av 
 Forskningsetikk omfatter:
 
 - Interne forskningsetiske normer som forskerne selv forvalter.
-- Eksterne forskningsetiske normer som forvaltes av bl.a. de norske [forskningsetiske komiteer](http://www.etikkom.no/HvemErVi "(nytt vindu)")
+- Eksterne forskningsetiske normer som forvaltes av bl.a. de norske [forskningsetiske komiteer](http://www.etikkom.no/HvemErVi)
 
 Interne forskningsetiske normer dreier seg om at:
 
@@ -47,8 +47,7 @@ Forskningskomiteene ser til at prosjekter oppfyller disse kravene før de igangs
 
 Det er utarbeidet følgende retningslinjer som brukes i Norge:
 
-- [Den nasjonale forskningsetiske komité for medisin og helsefag, NEM](http://www.etikkom.no/Vart-arbeid/Hvem-er-vi/Komite-for-medisin-og-helsefag/ "(nytt vindu)")  
-    med henvisninger til [Helsinkideklarasjonen](http://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Helsinki-deklarasjonen/ "(nytt vindu)"), [Vancouverkonvensjonen](http://www.etikkom.no/no/FBIB/Praktisk/Lover-og-retningslinjer/Vancouverkonvensjonen/ "(nytt vindu)") og [retningslinjer for inklusjon av kvinner i medisinsk forskning](http://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Inklusjon-av-kvinner/ "(nytt vindu)")
+- [Den nasjonale forskningsetiske komité for medisin og helsefag, NEM](http://www.etikkom.no/Vart-arbeid/Hvem-er-vi/Komite-for-medisin-og-helsefag/ "(nytt vindu)") med henvisninger til [Helsinkideklarasjonen](http://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Helsinki-deklarasjonen/ "(nytt vindu)"), [Vancouverkonvensjonen](http://www.etikkom.no/no/FBIB/Praktisk/Lover-og-retningslinjer/Vancouverkonvensjonen/ "(nytt vindu)") og [retningslinjer for inklusjon av kvinner i medisinsk forskning](http://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Inklusjon-av-kvinner/ "(nytt vindu)")
 - [Forskningsetiske retningslinjer for samfunnsvitenskap, humaniora, juss og teologi](http://www.etikkom.no/Forskningsetikk/Etiske-retningslinjer/Samfunnsvitenskap-jus-og-humaniora/ "(nytt vindu)")
 - [Retningslinjer for naturvitenskapelig og teknologisk forskning](http://www.etikkom.no/Forskningsetikk/Etiske-retningslinjer/Naturvitenskap-og-teknologi/ "(nytt vindu)")
 

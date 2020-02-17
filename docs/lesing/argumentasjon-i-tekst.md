@@ -70,7 +70,7 @@ Ikke alle tekster er argumenterende tekster, heller ikke blant [de akademiske sj
 
 Mange av de tekstene du leser er argumenterende tekster. De argumenterer for noe. Ofte sier forfatteren klart fra om hva det er hun eller han argumenterer for.
 
-::: tip EKSEMPEL  
+::: eksempel EKSEMPEL  
 Fra en artikkel i litteraturvitenskap:
 
 I min lesning av diktet ‘Död amazon’ vil jeg argumentere for at diktspråket rommer en kompleks og fortettet temporalitet som vanskelig lar seg forene med den mimesislogikk som vi vanligvis møter i poetikken. (Ellen Mortensen, “En ubestemmelig død: Mimesis og temporalitet i Hjalmar Gullbergs ‘Död amazon’”, _Agora. Journal for metafysisk spekulasjon_, 4/00-01, 140-154; s. 140.)

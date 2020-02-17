@@ -29,8 +29,7 @@ Eller: Instituttet forsker stadig på dette området.
 
 Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. Dette er vanlig å gjøre i beskrivelsen av forskningsmetoder der resultatene skal kunne reproduseres uavhengig av hvem som gjør undersøkelsen. Det er imidlertid en vanlig misforståelse å tro at en setning i passiv form er mer objektiv fordi man unngår ordet "jeg" eller "vi". Her, som ellers, er det fornuftig å variere. For mye passiv form blir tunglest, byråkratisk og ”mystifiserende”, men for mye aktiv form kan også bli slitsomt. Det er ikke alltid vi trenger å minnes om forskernes personer gjennom bruk av ”jeg” eller ”vi”.
 
-## Øvelse
-
+::: oppgave Øvelse
 **Skriv om til mer direkte form:**
 
 - X er preget av viktighet
@@ -39,6 +38,7 @@ Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. 
 - Utføre forskning
 - Bedrive tenkning
 - Foreta en undersøkelse
+:::
 
 ## Kan jeg skrive ”jeg”?
 
@@ -48,8 +48,8 @@ I de fleste vitenskapelige tekster er det også et forsker-jeg: personen(e) som 
 
 Det private jeg'et, derimot, har ingen ting i en akademisk tekst å gjøre. Dette betyr ikke at du ikke kan sette ditt personlige preg på teksten, men at du gjør dette med de virkemidlene som de akademiske sjangrene tilbyr (for eksempel ved å velge interessante og viktige problemstillinger, overbevisning gjennom argumentasjon og ved bruk av gode eksempler).
 
-## Øvelse
-
+::: oppgave Øvelse
 Les noen sider fra en masteroppgave i ditt fag og merk av ordet "jeg". Identifiser hvilke forekomster som viser til henholdsvis forskerjeg'et, forfatter-jeg'et og det personlige jeg. For sammenligning, les en forskningsartikkel som bruker ordet "jeg", og utfør tilsvarende analyse. Hvordan var fordelingen i de to tekstene?
 
 **Husk!** Studentoppgaver kan ha noen gode grunner til å bruke det personlige jeg; grunner som kan være mindre relevante i en forskningsartikkel.
+:::
