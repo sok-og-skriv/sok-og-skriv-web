@@ -42,7 +42,7 @@
           <div class="partners">
             <div class="partner">
               <a href="https://www.uib.no" alt="Høyskolen på Vestlandet logo" >
-                <img style="width: 70%;" src="/hvl-logo.jpg" />
+                <img style="width: 60%;" src="/hvl-logo.jpg" />
               </a>
               <div class="title">
                 Høyskolen på Vestlandet
@@ -58,7 +58,7 @@
             </div>
             <div class="partner">
               <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
-                <img src="/nb-logo.png" />
+                <img style="width: 70%;" src="/nb-logo.png" />
               </a>
               <div class="title">
                 Nasjonalbiblioteket

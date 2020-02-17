@@ -45,7 +45,7 @@ When you search for **decubitus AND prevention**, the resulting hits will contai
     v-bind:sets="[
         {sets: ['decubitus'], size: 12}, 
         {sets: ['prevention'], size: 12},
-        {sets: ['decubitus','prevention'], size: 2}
+        {sets: ['decubitus','prevention'], size: 3}
     ]" 
     text="Hits when doing AND search"
     type="and" />
@@ -60,7 +60,7 @@ When you choose to join two terms with the OR operator, you get a search result 
     v-bind:sets="[
         {sets: ['decubitus'], size: 12}, 
         {sets: ['bedsore'], size: 12},
-        {sets: ['decubitus','bedsore'], size: 2}
+        {sets: ['decubitus','bedsore'], size: 3}
     ]" 
     text="Hits when doing a OR search"
     type="or" />
@@ -77,7 +77,7 @@ When you combine your query terms with the operator NOT, your search result will
     v-bind:sets="[
         {sets: ['decubitus'], size: 12}, 
         {sets: ['prevention'], size: 12},
-        {sets: ['decubitus','prevention'], size: 2}
+        {sets: ['decubitus','prevention'], size: 3}
     ]" 
     text="Hits when doing a NOT search"
     type="not" />
