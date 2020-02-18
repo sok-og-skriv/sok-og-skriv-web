@@ -38,7 +38,7 @@
       </template>
       <template #bottom>
         <slot name="page-bottom" />
-        <footer slot="page-bottom">
+        <footer class="theme-default-content">
           <div class="partners">
             <div class="partner">
               <a href="https://www.uib.no" alt="Høyskolen på Vestlandet logo" >
@@ -80,10 +80,6 @@
 </template>
 
 <style scoped>
-footer {
-  padding: 1rem;
-  margin-top: 2rem;
-}
 footer .partners {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -91,7 +87,7 @@ footer .partners {
   justify-content: center;
 }
 footer .partners .partner {
-  padding: 1rem;
+  padding: 1rem 0;
 }
 footer .partners .partner img {
   width: 100%;
