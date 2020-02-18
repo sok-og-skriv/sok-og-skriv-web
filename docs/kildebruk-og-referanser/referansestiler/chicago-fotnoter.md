@@ -37,15 +37,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, _Korttittel_ (Utgiversted: Forlag, år), sidetall.
+^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), sidetall.
 
 Etternavn, Fornavn. _Tittel_. Utgiversted: Forlag, årstall.
 
-Morton Klass definerer myte som "..."1
+Morton Klass definerer myte som "..."^1^
 
-1 Klass, _Ordered Universes_ (Boulder: Westview Press, 1995)_,_ 125.
+^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995)_,_ 125.
 
 Klass, Morton. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview Press, 1995.
 
@@ -55,15 +55,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
+^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
 
 Etternavn, Fornavn. _Tittel_. Utgiversted: Forlag, årstall, URL/DOI/format.
 
-Peter Childs definerer modernisme som "..."1
+Peter Childs definerer modernisme som "..."^1^
 
-1 Childs, _Modernism _(London: Taylor and Francis, 2016)_,_ ProQuest Ebook Central.
+^1^ Childs, _Modernism _(London: Taylor and Francis, 2016)_,_ ProQuest Ebook Central.
 
 Childs, Peter. _Modernism._ London: Taylor and Francis, 2016. ProQuest Ebook Central.
 
@@ -73,15 +73,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), sidetall.
+^x^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), sidetall.
 
 Etternavn, Fornavn. _Tittel_. Oversatt av Fornavn Etternavn. Utgiversted: Forlag, årstall.
 
-... skildret i romanen _Kelterens drøm_.2
+... skildret i romanen _Kelterens drøm_.^2^
 
-2 Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
+^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 
 Vargas Llosa, Mario. _Kelterens drøm_. Oversatt av Kari Risvik og Kjell Risvik. Oslo: Gyldendal, 2012.
 
@@ -91,15 +91,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, "Kapitteltittel", sidetall.
+^x^ Etternavn, "Kapitteltittel", sidetall.
 
 Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag, årstall.
 
-... i følge interpretasjonen om kjønnsrollen i hennes levetid.3
+... i følge interpretasjonen om kjønnsrollen i hennes levetid.^3^
 
-3 Åsebø, "Griselda Pollock", 273–274.
+^3^ Åsebø, "Griselda Pollock", 273–274.
 
 Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk, 2008.
 
@@ -111,21 +111,21 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, Etternavn og Etternavn, _Tittel_, sidetall.ellerx Etternavn et al., _Tittel_, sidetall.
+^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall.eller ^x^ Etternavn et al., _Tittel_, sidetall.
 
 Etternavn, Fornavn, Fornavn Etternavn (, Fornavn Etternavn, Fornavn Etternavn etc.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
 
 I boken Åtskilja och förena: etnologisk forskning om betydelser av kön diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
 
-6 Lundgren, Lövkrona og Martinsson, _Åtskilja och förena_.
+^6^ Lundgren, Lövkrona og Martinsson, _Åtskilja och förena_.
 
 Lundgren, Britta, Inger Lövkrona og Lena Martinsson. _Åtskilja och förena: etnologisk forskning om betydelser av kön_. Umeå: Universitetet, 1996.
 
 I forordet til boken _Kjønnsteori_7, hevdes det at...
 
-7 Mortensen et al., _Kjønnsteori_, 11.
+^7^ Mortensen et al., _Kjønnsteori_, 11.
 
 Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal akademisk, 2008.
 
@@ -135,15 +135,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
+^x^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
 
 Etternavn, Fornavn, _Tittel_, bindnummer, red. Fornavn Etternavn, _Serietittel_. Utgiversted: Forlag, årstall.
 
 ... dokumentert på grunnlag av kildevalget ….8
 
-8 Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
+^8^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 
 Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, red. Knut Mykland, _Norges historie_. Oslo: Cappelen, 1995.
 
@@ -155,15 +155,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, _Korttittel_, sidetall.
+^x^ Etternavn, _Korttittel_, sidetall.
 
 Etternavn, Fornavn. _Tittel_. Avhandlingstype. Institusjon. Årstall.
 
-”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”9
+”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^9^
 
-9 Åsebø, _Femininitetens rom_, 327.
+^9^ Åsebø, _Femininitetens rom_, 327.
 
 Åsebø, Sigrun. _Femininitetens rom og kvinnekroppens grenser – Å lese kunstens historie med A K Dolven og Mari Slaattelid_. Ph.D.-avhandling. Universitetet i Bergen. 2011.
 
@@ -175,15 +175,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, ”Korttittel”, sidetall.
+^x^ Etternavn, ”Korttittel”, sidetall.
 
 Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
 
-I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".10Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.11
+I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^10^Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^11^
 
-10 Stange, "Inspirert av The New Brutalism?".11 23.
+^10^ Stange, "Inspirert av The New Brutalism?".^11^ 23.
 
 Stange, Espen. "Inspirert av The New Brutalism?: arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
 
@@ -193,15 +193,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, "Korttittel", sidetall.
+^x^ Etternavn, "Korttittel", sidetall.
 
 Etternavn, Fornavn. "Tittel". _Tidsskrifttittel_ Årgang, Nummer (årstall): sidetall.
 
-... viser forandringer.12
+... viser forandringer.^12^
 
-12 Melve, "Komparativ historie", 66.
+^12^ Melve, "Komparativ historie", 66.
 
 Melve, Leidulf. "Komparativ historie: Ei utfordring for historiefaget?". _Historisk tidsskrift_ 88, nr. 1 (2009): 61–77.
 
@@ -211,15 +211,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, "Korttittel", sidetall.
+^x^ Etternavn, "Korttittel", sidetall.
 
 Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Årstall): sidetall. Dato. URL/DOI
 
-Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av bevegelse, og at dette igjen har symbolsk betydning.13 Forfatteren har delt inn helleristningene av elg i fire ulike benstillingskategorier.14
+Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av bevegelse, og at dette igjen har symbolsk betydning.^13^ Forfatteren har delt inn helleristningene av elg i fire ulike benstillingskategorier.^14^
 
-13 Sjöstrand, "Raka eller böjda ben?".14 s. 10–11.
+^13^ Sjöstrand, "Raka eller böjda ben?".^14^ s. 10–11.
 
 Sjöstrand, Ylva. "Raka eller böjda ben? Om variation bland älgarna på Nämforsens hällristningar". _Fornvännen_ 105, (2010): 9–19. 26.05.2014. [http://kulturarvsdata.se/raa/fornvannen/html/2010\_009](http://kulturarvsdata.se/raa/fornvannen/html/2010_009)
 
@@ -231,15 +231,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, "Artikkeltittel."
+^x^ Etternavn, "Artikkeltittel."
 
 Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato. URL/DOI
 
-Målgruppen for Hansaspillet er både fastboende og turister.15
+Målgruppen for Hansaspillet er både fastboende og turister.^15^
 
-15 Røyrane, "Hanseatene kommer tilbake".
+^15^ Røyrane, "Hanseatene kommer tilbake".
 
 Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [http://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](http://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
 
@@ -251,15 +251,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, "Artikkeltittel."
+^x^ Etternavn, "Artikkeltittel."
 
 Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato.
 
-Forfatteren, komponisten og musikeren foreslo flere samarbeidsprosjekter for å løfte frem Munchs ukjente tekstarv.16
+Forfatteren, komponisten og musikeren foreslo flere samarbeidsprosjekter for å løfte frem Munchs ukjente tekstarv.^16^
 
-16 Nærø, "Ketil Bjørnstad."
+^16^ Nærø, "Ketil Bjørnstad."
 
 Nærø, Sturle Scholz. "Ingen tok Ketil Bjørnstad på alvor." _Aftenposten_. 25.01.2013.
 
@@ -271,17 +271,17 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Nettstedets navn, "Artikkeltittel."
+^x^ Nettstedets navn, "Artikkeltittel."
 
 Nettsted. "Artikkeltittel." Dato. URL/DOI
 
-..., jfr data fra Statistisk sentralbyrå.17
+..., jfr data fra Statistisk sentralbyrå.^17^
 
-17 Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
+^17^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
 
-17 Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [http://www.ssb.no/trosamf/](http://www.ssb.no/trosamf/)
+^17^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [http://www.ssb.no/trosamf/](http://www.ssb.no/trosamf/)
 
 ### Nettside med forfatter / Blogg
 
@@ -291,15 +291,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, ”Artikkeltittel.”
+^x^ Etternavn, ”Artikkeltittel.”
 
 Etternavn, Fornavn. ”Artikkeltittel,” Navn på nettsted/blogg. Dato (publisert/sist oppdatert eller lest). URL/DOI
 
-…ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…18
+…ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^18^
 
-18 Tetens, "Dishing the Victorian Dirt".
+^18^ Tetens, "Dishing the Victorian Dirt".
 
 Tetens, Kristian. "Dishing the Victorian Dirt," _The Victorian Peeper. Nineteenth-century Britain through the looking glass_ (blogg). 25.04.2011. [http://www.victorianpeeper.blogspot.com/](http://www.victorianpeeper.blogspot.com/)
 
@@ -311,13 +311,13 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
+^x^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
 
-Håvamål betyr «den høyes tale»19
+Håvamål betyr «den høyes tale»^19^
 
-19 Wikipedia, s.v. "Håvamål". 06.01.2020. [http://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+^19^ Wikipedia, s.v. "Håvamål". 06.01.2020. [http://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
@@ -325,13 +325,13 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Tittel på leksikon/nettsted, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
+^x^ Tittel på leksikon/nettsted, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
 
-Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.29
+Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^29^
 
-29 Store norske leksikon, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
+^29^ Store norske leksikon, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 
 ### Artikkel i trykt leksikon/oppslagsverk
 
@@ -341,15 +341,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
+^x^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
 
 Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
 
-Alderdom er definert som ”…”20
+Alderdom er definert som ”…”^20^
 
-20 _Kulturhistorisk leksikon_, s.v. "alderdom."
+^20^ _Kulturhistorisk leksikon_, s.v. "alderdom."
 
 Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
 
@@ -359,15 +359,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, ”Korttittel artikkel.”
+^x^ Etternavn, ”Korttittel artikkel.”
 
 Etternavn, Fornavn. ”Artikkeltittel”, i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
 
-…ifølge Dag Sveen21
+…ifølge Dag Sveen^21^
 
-21 Sveen, ”Kritisk realisme”.
+^21^ Sveen, ”Kritisk realisme”.
 
 Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax forlag, 1979.
 
@@ -403,7 +403,7 @@ Etternavn, Fornavn. _Tittel._ Årstall. Medium. Størrelse. Plassering (eier). S
 
 Billedtekst, for eksempel: Edvard Munch, _Skrik_, 1893. Gjengitt med tillatelse fra Nasjonalmuseet for kunst, arkitektur og design.
 
-Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 x 73,5 cm.. Nasjonalmuseet for kunst, arkitektur og design. Oslo. Fotografert av Børre Høstland. [http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939)
+Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 ^x^ 73,5 cm.. Nasjonalmuseet for kunst, arkitektur og design. Oslo. Fotografert av Børre Høstland. [http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939)
 
 ### Digitale bilder/film
 
@@ -411,13 +411,13 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Opphavsperson, _Tittel_Opphavsperson Etternavn, Fornavn. _Tittel._ Medium, ev. andre opplysninger. Dato. URL/DOI
+^x^ Opphavsperson, _Tittel_Opphavsperson Etternavn, Fornavn. _Tittel._ Medium, ev. andre opplysninger. Dato. URL/DOI
 
-... som poengtert i språkvideoen til Moss22
+... som poengtert i språkvideoen til Moss^22^
 
-22 Bodil Moss, _Language as a tool in academic writing_
+^22^ Bodil Moss, _Language as a tool in academic writing_
 
 Moss, Bodil. _Language as a tool in academic writing._ Video, 6:14. Mai 2018. [https://vimeo.com/269854439](https://vimeo.com/269854439)
 
@@ -433,15 +433,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn komponist, "Tittelspor" fra _Platetittel_, Etternavn på utøver(e), årstall.
+^x^ Etternavn komponist, "Tittelspor" fra _Platetittel_, Etternavn på utøver(e), årstall.
 
 Etternavn, Fornavn. _Tittel_. Fornavn Etternavn på utøver(e). Årstall. Plateselskap. Lydformat.
 
-... slik satsen ble tolket i framføringen under festspillene i Bergen, våren 201823
+... slik satsen ble tolket i framføringen under festspillene i Bergen, våren 2018^23^
 
-23 Berlioz, "Rex tremendæ" fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
+^23^ Berlioz, "Re^x^ tremendæ" fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
 
 Berlioz, Hector. "Rex tremendæ" fra _Grande messe des morts, op.5, h75_. Bror Magnus Tødenes, tenor, Choir of Collegiûm Mûsicûm, Edvard Grieg kor, Royal Northern College of Music Chorus, Bergen Philharmonic Choir, Håkon Matti Skrede, chorus master, Eikanger-Bjørsvik musikklag, musicians from Bergen philharmonic youth orchestra and Crescendo, Bergen philharmonic orchestra, David Stewart, leader, Edward Gardner, conductor. 2018. Chandos. CD.
 
@@ -454,13 +454,13 @@ Kilden i teksten
 
 I noten
 
-x
+^x^
 
-x Lovens sanksjonsdato, nummer og fullstendig tittel, evt. paragraf, (korttittel) og URL  
+^x^ Lovens sanksjonsdato, nummer og fullstendig tittel, evt. paragraf, (korttittel) og URL  
 
-Helsepersonell skal sørge for at helsehjelpen ikke påfører pasienter, helseinstitusjon, trygden eller andre unødvendig tidstap eller utgift.24
+Helsepersonell skal sørge for at helsehjelpen ikke påfører pasienter, helseinstitusjon, trygden eller andre unødvendig tidstap eller utgift.^24^
 
-24 Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) https://lovdata.no/lov/1999-07-02-64
+^24^ Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) https://lovdata.no/lov/1999-07-02-64
 
 Loven føres vanligvis ikke inn i litteraturlisten.   
 
@@ -473,13 +473,13 @@ Kilden i teksten
 
 I noten
 
-x
+^x^
 
-x Forskrift dato nr. formelt navn evt. (korttittel) og URL
+^x^ Forskrift dato nr. formelt navn evt. (korttittel) og URL
 
-Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse omsettes i apotekene.25
+Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse omsettes i apotekene.^25^
 
-25 Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) https://lovdata.no/forskrift/2009-12-18-1839
+^25^ Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) https://lovdata.no/forskrift/2009-12-18-1839
 
 Forskrifter føres vanligvis ikke inn i litteraturlisten.
 
@@ -489,15 +489,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Dokumenttype nr. (sesjon), evt. sidetall.
+^x^ Dokumenttype nr. (sesjon), evt. sidetall.
 
 St.meld. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Evt. URL
 
-En stortingsmelding fra 200827 tar for seg temaet arbeidsinnvandring.
+En stortingsmelding fra 2008^27^ tar for seg temaet arbeidsinnvandring.
 
-27 St.meld. nr. 18 (2007-2008), 15.
+^27^ St.meld. nr. 18 (2007-2008), 15.
 
 St.meld. nr. 18 (2007-2008). _Arbeidsinnvandring._ Oslo: Arbeidsdepartementet. [http://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/](http://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/)
 
@@ -509,15 +509,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Prop. nr. (sesjon), evt. sidetall.
+^x^ Prop. nr. (sesjon), evt. sidetall.
 
 Prop. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Evt. URL
 
-Regjeringen27 foreslo i forbindelse med revidert statsbudsjett å fjerne avgift på forbrenning av avfall.
+Regjeringen^27^ foreslo i forbindelse med revidert statsbudsjett å fjerne avgift på forbrenning av avfall.
 
-27 Prop. 126 LS (2009-2010)
+^27^ Prop. 126 LS (2009-2010)
 
 Prop. 125 LS (2009-2010). _Endringer i skatte- og avgiftsreglane mv._ Oslo: Finansdepartementet. [https://www.regjeringen.no/no/dokumenter/Prop-126-LS-2009-2010/id604532/sec1](https://www.regjeringen.no/no/dokumenter/Prop-126-LS-2009-2010/id604532/sec1)
 
@@ -527,15 +527,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
 x NOU årstall: nr., evt. sidetall.
 
 NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Evt. URL
 
-I NOU _Struktur for likestilling_28 hevdes det at…
+I NOU _Struktur for likestilling_^28^ hevdes det at…
 
-28 NOU 2011: 18, 25.
+^28^ NOU 2011: 18, 25.
 
 NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/](https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/)
 
@@ -547,13 +547,13 @@ Kilden i teksten
 
 I noten
 
-I Lukasevangeliet er Maria i tvil om hun virkelig vil føde Guds barn.26 
+I Lukasevangeliet er Maria i tvil om hun virkelig vil føde Guds barn.^26^ 
 
 Eller
 
 I Lukasevangeliet (Luk. 1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
 
-26 Luk. 1:34
+^26^ Luk. 1:34
 
 ### Manuskript under vurdering, men ikke antatt (submitted)
 
@@ -563,15 +563,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, _”Korttittel”_, sidetall.
+^x^ Etternavn, _”Korttittel”_, sidetall.
 
 Etternavn, Fornavn. _”Tittel”_. Utgiversted: Utgiver, innsendt for publisering.
 
-Nyere forskning29 peker i retning av (…)
+Nyere forskning^29^ peker i retning av (…)
 
-29 Trille, _”Stort og smått”_.
+^29^ Trille, _”Stort og smått”_.
 
 Trille, Lille. _”Stort og smått i eggbransjen”_. Norsk tidsskrift for fiktive figurer fra rim og regler, innsendt for publisering.
 
@@ -583,15 +583,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn, _Korttittel_, sidetall hvis tilgjengelig.
+^x^ Etternavn, _Korttittel_, sidetall hvis tilgjengelig.
 
 Etternavn, Fornavn. _Tittel_. Utgiversted: Utgiver. Under publisering.
 
-Ifølge Ola Nordmann er det en sannsynlig sammenheng mellom disse faktorene.30
+Ifølge Ola Nordmann er det en sannsynlig sammenheng mellom disse faktorene.^30^
 
-30 Nordmann, _Håp og tro_.
+^30^ Nordmann, _Håp og tro_.
 
 Nordmann, Ola. _Håp og Tro: En studie av religiøse forestillinger_. Oslo: Fiktivt Forlag. Forventet publisering 2020.
 
@@ -603,9 +603,9 @@ Kilden i teksten
 
 I noten
 
-”For øvrig mener jeg at Karthago bør ødelegges.” 31
+”For øvrig mener jeg at Karthago bør ødelegges.” ^31^
 
-31 Personlig kommunikasjon i e-post fra Cato den eldre, 01.02.20.
+^31^ Personlig kommunikasjon i e-post fra Cato den eldre, 01.02.20.
 
 ### Arkivmateriale og ikke trykte dokumenter
 
@@ -615,15 +615,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Forkortelse for kilde, opphavsperson, kildetype, ev. andre opplysninger, sideanvisning.
+^x^ Forkortelse for kilde, opphavsperson, kildetype, ev. andre opplysninger, sideanvisning.
 
 Institusjon, Kilde, opphavsperson, kildetype, sideanvisning, ev. andre opplysninger. Årstall.
 
-... slik som dokumentert i panteboken.32
+... slik som dokumentert i panteboken.^32^
 
-32 BPB, 1, nr.1, 1680–1684. Byfogd og byskriver i Bergen, pag. 222.
+^32^ BPB, 1, nr.1, 1680–1684. Byfogd og byskriver i Bergen, pag. 222.
 
 Statsarkivet i Bergen, Pantebok I, Byfogd og byskriver i Bergen. Pantebok 1. 1680–1684.
 
@@ -637,15 +637,15 @@ Kilden i teksten
 
 I noten og referanseliste
 
-x
+^x^
 
-x Etternavn/gruppe/institusjon, ”Sitat (inntil 160 tegn).”
+^x^ Etternavn/gruppe/institusjon, ”Sitat (inntil 160 tegn).”
 
 Fornavn Etternavn/gruppe/institusjon, ”Sitat, (inntil 160 tegn)” Navn på sosialt medium, publiseringsdato, URL
 
-…som mottok fattighjelp, ble forhindret fra å stemme ved kommunevalget i 1916.18
+…som mottok fattighjelp, ble forhindret fra å stemme ved kommunevalget i 1916.^18^
 
-18 Stortinget, "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp."
+^18^ Stortinget, "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp."
 
 Stortinget. "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp," Facebook, 3.12.2019, [https://www.facebook.com/stortinget/posts/2555777227987301](https://www.facebook.com/stortinget/posts/2555777227987301)
 
@@ -661,10 +661,10 @@ Det er dessverre umulig å lage en uttømmende liste med eksempler på alle type
 
 Et direkte sitat fra en annen forsker/forfatter må være korrekt gjengitt og inneholde henvisning. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med anførselstegn.
 
-Willy Guneriussen understreker at: "De klassiske forestillingene om det moderne er selv en _del av den moderne kulturen_. De kan leses som "kilder" – som manifestasjoner av kulturelle tendenser eller tradisjoner."1
+Willy Guneriussen understreker at: "De klassiske forestillingene om det moderne er selv en _del av den moderne kulturen_. De kan leses som "kilder" – som manifestasjoner av kulturelle tendenser eller tradisjoner."^1^
 
 Note:  
-1 Guneriussen, _Å forstå det moderne_, 14.
+^1^ Guneriussen, _Å forstå det moderne_, 14.
 
 Innførsel i referanselisten:  
 Guneriussen, Willy. _Å forstå det moderne_. Oslo: Tano Aschehoug, 1999.
@@ -673,10 +673,10 @@ Sitater som er lengre enn tre linjer markeres med kolon etter løpende tekst og 
 
 USAs historie er preget av innvandring. Når det gjelder religion og etnisk tilhørighet blant minoriteter i USA skriver Valerie Martinez-Ebers og Manochehr Dorraj at vi finner store variasjoner tross felles språk som blant latinamerikanske minoriteter:
 
-> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics - both characteristics are the result of their origin countries’ shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status).2_
+> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics - both characteristics are the result of their origin countries’ shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status).^2^_
 
 Note:  
-2 Martinez-Ebers og Dorraj, _Perspectives on Race, Ethnicity, and Religion,_ 5.
+^2^ Martinez-Ebers og Dorraj, _Perspectives on Race, Ethnicity, and Religion,_ 5.
 
 Innførsel i referanselisten:  
 Martinez-Ebers, Valerie og Manochehr Dorraj. _Perspectives on Race, Ethnicity, and Religion: Identity Politics in America_. New York: Oxford University Press, 2010.
@@ -685,17 +685,17 @@ Når du oversetter sitat kan du enten oppgi originalsitatet i teksten og overset
 
 _Enten:_
 
-Victor Turner hevder at "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]."3
+Victor Turner hevder at "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]."^3^
 
 Note:  
-3 "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]" (Min oversettelse). Turner, _The Anthropology of Performance_, 41.
+^3^ "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]" (Min oversettelse). Turner, _The Anthropology of Performance_, 41.
 
 _Eller:_
 
-Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]"4
+Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]"^4^
 
 Note:  
-4 (Min oversettelse) "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]." Turner, _The Anthropology of Performance_, 41.
+^4^ (Min oversettelse) "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]." Turner, _The Anthropology of Performance_, 41.
 
 Innførsel i referanselisten:  
 Turner, Victor. _The Anthropology of Performance_. New York: PAJ, 1988.
@@ -704,10 +704,10 @@ Turner, Victor. _The Anthropology of Performance_. New York: PAJ, 1988.
 
 Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde skal henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden og å kontrollere fakta.
 
-Kari-Marie Kloster snakker i sin hovedfagsoppgave om at singellivet som eksisterer i det senmoderne samfunnet er en konsekvens av demokratiseringen i den private sfæren.5
+Kari-Marie Kloster snakker i sin hovedfagsoppgave om at singellivet som eksisterer i det senmoderne samfunnet er en konsekvens av demokratiseringen i den private sfæren.^5^
 
 Note:  
-5 Kloster, ”Singelliv”, 10.
+^5^ Kloster, ”Singelliv”, 10.
 
 Innførsel i referanselisten:  
 Kloster, Kari-Marie. ”Singelliv: i grenselandet mellom enslighet og parforhold.” Hovedfagsoppgave, Institutt for kulturstudier og kunsthistorie, Universitetet i Bergen, 2003.
