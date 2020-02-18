@@ -23,31 +23,31 @@ Argumentasjonen utgjør et resonnement som består av
 
 Utsagnet som binder sammen synspunkt og argument gjør at leseren din kan forstå hvorfor argumentet fungerer. Stephen Toulmins modell deler argumentasjonen i seks:
 
-### 1\. Hovedpåstand
+### 1. Hovedpåstand
 
 I en hovedpåstand setter du fram en foreløpig konklusjon på problemstillingen din, det du tror du vil komme fram til. Påstanden kan foregripes i formulering av problemstilling, i hypoteser, i innledningen eller i delkonklusjoner. Endelig hovedpåstand er det du konkluderer, og gjerne avslutter oppgaven din med.
 
 Hva er hovedpåstanden din?
 
-### 2\. Argument(er)
+### 2. Argument(er)
 
 Argument(er) kan være basert på empirisk **dokumentasjon**, henvisninger til faglige autoriteter eller andre kilder (som historiske kilder, forsøk, intervjuer, spørreundersøkelser, statistikk, bilder, kart). Argumentene utgjør **belegg** for påstanden.
 
 Hva er argumentene i teksten din? Hvordan underbygger du synspunktet ditt? Hva er det du argumenterer _med_?
 
-### 3\. Undersøkelsesmetode(r)
+### 3. Undersøkelsesmetode(r)
 
 Undersøkelsesmetode(r) er analytiske metoder og grep som er hensiktsmessige å bruke på påstander og argumentene du setter fram. Pass på at det er sammenheng mellom valg av teori, metode og empiri.
 
 Hvilken undersøkelsemetode vil du bruke for å prøve ut problemstillingen og påstanden din? Hvilket teoretisk perspektiv vil du bruke i din oppgave?
 
-### 4\. Innvending
+### 4. Innvending
 
 En innvending er en kritisk vurdering av undersøkelsesmetoden du har valgt. Her peker du på undersøkelsesmetodens begrensninger, og eventuelle svakheter ved metoden. Pek på forbehold og usikkerhetsmomenter som knytter seg til metoden og praktisk bruk av den.
 
 Hvilke svakheter ser du ved denne metoden? På hvilken måte kan den være problematisk å bruke?
 
-### 5\. Ryggdekning
+### 5. Ryggdekning
 
 Ryggdekning er det som støtter undersøkelsesmetoden du tar i bruk. Dette kan du finne i andre vitenskapelige undersøkelser som har brukt samme metode, i faglige autoriteters utsagn eller annet som legitimerer metoden.
 

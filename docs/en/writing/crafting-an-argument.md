@@ -21,37 +21,37 @@ Your argumentation is the engine in your text. What would you like to communicat
 
 Toulmin's model on argumentation consists of six parts:
 
-**1\. Claim**  
+### 1. Claim
 The claim is where you present a preliminary and possible conclusion on your research question; you present the work that lies ahead, and what you expect to find. The claim can be anticipated in your formulation of a research question, in hypotheses, in the introduction, or in partial conclusions. Your final claim will be central in your conclusion and is often presented in your closing.
 
 What is your claim?
 
-**2\. Argument(s)**  
+### 2. Argument(s)
 Argument(s) may be based on empirical **documentation**, references to authorities in the field, or other sources (such as historical sources, experiments, interviews, surveys, statistics, photos, maps). The arguments are **evidences** for the claim.
 
 What are your arguments in the thesis? How do you ground your claim? What are you reasoning _with_?
 
-**3\. Research method(s)  
-**The link between an argument and a claim is sometimes known as a **warrant**. Another word we use is **research method** (Rienecker, 2012, p.312). Research method(s) are the analytical methods you consider expedient to apply to your claims and your arguments. Make sure that there is a connection between your theory, method and empirical data.
+### 3. Research method(s)  
+The link between an argument and a claim is sometimes known as a **warrant**. Another word we use is **research method** (Rienecker, 2012, p.312). Research method(s) are the analytical methods you consider expedient to apply to your claims and your arguments. Make sure that there is a connection between your theory, method and empirical data.
 
 Which research method(s) do you plan to use to test out your research question and claim? Which theoretical perspective will you apply in your thesis?
 
-**4\. Counterargument**  
+### 4. Counterargument
 A counterargument is a critical reading of the research method you have chosen. Here you can point out limitations, and possible weaknesses in the research method. Be explicit as to whether you have reservations regarding the method, and if there are elements of uncertainty concerning the method as such, or the practical use of it.
 
 Do you see any weaknesses in the method you have chosen? Can the use of this method be questionable, if so, in which way?
 
-**5\. Backing**  
+### 5. Backing
 Backing is the elements that support the research method you have chosen. Backing can be found in scholarly works that have applied the same method, from authorities in the field, or from other facts that can justify the method.
 
 Which elements support your research method?  Why do you choose to use this method in spite of the possible limitations you have pointed to?
 
-**6\. Qualifier**  
+### 6. Qualifier
 The qualifier is used to propose the degree of certainty you mark the claim with. This is where you make reservations, and point to conditions that must be present to make the claim valid.
 
 To which extent is your claim certain, probable, or possible?
 
-## EXERCISE
+::: oppgave EXERCISE
 
 Ask questions to your own text:
 
@@ -63,3 +63,4 @@ Ask questions to your own text:
 6. To which degree is your claim certain, probable or possible? How will you **qualify** your claim?
 
 Use [Toulmins model on argumentation](http://folk.uib.no/st10938/toulmin-owntext/argument.html) to clarify arguments and claims in your thesis.
+:::

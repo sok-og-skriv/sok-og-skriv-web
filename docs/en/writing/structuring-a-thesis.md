@@ -19,7 +19,7 @@ There are usually no formal requirements for forewords, but it is common practic
 
 **Note_:_** Shorter assignments do not require abstracts and forewords.
 
-## 1\. Introduction
+## 1. Introduction
 
 Your introduction has two main purposes: 1) to give an overview of the main points of your thesis, and 2) to awaken the reader’s interest. It is recommended to rewrite the introduction one last time when the writing is done, to ensure that it connects well with your conclusion.
 
@@ -85,7 +85,7 @@ The outline gives an overview of the main points of your thesis. It clarifies th
 
 It often makes sense to put the outline at the end of the introduction, but this rule is not set in stone. Use discretion: What is most helpful for the reader? The information should come at the right point – not too early and not too late.
 
-## 2\. Theory section
+## 2. Theory section
 
 The theory used in an empirical study is meant to shed light on the data in a scholarly or scientific manner. It should give insights not achievable by ordinary, everyday reflections. The main purpose of using theory is to analyse and interpret your data. Therefore, you should _not_ present theoretical perspectives that are not being put to use. Doing so will create false expectations, and suggests that your work is incomplete.
 
@@ -95,7 +95,7 @@ Not all theses have a separate theory section. In the [IMRaD format](/en/writing
 
 **How much time and space should you devote to the theory chapter?** This is a difficult question. Some theses dwell too long on theory and never get to the main point: the analysis and discussion. But it is also important to have read enough theory to know what to look for when collecting data. The nature of your research should decide: Some studies do not require much theory, but put more emphasis on the method, while other studies need a rich theory section to enable an interesting discussion.
 
-## 3\. Method section
+## 3. Method section
 
 In a scholarly research article, the section dealing with method is very important. The same applies to an empirical thesis. For students, this can be a difficult section to write, especially since its purpose may not always be clear.
 
@@ -108,7 +108,7 @@ What you **must** do is to show how your choice of design and research method is
 - Tell the reader **what you did to increase the validity** of your research. E.g., what can you say about the reliability in data collection? How do you know that you have actually investigated what you intended to investigate? What conclusions can be drawn on this basis? Which conclusions are certain and which are more tentative? Can your results be applied in other areas? Can you generalise? If so, why? If not, why not?
 - You should aim to describe weaknesses as well as strengths. An excellent thesis distinguishes itself by defending – and at the same time criticising – the choices made.
 
-## 4\. Analysis
+## 4. Analysis
 
 Your analysis, along with your discussion, will form the high light of your thesis. In the IMRaD format, this section is titled “Results”. This is where you report your findings and present them in a systematic manner. The expectations of the reader have been built up through the other chapters, make sure you fulfill these expectations.
 
@@ -118,7 +118,7 @@ If you are analysing human actions, you may want to engage the reader’s emotio
 
 **Note**: Not all theses include a separate chapter for analysis.
 
-## 5\. Discussion
+## 5. Discussion
 
 In many thesis the discussion is the most important section. Make sure that you allocate enough time and space for a good discussion. This is your opportunity to show that you have understood the significance of your findings and that you are capable of applying theory in an independent manner.
 
@@ -129,7 +129,7 @@ The discussion will consist of argumentation. In other words, you investigate a 
 - ... it could also be argued that ...
 - ... another possible explanation may be ...
 
-**6\. Conclusion - or summing up?**
+**6. Conclusion - or summing up?**
 
 The final section of your thesis may take one of several different forms. Some theses need a conclusion, while for others a summing up will be appropriate. The decisive factor will be the nature of your thesis statement and/or research question.
 
@@ -158,8 +158,8 @@ J. Schimel, 2012 _Writing Science. How to write papers that get cited and propo
 
 * * *
 
- http://writingcenter.unc.edu/handouts/thesis-statements/
+[http://writingcenter.unc.edu/handouts/thesis-statements/](http://writingcenter.unc.edu/handouts/thesis-statements/)
 
- [http://writingcenter.unc.edu/handouts/](http://writingcenter.unc.edu/handouts/)
+[http://writingcenter.unc.edu/handouts/](http://writingcenter.unc.edu/handouts/)
 
-http://owl.english.purdue.edu/owl/section/1/2/
+[http://owl.english.purdue.edu/owl/section/1/2/](http://owl.english.purdue.edu/owl/section/1/2/)

@@ -27,7 +27,7 @@ Vi har oppgitt læringsmål for kursforslagene som de står her - disse kan selv
 
 Søk & Skriv-redaksjonen tar gjerne imot [tilbakemeldinger](/om-sok-skriv/kontaktinformasjon/) og forslag til forbedringer.
 
-## 1\. Informasjonssøk ved oppgaveskriving / Søkeverksted
+## 1. Informasjonssøk ved oppgaveskriving / Søkeverksted
 
 Etter gjennomført kurs skal studentene kunne
 
@@ -46,11 +46,9 @@ Når man underviser i informasjonssøking, er det viktig å bevisstgjøre studen
 
 Det kan også være en god idé å gjennomføre et søkeverksted der studentene selv kan diskutere og komme med tilbakemeldinger på hverandres opplegg. Studentene kan her hjelpe hverandre ved å gi tilbakemelding på søkestrategier. Dette kan gjøres med utgangspunkt i skjemaet under. Studentene kan gjennomføre trinn 1–4 i grupper, der de gir innspill på hverandres problemstillinger og søkeord. Etter å ha gjennomført selve søket, kan de sammen vurdere trefflister, og gi innspill på hvordan man eventuelt kan endre problemstillingen og søkestrategien.
 
-1\. Hva er temaet for oppgaven?
-
-2\. Hva er problemstillingen for oppgaven?
-
-3\. Hvilke søkeord vil du bruke, og har disse synonymer?
+1. Hva er temaet for oppgaven?
+2. Hva er problemstillingen for oppgaven?
+3. Hvilke søkeord vil du bruke, og har disse synonymer?
 
 Norske søkeord
 
@@ -60,13 +58,11 @@ Søkeord på andre språk
 
 Synonymer på andre språk
 
-4\. Hvordan vil du kombinere søkeordene?
+4. Hvordan vil du kombinere søkeordene?
+5. Søk i databasen(e) ved å kombinere søkeordene.
+6. Vurder trefflisten. Kan denne informasjonen brukes til å svare på din problemstilling? Bør du avgrense eller forandre søket ditt? Søke på mer spesifikke, eller mer generelle søkeord?
 
-5\. Søk i databasen(e) ved å kombinere søkeordene.
-
-6\. Vurder trefflisten. Kan denne informasjonen brukes til å svare på din problemstilling? Bør du avgrense eller forandre søket ditt? Søke på mer spesifikke, eller mer generelle søkeord?
-
-## 2\. Lesestrategier og hurtiglesing
+## 2. Lesestrategier og hurtiglesing
 
 Etter å ha gjennomgått lesekurset skal studentene
 
@@ -86,7 +82,7 @@ Hvis det er praktisk mulig (for eksempel på et kurs som går over flere ganger)
 
 Her har man, enten man gjør det på den ene eller den andre måten, et godt utgangspunkt for å diskutere både tekstens innhold, måten teksten fungerer på, og utbyttet av de ulike lesemåtene.
 
-## 3\. Sjangrer og sjangerbevissthet
+## 3. Sjangrer og sjangerbevissthet
 
 Etter å ha deltatt på dette kurset skal studentene
 
@@ -115,7 +111,7 @@ Aktuelle spørsmål vi kan stille når vi skal diskutere sjanger:
 
 En diskusjon om sjanger vil også være et spørsmål om retorikk: Hva gjør forfatteren eller teksten for å overbevise leseren? Hvilke «retoriske grep» tas i teksten?
 
-## 4\. Kildevurdering
+## 4. Kildevurdering
 
 Etter å ha gjennomgått kurset skal studentene
 
@@ -141,7 +137,7 @@ På siden [_Kvalitative vurderinger_](/kildebruk-og-referanser/kildevurdering/kv
 - Fagfellevurdering
 - Impact factor
 
-## 5\. Kurs i opphavsrett
+## 5. Kurs i opphavsrett
 
 Etter fullført kurs skal studentene kunne
 
@@ -190,7 +186,7 @@ Be studentene vurdere et gitt nettsted og se spesielt på kildebruken. Studenten
     - Ville det være etisk og lovlig å bruke det? Hvordan ville du eventuelt avklart bruk av materialet?
     - Hvordan henviser du til denne visuelle kilden i teksten, og hvordan oppgir du den i en referanseliste? Bruk Harvard/APA/MLA osv. (den [referansestilen](/kildebruk-og-referanser/referansestiler/) som anbefales eller er mest vanlig på det aktuelle faget eller lærestedet.)
 
-## 6\. Sitering og etisk kildebruk
+## 6. Sitering og etisk kildebruk
 
 Etter fullført kurs skal studentene kunne
 
@@ -236,7 +232,7 @@ Studentene kan for eksempel benytte referansestilene i Søk & Skriv underveis i 
 
 En annen måte å jobbe med referanselister på er å vise studentene en faktisk, eksisterende pensumliste som inneholder noen feil, og be dem finne feilene. Så kan man i fellesskap, og ved hjelp av Søk & Skriv, finne fram til hvordan det skulle vært gjort.
 
-## 7\. Skrivekurs for masterstudenter
+## 7. Skrivekurs for masterstudenter
 
 Målet med et skrivekurs er gjerne at studentene skal bli tryggere på sin egen skriving, både når det gjelder arbeidsmåte og personlig skrivestil. De skal også kjenne til viktige trekk ved det akademiske håndverket. De aller fleste studenter har mer kunnskap om lesing og skriving enn de er klar over, og et mål for kursholderen kan være å hjelpe dem til å bli klar over dette. En måte å oppøve trygghet på er å arbeide med begreper (”metaspråk for skriving”). Gjennom å sette ord på hva som gjør en tekst god og hva som gjør den mindre god, vil studentene kunne utvikle et analytisk blikk for tekster, noe som også er til god hjelp for den egne skrivingen.
 
