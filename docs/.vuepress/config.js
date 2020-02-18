@@ -307,6 +307,13 @@ module.exports = {
       md.use(require('markdown-it-video', { // <-- this use(package_name) is required
         youtube: { width: 640, height: 390 }
       }))
+      md.use(require('markdown-it-footnote'))
+      md.use(require('markdown-it-sub'))
+      md.use(require('markdown-it-sup'))
+      md.use(require('markdown-it-ins'))
+      md.use(require('markdown-it-mark'))
+      md.use(require('markdown-it-deflist'))
+      md.use(require('markdown-it-abbr'))
     }
   },
   plugins: [
