@@ -1,24 +1,99 @@
 ---
 home: true
 # heroImage: /home.png
-actionText:  Let's begin →
-actionLink: /en/searching/
-features:
-- title: Searching
-  details: This section explains how searching for information can help you get started with your thesis and how well-planned searches can help you define the theme and scope of your project..
-- title: Reading
-  details: Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.
-- title: Writing
-  details: Academic writing has certain formal requirements. In order to write a good thesis, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis. Another important aspect is of course the correct use of sources.
-- title: Sources and references
-  details: All research is based on sources. The relevance of different types of sources varies from subject to subject. Examples of sources include books, official reports, journal articles, images, maps, music, interviews, doctoral theses, newspapers and online documents.
-footer: Western Norway University of Applied Sciences - University of Bergen - University of Oslo - National Library of Norway
+# actionText:  Let's begin →
+# actionLink: /en/searching/
+footer: Search and write ...
 ---
 
-# A digital toolbox for academic writing
+<div class="container two-column">
 
-Here you can find articles on [writing](/en/writing/) and [reading](/en/reading/), and you can look up [reference styles](/en/sources-and-references/reference-styles/) and other [formal requirements](/en/writing/formal-requirements/). Experienced academics share their top tips in our videos (see below).
+  <div class="card">
+    <div class="image">
+      <img src="./images/illustrasjoner_sok_500x450.png">
+    </div>
+    <div class="content">
+      <h2><a href="/soking">Searching</a></h2>
+      <p>Searching for information can help you get started with your thesis and define the theme and scope of your project.</p>
+    </div>
+  </div>
 
-We have also made three short films about [basic search techniques](/en/searching/searching-techniques/) that can be used for both teaching and consultation.
+  <div class="card">
+    <div class="image">
+      <img src="./images/illustrasjoner_skriving_500x450.png">
+    </div>
+    <div class="content">
+      <h2><a href="/skriving">Writing</a></h2>
+      <p>Academic writing has certain formal requirements, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis.</p>
+    </div>
+  </div>
 
-Have a great semester!
+  <div class="card">
+    <div class="image">
+      <img src="./images/illustrasjoner_kildehenvisning_500x450.png">
+    </div>
+    <div class="content">
+      <h2><a href="/kildebruk-og-referanser">Sources</a></h2>
+      <p>All research is based on sources. The relevance of different types of sources varies from subject to subject.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="image">
+      <img src="./images/illustrasjoner_lesing_500x450.png">
+    </div>
+    <div class="content">
+      <h2><a href="/lesing">Reading</a></h2>
+      <p>Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.</p>
+    </div>
+    
+  </div>
+</div>
+
+## Latest videos
+
+<div class="container two-column">
+  <div class="video">
+    <Video id="FJKg3G-JRpg" />
+  </div>
+  <div class="video">
+    <Video id="gSm1P5dE3RY" />
+  </div>
+</div>
+
+---
+
+<div class="partners">
+  <div class="partner">
+    <a href="https://www.uib.no" alt="Western Norway University of Applied Sciences logo" >
+      <img style="width: 50%;" src="/hvl-logo-en.jpg" />
+    </a>
+    <div class="title">
+      Western Norway University of Applied Sciences
+    </div>
+  </div>
+  <div class="partner">
+    <a href="https://www.uib.no" alt="University of Bergen logo" >
+      <img src="/uib-logo-en.png" />
+    </a>
+    <div class="title">
+      University of Bergen
+    </div>
+  </div>
+  <div class="partner">
+    <a href="https://www.nb.no" alt="National library of Norway logo" >
+      <img style="width: 60%;" src="/nb-logo.png" />
+    </a>
+    <div class="title">
+      National library of Norway
+    </div>
+  </div>
+  <div class="partner">
+    <a href="https://www.nb.no/en" alt="University of Oslo logo" >
+      <img src="/uio-logo-en.png" />
+    </a>
+    <div class="title">
+      University of Oslo 
+    </div>
+  </div>
+</div>

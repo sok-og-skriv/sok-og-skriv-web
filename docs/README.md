@@ -6,41 +6,64 @@ home: true
 footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 ---
 
-<div class="container five-column">
+<div class="container two-column">
+
   <div class="card">
     <div class="image">
       <img src="./images/illustrasjoner_sok_500x450.png">
     </div>
-    <h2><a href="/soking">Søking</a></h2>
-    <p>Finn tips om hvordan du søker etter informasjon og hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving.</p>
+    <div class="content">
+      <h2><a href="/soking">Søking</a></h2>
+      <p>Finn tips om hvordan du søker etter informasjon og hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving.</p>
+    </div>
   </div>
+
   <div class="card">
     <div class="image">
       <img src="./images/illustrasjoner_lesing_500x450.png">
     </div>
-    <h2><a href="/referansestiler">Referansestiler</a></h2>
-    <p><a href="/referansestiler/apa/">APA 6th</a>, <a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a>, <a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a>, <a href="/referansestiler/harvard">Harvard</a>, <a href="/referansestiler/mla">MLA</a> og <a href="/referansestiler/vancouver">Vancouver</a></p>
+    <div class="content">
+      <h2><a href="/referansestiler">Referansestiler</a></h2>
+      <p>
+        <span class="tag"><a href="/referansestiler/apa/">APA 6th</a></span>
+        <span class="tag"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
+        <span class="tag"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
+        <span class="tag"><a href="/referansestiler/harvard">Harvard</a></span>
+        <span class="tag"><a href="/referansestiler/mla">MLA</a></span>
+        <span class="tag"><a href="/referansestiler/vancouver">Vancouver</a></span>
+      </p>
+    </div>
   </div>
+
   <div class="card">
     <div class="image">
       <img src="./images/illustrasjoner_skriving_500x450.png">
     </div>
-    <h2><a href="/skriving">Skriving</a></h2>
-    <p>I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil.</p>
+    <div class="content">
+      <h2><a href="/skriving">Skriving</a></h2>
+      <p>I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil.</p>
+    </div>
   </div>
+
   <div class="card">
     <div class="image">
       <img src="./images/illustrasjoner_kildehenvisning_500x450.png">
     </div>
-    <h2><a href="/kildebruk-og-referanser">Kildebruk</a></h2>
-    <p>All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag.</p>
+    <div class="content">
+      <h2><a href="/kildebruk-og-referanser">Kildebruk</a></h2>
+      <p>All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag.</p>
+    </div>
   </div>
+
   <div class="card">
     <div class="image">
       <img src="./images/illustrasjoner_lesing_500x450.png">
     </div>
-    <h2><a href="/lesing">Lesing</a></h2>
-    <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave må være bevisst på hva og hvordan du leser.</p>
+    <div class="content">
+      <h2><a href="/lesing">Lesing</a></h2>
+      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave må være bevisst på hva og hvordan du leser.</p>
+    </div>
+    
   </div>
 </div>
 
@@ -60,7 +83,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 <div class="partners">
   <div class="partner">
     <a href="https://www.uib.no" alt="Høyskolen på Vestlandet logo" >
-      <img style="width: 60%;" src="/hvl-logo.jpg" />
+      <img style="width: 50%;" src="/hvl-logo.jpg" />
     </a>
     <div class="title">
       Høyskolen på Vestlandet
@@ -76,7 +99,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
   <div class="partner">
     <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
-      <img style="width: 70%;" src="/nb-logo.png" />
+      <img style="width: 60%;" src="/nb-logo.png" />
     </a>
     <div class="title">
       Nasjonalbiblioteket
