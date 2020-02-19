@@ -57,19 +57,19 @@
               </div>
             </div>
             <div class="partner">
-              <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
-                <img style="width: 60%;" src="/nb-logo.png" />
-              </a>
-              <div class="title">
-                Nasjonalbiblioteket
-              </div>
-            </div>
-            <div class="partner">
               <a href="https://www.nb.no" alt="Universitetet i Oslo logo" >
                 <img src="/uio-logo.png" />
               </a>
               <div class="title">
                 Universitetet i Oslo
+              </div>
+            </div>
+            <div class="partner">
+              <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
+                <img style="width: 60%;" src="/nb-logo.png" />
+              </a>
+              <div class="title">
+                Nasjonalbiblioteket
               </div>
             </div>
           </div>
@@ -82,12 +82,10 @@
 <style scoped>
 footer .partners {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-gap: 1rem;
   align-items: center;
   justify-content: center;
-}
-footer .partners .partner {
-  padding: 1rem 0;
 }
 footer .partners .partner img {
   width: 100%;

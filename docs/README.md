@@ -1,12 +1,12 @@
 ---
 home: true
-# heroImage: /home.png
+# heroImage: /sos-logo.svg
 # actionText:  La oss starte →
 # actionLink: /soking/
 footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 ---
 
-<div class="container two-column">
+<div class="cards">
 
   <div class="card">
     <div class="image">
@@ -69,7 +69,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
 ## Siste videoer
 
-<div class="container two-column">
+<div class="container">
   <div class="video">
     <Video id="FJKg3G-JRpg" />
   </div>
@@ -78,7 +78,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
 </div>
 
----
+## Partnere
 
 <div class="partners">
   <div class="partner">
@@ -98,19 +98,19 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
-      <img style="width: 60%;" src="/nb-logo.png" />
-    </a>
-    <div class="title">
-      Nasjonalbiblioteket
-    </div>
-  </div>
-  <div class="partner">
     <a href="https://www.nb.no" alt="Universitetet i Oslo logo" >
       <img src="/uio-logo.png" />
     </a>
     <div class="title">
       Universitetet i Oslo
+    </div>
+  </div>
+  <div class="partner">
+    <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
+      <img style="width: 60%;" src="/nb-logo.png" />
+    </a>
+    <div class="title">
+      Nasjonalbiblioteket
     </div>
   </div>
 </div>

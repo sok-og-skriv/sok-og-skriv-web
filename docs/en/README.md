@@ -6,7 +6,7 @@ home: true
 footer: Search and write ...
 ---
 
-<div class="container two-column">
+<div class="cards">
 
   <div class="card">
     <div class="image">
@@ -52,7 +52,7 @@ footer: Search and write ...
 
 ## Latest videos
 
-<div class="container two-column">
+<div class="container">
   <div class="video">
     <Video id="FJKg3G-JRpg" />
   </div>
@@ -61,7 +61,7 @@ footer: Search and write ...
   </div>
 </div>
 
----
+## Partnere
 
 <div class="partners">
   <div class="partner">
@@ -81,19 +81,19 @@ footer: Search and write ...
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no" alt="National library of Norway logo" >
-      <img style="width: 60%;" src="/nb-logo.png" />
-    </a>
-    <div class="title">
-      National library of Norway
-    </div>
-  </div>
-  <div class="partner">
     <a href="https://www.nb.no/en" alt="University of Oslo logo" >
       <img src="/uio-logo-en.png" />
     </a>
     <div class="title">
       University of Oslo 
+    </div>
+  </div>
+  <div class="partner">
+    <a href="https://www.nb.no" alt="National library of Norway logo" >
+      <img style="width: 60%;" src="/nb-logo.png" />
+    </a>
+    <div class="title">
+      National library of Norway
     </div>
   </div>
 </div>

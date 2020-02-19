@@ -6,6 +6,10 @@
     max-height: 430px;
 }
 
+.home .hero .description 
+  font-size: calc(16px + (32 - 16) * ((100vw - 300px) / (1600 - 300))) !important
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300))) !important
+
 .home .feature {
   flex-grow: 1 !important;
   flex-basis: 23% !important;
@@ -81,15 +85,25 @@ figcaption {
   color: #2c3e50;
 }
 
-.card {
-  padding: 1em;
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-}
+.cards 
+  display: grid
+  grid-template-columns: 1fr 1fr
+  grid-gap: 1rem  
+  @media screen and (min-width: $MQMobileNarrow)
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))
+  @media screen and (min-width: $MQNarrow)
+    grid-template-columns: 1fr 1fr
 
-.card .content {
-  padding: 0 1rem;
-}
+.card
+  display: grid
+  grid-gap: 1rem
+  grid-template-columns: 1fr 2fr
+  @media screen and (max-width: $MQMobile)
+    grid-template-columns: 1fr
+
+.card .image 
+  @media screen and (max-width: $MQMobile)
+    display: none
 
 .tag {
   align-items: center;
@@ -119,16 +133,28 @@ figcaption {
   font-size: 0.9rem;
 }
 
+.two-column {
+  grid-template-columns: 1fr 1fr !important;
+}
+.three-column {
+  grid-template-columns: 1fr 1fr 1fr !important;
+}
+.four-column {
+  grid-template-columns: 1fr 1fr 1fr 1fr !important;
+}
+.five-column {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr !important;
+}
+
 .partners {  
-  padding: 2rem;
-  margin-top: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
   display: grid;
-  grid-template-columns: 1fr 1fr;
   align-items: center;
-  /* justify-content: center; */
+  justify-content: center;
+  margin-bottom: 2rem;
 }
 .partners .partner {
-  padding: 1rem;
   align-self: center;
 }
 .partners .partner img {
@@ -140,21 +166,8 @@ figcaption {
 
 .container {  
   display: grid;
-}
-.container.two-column {
-  grid-template-columns: 1fr 1fr;
-}
-.container.three-column {
-  grid-template-columns: 1fr 1fr 1fr;
-}
-.container.four-column {
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-}
-.container.five-column {
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-}
-.container .video {
-  padding: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-gap: 1rem;
 }
 .container .video .title {
   display: none;
