@@ -17,7 +17,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    logo: '/sokogskriv2013.png',
+    logo: '/sos-logo.svg',
     locales: {
       '/': {
         selectText: 'Språk',
