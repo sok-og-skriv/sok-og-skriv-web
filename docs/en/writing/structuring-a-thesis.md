@@ -17,7 +17,7 @@ The summary should be completed towards the end; when you are able to overview y
 
 There are usually no formal requirements for forewords, but it is common practice to thank your supervisors, informants, and others who have helped and supported you. If you have received any grants or research residencies, you should also acknowledge these.
 
-**Note_:_** Shorter assignments do not require abstracts and forewords.
+**Note:** Shorter assignments do not require abstracts and forewords.
 
 ## 1. Introduction
 

@@ -96,7 +96,7 @@ The following list shows references in Harvard style for book, journal, master t
 
 > **Beck, U. & Beck-Gemsheim, E. (1995) _The normal chaos of love._ Cambridge, Polity Press.**
 > 
-> **Dretske, F. I. (1993) Conscious experience.** _**Mind**_**, 102 (406), s. 263-283.**  
+> **Dretske, F. I. (1993) Conscious experience.** _**Mind**, 102 (406), s. 263-283.**  
 > **  
 > Kloster, K. (2003) _Singelliv: i grenselandet mellom enslighet og parforhold._ Hovedfagsoppgave, Institutt for kulturstudier og kunsthistorie, Universitetet i Bergen, Bergen.**  
 > **  

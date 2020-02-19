@@ -102,14 +102,14 @@ Read and compare the text in the boxes
 
 _Bittersøtt_ (Bittersweet) by Willy Pedersen is based on a qualitative research project containing interview materials on youth’s views on smoking hashish:
 
-> _**– How do you experience smoking**_ **_hashish_?_  
-> _– It is_ fucking good_. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff.__** _**You get fucking hungry. Eating kick.**_ _**And the**_ **_fits of laughter_._  
+> _– How do you experience smoking hashish?_  
+> _– It is fucking good. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the fits of laughter_._  
 > _– You also seem a bit sceptical to smoking hashish?_  
-> _– Problem is that you get a fucking bad emotional life from being on the road. You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: What the hell?__**
+> _– Problem is that you get a fucking bad emotional life from being on the road. You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: What the hell?_
 
 In the chapter "På kjøret" in _Historien om Norge V_ (The history of Norway V) by Karsten Alnes, this content is represented like this:
 
-> **Why did they smoke hashish?  
-> « _It is_ _fucking good_. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the_ fits of laughter_.__… _You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think:_ ’_What the hell?_’»**
+> _– Why did they smoke hashish?_
+> « _It is fucking good_. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the _fits of laughter_. … _You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: ’What the hell?_’»
 
 For a more elaborate analysis, see Rognstad, Nagel, Laupsa & Tønnesson (2006) God skikk - Om bruk av litteratur og kilder i allmene, historiske framstillinger (p. 120). (In Norwegian only.)
