@@ -44,7 +44,7 @@ module.exports = {
             text: 'Om',
             ariaLabel: 'Om Søk og skriv meny',
             items: [
-              { text: 'Blog', link: '/blog/' },
+              { text: 'Videoer', link: '/video/' },
               { text: 'Kontaktinformasjon', link: '/om/kontaktinformasjon/' },
               { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
               { text: 'Rettigheter', link: '/om/rettigheter-til-sok-og-skriv/' },
@@ -185,7 +185,7 @@ module.exports = {
           ],
           '/': [
             '/om/',
-            '/blog/',
+            '/video/',
             '/om/kontaktinformasjon',
             '/om/rettigheter-til-sok-og-skriv',
             '/om/referanser'
@@ -207,7 +207,7 @@ module.exports = {
             text: 'About',
             ariaLabel: 'About Search and write menu',
             items: [
-              { text: 'Blog', link: '/en/blog/' },
+              { text: 'Videos', link: '/en/video/' },
               { text: 'Contact', link: '/en/about/contact-us/' },
               { text: 'Rights', link: '/en/about/copyright-for-search-and-write/' },
               { text: 'References', link: '/en/about/references/' }
@@ -290,7 +290,7 @@ module.exports = {
           ],
           '/en/': [
             '/en/about/',
-            '/en/blog/',
+            '/en/video/',
             '/en/about/contact-information',
             '/en/about/copyright-for-search-and-write',
             '/en/about/references'
