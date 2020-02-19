@@ -3,11 +3,11 @@ title: "Skriving"
 date: "2012-03-15"
 ---
 
+![soking](../images/illustrasjoner_skriving_500x450-alt1.png)
+
 # Skriving
 
 I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil.
-
-![soking](../images/illustrasjoner_skriving_500x450.png)
 
 På disse sidene får du allmenne råd om oppgaveskriving på lavere og høyere grad. Vi gir deg innføring i hvordan [større oppgaver kan struktureres](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/)[](/skriving/struktur/oppbygning-av-en-oppgave/) og råd om [akademisk språk og stil](/skriving/sprak-og-stil/). Du får tips om hvordan du kan [komme i gang med skrivingen](/skriving/skriveprosessen/kom-i-gang-a-skrive/) og eksempler på ulike faser av skrivearbeidet, fra det å begynne å skrive for seg selv, til å presentere tekst for andre, og til slutt: oppgaven som produkt.
 
