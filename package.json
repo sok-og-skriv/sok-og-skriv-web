@@ -1,8 +1,17 @@
 {
-  "name": "sokogskriv-markdown",
+  "name": "sok-og-skriv-vuepress",
   "version": "0.0.1",
-  "description": "",
+  "description": "Søk & Skriv er en nettside laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving, uavhengig av studiested og -emne",
   "main": "index.js",
+  "homepage": "https://sokogskriv.no",
+  "repository": {
+    "type" : "git",
+    "url" : "https://gitlab.com/sok-og-skriv/sok-og-skriv.gitlab.io"
+  },
+  "keywords": [
+    "vuepress",
+    "markdown"
+  ],
   "directories": {
     "doc": "docs"
   },
@@ -11,7 +20,10 @@
     "build": "vuepress build docs",
     "export": "vuepress export docs"
   },
-  "author": "",
+  "author": { 
+    "name" : "Tarje Sælen Lavik", 
+    "email" : "tarje.lavik@uib.no"
+  },
   "license": "ISC",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.3.0",
