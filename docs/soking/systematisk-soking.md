@@ -22,13 +22,47 @@ Foreløpig er PICO-skjemaet mest brukt innen helsefag. PICO klargjør hvem/hva p
 
 EKSEMPEL: Anvendelse av PICO på to helsefaglige spørsmål
 
-Spørsmål 1: _Vil barn med diabetes mestre sin sykdom bedre dersom de blir behandlet av spesialister i sitt eget hjem enn om behandlingen foregår på sykehus?_[![PICO-skjema](../images/pico-1.png)](/wp-content/uploads/2014/08/pico-1.png)
+Spørsmål 1: _Vil barn med diabetes mestre sin sykdom bedre dersom de blir behandlet av spesialister i sitt eget hjem enn om behandlingen foregår på sykehus?_
+
+:::: picoskjema
+::: picoboks P
+Barn med diabetes
+:::
+
+::: picoboks I
+Hjemmebasert behandling
+:::
+
+::: picoboks C
+Behandling på sykehus
+:::
+
+::: picoboks O
+Mestring av egen sykdom
+:::
+::::
 
 I dette eksempelet er vi interessert i effekten av tiltaket «hjemmebasert behandling» (**I**) sett i forhold til effekten av «behandling på sykehus» (**C**). Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (**O**), er pasientgruppens mestring av sin sykdom.
 
 Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar **I** (intervensjon), andre ganger mangler **C** (sammenligning) og andre ganger finnes ingen tydelig formulert **O** (utfall). Spørsmål 2 nedenfor er et eksempel på at vi kun har definert **P** og **O**.
 
-Spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_[![PICO-skjema](../images/pico-2.png)](/wp-content/uploads/2014/08/pico-2.png)
+Spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
+
+:::: picoskjema
+::: picoboks P
+Barn og unge som bruker insulinpumpe
+:::
+
+::: picoboks I
+:::
+
+::: picoboks C
+:::
+
+::: picoboks O
+Livskvalitet
+:::
+::::
 
 I dette eksempelet har vi tatt utgangspunkt i den samme pasientgruppen som i spørsmål 1, men pasientgruppen er spisset til kun å gjelde de barna med diabetes som allerede bruker insulinpumpe. Det er ikke definert spesielle tiltak som vi er interessert i å se effekten av, derfor har vi ikke notert noe under hverken **I** eller **C**. Det vi ønsker å få mer kunnskap om (**O**), er pasientenes egne opplevelser av sin situasjon.
 
@@ -46,11 +80,41 @@ Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten
 
 For å være sikker på å finne alle relevante artikler, bør man søke på synonyme termer. Velger du å søke via emneordslisten i en av databasene (for eksempel MeSH), vil den automatisk inkludere en del synonymer i søket. Likevel er det nyttig å supplere med søk på tekstord som hentes fra forfatters emneord og sammendraget av artikkelen.
 
-::: eksempel EKSEMPEL: PICO-skjema med forslag til synonymer
+::::: eksempel EKSEMPEL: PICO-skjema med forslag til synonymer
 Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
 
-[![PICO-skjema med søkeord](../images/pico-3.png)](/wp-content/uploads/2014/08/pico-3.png)
+:::: picoskjema
+::: picoboks P
+Barn og unge som bruker insulinpumpe
+
+**Søkeord**
+
+- Diabetes melitus
+- Type 1 insulin dependent diabetes
+- Youth, Teenager
+- Adolescent, Child
+- nsul infusion system
+- Infusion pump
 :::
+
+::: picoboks I
+:::
+
+::: picoboks C
+:::
+
+::: picoboks O
+Livskvalitet
+
+**Søkeord**
+
+- Quality of life
+- Wellness
+- Well being
+:::
+::::
+
+:::::
 
 ## Kombinasjon av søkeord
 
