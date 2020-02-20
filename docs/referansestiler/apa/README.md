@@ -42,9 +42,11 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 ::: tip Eksempel
 Retterstøl, Ekeberg og Mehlum (2002, s. 54) hevder at …
 
-(Gullestad & Killingmo, 2013, s. 35)
-
 Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Oslo: Gyldendal.
+
+---
+
+(Gullestad & Killingmo, 2013, s. 35)
 
 Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i praksis_ (2. utg.). Oslo: Universitetsforlaget.
 :::
@@ -61,8 +63,6 @@ Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken 
 
 ### Merknader
 
-Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com \*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
-
 Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](http://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra http://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
 
 ::: tip Eksempler
@@ -70,7 +70,13 @@ Watkins (2012) hevder at ... (s. 54).
 
 Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https://doi.org/10.1007/978-94-6091-699-1
 
+---
+
 ... som hevdes av Piketty (2014, A global tax on capital, avsn. 3)
+
+Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com 
+
+\*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
 :::
 
 ::: details Kapittel i redigert bok
@@ -105,6 +111,8 @@ Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
 
 Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ (Doktoravhandling). Universitetet i Bergen.\*Når stedsnavn  er en del av institusjonens navn, gjentas ikke dette.
 
+---
+
 ... (Våpenstad, 2011, s. 59).
 
 Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse av psykoterapeutens subjektivitet i psykoanalyse og psykoanalytisk psykoterapi_ (Doktoravhandling). Hentet fra https://bora.uib.no/handle/1956/4788\*Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) trenger ikke ha med institusjonsnavnet. Se kap. 7.05 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
@@ -132,6 +140,8 @@ Lenke er ikke obligatorisk, men kan være til hjelp for lesere av elektroniske d
 I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 
 Folketrygdloven. (1997). Lov om folketrygd (LOV-1997-02-28-19). Hentet fra [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)
+
+---
 
 Med endringslov til folketrygdloven (2018) endres finansieringen ...
 
