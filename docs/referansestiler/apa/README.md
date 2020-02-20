@@ -59,7 +59,7 @@ Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i 
 
 Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken har et spesielt format\]. https://doi.org/10.xxx
 
-### Merknarder
+### Merknader
 
 Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com \*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
 

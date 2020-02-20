@@ -41,7 +41,7 @@ Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https:
 
 ... som hevdes av Piketty (2014, A global tax on capital, avsn. 3)
 
-### Merknarder
+### Merknader
 
 Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com \*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
 
