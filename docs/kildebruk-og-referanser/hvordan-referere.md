@@ -11,7 +11,9 @@ Du trenger ikke å referere absolutt alt. Les mer under [Hva refereres?](?p=964)
 
 Finn ut hvilken [referansestil](?p=261) som er aktuell for ditt fag, og bruk denne gjennomgående på oppgaven din. En referansestil er et standardisert oppsett for henvisninger og referanser.
 
-**TIPS!** Se gjerne på vitenskapelige artikler for tips om hvordan referanser brukes. Vær oppmerksom på at krav om fullstendig dokumentasjon ofte er mindre i populære framstillinger, for eksempel i avisartikler.
+::: tip TIPS!
+Se gjerne på vitenskapelige artikler for tips om hvordan referanser brukes. Vær oppmerksom på at krav om fullstendig dokumentasjon ofte er mindre i populære framstillinger, for eksempel i avisartikler.
+:::
 
 # Henvisning og sitater
 
@@ -29,15 +31,17 @@ Sitater som er lengre enn tre linjer skal skrives i et eget avsnitt med innrykk.
 
 Å parafrasere er å omformulere det en annen forfatter har skrevet. Du bør helst bytte ut både ord og ordstilling, og skrive det om til ditt eget språk. Pass på at du beholder det opprinnelige [meningsinnholdet](#Meningsinnhold).
 
-EKSEMPEL  
+::: eksempel EKSEMPEL  
 Førland (1996, s. 11) hevder at alle studenter innenfor samfunnsfag og humaniora må lære seg den akademiske sjangeren, som kjennetegnes av drøfting.
+:::
 
 ### Marker endringer i sitat
 
 Ulike referansestiler har ulike regler, men prinsippet er at alle tilføyelser eller utelatelser skal markeres. Hvis du har et lengre sitat med en del irrelevante passasjer kan det være aktuelt å **utelate** deler av sitatet. Dette må markeres tydelig, for eksempel med tre prikker i skarpe klammer \[ ... \] eller vanlige parenteser ( ... ). Utelatelse av ett eller to ord kan markeres med ... (tre prikker), mens parentesene brukes for lengre utelatelser.
 
-EKSEMPEL  
+::: eksempel EKSEMPEL  
 "Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting" _(Førland, 1996, s.11).
+:::
 
 Dersom du ønsker å **tilføye** eller **erstatte** noe i et sitat, markeres dette gjerne ved bruk av  klammeparenteser. Eksempel: "Studenter (og forskere) innenfor \[de akademiske disipliner\] må skrive innenfor en akademisk sjanger"(Førland, 1996, s.11).
 
@@ -109,7 +113,7 @@ I stedet for å kopiere kan du eksportere referansene fra databasen du søkte i.
 
 Selv om du tilsynelatende siterer rett (oppgir kilde, merker tekst som sitat), kan det oppstå feil ved at du tar innhold ut av sin opprinnelige sammenheng. Dette kan komme i konflikt med [åndsverkloven](https://lovdata.no/lov/2018-06-15-40 "(nytt vindu)"), hvor det i § 25 blant annet heter at verkets karakter ikke må forandres eller forringes. Pass derfor på at du ikke fordreier meningsinnhold når du sammenfatter argumenter fra en eller flere forfattere. Vær forsiktig ved for eksempel klipping i sitat, og unngå å utelate motstridende data eller motargumenter.
 
-## OPPGAVE
+::: oppgave OPPGAVE
 
 - Les tekstene og sammenlign dem.
 - Reflekter over **hvorfor** måten det siteres på er i konflikt med åndsverkloven.
@@ -127,3 +131,4 @@ _Hvorfor de røykte hasj?_
 _«Det er jævla fint. Gøy. Du kommer inn i deg selv og blir ett med alt. Alt er kult. Fantasier, drømmer og alt mulig rart. Du får jævla lyst på mat. Etekikk. Så får du latterkikk … Du gråter aldri. Du er nesten aldri lei deg. Hvis du er sammen med en jente og hun slår opp, tenker du: ’Hva faen gjør det?’»_
 
 For utdypende analyser, se Rognstad, Nagel, Laupsa & Tønnesson (2006) _God skikk - Om bruk av litteratur og kilder i allmenne, historiske framstillinger_ (s. 120).
+:::

@@ -169,16 +169,29 @@ _tekst_
 _tekst_
 :::
 
+::: eksempel Eksempel
+Noe mer tekst
+:::
+
+::: oppgave Oppgave
+Noe mer tekst
+:::
+
 ::: details Vi og skjul
 Blabla
 :::
 
-::: tip TIPS med "vis og skjul"
+:::: tip TIPS med "vis og skjul"
 _tekst_
+
+::: eksempel Eksempel
+Noe mer tekst
+:::
 
 ::: details Se her da
 __blabla__
 :::
+::::
 ```
 
 ::: tip TIPS
@@ -193,16 +206,29 @@ _tekst_
 _tekst_
 :::
 
+::: eksempel Eksempel
+Noe mer tekst
+:::
+
+::: oppgave Oppgave
+Noe mer tekst
+:::
+
 ::: details Vi og skjul
 Blabla
 :::
 
-::: tip TIPS med "vis og skjul"
+:::: tip TIPS med "vis og skjul"
 _tekst_
+
+::: eksempel Eksempel
+Noe mer tekst
+:::
 
 ::: details Se her da
 __blabla__
 :::
+::::
 
 ## Tabeller
 

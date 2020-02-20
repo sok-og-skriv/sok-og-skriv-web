@@ -70,8 +70,6 @@ When you choose to join two terms with the OR operator, you get a search result 
 
 When you combine your query terms with the operator NOT, your search result will consist of only one of the terms, and the other term will be eliminated from the search. Since the use of NOT eliminates a large number of hits, it should be used with caution. For example, when you search for **decubitus NOT prevention**, your search results will contain only instances of decubitus, and all documents that deal with prevention will be filtered out from the search.
 
-![NOT eng](../images/NOT-eng.png)
-
 <ClientOnly>
   <Venn 
     v-bind:sets="[

@@ -9,22 +9,41 @@ Contact the editorial board for any questions regarding the _Search & write web
 
 Questions regarding use of references should be addressed to your academic library.
 
-[![](../images/ingerids-pressebilde-150x150.jpg)](/en/files/2013/04/ingerids-pressebilde.jpg)
+## Editors
 
-[![](../images/bodil-150x150.png)](/en/files/2013/04/bodil.png)
+<div class="persons" v-for="i in items">
+  <div>
+    <img :src="i.imageUrl">
+  </div>
+  <div>
+    <h3>{{i.fullname}}</h3>
+    <p>{{i.affiliation.en}}</p>
+    <p v-if="i.bio && i.bio.en">{{i.bio.en}}</p>
+  </div>
+</div>
 
-[![](../images/kjetil-150x150.png)](/en/files/2013/04/kjetil.png)
+<style>
+.persons {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin: 1rem 0;
+  padding: .1rem 1.5rem;
+  border-radius: 0.4rem;
+  background-color: #f0f4f8;
+}
 
-[![](../images/profilbilde-2018-150x150.png)](/en/files/2013/04/profilbilde-2018.png)
+.persons div {
+  padding: 1rem 0;
+}
+</style>
 
-[Ingerid Straume](https://www.ub.uio.no/english/about/people/uhs/uhsfagstudier/ingerids/)  
-University of Oslo Library
-
-[Bodil Moss](https://hvl.no/person/?user=3609203)  
-Western Norway University of applied sciences
-
-[Kjetil Sletteland](https://hvl.no/person/?user=3607570)  
-Western Norway University of applied sciences
-
-[Henry Langseth](https://www.uib.no/personer/Henry.Langseth)  
-University of Bergen Library
+<script>
+import data from '../../om/persons.json'
+export default {
+  data () {
+      return {
+          items: data.persons
+      }
+  }
+}
+</script>

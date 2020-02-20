@@ -16,6 +16,7 @@ Here are som standard abbreviations that are commonly used for citations and ref
 
   <dt>ch. chap.</dt>
   <dd>chapter</dd>
+  
   <dt>anon.</dt>
   <dd>anonymous.Used when the author is unknown</dd>
 
