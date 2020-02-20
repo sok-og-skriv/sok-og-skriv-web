@@ -5,7 +5,9 @@ date: "2013-09-03"
 
 # Copyright for Search & Write
 
-The following institutions own the copyright to the product Search & Write: University of Bergen, University of Oslo, Norwegian School of Economics and Bergen University College. All the material on the website is available for reuse under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Norway license](http://creativecommons.org/licenses/by-sa/3.0/no/deed.en "CC-BY-NC-SA (no)").
+The following institutions own the copyright to the product Search & Write: University of Bergen, University of Oslo, Norwegian School of Economics and Bergen University College. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Search and write is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 When using material from Search & Write, credit the site according to copyright law and good practice.
 
