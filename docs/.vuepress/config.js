@@ -208,7 +208,7 @@ module.exports = {
             ariaLabel: 'About Search and write menu',
             items: [
               { text: 'Videos', link: '/en/video/' },
-              { text: 'Contact', link: '/en/about/contact-us/' },
+              { text: 'Contact', link: '/en/about/contact-information/' },
               { text: 'Rights', link: '/en/about/copyright-for-search-and-write/' },
               { text: 'References', link: '/en/about/references/' }
             ]
