@@ -89,7 +89,7 @@ footer: Search and write ...
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no/en" alt="National library of Norway logo" >
+    <a href="https://www.nb.no/en/the-national-library-of-norway/" alt="National library of Norway logo" >
       <img style="width: 60%;" src="/nb-logo.png" />
     </a>
     <div class="title">
