@@ -87,8 +87,7 @@ Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål 2:
 ::: picoboks P
 Barn og unge som bruker insulinpumpe
 
-**Søkeord**
-
+- **Søkeord**
 - Diabetes melitus
 - Type 1 insulin dependent diabetes
 - Youth, Teenager
@@ -106,8 +105,7 @@ Barn og unge som bruker insulinpumpe
 ::: picoboks O
 Livskvalitet
 
-**Søkeord**
-
+- **Søkeord**
 - Quality of life
 - Wellness
 - Well being
