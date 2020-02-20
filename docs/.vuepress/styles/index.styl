@@ -198,3 +198,27 @@ figcaption {
     align-self: center
     p
       margin: 0
+
+.pico
+  display: flex
+  /* grid-template-columns: 1fr
+  grid-gap: 1rem */
+  @media screen and (min-width: $MQNarrow)
+    /* grid-template-columns: 1fr 1fr 1fr 1fr */
+  @media screen and (max-width: $MQMobile)
+    /* grid-template-columns: 1fr */
+  .pico-box
+    flex-direction: column;
+    border: 2px solid $sosGreen
+    border-radius: 4px
+    text-align: center
+    padding: 1rem
+    &:not(:last-child)
+      margin-inline-end: 10px
+    p
+      margin: 0
+    p.title
+      font-weight: bolder
+      font-size: 1.6rem
+      @media screen and (max-width: $MQNarrow)
+        display: inline
