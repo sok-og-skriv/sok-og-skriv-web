@@ -13,7 +13,7 @@ footer: Search and write ...
       <img src="./images/illustrasjoner_sok_500x450.png">
     </div>
     <div class="content">
-      <h2><a href="/soking">Searching</a></h2>
+      <h2><a href="/en/searching">Searching</a></h2>
       <p>Searching for information can help you get started with your thesis and define the theme and scope of your project.</p>
     </div>
   </div>
@@ -23,7 +23,7 @@ footer: Search and write ...
       <img src="./images/illustrasjoner_skriving_500x450.png">
     </div>
     <div class="content">
-      <h2><a href="/skriving">Writing</a></h2>
+      <h2><a href="/en/writing">Writing</a></h2>
       <p>Academic writing has certain formal requirements, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis.</p>
     </div>
   </div>
@@ -33,7 +33,7 @@ footer: Search and write ...
       <img src="./images/illustrasjoner_kildehenvisning_500x450.png">
     </div>
     <div class="content">
-      <h2><a href="/kildebruk-og-referanser">Sources</a></h2>
+      <h2><a href="/en/sources-and-referencing">Sources</a></h2>
       <p>All research is based on sources. The relevance of different types of sources varies from subject to subject.</p>
     </div>
   </div>
@@ -43,7 +43,7 @@ footer: Search and write ...
       <img src="./images/illustrasjoner_lesing_500x450.png">
     </div>
     <div class="content">
-      <h2><a href="/lesing">Reading</a></h2>
+      <h2><a href="/en/reading">Reading</a></h2>
       <p>Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.</p>
     </div>
     
@@ -65,7 +65,7 @@ footer: Search and write ...
 
 <div class="partners">
   <div class="partner">
-    <a href="https://www.uib.no" alt="Western Norway University of Applied Sciences logo" >
+    <a href="https://www.hvl.no/en" alt="Western Norway University of Applied Sciences logo" >
       <img style="width: 50%;" src="/hvl-logo-en.jpg" />
     </a>
     <div class="title">
@@ -73,7 +73,7 @@ footer: Search and write ...
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.uib.no" alt="University of Bergen logo" >
+    <a href="https://www.uib.no/en" alt="University of Bergen logo" >
       <img src="/uib-logo-en.png" />
     </a>
     <div class="title">
@@ -81,7 +81,7 @@ footer: Search and write ...
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no/en" alt="University of Oslo logo" >
+    <a href="https://www.uio.no/en" alt="University of Oslo logo" >
       <img src="/uio-logo-en.png" />
     </a>
     <div class="title">
@@ -89,7 +89,7 @@ footer: Search and write ...
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no" alt="National library of Norway logo" >
+    <a href="https://www.nb.no/en" alt="National library of Norway logo" >
       <img style="width: 60%;" src="/nb-logo.png" />
     </a>
     <div class="title">

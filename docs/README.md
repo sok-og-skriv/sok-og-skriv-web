@@ -82,7 +82,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
 <div class="partners">
   <div class="partner">
-    <a href="https://www.uib.no" alt="Høyskolen på Vestlandet logo" >
+    <a href="https://www.hvl.no" alt="Høyskolen på Vestlandet logo" >
       <img style="width: 50%;" src="/hvl-logo.jpg" />
     </a>
     <div class="title">
@@ -98,7 +98,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no" alt="Universitetet i Oslo logo" >
+    <a href="https://www.uio.no" alt="Universitetet i Oslo logo" >
       <img src="/uio-logo.png" />
     </a>
     <div class="title">
