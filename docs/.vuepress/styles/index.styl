@@ -93,6 +93,8 @@ figcaption {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))
   @media screen and (min-width: $MQNarrow)
     grid-template-columns: 1fr 1fr
+  @media screen and (min-width: $MQMobile)
+    grid-template-columns: 1fr 1fr
 
 .card
   display: grid
@@ -148,7 +150,7 @@ figcaption {
 
 .partners {  
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 1rem;
+  grid-gap: 3rem;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -159,6 +161,7 @@ figcaption {
 }
 .partners .partner img {
   width: 80%;
+  max-width 360px;
 }
 .partners .partner .title {
   display: none;
