@@ -144,7 +144,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style lang="stylus" scoped>
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
 .button {
@@ -237,17 +237,17 @@ export default {
 }
 .questionContainer .optionContainer .option.is-selected {
   border-color: rgba(0, 0, 0, 0.25);
-  background-color: #A50007;
+  background-color: $sosRed;
 }
 .questionContainer .optionContainer .option:hover {
-  background-color: #A50007;
+  background-color: $sosRed;
 }
 .questionContainer .optionContainer .option:active {
   transform: scaleX(0.9);
 }
 .questionContainer .questionFooter {
   background: rgba(0, 0, 0, 0.025);
-  border-top: 1px solid #A50007;
+  border-top: 1px solid $sosRed;
   width: 100%;
   align-self: flex-end;
   margin-top: 1rem;
@@ -269,12 +269,12 @@ export default {
 }
 .button:hover {
   cursor: pointer;
-  background: #388AA0;
+  background: $sosBlue;
   color: white;
   border-color: rgba(0, 0, 0, 0.25);
 }
 .button.is-active {
-  background: #388AA0;
+  background: $sosBlue;
   color: white;
   border-color: transparent;
 }
@@ -308,7 +308,7 @@ export default {
   margin: 0 auto;
 } */
 .bar {
-  background: linear-gradient(to right, rgb(209, 57, 65), #A50007);
+  background: linear-gradient(to right, rgb(209, 57, 65), $sosRed);
   height: 5px;
   width: 15px;
   border-radius: 9px;

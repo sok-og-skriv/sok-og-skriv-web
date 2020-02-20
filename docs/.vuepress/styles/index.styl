@@ -35,6 +35,19 @@ figcaption {
   text-align: center;
 }
 
+.two-column {
+  grid-template-columns: 1fr 1fr !important;
+}
+.three-column {
+  grid-template-columns: 1fr 1fr 1fr !important;
+}
+.four-column {
+  grid-template-columns: 1fr 1fr 1fr 1fr !important;
+}
+.five-column {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr !important;
+}
+
 .custom-block table {
   background-color: white;
   border-collapse: collapse;
@@ -46,7 +59,7 @@ figcaption {
   border-top-right-radius 0.4rem
   border-bottom-right-radius 0.4rem
   background-color #f0f4f8
-  border-left: 8px solid #ED7900 !important;
+  border-left: 8px solid $sosOrange !important;
   .title
     font-weight bold
 
@@ -56,7 +69,7 @@ figcaption {
   border-top-right-radius 0.4rem
   border-bottom-right-radius 0.4rem
   background-color #f0f4f8
-  border-left: 8px solid #A50007 !important;
+  border-left: 8px solid $sosRed !important;
   .title
     font-weight bold
 
@@ -72,12 +85,12 @@ figcaption {
 
 .custom-block.tip {
   background-color: #f3f5f7;
-  border-color: #96A407 !important;
+  border-color: $sosGreen !important;
 }
 
 .custom-block.warning {
   background-color: #f3f5f7;
-  border-color: #388AA0 !important;
+  border-color: $sosBlue !important;
   color: #2c3e50;
 }
 
@@ -135,18 +148,6 @@ figcaption {
   font-size: 0.9rem;
 }
 
-.two-column {
-  grid-template-columns: 1fr 1fr !important;
-}
-.three-column {
-  grid-template-columns: 1fr 1fr 1fr !important;
-}
-.four-column {
-  grid-template-columns: 1fr 1fr 1fr 1fr !important;
-}
-.five-column {
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr !important;
-}
 
 .partners {  
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
