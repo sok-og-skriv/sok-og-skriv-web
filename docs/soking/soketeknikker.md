@@ -7,7 +7,7 @@ date: "2016-07-04"
 
 Det første du må gjøre, er å finne gode søkeord. Bruk problemstillingen som utgangspunkt og identifiser sentrale begreper, inkludert alternative termer (synonymer).
 
-###### Tenk på følgende:
+**Tenk på følgende**
 
 - Bruk fagterminologi. Mange databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer med tilhørende synonymer.
 - Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen.
@@ -16,11 +16,11 @@ Det første du må gjøre, er å finne gode søkeord. Bruk problemstillingen som
 - Sett opp en tabell med kolonner for hvert begrep i problemstillingen, og føy til synonymer underveis (se eksempel lenger ned).
 - Ikke bruk for mange ulike søkeord - to til tre er vanligvis nok.
 
-### Fritekstsøk
+## Fritekstsøk
 
 Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da søker du på ord i tittel, sammendrag, emne- og nøkkelord. Siden samme fenomen ofte dekkes av forskjellige termer, er det viktig å søke på synonymer.
 
-### Avgrensing av søk
+## Avgrensing av søk
 
 Benytt databasenes muligheter for å avgrense/snevre inn en lang treffliste. I de fleste databaser kan du avgrense på publiseringsår, språk, større emneområder og dokumenttyper. Vær obs på at enhver avgrensing kan føre til at du mister viktig informasjon.
 
