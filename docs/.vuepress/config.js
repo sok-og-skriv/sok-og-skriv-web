@@ -360,6 +360,22 @@ module.exports = {
         after: '</div>',
       },
     ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'picoskjema',
+        before: `<div class="pico">`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'picoboks',
+        before: info => `<div class="pico-box"><p class="title">${info}</p>`,
+        after: '</div>',
+      },
+    ],
     ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: {
