@@ -65,9 +65,9 @@ Your list of references (or bibliography) is placed after the main text of your 
 
 Also non-written sources you have used, for example music, pictures and illustrations [need to be referenced](/en/sources-and-references/why-cite-sources/intellectual-property-rights/#Copyright "Intellectual property rights"). If you have many of them it may be clearest to group them separately, under a header such as "List of illustrations" or "Discography".
 
-## **QUIZ**
+## QUIZ: What type of reference is this?
 
-<Quiz v-bind:quizNum=2 />
+<QuizEn v-bind:quizNum=2 />
 
 ## Example: list of references
 

@@ -4,6 +4,7 @@
 
       <!-- transition -->
       <transition :duration="{ enter: 500, leave: 300 }" enter-active-class="animated zoomIn" leave-active-class="animated zoomOut" mode="out-in">
+
         <!--questionContainer-->
         <div class="questionContainer" v-if="questionIndex<quiz.questions.length" v-bind:key="questionIndex">
           <!-- questionTitle -->
@@ -33,12 +34,12 @@
 
               <!-- back button -->
               <a class="button" v-on:click="prev();" v-if="questionIndex != 0">
-                Tilbake
+                Back
               </a>
 
               <!-- next button -->
               <a class="button" :class="(userResponses[questionIndex]==null)?'':'is-active'" v-on:click="next();" :disabled="questionIndex>=quiz.questions.length">
-                {{ (userResponses[questionIndex]==null)?'Hopp over':'Neste' }}
+                {{ (userResponses[questionIndex]==null)?'Skip':'Next' }}
               </a>
 
             </nav>
@@ -57,13 +58,13 @@
 
       <!--resultTitleBlock-->
       <h2 class="title">
-        Du gjorde {{ (score() / quiz.questions.length  > 0.7 ?'en fantastisk':(score() / quiz.questions.length < 0.4 ?'en dårlig':'en god')) }} jobb!
+        You did {{ (score() / quiz.questions.length  > 0.7 ?'an amazing':(score() / quiz.questions.length < 0.4 ?'a bad':'ena good')) }} job!
       </h2>
       <p class="subtitle">
-        Totalt: {{ score() }} / {{ quiz.questions.length }}
+        Total: {{ score() }} / {{ quiz.questions.length }}
       </p>
         <br>
-        <a class="button" @click="restart()">start på nytt <i class="fa fa-refresh"></i></a>
+        <a class="button" @click="restart()">restart <i class="fa fa-refresh"></i></a>
       <!--/resultTitleBlock-->
     </div>
     </transition>
