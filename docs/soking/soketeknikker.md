@@ -93,7 +93,73 @@ Tabellen nedenfor har tre kolonner, en for hvert av de tre begrepene i problemst
 
 Denne framgangsmåten kan brukes på de aller fleste prosjekter.
 
-Problemstilling: "Lønner det seg for bedrifter å markedsføre seg som bærekraftig?" [![sokekombinasjon](../images/sokekombinasjon-300x158.jpg)](/wp-content/uploads/2012/04/sokekombinasjon.jpg)
+Problemstilling: "Lønner det seg for bedrifter å markedsføre seg som bærekraftig?" 
+
+[![sokekombinasjon](../images/sokekombinasjon-300x158.jpg)](/wp-content/uploads/2012/04/sokekombinasjon.jpg)
+
+:::: søketabell 
+
+::: tabell
+Verdivudering
+
+**OR**
+
+Verdisettelse
+
+**OR**
+
+Valuation estimate
+
+**OR** 
+
+Statement of value
+:::
+
+::: kombinator
+**AND**
+:::
+
+::: tabell
+Økologisk
+
+**OR**
+
+Bærekraftig
+
+**OR**
+
+Ecologic
+
+**OR**
+
+Sustainable
+:::
+
+::: kombinator
+**AND**
+:::
+
+::: tabell
+Metode
+
+**OR**
+
+Fremgangsmåte
+
+**OR**
+
+Method
+
+**OR**
+
+Technique
+
+**OR**
+
+Skill
+:::
+
+::::
 
 ## Generelle søketips
 

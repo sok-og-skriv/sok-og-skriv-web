@@ -336,6 +336,30 @@ module.exports = {
         after: '</div>',
       },
     ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'søketabell',
+        before: `<div class="search-table">`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'tabell',
+        before: `<div class="search-table-box">`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'kombinator',
+        before: `<div class="search-table-combinator">`,
+        after: '</div>',
+      },
+    ],
     ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: {
