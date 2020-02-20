@@ -95,10 +95,7 @@ Denne framgangsmåten kan brukes på de aller fleste prosjekter.
 
 Problemstilling: "Lønner det seg for bedrifter å markedsføre seg som bærekraftig?" 
 
-[![sokekombinasjon](../images/sokekombinasjon-300x158.jpg)](/wp-content/uploads/2012/04/sokekombinasjon.jpg)
-
 :::: søketabell 
-
 ::: tabell
 Verdivudering
 
