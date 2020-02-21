@@ -1,6 +1,7 @@
 ---
 title: "Akademiske sjangrer"
 date: "2012-06-19"
+next: "../skriving/"
 ---
 
 # Akademiske sjangrer

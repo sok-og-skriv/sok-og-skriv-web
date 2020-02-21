@@ -47,8 +47,7 @@ A textbook is a type of text written to introduce students to an academic discou
 
 ### Theses
 
-A thesis is a substantial scholarly work limited to the discussion of a particular topic in the field. Theses are subject to stringent requirements concerning theory and method and are expected to describe new research results. Examples of these types of texts include doctoral theses and, to some extent, master’s theses. The author writes the thesis to be accepted into an academic community. A thesis is therefore primarily written for other researchers in the field.[  
-](http://hvalross.hib.no/sokskriv/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/malgruppe-og-sjanger/index.php?action=static&id=189 "genres")
+A thesis is a substantial scholarly work limited to the discussion of a particular topic in the field. Theses are subject to stringent requirements concerning theory and method and are expected to describe new research results. Examples of these types of texts include doctoral theses and, to some extent, master’s theses. The author writes the thesis to be accepted into an academic community. A thesis is therefore primarily written for other researchers in the field.
 
 ### Scholarly research papers
 
@@ -83,7 +82,9 @@ An essay is an article written from the author’s personal point of view. The t
 
 Blogs can be useful for keeping track of discussions in different fora. You can subscribe to blogs as RSS feeds. Make sure you know who is responsible for the blog. Blogs often take the form of a daily journal and reflect personal experiences and opinions. Claims made in blogs will not necessarily be verifiable or properly documented.
 
-**Tip! **Are there any scholarly blogs in your subject area? See for example [Language Log](http://languagelog.ldc.upenn.edu/nll/ "(new window)") and the [Nature News Blog](http://blogs.nature.com/news "(new window)").
+::: tip Tip!
+Are there any scholarly blogs in your subject area? See for example [Language Log](http://languagelog.ldc.upenn.edu/nll/ and the [Nature News Blog](http://blogs.nature.com/news).
+:::
 
 ## Publisher
 
@@ -124,11 +125,19 @@ Accordingly a journal’s impact factor is a quantitative ranking tool. The fact
 
 The impact factor for 2004 for the journal GLOBAL BIOGEOCHEMICAL CYCLES is calculated as follows:
 
-![impact-formula](../images/impact-formula1.png)
+<Figure
+  src="/images/impact-formula1.png"
+  caption=""
+  type=""
+/>
 
 If we insert data from ISI Journal Citation Reports into this formula we get:
 
-![impact-calculation](../images/impact-calculation.png)
+<Figure
+  src="/images/impact-calculation.png"
+  caption=""
+  type=""
+/>
 
 The journal’s impact factor for 2004 is thus 2.864. In other words, articles in this journal were cited on average two to three times during 2004. In practice, however, some articles will have been cited far more often, while others may not have been cited at all.
 

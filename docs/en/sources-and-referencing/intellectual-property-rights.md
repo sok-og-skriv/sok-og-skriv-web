@@ -29,9 +29,11 @@ Intellectual property rights protect the formulation of a work. It does not prot
 
 Creators are responsible for ensuring that the contents of their work comply with [ethical guidelines](/en/sources-and-references/why-cite-sources/guidelines-on-academic-ethics/ "Ethical guidelines for academia"), unless there are specifically applicable guidelines that transfer this duty to others. In general the Copyright Act grants the creator of a work exclusive control, including the right to restrict access. Hence, the student or the researcher has the final responsibility to decide whether making their work freely available may conflict with patent considerations or further publication. In any event it is advisable to carefully consider the advice of supervisors and fellow researchers. Preferably, research papers should be written in a way that avoids having to restrict access to them.
 
-[![opphavsrett_jus_30](../images/opphavsrett_jus_30-300x300.jpg)](/en/files/2013/02/opphavsrett_jus_30.jpg) 
-
-_Norges lover. Photo: UiB_
+<Figure
+  src="/images/opphavsrett_jus_30.jpg"
+  caption="Norges lover. Photo: UiB"
+  type="right"
+/>
 
 A breach of the Intellectual Property Rights Act can result in unpleasant consequences. Learn correct [referencing](/en/sources-and-references/how-to-cite/), and clarify the collaborative relationships between advisor and fellow students to avoid being exploited or accused of [plagiarism](/en/sources-and-references/why-cite-sources/).
 
@@ -61,14 +63,15 @@ Your image caption should include information about permission from the copyrigh
 
 You may need to quote from TV or radio programmes, use clips of recorded music, or use pictures or illustrations in your thesis. The [right to quote](#quotation-right) applies to all copyright material. Reproduction, however, will usually require the permission of the copyright holder.
 
-[![NANGO_trom-61s](../images/NANGO_trom-61s-233x300.jpg)](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/nango_trom-61s/)
-
-_Brita Olsdatter Nango, Kautokeino 1883._ Photo: Sophus Tromholt. Reproduced with permission from the University Library at University of Bergen.
+<Figure
+  src="/images/ubb-trom-136_md.jpg"
+  caption="Brita Olsdatter Nango, Kautokeino 1883. Photo: Sophus Tromholt. Reproduced with permission from the University Library at University of Bergen."
+  type=""
+/>
 
 To enable the reader to retrieve or locate your source, you must provide information about the photographer, title, owner and inventory number. You may either do this as part of the caption to the image or as a note in your list of images at the back of your dissertation:
 
-_Brita Olsdatter Nango, Kautokeino, 1883. 
-_Photo: Tromholt, S. (1883) (University library, University of Bergen, UBB-Trom-136).
+_Brita Olsdatter Nango, Kautokeino, 1883_. Photo: Tromholt, S. (1883) (University library, University of Bergen, UBB-Trom-136).
 
 ### Using sound or video recordings
 

@@ -30,7 +30,7 @@ Use your method chapter to show that you arrived at your results by applying val
 - Document ... 
 - ... for what you did and did _not_ do 
 
-**Your method chapter shows how you arrived at your results **
+**Your method chapter shows how you arrived at your results**
 
 **Results**
 

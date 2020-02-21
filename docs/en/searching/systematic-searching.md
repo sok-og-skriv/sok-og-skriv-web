@@ -1,6 +1,7 @@
 ---
 title: "Systematic searching"
 date: "2017-11-13"
+next: "../reading/"
 ---
 
 # Systematic searching
@@ -18,33 +19,53 @@ The PICO form can be used to structure your research question and identify its m
 
 Currently PICO is the most used framework within medicine and healthcare. PICO clarifies what/who your research question deals with, it shows which intervention you want to examine, and which results you are trying to accomplish.
 
-EXAMPLE: the application of PICO on two research questions from the health field
+### The application of PICO on two research questions from the health field
 
-Question 1: _Do children with diabetes cope better with their disease when treated by a specialist at home rather than at a hospital?_
+::::: eksempel Question 1: Do children with diabetes cope better with their disease when treated by a specialist at home rather than at a hospital?
 
-![pico1 eng](../images/pico1-eng1.png)
+:::: picoskjema
+::: picoboks P
+Children with diabetes
+:::
+
+::: picoboks I
+Home-based treatment
+:::
+
+::: picoboks C
+Hospital-based treatment
+:::
+
+::: picoboks O
+Mestring av egen sykdom
+:::
+::::
 
 In this example, we are interested in the effect of the decision “home-based treatment” (**I**) in contrast to the effect of “hospital-based treatment” (**C**). We are interested in finding studies that compare the effects of these two decisions. The outcome we want to measure (**O**) is how these patient groups are coping with their disease. It is not always necessary to use all four elements of the PICO-form. Sometimes the research question may not have a clear intervention (**I**) part, or it may also lack the element of comparison (**C**), or there may not be any clearly formulated outcome (**O**). Question 2 below is an illustration of a research question that contains only **P** and **O**.
+:::::
 
-Question 2: _How do diabetic children and adolescents who use insulin pumps perceive their quality of life?_
+::::: eksempel Question 2: How do diabetic children and adolescents who use insulin pumps perceive their quality of life?
 
-![Pico2 eng](../images/Pico2-eng.png)
+:::: picoskjema
+::: picoboks P
+Children and adolescents who use insulin pumps
+:::
+
+::: picoboks I
+:::
+
+::: picoboks C
+:::
+
+::: picoboks O
+Quality of life
+:::
+::::
 
 In this example we take into consideration the patient groups from question 1, but now the question focuses only on diabetic children and adolescents who are already using an insulin pump. However, the question does not specify any decision or action that we intend to measure the effect of. Therefore, this question has neither **I** nor **C**. What we want to know is how these patients are experiencing their own situation (**O**).
+:::::
 
 It is not always appropriate to fill in all the four elements of the PICO-form. Sometimes there is no clear **I (Intervention)** available, other times **C (Comparison)** might be missing, and some other times there is no clearly formulated **O (Outcome)**. Question number 2 below is an example of an occasion in which we only have a clearly defined **P** and **O**.
-
-**Question 2:** How do children and adolescents who use insulin pumps experience life quality?
-
-**P:** Children and adolescents who use insulin pumps
-
-**I:**
-
-**C:**
-
-**O:** Life quality
-
-In this example, the question is pointed at the same group of patients as in question 1, the difference being that in question 2 we have narrowed down to the children and adolescents who already use insulin pumps. There are no specific actions that we are interested in investigating the effect of, hence nothing has been noted under **I** or **C**. What we want to gain more knowledge about **(O)** is the patient’s own experience of his/her situation.
 
 ## Search terms
 
@@ -54,26 +75,47 @@ Medical Subject Headings (MeSH) is the most well-known subject-related wordlist 
 
 To make sure to find all relevant articles, one should include synonyms for each keyword in the searching. If you chose to search via a subject-related wordlist in a database (for example MeSH), it will automatically include some of the synonyms in the search. Nevertheless, it is useful to supplement the search with words picked out from the author's keywords or from the article’s abstract.
 
-::: eksempel EXAMPLE: PICO-form with synonym suggestions
+::::: eksempel EXAMPLE: PICO-form with synonym suggestions
 
 Below you can see a filled out PICO-form with synonym suggestions connected to question 2:
 
 How do children and adolescents who use insulin pumps experience life quality?
 
-**P:** Children and adolescents who use insulin pumps. **Search terms:** Diabetes mellitus, Type 1 insulin dependent diabetes, Youth, Teenager, Adolescent, Child, Insulin infusion systems, Infusion pumps
+:::: picoskjema
+::: picoboks P
+Children and adolescents who use insulin pumps
 
-**I:**
-
-**C:**
-
-**O:** Life quality. **Keywords:** quality of life, wellness, well being
+- **Søkeord**
+- Diabetes melitus
+- Type 1 insulin dependent diabetes
+- Youth, Teenager
+- Adolescent, Child
+- Insulin infusion system
+- Infusion pump
 :::
+
+::: picoboks I
+:::
+
+::: picoboks C
+:::
+
+::: picoboks O
+Life quality
+
+- **Søkeord**
+- Quality of life
+- Wellness
+- Well being
+:::
+::::
+:::::
 
 ## Combination of search terms:
 
 All major article databases give you access to a search history. The search history displays which subject-related terms you have looked up, how they are combined, and how many hits each search has resulted in. The searching process becomes flexible and clear if you choose to search one word at a time and then combine the searches with AND, OR or NOT in the search history.
 
-::: eksempel EXAMPLE: Systematic search presented via search history
+::: details EXAMPLE: Systematic search presented via search history
 Here you can see the search history of a search based on Question 2:
 
 How do children and adolescents who use insulin pumps experience life quality?

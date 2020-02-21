@@ -18,7 +18,11 @@ Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-
 
 Med unntak for enkelte offentlige dokumenter, består en referanse i APA 6th grovt sett av fire deler i fast rekkefølge: Opphavspersoner, publiseringsdato, dokumentets tittel og publikasjonsinformasjon. Disse gir svar på spørsmålene om _hvem_ som står bak kilden, _når_ den er publisert, _hva_ den heter og _hvor_ den kan finnes.
 
-![](../../images/APA-ref.png)
+<Figure
+  src="/images/APA-ref.png"
+  caption=""
+  type=""
+/>
 
 Formatet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler, tidsskriftartikler og nettsider, ikke skal ha det.
 

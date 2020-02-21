@@ -108,7 +108,7 @@ Instead of copying and pasting your references, you can usually export them from
 
 Even when you are quoting a text correctly (citing the source/indicating the presence of a quotation), be careful not to take the quotation out of its original context. Apart from ethical considerations, you will risk violating the [Copyright Act](https://lovdata.no/lov/2018-06-15-40 "(new window)"), as Section 25 of the Act provides, among other things, that the character of a work must not be changed or degraded. Be careful not to distort the original meanings of texts when you are assembling arguments put forward by different authors. For example, be careful when shortening quotations and do not omit references to conflicting data or arguments.
 
-## EXERCISE
+::: oppave EXERCISE
 
 Read and compare the text in the boxes
 
@@ -127,3 +127,4 @@ In the chapter "På kjøret" in _Historien om Norge V_ (The history of Norway V)
 > « _It is fucking good_. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the _fits of laughter_. … _You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: ’What the hell?_’»
 
 For a more elaborate analysis, see Rognstad, Nagel, Laupsa & Tønnesson (2006) God skikk - Om bruk av litteratur og kilder i allmene, historiske framstillinger (p. 120). (In Norwegian only.)
+:::

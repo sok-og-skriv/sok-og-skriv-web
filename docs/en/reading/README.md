@@ -7,7 +7,11 @@ date: "2012-03-16"
 
 Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of _how_ as well as of _what_ you read.
 
-![soking](../images/illustrasjoner_lesing_500x450.png)
+<Figure
+  src="/images/illustrasjoner_lesing_500x450.png"
+  caption=""
+  type="right"
+/>
 
 The most important thing about reading is to actually _read_. People who read a lot on a regular basis will usually develop good reading skills automatically. Our top tip for anyone who needs to read for the purposes of their studies is simply this: get reading! There is no other way to become a good reader.
 

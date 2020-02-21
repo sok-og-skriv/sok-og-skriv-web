@@ -59,7 +59,7 @@ Styrkemarkør brukes til å uttrykke graden av sikkerhet du fremsetter en påsta
 
 I hvilken grad er påstanden din sikker, sannsynlig eller mulig?
 
-## Oppgave
+::: oppgave Oppgave
 
 Still spørsmål til det du selv skal skrive:
 
@@ -71,7 +71,9 @@ Still spørsmål til det du selv skal skrive:
 6. I hvilken grad er påstanden din sikker, sannsynlig eller mulig?
 
 Du kan bruke [Toulmins argumentasjonsmodell](http://studypedia.au.dk/fileadmin/www.studiemetro.au.dk/Gul_Krav_til_universitetsopgaver/Argument/argument.html) for å synliggjøre argumenter og påstander i oppgaven din.
+:::
 
 **Videre lesing**:  
 Brodersen, R.B., Bråten, F., Reiersgaard, A., Slethei, K. og Ågotnes, K. (2007) _Tekstens autoritet: tekstanalyse og skriving i akademia_. Oslo: Universitetsforlaget.  
+
 Rienecker, L. og  Stray Jørgensen, P. (2012) _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg : Samfundslitteratur.

@@ -15,11 +15,11 @@ I en tidlig fase kan det være nødvendig å orientere seg bredt for å avklare 
 - Fagspesifikke oppslagsverk (for eksempel _International Encyclopedia of the Social & Behavioral Sciences_) gir grundige innføringer. Forfatterne er eksperter på sine felt og har kartlagt den sentrale litteraturen i oversiktsartikler.
 - Lærebøker fra pensum- og ressurslister gir innføring i og henvisninger til kilder som går mer i dybden.
 - Gjennom nyhetsarkivet Atekst og Nasjonalbibliotekets digitale avistjeneste får du tilgang til den norske samfunnsdebatten. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
-- Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet, se for eksempel [www.regjeringen.no](http://www.regjeringen.no/ "regjeringen.no"), [Statistisk sentralbyrå, ](http://ssb.no) [Verdensbanken,](http://www.worldbank.org/) [OECD.](http://www.oecd.org/)
+- Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet, se for eksempel [www.regjeringen.no](http://www.regjeringen.no/ "regjeringen.no"), [Statistisk sentralbyrå, ](http://ssb.no) [Verdensbanken](http://www.worldbank.org/) og [OECD.](http://www.oecd.org/)
 
 ## Finn faglitteratur
 
-Når du har lest deg opp på emnet, og problemstillingen begynner å ta form, kreves det informasjon som går mer i dybden. Fagmiljøet forventer at du bruker vitenskapelige kilder som grunnlag for oppgaven. I tillegg til fagbøker, er artikler i fagfellevurderte tidsskrift den viktigste inngangen til vitenskapelige tekster. At et tidsskrift er fagfellevurdert (engelsk _peer reviewed_), vil si at manuskriptet blir kvalitetsvurdert av eksperter/fagkonsulenter før publisering. [ ](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/)
+Når du har lest deg opp på emnet, og problemstillingen begynner å ta form, kreves det informasjon som går mer i dybden. Fagmiljøet forventer at du bruker vitenskapelige kilder som grunnlag for oppgaven. I tillegg til fagbøker, er artikler i fagfellevurderte tidsskrift den viktigste inngangen til vitenskapelige tekster. At et tidsskrift er fagfellevurdert (engelsk _peer reviewed_), vil si at manuskriptet blir kvalitetsvurdert av eksperter/fagkonsulenter før publisering. [Se også Kvalitative vurderinger](/kildebruk-og-referanser/kvalitative-vurderinger/)
 
 ## Valg av databaser
 

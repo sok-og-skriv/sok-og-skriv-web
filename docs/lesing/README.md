@@ -7,7 +7,11 @@ date: "2012-03-15"
 
 Lesing og skriving er kjerneaktiviteter i akademisk arbeid. Som ferdigheter henger de nært sammen, og påvirker hverandre. For å kunne skrive en god oppgave, må du være god til å lese, og du må være bevisst på _hva_ og _hvordan_ du leser.
 
-![soking](../images/illustrasjoner_lesing_500x450.png)
+<Figure
+  src="/images/illustrasjoner_lesing_500x450.png"
+  caption=""
+  type="right"
+/>
 
 Det viktigste med å lese er _at_ man leser. Den som leser mye og jevnlig, vil som oftest utvikle gode leseferdigheter av seg selv. Råd nummer én til den som skal lese i forbindelse med studier, er derfor: Les! Bare slik kan du bli en god leser.
 

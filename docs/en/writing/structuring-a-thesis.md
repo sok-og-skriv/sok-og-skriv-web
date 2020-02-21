@@ -23,7 +23,9 @@ There are usually no formal requirements for forewords, but it is common practic
 
 Your introduction has two main purposes: 1) to give an overview of the main points of your thesis, and 2) to awaken the reader’s interest. It is recommended to rewrite the introduction one last time when the writing is done, to ensure that it connects well with your conclusion.
 
-**Tip:** For a nice, stylistic twist you can reuse a theme from the introduction in your conclusion. For example, you might present a particular scenario in _one_ way in your introduction, and then return to it in your conclusion from a different – richer or contrasting – perspective.
+::: tip Tip:
+For a nice, stylistic twist you can reuse a theme from the introduction in your conclusion. For example, you might present a particular scenario in _one_ way in your introduction, and then return to it in your conclusion from a different – richer or contrasting – perspective.
+:::
 
 The introduction should include:
 
@@ -47,16 +49,19 @@ Academic writing often means having a discussion with yourself (or some imagined
 
 If it is common in your discipline to reflect upon your experiences as a practitioner, this is the place to present them. In the remainder of your thesis, this kind of information should be avoided, particularly if it has not been collected systematically.
 
-**Tip:** Do not spend too much time on your background and opening remarks before you have gotten started with the main text.
+::: tip Tip:
+Do not spend too much time on your background and opening remarks before you have gotten started with the main text.
+:::
 
-## Exercise
+::: oppgave Exercise
 
-**Write three different opening paragraphs for your thesis using different literary devices **
+**Write three different opening paragraphs for your thesis using different literary devices**
 
 For example:  
 a) “set the scene” with a (short) narrative  
 b) adopt a historical approach to the phenomenon you intend to discuss  
 c) take an example from the media to give your topic current relevance.
+:::
 
 Observe to what extent these different openings inspire you, and choose the approach most appropriate to your topic. For example, do you want to spur emotions, or remain as neutral as possible? How important is the historical background? The exercise can be done in small groups or pairs. Discuss what makes an opening paragraph successful (or not). How does your opening paragraph shed light on what is to follow? What will the reader's expectations be?
 
@@ -70,7 +75,7 @@ Your research question will be your guide as your writing proceeds. If you are w
 
 How do you know that you have drafted a research question? Most importantly, a research question is something that __can be answered__. If not, you have probably come up with a theme or field, not a question.
 
-**Some tips**:
+::: tip Some tips:
 
 - Use interrogative words: how, why, which (factors/situations), in which ways, etc.
 - Some questions are closed and only invoke concrete/limited answers. Others will open up for discussions and different interpretations.  
@@ -78,6 +83,7 @@ How do you know that you have drafted a research question? Most importantly, a r
     Asking “Why” means you are investigating the causes of a phenomenon. Studying causality is methodologically demanding.
 - Feel free to pose partially open questions that allow discussions of the overall theme, e.g., “In what way ...?”; “How can we understand \[a particular phenomenon\]?”
 - Try to condense your research question into one general question – and perhaps a few more specific sub-questions (two or three will usually suffice).
+:::
 
 ### 1.3 Outline
 
@@ -156,7 +162,7 @@ Recommended reading:
 
 J. Schimel, 2012 _Writing Science. How to write papers that get cited and proposals that get funded. _New York: Oxford University Press
 
-* * *
+---
 
 [http://writingcenter.unc.edu/handouts/thesis-statements/](http://writingcenter.unc.edu/handouts/thesis-statements/)
 

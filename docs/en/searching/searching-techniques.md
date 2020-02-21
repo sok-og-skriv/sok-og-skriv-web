@@ -89,7 +89,67 @@ This procedure can be applied to the vast majority of projects.
 
 Example: Research question: "Is it profitable for businesses to market themselves as sustainable?"
 
-![sokekombinasjon](../images/sokekombinasjon.jpg)
+:::: søketabell 
+::: tabell
+Verdivudering
+
+**OR**
+
+Verdisettelse
+
+**OR**
+
+Valuation estimate
+
+**OR** 
+
+Statement of value
+:::
+
+::: kombinator
+**AND**
+:::
+
+::: tabell
+Økologisk
+
+**OR**
+
+Bærekraftig
+
+**OR**
+
+Ecologic
+
+**OR**
+
+Sustainable
+:::
+
+::: kombinator
+**AND**
+:::
+
+::: tabell
+Metode
+
+**OR**
+
+Fremgangsmåte
+
+**OR**
+
+Method
+
+**OR**
+
+Technique
+
+**OR**
+
+Skill
+:::
+::::
 
 ### Truncation
 

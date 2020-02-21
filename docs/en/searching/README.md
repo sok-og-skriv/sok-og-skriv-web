@@ -7,7 +7,13 @@ date: "2012-03-14"
 
 This section explains how searching for information can help you get started with your thesis and how well-planned searches can help you define the theme and scope of your project.
 
-![soking](../images/illustrasjoner_sok_500x450.png) Academic information retrieval is a process that requires careful planning. We relate the information we find to our prior knowledge. This expands our knowledge, giving us new ideas and a better understanding. Our information needs develop from a vague idea, to a specific need for information that deepens our understanding and furthers our research.
+<Figure
+  src="/images/illustrasjoner_sok_500x450.png"
+  caption=""
+  type="right"
+/>
+
+Academic information retrieval is a process that requires careful planning. We relate the information we find to our prior knowledge. This expands our knowledge, giving us new ideas and a better understanding. Our information needs develop from a vague idea, to a specific need for information that deepens our understanding and furthers our research.
 
 Before you start searching consider the following:
 

@@ -5,7 +5,7 @@ date: "2012-06-08"
 
 # Formelle krav til oppsett
 
-Oppsettet av oppgaver ved universitet og høgskole følger bestemte formelle krav. Her finner du en generell beskrivelse, men ulike studiesteder og -programmer kan ha mer spesifikke krav til omfang, referansestil, forside og så videre. Sjekk emnesidene for faget ditt. Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og [etisk bruk av kilder](/kildebruk-og-referanser/sitering-og-etikk/). En generell beskrivelse av _innholdet_ i en større oppgave finner du under "[o](/skriving/struktur/oppbygning-av-en-oppgave/)[ppbygning av en oppgave](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/)["](/skriving/struktur/oppbygning-av-en-oppgave/).
+Oppsettet av oppgaver ved universitet og høgskole følger bestemte formelle krav. Her finner du en generell beskrivelse, men ulike studiesteder og -programmer kan ha mer spesifikke krav til omfang, referansestil, forside og så videre. Sjekk emnesidene for faget ditt. Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og [etisk bruk av kilder](/kildebruk-og-referanser/sitering-og-etikk/). En generell beskrivelse av _innholdet_ i en større oppgave finner du under "[oppbygning av en oppgave](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/)".
 
 ## Forside
 
@@ -25,7 +25,11 @@ Bruk av maler (eng. _templates_) i Word anbefales for å spare arbeid. Malene ha
 
 Når du har valgt en mal, er det viktig å bruke denne til all formatering av overskrifter, innrykk, sitater, fotnoter, figurer og så videre. Det betyr at dersom du vil gjøre endringer i for eksempel skriftstørrelse, må du endre selve malen. Marker området med den nye formateringen, og høyreklikk nivået du vil endre (normal, overskrifter mv) i Word-menyen:
 
-[![](../images/Maler-300x34.png)](/wp-content/uploads/2012/06/Maler.png)
+<Figure
+  src="/images/Maler.png"
+  caption=""
+  type=""
+/>
 
 **Tips**:
 
@@ -36,30 +40,28 @@ Når du har valgt en mal, er det viktig å bruke denne til all formatering av ov
 
 Når du arbeider med oppgaven i malen, vil innholdsfortegnelsen oppdateres med riktige sidetall, overskrifter, punktlister, figurer mv. Høyreklikk på innholdsfortegnelsen for å oppdatere, eller bruk meny. Se også [Microsofts hjelpesider om redigering av innholdsfortegnelse](https://support.office.com/en-us/article/format-or-customize-a-table-of-contents-9d85eb9c-0b55-4795-8abb-a49885b3a58d).
 
-[![](../images/Innholdsfortegnelse-300x148.png)](/wp-content/uploads/2018/08/Innholdsfortegnelse.png) 
-
-_Eksempel på innholdsfortegnelse_
+<Figure
+  src="/images/Innholdsfortegnelse.png"
+  caption="Eksempel på innholdsfortegnelse"
+  type=""
+/>
 
 ## Overskrifter
 
-Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1), mens fire regnes som maksimalt (eksempel: 1.1.1.1). Se etter dette symbolet i skriveprogrammets menyer, og velg en stil [![](../images/Nummererte-overskrifter.png)](/wp-content/uploads/2012/06/Nummererte-overskrifter.png)Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
+Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1), mens fire regnes som maksimalt (eksempel: 1.1.1.1). Se etter dette symbolet i skriveprogrammets menyer, og velg en stil ![](../images/Nummererte-overskrifter.png). Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
 
 ## Brødtekst, marger og skriftstørrelse
 
 Brødteksten er den teksten som kalles "normal" i tekstbehandlingsprogrammet. Vær forsiktig med bruk av utheving, kursivering, understreking mv.
 
-- **Linjeavstand** er vanligvis halvannen (1,5). Stilles inn her: [![](../images/Linjeavstand.png)](/wp-content/uploads/2012/06/Linjeavstand.png)
+- **Linjeavstand** er vanligvis halvannen (1,5). Stilles inn her: ![](../images/Linjeavstand.png)
 - **Punktstørrelse:** Det mest vanlige er 11 i en moderne font som Calibri eller 12 i en tradisjonell font som Times New Roman.
-- **Venstrejustert** tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet. Velg [![](../images/Venstrejustert.png)](/wp-content/uploads/2012/06/Venstrejustert.png)
+- **Venstrejustert** tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet. Velg ![](../images/Venstrejustert.png)
 - **Topp- og bunnmarg** skal være minst 2,5 cm.
 
 I tabeller, figurer, fotnoter og referanseliste kan du bruke mindre punktstørrelse og enkel linjeavstand så lenge hensynet til lesbarhet er godt ivaretatt.
 
-Det skal aldri være mer enn ett mellomrom etter hvert ord eller tegn. Hvis du trenger større mellomrom (innrykk), bruk tabulatortasten:
-
-[![](../images/tabulator-150x150.jpg)](/wp-content/uploads/2018/06/tabulator-e1529940693789.jpg) 
-
-_Illustrasjon: Colourbox_
+Det skal aldri være mer enn ett mellomrom etter hvert ord eller tegn. Hvis du trenger større mellomrom (innrykk), bruk tabulatortasten: ![](/images/tabulator.jpg)
 
 ## Sidetall (paginering)
 
@@ -83,7 +85,11 @@ Dersom du bruker figurer og/eller tabeller i teksten, må disse kommenteres og f
 
 Vær oppmerksom på [opphavsrettslige forhold](https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) ved reproduksjon av andres bilder. Slik bruk er som regel ikke omfattet av sitatretten.
 
-[![](../images/figur-eksempel-300x221.png)](/wp-content/uploads/2012/06/figur-eksempel.png) Eksempel på bruk av figur. Hentet fra «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.
+<Figure
+  src="/images/figur-eksempel.png"
+  caption="Eksempel på bruk av figur. Hentet fra «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0."
+  type=""
+/>
 
 ## Noter
 
@@ -97,7 +103,9 @@ En del materiale kan legges som vedlegg, for eksempel intervjuguide, samtykkeskj
 
 Alle kildene som er brukt, skal vanligvis oppgis i samme referanseliste og ordnes alfabetisk. Hvis det er flere innførsler med samme forfatter, og du bruker en forfatter-årstall-stil (som APA eller Harvard), ordnes de kronologisk i stigende rekkefølge (eldste først). Referanser med samme årstall markeres da med a, b, c osv. I de aller fleste fag ligger alle typer kilde i samme referanseliste, men det kan være aktuelt å skille mellom primær- og sekundærkilder i enkelte historiske emner. Les mer om referanselister under "[hvordan referere](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/#Referanselisten)".
 
-**Tips**: Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. Se etter dette symbolet:  [![](../images/Cite.png) ](/wp-content/uploads/2012/06/Cite.png)
+::: tip Tips: 
+Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. Se etter dette symbolet:  ![](../images/Cite.png)
+:::
 
 ## Flere ressurser
 

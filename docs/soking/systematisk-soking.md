@@ -1,6 +1,7 @@
 ---
 title: "Systematisk søking"
 date: "2012-08-23"
+next: "../lesing/"
 ---
 
 # Systematisk søking
@@ -20,9 +21,9 @@ PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilli
 
 Foreløpig er PICO-skjemaet mest brukt innen helsefag. PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
 
-EKSEMPEL: Anvendelse av PICO på to helsefaglige spørsmål
+### Anvendelse av PICO på to helsefaglige spørsmål
 
-Spørsmål 1: _Vil barn med diabetes mestre sin sykdom bedre dersom de blir behandlet av spesialister i sitt eget hjem enn om behandlingen foregår på sykehus?_
+::::: eksempel Spørsmål 1: Vil barn med diabetes mestre sin sykdom bedre dersom de blir behandlet av spesialister i sitt eget hjem enn om behandlingen foregår på sykehus?
 
 :::: picoskjema
 ::: picoboks P
@@ -43,10 +44,11 @@ Mestring av egen sykdom
 ::::
 
 I dette eksempelet er vi interessert i effekten av tiltaket «hjemmebasert behandling» (**I**) sett i forhold til effekten av «behandling på sykehus» (**C**). Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (**O**), er pasientgruppens mestring av sin sykdom.
+:::::
 
 Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar **I** (intervensjon), andre ganger mangler **C** (sammenligning) og andre ganger finnes ingen tydelig formulert **O** (utfall). Spørsmål 2 nedenfor er et eksempel på at vi kun har definert **P** og **O**.
 
-Spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
+::::: eksempel Spørsmål 2: Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?
 
 :::: picoskjema
 ::: picoboks P
@@ -65,6 +67,7 @@ Livskvalitet
 ::::
 
 I dette eksempelet har vi tatt utgangspunkt i den samme pasientgruppen som i spørsmål 1, men pasientgruppen er spisset til kun å gjelde de barna med diabetes som allerede bruker insulinpumpe. Det er ikke definert spesielle tiltak som vi er interessert i å se effekten av, derfor har vi ikke notert noe under hverken **I** eller **C**. Det vi ønsker å få mer kunnskap om (**O**), er pasientenes egne opplevelser av sin situasjon.
+:::::
 
 ## Søkeord
 
@@ -92,7 +95,7 @@ Barn og unge som bruker insulinpumpe
 - Type 1 insulin dependent diabetes
 - Youth, Teenager
 - Adolescent, Child
-- nsul infusion system
+- Insulin infusion system
 - Infusion pump
 :::
 
@@ -111,7 +114,6 @@ Livskvalitet
 - Well being
 :::
 ::::
-
 :::::
 
 ## Kombinasjon av søkeord
@@ -166,7 +168,7 @@ De enkelte databasene tilbyr også muligheter for å avgrense/snevre inn en tref
 
 Husk at enhver avgrensing kan føre til at du går glipp av sentral informasjon.
 
-Til slutt må du [vurdere](/kildebruk-og-referanser/kildevurdering/ "Kildevurdering") den enkelte artikkels [kvalitet](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/ "Kvalitative vurderinger") og [relevans](/kildebruk-og-referanser/kildevurdering/vurdering-av-relevans/ "Vurdering av relevans") i forhold til problemstillingen din.
+Til slutt må du [vurdere](/kildebruk-og-referanser/kildevurdering/ "Kildevurdering") den enkelte artikkels [kvalitet](/kildebruk-og-referanser/kvalitative-vurderinger/ "Kvalitative vurderinger") og [relevans](/kildebruk-og-referanser/vurdering-av-relevans/ "Vurdering av relevans") i forhold til problemstillingen din.
 
 ## Dokumenter søket
 

@@ -25,20 +25,27 @@ Using the templates available in Word can save you time and effort. Word offers 
 
 When you have chosen a template, it is important to use it consistently to format headlines, indentations, citations, footnotes, and so forth. This means that if you need to change something like your font size, for example, you’ll need to make changes to the template itself. To do this, highlight the area you have changed in your text, and right-click on the style you want to change in the Word style manager choosing "update style to match selection":
 
-![](../images/Maler-300x34.png)
+<Figure
+  src="/images/Maler.png"
+  caption=""
+  type=""
+/>
 
-**Tips:**
+::: tip Tips:
 
 - When pasting text from other documents or sources, choose "Keep Text Only" to avoid the unwanted transfer of different formatting.
 - If you have problems with layout and formatting, click on the icon for showing invisible formatting which looks like this **¶.** This will allow you to detect invisible functions like spacing, line spacing, page breaks and so forth.
+:::
 
 ## Table of Contents
 
 When you work on a paper in a template, the table of contents can be updated with the correct page numbers, section titles, lists, figures, etc. Right-click on the table of contents to update, or use the menu. For further references, see [Microsoft’s help site](https://support.office.com/en-us/article/format-or-customize-a-table-of-contents-9d85eb9c-0b55-4795-8abb-a49885b3a58d) for Tables of Contents.
 
-![](../images/Innholdsfortegnelse-300x148.png)
-
-Example of Table of Contents
+<Figure
+  src="/images/Innholdsfortegnelse.png"
+  caption="Example of Table of Contents"
+  type=""
+/>
 
 ## Headings
 
@@ -55,9 +62,7 @@ The body of your paper should be written in “Normal” in your style manager. 
 
 In tables, figures, footnotes and reference lists, you can use a smaller text size and single line spacing (as long as you preserve good readability).
 
-Never use more than one space between words or symbols. For indentation, be sure to use the TAB key.
-
-![](../images/tabulator-150x150.jpg)
+Never use more than one space between words or symbols. For indentation, be sure to use the TAB key. ![](/images/tabulator.jpg)
 
 ## Page numbers (pagination)
 
@@ -81,9 +86,11 @@ If you use figures or tables in your text, these must be explained and numbered 
 
 Be aware of [intellectual property rights](/en/sources-and-references/why-cite-sources/intellectual-property-rights/) when reproducing images. Such use is not usually covered by (sitatretten)
 
-![](../images/figur-eksempel-300x221.png)
-
-\-- Example of use of figures. Retrieved from «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.\]
+<Figure
+  src="/images/figur-eksempel.png"
+  caption="Example of use of figures. Retrieved from «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.\]"
+  type=""
+/>
 
 ## Notes
 
@@ -99,7 +106,9 @@ Most reference styles recommend to list all sources together, arranged in alphab
 
 In most fields, different source types are included in the same reference list, but in some historical subjects it can be the case that primary and secondary sources are listed separately. Read more about referencing at “[Why Cite Sources?](/en/sources-and-references/why-cite-sources/)”
 
-**Tip**: If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete. Look for this symbol: ![](../images/Cite.png)
+::: tip Tip:
+If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete. Look for this symbol: ![](../images/Cite.png)
+:::
 
 ## Other resources
 

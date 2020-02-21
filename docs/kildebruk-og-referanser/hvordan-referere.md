@@ -81,11 +81,16 @@ Denne listen viser referanser i Harvard-stil for bok, tidsskrift, hovedoppgave, 
 
 **Referanseliste**
 
-Beck, U. og Beck-Gemsheim, E. (1995) _The normal chaos of love_. Cambridge: Polity Press.  
+Beck, U. og Beck-Gemsheim, E. (1995) _The normal chaos of love_. Cambridge: Polity Press.
+
 Dretske, F.I. (1993) Conscious experience. _Mind_, 102 (406), s. 263-283. 
+
 Førland, T.E. (1996) _Drøft: lærebok i oppgaveskriving._ Oslo: Ad Notam Gyldendal.  
+
 Kloster, K. (2003) _Singelliv: i grenselandet mellom enslighet og parforhold_ \[hovedfagsoppgave\]. Universitetet i Bergen.  
+
 Munch, E. (1893) _Skrik_ \[maleri\]. Finnes ved Nasjonalmuseet, Oslo.  
+
 Strømsø, H.I., Grøttum, P. og Lycke, K.H. (2007) Content and processes in problem-based learning: a comparison of computer mediated and face-to-face communication. _Journal of computer assisted learning_ \[Internett\], 23 (3), s. 271-282. DOI:10.11/j.1365-2792.2007.00221.x
 
 For flere andre referansetyper se også [Harvardstil](/kildebruk-og-referanser/referansestiler/harvard/ "Harvard").

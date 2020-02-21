@@ -9,7 +9,9 @@ In order to write effectively, it is important to understand the different funct
 
 One way of distinguishing between these different functions is to put all your introductory material into dedicated chapters (a theory chapter, a chapter to present your findings etc.) and then put everything that can be classified as discussion into a separate discussion chapter. You may also choose to discuss as you go along: This is common practice in philosophical and theoretical dissertations. Whatever strategy you adopt, it is important to **indicate clearly** which parts of your text are descriptive in nature and which parts represent your interpretation, your arguments, other scholars’ arguments, and so on. This will help the reader to follow your reasoning, and help you to fulfil the research ideals of reflexivity and objectivity.
 
-**Tip:** Personal views and beliefs have no place in academic writing.
+::: tip Tip:
+Personal views and beliefs have no place in academic writing.
+:::
 
 ## Presentation
 
@@ -17,7 +19,9 @@ Descriptions and presentations should be as neutral and straightforward as possi
 
 Your text will be better organised if you begin a new section before starting a discussion - but this is a matter of style and no absolute rule. 
 
-**Tip!** Present the material with your own words, then consult the source to check the facts. 
+::: tip Tip!
+Present the material with your own words, then consult the source to check the facts. 
+:::
 
 ## Analysis
 
