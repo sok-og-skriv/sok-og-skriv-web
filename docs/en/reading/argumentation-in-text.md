@@ -49,7 +49,7 @@ What types of **qualifiers** are used by the authors when presenting the claim? 
 
 **Note!** A thorough critique of a text must build upon a thorough reading where you present your counterarguments in a balanced manner.
 
-## EXERCISE
+::: oppgave EXERCISE
 
 Gather the questions above and use them as a method to ask questions to the texts you are reading (the method is called [the Toulmin model on argumentation](http://folk.uib.no/st10938/toulmin-otherstext/argument.html)).  
 Ask:
@@ -62,6 +62,7 @@ Ask:
 6. How does the author **qualify** the arguments in the text?
 
 After in-depth searches to find information for your thesis, use the above argumentation model to analyse central texts. This will give you a more systematic view on how the authors builds their argumentation, whether the arguments are sufficient, and will also unveil weaknesses in the text.
+:::
 
 ## **Argumentative texts**
 

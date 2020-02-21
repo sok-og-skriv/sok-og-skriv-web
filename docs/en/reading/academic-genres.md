@@ -1,6 +1,7 @@
 ---
 title: "Academic genres"
 date: "2013-02-21"
+next: "../writing/"
 ---
 
 # Academic genres

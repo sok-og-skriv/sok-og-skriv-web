@@ -11,7 +11,7 @@ Som student drives du ofte fram av et "hvorfor?". Dette er også utgangpunktet f
 
 Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan være veldig klargjørende å sette ord på ideene dine. Hvorfor synes du at dette temaet er interessant? Hvilke problemstillinger ser du for deg? Hvordan kan problemstillingen(e) besvares? Hva ser du for deg at du vil komme fram til? Å presentere utkast for [medstudenter](?p=1216) er også en utmerket måte å komme i gang på.
 
-# Tenk og skriv
+## Tenk og skriv
 
 Det er viktigere å komme i gang, enn å ha full kontroll på produktet. Det finnes ulike skriveteknikker du kan bruke for å utvikle dine første ideer om et emne. Prøv for eksempel idémyldring, tankekart, tenketest og hurtigskriving som er beskrevet nedenfor. Når du begynner å skrive, vil du trolig oppleve at prosjektet blir mye klarere for deg.
 
@@ -33,7 +33,7 @@ Det er (minst) to strategier for å strukturere en tekst:
 
 En skriveprosess kan ha ulike former. Det er viktig å finne ut hvordan _du_ fungerer best. Pleier du å gå og "ruge" i lang tid, for så å skrive ut en mer eller mindre ferdig tekst rett før innleveringsfristen? Eller trenger du å komme i gang raskt, og deretter bruke tiden til å strukturere, skrive om og bygge ut utkastet ditt? Vær trygg på arbeidsmåten din!
 
-# Oppstartsteknikker
+## Oppstartsteknikker
 
 Nedenfor er noen ulike teknikker som kan brukes for å nærme seg en problemstilling og disposisjon for oppgaven.
 
@@ -48,7 +48,9 @@ Idémyldring er et godt redskap for å få oversikt over hva du vet om et tema o
 Ideer kan dukke opp når som helst – ha alltid penn og papir tilgjengelig!  
 Idémyldring er en privat tekst, som skal gi skrivelyst.
 
-**Tips!** Mangler du penn og papir, har du kanskje en mobil i hånden. Skriv ideen du fikk som en tekstmelding, eller les det inn på taleopptak.
+::: tips Tips!
+Mangler du penn og papir, har du kanskje en mobil i hånden. Skriv ideen du fikk som en tekstmelding, eller les det inn på taleopptak.
+:::
 
 ## Tankekart
 
@@ -58,9 +60,11 @@ Idémyldring er en privat tekst, som skal gi skrivelyst.
 - Skriv ned ideene slik de faller deg inn – vær spontan!
 - Se etter forbindelser og sammenhenger som kan markeres på kartet
 
-![Tankekart om grønn markedsføring](../images/norsk-tankekart-sma-bokstaver.png)
-
-_Tankekart om grønn markedsføring_
+<Figure
+  src="/images/norsk-tankekart-sma-bokstaver.png"
+  caption="Tankekart om grønn markedsføring"
+  type=""
+/>
 
 ::: tip Tips:
 - Bruk farger for å markere temaer og relasjoner, og for å framheve tanker
@@ -87,7 +91,7 @@ Hurtigskriving er en metode for å skrive en tenketekst; også her er målet å 
 - Etterpå leser du igjennom teksten din og strukturerer setningene
 - Skriv gjerne stikkord i margen og del teksten inn i mindre biter
 
-# Fra tema til problemstilling
+## Fra tema til problemstilling
 
 Det er flere måter å starte en skriveprosess på, men det kan være lurt å utarbeide en foreløpig problemstilling nokså tidlig. Noen er så heldige at de vet akkurat hva de vil undersøke før de begynner. De fleste må tenke, notere, gjøre litteratursøk og lese en del før de formulerer problemstillingen sin, og mange må justere den underveis.
 
@@ -145,12 +149,22 @@ Som regel er det nødvendig å spesifisere akkurat hva det er du vil undersøke 
 - Hvilken effekt har «miljømerking» (f.eks. Miljøfyrtårn, Svanemerket, EU Ecolabel) på kunders holdninger og atferd?
 :::
 
+## Her er lenken død i WP og det er vel bare å ta bort?
 
-[![Martin Roa Skramstad](../images/Martin-Roa-Skramstad-cropped-small.jpg)](/?p=4694)
+<Figure
+  src="/images/Martin-Roa-Skramstad-cropped-small.jpg"
+  caption="Martin Roa Skramstad"
+  type="right"
+/>
 
 Motivasjon fra engasjement (og vice versa)  
 Søk & Skriv har snakket med masterstudenten Martin Roa Skramstad om [det å utvikle problemstilling for masteroppgaven](/?p=4694).
 
-**Videre lesing**: Bean, J.C. (1996) _Engaging ideas: the professor’s guide to integrating writing, critical thinking, and active learning in the classroom_. San Francisco, California: Jossey-Bass.  
+---
+
+**Videre lesing**: 
+Bean, J.C. (1996) _Engaging ideas: the professor’s guide to integrating writing, critical thinking, and active learning in the classroom_. San Francisco, California: Jossey-Bass.  
+
 Christie, N. (1983) _Tolv råd om skriving._ Oslo: Universitetet i Oslo, Kvinneretten.  
+
 Dysthe, O. og Kjeldsen, J.E. (1999) _Skriveråd for studenter._  Læring ved universitetet, nr. 1/99. Bergen: Universitetet i Bergen.

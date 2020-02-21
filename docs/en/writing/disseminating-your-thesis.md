@@ -1,6 +1,7 @@
 ---
 title: "Disseminating your thesis"
 date: "2013-02-21"
+next: "../sources-and-referencing/"
 ---
 
 # Disseminating your thesis
@@ -103,8 +104,8 @@ Many university colleges and universities offer master’s students the opportun
 Some institutional archives in Norway:
 
 - [BORA – University of Bergen.](https://bora.uib.no/ "BORA University of Bergen (UIB)")
-- [BORA – Bergen University College](https://bora.hib.no/ "BORA Bergen University College (HiB)")
-- [BORA – Norwegian School of Economics](http://brage.bibsys.no/nhh "BORA Norwegian School of Economics (NHH)")
+- [Brage Western Norway University of Applied Sciences](https://hvlopen.brage.unit.no/)
+- [Brage Norwegian School of Economics](https://openaccess.nhh.no/ "NHH Brage")
 - [DUO – Digital publications at the University of Oslo](https://www.duo.uio.no/ "DUO")
 - [Munin – University of Tromsø](http://munin.uit.no/ "Munin")
 - [Information about the Brage archive](http://www.bibsys.no/norsk/produkter/brage/publiseringsarkiv.php "Brage")
@@ -122,12 +123,12 @@ Under this contract, the publisher has non-exclusive rights regarding the digita
 
 With regard to international journals, consult the [Sherpa/Romeo database](http://www.sherpa.ac.uk/romeo/ "Sherpa Romeo database"). This database contains information about most publishers’ and journals’ policies on self-archiving.
 
-Contact your institution’s library if you have questions about copyright, self-archiving and the dissemination of articles in different versions. For more information about Open Access publishing and self-archiving in Norway, e.g., about Norwegian publishers’ practices, see the Norwegian website [openaccess.no](http://www.ub.uit.no/wiki/openaccess/index.php/Hovedside "Openaccess.no").
+Contact your institution’s library if you have questions about copyright, self-archiving and the dissemination of articles in different versions. For more information about Open Access publishing and self-archiving in Norway, e.g., about Norwegian publishers’ practices, see the Norwegian website [openaccess.no](https://www.openaccess.no/ "Openaccess.no").
 
 Sources:
 
-[Dysthe, O., & Kjeldsen, J. E. (1999) _Skriveråd for studenter_ (No. 1/99). Bergen.](/referanser/#dysthekjeldsen1999)
+Dysthe, O., & Kjeldsen, J. E. (1999) _Skriveråd for studenter_ (No. 1/99). Bergen.
 
-[Vaage, S. (2001) Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar George Herbert Mead og John Dewey om læring. I O. Dysthe (Red.), _Dialog, samspel og læring_ (s. 129-150).](/referanser/#vaage)
+Vaage, S. (2001) Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar George Herbert Mead og John Dewey om læring. I O. Dysthe (Red.), _Dialog, samspel og læring_ (s. 129-150).
 
-['Learning Support Services. Skills for Learning. CD-rom version', 2004](/english/index.php?action=static&id=157).
+'Learning Support Services. Skills for Learning. CD-rom version', 2004

@@ -1,6 +1,7 @@
 ---
 title: "Formidling"
 date: "2012-06-28"
+next: "../kildebruk-og-referanser/"
 ---
 
 # Formidling
@@ -105,11 +106,11 @@ Mange høgskoler og universitet tilbyr muligheten for å egenarkivere elektronis
 Noen institusjonelle arkiv i Norge:
 
 - [BORA - Universitetet i Bergen](https://bora.uib.no/ "BORA UIB")
-- [Brage - Høgskulen på Vestlandet](https://brage.bibsys.no/xmlui/handle/11250/92930)
-- [Brage - Norges Handelshøyskole](https://brage.bibsys.no/xmlui/handle/11250/92962 "BORA NHH")
+- [Brage - Høgskulen på Vestlandet](https://hvlopen.brage.unit.no/)
+- [Brage - Norges Handelshøyskole](https://openaccess.nhh.no/ "NHH Brage")
 - [DUO - Digitale utgivelser ved Universitetet i Oslo](https://www.duo.uio.no/ "DUO")
 - [Munin - Universitetet i Tromsø](http://munin.uit.no/ "Munin")
-- [Oversikt over Brage-arkivene](https://brage.bibsys.no/xmlui/ "Brage")
+- [Oversikt over Brage-arkivene](https://www.unit.no/vitenarkiv-i-bragekonsortiet "Brage")
 - En liste over publiseringsarkiv i hele verden finnes på [OpenDoar](http://www.opendoar.org/countrylist.php "OpenDoar")
 
 Disse arkivene tilgjengeliggjør institusjonenes forskning åpent på Internett og gjør den gjenfinnbar via for eksempel Google Scholar. Dersom du ønsker å tilgjengeliggjøre din masteroppgave må du sjekke hvilke rutiner din institusjon har for innlevering. Ved noen institusjoner kan du velge å egenarkivere masteroppgaven ved innlevering til sensur, mens du ved andre institusjoner må sende inn oppgaven til arkivet selv etter sensur. Det er aldri for sent å egenarkivere, kontakt din institusjon dersom du vil tilgjengeliggjøre oppgaven i ettertid.
@@ -124,11 +125,13 @@ Har du skrevet en artikkel kan du også egenarkivere den, dersom avtalen din med
 
 For internasjonale tidsskrifter kan du sjekke [Sherpa/Romeo databasen](http://www.sherpa.ac.uk/romeo/ "Sherpa Romeo database") for forlagets holdning til egenarkivering. Denne databasen gir en oversikt over de fleste forlag og tidsskrift, og gir opplysninger om hvilken versjon av artikler forlaget/tidsskriftet godkjenner for egenarkivering.
 
-Hvis du har spørsmål om opphavsrett, egenarkivering og ulike versjoner av artikler, kontakt biblioteket for hjelp. For mer informasjon om open access publisering og egenarkivering i Norge, for eksempel norske forlags praksis, se det norske nettstedet [openaccess.no](http://www.ub.uit.no/wiki/openaccess/index.php/Hovedside "Openaccess.no").
+Hvis du har spørsmål om opphavsrett, egenarkivering og ulike versjoner av artikler, kontakt biblioteket for hjelp. For mer informasjon om open access publisering og egenarkivering i Norge, for eksempel norske forlags praksis, se det norske nettstedet [openaccess.no](https://www.openaccess.no/ "Openaccess.no").
 
 Mer informasjon om publisering finnes på [PhD on track.](http://www.phdontrack.net/share-and-publish/)
 
 **Videre lesing**:  
 Dysthe, O. og Kjeldsen, J.E. (1999) _Skriveråd for studenter._  Læring ved universitetet, nr. 1/99. Bergen: Universitetet i Bergen.  
-Learning Support Services (2004) _Skills for Learning_ \[CD-rom\]. Leeds: Metropolitan University Library.[  
-](?p=263)Vaage, S. (2001). Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar: George Herbert Mead og John Dewey om læring. I: Dysthe, O. red., _Dialog, samspel og læring._ Oslo: Abstrakt forlag, s. 129-150.
+
+Learning Support Services (2004) _Skills for Learning_ \[CD-rom\]. Leeds: Metropolitan University Library.
+
+Vaage, S. (2001). Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar: George Herbert Mead og John Dewey om læring. I: Dysthe, O. red., _Dialog, samspel og læring._ Oslo: Abstrakt forlag, s. 129-150.

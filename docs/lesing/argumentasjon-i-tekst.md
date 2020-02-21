@@ -13,9 +13,10 @@ date: "2012-12-07"
 
 Utsagnet som binder sammen synspunkt og argument gjør at vi skjønner hvorfor argumentet fungerer. Utsagnet er et argument for at synspunkt og argument henger sammen.
 
-EKSEMPEL  
+::: eksempel EKSEMPEL  
 "Det er din tur til å lage middag i dag. Jeg laget middag i går."  
 Motargumentasjon: "Det er du som lager middag denne uken. Jeg har eksamen neste uke. Det avtalte vi jo."
+:::
 
 Denne korte samtalen kan vi analysere. Vi kan si at synspunkt står mot synspunkt. Den ene har synspunktet: Du skal lage middag. Den andre har synspunktet: Nei, du skal lage middag. Problemstillingen er: Hvem skal lage middag?
 
@@ -50,7 +51,7 @@ Hva slags **styrkemarkør** fremføres synspunktet med? Styrkemarkører kan du s
 
 Argumentasjonen i en akademisk tekst er ofte kompleks. En tilnærmet fullstendig analyse av argumentasjonen kan fort bli svært omfattende. Det gjelder derfor å forenkle - i alle fall til å begynne med. Da kan du holde deg til noen få hovedspørsmål som du stiller til teksten, og så ser du hvor langt du kommer med det.
 
-## OPPGAVE
+::: oppgave OPPGAVE
 
 Spørsmålene over kan du samle til en spørremetode (vi kaller metoden [Toulmins argumentasjonsmodell](http://folk.uib.no/st10938/toulmin-andrestekst/argument.html)).  
 Spør:
@@ -63,6 +64,7 @@ Spør:
 6. Hvilken **styrkemarkør** mener forfatteren at argumentene har?
 
 Når du har utført grundige søk til oppgaven du skal skrive kan du bruke argumentajonsmodellen til å analysere argumentasjonen i sentrale tekster du leser. Dette vil gi deg en mer systematisk oversikt over hvordan forfatteren argumenterer, og om argumentene hun/han kommer med holder, eller om du ser svakheter i teksten.
+:::
 
 ## **Argumenterende tekster**
 

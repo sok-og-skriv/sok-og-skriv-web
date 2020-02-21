@@ -3,7 +3,11 @@ title: "Skriving"
 date: "2012-03-15"
 ---
 
-![soking](../images/illustrasjoner_skriving_500x450-alt1.png)
+<Figure
+  src="/images/illustrasjoner_skriving_500x450-alt1.png"
+  caption=""
+  type=""
+/>
 
 # Skriving
 

@@ -108,25 +108,26 @@ The following list shows references in Harvard style for book, journal, master t
 
 ![Oppgave](../images/oppgave-hode.gif)
 
-## Exercise
+::: oppgave Exercise
 
 In the link below there are examples of citations from an original text where the Harvard style is used. Is there something wrong with these examples?
 
 [Exercise](show.php?id=41 "Exercise")
+:::
 
 ## Collect references
 
 Start early, make adequate notes as you go and find a functional system for keeping track of your references.
 
-### ********************************Create a document for your references********************************
+### Create a document for your references
 
 If you expect to use only a few references, you can create a document, name it “reference list” and copy the references you want to keep in the document. Keeping the references in one place helps you keep them in order even if you do not use all references in your paper. It is smart to include the keywords used and the search history of earlier searches in the same document.
 
-### ****************Export references from a database****************
+### Export references from a database
 
 Instead of copying, you can export references from the database you searched in. Most databases, such as BIBSYS, the Library Portal and ISI Web of Science have an export function; using it to transfer references to your list, you will save time and avoid making mistakes
 
-### ********Use a  reference management tool********
+### Use a  reference management tool
 
 Using a reference management tool can  generate reference lists in a more effective way. A reference management tool like EndNote is useful for keeping control of your references. If you use Word in combination with EndNote or ReferenceManager, a reference list will be created automatically as you cite ("cite while you write"), and switching between reference styles will be easier.  
 
@@ -139,7 +140,7 @@ Notes and appendices are used in the following way:
 - You can choose if you want to use footnotes at the bottom of the page, or notes at the end of the chapter or paper. If you choose footnotes, it is usual to use a smaller font to distinguish the notes from the main text.
 - Do not mix up literature references and footnotes. Exactly how notes are given depends on the reference style used. For example, it is not appropriate to use numbered footnotes if a numbering method is used to document references in the text.
 
-### ****Appendices****
+### Appendices
 
 Typical appendices are lists of tables and figures that are included in the paper, questionnaires, observation sheets, interview guides and the like. Appendices should be numbered and placed after the reference list.
 
@@ -153,5 +154,3 @@ Identity is central in people. And ethnic identity is a fundamental human aspect
 We can again quote Øyvind Østerud: 'It does not help to moralize about this, or to want a universal humanity . . . The first commandment is to understand why feelings of belonging to an ethnic group continues to be so important' (in the same article as mentioned above).
 
 I think we are wise to take this seriously.
-
-#####

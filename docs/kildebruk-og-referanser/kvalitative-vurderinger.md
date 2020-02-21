@@ -120,11 +120,20 @@ Et tidsskrifts impact factor er et mål for hvor hyppig en gjennomsnittsartikkel
 Impact factor fungerer dermed som et kvantitativt verktøy til å rangere tidsskrift. Faktoren er basert på en formel utviklet av Institute for Scientific Information (ISI) nå Thomson Reuters, og utgis årlig i _Journal Citation Report_.
 
 Slik beregnes ’impact factor’ for 2004 for tidsskriftet GLOBAL BIOGEOCHEMICAL CYCLES:  
-![impact-formula-no](../images/impact-formula-no.png)
+
+<Figure
+  src="/images/impact-formula-no.png"
+  caption=""
+  type=""
+/>
 
 I følge datagrunnlaget i ISI Journal Citation Report blir dette:
 
-![impact-calculation](../images/impact-calculation.png)
+<Figure
+  src="/images/impact-calculation.png"
+  caption=""
+  type=""
+/>
 
 Tidsskriftets impact factor i 2004 er altså lik 2.864.
 

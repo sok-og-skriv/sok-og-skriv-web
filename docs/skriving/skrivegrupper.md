@@ -40,9 +40,11 @@ Avtal å møtes jevnlig og møt alltid forberedt. Som medlem av en skrivegruppe 
 
 ## Verktøy for gruppearbeidet
 
-[![Studentgruppe6](../images/Studentgruppe6-300x226.jpg)](/skriving/skriving-er-en-prosess/skrivegrupper/studentgruppe6/) 
-
-_Skrivegrupper, Ill.foto: UiB_
+<Figure
+  src="/images/Studentgruppe6.jpg"
+  caption="Skrivegrupper, Ill.foto: UiB"
+  type="right"
+/>
 
 Om du i deltar i et gruppearbeid der dere skal levere en felles tekst finnes det flere [verktøy for samskriving](http://en.wikipedia.org/wiki/Collaborative_real-time_editor). Det  er ikke alltid like hensiktsmessig å bruke Word og e-post eller et læringsstøttesystem. Et verktøy som dere kan bruke i stedet er Docs & Spreadsheets i Google Drive. Dette er en gratis nettbasert tekstredigerer med lav brukerterskel.
 
@@ -62,4 +64,5 @@ Noen blogger har en personlig stil som grenser mot dagbokform, andre er ment som
 
 **Videre lesing**:  
 Dysthe, O. og Lied, L.I. (1999) _Skrivegrupper._ Læring ved universitetet, nr.  2/99. Bergen: Universitetet i Bergen.  
+
 Vaage S. (2001). Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar: George Herbert Mead og John Dewey om læring. I: Dysthe, O. red. _Dialog, samspel og læring._ Oslo, Abstrakt forlag, s. 129-150.

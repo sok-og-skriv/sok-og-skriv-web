@@ -17,13 +17,14 @@ Mange uerfarne skribenter tror ofte at de ikke kan begynne skrive før de har sk
 
 * [Skriv!](?p=233)
 * Snakk med medstudenter om oppgaven du skal skrive
-* Lag [skrivegrupper](?p=1216) for å holde skriveprosessen i gang, både din egen og andres.
+* Lag [skrivegrupper](/skriving/skrivegrupper) for å holde skriveprosessen i gang, både din egen og andres.
     
-[![Snakk_ny](../images/Snakk_ny-300x240.jpg)](/skriving/skriving-er-en-prosess/snakk_ny/) 
+[Snakk_ny](../images/Snakk_ny-300x240.jpg)
 
 _Snakk med andre om oppgaven din, ill.foto UiB._
     
 
 **Videre lesing**:  
 Dysthe, O., Hertzberg, F. og Hoel, T.L. (2010) _Skrive for å lære: skriving i høyere utdanning._ 2\. utg. Oslo: Abstrakt forlag.  
+
 Rienecker, L. og Stray Jørgensen, P. (2012) _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg : Samfundslitteratur.[](?p=263)

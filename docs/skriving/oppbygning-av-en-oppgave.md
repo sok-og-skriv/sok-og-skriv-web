@@ -53,26 +53,33 @@ Hvis faget tillater at du trekker inn egne interesser og erfaringer (som praktik
 Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med hovedteksten!
 :::
 
-::: eksempel EKSEMPEL: 
+EKSEMPEL: 
 Forskjellige måter å åpne en oppgave eller artikkel. Som inngang til en lengre tekst kan du blant annet bruke oppsummering, historisering, henvisning til en kjent hendelse, aktualisering og leserhenvendelse.
 
-**Oppsummering:** «Forsøk med spesielt tilrettelagt undervisning i full klasse har vist at …». «Flere studier av makt i organisasjoner har fokusert på … ». I disse konstruerte eksemplene brukes oppsummeringen som bakgrunn.
+::: eksempel Oppsummering
+«Forsøk med spesielt tilrettelagt undervisning i full klasse har vist at …». «Flere studier av makt i organisasjoner har fokusert på … ». I disse konstruerte eksemplene brukes oppsummeringen som bakgrunn.
+:::
 
-**Historikk:** «Examen philosophicum har ein lang tradisjon i norsk universitetsliv, frå etableringa av Det Kongelige Frederiks \[universitet\] og fram til i dag. Ordninga har overlevd mange reformer, og framstår i dag som obligatorisk opplegg \[ … \] Det at ordninga har vist seg å vere så levedyktig, og så omstillingsdyktig, heng truleg saman med …» (Skirbekk, 2009, s.14) . Historien brukes her for å bygge opp et argument.
+::: eksempel Historikk
+«Examen philosophicum har ein lang tradisjon i norsk universitetsliv, frå etableringa av Det Kongelige Frederiks \[universitet\] og fram til i dag. Ordninga har overlevd mange reformer, og framstår i dag som obligatorisk opplegg \[ … \] Det at ordninga har vist seg å vere så levedyktig, og så omstillingsdyktig, heng truleg saman med …» (Skirbekk, 2009, s.14) . Historien brukes her for å bygge opp et argument.
+:::
 
-**Kjent hendelse:** «Drapet på Benjamin Hermansen viste hvor viktig det er å arbeide forebyggende mot rasisme i marginaliserte ungdomsmiljøer … ».  Hendelsen brukes for å understøtte en påstand.
+::: eksempel Kjent hendelse
+«Drapet på Benjamin Hermansen viste hvor viktig det er å arbeide forebyggende mot rasisme i marginaliserte ungdomsmiljøer … ».  Hendelsen brukes for å understøtte en påstand.
+:::
 
-**Aktualisering av tema:** "I forbindelse med det norske TV-programmet Hjernevask har forholdet mellom arv og miljø igjen fått stor oppmerksomhet i offentligheten. Dette temaet er ikke nytt, men har en lang historie i psykologifaget såvel som i skjønnlitteraturen". Klassisk diskusjon aktualiseres ved hjelp av en nyere hendelse.
+::: eksempel Aktualisering av tema
+"I forbindelse med det norske TV-programmet Hjernevask har forholdet mellom arv og miljø igjen fått stor oppmerksomhet i offentligheten. Dette temaet er ikke nytt, men har en lang historie i psykologifaget såvel som i skjønnlitteraturen". Klassisk diskusjon aktualiseres ved hjelp av en nyere hendelse.
+:::
 
-**Leserhenvendelse:** «Når det blir annonsert et foredrag om lyrikk og samfunn, vil mange av dere gripes av et ubehag» (Adorno, 1991, s.394). Bruken  av personlig pronomen (du/dere) vekker oppmerksomhet, og oppfordrer leseren til å ta stilling.  
-
----
+::: eksempel Leserhenvendelse
+«Når det blir annonsert et foredrag om lyrikk og samfunn, vil mange av dere gripes av et ubehag» (Adorno, 1991, s.394). Bruken  av personlig pronomen (du/dere) vekker oppmerksomhet, og oppfordrer leseren til å ta stilling.  
+:::
 
 Referanser til eksemplene:  
 Skirbekk, G. (2009) Ex. phil. I: Bostad, I. red. _Kunnskap og dannelse foran et nytt århundre_, Innstilling fra dannelsesutvalget for høyere utdanning. Oslo: Dannelsesutvalget ved Universitetet i Oslo.
 
 Adorno, Th. W.,(1991) Tale om lyrikk og samfunn. I: Kittang, A., Melberg, A. og Skei, H.H. red. _Moderne litteraturteori: en antologi._ Oslo: Universitetsforlaget, s. 394-411.
-:::
 
 ## Øvelse
 
@@ -94,7 +101,7 @@ Problemstillingen leder deg framover i oppgaveskrivingen. Dersom du arbeider i e
 
 Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling - og et forskningsspørsmål - noe som kan _besvares_. Hvis den ikke kan besvares, er det snakk om et tema eller et felt.
 
-**Tips: **
+::: tip Tips:
 
 - Bruk spørreord: hvordan, hvorfor, hvilke (faktorer, forhold) osv.
 - Noen spørsmål er lukkende og gir konkrete/avgrensete svar. Andre egner seg til drøfting av ulike tolkninger etc.  
@@ -103,6 +110,7 @@ Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en proble
 - Velg gjerne spørreord som åpner opp problemstillingen slik at du kan belyse temaet, for eksempel "På hvilken måte … ?"  
     "Hvordan kan vi forstå \[et fenomen\]?"
 - Prøv å sammenfatte problemstillingen i ett hovedspørsmål og eventuelle underspørsmål (to eller tre er som regel tilstrekkelig).
+:::
 
 ### Disposisjon
 

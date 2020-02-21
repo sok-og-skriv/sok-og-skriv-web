@@ -217,10 +217,12 @@ figcaption {
     text-align: center
     padding: 1rem
     *
-      font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300))) !important
+      font-size: calc(10px + (18 - 10) * ((100vw - 300px) / (1600 - 300))) !important
       line-height: calc(1.2em + (1.4 - 1.2) * ((100vw - 300px)/(1600 - 300))) !important
     &:not(:last-child)
       margin-inline-end: 10px
+    @media screen and (max-width: $MQNarrow)
+      padding: 0.5rem
     p
       margin: 0
     ul

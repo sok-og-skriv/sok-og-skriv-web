@@ -7,7 +7,11 @@ date: "2012-06-28"
 
 I denne delen finner du tips om hvordan du søker etter informasjon og hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving.
 
-![soking](../images/illustrasjoner_sok_500x450.png)
+<Figure
+  src="/images/illustrasjoner_sok_500x450.png"
+  caption=""
+  type="right"
+/>
 
 Faglig informasjonssøking er en prosess som krever tid og planlegging. Den nye informasjonen sammenholdes med kunnskapen vi har fra før. Dette utvider vår kunnskap og bidrar til å skape ny mening og forståelse. Behovet for informasjon kan utvikle seg, fra en vag forestilling om noe du trenger kunnskap om, til det du trenger for å besvare en spesifikk problemstilling.
 

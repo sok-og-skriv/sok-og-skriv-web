@@ -23,7 +23,7 @@ Search and write has four main parts:
 
 The different phases of thesis work mutually affect each other and to some extent overlap. The site has been designed to allow easy navigation between the different pages.
 
-Search & Write is a collaboration between the libraries at Bergen University College, Norwegian School of Economics (NHH), University of Bergen and University of Oslo, and Academic Writing at the Department of Philosophy, University of Bergen.
+Search & Write is a collaboration between the libraries at Western Norway University of Applied Sciences, Norwegian School of Economics (NHH), University of Bergen and University of Oslo, and Academic Writing at the Department of Philosophy, University of Bergen.
 
 Thanks go to the National Library of Norway for funding the project.
 

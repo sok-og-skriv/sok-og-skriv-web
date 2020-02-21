@@ -7,7 +7,11 @@ date: "2012-03-15"
 
 All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag. Mulige kilder kan være bøker, rapporter, tidsskriftartikler, bilder, kart, musikk, intervju, avhandlinger, aviser og nettdokumenter.
 
-![soking](../images/illustrasjoner_kildehenvisning_500x450.png)
+<Figure
+  src="/images/illustrasjoner_kildehenvisning_500x450.png"
+  caption=""
+  type="right"
+/>
 
 Bruk problemstillingen til å orientere deg i aktuelle kilder. Når du har søkt og funnet relevante kilder for skrivearbeidet ditt, må du sikre deg at kildene har god faglig kvalitet.
 
