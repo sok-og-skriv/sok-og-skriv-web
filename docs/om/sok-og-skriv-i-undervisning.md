@@ -166,9 +166,11 @@ Bruker studenter og andre CC materiale, pass på at en også her navngir opphavs
 
 **Oppgave om bruk av bilder i oppgaver**
 
-![IMG_0374(c)sandrajecmenica-web](../images/IMG_0374csandrajecmenica-web-200x300.jpg)
-
-_Naturhistorisk museum. Foto: Sandra Jecmenica © UiB_
+<Figure
+  src="/images/csandrajecmenica-uib-museum.jpg"
+  caption="Naturhistorisk museum. Foto: Sandra Jecmenica © UiB"
+  type=""
+/>
 
 - Hvordan krediterer du bildet over i en tekst? Vurder bildet til forskjellige formål (for eksempel akademisk oppgave, utstilling, katalog…)
 - Hvordan fører du det opp i en referanseliste?
@@ -253,7 +255,7 @@ Det å holde et skrivekurs krever en del erfaring med emner som tekstanalyse, ve
 - [Gjenkjennelse av referansetype](/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_[r](/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_ _–_ interaktiv øvelse i identifisering av ulike referansetyper
 - [Refleksjon rundt fordreining av meningsinnhold](/kildebruk-og-referanser/hvordan-referere/#Fordreining_av_meningsinnhold)– refleksjon omkring opphavsrett
 
-**Videre lesing:  
-**Carroll, J. og Zetterling, C.-M. (2009) _Guiding students away from plagiarism_ \[Internett\]. Stockholm: KTH Learning Lab. Tilgjengelig fra: <[http://people.kth.se/~ambe/KTH/Guidingstudents.pdf](http://people.kth.se/~ambe/KTH/Guidingstudents.pdf)\> \[Lest 5. september 2015\].
+**Videre lesing:**  
+Carroll, J. og Zetterling, C.-M. (2009) _Guiding students away from plagiarism_ \[Internett\]. Stockholm: KTH Learning Lab. Tilgjengelig fra: <[http://people.kth.se/~ambe/KTH/Guidingstudents.pdf](http://people.kth.se/~ambe/KTH/Guidingstudents.pdf)\> \[Lest 5. september 2015\].
 
 Kavli, S., Mitternacht, S., Seland, E.H., og Solheim, B. (2014). Søk & Skriv: hjelp til skriving og etisk kjeldebruk i høgare utdanning. _Bibliotheca Nova_, nr. 2, s. 22-33.
