@@ -81,7 +81,7 @@ footer: Search and write ...
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.uio.no/en" alt="University of Oslo logo" >
+    <a href="https://www.uio.no/english" alt="University of Oslo logo" >
       <img src="/partners/uio-logo-en.png" />
     </a>
     <div class="title">
