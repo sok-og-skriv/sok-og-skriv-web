@@ -308,6 +308,9 @@ module.exports = {
     }
   },
   markdown: {
+    toc: {
+      includeLevel: [2]
+    },
     plugins: [
     ],
     extendMarkdown: md => {

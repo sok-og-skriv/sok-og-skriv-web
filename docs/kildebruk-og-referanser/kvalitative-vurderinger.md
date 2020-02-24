@@ -8,13 +8,7 @@ alias: "/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/"
 
 Kildevurdering vil si at man vurderer kilden ut fra type, ekthet, troverdighet og autoritet. Spørsmål om kildens kvalitet kan avgjøres på grunnlag av spørsmål som hvem den er produsert for, hvordan kilden refererer til andre kilder, hvem som står bak og når den ble publisert. Vurder kilden du har foran deg ut fra:
 
-- [Forfatter](#Forfatter)
-- [Tekstens kilder](#Tekstens)
-- [Målgruppe og sjanger](#Malgruppe)
-- [Utgiver](#Utgiver)
-- [Publiseringstidspunkt](#Publiseringstidspunkt)
-- [Fagfellevurdering](#Fagfellevurdering)
-- [Impact factor](#Impact) (gjennomslagskraft)
+[[toc]]
 
 Ut fra vurderingene dine tar du stilling til om kilden er nyttig og god for arbeidet du skal i gang med. På hvilken måte skal du bruke kilden, hvordan og hvorfor skal du ta kilden i bruk? Du må også [vurdere kildens relevans.](?p=253)
 
@@ -121,21 +115,9 @@ Impact factor fungerer dermed som et kvantitativt verktøy til å rangere tidssk
 
 Slik beregnes ’impact factor’ for 2004 for tidsskriftet GLOBAL BIOGEOCHEMICAL CYCLES:  
 
-<Figure
-  src="/images/impact-formula-no.png"
-  caption=""
-  type=""
-/>
-
 $$\text{Antall siteringer i 2004 til artikler fra 2003 + Antall siteringer i 2004 til artikler fra 2002} \over \text{Antall artikler publisert i 2003 + Antall artikler publisert i 2002}$$
 
 I følge datagrunnlaget i ISI Journal Citation Report blir dette:
-
-<Figure
-  src="/images/impact-calculation.png"
-  caption=""
-  type=""
-/>
 
 $${288+468 \over 121+143}={765 \over 264}=2.864$$
 

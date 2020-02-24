@@ -7,13 +7,7 @@ date: "2013-02-22"
 
 Source evaluation involves evaluating a source based on its type, authenticity, credibility and authority. The quality of a source may be judged by questions like who it is written for, how it refers to other sources, who wrote it and when it was published. Evaluate the source you have in front of you based on:
 
-- [Author](#author)
-- [The sources of the text](#sources)
-- [Audience and genre](#audience-and-genre)
-- [Publisher](#publisher)
-- [Publication date](#publication-date)
-- [Peer review](#peer-review)
-- [Impact factor](#impact-factor)
+[[toc]]
 
 Form a view on the basis of your assessment as to whether the source is useful for your project. In what way will you use the source? How and why do you need to use it? [Assessing relevance](/en/sources-and-references/source-evaluation/assessing-relevance/ "Assessing relevance").
 
@@ -125,24 +119,11 @@ Accordingly a journal’s impact factor is a quantitative ranking tool. The fact
 
 The impact factor for 2004 for the journal GLOBAL BIOGEOCHEMICAL CYCLES is calculated as follows:
 
-<Figure
-  src="/images/impact-formula1.png"
-  caption=""
-  type=""
-/>
-
 $$\text{Number of citations in 2004 to articles from 2003 + Number of citations in 2004 to articles from 2002} \over \text{Number of articles published in 2003 + Number of articles published in 2002}$$
 
 If we insert data from ISI Journal Citation Reports into this formula we get:
 
-<Figure
-  src="/images/impact-calculation.png"
-  caption=""
-  type=""
-/>
-
 $${288+468 \over 121+143}={765 \over 264}=2.864$$
-
 
 The journal’s impact factor for 2004 is thus 2.864. In other words, articles in this journal were cited on average two to three times during 2004. In practice, however, some articles will have been cited far more often, while others may not have been cited at all.
 
