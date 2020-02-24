@@ -16,7 +16,7 @@ Les mer om [siteringer](/kildebruk-og-referanser/hvordan-referere/#sitater) og
 
 ## Referanselisten
 
-- - Referansene ordnes alfabetisk etter førsteforfatters etternavn.
+- Referansene ordnes alfabetisk etter førsteforfatters etternavn.
     - Har en forfatter skrevet flere verk, ordnes de etter publikasjonsår (eldste først).
     - Har en forfatter skrevet flere verk fra samme år brukes a, b, c, etter årstallet for å skille arbeidene.
     - Tittel for enkeltstående verk _kursiveres,_ mens titler for tekster som inngår i et større hele (kapitler i bøker, artikler i tidsskrift) står i vanlig skrift.
@@ -558,10 +558,10 @@ Eller:
 
 ### Nettsider/elektroniske dokumenter
 
-- - - Nettsider med forfatter refereres til med forfatternavn og årstall.
-        - Ved nettsider uten forfatter, hvor artikkelen er en del av et større nettsted, oppgis navnet til nettstedet/organisasjonen som forfatter.
-        - Dersom nettsiden ikke har oppgitt forfatter eller ansvarlig organisasjon, skal teksthenvisningen oppgi noen ord av tittelen på siden for å vise leseren hvor den kan gjenfinnes i referanselisten.
-        - Dersom nettadressen til et dokument er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres.
-        - Når man omtaler et helt nettsted, og ikke et spesifikt dokument på nettsiden, oppgis hele adressen til siden i teksten, men man trenger ikka ta med denne i referanselisten:
+- Nettsider med forfatter refereres til med forfatternavn og årstall.
+- Ved nettsider uten forfatter, hvor artikkelen er en del av et større nettsted, oppgis navnet til nettstedet/organisasjonen som forfatter.
+- Dersom nettsiden ikke har oppgitt forfatter eller ansvarlig organisasjon, skal teksthenvisningen oppgi noen ord av tittelen på siden for å vise leseren hvor den kan gjenfinnes i referanselisten.
+- Dersom nettadressen til et dokument er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres.
+- Når man omtaler et helt nettsted, og ikke et spesifikt dokument på nettsiden, oppgis hele adressen til siden i teksten, men man trenger ikka ta med denne i referanselisten:
 
 > _Arbeidstilsynet er en nettside som inneholder denne type informasjon ([http://www.arbeidstilsynet.no/](http://www.arbeidstilsynet.no/)).)._

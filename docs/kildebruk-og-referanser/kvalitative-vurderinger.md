@@ -37,7 +37,7 @@ Kilden bør vurderes i lys av hvem den er skrevet for. All tekst er skrevet med 
 
 ### Lærebok
 
-En lærebok er en type tekst  skrevet for studenter som skal innlemmes i en faglig diskurs og et nytt fag. Læreboka refererer teorier og faghistorikk, der målet er å inkludere studenter i et faglig akademisk fellesskap. En læreboktekst tar ikke stilling til hva som er ”det viktigste” i faget, men de teoriene forfatteren legger mest vekt på er ofte de som ligger ham selv nærmest.
+En lærebok er en type tekst skrevet for studenter som skal innlemmes i en faglig diskurs og et nytt fag. Læreboka refererer teorier og faghistorikk, der målet er å inkludere studenter i et faglig akademisk fellesskap. En læreboktekst tar ikke stilling til hva som er ”det viktigste” i faget, men de teoriene forfatteren legger mest vekt på er ofte de som ligger ham selv nærmest.
 
 ### Avhandling
 

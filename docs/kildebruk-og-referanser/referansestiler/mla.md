@@ -12,15 +12,10 @@ Finn ut om hvordan du siterer og henviser i teksten, lager en referanseliste�
 ## Referanselisten
 
 - Referanselisten skal ordnes alfabetisk på forfatternes etternavn
-    
 - Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren
-    
 - Har en forfatter skrevet flere verk skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
-    
 - Navnet til førsteforfatteren skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skal skrives Fornavn Etternavn.
-    
 - Dersom en referanse går over flere linjer skal alle linjene ha innrykk unntatt den første.
-    
 
 ## Referansetyper
 

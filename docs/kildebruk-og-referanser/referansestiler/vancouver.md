@@ -15,9 +15,7 @@ Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_
 
 - Referanselisten ordnes numerisk.
 - Skriv de første seks forfatterne etterfulgt av ”et al.” hvis det er flere enn seks forfattere.
-    
 - Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i [PubMed Journals database](http://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
-    
 
 ## Referansetyper
 
@@ -188,14 +186,9 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 ## Henvisninger i teksten
 
 - I teksten oppgis kun nummeret til referansen. For bøker eller lengre dokumenter anbefales det å også oppgi sidetall.
-    
-- Referansene nummereres fortløpende i den rekkefølgen de forekommer i  
-    teksten.
-    
+- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
 - Hvis du refererer til samme dokument flere ganger, skal referansen hele tiden ha samme nummer.
-    
 - Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i PubMed Journals database: [http://www.ncbi.nlm.nih.gov/sites/entrez?db=journals](http://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
-    
 
 ### Sidetall
 

@@ -15,7 +15,6 @@ Følgende stiler er brukt innenfor de akademiske miljøene.
 - **Chicago 16 A** – fotnotestil vanlig innenfor humaniora
 - **Chicago 17 B** – forfatter-årstallstil, generell stil brukt innenfor humaniora og samfunnsfag.
 - **Harvard** - forfatter-årstallstil, generell stil brukt innenfor mange fagområder (vi bruker Harvard i eksemplene du finner i Søk & Skriv).
-    
 - **Modern Language Association** – forfatter-sidetallstil, vanlig innenfor språkfagene
 - **Vancouver** – nummerstil, vanlig innenfor medisin, helsefag og naturvitenskap
 - **IEEE** (Institute of Electrical and Electronics Engineers) – ingeniørfag.

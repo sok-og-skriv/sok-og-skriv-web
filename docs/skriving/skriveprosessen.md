@@ -15,14 +15,9 @@ Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord p�
 
 Mange uerfarne skribenter tror ofte at de ikke kan begynne skrive før de har skaffet seg fullstendig klarhet og oversikt. De tror at gode tekster oppstår ved at man plasserer perfekte setninger etter hverandre. Dette betyr at det tar altfor lang tid å komme i gang. I virkeligheten må de aller fleste skrive teksten sin om igjen - opptil flere ganger. Å skrive godt, er ofte å skrive om.
 
-* [Skriv!](?p=233)
+* [Skriv!](/skriving/kom-i-gang-a-skrive)
 * Snakk med medstudenter om oppgaven du skal skrive
 * Lag [skrivegrupper](/skriving/skrivegrupper) for å holde skriveprosessen i gang, både din egen og andres.
-    
-[Snakk_ny](../images/Snakk_ny-300x240.jpg)
-
-_Snakk med andre om oppgaven din, ill.foto UiB._
-    
 
 **Videre lesing**:  
 Dysthe, O., Hertzberg, F. og Hoel, T.L. (2010) _Skrive for å lære: skriving i høyere utdanning._ 2\. utg. Oslo: Abstrakt forlag.  
