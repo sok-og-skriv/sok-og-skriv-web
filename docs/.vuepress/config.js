@@ -132,7 +132,15 @@ module.exports = {
                 'referansestiler/vancouver',
               ]
             }, */
-            'kildevurdering'
+            
+            {
+              title: 'Kildevurdering',
+              children: [
+                'kildevurdering',
+                'kvalitative-vurderinger',
+                'vurdering-av-relevans'
+              ]
+            }
           ],
           '/referansestiler/apa/': [
             '',
@@ -376,19 +384,30 @@ module.exports = {
         after: '</div>',
       },
     ],
-    ['@vuepress/pwa', {
-      serviceWorker: true,
-      updatePopup: {
-        '/': {
-          message: "Nytt innhold er tilgjenglig.",
-          buttonText: "Last inn på nytt"
-        },
-        '/en/': {
-          message: "New content is available.",
-          buttonText: "Refresh"
+    [
+      '@vuepress/pwa', {
+        serviceWorker: true,
+        updatePopup: {
+          '/': {
+            message: "Nytt innhold er tilgjenglig.",
+            buttonText: "Last inn på nytt"
+          },
+          '/en/': {
+            message: "New content is available.",
+            buttonText: "Refresh"
+          }
         }
       }
-    }]
+    ],
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
+    ],
   ],
   head: [
     /* ['link', { rel: 'icon', href: `/sokogskriv2013.png` }], */

@@ -127,6 +127,8 @@ Slik beregnes ’impact factor’ for 2004 for tidsskriftet GLOBAL BIOGEOCHEMICA
   type=""
 />
 
+$$\text{Antall siteringer i 2004 til artikler fra 2003 + Antall siteringer i 2004 til artikler fra 2002} \over \text{Antall artikler publisert i 2003 + Antall artikler publisert i 2002}$$
+
 I følge datagrunnlaget i ISI Journal Citation Report blir dette:
 
 <Figure
@@ -134,6 +136,8 @@ I følge datagrunnlaget i ISI Journal Citation Report blir dette:
   caption=""
   type=""
 />
+
+$${288+468 \over 121+143}={765 \over 264}=2.864$$
 
 Tidsskriftets impact factor i 2004 er altså lik 2.864.
 

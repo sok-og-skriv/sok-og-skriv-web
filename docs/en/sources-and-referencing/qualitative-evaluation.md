@@ -131,6 +131,8 @@ The impact factor for 2004 for the journal GLOBAL BIOGEOCHEMICAL CYCLES is calcu
   type=""
 />
 
+$$\text{Number of citations in 2004 to articles from 2003 + Number of citations in 2004 to articles from 2002} \over \text{Number of articles published in 2003 + Number of articles published in 2002}$$
+
 If we insert data from ISI Journal Citation Reports into this formula we get:
 
 <Figure
@@ -138,6 +140,9 @@ If we insert data from ISI Journal Citation Reports into this formula we get:
   caption=""
   type=""
 />
+
+$${288+468 \over 121+143}={765 \over 264}=2.864$$
+
 
 The journal’s impact factor for 2004 is thus 2.864. In other words, articles in this journal were cited on average two to three times during 2004. In practice, however, some articles will have been cited far more often, while others may not have been cited at all.
 
