@@ -47,6 +47,7 @@
     "vue-toasted": "^1.1.27",
     "vuepress-plugin-alias": "^1.0.0-beta",
     "vuepress-plugin-export": "^0.2.0",
+    "vuepress-plugin-glossary": "^1.0.2",
     "vuepress-plugin-sitemap": "^2.3.1"
   }
 }

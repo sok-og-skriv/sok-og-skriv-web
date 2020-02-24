@@ -329,6 +329,7 @@ module.exports = {
   },
   plugins: [
     'vuepress-plugin-export',
+    'vuepress-plugin-glossary',
     /* 'alias', */
     ['@vuepress/back-to-top', true],
     [
