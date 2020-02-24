@@ -16,7 +16,7 @@ Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-
 Med unntak for enkelte offentlige dokumenter, består en referanse i APA 6th grovt sett av fire deler i fast rekkefølge: Opphavspersoner, publiseringsdato, dokumentets tittel og publikasjonsinformasjon. Disse gir svar på spørsmålene om _hvem_ som står bak kilden, _når_ den er publisert, _hva_ den heter og _hvor_ den kan finnes.
 
 <Figure
-  src="/images/APA-ref.png"
+  src="/images/apa-ref.png"
   caption=""
   type=""
 />

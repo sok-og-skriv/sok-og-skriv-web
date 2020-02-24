@@ -166,7 +166,7 @@ Bruker studenter og andre CC materiale, pass på at en også her navngir opphavs
 
 **Oppgave om bruk av bilder i oppgaver**
 
-[![IMG_0374(c)sandrajecmenica-web](../images/IMG_0374csandrajecmenica-web-200x300.jpg)](/wp-content/uploads/2013/09/IMG_0374csandrajecmenica-web.jpg) 
+![IMG_0374(c)sandrajecmenica-web](../images/IMG_0374csandrajecmenica-web-200x300.jpg)
 
 _Naturhistorisk museum. Foto: Sandra Jecmenica © UiB_
 

@@ -1,6 +1,7 @@
 ---
 title: "Kildebruk og referanser"
 date: "2012-03-15"
+prev: "../skriving/formidling"
 ---
 
 # Kildebruk og referanser

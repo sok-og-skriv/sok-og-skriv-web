@@ -30,7 +30,7 @@ When it is your turn to give feedback, make sure that you:
 **Good feedback is specific, constructive and friendly.**
 
 <Figure
-  src="/images/Studygroups-300x226.jpg"
+  src="/images/studygroups-300x226.jpg"
   caption="Writing groups. Photo, UiB."
   type="right"
 />

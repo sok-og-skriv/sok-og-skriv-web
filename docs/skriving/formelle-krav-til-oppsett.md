@@ -26,7 +26,7 @@ Bruk av maler (eng. _templates_) i Word anbefales for å spare arbeid. Malene ha
 Når du har valgt en mal, er det viktig å bruke denne til all formatering av overskrifter, innrykk, sitater, fotnoter, figurer og så videre. Det betyr at dersom du vil gjøre endringer i for eksempel skriftstørrelse, må du endre selve malen. Marker området med den nye formateringen, og høyreklikk nivået du vil endre (normal, overskrifter mv) i Word-menyen:
 
 <Figure
-  src="/images/Maler.png"
+  src="/images/maler.png"
   caption=""
   type=""
 />
@@ -41,7 +41,7 @@ Når du har valgt en mal, er det viktig å bruke denne til all formatering av ov
 Når du arbeider med oppgaven i malen, vil innholdsfortegnelsen oppdateres med riktige sidetall, overskrifter, punktlister, figurer mv. Høyreklikk på innholdsfortegnelsen for å oppdatere, eller bruk meny. Se også [Microsofts hjelpesider om redigering av innholdsfortegnelse](https://support.office.com/en-us/article/format-or-customize-a-table-of-contents-9d85eb9c-0b55-4795-8abb-a49885b3a58d).
 
 <Figure
-  src="/images/Innholdsfortegnelse.png"
+  src="/images/innholdsfortegnelse.png"
   caption="Eksempel på innholdsfortegnelse"
   type=""
 />

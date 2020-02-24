@@ -12,7 +12,7 @@ The writing process consists of various phases involving searches for informatio
 Feelings of undefined anxiety or uncertainty regarding your text are often a signal that the structure of your text is still unresolved. As soon as you manage to identify the problem you will find that things get easier and your ideas will fall into place. You will know when you have found the right structure, because it will no longer be possible to shuffle around the different elements of your text.
 
 <Figure
-  src="/images/Writingprocess-300x240.jpg"
+  src="/images/writingprocess-300x240.jpg"
   caption="Discuss your task with fellow students. Photo, UiB."
   type="right"
 />

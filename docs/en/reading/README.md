@@ -1,6 +1,7 @@
 ---
 title: "Reading"
 date: "2012-03-16"
+prev: "../searching/systematic-searching"
 ---
 
 # Reading

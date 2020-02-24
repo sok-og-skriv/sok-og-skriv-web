@@ -18,7 +18,7 @@ The result of your brainstorming will be a personal text that will inspire you t
 
 How to make a mind map
 
-[![Mind map about green marketing](../images/engelsk-tankekart-små-bokstaver.png)](/en/files/2013/02/engelsk-tankekart-små-bokstaver.png) 
+![Mind map about green marketing](../images/engelsk-tankekart-sma-bokstaver.png)] 
 
 _Mind map about green marketing_
 

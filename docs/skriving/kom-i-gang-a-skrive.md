@@ -152,7 +152,7 @@ Som regel er det nødvendig å spesifisere akkurat hva det er du vil undersøke 
 ## Her er lenken død i WP og det er vel bare å ta bort?
 
 <Figure
-  src="/images/Martin-Roa-Skramstad-cropped-small.jpg"
+  src="/images/martin-roa-skramstad-cropped-small.jpg"
   caption="Martin Roa Skramstad"
   type="right"
 />

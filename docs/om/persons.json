@@ -10,7 +10,7 @@
         "no": "Lengstlevende medlem av Søk og skriv.",
         "en": "Still part of Search and write after alle these years."
       },
-      "imageUrl": "/tarje-150x150.jpg",
+      "imageUrl": "/persons/tarje-150x150.jpg",
       "url": "https://www.uib.no/personer/Tarje.Sælen.Lavik"
     },
     {
@@ -19,7 +19,7 @@
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
       },
-      "imageUrl": "/ingerid-150x150.jpg",
+      "imageUrl": "/persons/ingerid-150x150.jpg",
       "url": "https://www.ub.uio.no/om/ansatte/uboledadm/ingerids/index.html"
     },
     {
@@ -28,7 +28,7 @@
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
-      "imageUrl": "/henry-150x150.png",
+      "imageUrl": "/persons/henry-150x150.png",
       "url": "https://www.uib.no/personer/Henry.Langseth"
     },
     {
@@ -37,7 +37,7 @@
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
-      "imageUrl": "/ingunn-150x150.jpg",
+      "imageUrl": "/persons/ingunn-150x150.jpg",
       "url": "https://www.uib.no/personer/Ingunn.Rødland"
     },
     {
@@ -46,7 +46,7 @@
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
       },
-      "imageUrl": "/iselin-150x150.jpg",
+      "imageUrl": "/persons/iselin-150x150.jpg",
       "url": "https://www.ub.uio.no/om/ansatte/uhs/uhspublikum/iselinlb/"
     },
     {
@@ -55,7 +55,7 @@
         "no": "Høgskulen på Vestlandet",
         "en": "Western Norway University of Applied Sciences"
       },
-      "imageUrl": "/june-150x150.jpg",
+      "imageUrl": "/persons/june-150x150.jpg",
       "url": "https://www.hvl.no/person/?user=6022370"
     },
     {
@@ -64,7 +64,7 @@
         "no": "Høgskulen på Vestlandet",
         "en": "Western Norway University of Applied Sciences"
       },
-      "imageUrl": "/toril-150x150.png",
+      "imageUrl": "/persons/toril-150x150.png",
       "url": "https://www.hvl.no/person/?user=2404847"
     },
     {
@@ -73,7 +73,7 @@
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
-      "imageUrl": "/oyunn-150x150.jpg",
+      "imageUrl": "/persons/oyunn-150x150.jpg",
       "url": "https://www.uib.no/personer/Øyunn.Viken"
     }
   ]

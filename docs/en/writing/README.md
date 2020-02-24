@@ -1,6 +1,7 @@
 ---
 title: "Writing"
 date: "2012-03-16"
+prev: "../reading/academic-genres"
 ---
 
 # Writing

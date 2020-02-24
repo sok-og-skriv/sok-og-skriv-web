@@ -41,7 +41,7 @@ Avtal å møtes jevnlig og møt alltid forberedt. Som medlem av en skrivegruppe 
 ## Verktøy for gruppearbeidet
 
 <Figure
-  src="/images/Studentgruppe6.jpg"
+  src="/images/studentgruppe6.jpg"
   caption="Skrivegrupper, Ill.foto: UiB"
   type="right"
 />

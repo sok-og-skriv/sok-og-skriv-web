@@ -8,7 +8,7 @@ date: "2013-02-21"
 Discussing texts with others is a good way to engage actively with a text. You are likely to read more attentively if you are planning to discuss the text. Discussions also let you practise applying concepts and articulating arguments.
 
 <Figure
-  src="/images/Kategori_studier5-1.jpg"
+  src="/images/kategori_studier5-1.jpg"
   caption="Study group Photo: NHH"
   type="right"
 />

@@ -66,7 +66,7 @@ footer: Search and write ...
 <div class="partners">
   <div class="partner">
     <a href="https://www.hvl.no/en" alt="Western Norway University of Applied Sciences logo" >
-      <img style="width: 50%;" src="/hvl-logo-en.jpg" />
+      <img style="width: 50%;" src="/partners/hvl-logo-en.jpg" />
     </a>
     <div class="title">
       Western Norway University of Applied Sciences
@@ -74,7 +74,7 @@ footer: Search and write ...
   </div>
   <div class="partner">
     <a href="https://www.uib.no/en" alt="University of Bergen logo" >
-      <img src="/uib-logo-en.png" />
+      <img src="/partners/uib-logo-en.png" />
     </a>
     <div class="title">
       University of Bergen
@@ -82,7 +82,7 @@ footer: Search and write ...
   </div>
   <div class="partner">
     <a href="https://www.uio.no/en" alt="University of Oslo logo" >
-      <img src="/uio-logo-en.png" />
+      <img src="/partners/uio-logo-en.png" />
     </a>
     <div class="title">
       University of Oslo 
@@ -90,7 +90,7 @@ footer: Search and write ...
   </div>
   <div class="partner">
     <a href="https://www.nb.no/en/the-national-library-of-norway/" alt="National library of Norway logo" >
-      <img style="width: 60%;" src="/nb-logo.png" />
+      <img style="width: 60%;" src="/partners/nb-logo.png" />
     </a>
     <div class="title">
       National library of Norway

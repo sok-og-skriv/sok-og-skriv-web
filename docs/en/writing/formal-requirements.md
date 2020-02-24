@@ -26,7 +26,7 @@ Using the templates available in Word can save you time and effort. Word offers 
 When you have chosen a template, it is important to use it consistently to format headlines, indentations, citations, footnotes, and so forth. This means that if you need to change something like your font size, for example, you’ll need to make changes to the template itself. To do this, highlight the area you have changed in your text, and right-click on the style you want to change in the Word style manager choosing "update style to match selection":
 
 <Figure
-  src="/images/Maler.png"
+  src="/images/maler.png"
   caption=""
   type=""
 />
@@ -42,7 +42,7 @@ When you have chosen a template, it is important to use it consistently to forma
 When you work on a paper in a template, the table of contents can be updated with the correct page numbers, section titles, lists, figures, etc. Right-click on the table of contents to update, or use the menu. For further references, see [Microsoft’s help site](https://support.office.com/en-us/article/format-or-customize-a-table-of-contents-9d85eb9c-0b55-4795-8abb-a49885b3a58d) for Tables of Contents.
 
 <Figure
-  src="/images/Innholdsfortegnelse.png"
+  src="/images/innholdsfortegnelse.png"
   caption="Example of Table of Contents"
   type=""
 />

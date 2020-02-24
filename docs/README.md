@@ -83,7 +83,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 <div class="partners">
   <div class="partner">
     <a href="https://www.hvl.no" alt="Høyskolen på Vestlandet logo" >
-      <img style="width: 50%;" src="/hvl-logo.jpg" />
+      <img style="width: 50%;" src="/partners/hvl-logo.jpg" />
     </a>
     <div class="title">
       Høyskolen på Vestlandet
@@ -91,7 +91,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
   <div class="partner">
     <a href="https://www.uib.no" alt="Universitetet i Bergen logo" >
-      <img src="/uib-logo.png" />
+      <img src="/partners/uib-logo.png" />
     </a>
     <div class="title">
       Universitetet i Bergen
@@ -99,7 +99,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
   <div class="partner">
     <a href="https://www.uio.no" alt="Universitetet i Oslo logo" >
-      <img src="/uio-logo.png" />
+      <img src="/partners/uio-logo.png" />
     </a>
     <div class="title">
       Universitetet i Oslo
@@ -107,7 +107,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
   <div class="partner">
     <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
-      <img style="width: 60%;" src="/nb-logo.png" />
+      <img style="width: 60%;" src="/partners/nb-logo.png" />
     </a>
     <div class="title">
       Nasjonalbiblioteket
