@@ -81,7 +81,7 @@ Skirbekk, G. (2009) Ex. phil. I: Bostad, I. red. _Kunnskap og dannelse foran et
 
 Adorno, Th. W.,(1991) Tale om lyrikk og samfunn. I: Kittang, A., Melberg, A. og Skei, H.H. red. _Moderne litteraturteori: en antologi._ Oslo: Universitetsforlaget, s. 394-411.
 
-## Øvelse
+::: oppgave Øvelse
 
 **Skriv tre forskjellige åpninger til din oppgave ved bruk av ulike litterære virkemidler (se eksemplene ovenfor), for eksempel:**
 
@@ -90,6 +90,7 @@ b) en historisk tilnærming til fenomenet du skal diskutere og
 c) aktualisering ved hjelp av en mediesak.
 
 Se hvordan de ulike åpningene inspirerer deg, og velg den tilnærmingen som virker mest riktig for ditt tema. Vil du for eksempel vekke følelser, eller være mest mulig nøytral? Hvor viktig er den historiske bakgrunnen? Denne øvelsen kan gjerne gjøres i smågrupper eller to og to. Diskutér hva som gjør en åpning god eller mindre egnet. Hvordan kan åpningen kaste lys over det som skal komme; hvilke forventninger skapes hos leseren?
+:::
 
 ### Avgrensning og problemstilling
 
