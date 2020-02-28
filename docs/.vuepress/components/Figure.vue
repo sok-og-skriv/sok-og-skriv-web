@@ -1,6 +1,6 @@
 <template>
 <figure :class="type">
-  <img :src="src">
+  <img :src="src" :alt="alt">
   <figcaption v-if="caption" v-html="caption">
   </figcaption>
 </figure>
@@ -11,6 +11,7 @@ import Vue from 'vue';
 export default {
   props: {
     src: String,
+    alt: String,
     caption: String,
     type: String
   }
