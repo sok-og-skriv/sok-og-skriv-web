@@ -24,14 +24,14 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
     </div>
     <div class="content">
       <h2><a href="/referansestiler">Referansestiler</a></h2>
-      <p>
+      <div class="tags">
         <span class="tag"><a href="/referansestiler/apa/">APA 6th</a></span>
         <span class="tag"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
         <span class="tag"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
         <span class="tag"><a href="/referansestiler/harvard">Harvard</a></span>
         <span class="tag"><a href="/referansestiler/mla">MLA</a></span>
         <span class="tag"><a href="/referansestiler/vancouver">Vancouver</a></span>
-      </p>
+      </div>
     </div>
   </div>
 
@@ -78,12 +78,17 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
 </div>
 
+[Se flere](/video/)
+
 ## Partnere
 
 <div class="partners">
   <div class="partner">
     <a href="https://www.hvl.no">
-      <img style="width: 50%;" src="/partners/hvl-logo.jpg" alt="Høyskolen på Vestlandet"/>
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/hvl-icon.jpg">
+        <img src="/partners/hvl-logo.jpg" alt="Høyskolen på Vestlandet"/>
+      </picture>
     </a>
     <div class="title">
       Høyskolen på Vestlandet
@@ -91,7 +96,10 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
   <div class="partner">
     <a href="https://www.uib.no">
-      <img src="/partners/uib-logo.png" alt="Universitetet i Bergen"/>
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/uib-icon.png">
+        <img src="/partners/uib-logo.png" alt="Universitetet i Bergen"/>
+      </picture>
     </a>
     <div class="title">
       Universitetet i Bergen
@@ -99,7 +107,10 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
   <div class="partner">
     <a href="https://www.uio.no">
-      <img src="/partners/uio-logo.png" alt="Universitetet i Oslo"/>
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/uio-icon.png">
+        <img src="/partners/uio-logo.png" alt="Universitetet i Oslo"/>
+      </picture>
     </a>
     <div class="title">
       Universitetet i Oslo
@@ -107,7 +118,10 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   </div>
   <div class="partner">
     <a href="https://www.nb.no">
-      <img style="width: 60%;" src="/partners/nb-logo.png" alt="Nasjonalbiblioteket"/>
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/nb-icon.png">
+        <img src="/partners/nb-logo.png" alt="Nasjonalbiblioteket"/>
+      </picture>
     </a>
     <div class="title">
       Nasjonalbiblioteket

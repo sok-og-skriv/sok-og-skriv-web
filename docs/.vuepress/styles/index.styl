@@ -112,27 +112,12 @@ figcaption {
   color: #2c3e50;
 }
 
-.cards 
-  display: grid
-  grid-template-columns: 1fr 1fr
-  grid-gap: 1rem  
-  @media screen and (min-width: $MQMobileNarrow)
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))
-  @media screen and (min-width: $MQNarrow)
-    grid-template-columns: 1fr 1fr
-  @media screen and (min-width: $MQMobile)
-    grid-template-columns: 1fr 1fr
-
-.card
-  display: grid
-  grid-gap: 1rem
-  grid-template-columns: 1fr 2fr
-  @media screen and (max-width: $MQMobile)
-    grid-template-columns: 1fr
-
-.card .image 
-  @media screen and (max-width: $MQMobile)
-    display: none
+.tags
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-evenly
+  .tag
+    margin: 0.5em 0
 
 .tag {
   align-items: center;
@@ -153,43 +138,63 @@ figcaption {
   font-size: 1.25rem;
 }
 
-.card .content h2 {
-  border-bottom: none;
-  margin: 0;
-}
-.card .content p {
-  margin: 0;
-  font-size: 0.9rem;
-}
+.cards 
+  display: grid
+  grid-template-columns: 1fr 1fr
+  grid-gap: 1rem
+  @media screen and (max-width: $MQMobileNarrow)
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))
+  @media screen and (min-width: $MQNarrow)
+    grid-template-columns: 1fr 1fr
+  @media screen and (min-width: $MQMobile)
+    grid-template-columns: 1fr 1fr
+  .card
+    display: grid
+    grid-gap: 1rem
+    grid-template-columns: 1fr 2fr
+    @media screen and (max-width: $MQMobile)
+      grid-template-columns: 1fr
+    .image 
+      @media screen and (max-width: $MQMobile)
+        display: none
+    .content h2
+      border-bottom: none
+      margin: 0
+    .content p
+      margin: 0
+      font-size: 0.9rem
 
+.partners  
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+  grid-gap: 3rem
+  display: grid
+  align-items: center
+  justify-content: center
+  margin-bottom: 2rem
+  @media screen and (min-width: $MQNarrow)
+    grid-template-columns: 1fr 1fr
+  @media screen and (max-width: $MQMobile)
+    grid-template-columns: 1fr 1fr 1fr 1fr
+    grid-gap: 1rem
+  .partner
+    align-self: center
+    a
+      margin: auto
+    @media screen and (max-width: $MQMobile)
+      justify-self: center
+  .partner img
+    max-height: 60px
+  .partner 
+    .title
+      display: none
 
-.partners {  
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 3rem;
-  display: grid;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 2rem;
-}
-.partners .partner {
-  align-self: center;
-}
-.partners .partner img {
-  width: 80%;
-  max-width 360px;
-}
-.partners .partner .title {
-  display: none;
-}
+.container
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr))
+  grid-gap: 1rem
+  .video .title 
+    display: none
 
-.container {  
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  grid-gap: 1rem;
-}
-.container .video .title {
-  display: none;
-}
 
 .search-table
   display: grid

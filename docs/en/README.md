@@ -10,7 +10,7 @@ footer: Search and write ...
 
   <div class="card">
     <div class="image">
-      <img src="/images/illustrasjoner_sok_500x450.png">
+      <a href="/en/searching/"><img src="/images/illustrasjoner_sok_500x450.png" alt="Searching"></a>
     </div>
     <div class="content">
       <h2><a href="/en/searching">Searching</a></h2>
@@ -20,30 +20,30 @@ footer: Search and write ...
 
   <div class="card">
     <div class="image">
-      <img src="/images/illustrasjoner_skriving_500x450.png">
+      <a href="/en/writing/"><img src="/images/illustrasjoner_skriving_500x450.png" alt="Writing"></a>
     </div>
     <div class="content">
-      <h2><a href="/en/writing">Writing</a></h2>
+      <h2><a href="/en/writing/">Writing</a></h2>
       <p>Academic writing has certain formal requirements, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis.</p>
     </div>
   </div>
 
   <div class="card">
     <div class="image">
-      <img src="/images/illustrasjoner_kildehenvisning_500x450.png">
+      <a href="/en/sources-and-referencing/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Sources and referencing"></a>
     </div>
     <div class="content">
-      <h2><a href="/en/sources-and-referencing">Sources</a></h2>
+      <h2><a href="/en/sources-and-referencing/">Sources</a></h2>
       <p>All research is based on sources. The relevance of different types of sources varies from subject to subject.</p>
     </div>
   </div>
 
   <div class="card">
     <div class="image">
-      <img src="/images/illustrasjoner_lesing_500x450.png">
+      <a href="/en/reading/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Reading"></a>
     </div>
     <div class="content">
-      <h2><a href="/en/reading">Reading</a></h2>
+      <h2><a href="/en/reading/">Reading</a></h2>
       <p>Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.</p>
     </div>
     
@@ -61,36 +61,50 @@ footer: Search and write ...
   </div>
 </div>
 
-## Partnere
+[See more videos](/en/video/)
+
+## Partners
 
 <div class="partners">
   <div class="partner">
-    <a href="https://www.hvl.no/en" alt="Western Norway University of Applied Sciences logo" >
-      <img style="width: 50%;" src="/partners/hvl-logo-en.jpg" />
+    <a href="https://www.hvl.no">
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/hvl-icon.jpg">
+        <img src="/partners/hvl-logo-en.jpg" alt="Western Norway University of Applied Sciences"/>
+      </picture>
     </a>
     <div class="title">
       Western Norway University of Applied Sciences
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.uib.no/en" alt="University of Bergen logo" >
-      <img src="/partners/uib-logo-en.png" />
+    <a href="https://www.uib.no">
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/uib-icon.png">
+        <img src="/partners/uib-logo-en.png" alt="University of Bergen"/>
+      </picture>
     </a>
     <div class="title">
       University of Bergen
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.uio.no/english" alt="University of Oslo logo" >
-      <img src="/partners/uio-logo-en.png" />
+    <a href="https://www.uio.no">
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/uio-icon.png">
+        <img src="/partners/uio-logo-en.png" alt="University of Oslo"/>
+      </picture>
     </a>
     <div class="title">
-      University of Oslo 
+      University of Oslo
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no/en/the-national-library-of-norway/" alt="National library of Norway logo" >
-      <img style="width: 60%;" src="/partners/nb-logo.png" />
+    <a href="https://www.nb.no">
+      <picture>
+        <source media="(max-width: 719px)" srcset="/partners/nb-icon.png">
+        <img src="/partners/nb-logo.png" alt="National library of Norway"/>
+      </picture>
     </a>
     <div class="title">
       National library of Norway
