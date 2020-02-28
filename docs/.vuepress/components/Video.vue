@@ -1,12 +1,19 @@
 <template>
 <div class="video_container">
-  <iframe :src="data" allowfullscreen></iframe>
+  <!-- <iframe :src="data" allowfullscreen></iframe> -->
+  <LazyYoutubeVideo :src="data" previewImageSize="hqdefault"/>
 </div>
 </template>
 
 <script>
 import Vue from 'vue';
+import LazyYoutubeVideo from 'vue-lazy-youtube-video'
+import "vue-lazy-youtube-video/dist/style.css";
+
 export default {
+  components: {
+    LazyYoutubeVideo,
+  },
   props: {
     id: String
   },

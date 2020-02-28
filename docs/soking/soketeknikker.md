@@ -24,7 +24,7 @@ Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da 
 
 Benytt databasenes muligheter for å avgrense/snevre inn en lang treffliste. I de fleste databaser kan du avgrense på publiseringsår, språk, større emneområder og dokumenttyper. Vær obs på at enhver avgrensing kan føre til at du mister viktig informasjon.
 
-<Video id="\_yKr4R3k5Pg" />
+<Video id="_yKr4R3k5Pg" />
 
 ## Emneordssøk
 
