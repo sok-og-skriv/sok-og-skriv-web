@@ -17,35 +17,12 @@ Følg oss også gjerne på [Facebook](https://www.facebook.com/sokogskriv "Søk 
       <img :src="i.imageUrl" v-if="i.imageUrl">
     </div>
     <div class="content">
-      <h3>{{i.fullname}}</h3>
+      <a :href="i.url" target="_blank"><h3>{{i.fullname}}</h3></a>
       <p>{{i.affiliation.no}}</p>
       <p v-if="i.bio && i.bio.no">{{i.bio.no}}</p>
     </div>
   </div>
 </div>
-
-<style lang="stylus" scoped>
-.persons
-  display: grid
-  grid-template-columns: 1fr
-  .person
-    display: grid
-    grid-template-columns: 1fr 2fr
-    margin: 1rem 0
-    padding: 1rem
-    border-radius: 5%
-    background-color: #f0f4f8
-    grid-gap: 1rem
-    .content
-      h3
-        margin: 0
-      p:last-child
-        margin-bottom: 0
-    .image img
-      border-radius: 5%
-      width: 100%
-      height: inherit
-</style>
 
 <script>
 import data from './persons.json'

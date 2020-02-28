@@ -252,3 +252,24 @@ figcaption {
       font-size: 1.6rem !important
       @media screen and (max-width: $MQNarrow)
         display: inline
+
+.persons
+  display: grid
+  grid-template-columns: 1fr
+  .person
+    display: grid
+    grid-template-columns: 1fr 3fr
+    margin: 1rem 0
+    padding: 1rem
+    border-radius: 10px;
+    background-color: #f0f4f8
+    grid-gap: 1rem
+    .content
+      h3
+        margin: 0
+      p:last-child
+        margin-bottom: 0
+    .image img
+      border-radius: 10px;
+      width: 100%
+      height: inherit
