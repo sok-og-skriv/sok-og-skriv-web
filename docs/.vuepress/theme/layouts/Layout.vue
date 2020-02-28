@@ -123,8 +123,8 @@ footer .partners
     align-self: center
     a
       margin: auto
-    @media screen and (max-width: $MQNarrow)
-      justify-self: center
+    @media screen and (min-width: $MQNarrow)
+      justify-self: self-start
   .partner img
     max-height: 60px
   .partner 
