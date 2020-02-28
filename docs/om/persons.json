@@ -1,19 +1,6 @@
 {
   "persons": [
     {
-      "fullname": "Tarje Sælen Lavik",
-      "affiliation": {
-        "no": "Universitetet i Bergen",
-        "en": "University of Bergen"
-      },
-      "bio": {
-        "no": "Lengstlevende medlem av Søk og skriv.",
-        "en": "Still part of Search and write after alle these years."
-      },
-      "imageUrl": "/persons/tarje-150x150.jpg",
-      "url": "https://www.uib.no/personer/Tarje.Sælen.Lavik"
-    },
-    {
       "fullname": "Ingerid Straume",
       "affiliation": {
         "no": "Universitetet i Oslo",
@@ -73,8 +60,21 @@
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
       },
-      "imageUrl": "/persons/oyunn-150x150.jpg",
+      "imageUrl": "",
       "url": "https://www.uib.no/personer/Øyunn.Viken"
+    },
+    {
+      "fullname": "Tarje Sælen Lavik",
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "bio": {
+        "no": "Webansvarlig",
+        "en": "Webmaster"
+      },
+      "imageUrl": "/persons/tarje-150x150.jpg",
+      "url": "https://www.uib.no/personer/Tarje.Sælen.Lavik"
     }
   ]
 }

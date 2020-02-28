@@ -187,4 +187,6 @@ Haraldstad, A.-M.B. og Christophersen, E. (2008) Litteratursøk og personlige re
 
 See also PhD on track’s page on [systematic review searching](http://www.phdontrack.net/review-and-discover/systematic-review-searching/)
 
-# Feil lenke? https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews ???
+## Feil lenke? 
+
+https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews ???
