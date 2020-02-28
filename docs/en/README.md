@@ -10,7 +10,7 @@ footer: Search and write ...
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_sok_500x450.png">
+      <img src="/images/illustrasjoner_sok_500x450.png">
     </div>
     <div class="content">
       <h2><a href="/en/searching">Searching</a></h2>
@@ -20,7 +20,7 @@ footer: Search and write ...
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_skriving_500x450.png">
+      <img src="/images/illustrasjoner_skriving_500x450.png">
     </div>
     <div class="content">
       <h2><a href="/en/writing">Writing</a></h2>
@@ -30,7 +30,7 @@ footer: Search and write ...
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_kildehenvisning_500x450.png">
+      <img src="/images/illustrasjoner_kildehenvisning_500x450.png">
     </div>
     <div class="content">
       <h2><a href="/en/sources-and-referencing">Sources</a></h2>
@@ -40,7 +40,7 @@ footer: Search and write ...
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_lesing_500x450.png">
+      <img src="/images/illustrasjoner_lesing_500x450.png">
     </div>
     <div class="content">
       <h2><a href="/en/reading">Reading</a></h2>

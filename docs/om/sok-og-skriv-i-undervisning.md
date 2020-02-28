@@ -168,6 +168,7 @@ Bruker studenter og andre CC materiale, pass på at en også her navngir opphavs
 
 <Figure
   src="/images/csandrajecmenica-uib-museum.jpg"
+  alt="Naturhistorisk museum ved Universitetet i Bergen"
   caption="Naturhistorisk museum. Foto: Sandra Jecmenica © UiB"
   type=""
 />

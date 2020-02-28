@@ -187,6 +187,11 @@ module.exports = {
       }
     ],
     [
+      'sitemap', {
+        hostname: 'https://pake.web.id'
+      }
+    ],
+    [
       'vuepress-plugin-mathjax',
       {
         target: 'svg',

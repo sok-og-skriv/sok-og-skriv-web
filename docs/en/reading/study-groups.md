@@ -9,7 +9,8 @@ Discussing texts with others is a good way to engage actively with a text. You 
 
 <Figure
   src="/images/kategori_studier5-1.jpg"
-  caption="Study group Photo: NHH"
+  alt="Study group discussing an academic text"
+  caption="Study group. Photo: NHH"
   type="right"
 />
 

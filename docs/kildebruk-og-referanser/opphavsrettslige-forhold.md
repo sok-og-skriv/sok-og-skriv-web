@@ -31,6 +31,7 @@ Opphaver har ansvar for at innhold i verket følger [etiske retningslinjer](/kil
 
 <Figure
   src="/images/opphavsrett_jus_30.jpg"
+  alt="Norges lovbok"
   caption="Norges lover. Photo: UiB"
   type="right"
 />
@@ -65,6 +66,7 @@ I forbindelse med oppgaven din kan det hende at du vil sitere fra TV- eller radi
 
 <Figure
   src="/images/ubb-trom-136_md.jpg"
+  alt="Brita Olsdatter Nango poserer med sitt barn"
   caption="Brita Olsdatter Nango, Kautokeino 1883. Foto: Sophus Tromholt. Gjengitt med tillatelse fra Universitetsbiblioteket i Bergen."
   type=""
 />

@@ -31,6 +31,7 @@ Creators are responsible for ensuring that the contents of their work comply wit
 
 <Figure
   src="/images/opphavsrett_jus_30.jpg"
+  alt="The law book of Norway"
   caption="Norges lover. Photo: UiB"
   type="right"
 />
@@ -65,6 +66,7 @@ You may need to quote from TV or radio programmes, use clips of recorded music, 
 
 <Figure
   src="/images/ubb-trom-136_md.jpg"
+  alt="Brita Olsdatter Nango posing with her child"
   caption="Brita Olsdatter Nango, Kautokeino 1883. Photo: Sophus Tromholt. Reproduced with permission from the University Library at University of Bergen."
   type=""
 />

@@ -9,6 +9,7 @@ This section explains how searching for information can help you get started wit
 
 <Figure
   src="/images/illustrasjoner_sok_500x450.png"
+  alt="Magnifying glass over different information resources"
   caption=""
   type="right"
 />

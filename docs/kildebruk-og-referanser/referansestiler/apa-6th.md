@@ -17,6 +17,7 @@ Med unntak for enkelte offentlige dokumenter, består en referanse i APA 6th gro
 
 <Figure
   src="/images/apa-ref.png"
+  alt="Grafisk fremstilling av en referanses deler og hva de gir svar på"
   caption=""
   type=""
 />

@@ -10,6 +10,7 @@ Lesing og skriving er kjerneaktiviteter i akademisk arbeid. Som ferdigheter heng
 
 <Figure
   src="/images/illustrasjoner_lesing_500x450.png"
+  alt="Flyvende bøker over en bokhylle"
   caption=""
   type="right"
 />

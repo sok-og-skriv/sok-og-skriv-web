@@ -31,6 +31,7 @@ When it is your turn to give feedback, make sure that you:
 
 <Figure
   src="/images/studygroups-300x226.jpg"
+  alt="Group of students writing"
   caption="Writing groups. Photo, UiB."
   type="right"
 />

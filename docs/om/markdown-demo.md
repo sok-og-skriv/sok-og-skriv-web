@@ -149,10 +149,10 @@ Du kan starte på et ønsket nummer:
 ``` markdown
 ![bildetekst](lenke-til-bilde)
 
-![HVL logo](../images/hvl_logo.jpg)
+![HVL logo](/images/hvl_logo.jpg)
 ```
 
-![HVL logo](../images/hvl_logo.jpg)
+![HVL logo](/images/hvl_logo.jpg)
 
 ## Bokser
 

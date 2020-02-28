@@ -62,6 +62,7 @@ Mangler du penn og papir, har du kanskje en mobil i hånden. Skriv ideen du fikk
 
 <Figure
   src="/images/norsk-tankekart-sma-bokstaver.png"
+  alt="Tankekart"
   caption="Tankekart om grønn markedsføring"
   type=""
 />
@@ -153,6 +154,7 @@ Som regel er det nødvendig å spesifisere akkurat hva det er du vil undersøke 
 
 <Figure
   src="/images/martin-roa-skramstad-cropped-small.jpg"
+  alt="Martin Roa Skramstad"
   caption="Martin Roa Skramstad"
   type="right"
 />

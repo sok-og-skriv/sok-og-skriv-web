@@ -41,32 +41,32 @@
         <footer class="theme-default-content">
           <div class="partners">
             <div class="partner">
-              <a href="https://www.uib.no" alt="Høyskolen på Vestlandet logo" >
-                <img style="width: 50%;" src="/partners/hvl-logo.jpg" />
+              <a href="https://www.uib.no">
+                <img style="width: 50%;" src="/partners/hvl-logo.jpg" alt="Høyskolen på Vestlandet"/>
               </a>
               <div class="title">
                 Høyskolen på Vestlandet
               </div>
             </div>
             <div class="partner">
-              <a href="https://www.uib.no" alt="Universitetet i Bergen logo" >
-                <img src="/partners/uib-logo.png" />
+              <a href="https://www.uib.no">
+                <img src="/partners/uib-logo.png" alt="Universitetet i Bergen"/>
               </a>
               <div class="title">
                 Universitetet i Bergen
               </div>
             </div>
             <div class="partner">
-              <a href="https://www.nb.no" alt="Universitetet i Oslo logo" >
-                <img src="/partners/uio-logo.png" />
+              <a href="https://www.nb.no">
+                <img src="/partners/uio-logo.png" alt="Universitetet i Oslo"/>
               </a>
               <div class="title">
                 Universitetet i Oslo
               </div>
             </div>
             <div class="partner">
-              <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
-                <img style="width: 60%;" src="/partners/nb-logo.png" />
+              <a href="https://www.nb.no">
+                <img style="width: 60%;" src="/partners/nb-logo.png" alt="Universitetet i Oslo"/>
               </a>
               <div class="title">
                 Nasjonalbiblioteket

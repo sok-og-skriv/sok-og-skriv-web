@@ -10,6 +10,7 @@ All research is based on sources. The relevance of different types of sources va
 
 <Figure
   src="/images/illustrasjoner_kildehenvisning_500x450.png"
+  alt="Dialog boxes hanging over an open book"
   caption=""
   type="right"
 />

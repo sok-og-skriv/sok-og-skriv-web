@@ -10,7 +10,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_sok_500x450.png">
+      <a href="/soking"><img src="/images/illustrasjoner_sok_500x450.png" alt="Søking"></a>
     </div>
     <div class="content">
       <h2><a href="/soking">Søking</a></h2>
@@ -20,7 +20,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_lesing_500x450.png">
+      <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
     </div>
     <div class="content">
       <h2><a href="/referansestiler">Referansestiler</a></h2>
@@ -37,7 +37,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_skriving_500x450.png">
+      <a href="/skriving"><img src="/images/illustrasjoner_skriving_500x450.png" alt="Skriving"></a>
     </div>
     <div class="content">
       <h2><a href="/skriving">Skriving</a></h2>
@@ -47,7 +47,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_kildehenvisning_500x450.png">
+      <a href="/kildebruk-og-referanser"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kildebruk og referanser"></a>
     </div>
     <div class="content">
       <h2><a href="/kildebruk-og-referanser">Kildebruk</a></h2>
@@ -57,7 +57,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <img src="./images/illustrasjoner_lesing_500x450.png">
+      <a href="/lesing"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Lesing"></a>
     </div>
     <div class="content">
       <h2><a href="/lesing">Lesing</a></h2>
@@ -82,32 +82,32 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
 <div class="partners">
   <div class="partner">
-    <a href="https://www.hvl.no" alt="Høyskolen på Vestlandet logo" >
-      <img style="width: 50%;" src="/partners/hvl-logo.jpg" />
+    <a href="https://www.hvl.no">
+      <img style="width: 50%;" src="/partners/hvl-logo.jpg" alt="Høyskolen på Vestlandet"/>
     </a>
     <div class="title">
       Høyskolen på Vestlandet
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.uib.no" alt="Universitetet i Bergen logo" >
-      <img src="/partners/uib-logo.png" />
+    <a href="https://www.uib.no">
+      <img src="/partners/uib-logo.png" alt="Universitetet i Bergen"/>
     </a>
     <div class="title">
       Universitetet i Bergen
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.uio.no" alt="Universitetet i Oslo logo" >
-      <img src="/partners/uio-logo.png" />
+    <a href="https://www.uio.no">
+      <img src="/partners/uio-logo.png" alt="Universitetet i Oslo"/>
     </a>
     <div class="title">
       Universitetet i Oslo
     </div>
   </div>
   <div class="partner">
-    <a href="https://www.nb.no" alt="Nasjonalbiblioteket logo" >
-      <img style="width: 60%;" src="/partners/nb-logo.png" />
+    <a href="https://www.nb.no">
+      <img style="width: 60%;" src="/partners/nb-logo.png" alt="Nasjonalbiblioteket"/>
     </a>
     <div class="title">
       Nasjonalbiblioteket

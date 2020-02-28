@@ -10,6 +10,7 @@ Reading and writing are closely related skills that form the core of academic wo
 
 <Figure
   src="/images/illustrasjoner_lesing_500x450.png"
+  alt="Books flying into the air"
   caption=""
   type="right"
 />

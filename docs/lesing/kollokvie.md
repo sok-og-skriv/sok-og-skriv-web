@@ -11,7 +11,8 @@ Kollokviegruppe (samtalegruppe, diskusjonsgruppe; "kollokvie" betyr "samtale", a
 
 <Figure
   src="/images/kategori_studier5-1.jpg"
-  caption="Kollokvie Ill.foto: NHH"
+  alt="Fire studenter diskuterer en akademisk tekst"
+  caption="Kollokvie. Ill.foto: NHH"
   type="right"
 />
 

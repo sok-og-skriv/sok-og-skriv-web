@@ -27,6 +27,7 @@ When you have chosen a template, it is important to use it consistently to forma
 
 <Figure
   src="/images/maler.png"
+  alt="Style selection dialog from Microsoft Word"
   caption=""
   type=""
 />
@@ -43,21 +44,22 @@ When you work on a paper in a template, the table of contents can be updated wit
 
 <Figure
   src="/images/innholdsfortegnelse.png"
+  alt="Table of content"
   caption="Example of Table of Contents"
   type=""
 />
 
 ## Headings
 
-You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1), while four is a maximum (ex: 1.1.1.1). Look for this symbol in your word-processor’s menu ![](../images/Nummererte-overskrifter.png) and choose a style. You can also confer the [help site for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Every new chapter in a large paper should start on a new page. Page breaks are inserted from the menu or by using the shortcut CTRL + ENTER.
+You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1), while four is a maximum (ex: 1.1.1.1). Look for this symbol in your word-processor’s menu ![](/images/nummererte-overskrifter.png) and choose a style. You can also confer the [help site for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Every new chapter in a large paper should start on a new page. Page breaks are inserted from the menu or by using the shortcut CTRL + ENTER.
 
 ## Body text, margins and text size
 
 The body of your paper should be written in “Normal” in your style manager. Be careful with highlighting, italicization, and underlining, etc.
 
-- **Line spacing** is usually one and a half (1,5), and can be adjusted here: ![](../images/Linjeavstand.png)
+- **Line spacing** is usually one and a half (1,5), and can be adjusted here: ![](/images/linjeavstand.png)
 - **Text size:** Standard text sizes are usually 11 for modern fonts, such as Calibri, or 12 for traditional fonts, such as Times New Roman.
-- Use **Align left** for your text (not Justify) for the best possible readability. Choose ![](../images/Venstrejustert.png)
+- Use **Align left** for your text (not Justify) for the best possible readability. Choose ![](/images/venstrejustert.png)
 - **Header and footer** margins should be at least 2,5 cm (or 1 in.)
 
 In tables, figures, footnotes and reference lists, you can use a smaller text size and single line spacing (as long as you preserve good readability).
@@ -88,6 +90,7 @@ Be aware of [intellectual property rights](/en/sources-and-references/why-cite-s
 
 <Figure
   src="/images/figur-eksempel.png"
+  alt="Figure"
   caption="Example of use of figures. Retrieved from «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.\]"
   type=""
 />
@@ -107,7 +110,7 @@ Most reference styles recommend to list all sources together, arranged in alphab
 In most fields, different source types are included in the same reference list, but in some historical subjects it can be the case that primary and secondary sources are listed separately. Read more about referencing at “[Why Cite Sources?](/en/sources-and-references/why-cite-sources/)”
 
 ::: tip Tip:
-If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete. Look for this symbol: ![](../images/Cite.png)
+If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete. Look for this symbol: ![](/images/cite.png)
 :::
 
 ## Other resources

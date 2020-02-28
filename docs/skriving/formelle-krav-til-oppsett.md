@@ -27,6 +27,7 @@ Når du har valgt en mal, er det viktig å bruke denne til all formatering av ov
 
 <Figure
   src="/images/maler.png"
+  alt="Stilvalg i Microsoft Word"
   caption=""
   type=""
 />
@@ -42,21 +43,22 @@ Når du arbeider med oppgaven i malen, vil innholdsfortegnelsen oppdateres med r
 
 <Figure
   src="/images/innholdsfortegnelse.png"
+  alt="Innholdsfortegnelse"
   caption="Eksempel på innholdsfortegnelse"
   type=""
 />
 
 ## Overskrifter
 
-Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1), mens fire regnes som maksimalt (eksempel: 1.1.1.1). Se etter dette symbolet i skriveprogrammets menyer, og velg en stil ![](../images/Nummererte-overskrifter.png). Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
+Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1), mens fire regnes som maksimalt (eksempel: 1.1.1.1). Se etter dette symbolet i skriveprogrammets menyer, og velg en stil ![](/images/Nummererte-overskrifter.png). Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
 
 ## Brødtekst, marger og skriftstørrelse
 
 Brødteksten er den teksten som kalles "normal" i tekstbehandlingsprogrammet. Vær forsiktig med bruk av utheving, kursivering, understreking mv.
 
-- **Linjeavstand** er vanligvis halvannen (1,5). Stilles inn her: ![](../images/Linjeavstand.png)
+- **Linjeavstand** er vanligvis halvannen (1,5). Stilles inn her: ![](/images/linjeavstand.png)
 - **Punktstørrelse:** Det mest vanlige er 11 i en moderne font som Calibri eller 12 i en tradisjonell font som Times New Roman.
-- **Venstrejustert** tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet. Velg ![](../images/Venstrejustert.png)
+- **Venstrejustert** tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet. Velg ![](/images/venstrejustert.png)
 - **Topp- og bunnmarg** skal være minst 2,5 cm.
 
 I tabeller, figurer, fotnoter og referanseliste kan du bruke mindre punktstørrelse og enkel linjeavstand så lenge hensynet til lesbarhet er godt ivaretatt.
@@ -87,6 +89,7 @@ Vær oppmerksom på [opphavsrettslige forhold](https://sokogskriv.no/kildebruk-
 
 <Figure
   src="/images/figur-eksempel.png"
+  alt="Figur"
   caption="Eksempel på bruk av figur. Hentet fra «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0."
   type=""
 />
@@ -104,7 +107,7 @@ En del materiale kan legges som vedlegg, for eksempel intervjuguide, samtykkeskj
 Alle kildene som er brukt, skal vanligvis oppgis i samme referanseliste og ordnes alfabetisk. Hvis det er flere innførsler med samme forfatter, og du bruker en forfatter-årstall-stil (som APA eller Harvard), ordnes de kronologisk i stigende rekkefølge (eldste først). Referanser med samme årstall markeres da med a, b, c osv. I de aller fleste fag ligger alle typer kilde i samme referanseliste, men det kan være aktuelt å skille mellom primær- og sekundærkilder i enkelte historiske emner. Les mer om referanselister under "[hvordan referere](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/#Referanselisten)".
 
 ::: tip Tips: 
-Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. Se etter dette symbolet:  ![](../images/Cite.png)
+Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. Se etter dette symbolet:  ![](/images/cite.png)
 :::
 
 ## Flere ressurser

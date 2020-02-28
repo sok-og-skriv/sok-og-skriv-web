@@ -10,6 +10,7 @@ Academic writing has certain formal requirements. In order to write a good thesi
 
 <Figure
   src="/images/illustrasjoner_skriving_500x450.png"
+  alt="Birds eye view of person writing on a laptop"
   caption=""
   type="right"
 />

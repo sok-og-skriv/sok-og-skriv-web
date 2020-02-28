@@ -11,6 +11,7 @@ I akademisk skriving stilles det bestemte krav til form og innhold, språk og st
 
 <Figure
   src="/images/illustrasjoner_skriving_500x450.png"
+  alt="Student som skriver på en laptop i fugleperspektiv"
   caption=""
   type="right"
 />

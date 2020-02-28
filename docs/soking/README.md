@@ -9,6 +9,7 @@ I denne delen finner du tips om hvordan du søker etter informasjon og hvordan i
 
 <Figure
   src="/images/illustrasjoner_sok_500x450.png"
+  alt="Forstørrelsesglass over en rekke informasjonsressurser"
   caption=""
   type="right"
 />

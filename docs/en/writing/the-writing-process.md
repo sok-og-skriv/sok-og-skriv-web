@@ -13,6 +13,7 @@ Feelings of undefined anxiety or uncertainty regarding your text are often a sig
 
 <Figure
   src="/images/writingprocess-300x240.jpg"
+  alt="Students reading outside in the summer"
   caption="Discuss your task with fellow students. Photo, UiB."
   type="right"
 />

@@ -10,6 +10,7 @@ All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varie
 
 <Figure
   src="/images/illustrasjoner_kildehenvisning_500x450.png"
+  alt="Dialogbokser over en oppslått bok"
   caption=""
   type="right"
 />
