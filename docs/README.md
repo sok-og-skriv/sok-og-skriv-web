@@ -6,8 +6,26 @@ home: true
 footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 ---
 
-<div class="cards">
+---
 
+<div class="card references">
+  <!-- <div class="image">
+    <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
+  </div> -->
+  <div class="content">
+    <h2><a href="/referansestiler">Referansestiler</a></h2>
+    <span class="tags">
+      <span class="tag"><a href="/referansestiler/apa/">APA 6th</a></span>
+      <span class="tag"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
+      <span class="tag"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
+      <span class="tag"><a href="/referansestiler/harvard">Harvard</a></span>
+      <span class="tag"><a href="/referansestiler/mla">MLA</a></span>
+      <span class="tag"><a href="/referansestiler/vancouver">Vancouver</a></span>
+    </span>
+  </div>
+</div>
+
+<div class="cards">
   <div class="card">
     <div class="image">
       <a href="/soking"><img src="/images/illustrasjoner_sok_500x450.png" alt="Søking"></a>
@@ -20,18 +38,11 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
+      <a href="/lesing"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Lesing"></a>
     </div>
     <div class="content">
-      <h2><a href="/referansestiler">Referansestiler</a></h2>
-      <div class="tags">
-        <span class="tag"><a href="/referansestiler/apa/">APA 6th</a></span>
-        <span class="tag"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
-        <span class="tag"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
-        <span class="tag"><a href="/referansestiler/harvard">Harvard</a></span>
-        <span class="tag"><a href="/referansestiler/mla">MLA</a></span>
-        <span class="tag"><a href="/referansestiler/vancouver">Vancouver</a></span>
-      </div>
+      <h2><a href="/lesing">Lesing</a></h2>
+      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave må være bevisst på hva og hvordan du leser.</p>
     </div>
   </div>
 
@@ -55,16 +66,6 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
     </div>
   </div>
 
-  <div class="card">
-    <div class="image">
-      <a href="/lesing"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Lesing"></a>
-    </div>
-    <div class="content">
-      <h2><a href="/lesing">Lesing</a></h2>
-      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave må være bevisst på hva og hvordan du leser.</p>
-    </div>
-    
-  </div>
 </div>
 
 ## Siste videoer
