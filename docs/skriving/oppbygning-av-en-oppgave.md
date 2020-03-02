@@ -188,4 +188,6 @@ Det må være god sammenheng mellom innledningen og avslutningen. Temaer og spø
 
 **Videre lesing**:  
 Førland, T.E. (1996) _Drøft: lærebok i oppgaveskriving._ Oslo: Ad notam Gyldendal.  
-Rienecker, L. og Stray Jørgensen, P. (2012) _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg: Samfundslitteratur.[](?p=263)Schimel, J. (2012) _Writing science: how to write papers that get cited and proposals that get funded. _Oxford: Oxford University Press.
+Rienecker, L. og Stray Jørgensen, P. (2012) _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg: Samfundslitteratur. 
+
+Schimel, J. (2012) _Writing science: how to write papers that get cited and proposals that get funded._ Oxford: Oxford University Press.
