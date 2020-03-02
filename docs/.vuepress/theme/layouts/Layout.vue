@@ -92,21 +92,6 @@
 </template>
 
 <style lang="stylus" scoped>
-/* footer .partners {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  grid-gap: 2.5rem;
-  align-items: center;
-  justify-content: center;
-}
-footer .partners .partner img {
-  width: 100%;
-  max-height: 100px;
-}
-footer .partners .partner .title {
-  display: none;
-} */
-
 footer .partners  
   grid-template-columns: 1fr 1fr
   grid-gap: 2.5rem
@@ -120,14 +105,14 @@ footer .partners
     grid-template-columns: 1fr 1fr 1fr 1fr
     grid-gap: 1rem
   .partner
-    align-self: center
-    a
-      margin: auto
-    @media screen and (min-width: $MQNarrow)
-      justify-self: self-start
-  .partner img
-    max-height: 60px
-  .partner 
+    display: grid
+    align-items: left
+    @media screen and (max-width: $MQMobile)
+      align-items: center
+      a
+        margin: auto
+    img
+      max-height: 60px
     .title
       display: none
 </style>
