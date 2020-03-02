@@ -188,7 +188,7 @@ module.exports = {
     ],
     [
       'sitemap', {
-        hostname: 'https://pake.web.id'
+        hostname: 'https://sokogskriv.no'
       }
     ],
     [
