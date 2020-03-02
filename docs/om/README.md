@@ -13,7 +13,7 @@ Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjon
 
 **[Skriving](skriving)**. I skrivedelen får du tips om hele skriveprosessen, fra struktur, språk og stil til formelle krav og formidling.
 
-**[Kildebruk og referanser](/kildebruk-og-referenser)**. I akademiske oppgaver bør du henvise til relevant informasjon og forskning; vi viser deg hvordan. Det er viktig at kildene holder nødvendig faglig kvalitet og at du bruker disse på en etisk måte når du skriver akademiske tekster.
+**[Kildebruk og referanser](/kildebruk-og-referanser)**. I akademiske oppgaver bør du henvise til relevant informasjon og forskning; vi viser deg hvordan. Det er viktig at kildene holder nødvendig faglig kvalitet og at du bruker disse på en etisk måte når du skriver akademiske tekster.
 
 De ulike arbeidsfasene berører hverandre og vil delvis overlappe. Det er lagt opp til at du lett skal kunne navigere og bevege deg mellom sidene.
 
