@@ -275,7 +275,6 @@ figcaption {
     padding: 1rem
     border-radius: 2px;
     background-color: #f0f4f8
-    box-shadow: 0px 2px 9px #ddd
     grid-gap: 1rem
     .content
       h3
@@ -286,3 +285,8 @@ figcaption {
       border-radius: 2px;
       width: 100%
       height: inherit
+
+
+@media print
+  header, footer, .partners
+    display: none
