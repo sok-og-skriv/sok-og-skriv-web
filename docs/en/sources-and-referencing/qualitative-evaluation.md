@@ -9,7 +9,7 @@ Source evaluation involves evaluating a source based on its type, authenticity, 
 
 [[toc]]
 
-Form a view on the basis of your assessment as to whether the source is useful for your project. In what way will you use the source? How and why do you need to use it? [Assessing relevance](/en/sources-and-references/source-evaluation/assessing-relevance/ "Assessing relevance").
+Form a view on the basis of your assessment as to whether the source is useful for your project. In what way will you use the source? How and why do you need to use it? [Assessing relevance](/en/sources-and-referencing/source-evaluation/assessing-relevance/ "Assessing relevance").
 
 ## Author
 

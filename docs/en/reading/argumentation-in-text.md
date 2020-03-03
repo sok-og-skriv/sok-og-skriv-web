@@ -107,4 +107,4 @@ If we propose that one of the warrants in the analysis of the layers of time and
 
 Through analysing the text above you were able to detect _what_ the author aimed to express and pass on to you as a reader. You should also analyse _how_ the author disseminates the results. Your text analysis allows you to look at the wider context the author has developed the text within. How does the text relate to other texts?
 
-How does the author [disseminate](/en/sources-and-references/source-evaluation/assessing-relevance/text-analysis/) the results, and why is the text of relevance to your thesis?
+How does the author [disseminate](/en/sources-and-referencing/source-evaluation/assessing-relevance/text-analysis/) the results, and why is the text of relevance to your thesis?

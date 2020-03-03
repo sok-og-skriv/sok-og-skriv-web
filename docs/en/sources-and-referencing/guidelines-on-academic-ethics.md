@@ -11,7 +11,7 @@ Academic integrity involves following the ethical principles and standards adopt
 - Everyone should be able to seek knowledge, and knowledge should be available to all. Accordingly universities should be of general benefit to society.
 - Universities are fundamental for democracy because they encourage members of society to form their own opinions regarding societal problems and challenges.
 
-The credibility of research at higher-education institutions depends on reflective attitudes to research ethics and formal requirements for papers and theses. Following principles of academic integrity requires knowledge of research ethics, citation ethics, and [copyright](/en/sources-and-references/why-cite-sources/intellectual-property-rights/), as well as correct research methodology and scholarly writing practices.
+The credibility of research at higher-education institutions depends on reflective attitudes to research ethics and formal requirements for papers and theses. Following principles of academic integrity requires knowledge of research ethics, citation ethics, and [copyright](/en/sources-and-referencing/why-cite-sources/intellectual-property-rights/), as well as correct research methodology and scholarly writing practices.
 
 ## Research ethics
 

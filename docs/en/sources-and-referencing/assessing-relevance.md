@@ -21,6 +21,6 @@ Look at the source’s:
 - Conclusions
 - List of references
 
-Also examine the source by [textual analysis](/en/sources-and-references/source-evaluation/assessing-relevance/text-analysis/ "Text analysis") to see whether the author’s rhetoric affects the content of the source.
+Also examine the source by [textual analysis](/en/sources-and-referencing/source-evaluation/assessing-relevance/text-analysis/ "Text analysis") to see whether the author’s rhetoric affects the content of the source.
 
-[Compare the source](/en/sources-and-references/source-evaluation/assessing-relevance/comparing-sources/ "Comparing sources") with similar sources to understand what aspects of the project the source does or does not cover.
+[Compare the source](/en/sources-and-referencing/source-evaluation/assessing-relevance/comparing-sources/ "Comparing sources") with similar sources to understand what aspects of the project the source does or does not cover.

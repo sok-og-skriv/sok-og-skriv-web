@@ -7,9 +7,9 @@ date: "2013-02-22"
 
 You refer correctly by indicating the source in the text and giving complete information about the source in the reference list. Your sources should be given in such a way as to let the reader retrieve them easily. To follow correct referencing practice you need to mention the source in the text and provide complete information about the source in a reference list (sometimes called a literature list or a bibliography). Proper use of references allows the readers to locate your sources, either to read them or to evaluate your interpretation. If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using pagenumbers. The different styles of referencing may have varying practices concerning the use of pagenumbers, you should adhere to the usage in your field.
 
-You don't need to give references to absolutely everything. Read more under [What to cite?](/en/sources-and-references/how-to-cite/what-to-cite/ "What to cite?")
+You don't need to give references to absolutely everything. Read more under [What to cite?](/en/sources-and-referencing/how-to-cite/what-to-cite/ "What to cite?")
 
-Find out what [reference style](/en/sources-and-references/reference-styles/ "Reference Styles") is generally used in your field and use it consistently throughout your thesis. A reference style is a standardised way of presenting information about your sources.
+Find out what [reference style](/en/sources-and-referencing/reference-styles/ "Reference Styles") is generally used in your field and use it consistently throughout your thesis. A reference style is a standardised way of presenting information about your sources.
 
 ::: tip TIP! 
 Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications such as newspapers.
@@ -17,7 +17,7 @@ Look at scholarly or scientific articles to see how referencing works in practic
 
 # References and quotations
 
-Academic publications have formal rules for citation and referencing that vary between different fields, journals, etc. There are for example standard [abbreviations](/en/sources-and-references/how-to-cite/abbreviations/ "Abbreviations") that are commonly used in citations. Below you will find some examples of direct and indirect citations using the Harvard style.
+Academic publications have formal rules for citation and referencing that vary between different fields, journals, etc. There are for example standard [abbreviations](/en/sources-and-referencing/how-to-cite/abbreviations/ "Abbreviations") that are commonly used in citations. Below you will find some examples of direct and indirect citations using the Harvard style.
 
 ## Direct quotations
 
@@ -43,7 +43,7 @@ In the case of typos in the original, this can be marked by the Latin \[_sic_\],
 
 ## Indirect quotations (paraphrasing)
 
-Paraphrasing involves reformulating someone else’s words. You should preferrably change both vocabulary and word order, and rewrite it using your own words. Be careful, however, not to distort the original [meaning](/en/sources-and-references/how-to-cite/#meaning).
+Paraphrasing involves reformulating someone else’s words. You should preferrably change both vocabulary and word order, and rewrite it using your own words. Be careful, however, not to distort the original [meaning](/en/sources-and-referencing/how-to-cite/#meaning).
 
 ::: eksempel EXAMPLE 
 Kloster (2003, p. 10) writes in her master thesis that the single life that exists in late modern society is a consequence of the democratisation of the private realm.
@@ -61,9 +61,9 @@ Secondary references refer to a work that you have not read, but that is discuss
 
 Start collecting your references as soon as possible and find a good system for filing them. If you only expect to use a few references, you can create a document called “List of references” in which you paste the references you want to keep. Collecting all your references in one place makes it easier to keep track of them, even if you do not use all of them in the end. It may also be a good idea to save keywords and search histories for previous searches and in the same document.
 
-Your list of references (or bibliography) is placed after the main text of your thesis. It must contain all the details needed to retrieve the sources referred to. The appearance of your list of references will depend on the [reference style](/en/sources-and-references/reference-styles/) you use. All sources referred to in your text must be included in your list of references.
+Your list of references (or bibliography) is placed after the main text of your thesis. It must contain all the details needed to retrieve the sources referred to. The appearance of your list of references will depend on the [reference style](/en/sources-and-referencing/reference-styles/) you use. All sources referred to in your text must be included in your list of references.
 
-Also non-written sources you have used, for example music, pictures and illustrations [need to be referenced](/en/sources-and-references/why-cite-sources/intellectual-property-rights/#Copyright "Intellectual property rights"). If you have many of them it may be clearest to group them separately, under a header such as "List of illustrations" or "Discography".
+Also non-written sources you have used, for example music, pictures and illustrations [need to be referenced](/en/sources-and-referencing/why-cite-sources/intellectual-property-rights/#Copyright "Intellectual property rights"). If you have many of them it may be clearest to group them separately, under a header such as "List of illustrations" or "Discography".
 
 ## QUIZ: What type of reference is this?
 

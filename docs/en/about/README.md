@@ -19,7 +19,7 @@ Search and write has four main parts:
 
 **[Writing](/en/writing/)**. In the writing section you find tips for getting started with your writing. It also deals with topics that may be of use throughout the writing process, such as: language, style and structure, and also dissemination, publication and self-archiving.
 
-**[Sources and referencing](/en/sources-and-references/)**. When writing a thesis, it is essential to give proper references to the sources you have used, we will show you how to. It is important that your sources are of a certain quality, and that you use them actively and ethically while writing.
+**[Sources and referencing](/en/sources-and-referencing/)**. When writing a thesis, it is essential to give proper references to the sources you have used, we will show you how to. It is important that your sources are of a certain quality, and that you use them actively and ethically while writing.
 
 The different phases of thesis work mutually affect each other and to some extent overlap. The site has been designed to allow easy navigation between the different pages.
 

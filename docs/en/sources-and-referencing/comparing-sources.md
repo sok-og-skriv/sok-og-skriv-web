@@ -19,5 +19,5 @@ There are many possible criteria for making comparisons. You can look for differ
 ## Compare formal quality-control criteria
 
 - What types of quality control were applied during the production of the various articles?
-- What about [peer-review](/en/sources-and-references/source-evaluation/qualitative-evaluation/#peer-review "Peer review")?
-- What does the journal’s [impact factor](/en/sources-and-references/source-evaluation/qualitative-evaluation/#impact-factor "Impact factors") suggest about the article’s value as a source for your thesis?
+- What about [peer-review](/en/sources-and-referencing/source-evaluation/qualitative-evaluation/#peer-review "Peer review")?
+- What does the journal’s [impact factor](/en/sources-and-referencing/source-evaluation/qualitative-evaluation/#impact-factor "Impact factors") suggest about the article’s value as a source for your thesis?

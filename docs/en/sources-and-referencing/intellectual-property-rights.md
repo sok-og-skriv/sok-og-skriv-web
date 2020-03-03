@@ -23,11 +23,11 @@ The economic rights give the right to collect compensation for usage. A publishe
 
 In Norway, economic rights under the Copyright Act apply for a limited period, i.e., for 70 years following the death of the creator. Similar rules apply in other countries. Once the copyright period has expired you may use a work free of charge as long as you reference it correctly.
 
-No such time limit applies to the creator’s ideal rights. Under these rights the creator has the right to be named when the work is used (the right of attribution) and the copyright holder has the right to object to misuse of the work. Misuse can include removing the work from its original context or [distorting its original meaning](/en/sources-and-references/how-to-cite/#meaning "Boolean operators"). You should proceed cautiously and respect prevailing ethical practices within your field when incorporating other people’s works in your own.
+No such time limit applies to the creator’s ideal rights. Under these rights the creator has the right to be named when the work is used (the right of attribution) and the copyright holder has the right to object to misuse of the work. Misuse can include removing the work from its original context or [distorting its original meaning](/en/sources-and-referencing/how-to-cite/#meaning "Boolean operators"). You should proceed cautiously and respect prevailing ethical practices within your field when incorporating other people’s works in your own.
 
 Intellectual property rights protect the formulation of a work. It does not protect the ideas, knowledge or methods. The protection of an idea or method as a solution of a technical problem goes through patenting. A patent gives the owner economic exclusive rights to own an invention for a limited period of time. See [The Norwegian Industrial Property Office](http://www.patentstyret.no/en/english/ "(nytt vindu)") for more information.
 
-Creators are responsible for ensuring that the contents of their work comply with [ethical guidelines](/en/sources-and-references/why-cite-sources/guidelines-on-academic-ethics/ "Ethical guidelines for academia"), unless there are specifically applicable guidelines that transfer this duty to others. In general the Copyright Act grants the creator of a work exclusive control, including the right to restrict access. Hence, the student or the researcher has the final responsibility to decide whether making their work freely available may conflict with patent considerations or further publication. In any event it is advisable to carefully consider the advice of supervisors and fellow researchers. Preferably, research papers should be written in a way that avoids having to restrict access to them.
+Creators are responsible for ensuring that the contents of their work comply with [ethical guidelines](/en/sources-and-referencing/why-cite-sources/guidelines-on-academic-ethics/ "Ethical guidelines for academia"), unless there are specifically applicable guidelines that transfer this duty to others. In general the Copyright Act grants the creator of a work exclusive control, including the right to restrict access. Hence, the student or the researcher has the final responsibility to decide whether making their work freely available may conflict with patent considerations or further publication. In any event it is advisable to carefully consider the advice of supervisors and fellow researchers. Preferably, research papers should be written in a way that avoids having to restrict access to them.
 
 <Figure
   src="/images/opphavsrett_jus_30.jpg"
@@ -36,7 +36,7 @@ Creators are responsible for ensuring that the contents of their work comply wit
   type="right"
 />
 
-A breach of the Intellectual Property Rights Act can result in unpleasant consequences. Learn correct [referencing](/en/sources-and-references/how-to-cite/), and clarify the collaborative relationships between advisor and fellow students to avoid being exploited or accused of [plagiarism](/en/sources-and-references/why-cite-sources/).
+A breach of the Intellectual Property Rights Act can result in unpleasant consequences. Learn correct [referencing](/en/sources-and-referencing/how-to-cite/), and clarify the collaborative relationships between advisor and fellow students to avoid being exploited or accused of [plagiarism](/en/sources-and-referencing/why-cite-sources/).
 
 Check the website [Clara](http://www.clara.no/english/index.html "(new window)") for information on intellectual property rights and security clearance. The web site has been established by the seven public organizations BONO, FONO, GRAMO, Kopinor, LINO, Norwaco and TONO. These organizations establish agreements on the use of works on behalf of their members.  
 
@@ -46,7 +46,7 @@ The legal position with regard to quoting from a copyright work is regulated by 
 
 > **§ 29.** You may quote from a published work provided that you comply with good practice and that the extent of the quotation does not exceed what is necessary.
 
-A quotation is defined as a non-substantial excerpt from a work (regardless of the nature of the work) for use in your own presentation. You may quote from copyright-protected work to a limited extent without obtaining permission and without payment. Nevertheless, you must remember to [reference your source correctly](/en/sources-and-references/how-to-cite/ "How to cite").
+A quotation is defined as a non-substantial excerpt from a work (regardless of the nature of the work) for use in your own presentation. You may quote from copyright-protected work to a limited extent without obtaining permission and without payment. Nevertheless, you must remember to [reference your source correctly](/en/sources-and-referencing/how-to-cite/ "How to cite").
 
 ## Using copyright-protected material
 
@@ -80,7 +80,7 @@ _Brita Olsdatter Nango, Kautokeino, 1883_. Photo: Tromholt, S. (1883) (Universit
 The right to quote applies to all types of copyrighted material. Suppose that for the purposes of your dissertation you wish to quote from TV or radio programmes or use clips of recorded music. Doing so will involve reproducing other people’s copyrighted material. If you use these quotations as part of the argument in your dissertation, either to support of criticise points of view, the criteria for the right to quote are satisfied. It is considered good practice to observe the following rules:
 
 - The quotation should only form a small part of the original.
-- Do not make quotations so brief that their original meaning is lost. Proceed with caution and comply with [ethical guidelines](/en/sources-and-references/why-cite-sources/guidelines-on-academic-ethics/) when you use other people’s work in your own presentation. Read more about [distortion of the original meaning](/en/sources-and-references/how-to-cite/#meaning).
+- Do not make quotations so brief that their original meaning is lost. Proceed with caution and comply with [ethical guidelines](/en/sources-and-referencing/why-cite-sources/guidelines-on-academic-ethics/) when you use other people’s work in your own presentation. Read more about [distortion of the original meaning](/en/sources-and-referencing/how-to-cite/#meaning).
 - Remember always to state the creator, the title and the source of the work.
 
 ### Copyright and good practice when quoting from various types of sources
@@ -89,7 +89,7 @@ For further guidance, please refer to [Clara](http://www.clara.no/english/ "(new
 
 **Radio and television programmes**
 
-In general, you will not need to get permission to use short clips. If you wish to use longer clips, you need permission from the copyright holder. Be careful not to [distort the originally intended meaning](/en/sources-and-references/how-to-cite/#meaning).
+In general, you will not need to get permission to use short clips. If you wish to use longer clips, you need permission from the copyright holder. Be careful not to [distort the originally intended meaning](/en/sources-and-referencing/how-to-cite/#meaning).
 
 **Figures**
 
@@ -105,7 +105,7 @@ Works that are reproduced in full will not normally qualify as a quotation. You 
 
 **Taking photographs of people**
 
-Remember that the people you photograph have a right to privacy. Get their permission to be photographed and explain to them where you intend to publish the resulting images. Make sure you obtain this permission in writing. See also [research ethics](/en/sources-and-references/why-cite-sources/guidelines-on-academic-ethics/).
+Remember that the people you photograph have a right to privacy. Get their permission to be photographed and explain to them where you intend to publish the resulting images. Make sure you obtain this permission in writing. See also [research ethics](/en/sources-and-referencing/why-cite-sources/guidelines-on-academic-ethics/).
 
 **Computer software**
 
