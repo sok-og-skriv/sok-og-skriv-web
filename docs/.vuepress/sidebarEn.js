@@ -68,7 +68,10 @@ module.exports = {
       children: [
         'source-evaluation',
         'qualitative-evaluation',
-        'assessing-relevance'
+        'websites',
+        'assessing-relevance',
+        'comparing-sources',
+        'text-analysis'
       ]
     }
   ],

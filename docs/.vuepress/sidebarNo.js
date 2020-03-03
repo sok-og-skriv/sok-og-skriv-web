@@ -75,13 +75,15 @@ module.exports = {
         'referansestiler/vancouver',
       ]
     }, */
-    
     {
       title: 'Kildevurdering',
       children: [
         'kildevurdering',
         'kvalitative-vurderinger',
-        'vurdering-av-relevans'
+        'nettsider',
+        'vurdering-av-relevans',
+        'kildesammenligning',
+        'tekstanalyse'
       ]
     }
   ],
