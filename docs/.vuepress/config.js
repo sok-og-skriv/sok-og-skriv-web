@@ -188,7 +188,7 @@ module.exports = {
     ],
     [
       'sitemap', {
-        hostname: 'https://sokogskriv.no'
+        hostname: 'https://sok-og-skriv.now.sh/'
       }
     ],
     [
