@@ -59,14 +59,17 @@ Like scholarly research papers, popular science articles will contain new insigh
 
 Encyclopaedias contain scholarly, quality-controlled articles and background information about a wide range of topics. Articles are collated by editors specialising in specific subject areas and are accompanied by excellent lists of references. Encyclopaedias exist both in print and online. Wikipedia is a free online encyclopaedia to which anyone may contribute. It can provide a useful starting point when looking for general information about a topic. You should always check what you find on Wikipedia against quality-controlled sources.
 
-**Tip!** Are there any specialist encyclopaedias in your subject area? If so, use them!_[  
-](http://hvalross.hib.no/sokskriv/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/malgruppe-og-sjanger/index.php?action=static&id=189 "genres")_
+::: tip Tips! 
+Are there any specialist encyclopaedias in your subject area? If so, use them!
+:::
 
 ### Op-Ed
 
-An op-ed (from "opposite the editorial page") is a relatively short newspaper article that may be informative or argumentative in nature. Researchers often use op-eds to disseminate their research to the public. See more on [op-eds on Wikipedia](http://en.wikipedia.org/wiki/Op-ed)
+An op-ed (from "opposite the editorial page") is a relatively short newspaper article that may be informative or argumentative in nature. Researchers often use op-eds to disseminate their research to the public. See more on [op-eds on Wikipedia](https://en.wikipedia.org/wiki/Op-ed)
 
-**Tip!** Use newspaper archives such as that maintained by the [National Library of Norway](http://www.nb.no/English "(new window)") or use the A-tekst digital archive to find op-eds in Norwegian newspapers.
+::: tip Tips!
+Use newspaper archives such as that maintained by the [National Library of Norway](https://www.nb.no/english) or use the A-tekst digital archive to find op-eds in Norwegian newspapers.
+:::
 
 ### Essays
 

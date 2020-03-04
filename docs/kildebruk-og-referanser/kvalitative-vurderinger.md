@@ -59,13 +59,17 @@ Den populærvitenskapelige artikkelen vil i likhet med den vitenskapelige artikk
 
 Leksika består av faglige, kvalitetssikrede artikler og bakgrunnsstoff om en mengde emner. Artiklene er samlet av egne emneredaktører innenfor ulike fagområder og har gode referanselister. De finnes både i trykte og elektroniske utgaver. Wikipedia er et fritt tilgjengelig leksikon der hvem som helst kan legge ut en artikkel. Det kan være et greit utgangspunkt for å få oversikt over emner. Du bør alltid sjekke det du finner i Wikipedia opp mot kvalitetssikrede kilder.
 
-**Tips!** Bruk fagspesifikke leksika
+::: tip Tips!
+Bruk fagspesifikke leksika
+:::
 
 ### Kronikk
 
 Kronikk er en relativt kort artikkel av opplysende eller resonnerende karakter, oftest i en avis og skrevet av en som ikke er ansatt i avisen. Kronikker benyttes ofte av forskere til å bringe forskningsbasert kunnskap inn i den offentlige meningsutvekslingen.
 
-**Tips!** Bruk avisarkiv som [Nasjonalbiblioteket](http://www.nb.no/ "Nasjonalbiblioteket") eller gå til A-tekst for å finne kronikker i norske aviser.
+::: tip Tips!
+Bruk avisarkiv som [Nasjonalbiblioteket](http://www.nb.no/ "Nasjonalbiblioteket") eller gå til A-tekst for å finne kronikker i norske aviser.
+:::
 
 ### Essay
 
@@ -75,7 +79,9 @@ Essayet er en personlig formet artikkel. Det er tydelig preget av forfatteren, a
 
 En blogg kan være en grei innfallsvinkel for å følge diskusjoner i ulike fora. Du kan abonnere på blogger som RSS feeds. Vær oppmerksom på hvem som står bak bloggen. Blogger har ofte en dagbokform og reflekterer personlige erfaringer og meninger. De bygger ikke alltid på etterprøvbare og vitenskaplig dokumementerte påstander.
 
-**Tips!** Undersøk om det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til [Forskning.no](http://www.forskning.no/blog).
+::: tip Tips!
+Undersøk om det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til [Forskning.no](http://www.forskning.no/blog).
+:::
 
 ## Utgiver
 
