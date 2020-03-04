@@ -98,7 +98,7 @@ Posterpresentasjoner er en blanding av skriftlig og muntlig presentasjon. Den br
 - Tittelen skal være kort og meningsbærende.
 - Gjør deg flid med utformingen av bilder og figurer samt deres undertekst.
 - Bruk minst mulig tekst ellers.
-- Vi har laget ett eksempel på hvordan en [poster i A0-format](http://www.ub.uib.no/sos/SoS_A0.pdf "A0-poster") kan se ut.
+- Vi har laget ett eksempel på hvordan en [poster i A0-format](https://www.ub.uib.no/sos/SoS_A0.pdf "A0-poster") kan se ut.
 
 ## Egenarkivering
 
@@ -109,9 +109,9 @@ Noen institusjonelle arkiv i Norge:
 - [Brage - Høgskulen på Vestlandet](https://hvlopen.brage.unit.no/)
 - [Brage - Norges Handelshøyskole](https://openaccess.nhh.no/ "NHH Brage")
 - [DUO - Digitale utgivelser ved Universitetet i Oslo](https://www.duo.uio.no/ "DUO")
-- [Munin - Universitetet i Tromsø](http://munin.uit.no/ "Munin")
+- [Munin - Universitetet i Tromsø](https://munin.uit.no/ "Munin")
 - [Oversikt over Brage-arkivene](https://www.unit.no/vitenarkiv-i-bragekonsortiet "Brage")
-- En liste over publiseringsarkiv i hele verden finnes på [OpenDoar](http://www.opendoar.org/countrylist.php "OpenDoar")
+- En liste over publiseringsarkiv i hele verden finnes på [OpenDoar](https://www.opendoar.org/countrylist.php "OpenDoar")
 
 Disse arkivene tilgjengeliggjør institusjonenes forskning åpent på Internett og gjør den gjenfinnbar via for eksempel Google Scholar. Dersom du ønsker å tilgjengeliggjøre din masteroppgave må du sjekke hvilke rutiner din institusjon har for innlevering. Ved noen institusjoner kan du velge å egenarkivere masteroppgaven ved innlevering til sensur, mens du ved andre institusjoner må sende inn oppgaven til arkivet selv etter sensur. Det er aldri for sent å egenarkivere, kontakt din institusjon dersom du vil tilgjengeliggjøre oppgaven i ettertid.
 
@@ -119,15 +119,15 @@ Disse arkivene tilgjengeliggjør institusjonenes forskning åpent på Internett 
 
 Ønsker du å publisere masteroppgaven din som artikkel, kapittel eller bok hos et kommersielt forlag er det viktig å sjekke forlagets retningslinjer for egenarkivering. Noen forlag ser på egenarkiverte masteroppgaver som publiserte og kan derfor _refusere manuskript basert på oppgaven_. Det vil variere om forlaget vurderer tekstens eller forskningsresultatets tilgjengelighet som grunn for refusjon. Det er derfor viktig å tenke gjennom hvordan du vil formidle masteroppgaven før du egenarkiverer, slik at du ikke reduserer dine valgmuligheter. Har du inngått en kontrakt med et forlag kan du egenarkivere oppgaven din i ettertid.
 
-Har du skrevet en artikkel kan du også egenarkivere den, dersom avtalen din med forlaget godtar dette. I Norge har forleggerforeningen i samarbeid med forfatterforeningen utarbeidet [normalkontrakt for tidsskrift](http://www.nffo.no/viewfile.aspx?id=143 "NFF normalkontrakt for tidsskrift") som tillater egenarkivering. For litterære verk utgitt i tidsskrift heter det:
+Har du skrevet en artikkel kan du også egenarkivere den, dersom avtalen din med forlaget godtar dette. I Norge har forleggerforeningen i samarbeid med forfatterforeningen utarbeidet [normalkontrakt for tidsskrift](https://www.nffo.no/viewfile.aspx?id=143 "NFF normalkontrakt for tidsskrift") som tillater egenarkivering. For litterære verk utgitt i tidsskrift heter det:
 
 > _Forlagets rett til digital fremstilling, mangfoldiggjøring og utgivelse av Verket (den aksepterte versjonen, ed.) er ikke-eksklusiv. Forfatteren kan ta med Verket på sitt eget nettsted eller på nettsted som Forfatterens arbeidsgiver har etablert._
 
-For internasjonale tidsskrifter kan du sjekke [Sherpa/Romeo databasen](http://www.sherpa.ac.uk/romeo/ "Sherpa Romeo database") for forlagets holdning til egenarkivering. Denne databasen gir en oversikt over de fleste forlag og tidsskrift, og gir opplysninger om hvilken versjon av artikler forlaget/tidsskriftet godkjenner for egenarkivering.
+For internasjonale tidsskrifter kan du sjekke [Sherpa/Romeo databasen](https://www.sherpa.ac.uk/romeo/ "Sherpa Romeo database") for forlagets holdning til egenarkivering. Denne databasen gir en oversikt over de fleste forlag og tidsskrift, og gir opplysninger om hvilken versjon av artikler forlaget/tidsskriftet godkjenner for egenarkivering.
 
 Hvis du har spørsmål om opphavsrett, egenarkivering og ulike versjoner av artikler, kontakt biblioteket for hjelp. For mer informasjon om open access publisering og egenarkivering i Norge, for eksempel norske forlags praksis, se det norske nettstedet [openaccess.no](https://www.openaccess.no/ "Openaccess.no").
 
-Mer informasjon om publisering finnes på [PhD on track.](http://www.phdontrack.net/share-and-publish/)
+Mer informasjon om publisering finnes på [PhD on track.](https://www.phdontrack.net/share-and-publish/)
 
 **Videre lesing**:  
 Dysthe, O. og Kjeldsen, J.E. (1999) _Skriveråd for studenter._  Læring ved universitetet, nr. 1/99. Bergen: Universitetet i Bergen.  

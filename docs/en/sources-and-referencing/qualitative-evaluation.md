@@ -15,7 +15,7 @@ Form a view on the basis of your assessment as to whether the source is useful f
 
 All sources must be evaluated in the light of the authors' scholarly background. Are they specialists in the area? Or do they have another background? These are questions you need to answer before using the source in your thesis. If you already have a relevant reference to an author, you can investigate whether:
 
-- They have written other material on the same topic – search for the author’s name in [Oria](http://oria.no "Oria") or other databases.
+- They have written other material on the same topic – search for the author’s name in [Oria](https://oria.no "Oria") or other databases.
 - Search for articles and books that are referred to in the source you are evaluating.  
     Look at the list of references at the end of the text. Could these articles and books also be relevant for you?
 - Do a citation search to find out who has used the source in more recent research. Citation searches can be carried out using the ISI Web of Science database.
@@ -80,7 +80,7 @@ An essay is an article written from the author’s personal point of view. The t
 Blogs can be useful for keeping track of discussions in different fora. You can subscribe to blogs as RSS feeds. Make sure you know who is responsible for the blog. Blogs often take the form of a daily journal and reflect personal experiences and opinions. Claims made in blogs will not necessarily be verifiable or properly documented.
 
 ::: tip Tip!
-Are there any scholarly blogs in your subject area? See for example [Language Log](http://languagelog.ldc.upenn.edu/nll/ and the [Nature News Blog](http://blogs.nature.com/news).
+Are there any scholarly blogs in your subject area? See for example [Language Log](https://languagelog.ldc.upenn.edu/nll/ and the [Nature News Blog](https://blogs.nature.com/news).
 :::
 
 ## Publisher

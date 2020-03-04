@@ -53,7 +53,7 @@ Argumentasjonen i en akademisk tekst er ofte kompleks. En tilnærmet fullstendig
 
 ::: oppgave OPPGAVE
 
-Spørsmålene over kan du samle til en spørremetode (vi kaller metoden [Toulmins argumentasjonsmodell](http://folk.uib.no/st10938/toulmin-andrestekst/argument.html)).  
+Spørsmålene over kan du samle til en spørremetode (vi kaller metoden [Toulmins argumentasjonsmodell](https://folk.uib.no/st10938/toulmin-andrestekst/argument.html)).  
 Spør:
 
 1. Hva er **hovedpåstanden** til forfatteren?

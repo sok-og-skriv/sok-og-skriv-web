@@ -51,7 +51,7 @@ What types of **qualifiers** are used by the authors when presenting the claim? 
 
 ::: oppgave EXERCISE
 
-Gather the questions above and use them as a method to ask questions to the texts you are reading (the method is called [the Toulmin model on argumentation](http://folk.uib.no/st10938/toulmin-otherstext/argument.html)).  
+Gather the questions above and use them as a method to ask questions to the texts you are reading (the method is called [the Toulmin model on argumentation](https://folk.uib.no/st10938/toulmin-otherstext/argument.html)).  
 Ask:
 
 1. What does the author **claim**?

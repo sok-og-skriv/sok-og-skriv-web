@@ -87,7 +87,7 @@ NOU 1999: 13. (1999). _Kvinners helse i Norge_. Oslo: Sosial- og helsedepartemen
 
 ... behandling av hjerteinfarkt (NOU 1999: 13, 1999, s. 559).
 
-NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra http://www.regjeringen.no/
+NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra https://www.regjeringen.no/
 :::
 
 ## Ramme- og læreplaner
@@ -98,7 +98,7 @@ Kilden i refereranselisten
 
 (Organisasjon, årstall, sidetall)
 
-Organisasjon. (årstall). _Tittel_ (kode). Hentet fra http://....
+Organisasjon. (årstall). _Tittel_ (kode). Hentet fra https://....
 
 \*Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
@@ -108,7 +108,7 @@ Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hent
 
 Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
 
-Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [http://www.udir.no/kl06/NOR1-05](http://www.udir.no/kl06/NOR1-05/Hele/)
+Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)
 
 I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
 
@@ -130,4 +130,4 @@ Nordisk ministerråd. (2009). _Naturopplevelse, friluftsliv og vår psykiske hel
 
 ...(Hansen & Slagsvold, 2013, s. 8)
 
- Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra http://www.nova.no/
+ Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra https://www.nova.no/

@@ -15,7 +15,7 @@ Benum, E. (2003) Universiteter, akademisk integritet og kommersialisering. _Nytt
 
 Brodersen, R.B., Bråten, F.J., Reiersgaard, A., Slethei, K. og Ågotnes, K. (2007) _Tekstens autoritet: tekstanalyse og skriving i akademia_. Oslo: Universitetsforlaget.
 
-Carroll, J. og Zetterling, C.-M. (2009) _Guiding students away from plagiarism_ \[Internett\]. Stockholm: KTH Learning Lab. Tilgjengelig fra: <[http://people.kth.se/~ambe/KTH/Guidingstudents.pdf](http://people.kth.se/~ambe/KTH/Guidingstudents.pdf)\> \[Lest 5. september 2015\].
+Carroll, J. og Zetterling, C.-M. (2009) _Guiding students away from plagiarism_ \[Internett\]. Stockholm: KTH Learning Lab. Tilgjengelig fra: <[https://people.kth.se/~ambe/KTH/Guidingstudents.pdf](https://people.kth.se/~ambe/KTH/Guidingstudents.pdf)\> \[Lest 5. september 2015\].
 
 Christie, N. (1983) _Tolv råd om skriving._ Oslo: Universitetet i Oslo, Kvinneretten.
 
@@ -31,7 +31,7 @@ Førland, T.E. (1996) _Drøft: lærebok i oppgaveskriving_. Oslo: Ad notam Gylde
 
 Haraldstad, A.-M.B. og Christophersen, E. (2008) Litteratursøk og personlige referansedatabaser. I: Laake, P., Olsen, B.R. og Benestad, H.B. red. _Forskning i medisin og biofag._ 2. utg. Oslo: Gyldendal akademisk, s. 147-186.
 
-Hyldegård, J., Lund, H., Moring, C., Pors, N.O. og Schreiber, T. (2011) _Studerende, læring og webtutorials: en analyse af 3 norske læringssystemer_ \[Internett\]. København: Det informationsvidenskabelige akademi. Tilgjengelig fra: <[http://pure.iva.dk/files/31062163/Studerende\_l\_ring\_og\_webtutorials.pdf](http://pure.iva.dk/files/31062163/Studerende_l_ring_og_webtutorials.pdf)\> \[Lest 15. juni 2011\].
+Hyldegård, J., Lund, H., Moring, C., Pors, N.O. og Schreiber, T. (2011) _Studerende, læring og webtutorials: en analyse af 3 norske læringssystemer_ \[Internett\]. København: Det informationsvidenskabelige akademi. Tilgjengelig fra: <[https://pure.iva.dk/files/31062163/Studerende\_l\_ring\_og\_webtutorials.pdf](https://pure.iva.dk/files/31062163/Studerende_l_ring_og_webtutorials.pdf)\> \[Lest 15. juni 2011\].
 
 Kavli, S., Mitternacht, S., Seland, E.H. og Solheim, B. (2014) Søk & Skriv: hjelp til skriving og etisk kjeldebruk i høgare utdanning. _Bibliotheca Nova_, (2), s. 22-33.
 

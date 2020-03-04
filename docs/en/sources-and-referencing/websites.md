@@ -19,20 +19,20 @@ The internet offers access to scholarly information, official information and st
 
 ## Web addresses (URLs)
 
-URL – “Uniform Resource Locator” – is the term used to describe a website’s address on the internet. We find a website by entering its URL into the web browser’s address bar. The URL for Statistics Norway’s website is: [http://www.ssb.no/](http://www.ssb.no/ "http://www.ssb.no/"). The URL for Statistic Norway’s page about children is: [http://www.ssb.no/emner/02/01/20/barn/](http://www.ssb.no/emner/02/01/20/barn/ "children")
+URL – “Uniform Resource Locator” – is the term used to describe a website’s address on the internet. We find a website by entering its URL into the web browser’s address bar. The URL for Statistics Norway’s website is: [https://www.ssb.no/](https://www.ssb.no/ "https://www.ssb.no/"). The URL for Statistic Norway’s page about children is: [https://www.ssb.no/emner/02/01/20/barn/](https://www.ssb.no/emner/02/01/20/barn/ "children")
 
 A URL consists of three components.
 
 1. **Transfer protocol**  
     In our example, the protocol is **http**. This is one of the most common protocols. Another common protocol is ftp.
 2. **Domain names**  
-    In our example, the domain name comprises [www.ssb.no](http://www.ssb.no/ "http://www.ssb.no/"). The final part of the domain name denotes the type of domain. In our example, the final part is the top-level domain (TLD) .**no**. This is an example of a country-code TLD, in that “.no” stands for Norway.
+    In our example, the domain name comprises [www.ssb.no](https://www.ssb.no/ "https://www.ssb.no/"). The final part of the domain name denotes the type of domain. In our example, the final part is the top-level domain (TLD) .**no**. This is an example of a country-code TLD, in that “.no” stands for Norway.
 3. **Paths**  
-    By entering the exact URL in the address bar, you can proceed directly to a particular page. A path is used to indicate the lower-level pages in a website. To go directly to the Statistics Norway page with statistics about children, you should enter the correct path in the address bar: [http://www.ssb.no/emner/02/01/20/barn/](http://www.ssb.no/emner/02/01/20/barn/ "children") Thus the path is: **/emner/02/01/20/barn/**
+    By entering the exact URL in the address bar, you can proceed directly to a particular page. A path is used to indicate the lower-level pages in a website. To go directly to the Statistics Norway page with statistics about children, you should enter the correct path in the address bar: [https://www.ssb.no/emner/02/01/20/barn/](https://www.ssb.no/emner/02/01/20/barn/ "children") Thus the path is: **/emner/02/01/20/barn/**
 
 ## Who is responsible for the website?
 
-Websites created by private individuals often have long, complicated URLs. These will often be linked to the server’s URL by a tilde **(~)**. Major organisations or public authorities often have top-level domains (TLDs) such as .**no** (Norway). Other examples are **.se** (Sweden) **.dk** (Denmark) and **.de** (Germany). The USA and the UK have several other top-level domains, e.g., **.gov** (the public sector) and **.edu** (the educational sector). Websites may have other TLDs than a country-code TLD. Examples include **.org** (organisation) or **.com** (commercial). Be aware that absolutely anyone can purchase a URL ending in the commercial TLD **.com.** The registry for Norwegian domain names is run by [NORID](http://www.norid.no/index.en.html "(new window)"). This body maintains a list of [all Norwegian domain names](http://www.norid.no/domenenavnbaser/domreg.html "(new window)")
+Websites created by private individuals often have long, complicated URLs. These will often be linked to the server’s URL by a tilde **(~)**. Major organisations or public authorities often have top-level domains (TLDs) such as .**no** (Norway). Other examples are **.se** (Sweden) **.dk** (Denmark) and **.de** (Germany). The USA and the UK have several other top-level domains, e.g., **.gov** (the public sector) and **.edu** (the educational sector). Websites may have other TLDs than a country-code TLD. Examples include **.org** (organisation) or **.com** (commercial). Be aware that absolutely anyone can purchase a URL ending in the commercial TLD **.com.** The registry for Norwegian domain names is run by [NORID](https://www.norid.no/index.en.html). This body maintains a list of [all Norwegian domain names](https://www.norid.no/domenenavnbaser/domreg.html)
 
 ## DOI - Digital Object Identifier
 

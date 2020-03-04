@@ -45,7 +45,7 @@ Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https:
 
 Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com \*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
 
-Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](http://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra http://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
+Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](https://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra https://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
 
 ## Kapittel i redigert bok
 
@@ -73,7 +73,7 @@ Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser 
 
 Trykt oppgave: Forfatter, A. A. (Årstall). _Tittel_ (Masteroppgave). Institusjon, Sted.
 
-Avhandling på nett: Forfatter, A. A. (Årstall). _Tittel_ (Doktoravhandling, institusjon). Hentet fra http://URL
+Avhandling på nett: Forfatter, A. A. (Årstall). _Tittel_ (Doktoravhandling, institusjon). Hentet fra https://URL
 :::
 
 ::: details Eksempler
@@ -83,5 +83,5 @@ Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekst
 
 ... (Våpenstad, 2011, s. 59).
 
- Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse av psykoterapeutens subjektivitet i psykoanalyse og psykoanalytisk psykoterapi_ (Doktoravhandling). Hentet fra https://bora.uib.no/handle/1956/4788\*Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) trenger ikke ha med institusjonsnavnet. Se kap. 7.05 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
+ Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse av psykoterapeutens subjektivitet i psykoanalyse og psykoanalytisk psykoterapi_ (Doktoravhandling). Hentet fra https://bora.uib.no/handle/1956/4788\*Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) trenger ikke ha med institusjonsnavnet. Se kap. 7.05 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
 :::

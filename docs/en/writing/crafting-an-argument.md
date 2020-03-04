@@ -62,5 +62,5 @@ Ask questions to your own text:
 5. From where can you find **backing** and support to use this method? 
 6. To which degree is your claim certain, probable or possible? How will you **qualify** your claim?
 
-Use [Toulmins model on argumentation](http://folk.uib.no/st10938/toulmin-owntext/argument.html) to clarify arguments and claims in your thesis.
+Use [Toulmins model on argumentation](https://folk.uib.no/st10938/toulmin-owntext/argument.html) to clarify arguments and claims in your thesis.
 :::

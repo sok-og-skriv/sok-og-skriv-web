@@ -83,17 +83,17 @@ Kloster, K. (2003) _Singelliv: i grenselandet mellom enslighet og parforhold._ M
 
 Munch, E. (1893) _The Scream._ Oslo, National Museum of Art, Architecture and Design, NG.M.00939, photographs by Jacques Lathio.  
 
-Rognstad, O-A., Nagel, A-H., Laupsa, H. & Tønnesson, J. L. (2006) _God skikk – Om bruk av litteratur og kilder i allmenne, historiske framstillinger_. Available at: <[http://uit.no/getfile.php?PageId=5839&FileId=38](http://uit.no/getfile.php?PageId=5839&FileId=38 "(new window)")_\> \[ Retrieved on 28 November 2007\]._
+Rognstad, O-A., Nagel, A-H., Laupsa, H. & Tønnesson, J. L. (2006) _God skikk – Om bruk av litteratur og kilder i allmenne, historiske framstillinger_. Available at: <[https://uit.no/getfile.php?PageId=5839&FileId=38](https://uit.no/getfile.php?PageId=5839&FileId=38)_\> \[ Retrieved on 28 November 2007\]._
 
 # Reference management tools
 
 When working on a long text such as a bachelor’s or master’s thesis, reference management programs such as EndNote, ReferenceManager, Zotero or Mendeley are useful. A reference list can be created automatically from the citations in your text when such a program is used together with a word processor. You can also easily change to a different reference style if necessary.
 
-Ask your institution what reference management software is available. [Zotero](http://www.zotero.org/) and [Mendeley](http://www.mendeley.com/) are freely available.
+Ask your institution what reference management software is available. [Zotero](https://www.zotero.org/) and [Mendeley](https://www.mendeley.com/) are freely available.
 
 ## Exporting your references
 
-Instead of copying and pasting your references, you can usually export them from the database you are searching in. Most databases such as [Oria](http://oria.no "Oria"), JSTOR, Bibliotekportalen and Web of Science have an export function that can be used to streamline your writing process and help you avoid referencing errors.
+Instead of copying and pasting your references, you can usually export them from the database you are searching in. Most databases such as [Oria](https://oria.no "Oria"), JSTOR, Bibliotekportalen and Web of Science have an export function that can be used to streamline your writing process and help you avoid referencing errors.
 
 # Notes/appendices
 
@@ -106,7 +106,7 @@ Instead of copying and pasting your references, you can usually export them from
 
 # Distortion of the original meaning
 
-Even when you are quoting a text correctly (citing the source/indicating the presence of a quotation), be careful not to take the quotation out of its original context. Apart from ethical considerations, you will risk violating the [Copyright Act](https://lovdata.no/lov/2018-06-15-40 "(new window)"), as Section 25 of the Act provides, among other things, that the character of a work must not be changed or degraded. Be careful not to distort the original meanings of texts when you are assembling arguments put forward by different authors. For example, be careful when shortening quotations and do not omit references to conflicting data or arguments.
+Even when you are quoting a text correctly (citing the source/indicating the presence of a quotation), be careful not to take the quotation out of its original context. Apart from ethical considerations, you will risk violating the [Copyright Act](https://lovdata.no/lov/2018-06-15-40), as Section 25 of the Act provides, among other things, that the character of a work must not be changed or degraded. Be careful not to distort the original meanings of texts when you are assembling arguments put forward by different authors. For example, be careful when shortening quotations and do not omit references to conflicting data or arguments.
 
 ::: oppave EXERCISE
 

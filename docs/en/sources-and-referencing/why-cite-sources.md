@@ -17,7 +17,7 @@ Accurate referencing allows the reader to quickly:
 
 Make sure to cite your sources accurately in order to avoid accusations of plagiarism. Plagiarism means presenting other people’s results, thinking, ideas or formulations as your own. Plagiarism is considered intellectual theft under the Norwegian [Copyright Act](https://lovdata.no/lov/2018-06-15-40) and also to constitute cheating.
 
-Pursuant to Sections 4-7 and 4-8 of the Norwegian [Universities and University Colleges Act](http://www.lovdata.no/all/nl-20050401-015.html "(new window)"), plagiarism is grounds for examination failure and expulsion. An allegation of plagiarism may also delay your academic progress. This in turn may affect your eligibility for a student loan or (if you are a foreign student) renewal of your visa.
+Pursuant to Sections 4-7 and 4-8 of the Norwegian [Universities and University Colleges Act](https://www.lovdata.no/all/nl-20050401-015.html), plagiarism is grounds for examination failure and expulsion. An allegation of plagiarism may also delay your academic progress. This in turn may affect your eligibility for a student loan or (if you are a foreign student) renewal of your visa.
 
 All higher educational institutions are alert to plagiarism and many use plagiarism-detection software.
 

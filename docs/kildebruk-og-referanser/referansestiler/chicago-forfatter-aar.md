@@ -152,7 +152,7 @@ Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): 
 
 … som Hagen påpeker (2011, 38).
 
-Hagen, Erik Bjerck. 2011. «Litteraturvitenskap som litteraturkritikk.» _Norsk litteraturvitenskapelig tidsskrift_ 14 (1): 34–41. http://www.idunn.no/ts/nlvt/2011/01/art03.
+Hagen, Erik Bjerck. 2011. «Litteraturvitenskap som litteraturkritikk.» _Norsk litteraturvitenskapelig tidsskrift_ 14 (1): 34–41. https://www.idunn.no/ts/nlvt/2011/01/art03.
 
 Turgåing ble viktig i nasjonalromatiske bevegelser (Ween og Abram, 156).
 
@@ -225,7 +225,7 @@ _Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato, URL/DOI.
 
 … og det er påvist at Locke arbeidet med toleranseproblemet i en årrekke (_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19.august, 2019).
 
-_The Internet Encyclopedia of Philosophy,_ s.v. «John Locke (1632–1749),» lest 19. august 2019, [http://www.iep.utm.edu/locke/](http://www.iep.utm.edu/locke/).
+_The Internet Encyclopedia of Philosophy,_ s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
 
 ### Artikkel i trykt leksikon
 
@@ -261,7 +261,7 @@ Etternavn, Fornavn. _Tittel._ Årstall. Medium. Inventarnummer. Eieren av bildet
 
 Billedtekst, for eksempel: Passepike i Bergen i mellomkrigstiden: _St. Hans Strædet_, ca. 1920. Foto: Olai Schumann Olsen. Gjengitt med tillatelse fra Universitetsbiblioteket i Bergen.
 
-Olsen, Olai Schumann. _St. Hans Strædet. _Ca. 1920.Foto. UBB-SO-0434. Universitetsbiblioteket i Bergen. http://marcus.uib.no/instance/photograph/ubb-so-0434.
+Olsen, Olai Schumann. _St. Hans Strædet. _Ca. 1920.Foto. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434.
 
 ### Reproduksjon av kunstverk
 
@@ -275,7 +275,7 @@ Etternavn, Fornavn. _Tittel._ Årstall. Medium. Størrelse. Inventarnummer. Eier
 
 Billedtekst, for eksempel: Edvard Munchs maleri «Skrik» fra 1893. Gjengitt med tillatelse fra Nasjonalmuseet for kunst, arkitektur og design.
 
-Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.00939. Nasjonalmuseet for kunst, arkitektur og design. 2. Februar 2013. [http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939).
+Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.00939. Nasjonalmuseet for kunst, arkitektur og design. 2. Februar 2013. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939).
 
 ### Digitale bilder/film
 
@@ -323,7 +323,7 @@ Lovens korttittel. _Lovens fulle tittel av dato nr_. Evt. nettadresse.
 
 … slik det formuleres i lovteksten (Introduksjonsloven, § 3, 2003).
 
-Introduksjonsloven. _Lov om introduksjonsordning og norskopplæring for nyankomne innvandrere av 4. juli 2003 nr.80._ [http://www.lovdata.no/all/nl-20030704-080.html](http://www.lovdata.no/all/nl-20030704-080.html).
+Introduksjonsloven. _Lov om introduksjonsordning og norskopplæring for nyankomne innvandrere av 4. juli 2003 nr.80._ [https://www.lovdata.no/all/nl-20030704-080.html](https://www.lovdata.no/all/nl-20030704-080.html).
 
 ### Forskrifter
 
@@ -337,7 +337,7 @@ Forskriftens kortittel. _Forskriftens fulle tittel._ Fastsatt ved kgl. res. dato
 
 … slik det også er fastslått i gjeldende forskrifter (Forskrift om habilitering og rehabilitering, § 10, 2011).
 
-Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehabilitering, individuell plan og koordinator._ Fastsatt ved kgl. res. 16.desember 2011. [http://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html](http://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html).
+Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehabilitering, individuell plan og koordinator._ Fastsatt ved kgl. res. 16.desember 2011. [https://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html](https://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html).
 
 ### Stortingsmeldinger og proposisjoner
 
@@ -351,7 +351,7 @@ Departement. «Tittel på stortingsmelding.» St. meld. nr. (sesjon dvs. årstal
 
 … slik det også nevnes i Stoltenberg-regjeringens stortingsmelding om arbeidsinnvandring (Arbeids- og inkluderingsdepartementet 2008, 31).
 
-Arbeids- og inkluderingsdepartementet. «Arbeidsinnvandring.» St. meld. nr. 18 (2007–2008). Oslo: Arbeids- og inkluderingsdepartementet, 2008. [http://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?id=507744](http://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?showdetailedtableofcontents=true&id=507744).
+Arbeids- og inkluderingsdepartementet. «Arbeidsinnvandring.» St. meld. nr. 18 (2007–2008). Oslo: Arbeids- og inkluderingsdepartementet, 2008. [https://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?id=507744](https://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?showdetailedtableofcontents=true&id=507744).
 
 ### Norges offentlige utredninger (NOU)
 
@@ -365,7 +365,7 @@ NOU årstall: nr. _Tittel._ Utgiversted: Utgiver. Eventuelt nedlastningsinformas
 
 Som påpekt i utredningen (NOU 2011: 18, 25)...
 
-NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [http://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064](http://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064).
+NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [https://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064](https://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064).
 
 ### Hellige skrifter og klassiske tekster
 

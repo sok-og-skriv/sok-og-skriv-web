@@ -18,7 +18,7 @@ The credibility of research at higher-education institutions depends on reflecti
 Research ethics comprises:
 
 - Internal ethical standards developed and upheld by the researchers themselves
-- External ethical standards supervised by, among others, the [Research Council of Norway](http://www.etikkom.no/en/In-English/)
+- External ethical standards supervised by, among others, the [Research Council of Norway](https://www.etikkom.no/en/In-English/)
 
 According to the internal ethical:
 
@@ -41,15 +41,15 @@ The following requirements apply if your research involves human participants:
 - Research should first be done on such persons as are best suited (healthy adults), progressing from there to more vulnerable groups, if this will benefit them.
 - Proper consent must be obtained from participants. The granting of consent must not in any way be influenced by any direct or indirect coercion.
 - Research projects must not control or manipulate persons
-- Researchers and students who are intending to carry out a project involving the processing of personal data must complete a [notification form](http://www.nsd.uib.no/personvernombud/en/notify/) and send it to the Data Protection Official for Research.
+- Researchers and students who are intending to carry out a project involving the processing of personal data must complete a [notification form](https://www.nsd.uib.no/personvernombud/en/notify/) and send it to the Data Protection Official for Research.
 
 Research committees are responsible for ensuring that projects comply with the above requirements before research commences. You must also ensure that your thesis complies with the above requirements.
 
 The following commitees on ethical guidelines can be found in Norway:
 
-- [The National Committee for Medical and Health Research Ethics (NEM)](http://www.etikkom.no/Vart-arbeid/Hvem-er-vi/Komite-for-medisin-og-helsefag/ "(new window)")  
-    with references to [the Helsinki Declaration](http://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Helsinki-deklarasjonen/ "(new window)"), [the Vancouver Convention](http://www.icmje.org/ "(new window)") and [guidelines of the inclusion of women in medical research](http://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Inklusjon-av-kvinner/ "(in Norwegian)")
-- [Guidelines for research ethics in the social sciences, law, the humanities and theology](http://www.etikkom.no/Forskningsetikk/Etiske-retningslinjer/Samfunnsvitenskap-jus-og-humaniora/ "(in Norwegian)")
-- [Guidelines for research ethics in science and technology](http://www.etikkom.no/Documents/English-publications/Guidelines%20for%20research%20ethics%20in%20science%20and%20technology%20%282008%29.pdf "(new window)")
+- [The National Committee for Medical and Health Research Ethics (NEM)](https://www.etikkom.no/Vart-arbeid/Hvem-er-vi/Komite-for-medisin-og-helsefag/)  
+    with references to [the Helsinki Declaration](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Helsinki-deklarasjonen/), [the Vancouver Convention](https://www.icmje.org/) and [guidelines of the inclusion of women in medical research](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Inklusjon-av-kvinner/ "(in Norwegian)")
+- [Guidelines for research ethics in the social sciences, law, the humanities and theology](https://www.etikkom.no/Forskningsetikk/Etiske-retningslinjer/Samfunnsvitenskap-jus-og-humaniora/ "(in Norwegian)")
+- [Guidelines for research ethics in science and technology](https://www.etikkom.no/Documents/English-publications/Guidelines%20for%20research%20ethics%20in%20science%20and%20technology%20%282008%29.pdf)
 
-Source: [www.etikkom.no/en/In-English/](http://www.etikkom.no/en/In-English/ "(new window)")
+Source: [www.etikkom.no/en/In-English/](https://www.etikkom.no/en/In-English/)

@@ -16,7 +16,7 @@ Ut fra vurderingene dine tar du stilling til om kilden er nyttig og god for arbe
 
 Alle kilder bør vurderes ut fra hvilken faglig bakgrunn forfatteren har. Er vedkommende fagekspert på området, eller har forfatteren en annen bakgrunn? Dette bør du undersøke før du anvender kilden i oppgaven din. Dersom du allerede har en aktuell referanse til en forfatter, kan du undersøke om:
 
-- Forfatteren har skrevet noe mer om samme emne - søk på forfatter i [Oria](http://oria.no "Oria") eller andre databaser.
+- Forfatteren har skrevet noe mer om samme emne - søk på forfatter i [Oria](https://oria.no "Oria") eller andre databaser.
 - Du kan søke opp artikler og bøker som det refereres til i den aktuelle referansen. Se i referanselisten til slutt i teksten. Kan disse også være aktuelle for deg?
 - Siteringssøk bruker du når du skal finne ut hvem som har brukt den aktuelle referansen i nyere forskning. Siteringssøk kan utføres i databasen ISI Web of Science
 - Vil du sjekke hvem som har sitert et bestemt arbeid av en forfatter søker du på en kombinasjon av forfatter og arbeid (tidsskrifttittel eller boktittel forkortet), eller årstallet for når det aktuelle arbeidet ble publisert
@@ -68,7 +68,7 @@ Bruk fagspesifikke leksika
 Kronikk er en relativt kort artikkel av opplysende eller resonnerende karakter, oftest i en avis og skrevet av en som ikke er ansatt i avisen. Kronikker benyttes ofte av forskere til å bringe forskningsbasert kunnskap inn i den offentlige meningsutvekslingen.
 
 ::: tip Tips!
-Bruk avisarkiv som [Nasjonalbiblioteket](http://www.nb.no/ "Nasjonalbiblioteket") eller gå til A-tekst for å finne kronikker i norske aviser.
+Bruk avisarkiv som [Nasjonalbiblioteket](https://www.nb.no/ "Nasjonalbiblioteket") eller gå til A-tekst for å finne kronikker i norske aviser.
 :::
 
 ### Essay
@@ -80,7 +80,7 @@ Essayet er en personlig formet artikkel. Det er tydelig preget av forfatteren, a
 En blogg kan være en grei innfallsvinkel for å følge diskusjoner i ulike fora. Du kan abonnere på blogger som RSS feeds. Vær oppmerksom på hvem som står bak bloggen. Blogger har ofte en dagbokform og reflekterer personlige erfaringer og meninger. De bygger ikke alltid på etterprøvbare og vitenskaplig dokumementerte påstander.
 
 ::: tip Tips!
-Undersøk om det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til [Forskning.no](http://www.forskning.no/blog).
+Undersøk om det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til [Forskning.no](https://www.forskning.no/blog).
 :::
 
 ## Utgiver

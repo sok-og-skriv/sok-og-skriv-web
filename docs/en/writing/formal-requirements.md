@@ -17,7 +17,7 @@ Many departments have their own title page template available for you to use. Ty
 - Institutional affiliation (university, faculty, department, subject, etc.)
 - Semester or date
 
-Here you can download title page from [University of Oslo](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html) and the logo for the [University of Bergen](http://kapd.h.uib.no/profilmanual/99LastNed/99a_lastned.html). For Western Norway University of Applied Sciences (HVL), confer [this website](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/).
+Here you can download title page from [University of Oslo](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html) and the logo for the [University of Bergen](https://kapd.h.uib.no/profilmanual/99LastNed/99a_lastned.html). For Western Norway University of Applied Sciences (HVL), confer [this website](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/).
 
 ## Templates
 

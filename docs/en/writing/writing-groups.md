@@ -47,9 +47,9 @@ The group should agree to meet regularly. The members should commit to attending
 
 ## Joint writing tools
 
-If you participate in a study group where you are to hand in a text togehther there are several [joint writing tools](http://en.wikipedia.org/wiki/Collaborative_real-time_editor "(new window)"). Word, e-mail or a virtual learning environment are not always suitable when you want to create texts jointly with other writers. A simple and useful option is the document and spread-sheet modules in Google Drive, which is a free, low-threshold online service.
+If you participate in a study group where you are to hand in a text togehther there are several [joint writing tools](https://en.wikipedia.org/wiki/Collaborative_real-time_editor). Word, e-mail or a virtual learning environment are not always suitable when you want to create texts jointly with other writers. A simple and useful option is the document and spread-sheet modules in Google Drive, which is a free, low-threshold online service.
 
-You can decide who is included in the writing group, others are denied access. The service allows flexible text editing by several writers simultaneously on-line. A joint writing tool manages and maintains control of contributions so that you can write while in direct virtual communication with the rest of the group. Text can be saved in many formats or be published as a blog. For those who would like to find out more about the tools from Google, we refer to the [Wikipedia article](http://en.wikipedia.org/wiki/Google_Drive).
+You can decide who is included in the writing group, others are denied access. The service allows flexible text editing by several writers simultaneously on-line. A joint writing tool manages and maintains control of contributions so that you can write while in direct virtual communication with the rest of the group. Text can be saved in many formats or be published as a blog. For those who would like to find out more about the tools from Google, we refer to the [Wikipedia article](https://en.wikipedia.org/wiki/Google_Drive).
 
 ## Keep the writing process going
 

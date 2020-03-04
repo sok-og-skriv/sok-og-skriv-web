@@ -15,6 +15,6 @@ There are some common words that are often used wrongly. Sometimes words are use
 
 See examples at:
 
-- [http://oxforddictionaries.com/words/commonly-confused-words](http://oxforddictionaries.com/words/commonly-confused-words)
-- [http://www.hamilton.edu/writing/writing-resources/commonly-confused-words](http://www.hamilton.edu/writing/writing-resources/commonly-confused-words)
-- [http://wsuonline.weber.edu/wrh/words.htm](http://wsuonline.weber.edu/wrh/words.htm)
+- [https://oxforddictionaries.com/words/commonly-confused-words](https://oxforddictionaries.com/words/commonly-confused-words)
+- [https://www.hamilton.edu/writing/writing-resources/commonly-confused-words](https://www.hamilton.edu/writing/writing-resources/commonly-confused-words)
+- [https://wsuonline.weber.edu/wrh/words.htm](https://wsuonline.weber.edu/wrh/words.htm)

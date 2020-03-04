@@ -221,7 +221,7 @@ Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av beveg
 
 ^13^ Sjöstrand, "Raka eller böjda ben?".^14^ s. 10–11.
 
-Sjöstrand, Ylva. "Raka eller böjda ben? Om variation bland älgarna på Nämforsens hällristningar". _Fornvännen_ 105, (2010): 9–19. 26.05.2014. [http://kulturarvsdata.se/raa/fornvannen/html/2010\_009](http://kulturarvsdata.se/raa/fornvannen/html/2010_009)
+Sjöstrand, Ylva. "Raka eller böjda ben? Om variation bland älgarna på Nämforsens hällristningar". _Fornvännen_ 105, (2010): 9–19. 26.05.2014. [https://kulturarvsdata.se/raa/fornvannen/html/2010\_009](https://kulturarvsdata.se/raa/fornvannen/html/2010_009)
 
 ### Artikkel i nettavis
 
@@ -241,7 +241,7 @@ Målgruppen for Hansaspillet er både fastboende og turister.^15^
 
 ^15^ Røyrane, "Hanseatene kommer tilbake".
 
-Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [http://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](http://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
+Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
 
 ### Artikkel i trykt avis
 
@@ -281,7 +281,7 @@ Nettsted. "Artikkeltittel." Dato. URL/DOI
 
 ^17^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
 
-^17^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [http://www.ssb.no/trosamf/](http://www.ssb.no/trosamf/)
+^17^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
 
 ### Nettside med forfatter / Blogg
 
@@ -301,7 +301,7 @@ Etternavn, Fornavn. ”Artikkeltittel,” Navn på nettsted/blogg. Dato (publise
 
 ^18^ Tetens, "Dishing the Victorian Dirt".
 
-Tetens, Kristian. "Dishing the Victorian Dirt," _The Victorian Peeper. Nineteenth-century Britain through the looking glass_ (blogg). 25.04.2011. [http://www.victorianpeeper.blogspot.com/](http://www.victorianpeeper.blogspot.com/)
+Tetens, Kristian. "Dishing the Victorian Dirt," _The Victorian Peeper. Nineteenth-century Britain through the looking glass_ (blogg). 25.04.2011. [https://www.victorianpeeper.blogspot.com/](https://www.victorianpeeper.blogspot.com/)
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
@@ -317,7 +317,7 @@ I noten og referanseliste
 
 Håvamål betyr «den høyes tale»^19^
 
-^19^ Wikipedia, s.v. "Håvamål". 06.01.2020. [http://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+^19^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
@@ -389,7 +389,7 @@ Etternavn, Fornavn. _Tittel_. Årstall. Medium. Inventarnummer. Eieren av bildet
 
 Billedtekst, for eksempel: Passepike i Bergen i mellomkrigstiden (utsnitt). Foto: Olai Schumann Olsen. Gjengitt med tillatelse fra Universitetsbiblioteket i Bergen.
 
-Olsen, Olai Schumann. _St. Hans Strædet i Bergen_. Foto. Ca. 1920. UBB-SO-0434. Universitetsbiblioteket i Bergen. http://marcus.uib.no/instance/photograph/ubb-so-0434 
+Olsen, Olai Schumann. _St. Hans Strædet i Bergen_. Foto. Ca. 1920. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434 
 
 ### Reproduksjon av kunstverk
 
@@ -403,7 +403,7 @@ Etternavn, Fornavn. _Tittel._ Årstall. Medium. Størrelse. Plassering (eier). S
 
 Billedtekst, for eksempel: Edvard Munch, _Skrik_, 1893. Gjengitt med tillatelse fra Nasjonalmuseet for kunst, arkitektur og design.
 
-Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 ^x^ 73,5 cm.. Nasjonalmuseet for kunst, arkitektur og design. Oslo. Fotografert av Børre Høstland. [http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](http://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939)
+Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 ^x^ 73,5 cm.. Nasjonalmuseet for kunst, arkitektur og design. Oslo. Fotografert av Børre Høstland. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939)
 
 ### Digitale bilder/film
 
@@ -499,7 +499,7 @@ En stortingsmelding fra 2008^27^ tar for seg temaet arbeidsinnvandring.
 
 ^27^ St.meld. nr. 18 (2007-2008), 15.
 
-St.meld. nr. 18 (2007-2008). _Arbeidsinnvandring._ Oslo: Arbeidsdepartementet. [http://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/](http://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/)
+St.meld. nr. 18 (2007-2008). _Arbeidsinnvandring._ Oslo: Arbeidsdepartementet. [https://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/](https://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/)
 
 Pagineringen kan være ulik mellom trykt og elektronisk versjon av offentlige dokumenter. Det er derfor viktig å henvise til rett versjon.
 

@@ -175,7 +175,7 @@ Du kan starte på et ønsket nummer:
 
 [skriving](/skriving)
 
-[kildekompasset](http://kildekompasset.no)
+[kildekompasset](https://kildekompasset.no)
 :::
 
 ## YouTube

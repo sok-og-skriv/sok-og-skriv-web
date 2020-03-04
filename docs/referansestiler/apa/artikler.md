@@ -31,7 +31,7 @@ Dyregrov, A. & Straume, M. (2003). Kollektiv ivaretakelse etter katastrofer: Erf
 
 Ifølge Andersen (2012, s. 271) .....
 
-Andersen, K.I. (2012). Prosessen som ingen kunne målbinde. _Fokus på familien, 4_, 270–272. Hentet fra http://www.idunn.no/ts/fokus/2012/04/prosessen\_som\_ingen\_kunne\_mlbinde
+Andersen, K.I. (2012). Prosessen som ingen kunne målbinde. _Fokus på familien, 4_, 270–272. Hentet fra https://www.idunn.no/ts/fokus/2012/04/prosessen\_som\_ingen\_kunne\_mlbinde
 
 ## Artikkel i trykt avis
 
@@ -59,7 +59,7 @@ Forfatter. (Årstall, dato). Tittel. _Avis_. Hentet fra URL.
 ::: warning Eksempler
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
 
-Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_. Hentet fra http://www.bt.no/
+Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_. Hentet fra https://www.bt.no/
 :::
 
 ## Artikkel i trykt leksikon (med forfatter)
@@ -90,7 +90,7 @@ Artikkeltittel (Årstall). I _oppslagsverk_. Hentet fra URL
 
 Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
 
-Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [http://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](http://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)
+Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)
 
 ... smykker av menneskehår («Hårarbeid», u.å.)
 

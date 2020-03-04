@@ -5,7 +5,7 @@ date: "2012-05-22"
 
 # Opphavsrettslige forhold
 
-Når du skal skrive en oppgave eller publisere arbeidet ditt er det viktig at du setter deg inn i opphavsrettslige forhold, kjenner rettigheter til arbeidet ditt, respekterer opphavsretten, og  at du følger god skikk regler for gjenbruk og referering av andres åndsverk. I Norge er opphavsretten vernet av [åndsverkloven](https://lovdata.no/lov/2018-06-15-40 "(nytt vindu)").
+Når du skal skrive en oppgave eller publisere arbeidet ditt er det viktig at du setter deg inn i opphavsrettslige forhold, kjenner rettigheter til arbeidet ditt, respekterer opphavsretten, og  at du følger god skikk regler for gjenbruk og referering av andres åndsverk. I Norge er opphavsretten vernet av [åndsverkloven](https://lovdata.no/lov/2018-06-15-40).
 
 Det er også viktig at du vet hvilken praksis din institusjon følger i forhold til open access-publisering og annen tilgjengeliggjøring.
 
@@ -17,7 +17,7 @@ Hvis et åndsverk har to eller flere opphavere, har de opphavsrett til verket i 
 
 I åndsverksloven skilles det mellom økonomiske og ideelle rettigheter. Økonomiske rettigheter gir opphaver enerett til å råde over sitt verk, for eksempel enerett til eksemplarfremstilling og tilgjengeliggjøring så lenge vedkommende ikke har fraskrevet seg denne retten.
 
-Rettighetshaver kan selv gi rett til begrenset eller fri benyttesle av verket ved å gi en lisens som spesifiserer bruk. Eksempelvis kan en [Creative Commons lisens](http://creativecommons.org/ "(nytt vindu)") gi brukerne visse rettigheter til eksemplarframstilling og tilgjengeliggjøring.
+Rettighetshaver kan selv gi rett til begrenset eller fri benyttesle av verket ved å gi en lisens som spesifiserer bruk. Eksempelvis kan en [Creative Commons lisens](https://creativecommons.org/) gi brukerne visse rettigheter til eksemplarframstilling og tilgjengeliggjøring.
 
 De økonomiske rettighetene gir retten til å kreve vederlag for utnyttelse. Et forlag kan for eksempel kreve abonnementssavgift når opphaver(e) har overdratt denne retten.
 
@@ -25,7 +25,7 @@ I Norge eksisterer en vernetid for opphavers økonomiske enerett. Den gjelder ut
 
 Opphavers ideelle rettigheter har ingen tidsbegrensning. Disse gir opphaver rett til å bli navngitt ved bruk av verket, og rettighetshaver rett til å motsette seg misbruk. Eksempel på misbruk kan være at verket blir tatt ut av sin opprinnelige sammenheng og [meningen fordreies](/kildebruk-og-referanser/hvordan-referere/#Meningsinnhold "Meningsinnhold"). Trå derfor varsomt og følg etisk praksis innen faget når du bruker andres verk i egne fremstillinger.
 
-Opphavsretten verner verkets konkrete utforming. Den verner ikke ideer, kunnskap eller metoder. Vern av en idé eller metode som er en løsning på et teknisk problem skjer via patentering. Et patent gir innehaveren økonomisk enerett til egen oppfinnelse innen et begrenset tidsrom. Se [Patentstyret](http://www.patentstyret.no/ "(nytt vindu)") for mer informasjon.
+Opphavsretten verner verkets konkrete utforming. Den verner ikke ideer, kunnskap eller metoder. Vern av en idé eller metode som er en løsning på et teknisk problem skjer via patentering. Et patent gir innehaveren økonomisk enerett til egen oppfinnelse innen et begrenset tidsrom. Se [Patentstyret](https://www.patentstyret.no/) for mer informasjon.
 
 Opphaver har ansvar for at innhold i verket følger [etiske retningslinjer](/kildebruk-og-referanser/sitering-og-etikk/etiske-retningslinjer-i-akademia/ "Etiske retningslinjer i akademia") så lenge det ikke finnes særskilte retningslinjer som overfører dette til andre. Opphaver har i utgangspunktet råderetten etter åndsverkloven, dette inkluderer også retten til å klausulere egne åndsverk. Dermed har studenten eller forskeren selv det endelige ansvaret for å vurdere i hvilken grad tilgjengeliggjøring kan komme i konflikt med patentering og videre publisering. Det vil likevel være lurt å lytte til råd fra veileder og forskermiljø. Fortrinnsvis bør oppgaven skrives på en slik måte at man unngår klausulering.
 
@@ -38,7 +38,7 @@ Opphaver har ansvar for at innhold i verket følger [etiske retningslinjer](/kil
 
 Brudd på åndsverkloven kan få alvorlige konsekvenser. Lær deg derfor korrekt [referering](/kildebruk-og-referanser/hvordan-referere/ "Hvordan referere?"), og avklar samarbeidsforhold med veileder og medstudenter for ikke å bli utnyttet eller mistenkt for [plagiering](/kildebruk-og-referanser/sitering-og-etikk/#Unng_plagiat "Hvorfor referere?").
 
-Sjekk nettstedet [Clara](http://www.clara.no/ "(nytt vindu) (nytt vindu)") med informasjon om opphavsrett og klarering. Nettstedet er etablert av de syv norske forvaltningsorganisasjonene BONO, FONO, GRAMO, Kopinor, LINO, Norwaco og TONO. Disse organisasjonene inngår avtaler om bruk av verk på vegne av sine medlemmer.
+Sjekk nettstedet [Clara](https://www.clara.no/ "(nytt vindu) (nytt vindu)") med informasjon om opphavsrett og klarering. Nettstedet er etablert av de syv norske forvaltningsorganisasjonene BONO, FONO, GRAMO, Kopinor, LINO, Norwaco og TONO. Disse organisasjonene inngår avtaler om bruk av verk på vegne av sine medlemmer.
 
 ## Sitatrett
 
@@ -54,7 +54,7 @@ Et sitat forstås som et (vanligvis) mindre utrag fra et verk, uavhengig av verk
 
 For at verkets karakter ikke forandres eller forringes, gjengis bilder, fotografier eller illustrasjoner som regel i sin helhet. For billedlig materiale gjelder derfor normalt ikke sitatretten, og tillatelse for gjengivelse må hentes inn så lenge vernetiden ikke er løpt ut.
 
-Universiteter og høyskoler i Norge har inngått en [avtale](http://www.bono.no/images/uploads/dokumenter/avtale_uhr-_bono.pdf "(nytt vindu)") med billedkunstnernes organisasjon BONO om utnyttelse av kunstverk. Avtalen gir ansatte og studenter rett til å utnytte kunstverk i forbindelse med undervisning og forskning. For kunstnere som er registrert i [BONO](http://www.bono.no/ "(nytt vindu)") behøver du altså ikke hente inn tillatelse selv.
+Universiteter og høyskoler i Norge har inngått en [avtale](https://www.bono.no/images/uploads/dokumenter/avtale_uhr-_bono.pdf) med billedkunstnernes organisasjon BONO om utnyttelse av kunstverk. Avtalen gir ansatte og studenter rett til å utnytte kunstverk i forbindelse med undervisning og forskning. For kunstnere som er registrert i [BONO](https://www.bono.no/) behøver du altså ikke hente inn tillatelse selv.
 
 Du kan sjekke med BONO om den aktuelle kunstneren er dekket av avtalen. Hvis ikke, må du selv kontakte rettighetshaver om tillatelse til gjenbruk.
 
@@ -85,7 +85,7 @@ Sitatretten gjelder alle typer åndsverk. La oss si at du i forbindelse med oppg
 
 ## Opphavsrettslige betingelser og god sitatbruk for ulike verkstyper
 
-For mer veiledning, se [Clara](http://www.clara.no/).
+For mer veiledning, se [Clara](https://www.clara.no/).
 
 **Radio- eller TV-programmer**
 
@@ -101,7 +101,7 @@ For bilder fra internett gjelder samme rettslige forhold som for trykte bilder. 
 
 **Fotografier, illustrasjoner, billedkunst**
 
-Verket gjengis i sin helhet og kvalifiserer normalt ikke som sitat. Sjekk i [BONO](http://www.bono.no/ "(nytt vindu)") om kunstverket er dekket av avtalen med Universitets- og Høgskolerådet. Hent inn tillatelse om [vernetiden](index.php?action=static&id=84#vernetid) ikke er løpt ut.
+Verket gjengis i sin helhet og kvalifiserer normalt ikke som sitat. Sjekk i [BONO](https://www.bono.no/) om kunstverket er dekket av avtalen med Universitets- og Høgskolerådet. Hent inn tillatelse om [vernetiden](index.php?action=static&id=84#vernetid) ikke er løpt ut.
 
 **Å ta bilde av personer**
 
@@ -109,9 +109,9 @@ Husk personvern til de du tar bilde av. Hent inn tillatelse, og opplys om hvor d
 
 **Dataprogram**
 
-Ved bruk av kommersiell programvare eller programmer utviklet i spesielle fagmiljø: Gjør rede for type program. Sjekk om bruken omfattes av lisens (enten site-lisens eller en fri lisens), ellers må tillatelse innhentes. Oppgi da rettighetshaver. Se [FSF](http://www.fsf.org/about/ "(nytt vindu)") for mer opplysninger om deling av programvare.
+Ved bruk av kommersiell programvare eller programmer utviklet i spesielle fagmiljø: Gjør rede for type program. Sjekk om bruken omfattes av lisens (enten site-lisens eller en fri lisens), ellers må tillatelse innhentes. Oppgi da rettighetshaver. Se [FSF](https://www.fsf.org/about/) for mer opplysninger om deling av programvare.
 
 **Musikk**
 
 For opptak av musikk må komponisten, året om kjent (eller **u.d**, om ukjent), komposisjonstittel, utøvere og plateselskap med, i tillegg til lydformat.  
-Se [Clara](http://www.clara.no/guide/mursten.html?frisok=&verk=Innspilt+musikk&bruk=Internettbruk&kn_verk=G%E5) for mer om lydopptak.
+Se [Clara](https://www.clara.no/guide/mursten.html?frisok=&verk=Innspilt+musikk&bruk=Internettbruk&kn_verk=G%E5) for mer om lydopptak.

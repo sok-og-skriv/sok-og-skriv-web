@@ -121,14 +121,14 @@ Kilden i refereranselisten
 (Forfatter/redaktør, Årstall)
 
 Elektronisk avis:  
-Etternavn, N.N. (Årstall) Artikkeltittel, _Avis_, dato. Tilgjengelig fra: http://url (Hentet: dato).
+Etternavn, N.N. (Årstall) Artikkeltittel, _Avis_, dato. Tilgjengelig fra: https://url (Hentet: dato).
 
 Papiravis:  
 Etternavn, N.N. (Årstall) Artikkeltittel, _Avis_, dato, eventuelt del, sidetall.
 
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
 
-Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober. Tilgjengelig fra: http://www.bt.no/meninger/kronikk/Utroskapens-pris-1819069.html (Hentet: 17. januar 2015).
+Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober. Tilgjengelig fra: https://www.bt.no/meninger/kronikk/Utroskapens-pris-1819069.html (Hentet: 17. januar 2015).
 
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
 
@@ -144,7 +144,7 @@ Kilden i refereranselisten
 
 (Forfatter/Redaktør/Organisasjon, Årstall)
 
-Forfatter/redaktør/organisasjon (Årstall) _Tittel_. Tilgjengelig fra: http://url (Hentet: dato).
+Forfatter/redaktør/organisasjon (Årstall) _Tittel_. Tilgjengelig fra: https://url (Hentet: dato).
 
 Om ingen forfatter kan identifiseres, flyttes tittelen til forfatterfeltet i både teksthenvisning og referanse.
 
@@ -168,11 +168,11 @@ Kilden i refereranselisten
 
 (Etternavn, Årstall)
 
-Etternavn, N.N. (Årstall for siste oppdatering) Oppslagets tittel, i _Oppslagsverk_. Tilgjengelig fra: http://url (Hentet: dato).
+Etternavn, N.N. (Årstall for siste oppdatering) Oppslagets tittel, i _Oppslagsverk_. Tilgjengelig fra: https://url (Hentet: dato).
 
 (Heflin, 2015)
 
-Heflin, M.T. (2015) Geriatric health maintenance, i _UpToDate_. Tilgjengelig fra: http://www.uptodate.com/ (Hentet: 20. september 2015).
+Heflin, M.T. (2015) Geriatric health maintenance, i _UpToDate_. Tilgjengelig fra: https://www.uptodate.com/ (Hentet: 20. september 2015).
 
 ### Artikkel i elektronisk leksikon uten forfatter
 
@@ -186,11 +186,11 @@ Kilden i refereranselisten
 
 (Artikkeltittel, Årstall)
 
-Artikkeltittel (Årstall for siste oppdatering) i _Oppslagsverk_. Tilgjengelig fra: http://url (Hentet: dato).
+Artikkeltittel (Årstall for siste oppdatering) i _Oppslagsverk_. Tilgjengelig fra: https://url (Hentet: dato).
 
 I begrepet universell utforming ligger flere prinsipper (Universell utforming, 2015).
 
-Universell utforming (2015) i _Wikipedia_. Tilgjengelig fra: http://no.wikipedia.org/wiki/Universell\_utforming (Hentet: 3. september 2015).
+Universell utforming (2015) i _Wikipedia_. Tilgjengelig fra: https://no.wikipedia.org/wiki/Universell\_utforming (Hentet: 3. september 2015).
 
 ### Artikkel i trykt leksikon med forfatter
 
@@ -241,19 +241,19 @@ Kilden i refereranselisten
 
 (Etternavn, Årstall)
 
-Etternavn, N_._ (Årstall) _Tittel på bilde_ \[Medium\]_._ Tilgjengelig fra: http://url (Hentet: dato).
+Etternavn, N_._ (Årstall) _Tittel på bilde_ \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
 
 (Huyn, u.å.)
 
-Huyn, T. (u.å.) _Streetlife_ \[Fotografi\]. Tilgjengelig fra: http://tommyimages.com/Stock\_Photos/Caribbean/Cuba/Life\_in\_Havana/slides/Cuba\_01\_E\_8\_19-Street\_Life.html (Hentet 18. desember 2013).
+Huyn, T. (u.å.) _Streetlife_ \[Fotografi\]. Tilgjengelig fra: https://tommyimages.com/Stock\_Photos/Caribbean/Cuba/Life\_in\_Havana/slides/Cuba\_01\_E\_8\_19-Street\_Life.html (Hentet 18. desember 2013).
 
 (_Tittel_, Årstall)
 
-_Tittel på bilde_ (Årstall) \[Medium\]_._ Tilgjengelig fra: http://url (Hentet: dato).
+_Tittel på bilde_ (Årstall) \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
 
 (_Northern lights (aurora borealis) over Tromso, Troms, Northern Norway_, u.å.) …
 
-_Northern lights (aurora borealis) over Tromso, Troms, Northern Norway _(u.å.) \[Fotografi\].Tilgjengelig fra: http://www.theodora.com/wfb/photos/norway/norway\_photos\_48.html (Hentet: 26. november 2009).
+_Northern lights (aurora borealis) over Tromso, Troms, Northern Norway _(u.å.) \[Fotografi\].Tilgjengelig fra: https://www.theodora.com/wfb/photos/norway/norway\_photos\_48.html (Hentet: 26. november 2009).
 
 (Munch, 1926)
 
@@ -564,4 +564,4 @@ Eller:
 - Dersom nettadressen til et dokument er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres.
 - Når man omtaler et helt nettsted, og ikke et spesifikt dokument på nettsiden, oppgis hele adressen til siden i teksten, men man trenger ikka ta med denne i referanselisten:
 
-> _Arbeidstilsynet er en nettside som inneholder denne type informasjon ([http://www.arbeidstilsynet.no/](http://www.arbeidstilsynet.no/)).)._
+> _Arbeidstilsynet er en nettside som inneholder denne type informasjon ([https://www.arbeidstilsynet.no/](https://www.arbeidstilsynet.no/)).)._

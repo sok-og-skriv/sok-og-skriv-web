@@ -14,7 +14,7 @@ date: "2020-02-14"
 
 **Kilde i referanselisten**
 
-Organisasjon. (Årstall, dato). Tittel. Hentet fra URL.\*Med årstall/dato, menes her publiseringstidspunkt, eller dato for siste oppdatering. Lesedato tas bare med for nettsider som ofte blir endret. Da oppgis dato, måned og år sammen med lenken: «Hentet 22. juni 2018 fra http://www.nnn.nn».
+Organisasjon. (Årstall, dato). Tittel. Hentet fra URL.\*Med årstall/dato, menes her publiseringstidspunkt, eller dato for siste oppdatering. Lesedato tas bare med for nettsider som ofte blir endret. Da oppgis dato, måned og år sammen med lenken: «Hentet 22. juni 2018 fra https://www.nnn.nn».
 :::
 
 :::details Eksempler
@@ -48,11 +48,11 @@ Kilden i refereranselisten
 
 (Opphavsperson, årstall)
 
-Opphavsperson, A. (Årstall). _Tittel_ \[Type verk, f.eks. Fotografi\]. Hentet fra http://URL eller Sted: Museum.
+Opphavsperson, A. (Årstall). _Tittel_ \[Type verk, f.eks. Fotografi\]. Hentet fra https://URL eller Sted: Museum.
 
 … som vi kan se på et eldre bilde av børsbygningen i Bergen (Knudsen, 1865) …
 
-Knudsen, K. (1865). _Børsen i Bergen_ \[Fotografi\]. Hentet fra http://marcus.uib.no/instance/photograph/ubb-kk-m-110.html
+Knudsen, K. (1865). _Børsen i Bergen_ \[Fotografi\]. Hentet fra https://marcus.uib.no/instance/photograph/ubb-kk-m-110.html
 
 ... en norsk vandrer over tåkehavet (Kittelsen, 1900) ...
 

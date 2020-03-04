@@ -18,6 +18,6 @@ Følgende stiler er brukt innenfor de akademiske miljøene.
 - **Modern Language Association** – forfatter-sidetallstil, vanlig innenfor språkfagene
 - **Vancouver** – nummerstil, vanlig innenfor medisin, helsefag og naturvitenskap
 - **IEEE** (Institute of Electrical and Electronics Engineers) – ingeniørfag.
-- For juridiske tekster se punkt 7 under [Forfatterveiledning](http://www.universitetsforlaget.no/Bli-forfatter/Forfatterveiledning/Forfatterveiledning) fra Universitetsforlaget.
+- For juridiske tekster se punkt 7 under [Forfatterveiledning](https://www.universitetsforlaget.no/Bli-forfatter/Forfatterveiledning/Forfatterveiledning) fra Universitetsforlaget.
 
 Skal du prøve å få oppgaven din publisert i et tidsskrift? Undersøk hvilken referansestil som gjelder i det aktuelle tidsskriftet.

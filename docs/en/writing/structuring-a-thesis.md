@@ -164,8 +164,8 @@ J. Schimel, 2012 _Writing Science. How to write papers that get cited and propo
 
 ---
 
-[http://writingcenter.unc.edu/handouts/thesis-statements/](http://writingcenter.unc.edu/handouts/thesis-statements/)
+[https://writingcenter.unc.edu/handouts/thesis-statements/](https://writingcenter.unc.edu/handouts/thesis-statements/)
 
-[http://writingcenter.unc.edu/handouts/](http://writingcenter.unc.edu/handouts/)
+[https://writingcenter.unc.edu/handouts/](https://writingcenter.unc.edu/handouts/)
 
-[http://owl.english.purdue.edu/owl/section/1/2/](http://owl.english.purdue.edu/owl/section/1/2/)
+[https://owl.english.purdue.edu/owl/section/1/2/](https://owl.english.purdue.edu/owl/section/1/2/)

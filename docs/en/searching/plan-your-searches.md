@@ -15,7 +15,7 @@ During the early stages of your thesis work, you need to gain an overview of you
 - Field-specific encyclopedias (for example _International Encyclopedia of the Social & Behavioral Sciences_) provide thorough introductions. The authors are experts in their own fields and have charted and reviewed the central literature.
 - Text books from the syllabus and reading lists can introduce and guide you to sources that can take you deeper into the subject.
 - Through the news archive, [ATEKST](https://web.retriever-info.com/services/archive.html), and the National Library's [digital newspaper service](https://www.nb.no/aviser), you get access to Norwegian public debates. Both archives are available through most libraries in Norway.
-- Public information such as reports, government white papers and statistics are easily accessible on the internet, for example see [www.regjeringen.no](http://www.regjeringen.no/), [Statistics Norway](http://www.ssb.no), [the World Bank](http://www.worldbank.org/), or the [OECD](http://www.oecd.org/).
+- Public information such as reports, government white papers and statistics are easily accessible on the internet, for example see [www.regjeringen.no](https://www.regjeringen.no/), [Statistics Norway](https://www.ssb.no), [the World Bank](https://www.worldbank.org/), or the [OECD](https://www.oecd.org/).
 
 ## Locating scholarly literature
 
@@ -29,9 +29,9 @@ Below you will some interdisciplinary databases that can be used as a starting p
 
 - [Oria](oria.no) is the research library's search tool. Here you will find, among other things, textbooks, master theses, dissertations and journal articles.
 - [Google Scholar](scholar.google.no) is the academic version of Google. It indexes scientific literature from reputable publishers and research-based databases.
-- The article database [Norart](http://www.nb.no/baser/norart/) provides an overview of Norwegian and a selection of Nordic journal articles. The archive covers both popular science periodicals and scientific journals, so you need to make a critical assessment yourself.
+- The article database [Norart](https://www.nb.no/baser/norart/) provides an overview of Norwegian and a selection of Nordic journal articles. The archive covers both popular science periodicals and scientific journals, so you need to make a critical assessment yourself.
 - [Idunn](https://www.idunn.no/) covers journal articles from journals published at the university publishing house. It is available in most libraries in Norway.
-- The publishing archive [NORA](http://nora.openaccess.no/) and databases such as [Cristin](http://www.cristin.no/) (Current Research Information System in Norway) gives you an overview of research activities in the health and institute sector and the university and college sector.
+- The publishing archive [NORA](https://nora.openaccess.no/) and databases such as [Cristin](https://www.cristin.no/) (Current Research Information System in Norway) gives you an overview of research activities in the health and institute sector and the university and college sector.
 
 ## Devising a search strategy
 

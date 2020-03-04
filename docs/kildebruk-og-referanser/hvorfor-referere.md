@@ -16,8 +16,8 @@ Nøyaktig dokumentasjon av kilder gjør leseren i stand til raskt å:
 ## Unngå plagiat
 
 Ved å være bevisst på å referere korrekt, unngår du mistanke om plagiat.  
-Å plagiere er å framstille andres resultater, tanker, ideer eller formuleringer som om de var dine egne. Dette regnes som intellektuelt tyveri i følge [åndsverksloven](http://www.lovdata.no/all/hl-19610512-002.html "(nytt vindu)").  
-Omfattende og/eller bevisst plagiat betraktes som fusk. I henhold til [universitets- og høyskoleloven](http://www.lovdata.no/all/nl-20050401-015.html "(nytt vindu)") §§ 4-7 og 4-8 kan dette føre til stryk og utvisning. Dette kan igjen påvirke normert studieprogresjon, noe som kan gi problemer med å få innvilget studielån eller fornyet oppholdstillatelse, ifølge reglementet til Lånekassen og Utdanningsdirektoratet.
+Å plagiere er å framstille andres resultater, tanker, ideer eller formuleringer som om de var dine egne. Dette regnes som intellektuelt tyveri i følge [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html).  
+Omfattende og/eller bevisst plagiat betraktes som fusk. I henhold til [universitets- og høyskoleloven](https://www.lovdata.no/all/nl-20050401-015.html) §§ 4-7 og 4-8 kan dette føre til stryk og utvisning. Dette kan igjen påvirke normert studieprogresjon, noe som kan gi problemer med å få innvilget studielån eller fornyet oppholdstillatelse, ifølge reglementet til Lånekassen og Utdanningsdirektoratet.
 
 Alle utdanningsinstitusjoner er oppmerksomme på problematikken vedrørende fusk, og benytter seg av programvare for å avsløre plagiat.
 

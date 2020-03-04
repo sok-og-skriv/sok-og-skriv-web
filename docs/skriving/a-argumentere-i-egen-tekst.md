@@ -70,7 +70,7 @@ Still spørsmål til det du selv skal skrive:
 5. Hvilken ryggdekning har metoden?
 6. I hvilken grad er påstanden din sikker, sannsynlig eller mulig?
 
-Du kan bruke [Toulmins argumentasjonsmodell](http://studypedia.au.dk/fileadmin/www.studiemetro.au.dk/Gul_Krav_til_universitetsopgaver/Argument/argument.html) for å synliggjøre argumenter og påstander i oppgaven din.
+Du kan bruke [Toulmins argumentasjonsmodell](https://studypedia.au.dk/fileadmin/www.studiemetro.au.dk/Gul_Krav_til_universitetsopgaver/Argument/argument.html) for å synliggjøre argumenter og påstander i oppgaven din.
 :::
 
 **Videre lesing**:  

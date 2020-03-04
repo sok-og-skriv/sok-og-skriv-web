@@ -7,7 +7,7 @@ date: "2012-09-18"
 
 Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
-Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers \[Elektronisk bok\]. 2nd ed. Wendling DL., technical editor. Bethesda (MD): National Library of Medicine (US); 2007 \[hentet 2008-01-14\]. Tilgjengelig fra: [http://www.nlm.nih.gov/citingmedicine](http://www.nlm.nih.gov/citingmedicine)
+Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers \[Elektronisk bok\]. 2nd ed. Wendling DL., technical editor. Bethesda (MD): National Library of Medicine (US); 2007 \[hentet 2008-01-14\]. Tilgjengelig fra: [https://www.nlm.nih.gov/citingmedicine](https://www.nlm.nih.gov/citingmedicine)
 
 Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_i_teksten), lager en [referanseliste](#referanselisten) og behandler forskjellige [referansetyper](#referansetyper)
 
@@ -15,7 +15,7 @@ Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_
 
 - Referanselisten ordnes numerisk.
 - Skriv de første seks forfatterne etterfulgt av ”et al.” hvis det er flere enn seks forfattere.
-- Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i [PubMed Journals database](http://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
+- Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i [PubMed Journals database](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
 
 ## Referansetyper
 
@@ -125,7 +125,7 @@ xxx. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjen
 
 Noack og Seierstad (7) har undersøkt forekomsten av samboerskap…
 
-7\. Noack T, Seierstad A. Samboerskap ved tusenårsskiftet: dagligdags og uutforsket \[Internett\]. Oslo: Statistisk sentralbyrå; \[hentet 2003-03-26\]. Tilgjengelig fra: [http://www.ssb.no/emner/00/02/10/ola\_kari/familie/](http://www.ssb.no/emner/00/02/10/ola_kari/familie/)
+7\. Noack T, Seierstad A. Samboerskap ved tusenårsskiftet: dagligdags og uutforsket \[Internett\]. Oslo: Statistisk sentralbyrå; \[hentet 2003-03-26\]. Tilgjengelig fra: [https://www.ssb.no/emner/00/02/10/ola\_kari/familie/](https://www.ssb.no/emner/00/02/10/ola_kari/familie/)
 
 ### Lover
 
@@ -188,7 +188,7 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 - I teksten oppgis kun nummeret til referansen. For bøker eller lengre dokumenter anbefales det å også oppgi sidetall.
 - Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
 - Hvis du refererer til samme dokument flere ganger, skal referansen hele tiden ha samme nummer.
-- Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i PubMed Journals database: [http://www.ncbi.nlm.nih.gov/sites/entrez?db=journals](http://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
+- Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i PubMed Journals database: [https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
 
 ### Sidetall
 

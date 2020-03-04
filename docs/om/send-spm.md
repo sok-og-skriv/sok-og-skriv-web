@@ -14,7 +14,7 @@ Før du kontakter Søk & Skriv, prøv gjerne følgende:
 - Søk & Skriv har en søkefunksjon som kan brukes for å finne ulike temaer.
 - Snakk med medstudenter og del kunnskap.
 
-Vi svarer gjerne på spørsmål om nettstedet [www.sokogskriv.no](http://www.sokogskriv.noFagspesifikke). Vi skal forsøke å svare deg i løpet av noen dager.
+Vi svarer gjerne på spørsmål om nettstedet [www.sokogskriv.no](https://www.sokogskriv.noFagspesifikke). Vi skal forsøke å svare deg i løpet av noen dager.
 
 Søk & Skriv har dessverre ikke anledning til å gi råd om hvordan du kan besvare en oppgave, hvor mange sider de ulike delene bør inneholde, spørsmål om metode eller valg av litteratur. Fagspesifikke spørsmål retter du til faglærere, eller til informasjonstjenesten ved studiestedet ditt.
 

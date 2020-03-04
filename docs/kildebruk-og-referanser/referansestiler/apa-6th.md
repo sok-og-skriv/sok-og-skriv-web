@@ -9,7 +9,7 @@ APA står for American Psychological Association. Foreningen har utviklet en ref
 
 American Psychological Association. (2010). _Publication manual of the American Psychological Association_ (6. utg.). Washington, D.C.: Forfatter.
 
-Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den [originale manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio) og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
+Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den [originale manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio) og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
 
 ## Referanselisten
 
@@ -43,7 +43,7 @@ Kilden i refereranselisten
 
 (Organisasjon, årstall)
 
-Organisasjon. (Årstall, dato). Tittel. Hentet fra URL.\*Med årstall/dato, menes her publiseringstidspunkt, eller dato for siste oppdatering. Lesedato tas bare med for nettsider som ofte blir endret. Da oppgis dato, måned og år sammen med lenken: «Hentet 22. juni 2018 fra http://www.nnn.nn».
+Organisasjon. (Årstall, dato). Tittel. Hentet fra URL.\*Med årstall/dato, menes her publiseringstidspunkt, eller dato for siste oppdatering. Lesedato tas bare med for nettsider som ofte blir endret. Da oppgis dato, måned og år sammen med lenken: «Hentet 22. juni 2018 fra https://www.nnn.nn».
 
 ... nedgang i antibiotikabruken (Helsedirektoratet, 2018).
 
@@ -91,7 +91,7 @@ Artikkeltittel (Årstall). I _oppslagsverk_. Hentet fra URL
 
 Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
 
-Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [http://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](http://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)
+Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)
 
 ... smykker av menneskehår («Hårarbeid», u.å.)
 
@@ -183,7 +183,7 @@ NOU 1999: 13. (1999). _Kvinners helse i Norge_. Oslo: Sosial- og helsedepartemen
 
 ... behandling av hjerteinfarkt (NOU 1999: 13, 1999, s. 559).
 
-NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra http://www.regjeringen.no/
+NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra https://www.regjeringen.no/
 
 ### Ramme- og læreplaner
 
@@ -193,7 +193,7 @@ Kilden i refereranselisten
 
 (Organisasjon, årstall, sidetall)
 
-Organisasjon. (årstall). _Tittel_ (kode). Hentet fra http://....
+Organisasjon. (årstall). _Tittel_ (kode). Hentet fra https://....
 
 \*Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
@@ -203,7 +203,7 @@ Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hent
 
 Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
 
-Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [http://www.udir.no/kl06/NOR1-05](http://www.udir.no/kl06/NOR1-05/Hele/)
+Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)
 
 I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
 
@@ -225,7 +225,7 @@ Nordisk ministerråd. (2009). _Naturopplevelse, friluftsliv og vår psykiske hel
 
 ...(Hansen & Slagsvold, 2013, s. 8)
 
- Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra http://www.nova.no/
+ Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra https://www.nova.no/
 
 ### Bilder
 
@@ -237,11 +237,11 @@ Kilden i refereranselisten
 
 (Opphavsperson, årstall)
 
-Opphavsperson, A. (Årstall). _Tittel_ \[Type verk, f.eks. Fotografi\]. Hentet fra http://URL eller Sted: Museum.
+Opphavsperson, A. (Årstall). _Tittel_ \[Type verk, f.eks. Fotografi\]. Hentet fra https://URL eller Sted: Museum.
 
 … som vi kan se på et eldre bilde av børsbygningen i Bergen (Knudsen, 1865) …
 
-Knudsen, K. (1865). _Børsen i Bergen_ \[Fotografi\]. Hentet fra http://marcus.uib.no/instance/photograph/ubb-kk-m-110.html
+Knudsen, K. (1865). _Børsen i Bergen_ \[Fotografi\]. Hentet fra https://marcus.uib.no/instance/photograph/ubb-kk-m-110.html
 
 ... en norsk vandrer over tåkehavet (Kittelsen, 1900) ...
 
@@ -380,7 +380,7 @@ Dersom kilden har 3-5 forfattere, skal alle oppgis ved _første_ henvisning. Sen
 
 Dersom kilden har seks eller flere forfattere, skal du _kun_ oppgi førsteforfatter etterfulgt av **et al**.
 
-Tips: Se tabell 6.1 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
+Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
 
 > _Kvale et al. (2009, s. 100) peker på at…_
 
@@ -388,7 +388,7 @@ Dersom man har flere forfattere med samme etternavn skal initialer brukes.
 
 > _R. D. Luce (1959) og P. A. Luce (1986) fant…_
 
-Tips: Se tabell 6.1 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
+Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
 
 ### Årstall
 
@@ -418,7 +418,7 @@ Ved annen gangs sitering og senere:
 
 > _(NRK, 1999)_
 
-Tips: Se tabell 6.1 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
+Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
 
 ### Sekundærhenvisning
 
@@ -455,9 +455,9 @@ Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord
 - Dersom nettsiden er ikke har oppgitt forfatter eller ansvarlig organisasjon, skal referansen i teksten oppgi noen ord av tittelen på siden for å vise leseren hvor den kan finnes i litteraturlisten.
 - Når man omtaler et helt nettsted, og ikke et spesifikt dokument på nettsiden, oppgis hele adressen til siden i teksten, men man trenger ikke ta med denne i referanselista:
 
-> _På NAVs nettsider kan arbeidssøkere finne jobbannonser, sende inn meldekort og registrere CV ([http://www.nav.no](http://www.nav.no))._
+> _På NAVs nettsider kan arbeidssøkere finne jobbannonser, sende inn meldekort og registrere CV ([https://www.nav.no](https://www.nav.no))._
 
-Se forøvrig APAs [egne nettsider](http://blog.apastyle.org/apastyle/2010/11/how-to-cite-something-you-found-on-a-website-in-apa-style.html) for å få tips til hvordan du siterer ulike typer informasjon du har funnet på Internett.
+Se forøvrig APAs [egne nettsider](https://blog.apastyle.org/apastyle/2010/11/how-to-cite-something-you-found-on-a-website-in-apa-style.html) for å få tips til hvordan du siterer ulike typer informasjon du har funnet på Internett.
 
 ### Lover
 

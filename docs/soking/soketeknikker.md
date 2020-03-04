@@ -11,7 +11,7 @@ Det første du må gjøre, er å finne gode søkeord. Bruk problemstillingen som
 
 - Bruk fagterminologi. Mange databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer med tilhørende synonymer.
 - Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen.
-- Språk: De fleste internasjonale databaser krever at du søker på engelsk. Selv om [Oria](http://oria.no) gir treff både på norsk og engelsk, kan du gå glipp av svært mange aktuelle dokumenter dersom du bare velger norske søkeord. Engelske fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord.
+- Språk: De fleste internasjonale databaser krever at du søker på engelsk. Selv om [Oria](https://oria.no) gir treff både på norsk og engelsk, kan du gå glipp av svært mange aktuelle dokumenter dersom du bare velger norske søkeord. Engelske fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord.
 - Vær kreativ: Finn flest mulig synonymer som er dekkende for innholdet i begrepene du er interessert i.
 - Sett opp en tabell med kolonner for hvert begrep i problemstillingen, og føy til synonymer underveis (se eksempel lenger ned).
 - Ikke bruk for mange ulike søkeord - to til tre er vanligvis nok.

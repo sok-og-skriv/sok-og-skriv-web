@@ -23,7 +23,7 @@ Dysthe, O., Hertzberg, F., Hoel, T.L. (2010) _Skrive for å lære : skriving i h
 
 Førland, T.E. (1996) _Drøft!_ Oslo, Ad notam Gyldendal.
 
-Hyldegård, J, Lund, H., Moring, C., Pors, N.P., og Schreiber, T. (2011) _Studerende, læring og webtutorials : En analyse af 3 norske læringssystemer_. København : Det informationsvidenskabelige akademi. Available from: <[http://pure.iva.dk/files/31062163/Studerende\_l\_ring\_og\_webtutorials.pdf](http://pure.iva.dk/files/31062163/Studerende_l_ring_og_webtutorials.pdf)\> \[Accessed 15 June 2011\].
+Hyldegård, J, Lund, H., Moring, C., Pors, N.P., og Schreiber, T. (2011) _Studerende, læring og webtutorials : En analyse af 3 norske læringssystemer_. København : Det informationsvidenskabelige akademi. Available from: <[https://pure.iva.dk/files/31062163/Studerende\_l\_ring\_og\_webtutorials.pdf](https://pure.iva.dk/files/31062163/Studerende_l_ring_og_webtutorials.pdf)\> \[Accessed 15 June 2011\].
 
 Learning Support Services. _Skills for Learning_. CD-rom version. (2004).Leeds Metropolitan University Library.
 

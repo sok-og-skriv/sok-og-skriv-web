@@ -12,7 +12,7 @@ APA står for American Psychological Association. Foreningen har utviklet en ref
 
 American Psychological Association. (2010). _Publication manual of the American Psychological Association_ (6. utg.). Washington, D.C.: Forfatter.
 
-Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den [originale manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio) og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
+Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den [originale manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio) og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
 
 ## Referanselisten
 
@@ -68,7 +68,7 @@ Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken 
 
 ### Merknader
 
-Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](http://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra http://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
+Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](https://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra https://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
 
 ::: tip Eksempler
 Watkins (2012) hevder at ... (s. 54).
@@ -109,7 +109,7 @@ Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser 
 
 Trykt oppgave: Forfatter, A. A. (Årstall). _Tittel_ (Masteroppgave). Institusjon, Sted.
 
-Avhandling på nett: Forfatter, A. A. (Årstall). _Tittel_ (Doktoravhandling, institusjon). Hentet fra http://URL
+Avhandling på nett: Forfatter, A. A. (Årstall). _Tittel_ (Doktoravhandling, institusjon). Hentet fra https://URL
 
 ::: details Eksempler
 Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
@@ -120,7 +120,7 @@ Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekst
 
 ... (Våpenstad, 2011, s. 59).
 
-Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse av psykoterapeutens subjektivitet i psykoanalyse og psykoanalytisk psykoterapi_ (Doktoravhandling). Hentet fra https://bora.uib.no/handle/1956/4788\*Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) trenger ikke ha med institusjonsnavnet. Se kap. 7.05 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
+Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse av psykoterapeutens subjektivitet i psykoanalyse og psykoanalytisk psykoterapi_ (Doktoravhandling). Hentet fra https://bora.uib.no/handle/1956/4788\*Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) trenger ikke ha med institusjonsnavnet. Se kap. 7.05 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
 :::
 
 ::: details Lover
@@ -212,7 +212,7 @@ Dersom kilden har 3-5 forfattere, skal alle oppgis ved _første_ henvisning. Sen
 
 Dersom kilden har seks eller flere forfattere, skal du _kun_ oppgi førsteforfatter etterfulgt av **et al**.
 
-Tips: Se tabell 6.1 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
+Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
 
 > _Kvale et al. (2009, s. 100) peker på at…_
 
@@ -220,7 +220,7 @@ Dersom man har flere forfattere med samme etternavn skal initialer brukes.
 
 > _R. D. Luce (1959) og P. A. Luce (1986) fant…_
 
-Tips: Se tabell 6.1 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
+Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
 
 ### Årstall
 
@@ -250,7 +250,7 @@ Ved annen gangs sitering og senere:
 
 > _(NRK, 1999)_
 
-Tips: Se tabell 6.1 i [manualen](http://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
+Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
 
 ### Sekundærhenvisning
 
@@ -287,9 +287,9 @@ Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord
 - Dersom nettsiden er ikke har oppgitt forfatter eller ansvarlig organisasjon, skal referansen i teksten oppgi noen ord av tittelen på siden for å vise leseren hvor den kan finnes i litteraturlisten.
 - Når man omtaler et helt nettsted, og ikke et spesifikt dokument på nettsiden, oppgis hele adressen til siden i teksten, men man trenger ikke ta med denne i referanselista:
 
-> _På NAVs nettsider kan arbeidssøkere finne jobbannonser, sende inn meldekort og registrere CV ([http://www.nav.no](http://www.nav.no))._
+> _På NAVs nettsider kan arbeidssøkere finne jobbannonser, sende inn meldekort og registrere CV ([https://www.nav.no](https://www.nav.no))._
 
-Se forøvrig APAs [egne nettsider](http://blog.apastyle.org/apastyle/2010/11/how-to-cite-something-you-found-on-a-website-in-apa-style.html) for å få tips til hvordan du siterer ulike typer informasjon du har funnet på Internett.
+Se forøvrig APAs [egne nettsider](https://blog.apastyle.org/apastyle/2010/11/how-to-cite-something-you-found-on-a-website-in-apa-style.html) for å få tips til hvordan du siterer ulike typer informasjon du har funnet på Internett.
 
 ### Lover
 

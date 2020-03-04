@@ -99,7 +99,7 @@ For flere andre referansetyper se også [Harvardstil](/kildebruk-og-referanser/
 
 For større oppgaver som bacheloroppgaver og masteroppgaver kan du effektivisere arbeidet med referansene dine ved å bruke et referansehåndteringsverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. Når du bruker Word sammen med EndNote, vil Word automatisk opprette en referanseliste for henvisningene i teksten. Du vil også lett kunne bytte referansestil, dersom det er aktuelt.
 
-Undersøk med ditt studiested hvilket referansehåndteringsverktøy du har tilgang på. [Zotero](http://www.zotero.org/) og [Mendeley](http://www.mendeley.com/) er gratis tilgjengelig for alle.
+Undersøk med ditt studiested hvilket referansehåndteringsverktøy du har tilgang på. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengelig for alle.
 
 ## Eksporter referansene dine fra databasen
 
@@ -116,7 +116,7 @@ I stedet for å kopiere kan du eksportere referansene fra databasen du søkte i.
 
 # Fordreining av meningsinnhold
 
-Selv om du tilsynelatende siterer rett (oppgir kilde, merker tekst som sitat), kan det oppstå feil ved at du tar innhold ut av sin opprinnelige sammenheng. Dette kan komme i konflikt med [åndsverkloven](https://lovdata.no/lov/2018-06-15-40 "(nytt vindu)"), hvor det i § 25 blant annet heter at verkets karakter ikke må forandres eller forringes. Pass derfor på at du ikke fordreier meningsinnhold når du sammenfatter argumenter fra en eller flere forfattere. Vær forsiktig ved for eksempel klipping i sitat, og unngå å utelate motstridende data eller motargumenter.
+Selv om du tilsynelatende siterer rett (oppgir kilde, merker tekst som sitat), kan det oppstå feil ved at du tar innhold ut av sin opprinnelige sammenheng. Dette kan komme i konflikt med [åndsverkloven](https://lovdata.no/lov/2018-06-15-40), hvor det i § 25 blant annet heter at verkets karakter ikke må forandres eller forringes. Pass derfor på at du ikke fordreier meningsinnhold når du sammenfatter argumenter fra en eller flere forfattere. Vær forsiktig ved for eksempel klipping i sitat, og unngå å utelate motstridende data eller motargumenter.
 
 ::: oppgave OPPGAVE
 

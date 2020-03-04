@@ -52,4 +52,4 @@ Read several pages of a student dissertation and highlight the word “I”. Ide
 :::
 
 Recommended reading:  
-[http://writingcenter.unc.edu/handouts/passive-voice/](http://writingcenter.unc.edu/handouts/passive-voice/)
+[https://writingcenter.unc.edu/handouts/passive-voice/](https://writingcenter.unc.edu/handouts/passive-voice/)

@@ -17,7 +17,7 @@ Mange institutter og avdelinger har en egen forsidemal som kan fylles ut. Forsid
 - Institusjonstilknytning (universitet/høgskole, fakultet, institutt, emne)
 - Studiesemester eller årstall
 
-Her kan du laste ned logo til bruk på forside fra [UiB](http://kapd.h.uib.no/profilmanual/99LastNed/99a_lastned.html) og [forside fra UiO](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
+Her kan du laste ned logo til bruk på forside fra [UiB](https://kapd.h.uib.no/profilmanual/99LastNed/99a_lastned.html) og [forside fra UiO](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
 
 ## Maler
 
@@ -120,4 +120,4 @@ En mer utfyllende innføring i [**praktiske detaljer og formelle krav**](https:/
 
 [**Purdue OWL** ](https://owl.english.purdue.edu/)(Online Writing Lab) er et anerkjent nettsted som gir svar på en lang rekke spørsmål om akademisk skriving på engelsk.
 
-For **tegnsetting** på norsk, se [Korrekturavdelingen.no ](http://www.korrekturavdelingen.no/)
+For **tegnsetting** på norsk, se [Korrekturavdelingen.no ](https://www.korrekturavdelingen.no/)

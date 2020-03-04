@@ -20,6 +20,6 @@ En god oppgave kjennetegnes av at:
 
 Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRoD](?p=1226) (fra engelske IMRaD: Introduction. Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
-Det finnes også mye god litteratur om oppgaveskriving, prøv å søke i [Oria](http://oria.no "Oria").
+Det finnes også mye god litteratur om oppgaveskriving, prøv å søke i [Oria](https://oria.no "Oria").
 
 <Video id="rnqQo0pyg3E" />

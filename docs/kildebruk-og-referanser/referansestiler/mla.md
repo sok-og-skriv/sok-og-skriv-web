@@ -103,7 +103,7 @@ Etternavn, fornavn. "Tittel på artikkel". _Tittel på nettavis_ Dato. Internett
 
 Skålid skriver i "Barn lærer å lese i mange aldre" at barns forforståelse av tekst påvirker hvordan de forstår teksten de skal lese.
 
-Skålid, Jon Olav. "Barn lærer å lese i mange aldre." _forskning.no_. 08.januar 2013. Internett.  <[http://www.forskning.no/artikler/2012/juni/325176](http://www.forskning.no/artikler/2012/juni/325176)\>10.januar 2013.
+Skålid, Jon Olav. "Barn lærer å lese i mange aldre." _forskning.no_. 08.januar 2013. Internett.  <[https://www.forskning.no/artikler/2012/juni/325176](https://www.forskning.no/artikler/2012/juni/325176)\>10.januar 2013.
 
 ### Artikkel i trykt avis
 
@@ -132,7 +132,7 @@ Kilden i refereranselisten
 
 I artikkelen "Nær 8000 raskere tilbake", viser NAV sine tall at arbeidsledigheten i Norge synker.
 
-"Nær 8000 raskere tilbake" _NAV_. 2007. 31. desember 2007.< [http://www.nav.no/805371523.cms](http://www.nav.no/805371523.cms)\> 12.februar 2013.
+"Nær 8000 raskere tilbake" _NAV_. 2007. 31. desember 2007.< [https://www.nav.no/805371523.cms](https://www.nav.no/805371523.cms)\> 12.februar 2013.
 
 ### Nettside med forfatter
 
@@ -146,7 +146,7 @@ Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ Publiserings
 
 Thoring (_Framtiden i våre hender_) skriver at økologisk jordbruk er det mest bærekraftige alternativet både for i-land og u-land.
 
-Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden i våre hender. Internett. <[http://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](http://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
+Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden i våre hender. Internett. <[https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
@@ -188,7 +188,7 @@ Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiversted o
 
 Helsepersonellovens §6, 1999 skal sørge for at helsehjelpen ikke påfører pasienter, helseinstitusjon, trygden eller andre unødvendig tidstap eller utgift.
 
-Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[http://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](http://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02.februar 2013.
+Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02.februar 2013.
 
 ### Stortingsmeldinger og proposisjoner
 
