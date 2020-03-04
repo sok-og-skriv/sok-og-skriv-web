@@ -28,7 +28,7 @@ module.exports = {
       title: 'Language and style',
       children: [
         'language-and-style',
-        'organising-your-writing',
+        'writing-one-thing-at-a-time',
         'flow',
         'non-academic-language'
       ]
