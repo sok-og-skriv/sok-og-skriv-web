@@ -108,7 +108,7 @@ Some institutional archives in Norway:
 - [Brage Norwegian School of Economics](https://openaccess.nhh.no/ "NHH Brage")
 - [DUO – Digital publications at the University of Oslo](https://www.duo.uio.no/ "DUO")
 - [Munin – University of Tromsø](https://munin.uit.no/ "Munin")
-- [Information about the Brage archive](https://www.bibsys.no/norsk/produkter/brage/publiseringsarkiv.php "Brage")
+- [Information about the Brage archive](https://www.unit.no/en/node/521 "Brage")
 - A list of research archives worldwide is available at [OpenDoar](https://www.opendoar.org/countrylist.php "OpenDoar")
 
 All these archives make research carried out at the relevant institutions freely available on the Internet. Works can be retrieved using search engines such as Google Scholar. If you wish to make your master’s thesis available in this way, you must find out about your institution’s submission procedures. Some institutions allow you to self-archive your thesis at the same time that you submit it for examination. Other institutions will only allow self-archiving after the examination process has been completed. It is never too late to self-archive your work. Contact your institution if you decide later on that you wish to self-archive.

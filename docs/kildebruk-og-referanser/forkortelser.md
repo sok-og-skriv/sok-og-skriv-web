@@ -71,4 +71,4 @@ Det brukes en del standardforkortelser i forbindelse med bruk av sitering og kil
 
 
 
-Mer om forkortinger fra [Språkrådet](https://www.sprakrad.no/Sprakhjelp/Skriveregler_og_grammatikk/Forkortinger/).
+Mer om forkortinger fra [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/).

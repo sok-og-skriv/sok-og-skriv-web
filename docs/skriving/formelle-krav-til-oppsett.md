@@ -120,4 +120,4 @@ En mer utfyllende innføring i [**praktiske detaljer og formelle krav**](https:/
 
 [**Purdue OWL** ](https://owl.english.purdue.edu/)(Online Writing Lab) er et anerkjent nettsted som gir svar på en lang rekke spørsmål om akademisk skriving på engelsk.
 
-For **tegnsetting** på norsk, se [Korrekturavdelingen.no ](https://www.korrekturavdelingen.no/)
+For **tegnsetting** på norsk, se [Korrekturavdelingen.no ](http://www.korrekturavdelingen.no/)
