@@ -47,4 +47,4 @@ Rumsey, S. (2008) _How to find information: a guide for researchers._ 2\. utg. M
 
 Schimel, J. (2012) _Writing Science: how to write papers that get cited and proposals that get funded_. Oxford: Oxford University Press.
 
-Vaage, S. (2001) Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar: George Herbert Mead og John Dewey om læring. I: Dysthe, O. red. _Dialog, samspel og læring. _Oslo: Abstrakt forlag, s. 129-150.
+Vaage, S. (2001) Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar: George Herbert Mead og John Dewey om læring. I: Dysthe, O. red. _Dialog, samspel og læring_. Oslo: Abstrakt forlag, s. 129-150.
