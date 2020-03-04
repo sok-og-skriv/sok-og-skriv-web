@@ -80,7 +80,7 @@ Essayet er en personlig formet artikkel. Det er tydelig preget av forfatteren, a
 En blogg kan være en grei innfallsvinkel for å følge diskusjoner i ulike fora. Du kan abonnere på blogger som RSS feeds. Vær oppmerksom på hvem som står bak bloggen. Blogger har ofte en dagbokform og reflekterer personlige erfaringer og meninger. De bygger ikke alltid på etterprøvbare og vitenskaplig dokumementerte påstander.
 
 ::: tip Tips!
-Undersøk om det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til [Forskning.no](https://www.forskning.no/blog).
+Undersøk om det finnes fagblogger på området du skriver innenfor. Se for eksempel bloggen til [Forskning.no](https://blogg.forskning.no/).
 :::
 
 ## Utgiver

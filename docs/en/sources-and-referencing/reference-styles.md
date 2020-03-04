@@ -18,6 +18,6 @@ Some of the most commonly used reference styles in academic writing are:
 - Harvard – author-year, a general reference system used in many disciplines (and used here at Søk & Skriv). See for example _[Quote, Unquote](https://www.scientific-journals.co.uk/web_documents/quote_unquote.pdf "Quote, Unquote")_.
 - Modern Language Association (MLA) – author -page number, widely used in linguistics and literature (see, e.g., the [description at Cornell University](https://www.library.cornell.edu/resrch/citmanage/mla)).
 - [Vancouver](https://www.ncbi.nlm.nih.gov/books/NBK7256/ "Citing Medicine") – numbered system, commonly used in medicine, health sciences and natural sciences.
-- IEEE (Institue of Electrical and Electronics Engineers) - used in, e.g., engineering and computer science (cf. [the Citation Compass](https://kildekompasset.no/english)).
+- IEEE (Institue of Electrical and Electronics Engineers) - used in, e.g., engineering and computer science (cf. [the Citation Compass](http://kildekompasset.no/english)).
 
 Different academic journals use different reference styles. If you are planning to publish in a journal, the instructions for authors will normally include information about reference style.

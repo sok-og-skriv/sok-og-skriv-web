@@ -80,7 +80,7 @@ An essay is an article written from the author’s personal point of view. The t
 Blogs can be useful for keeping track of discussions in different fora. You can subscribe to blogs as RSS feeds. Make sure you know who is responsible for the blog. Blogs often take the form of a daily journal and reflect personal experiences and opinions. Claims made in blogs will not necessarily be verifiable or properly documented.
 
 ::: tip Tip!
-Are there any scholarly blogs in your subject area? See for example [Language Log](https://languagelog.ldc.upenn.edu/nll/ and the [Nature News Blog](https://blogs.nature.com/news).
+Are there any scholarly blogs in your subject area? See for example [Language Log](https://languagelog.ldc.upenn.edu/nll/) and the [Nature News Blog](http://blogs.nature.com/news).
 :::
 
 ## Publisher

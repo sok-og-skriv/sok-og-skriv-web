@@ -48,7 +48,7 @@ Research committees are responsible for ensuring that projects comply with the a
 The following commitees on ethical guidelines can be found in Norway:
 
 - [The National Committee for Medical and Health Research Ethics (NEM)](https://www.etikkom.no/Vart-arbeid/Hvem-er-vi/Komite-for-medisin-og-helsefag/)  
-    with references to [the Helsinki Declaration](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Helsinki-deklarasjonen/), [the Vancouver Convention](https://www.icmje.org/) and [guidelines of the inclusion of women in medical research](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Inklusjon-av-kvinner/ "(in Norwegian)")
+    with references to [the Helsinki Declaration](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Helsinki-deklarasjonen/), [the Vancouver Convention](http://www.icmje.org/) and [guidelines of the inclusion of women in medical research](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Inklusjon-av-kvinner/ "(in Norwegian)")
 - [Guidelines for research ethics in the social sciences, law, the humanities and theology](https://www.etikkom.no/Forskningsetikk/Etiske-retningslinjer/Samfunnsvitenskap-jus-og-humaniora/ "(in Norwegian)")
 - [Guidelines for research ethics in science and technology](https://www.etikkom.no/Documents/English-publications/Guidelines%20for%20research%20ethics%20in%20science%20and%20technology%20%282008%29.pdf)
 

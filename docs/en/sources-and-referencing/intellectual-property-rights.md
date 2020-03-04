@@ -54,7 +54,7 @@ A quotation is defined as a non-substantial excerpt from a work (regardless of t
 
 To avoid altering or degrading the work, artistic works such as pictures, photographs and illustrations, should in general be reproduced in full. Artistic material is therefore usually not covered by the quotation right, and you will have to obtain permission for reproduction, if the work is still under copyright protection.
 
-Universities and university colleges have entered into an [agreement](https://www.bono.no/images/uploads/dokumenter/avtale_uhr-_bono.pdf "(in Norwegian)") with the Norwegian fine artists’ association BONO concerning the use of works of art. The agreement gives employees and students the right to use works of art in connection with teaching and research. If the artist is registered with [BONO](https://www.bono.no/about_us/), you will therefore not need to make an individual application for permission to reproduce a work of art.
+Universities and university colleges have entered into an [agreement](https://www.bono.no/images/uploads/dokumenter/avtale_uhr-_bono.pdf "(in Norwegian)") with the Norwegian fine artists’ association BONO concerning the use of works of art. The agreement gives employees and students the right to use works of art in connection with teaching and research. If the artist is registered with [BONO](https://www.bono.no/aboutbono), you will therefore not need to make an individual application for permission to reproduce a work of art.
 
 Contact BONO to find out whether the artist in question is covered by the agreement. If not, you will have to contact the copyright holder to obtain permission to reproduce the work.
 
@@ -101,7 +101,7 @@ The same rules apply to images downloaded from the internet as to printed images
 
 **Photographs, illustrations, fine art**
 
-Works that are reproduced in full will not normally qualify as a quotation. You should check with [BONO](https://www.bono.no/about_us/) to find out whether a specific work of art is covered by an agreement with the Norwegian Association of Higher Education Institutions (UHR). You will need permission to reproduce a work of art if its copyright protection has not expired.
+Works that are reproduced in full will not normally qualify as a quotation. You should check with [BONO](https://www.bono.no/aboutbono) to find out whether a specific work of art is covered by an agreement with the Norwegian Association of Higher Education Institutions (UHR). You will need permission to reproduce a work of art if its copyright protection has not expired.
 
 **Taking photographs of people**
 

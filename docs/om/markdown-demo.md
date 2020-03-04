@@ -167,7 +167,7 @@ Du kan starte på et ønsket nummer:
 
 [skriving](/skriving)
 
-[kildekompasset](https://kildekompasset.no)
+[kildekompasset](http://kildekompasset.no)
 ```
 
 ::: eksempel
@@ -175,7 +175,7 @@ Du kan starte på et ønsket nummer:
 
 [skriving](/skriving)
 
-[kildekompasset](https://kildekompasset.no)
+[kildekompasset](http://kildekompasset.no)
 :::
 
 ## YouTube
