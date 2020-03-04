@@ -9,9 +9,20 @@ Søk og skriv dokumentasjon på bruk av Markdown. Se også [Markdown-it](https:/
 
 ## Avsnitt
 
+::: eksempel
 Dette er avsnitt én og det må en blank linje til for at det skal dukke opp et andre avsnitt.
 
 Og her er avsnitt to.
+:::
+
+## Enkel linjeskift
+
+Ved å legge til **to mellomrom** kan man få et enkelt linjeskift
+
+::: eksempel
+Dette er linje 1  
+Dette er linje 2
+:::
 
 ## Horisontal skillelinje
 
@@ -19,7 +30,11 @@ Og her er avsnitt to.
 ---
 ```
 
+::: eksempel
+...vanskelig å se på grå bakgrunn...
+
 ---
+:::
 
 ## Utheving og kursiv
 
@@ -31,8 +46,10 @@ __uthevet tekst__
 *kursiv*
 
 _kursiv_
-```
 
+***Uthevet OG kursiv***
+```
+::: eksempel
 **uthevet tekst**
 
 __uthevet tekst__
@@ -40,6 +57,9 @@ __uthevet tekst__
 *kursiv*
 
 _kursiv_
+
+***Uthevet OG kursiv***
+:::
 
 ## Overskrifter
 
@@ -53,6 +73,7 @@ _kursiv_
 #### Heading 4
 ```
 
+::: eksempel
 # Heading 1
 
 ## Heading 2
@@ -60,6 +81,27 @@ _kursiv_
 ### Heading 3
 
 #### Heading 4
+:::
+
+:: Sitering
+
+``` markdown
+> Blokksitering er ganske pent
+> Denne linjen er med i samme sitering
+
+Noe tekste i mellom.
+
+> En laaaang, sammenhengende linje trenger bare `> ` i starten. Linjen kan vare og vare og vare og vare. Du kan også *bruke* **Markdown** i en blokksitering.
+```
+
+::: eksempel
+> Blokksitering er ganske pent
+> Denne linjen er med i samme sitering
+
+Noe tekst i mellom her, ja.
+
+> En laaaang, sammenhengende linje trenger bare `> ` i starten. Linjen kan vare og vare og vare og vare. Du kan også *bruke* **Markdown** i en blokksitering.
+:::
 
 ## Lister
 
@@ -89,6 +131,7 @@ Du kan starte på et ønsket nummer:
 1. bar
 ```
 
+::: eksempel
 **Uordnet**
 
 + Lag en liste med `+`, `-`, or `*`
@@ -113,6 +156,7 @@ Du kan starte på et ønsket nummer:
 
 57. foo
 1. bar
+:::
 
 ## Lenker og youtube
 
@@ -126,11 +170,13 @@ Du kan starte på et ønsket nummer:
 [kildekompasset](https://kildekompasset.no)
 ```
 
+::: eksempel
 **lenke**
 
 [skriving](/skriving)
 
 [kildekompasset](http://kildekompasset.no)
+:::
 
 ## YouTube
 
@@ -140,47 +186,131 @@ Du kan starte på et ønsket nummer:
 <Video id="FJKg3G-JRpg" />
 ```
 
+::: eksempel
 **youtube**
 
 <Video id="FJKg3G-JRpg" />
+:::
 
-## Bilder
+## Bilder (ikke anbefalt)
+
+Denne måten er best når bilder skal være en del av teksten, som ikon på denne siden: [Formelle krav til oppsett](/skriving/formelle-krav-til-oppsett.html#brodtekst-marger-og-skriftstorrelse).
+
+***Anbefales ikke!***
 
 ``` markdown
 ![bildetekst](lenke-til-bilde)
 
-![HVL logo](/images/hvl_logo.jpg)
+![HVL logo](/partners/hvl-logo.jpg)
 ```
 
-![HVL logo](/images/hvl_logo.jpg)
+::: eksempel
+![HVL logo](/partners/hvl-logo.jpg)
+:::
+
+## Bilder II (anbefales)
+
+Bruken av **Figure** gjør at vi kan lage penere bildebokser med bildetekst i Søk og skriv. Ved å ha med "alt" tekst tilfredsstiller vi krav til universell utforming. `type` brukes til å "styre" bildet. "left" drar bildet til venstre og lar teksten flyte rundt, samme for "right". Et `type` tom bruker bildet hele bredden til siden. 
+
+``` html
+<Figure
+  src="[LENKE TIL BILDE I ./VUEPRESS/PUBLIC/IMAGES/]"
+  alt="[ALTERNATIV TEKST, VELDIG VIKTIG FOR Å TILFREDSSTILLE TILGJENGELIGSKRAV]"
+  caption="[BILDETEKST]"
+  type="[TOM, left ELLER right]"
+/>
+
+<Figure
+  src="/images/kategori_studier5-1.jpg"
+  alt="Fire studenter diskuterer en akademisk tekst"
+  caption="Kollokvie. Ill.foto: NHH"
+  type=""
+/>
+```
+
+::: eksempel
+<Figure
+  src="/images/kategori_studier5-1.jpg"
+  alt="Fire studenter diskuterer en akademisk tekst"
+  caption="Kollokvie. Ill.foto: NHH"
+  type=""
+/>
+:::
+
 
 ## Bokser
 
+
+### Tip
 ``` markdown
 ::: tip TIPS
 _tekst_
 :::
+```
+
+::: tip TIPS
+_tekst_
+:::
+
+### Advarsel
+``` markdown
+::: warning ADVARSEL
+_tekst_
+:::
+```
 
 ::: warning ADVARSEL
 _tekst_
 :::
 
+### Fare
+``` markdown
 ::: danger UFF OG NEI
 _tekst_
 :::
+```
+
+::: danger UFF OG NEI
+_tekst_
+:::
+
+### Eksempel
+``` markdown
+::: eksempel Eksempel
+Noe mer tekst
+:::
+```
 
 ::: eksempel Eksempel
 Noe mer tekst
 :::
 
+### Oppgave
+``` markdown
+::: oppgave Oppgave
+Noe mer tekst
+:::
+```
+
 ::: oppgave Oppgave
 Noe mer tekst
 :::
 
-::: details Vi og skjul
+### Vis/skjul-boks
+``` markdown
+::: details Vis/skjul-boks
+Blabla
+:::
+```
+
+::: details Vis og skjul
 Blabla
 :::
 
+### Boks i bokser
+Boks i boks gjøres ved å la den ytterste boksen få et ekstra ":".
+
+``` markdown
 :::: tip TIPS med "vis og skjul"
 _tekst_
 
@@ -193,30 +323,6 @@ __blabla__
 :::
 ::::
 ```
-
-::: tip TIPS
-_tekst_
-:::
-
-::: warning ADVARSEL
-_tekst_
-:::
-
-::: danger UFF OG NEI
-_tekst_
-:::
-
-::: eksempel Eksempel
-Noe mer tekst
-:::
-
-::: oppgave Oppgave
-Noe mer tekst
-:::
-
-::: details Vi og skjul
-Blabla
-:::
 
 :::: tip TIPS med "vis og skjul"
 _tekst_
@@ -234,16 +340,21 @@ __blabla__
 
 Tabeller er aldri gøy :-(. Enkleste er å ha tabellen i Excel eller Google Sheets og konvertere til markdown. Da er [Tablesgenerator](https://www.tablesgenerator.com/markdown_tables) topp.
 
+Jeg markerer tabellen på Søk og skriv, går til [Tablesgenerator](https://www.tablesgenerator.com/markdown_tables) og velger `File -> Paste table data`. Det går ann å gjøre enkel redigering med det verktøyet. Det har fungert veldig bra for meg :-).  
+Ellers anbefales det å ha tabellene i regneark i Teams.
+
 ``` markdown
-| Tables        | Are           | Cool  |
+| Tabeller      | Er            | Blæh  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 3 er      | høyre-justert |  1600 |
+| col 2 er      | sentrert      |    12 |
+| zebra striper | er bra        |     1 |
 ```
 
-| Tables        | Are           | Cool  |
+::: eksempel
+| Tabeller      | Er            | Blæh  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 3 er      | høyre-justert |  1600 |
+| col 2 er      | sentrert      |    12 |
+| zebra striper | er bra        |     1 |
+:::
