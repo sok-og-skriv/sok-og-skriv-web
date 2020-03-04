@@ -119,10 +119,10 @@ footer .partners
 
 <script>
 import Home from '@parent-theme/components/Home.vue'
-import Navbar from '@parent-theme/components/Navbar.vue'
+import Navbar from './../components/Navbar'
 import Page from '@parent-theme/components/Page.vue'
-import Sidebar from '@parent-theme/components/Sidebar.vue'
-import { resolveSidebarItems } from '@parent-theme//util'
+import Sidebar from './../components/Sidebar.vue'
+import { resolveSidebarItems } from '@parent-theme/util'
 
 export default {
   name: 'Layout',
