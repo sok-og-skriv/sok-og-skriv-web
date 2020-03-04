@@ -27,7 +27,7 @@ No such time limit applies to the creator’s ideal rights. Under these rights t
 
 Intellectual property rights protect the formulation of a work. It does not protect the ideas, knowledge or methods. The protection of an idea or method as a solution of a technical problem goes through patenting. A patent gives the owner economic exclusive rights to own an invention for a limited period of time. See [The Norwegian Industrial Property Office](http://www.patentstyret.no/en/english/ "(nytt vindu)") for more information.
 
-Creators are responsible for ensuring that the contents of their work comply with [ethical guidelines](/en/sources-and-referencing/why-cite-sources/guidelines-on-academic-ethics/ "Ethical guidelines for academia"), unless there are specifically applicable guidelines that transfer this duty to others. In general the Copyright Act grants the creator of a work exclusive control, including the right to restrict access. Hence, the student or the researcher has the final responsibility to decide whether making their work freely available may conflict with patent considerations or further publication. In any event it is advisable to carefully consider the advice of supervisors and fellow researchers. Preferably, research papers should be written in a way that avoids having to restrict access to them.
+Creators are responsible for ensuring that the contents of their work comply with [ethical guidelines](/en/sources-and-referencing/why-cite-sources/ethical-guidelines-for-academia/ "Ethical guidelines for academia"), unless there are specifically applicable guidelines that transfer this duty to others. In general the Copyright Act grants the creator of a work exclusive control, including the right to restrict access. Hence, the student or the researcher has the final responsibility to decide whether making their work freely available may conflict with patent considerations or further publication. In any event it is advisable to carefully consider the advice of supervisors and fellow researchers. Preferably, research papers should be written in a way that avoids having to restrict access to them.
 
 <Figure
   src="/images/opphavsrett_jus_30.jpg"
@@ -80,7 +80,7 @@ _Brita Olsdatter Nango, Kautokeino, 1883_. Photo: Tromholt, S. (1883) (Universit
 The right to quote applies to all types of copyrighted material. Suppose that for the purposes of your dissertation you wish to quote from TV or radio programmes or use clips of recorded music. Doing so will involve reproducing other people’s copyrighted material. If you use these quotations as part of the argument in your dissertation, either to support of criticise points of view, the criteria for the right to quote are satisfied. It is considered good practice to observe the following rules:
 
 - The quotation should only form a small part of the original.
-- Do not make quotations so brief that their original meaning is lost. Proceed with caution and comply with [ethical guidelines](/en/sources-and-referencing/why-cite-sources/guidelines-on-academic-ethics/) when you use other people’s work in your own presentation. Read more about [distortion of the original meaning](/en/sources-and-referencing/how-to-cite/#meaning).
+- Do not make quotations so brief that their original meaning is lost. Proceed with caution and comply with [ethical guidelines](/en/sources-and-referencing/why-cite-sources/ethical-guidelines-for-academia/) when you use other people’s work in your own presentation. Read more about [distortion of the original meaning](/en/sources-and-referencing/how-to-cite/#meaning).
 - Remember always to state the creator, the title and the source of the work.
 
 ### Copyright and good practice when quoting from various types of sources
@@ -105,7 +105,7 @@ Works that are reproduced in full will not normally qualify as a quotation. You 
 
 **Taking photographs of people**
 
-Remember that the people you photograph have a right to privacy. Get their permission to be photographed and explain to them where you intend to publish the resulting images. Make sure you obtain this permission in writing. See also [research ethics](/en/sources-and-referencing/why-cite-sources/guidelines-on-academic-ethics/).
+Remember that the people you photograph have a right to privacy. Get their permission to be photographed and explain to them where you intend to publish the resulting images. Make sure you obtain this permission in writing. See also [research ethics](/en/sources-and-referencing/why-cite-sources/ethical-guidelines-for-academia/).
 
 **Computer software**
 

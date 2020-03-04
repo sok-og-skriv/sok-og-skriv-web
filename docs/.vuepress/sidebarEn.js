@@ -58,7 +58,7 @@ module.exports = {
       title: 'Why cite sources?',
       children: [
         'why-cite-sources',
-        'guidelines-on-academic-ethics',
+        'ethical-guidelines-for-academia',
         'intellectual-property-rights'
       ]
     },

@@ -7,7 +7,7 @@ date: "2013-02-21"
 
 This section describes the main elements of a written thesis for the Norwegian bachelor’s and master’s degrees. Although the organising principles described here are most clearly relevant for empirical theses, much of the advice is also relevant for theoretical work. Please note that the formal requirements vary between different disciplines, and make sure to confer the guidelines that apply in your field.
 
-For the contents in the various sections you may also confer [Organising your writing.](/en/writing/language-and-style/organising-your-writing/)
+For the contents in the various sections you may also confer [Organising your writing.](/en/writing/language-and-style/writing-one-thing-at-a-time/)
 
 ## Summary and foreword
 
