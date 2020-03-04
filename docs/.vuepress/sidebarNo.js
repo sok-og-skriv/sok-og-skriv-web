@@ -141,6 +141,9 @@ module.exports = {
     '/video/',
     '/om/kontaktinformasjon',
     '/om/rettigheter-til-sok-og-skriv',
-    '/om/referanser'
+    '/om/referanser',
+    '/om/markdown-demo',
+    '/om/gitlab-arbeidsflyt',
+    '/om/brukertest/'
   ]
 }
