@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /
 
+User-agent: www.deadlinkchecker.com
+ Allow: /
+
 # Sitemap: https://www.sokogskriv.no/sitemap.xml
