@@ -20,7 +20,7 @@ Og her er avsnitt to.
 Ved å legge til **to mellomrom** kan man få et enkelt linjeskift
 
 ::: eksempel
-Dette er linje 1  
+Dette er linje 1. Med to mellomrom her ->  
 Dette er linje 2
 :::
 
@@ -158,23 +158,27 @@ Du kan starte på et ønsket nummer:
 1. bar
 :::
 
-## Lenker og youtube
+## Lenker
 
 ``` markdown
 **lenke**
 
 [lenketekst](url)
 
+*Interne lenker*  
 [skriving](/skriving)
 
+*Eksterne lenker*  
 [kildekompasset](http://kildekompasset.no)
 ```
 
 ::: eksempel
 **lenke**
 
+*Interne lenker*  
 [skriving](/skriving)
 
+*Eksterne lenker*  
 [kildekompasset](http://kildekompasset.no)
 :::
 
