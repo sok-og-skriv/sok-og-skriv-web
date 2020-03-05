@@ -26,7 +26,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
     </div>
     <div class="content">
       <h2><a href="/lesing">Lesing</a></h2>
-      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave må være bevisst på hva og hvordan du leser.</p>
+      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave, må være bevisst på hva og hvordan du leser.</p>
     </div>
   </div>
 
