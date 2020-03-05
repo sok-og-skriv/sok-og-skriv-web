@@ -17,10 +17,3 @@ Bruk problemstillingen til å orientere deg i aktuelle kilder. Når du har søkt
 Ta stilling til kildene du bruker i oppgaven, og forklar hvorfor du har valgt nettopp disse.
 
 For at leseren lett skal kunne finne igjen kildene dine, bruker du kildehenvisninger underveis i teksten og samler alle referansene til slutt i en referanseliste. Hensikten er både å gjøre det mulig å kontrollere opplysningene du bruker og å kunne slå opp og lese mer.
-
-<Figure
-  src="/images/illustrasjoner_kildehenvisning_500x450.png"
-  alt="Dialogbokser over en oppslått bok"
-  caption=""
-  type=""
-/>

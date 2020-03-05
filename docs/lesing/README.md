@@ -4,16 +4,11 @@ date: "2012-03-15"
 prev: "../soking/systematisk-soking"
 ---
 
-# Lesing
+# ![](/images/illustrasjoner_lesing_500x450.png) Lesing
 
 Lesing og skriving er kjerneaktiviteter i akademisk arbeid. Som ferdigheter henger de nært sammen, og påvirker hverandre. For å kunne skrive en god oppgave, må du være god til å lese, og du må være bevisst på _hva_ og _hvordan_ du leser.
 
-<Figure
-  src="/images/illustrasjoner_lesing_500x450.png"
-  alt="Flyvende bøker over en bokhylle"
-  caption=""
-  type="right"
-/>
+<Video id="JchpFI50UDk" />
 
 Det viktigste med å lese er _at_ man leser. Den som leser mye og jevnlig, vil som oftest utvikle gode leseferdigheter av seg selv. Råd nummer én til den som skal lese i forbindelse med studier, er derfor: Les! Bare slik kan du bli en god leser.
 
@@ -22,5 +17,3 @@ Det viktigste med å lese er _at_ man leser. Den som leser mye og jevnlig, vil
 I denne delen får du noen enkle råd om hvordan du kan gå fram når du leser, og hva du kan eller bør tenke på. Du kan plukke og samle det du vil av disse rådene – ikke alle råd passer for alle. Ordet «lese» henger ordhistorisk sammen med ord som betyr nettopp «å plukke og samle». Latin _lego_ betyr både «jeg plukker», «jeg samler» og «jeg leser».
 
 God lesing!
-
-<Video id="JchpFI50UDk" />
