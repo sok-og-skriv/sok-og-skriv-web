@@ -15,65 +15,35 @@ module.exports = {
   ],
   '/en/writing/': [
     '',
-    {
-      title: 'Structure and argumentation',
-      children: [
-        'structure-and-argumentation',
-        'structuring-a-thesis',
-        'crafting-an-argument',
-        'the-imrad-format'
-      ]
-    },
-    {
-      title: 'Language and style',
-      children: [
-        'language-and-style',
-        'writing-one-thing-at-a-time',
-        'flow',
-        'non-academic-language'
-      ]
-    },
-    {
-      title: 'The writing process',
-      children: [
-        'the-writing-process',
-        'start-writing',
-        'writing-groups'
-      ]
-    },
+    'structure-and-argumentation',
+    'structuring-a-thesis',
+    'crafting-an-argument',
+    'the-imrad-format',
+    'language-and-style',
+    'writing-one-thing-at-a-time',
+    'flow',
+    'non-academic-language',
+    'the-writing-process',
+    'start-writing',
+    'writing-groups',
     'formal-requirements',
     'disseminating-your-thesis',
   ],
   '/en/sources-and-referencing/': [
     '',
-    {
-      title: 'How to cite?',
-      children: [
-        'how-to-cite',
-        'what-to-cite',
-        'abbreviations'
-      ]
-    },
-    {
-      title: 'Why cite sources?',
-      children: [
-        'why-cite-sources',
-        'ethical-guidelines-for-academia',
-        'intellectual-property-rights'
-      ]
-    },
+    'how-to-cite',
+    'what-to-cite',
+    'abbreviations',
+    'why-cite-sources',
+    'ethical-guidelines-for-academia',
+    'intellectual-property-rights',
     'reference-styles',
-    {
-      title: 'Source evaluation',
-      children: [
-        'source-evaluation',
-        'qualitative-evaluation',
-        'websites',
-        'assessing-relevance',
-        'comparing-sources',
-        'text-analysis'
-      ]
-    }
+    'source-evaluation',
+    'qualitative-evaluation',
+    'websites',
+    'assessing-relevance',
+    'comparing-sources',
+    'text-analysis'
   ],
   '/en/': [
     '/en/about/',

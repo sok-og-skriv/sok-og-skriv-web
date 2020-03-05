@@ -15,77 +15,35 @@ module.exports = {
   ],
   '/skriving/': [
     '',
-    {
-      title: 'Skriveprosessen',
-      children: [
-        'skriveprosessen',
-        'kom-i-gang-a-skrive',
-        'skrivegrupper'
-      ]
-    },
-    {
-      title: 'Struktur og argumentasjon',
-      children: [
-        'struktur-og-argumentasjon',
-        'oppbygning-av-en-oppgave',
-        'redegjor-og-droft',
-        'a-argumentere-i-egen-tekst',
-        'imrod-modellen'
-      ]
-    },
-    {
-      title: 'Akademisk sprak og stil',
-      children: [
-        'akademisk-sprak-og-stil',
-        'skrive-ryddig',
-        'a-skape-flyt',
-        'ikke-akademisk-sprak'
-      ]
-    },
+    'skriveprosessen',
+    'kom-i-gang-a-skrive',
+    'skrivegrupper',
+    'struktur-og-argumentasjon',
+    'oppbygning-av-en-oppgave',
+    'redegjor-og-droft',
+    'a-argumentere-i-egen-tekst',
+    'imrod-modellen',
+    'akademisk-sprak-og-stil',
+    'skrive-ryddig',
+    'a-skape-flyt',
+    'ikke-akademisk-sprak',
     'formelle-krav-til-oppsett',
     'formidling',
   ],
   '/kildebruk-og-referanser/': [
     '',
-    {
-      title: 'Hvordan referere',
-      children: [
-        'hvordan-referere',
-        'hva-refereres',
-        'forkortelser'
-      ]
-    },
-    {
-      title: 'Hvorfor referere',
-      children: [
-        'hvorfor-referere',
-        'etiske-retningslinjer-i-akademia',
-        'opphavsrettslige-forhold'
-      ]
-    },
-    /* {
-      title: 'Referansestiler',
-      children: [
-        'referansestiler/',
-        'referansestiler/apa-6th',
-        'referansestiler/chicago-fotnoter',
-        'referansestiler/chicago-forfatter-aar',
-        'referansestiler/mla',
-        'referansestiler/harvard',
-        'referansestiler/vancouver',
-      ]
-    }, */
-    {
-      title: 'Kildevurdering',
-      children: [
-        'kildevurdering',
-        'kvalitative-vurderinger',
-        'nettsider',
-        'vurdering-av-relevans',
-        'kildesammenligning',
-        'tekstanalyse'
-      ]
-    }
+    'hvordan-referere',
+    'hva-refereres',
+    'forkortelser',
+    'hvorfor-referere',
+    'etiske-retningslinjer-i-akademia',
+    'opphavsrettslige-forhold',
+    'kildevurdering',
+    'kvalitative-vurderinger',
+    'nettsider',
+    'vurdering-av-relevans',
+    'kildesammenligning',
+    'tekstanalyse'
   ],
   '/referansestiler/apa/': [
     '',
