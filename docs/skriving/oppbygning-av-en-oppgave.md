@@ -185,9 +185,3 @@ I avslutningen bør du sette oppgaven i et større (faglig) perspektiv og peke p
 ### Oppgaven "biter seg selv i halen":
 
 Det må være god sammenheng mellom innledningen og avslutningen. Temaer og spørsmål som reises i innledningen må gjenfinnes i avslutningen. Dersom det viser seg at oppgaven likevel ikke har berørt et tema fra innledningen, må det heller strykes. En elegant måte å strukturere teksten på er å bruke samme "bilde", case eller fortelling i begynnelsen og slutten. Når dette bildet vender tilbake i avslutningen, har det fått en ny betydning gjennom innsiktene/erkjennelsen som har oppstått i løpet av skrivearbeidet.
-
-**Videre lesing**:  
-Førland, T.E. (1996) _Drøft: lærebok i oppgaveskriving._ Oslo: Ad notam Gyldendal.  
-Rienecker, L. og Stray Jørgensen, P. (2012) _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg: Samfundslitteratur. 
-
-Schimel, J. (2012) _Writing science: how to write papers that get cited and proposals that get funded._ Oxford: Oxford University Press.

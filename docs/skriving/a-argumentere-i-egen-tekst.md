@@ -72,8 +72,3 @@ Still spørsmål til det du selv skal skrive:
 
 Du kan bruke [Toulmins argumentasjonsmodell](https://studypedia.au.dk/fileadmin/www.studiemetro.au.dk/Gul_Krav_til_universitetsopgaver/Argument/argument.html) for å synliggjøre argumenter og påstander i oppgaven din.
 :::
-
-**Videre lesing**:  
-Brodersen, R.B., Bråten, F., Reiersgaard, A., Slethei, K. og Ågotnes, K. (2007) _Tekstens autoritet: tekstanalyse og skriving i akademia_. Oslo: Universitetsforlaget.  
-
-Rienecker, L. og  Stray Jørgensen, P. (2012) _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg : Samfundslitteratur.

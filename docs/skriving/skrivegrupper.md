@@ -62,8 +62,3 @@ Noen blogger har en personlig stil som grenser mot dagbokform, andre er ment som
 - blogg.no
 - blogger.com
 - www.wordpress.com
-
-**Videre lesing**:  
-Dysthe, O. og Lied, L.I. (1999) _Skrivegrupper._ Læring ved universitetet, nr.  2/99. Bergen: Universitetet i Bergen.  
-
-Vaage S. (2001). Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar: George Herbert Mead og John Dewey om læring. I: Dysthe, O. red. _Dialog, samspel og læring._ Oslo, Abstrakt forlag, s. 129-150.

@@ -44,8 +44,3 @@ Let etter [argumentasjon](/lesing/argumentasjon-i-tekst/) og drøfting i andre
 ## Slutninger (konklusjoner)
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
-
-**Videre lesing**:  
-Brodersen, R.B., Bråten, F., Reiersgaard, A., Slethei, K. og Ågotnes, K. (2007) _Tekstens autoritet: tekstanalyse og skriving i akademia_. Oslo: Universitetsforlaget.  
-
-Førland, T.E. (1996) _Drøft: lærebok i oppgaveskriving_. Oslo: Ad notam Gyldendal.

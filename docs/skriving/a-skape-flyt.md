@@ -18,6 +18,3 @@ Det er mange måter å skape flyt i en tekst. Dette kalles gjerne tekstbinding.�
 Prinsippet for tekstbinding er å hjelpe leseren til å se sammenhengen i teksten. Et viktig kriterium for akademiske tekster er hensiktsmessig og tydelig _avgrensning._ Disposisjon og leserveiledninger tydeliggjør avgrensningen, og minner leseren på at forfatteren er bevisst sine valg. Eksempel: "Her kunne det vært relevant å ta for seg ... men dette ligger utenfor oppgavens område \[eller problemstilling\]". "Det vil føre for langt å gå inn på ..." osv.
 
 En god oppgave innfrir forventningene som skapes i starten, og svarer på problemstillingen.
-
-**Videre lesing**:  
-Schimel, J. (2012) _Writing Science: How to write papers that get cited and proposals that get funded._ Oxford: Oxford University Press.

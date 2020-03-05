@@ -161,12 +161,3 @@ Som regel er det nødvendig å spesifisere akkurat hva det er du vil undersøke 
 
 Motivasjon fra engasjement (og vice versa)  
 Søk & Skriv har snakket med masterstudenten Martin Roa Skramstad om [det å utvikle problemstilling for masteroppgaven](/?p=4694).
-
----
-
-**Videre lesing**: 
-Bean, J.C. (1996) _Engaging ideas: the professor’s guide to integrating writing, critical thinking, and active learning in the classroom_. San Francisco, California: Jossey-Bass.  
-
-Christie, N. (1983) _Tolv råd om skriving._ Oslo: Universitetet i Oslo, Kvinneretten.  
-
-Dysthe, O. og Kjeldsen, J.E. (1999) _Skriveråd for studenter._  Læring ved universitetet, nr. 1/99. Bergen: Universitetet i Bergen.

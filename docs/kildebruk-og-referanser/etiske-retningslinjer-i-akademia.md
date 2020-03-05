@@ -50,7 +50,3 @@ Det er utarbeidet følgende retningslinjer som brukes i Norge:
 - [Den nasjonale forskningsetiske komité for medisin og helsefag, NEM](https://www.etikkom.no/Vart-arbeid/Hvem-er-vi/Komite-for-medisin-og-helsefag/) med henvisninger til [Helsinkideklarasjonen](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Helsinki-deklarasjonen/), [Vancouverkonvensjonen](https://www.etikkom.no/no/FBIB/Praktisk/Lover-og-retningslinjer/Vancouverkonvensjonen/) og [retningslinjer for inklusjon av kvinner i medisinsk forskning](https://www.etikkom.no/no/Forskningsetikk/Etiske-retningslinjer/Medisin-og-helse/Inklusjon-av-kvinner/)
 - [Forskningsetiske retningslinjer for samfunnsvitenskap, humaniora, juss og teologi](https://www.etikkom.no/Forskningsetikk/Etiske-retningslinjer/Samfunnsvitenskap-jus-og-humaniora/)
 - [Retningslinjer for naturvitenskapelig og teknologisk forskning](https://www.etikkom.no/Forskningsetikk/Etiske-retningslinjer/Naturvitenskap-og-teknologi/)
-
-**Videre lesing**:  
-Benum, E. (2003) Universiteter, akademisk integritet og kommersialisering. _Nytt Norsk Tidsskrift_, 20 (1), s. 54-72. 
-De nasjonale forskningsetiske komiteene (u.d.) _Etiske retningslinjer_ \[Internett\]. Tilgjengelig fra:<[https://www.etikkom.no/](https://www.etikkom.no/)\> \[Lest: 20. august 2015\].

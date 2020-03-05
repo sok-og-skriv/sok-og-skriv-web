@@ -111,11 +111,4 @@ Hvis vi sier at en av hjemlene i den litteraturvitenskapelige analysen av tids- 
 
 Gjennom argumentasjonsanalysen over fant du ut _hva_ forfatteren ønsker å formidle til deg som leser. Du bør også analysere _hvordan_ forfatteren formidler resultatene. Til slutt kan du se på hvilke faglige sammenhenger forfatteren har utviklet teksten innenfor. Hvordan er teksten satt i sammenheng med andre tekster?
 
-Hvordan [formidles](?p=255) resultatet, og hvorfor er det relevant i forhold til oppgaven du skal skrive?
-
-**Videre lesing**:  
-Brodersen, R.B., Bråten, F., Reiersgaard, A., Slethei, K. & Ågotnes, K. (2007). _Tekstens autoritet_. Oslo: Universitetsforlaget.
-
-Jørgensen, C. & Onsberg, M. (2008). Praktisk argumentation – grundbok i retorisk argumentation. 3. udg. København: Nyt Teknisk Forlag.
-
-Rienecker, L. og  Stray Jørgensen, P. (2012). _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg: Samfundslitteratur.
+Hvordan formidles resultatet, og hvorfor er det relevant i forhold til oppgaven du skal skrive?

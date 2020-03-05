@@ -18,8 +18,3 @@ Mange uerfarne skribenter tror ofte at de ikke kan begynne skrive før de har sk
 * [Skriv!](/skriving/kom-i-gang-a-skrive)
 * Snakk med medstudenter om oppgaven du skal skrive
 * Lag [skrivegrupper](/skriving/skrivegrupper) for å holde skriveprosessen i gang, både din egen og andres.
-
-**Videre lesing**:  
-Dysthe, O., Hertzberg, F. og Hoel, T.L. (2010) _Skrive for å lære: skriving i høyere utdanning._ 2\. utg. Oslo: Abstrakt forlag.  
-
-Rienecker, L. og Stray Jørgensen, P. (2012) _Den gode opgave – håndbog i opgaveskrivning på videregående uddannelser._ 4. utg. Frederiksberg : Samfundslitteratur.[](?p=263)

@@ -59,6 +59,3 @@ Her tolker og diskuterer du resultatene fra ditt prosjekt.
 _Til konklusjonen:_ Hvordan besvares problemstillingen? Er hypotesen styrket, svekket eller falsifisert? Ikke trekk inn momenter som ikke har vært nevnt tidligere i teksten (under Introduksjon, Metode eller Resultat). Hvis studien ikke gir grunnlag for å konkludere, kan du avslutte med en _oppsummering_.
 
 Eksempler på tekster bygd opp etter IMRoD-modellen finnes for eksempel i [Helsebiblioteket](https://www.helsebiblioteket.no/). Mer litteratur om IMRoD finner du ved å søke i [Oria](https://oria.no "Oria") \- men søk da på IMRaD.
-
-**Videre lesing**:  
-Aveyard, H. (2007) _Doing a literature review in health and social care: a practical guide._ Maidenhead: Open University Press.

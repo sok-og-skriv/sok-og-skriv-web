@@ -13,6 +13,3 @@ Kildevurdering er et samlebegrep for metoder brukt for å skille verifiserte opp
 - Gjør en [kvalitativ vurdering](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/ "Kvalitative vurderinger") av dine informasjonskilder
 
 Tenk over hvem som er målgruppa for informasjonen, i hvor stor grad kilden refererer til andre, hvem som står bak informasjonen samt når og hvor informasjonskilden ble publisert.
-
-**Videre lesing:**  
-Leth, G. og Thurén, T. (2000) _Källkritik för Internet._ Rapport 177. Stockholm: Styrelsen for psykologiskt försvar. Tilgjengelig fra: <[https://www.msb.se/Upload/Produkter\_tjanster/Publikationer/SPF/K%C3%A4llkritik%20f%C3%B6r%20Internet.pdf](https://www.msb.se/Upload/Produkter_tjanster/Publikationer/SPF/K%C3%A4llkritik%20f%C3%B6r%20Internet.pdf)\> \[Lest 2. februar 2012\].

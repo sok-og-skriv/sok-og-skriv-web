@@ -128,10 +128,3 @@ For internasjonale tidsskrifter kan du sjekke [Sherpa/Romeo databasen](https://w
 Hvis du har spørsmål om opphavsrett, egenarkivering og ulike versjoner av artikler, kontakt biblioteket for hjelp. For mer informasjon om open access publisering og egenarkivering i Norge, for eksempel norske forlags praksis, se det norske nettstedet [openaccess.no](https://www.openaccess.no/ "Openaccess.no").
 
 Mer informasjon om publisering finnes på [PhD on track.](https://www.phdontrack.net/share-and-publish/)
-
-**Videre lesing**:  
-Dysthe, O. og Kjeldsen, J.E. (1999) _Skriveråd for studenter._  Læring ved universitetet, nr. 1/99. Bergen: Universitetet i Bergen.  
-
-Learning Support Services (2004) _Skills for Learning_ \[CD-rom\]. Leeds: Metropolitan University Library.
-
-Vaage, S. (2001). Perspektivtaking, rekonstruksjon av erfaring og kreative læreprosessar: George Herbert Mead og John Dewey om læring. I: Dysthe, O. red., _Dialog, samspel og læring._ Oslo: Abstrakt forlag, s. 129-150.

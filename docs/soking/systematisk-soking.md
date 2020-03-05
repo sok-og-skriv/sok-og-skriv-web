@@ -183,10 +183,3 @@ I enkelte fag må du, etter å ha avsluttet det systematiske søket, beskrive se
 ::: tip TIPS
 Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
 :::
-
-**Videre lesing:**
-Haraldstad, A.-M.B. og Christophersen, E. (2008) Litteratursøk og personlige referansedatabaser. I: Laake, P., Olsen, B.R. og Benestad, H.B. red. _Forskning i medisin og biofag._ 2. utg. Oslo, Gyldendal akademisk, s.147-186.
-
-Se også PhD on track om [søking for systematiske oversikter](https://www.phdontrack.net/review-and-discover/systematic-review-searching/).
-
-# Feil lenke? https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews ???

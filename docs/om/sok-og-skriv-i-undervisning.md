@@ -255,8 +255,3 @@ Det å holde et skrivekurs krever en del erfaring med emner som tekstanalyse, ve
 - [Bruk av «jeg»](/skriving/sprak-og-stil/#Kan_jeg_skrive_jeg) – refleksjon rundt akademisk stil
 - [Gjenkjennelse av referansetype](/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_[r](/kildebruk-og-referanser/hvordan-referere/#Referanselisten)_ _–_ interaktiv øvelse i identifisering av ulike referansetyper
 - [Refleksjon rundt fordreining av meningsinnhold](/kildebruk-og-referanser/hvordan-referere/#Fordreining_av_meningsinnhold)– refleksjon omkring opphavsrett
-
-**Videre lesing:**  
-Carroll, J. og Zetterling, C.-M. (2009) _Guiding students away from plagiarism_ \[Internett\]. Stockholm: KTH Learning Lab. Tilgjengelig fra: <[https://people.kth.se/~ambe/KTH/Guidingstudents.pdf](https://people.kth.se/~ambe/KTH/Guidingstudents.pdf)\> \[Lest 5. september 2015\].
-
-Kavli, S., Mitternacht, S., Seland, E.H., og Solheim, B. (2014). Søk & Skriv: hjelp til skriving og etisk kjeldebruk i høgare utdanning. _Bibliotheca Nova_, nr. 2, s. 22-33.
