@@ -11,7 +11,7 @@ date: "2020.02.14"
 
 |I teksten|I referanselisten|
 |---------|-----------------|
-|(Forfatter, årstall, sidetall)|Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (utg.). Utgivelsessted: Forlag. \*Utgaveopplysninger skal ikke føres opp ved førsteutgaver.|
+|(Forfatter, årstall, eventuelt sidetall)|Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (utg.). Utgivelsessted: Forlag. \*Utgaveopplysninger skal ikke føres opp ved førsteutgaver.|
 
 ::: tip Eksempel
 Retterstøl, Ekeberg og Mehlum (2002, s. 54) hevder at …
@@ -26,7 +26,7 @@ Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i 
 ## E-Bok
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 :::
 
 ::: tip Kilden i refereranselisten
@@ -50,7 +50,7 @@ Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitati
 ## Kapittel i redigert bok
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i referanselisten**
 
@@ -67,7 +67,7 @@ Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser 
 ## Avhandling - doktor/master
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i refereranselisten**
 

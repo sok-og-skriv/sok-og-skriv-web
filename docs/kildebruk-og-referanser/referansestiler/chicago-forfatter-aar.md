@@ -28,9 +28,9 @@ Kilden i teksten
 Kilden i refereranselisten
 
 (Forfatter årstall)  
-(Forfatter årstall, sidetall)  
+(Forfatter årstall, eventuelt sidetall)  
 eller  
-Forfatter (årstall, sidetall)
+Forfatter (årstall, eventuelt sidetall)
 
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag.
 
@@ -44,7 +44,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter årstall, sidetall)
+(Forfatter årstall, eventuelt sidetall)
 
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI eller URL
 
@@ -60,7 +60,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfattere årstall, sidetall)
+(Forfattere årstall, eventuelt sidetall)
 
 \*se også retningslinjer for flere forfattere øverst på denne siden under _Referanselisten_
 
@@ -90,7 +90,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter årstall, sidetall)
+(Forfatter årstall, eventuelt sidetall)
 
 Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag.
 
@@ -104,7 +104,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter årstall, sidetall)
+(Forfatter årstall, eventuelt sidetall)
 
 Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Bind nummer av _Hovedtittel_, redigert av Fornavn Etternavn. Utgiversted: Forlag.
 
@@ -132,7 +132,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter årstall, sidetall)
+(Forfatter årstall, eventuelt sidetall)
 
 Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): Sidetall.
 
@@ -146,7 +146,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-Forfatter (årstall, sidetall)
+Forfatter (årstall, eventuelt sidetall)
 
 Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): Sidetall. URL/DOI.  
 
@@ -168,7 +168,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter årstall, eventuelt sidetall)
+(Forfatter årstall, eventuelt eventuelt sidetall)
 
 Etternavn, Fornavn. Årstall. «Artikkeltittel.» _Avistittel_, dato. URL.
 
@@ -345,7 +345,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Departement årstall, eventuelt sidetall)
+(Departement årstall, eventuelt eventuelt sidetall)
 
 Departement. «Tittel på stortingsmelding.» St. meld. nr. (sesjon dvs. årstall) Utgiversted: Utgiver, årstall. URL/DOI.
 
@@ -359,7 +359,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(NOU årstall: nr, sidetall)
+(NOU årstall: nr, eventuelt sidetall)
 
 NOU årstall: nr. _Tittel._ Utgiversted: Utgiver. Eventuelt nedlastningsinformasjon.
 

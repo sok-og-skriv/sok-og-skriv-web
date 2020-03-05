@@ -10,7 +10,7 @@ date: "2020.02.14"
 ## Artikkel i tidsskrift
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 :::
 
 ::: tip Kilden i refereranselisten
@@ -37,7 +37,7 @@ Andersen, K.I. (2012). Prosessen som ingen kunne målbinde. _Fokus på familien,
 
 |Kilden i teksten|Kilden i refereranselisten|
 |----------------|--------------------------|
-|(Forfatter, årstall, sidetall)|Forfatter. (Årstall, dato). Tittel. _Avis, del_, side.|
+|(Forfatter, årstall, eventuelt sidetall)|Forfatter. (Årstall, dato). Tittel. _Avis, del_, side.|
 
 ::: tip Eksempler
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
@@ -65,7 +65,7 @@ Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_. Hentet fra h
 ## Artikkel i trykt leksikon (med forfatter)
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i refereranselisten**
 
@@ -102,7 +102,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 Forfatter (Årstall). Artikkeltittel. I Redaktør (Red. – om oppgitt), _oppslagsverk_. Hentet fra URL
 

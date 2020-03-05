@@ -25,7 +25,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-Forfatter (sidetall)
+Forfatter (eventuelt sidetall)
 
 Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Sted: Utgiver, årstall.
 
@@ -39,7 +39,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter sidetall).
+(Forfatter eventuelt sidetall).
 
 Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidetall.
 
@@ -67,7 +67,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-Forfatter (sidetall)
+Forfatter (eventuelt sidetall)
 
 Etternavn, fornavn. _Tittel_. Akademisk avhandling. Institutt/fakultet, Universitet, årstall.
 
@@ -82,7 +82,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-Forfatter tekst (sidetall)
+Forfatter tekst (eventuelt sidetall)
 
 Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidetall. Eventuelt DOI-nummer
 
@@ -111,7 +111,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-Tekst forfatter (sidetall)
+Tekst forfatter (eventuelt sidetall)
 
 Etternavn, fornavn. "Tittel på artikkel". _Avistittel_ Dato.
 
@@ -168,7 +168,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-Forfatter (sidetall)
+Forfatter (eventuelt sidetall)
 
 Etternavn, Fornavn. "Artikkeltittel". _Tittel på oppslagsverk._ Red. Fornavn Etternavn og Fornavn Etternavn. Bind nr. Sted: Utgiver, årstall.
 

@@ -8,7 +8,7 @@ title: "Eksempel 2"
 
 |Kilden i teksten|Kilden i referanselisten|
 |---------|-----------------|
-|(Forfatter, årstall, sidetall)|Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken har et spesielt format\]. https://doi.org/10.xxx|
+|(Forfatter, årstall, eventuelt sidetall)|Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken har et spesielt format\]. https://doi.org/10.xxx|
 
 ::: eksempel Eksempler
 Watkins (2012) hevder at ... (s. 54).

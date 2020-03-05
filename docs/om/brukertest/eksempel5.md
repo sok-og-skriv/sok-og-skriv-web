@@ -7,7 +7,7 @@ title: "Eksempel 5"
 ## E-Bok
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i refereranselisten**
 
@@ -39,7 +39,7 @@ Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitati
 ## E-Bok II
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Eksempel**
 

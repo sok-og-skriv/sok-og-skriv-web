@@ -42,7 +42,7 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 
 |I teksten|I referanselisten|
 |---------|-----------------|
-|(Forfatter, årstall, sidetall)|Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (utg.). Utgivelsessted: Forlag. \*Utgaveopplysninger skal ikke føres opp ved førsteutgaver.|
+|(Forfatter, årstall, eventuelt sidetall)|Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (utg.). Utgivelsessted: Forlag. \*Utgaveopplysninger skal ikke føres opp ved førsteutgaver.|
 
 ::: tip Eksempel
 Retterstøl, Ekeberg og Mehlum (2002, s. 54) hevder at …
@@ -60,7 +60,7 @@ Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i 
 
 **Kilden i teksten**
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i refereranselisten**
 
@@ -87,7 +87,7 @@ Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge,
 ::: details Kapittel i redigert bok
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i referanselisten**
 
@@ -103,7 +103,7 @@ Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser 
 ::: details Avhandling - doktor/master
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i refereranselisten**
 

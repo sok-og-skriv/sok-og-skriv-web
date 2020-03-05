@@ -7,7 +7,7 @@ title: "Eksempel 4"
 ## E-Bok
 
 ::: tip Kilden i teksten
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 **Kilden i refereranselisten**
 

@@ -33,8 +33,8 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-Bok med en til tre forfattere: (Etternavn og etternavn, årstall, sidetall)  
-Bok med fire eller flere forfattere: (Første forfatters etternavn mfl., årstall, sidetall)
+Bok med en til tre forfattere: (Etternavn og etternavn, årstall, eventuelt sidetall)  
+Bok med fire eller flere forfattere: (Første forfatters etternavn mfl., årstall, eventuelt sidetall)
 
 Bok med en til tre forfattere:  
 Etternavn, N.N, Etternavn, N.N. og Etternavn, N.N. (Årstall) _Tittel_. Utgivelsessted: Utgiver. Bok med fire eller flere forfattere:  
@@ -56,7 +56,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Etternavn, Årstall, sidetall)
+(Etternavn, Årstall, eventuelt sidetall)
 
 Etternavn, N.N. (Årstall) Kapitteltittel, i Redaktør, N.N. og Redaktør, N.N. (red.) _Boktittel_. Utgivelsessted: Utgiver, sidetall for kapittelet.
 
@@ -74,7 +74,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Etternavn, Årstall, Sidetall)
+(Etternavn, Årstall, eventuelt sidetall)
 
 Etternavn, N.N. (Årstall) _Tittel_. Type akademisk avhandling. Sted: Universitet/Høgskole.
 
@@ -98,7 +98,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Etternavn, Årstall, Sidetall)
+(Etternavn, Årstall, eventuelt sidetall)
 
 Etternavn, N.N. og Etternavn, N.N. (Årstall) Artikkeltittel, _Tidsskriftets tittel_, årgang(hefte, måned eller årstid) (hvis det er oppgitt), sidetall.
 
@@ -200,7 +200,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Etternavn, Årstall, Sidetall)
+(Etternavn, Årstall, eventuelt sidetall)
 
 Etternavn, N.N. (Årstall) Tittel på artikkel, i _Tittel på leksikon: Volumtittel_. Utgave. Utgivelsessted: Forlag, sidetall.
 
@@ -323,9 +323,9 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(St.meld. nr. x (Sesjon), sidetall)
+(St.meld. nr. x (Sesjon), eventuelt sidetall)
 
-(Meld. St. x (Sesjon), sidetall)
+(Meld. St. x (Sesjon), eventuelt sidetall)
 
 St.meld. nr. x (Sesjon). _Tittel på stortingsmelding_.
 
@@ -351,7 +351,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(NOU årstall: nr., sidetall)
+(NOU årstall: nr., eventuelt sidetall)
 
 NOU årstall: nr. _Tittel_.
 
@@ -369,7 +369,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, Årstall, sidetall)
+(Forfatter, Årstall, eventuelt sidetall)
 
 Forfatter (Årstall) _Tittel_. Rapport nr. /serie nr. / retningslinje nr. Sted: Utgiver.
 

@@ -71,7 +71,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 Forfatter (Årstall). Artikkeltittel. I _oppslagsverk_. Utgivelsessted: Forlag.
 
@@ -103,7 +103,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 Forfatter (Årstall). Artikkeltittel. I Redaktør (Red. – om oppgitt), _oppslagsverk_. Hentet fra URL
 
@@ -155,7 +155,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Departement, årstall, sidetall)
+(Departement, årstall, eventuelt sidetall)
 
 Departement. (Årstall). _Tittel på stortingsmelding_ (Meld. St. nr (sesjon)). Utgiversted: Departementet.\*Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
@@ -173,7 +173,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(NOU årstall: nummer, årstall for publisering, sidetall)
+(NOU årstall: nummer, årstall for publisering, eventuelt sidetall)
 
 NOU årstall: nummer. (Årstall for publisering). _Tittel_. Utgiversted: departement.\*Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
@@ -191,7 +191,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Organisasjon, årstall, sidetall)
+(Organisasjon, årstall, eventuelt sidetall)
 
 Organisasjon. (årstall). _Tittel_ (kode). Hentet fra https://....
 
@@ -215,7 +215,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
- (Forfatter, årstall, sidetall)
+ (Forfatter, årstall, eventuelt sidetall)
 
 Forfatter. (årstall). _Tittel_ (Rapport nr. xxx). Sted: Utgiver.
 
@@ -283,7 +283,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 Forfatter, A. A. (Årstall). _Tittel_. Upublisert manuskript. Institusjon, sted (hvis tilgjengelig).
 
@@ -297,7 +297,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 Forfatter, A. A. (Årstall). _Tittel_. Sendt utgiver, under vurdering.
 
@@ -311,7 +311,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, under utgivelse, sidetall)
+(Forfatter, under utgivelse, eventuelt sidetall)
 
 Tidsskriftartikkel:Forfatter, A. A. (under utgivelse). Tittel. _Tidsskrifttittel._Bok:Forfatter, A. A. (under utgivelse). _Tittel_. Utgivelsessted: Forlag.
 

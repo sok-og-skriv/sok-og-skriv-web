@@ -56,7 +56,7 @@ Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift 
 
 |I teksten|I referanselisten|
 |---------|-----------------|
-|(Departement, årstall, sidetall)|Departement. (Årstall). _Tittel på stortingsmelding_ (Meld. St. nr (sesjon)). Utgiversted: Departementet.|
+|(Departement, årstall, eventuelt sidetall)|Departement. (Årstall). _Tittel på stortingsmelding_ (Meld. St. nr (sesjon)). Utgiversted: Departementet.|
 
 Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
@@ -73,7 +73,7 @@ Sosial- og helsedepartementet. (1998). _Om handlingsplan for funksjonshemma 1998
 ## Norges offentlige utredninger (NOU)
 
 ::: tip Kilden i teksten
-(NOU årstall: nummer, årstall for publisering, sidetall)
+(NOU årstall: nummer, årstall for publisering, eventuelt sidetall)
 
 **Kilden i refereranselisten**
 
@@ -96,7 +96,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Organisasjon, årstall, sidetall)
+(Organisasjon, årstall, eventuelt sidetall)
 
 Organisasjon. (årstall). _Tittel_ (kode). Hentet fra https://....
 
@@ -120,7 +120,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
- (Forfatter, årstall, sidetall)
+ (Forfatter, årstall, eventuelt sidetall)
 
 Forfatter. (årstall). _Tittel_ (Rapport nr. xxx). Sted: Utgiver.
 

@@ -92,7 +92,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 Forfatter, A. A. (Årstall). _Tittel_. Upublisert manuskript. Institusjon, sted (hvis tilgjengelig).
 
@@ -105,7 +105,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, årstall, sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 Forfatter, A. A. (Årstall). _Tittel_. Sendt utgiver, under vurdering.
 
@@ -118,7 +118,7 @@ Kilden i teksten
 
 Kilden i refereranselisten
 
-(Forfatter, under utgivelse, sidetall)
+(Forfatter, under utgivelse, eventuelt sidetall)
 
 Tidsskriftartikkel:Forfatter, A. A. (under utgivelse). Tittel. _Tidsskrifttittel._Bok:Forfatter, A. A. (under utgivelse). _Tittel_. Utgivelsessted: Forlag.
 
