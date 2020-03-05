@@ -8,22 +8,6 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
 ---
 
-<div class="card references">
-  <!-- <div class="image">
-    <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
-  </div> -->
-  <div class="content">
-    <h2><a href="/referansestiler">Referansestiler</a></h2>
-    <span class="tags">
-      <span class="tag"><a href="/referansestiler/apa/">APA 6th</a></span>
-      <span class="tag"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
-      <span class="tag"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
-      <span class="tag"><a href="/referansestiler/harvard">Harvard</a></span>
-      <span class="tag"><a href="/referansestiler/mla">MLA</a></span>
-      <span class="tag"><a href="/referansestiler/vancouver">Vancouver</a></span>
-    </span>
-  </div>
-</div>
 
 <div class="cards">
   <div class="card">
@@ -65,7 +49,25 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
       <p>All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag.</p>
     </div>
   </div>
+</div>
 
+---
+
+<div class="card references">
+  <!-- <div class="image">
+    <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
+  </div> -->
+  <div class="content">
+    <h2><a href="/referansestiler">Referansestiler</a></h2>
+    <span class="tags">
+      <span class="tag"><a href="/referansestiler/apa/">APA 6th</a></span>
+      <span class="tag"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
+      <span class="tag"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
+      <span class="tag"><a href="/referansestiler/harvard">Harvard</a></span>
+      <span class="tag"><a href="/referansestiler/mla">MLA</a></span>
+      <span class="tag"><a href="/referansestiler/vancouver">Vancouver</a></span>
+    </span>
+  </div>
 </div>
 
 ## Siste videoer

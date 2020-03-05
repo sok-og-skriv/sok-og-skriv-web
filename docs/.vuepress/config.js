@@ -11,12 +11,12 @@ module.exports = {
     '/': {
       lang: 'NO', // this will be set as the lang attribute on <html>
       title: 'Søk og skriv',
-      description: 'Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving, uavhengig av studiested og -emne',
+      description: 'Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving',
     },
     '/en/': {
       lang: 'EN',
       title: 'Search and write',
-      description: 'Search & Write is for all students who want to learn more about information gathering and academic writing, independent of institution and subject area.'
+      description: 'Search & Write is for all students who want to learn more about information gathering and academic writing'
     }
   },
   themeConfig: {
