@@ -23,8 +23,6 @@ module.exports = {
     'redegjor-og-droft',
     'imrod-modellen',
     'akademisk-sprak-og-stil',
-    'skrive-ryddig',
-    'a-skape-flyt',
     'ikke-akademisk-sprak',
     'formelle-krav-til-oppsett',
     'formidling',

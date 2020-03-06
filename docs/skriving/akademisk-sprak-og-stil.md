@@ -53,3 +53,61 @@ Les noen sider fra en masteroppgave i ditt fag og merk av ordet "jeg". Identifis
 
 **Husk!** Studentoppgaver kan ha noen gode grunner til å bruke det personlige jeg; grunner som kan være mindre relevante i en forskningsartikkel.
 :::
+
+# Å skrive ryddig
+
+For å kunne skrive effektivt og [strukturert](/skriving/oppbygning-av-en-oppgave/) er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
+
+Ta for deg én ting om gangen og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
+
+For å skille mellom de ulike operasjonene, kan du velge å legge redegjørelser i egne kapitler (teorikapittel, presentasjon av funn osv.) og samle all drøftingen i et eget drøftingskapittel. Du kan også velge å drøfte og argumentere underveis. Det siste er vanlig i filosofiske og teoretiske oppgaver. Uansett er det viktig å _signalisere_ hva som er redegjørelse (beskrivelse eller utlegning) og hva som er din tolkning, dine argumenter og andres argumenter. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. En slik skrivemåte er en del av forskerrollens ideal om refleksivitet og objektivitet.
+
+::: tip Tips!
+Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave.
+:::
+
+## Redegjørelse
+
+I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling til det. Når du redegjør for teori skal du presentere en annen tenkers ideer på en mest mulig redelig måte. Testen på en god redegjørelse er at den skal kunne godkjennes av opphavspersonen. En nøytral beskrivelse gir deg et mye bedre ståsted for (eventuell) kritikk enn en presentasjon som er negativt vinklet.
+
+Teksten blir mest ryddig dersom du setter nytt avsnitt før du begynner å drøfte – eller diskutere – det du har redegjort for, men her kan du bruke skjønn.
+
+::: tip Tips!
+Gjengi materialet med egne ord, gå deretter tilbake til kilden for å sjekke fakta.
+:::
+
+## Analyse
+
+Empirien i en empirisk oppgave må analyseres, det vil si _kodes, tolkes_ og eventuelt _kategoriseres_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrerte. Les gjerne andre oppgaver for inspirasjon.
+
+## Drøfting
+
+I en teoretisk oppgave er [argumentasjon](/lesing/argumentasjon-i-tekst/) og drøfting sentralt. Du kan enten drøfte ideene og begrepene underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
+
+I en empirisk oppgave kommer drøftingen etter redegjørelsen, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRoD-modellen](/skriving/imrod-modellen/).
+
+Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
+
+::: tip Tips!
+Let etter [argumentasjon](/lesing/argumentasjon-i-tekst/) og drøfting i andres tekster.
+:::
+
+## Slutninger (konklusjoner)
+
+På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
+
+# Å skape flyt
+
+Det er mange måter å skape flyt i en tekst. Dette kalles gjerne tekstbinding. Tekstbinding brukes til å skape de rette forventningene hos leseren: en "lesekontrakt" der leserens forventninger til oppgaven blir innfridd. Åpningen er spesielt viktig: den skal ikke love mer enn du kan holde, men heller ikke for lite. Kunsten er å vise at det som kommer er interessant, og at framstillingen er tilpasset innholdet. Nedenfor er noen eksempler på tekstbinding (NB: kategoriene er til dels overlappende):
+
+- **Disposisjon**: strukturert oversikt over innholdet
+- **Leserveiledninger**: tydeliggjør tekstens oppbygning. Hva kommer når, hva er hensikten med de ulike avsnittene osv. Eksempel: "Nå har jeg tatt for meg ... I kommende avsnitt vil jeg ...."
+- **Mellomtitler**: velg titler som gjenspeiler innholdet i de ulike avsnittene. Dette gir en ryddig og informativ oversikt.
+- **Overganger**: overgangene mellom ulike avsnitt og kapitler kan brukes til å hjelpe leseren videre, og skape de rette forventningene til det som skal komme.
+- **Metakommentarer**: forfatterens kommentarer til teksten. Eksempler: "som vi har sett ...", "nå skal jeg gjøre rede for ...", "som jeg argumenterer ..."
+- **Frampek, tilbakepek**: minne om det som er sagt tidligere, foregripe det som skal komme. Poenget er å vise "hvor du vil" med det du skriver.
+- **Oppsummering:** peker på essensen i en seksjon og presiserer innholdet
+
+Prinsippet for tekstbinding er å hjelpe leseren til å se sammenhengen i teksten. Et viktig kriterium for akademiske tekster er hensiktsmessig og tydelig _avgrensning._ Disposisjon og leserveiledninger tydeliggjør avgrensningen, og minner leseren på at forfatteren er bevisst sine valg. Eksempel: "Her kunne det vært relevant å ta for seg ... men dette ligger utenfor oppgavens område \[eller problemstilling\]". "Det vil føre for langt å gå inn på ..." osv.
+
+En god oppgave innfrir forventningene som skapes i starten, og svarer på problemstillingen.
