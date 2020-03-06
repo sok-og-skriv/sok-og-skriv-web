@@ -29,12 +29,13 @@ Søk & Skriv-redaksjonen tar gjerne imot [tilbakemeldinger](/om-sok-skriv/kontak
 
 ## 1. Informasjonssøk ved oppgaveskriving / Søkeverksted
 
-Etter gjennomført kurs skal studentene kunne
+::: tip Etter gjennomført kurs skal studentene kunne
 
 - identifisere informasjonsbehov på grunnlag av egen problemstilling
 - bruke informasjonssøk for å klargjøre problemstillingen sin
 - utarbeide en relevant søkestrategi i henhold til problemstillingen
 - velge sentrale databaser og anvende søketeknikker
+:::
 
 Søkesporet i Søk & Skriv har to formål: Å bevisstgjøre studenter om at informasjonssøket må tilpasses problemstillingen for oppgaven, og å bevisstgjøre studenter om at søking må planlegges.
 
