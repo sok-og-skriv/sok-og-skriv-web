@@ -35,111 +35,284 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første.
 - Om verket har mer enn syv forfattere, listes de seks første, fulgt av en ellipse (. . .) og sisteforfatteren.
 
-### Nettside fra organisasjon
+## Bøker
+
+### Bok
 
 ::: teksten
+(Forfatter, årstall, eventuelt sidetall)
 
+Retterstøl, Ekeberg og Mehlum (2002, s. 54) hevder at …
 
+(Gullestad & Killingmo, 2013, s. 35)
 :::
 
 ::: ref
+Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (utg.). Utgivelsessted: Forlag.  
+\*Utgaveopplysninger skal ikke føres opp ved førsteutgaver.
 
+Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Oslo: Gyldendal.
+
+Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i praksis_ (2. utg.). Oslo: Universitetsforlaget.
+:::
+
+### E-Bok
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+Watkins (2012) hevder at ... (s. 54).
+
+... som hevdes av Piketty (2014, A global tax on capital, avsn. 3)
+:::
+
+::: ref
+Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ \[Ebok-leser, om boken har et spesielt format\]. https://doi.org/10.xxx
+
+Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https://doi.org/10.1007/978-94-6091-699-1
+:::
+
+#### Merknader
+
+Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com \*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
+
+Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](https://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra https://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
+
+### Kapittel i redigert bok
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
+:::
+
+::: ref
+Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Utgivelsessted: Forlag.
+
+Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Amsterdam: Elsevier.
+:::
+
+### Avhandling - doktor/master
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+... (Våpenstad, 2011, s. 59).
+
+Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
+:::
+
+::: ref
+Trykt oppgave:  
+Forfatter, A. A. (Årstall). _Tittel_ (Masteroppgave). Institusjon, Sted.
+
+Avhandling på nett:  
+Forfatter, A. A. (Årstall). _Tittel_ (Doktoravhandling, institusjon). Hentet fra https://URL
+
+Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ (Doktoravhandling). Universitetet i Bergen.  
+
+Når stedsnavn  er en del av institusjonens navn, gjentas ikke dette.
+:::
+
+
+::: details Flere eksempler
+ Våpenstad, E.V. (2011). _Det tempererte nærvær: En teoretisk undersøkelse av psykoterapeutens subjektivitet i psykoanalyse og psykoanalytisk psykoterapi_ (Doktoravhandling). Hentet fra https://bora.uib.no/handle/1956/4788  
+
+Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) trenger ikke ha med institusjonsnavnet. Se kap. 7.05 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
+:::
+
+## Artikler 
+
+### Artikkel i tidsskrift
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+... langtidsvirkninger av vold … (Huang & Mossige, 2012, s. 150).
+:::
+
+::: ref
+Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (Årstall). Artikkeltittel. _Tidsskrifttittel_, _årgang_(hefte), sidetall.
+
+Huang, L. & Mossige, S. (2012). Academic achievement in Norwegian secondary schools: The impact of violence during childhood. _Social Psychology of Education_, _15_, 147–164. https://doi.org/10.1007/s11218-011-9174-y 
+:::
+
+Dersom artikkelen har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), skal dette være med i referansen. Om DOI mangler, kan lenke til tidsskriftet oppgis isteden.
+
+::: details Flere eksempler
+Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov & Straume, 2003, s. 93).
+
+Dyregrov, A. & Straume, M. (2003). Kollektiv ivaretakelse etter katastrofer: Erfaringer fra ”Sleipnerulykken”. _Tidsskrift for norsk psykologforening_, _40_, 92–101.
+
+---
+
+Ifølge Andersen (2012, s. 271) .....
+
+Andersen, K.I. (2012). Prosessen som ingen kunne målbinde. _Fokus på familien, 4_, 270–272. Hentet fra https://www.idunn.no/ts/fokus/2012/04/prosessen\_som\_ingen\_kunne\_mlbinde
+:::
+
+### Artikkel i trykt avis
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
+:::
+
+::: ref
+Forfatter. (Årstall, dato). Tittel. _Avis, del_, side.|
+
+Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende, del 2_, s. 12.
+:::
+
+### Artikkel i nettavis
+
+::: teksten
+(Forfatter, årstall)
+
+Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
+:::
+
+::: ref
+Forfatter. (Årstall, dato). Tittel. _Avis_. Hentet fra URL.
+
+Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_. Hentet fra https://www.bt.no/
+:::
+
+### Artikkel i trykt leksikon (med forfatter)
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+... vil også vise til demokratibegrepet (Slagstad, 1979).
+:::
+
+::: ref
+Forfatter (Årstall). Artikkeltittel. I _oppslagsverk_. Utgivelsessted: Forlag.
+
+Slagstad, R. (1979). Demokrati. I _PaxLeksikon_ (Bind C–G, s. 76–79). Oslo: Pax.\*Dersom artikkelen ikke har oppgitt forfatter, ta utgangspunkt i malen i eksempelet under.
+:::
+
+### Artikkel i elektronisk leksikon (uten forfatter)
+
+::: teksten
+(«Artikkeltittel», årstall)
+
+Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
+:::
+
+::: ref
+Artikkeltittel (Årstall). I _oppslagsverk_. Hentet fra URL
+
+Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)
+:::
+
+::: details Flere eksempler
+... smykker av menneskehår («Hårarbeid», u.å.)
+
+Hårarbeid. (u.å.). I _Wikipedia_. Hentet 26. juni 2018 fra [https://no.wikipedia.org/wiki/Hårarbeid](https://no.wikipedia.org/wiki/H%C3%A5rarbeid)\*For oppslagsverk som Wikipedia, der innholdet oppdateres ofte, bør hentet dato være med i referansen.
+:::
+
+### Artikkel i elektronisk leksikon (med forfatter)
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+... bronkiell hyperreaktivitet, og en underliggende inflammasjon (Fanta, 2017).
+:::
+
+::: ref
+Forfatter (Årstall). Artikkeltittel. I Redaktør (Red. – om oppgitt), _oppslagsverk_. Hentet fra URL
+
+Fanta, C. H. (2017). Diagnosis of asthma in adolescents and adults. I H. Hollingsworth (Red.), _UpToDate_. Hentet 16. mars 2018 fra [https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults](https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults)
+:::
+
+## Nettsider
+
+### Nettside fra organisasjon
+
+::: teksten
+(Organisasjon, årstall)
+
+... nedgang i antibiotikabruken (Helsedirektoratet, 2018).
+:::
+
+::: ref
+Organisasjon. (Årstall, dato). Tittel. Hentet fra URL.
+
+Med årstall/dato, menes her publiseringstidspunkt, eller dato for siste oppdatering. Lesedato tas bare med for nettsider som ofte blir endret. Da oppgis dato, måned og år sammen med lenken: «Hentet 22. juni 2018 fra https://www.nnn.nn».
+
+Helsedirektoratet. (2018, 21. juni). Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder. Hentet fra [https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader](https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)
 
 :::
 
-(Organisasjon, årstall)
-
-Organisasjon. (Årstall, dato). Tittel. Hentet fra URL.\*Med årstall/dato, menes her publiseringstidspunkt, eller dato for siste oppdatering. Lesedato tas bare med for nettsider som ofte blir endret. Da oppgis dato, måned og år sammen med lenken: «Hentet 22. juni 2018 fra https://www.nnn.nn».
-
-... nedgang i antibiotikabruken (Helsedirektoratet, 2018).
-
-Helsedirektoratet. (2018, 21. juni). Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder. Hentet fra [https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader](https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)
+#### Merknad
 
 Om du vil omtale et nettsted mer generelt, uten eksakt sideinformasjon, kan du gjøre dette ved å oppgi lenke til domenet i parentes, uten oppføring i referanselisten: «Søk & Skriv (www.sokogskriv.no) gir råd om flere stadier i skriveprosessen.»
 
 ### Nettside med forfatter
 
 ::: teksten
+(Forfatter, årstall)
 
-
+Skinnegående transport øker mest (Lund, 2018).
 :::
 
 ::: ref
-
-
-:::
-
-(Forfatter, årstall)
-
 Forfatter, A.A. (Årstall, dato). Tittel. Hentet fra URL
 
-Skinnegående transport øker mest (Lund, 2018).
-
 Lund, V. (2018, 26. september). Åtte av ti reiser med bil. Hentet fra [https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil](https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil)
+:::
 
 ### Artikkel i trykt leksikon (med forfatter)
 
 ::: teksten
+(Forfatter, årstall, eventuelt sidetall)
 
-
+... vil også vise til demokratibegrepet (Slagstad, 1979).
 :::
 
 ::: ref
-
-
-:::
-
-(Forfatter, årstall, eventuelt sidetall)
-
 Forfatter (Årstall). Artikkeltittel. I _oppslagsverk_. Utgivelsessted: Forlag.
 
-... vil også vise til demokratibegrepet (Slagstad, 1979).
-
 Slagstad, R. (1979). Demokrati. I _PaxLeksikon_ (Bind C–G, s. 76–79). Oslo: Pax.\*Dersom artikkelen ikke har oppgitt forfatter, ta utgangspunkt i malen i eksempelet under.
+:::
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
 ::: teksten
+(«Artikkeltittel», årstall)
 
-
+Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
 :::
 
 ::: ref
-
-
-:::
-
-(«Artikkeltittel», årstall)
-
 Artikkeltittel (Årstall). I _oppslagsverk_. Hentet fra URL
 
-Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
-
 Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)
+:::
 
+::: details Flere eksempler
 ... smykker av menneskehår («Hårarbeid», u.å.)
 
 Hårarbeid. (u.å.). I _Wikipedia_. Hentet 26. juni 2018 fra [https://no.wikipedia.org/wiki/Hårarbeid](https://no.wikipedia.org/wiki/H%C3%A5rarbeid)\*For oppslagsverk som Wikipedia, der innholdet oppdateres ofte, bør hentet dato være med i referansen.
+:::
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
 ::: teksten
+(Forfatter, årstall, eventuelt sidetall)
 
-
+... bronkiell hyperreaktivitet, og en underliggende inflammasjon (Fanta, 2017).
 :::
 
 ::: ref
-
-
-:::
-
-(Forfatter, årstall, eventuelt sidetall)
-
 Forfatter (Årstall). Artikkeltittel. I Redaktør (Red. – om oppgitt), _oppslagsverk_. Hentet fra URL
 
-... bronkiell hyperreaktivitet, og en underliggende inflammasjon (Fanta, 2017).
-
 Fanta, C. H. (2017). Diagnosis of asthma in adolescents and adults. I H. Hollingsworth (Red.), _UpToDate_. Hentet 16. mars 2018 fra [https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults](https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults)
+:::
+
+## Offentlige kilder
 
 ### Lover
 
@@ -150,174 +323,150 @@ I Norge henviser vi til «originalloven» som konsolideres ved endringer. Det er
 Lenke er ikke obligatorisk, men kan være til hjelp for lesere av elektroniske dokumenter. Bruk i så fall permanent lenke, som kan finnes under deleikonet på Lovdata.
 
 ::: teksten
+(Lovens kortnavn, årstall, paragraf)
 
-
+I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 :::
 
 ::: ref
-
-
-:::
-
-(Lovens kortnavn, årstall, paragraf)
-
 Lovens kortnavn. (Årstall). Lang tittel (datokode). Hentet fra https://...
 
-I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
-
 Folketrygdloven. (1997). Lov om folketrygd (LOV-1997-02-28-19). Hentet fra [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)
+:::
 
+::: details Flere eksempler
 Med endringslov til folketrygdloven (2018) endres finansieringen ...
 
 Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2018-06-22-55). Hentet fra [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)
+:::
 
 ### Forskrifter
 
 ::: teksten
+(Forskriftens kortnavn, årstall, paragraf)
 
-
+Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier at ...
 :::
 
 ::: ref
-
-
-:::
-
-(Forskriftens kortnavn, årstall, paragraf)
-
 Forskriftens kortform. (årstall). Lang tittel (datokode). Hentet fra https://...
 
-Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier at ...
-
 Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7 (FOR-2016-06-07-860). Hentet fra [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)
+:::
 
 ### Meldinger og proposisjoner til Stortinget
 
 ::: teksten
+(Departement, årstall, eventuelt sidetall)
 
-
+Sammenslåingene ble begrunnet med noe de kalte «en kritisk vurdering av kvalitet» (Kunnskapsdepartementet, 2015, s. 49).
 :::
 
 ::: ref
-
-
-:::
-
-(Departement, årstall, eventuelt sidetall)
-
 Departement. (Årstall). _Tittel på stortingsmelding_ (Meld. St. nr (sesjon)). Utgiversted: Departementet.\*Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
-Sammenslåingene ble begrunnet med noe de kalte «en kritisk vurdering av kvalitet» (Kunnskapsdepartementet, 2015, s. 49).
-
 Kunnskapsdepartementet. (2015). _Konsentrasjon for kvalitet: Strukturreform i universitets- og høyskolesektoren_ (Meld. St. 18 (2014–2015)). Hentet fra https://www.regjeringen.no/
+:::
 
+::: details Flere eksempler
 De funksjonshemmedes stilling blir behandlet i handlingsplanen (Sosial- og helsedepartementet, 1998).
 
- Sosial- og helsedepartementet. (1998). _Om handlingsplan for funksjonshemma 1998–2001: Deltaking og likestilling_ (St.meld. nr. 8 (1998–99)). Oslo: Departementet.\*Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
+Sosial- og helsedepartementet. (1998). _Om handlingsplan for funksjonshemma 1998–2001: Deltaking og likestilling_ (St.meld. nr. 8 (1998–99)). Oslo: Departementet.\*Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
+:::
 
 ### Norges offentlige utredninger (NOU)
 
 ::: teksten
+(NOU årstall: nummer, årstall for publisering, eventuelt sidetall)
 
-
+... i NOU 1999: 13 (1999, s. 559) …
 :::
 
 ::: ref
+NOU årstall: nummer. (Årstall for publisering). _Tittel_. Utgiversted: departement.
 
-
-:::
-
-(NOU årstall: nummer, årstall for publisering, eventuelt sidetall)
-
-NOU årstall: nummer. (Årstall for publisering). _Tittel_. Utgiversted: departement.\*Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
-
-... i NOU 1999: 13 (1999, s. 559) …
+Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
 NOU 1999: 13. (1999). _Kvinners helse i Norge_. Oslo: Sosial- og helsedepartementet.
+:::
 
+::: details  Flere eksempler
 ... behandling av hjerteinfarkt (NOU 1999: 13, 1999, s. 559).
 
 NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra https://www.regjeringen.no/
+:::
 
 ### Ramme- og læreplaner
 
 ::: teksten
+(Organisasjon, årstall, eventuelt sidetall)
 
-
+... (Kunnskapsdepartementet, 2017, s. 7).
 :::
 
 ::: ref
-
-
-:::
-
-(Organisasjon, årstall, eventuelt sidetall)
-
 Organisasjon. (årstall). _Tittel_ (kode). Hentet fra https://....
 
-\*Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
-
-... (Kunnskapsdepartementet, 2017, s. 7).
+Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
 Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hentet fra https://www.regjeringen.no/
+:::
 
+::: details Flere eksempler
 Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
 
 Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)
 
+---
+
 I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
 
 Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan
+:::
 
 ### Rapporter
 
 ::: teksten
+(Forfatter, årstall, eventuelt sidetall)
 
-
+(Nordisk ministerråd, 2009)
 :::
 
 ::: ref
-
-
-:::
-
- (Forfatter, årstall, eventuelt sidetall)
-
 Forfatter. (årstall). _Tittel_ (Rapport nr. xxx). Sted: Utgiver.
 
- (Nordisk ministerråd, 2009)
+Nordisk ministerråd. (2009). _Naturopplevelse, friluftsliv og vår psykiske helse: Rapport fra det nordiske miljøprosjektet "Friluftsliv og psykisk helse"_ (TemaNord 2009:545). Oslo: Miljøverndepartementet.
 
-Nordisk ministerråd. (2009). _Naturopplevelse, friluftsliv og vår psykiske helse: Rapport fra det nordiske miljøprosjektet "Friluftsliv og psykisk helse"_ (TemaNord 2009:545). Oslo: Miljøverndepartementet.\*Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
+Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
+:::
 
+::: details Flere eksempler
 ...(Hansen & Slagsvold, 2013, s. 8)
 
  Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra https://www.nova.no/
+:::
 
 ### Bilder
 
 Omtale av kjente kunstverk som Skrik og Mona Lisa krever ingen innførsel i referanselisten. Andre refereres som følger:
 
 ::: teksten
+(Opphavsperson, årstall)
 
-
+… som vi kan se på et eldre bilde av børsbygningen i Bergen (Knudsen, 1865) …
 :::
 
 ::: ref
-
-
-:::
-
-(Opphavsperson, årstall)
-
 Opphavsperson, A. (Årstall). _Tittel_ \[Type verk, f.eks. Fotografi\]. Hentet fra https://URL eller Sted: Museum.
 
-… som vi kan se på et eldre bilde av børsbygningen i Bergen (Knudsen, 1865) …
-
 Knudsen, K. (1865). _Børsen i Bergen_ \[Fotografi\]. Hentet fra https://marcus.uib.no/instance/photograph/ubb-kk-m-110.html
+:::
 
+::: details Flere eksempler
 ... en norsk vandrer over tåkehavet (Kittelsen, 1900) ...
 
 Kittelsen, T. (1900). _Langt langt borte saa han noget lyse og glitre_ \[Olje på lerret\]. Oslo: Nasjonalmuseet.
+:::
 
 Bilder som _reproduseres_ skal også ha komplett henvisning i figurteksten. Se [Reproduksjon av bilder](#Reproduksjon_av_bilder_figurer_og_tabeller).
 
@@ -325,15 +474,6 @@ Bilder som _reproduseres_ skal også ha komplett henvisning i figurteksten. Se [
 
 Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer, dikt kan deles inn i bøker eller sanger og skuespill i akt og scene. Denne inndelingen er den samme i alle utgaver og brukes ved siteringer. Dette gjelder for eksempel Bibelen, Koranen og eldre greske og romerske tekster. En del tekster blir gjerne referert med standardforkortelser som kan variere mellom ulike fagfelt. For eksempel kan du bruke forkortelser for bøkene i Bibelen, som Apg for Apostlenes gjerninger. I henhold til APA-stilen, trenger man ikke føre opp slike verker i referanselisten, men versjonen som er brukt skal identifiseres første gang man siterer.
 
-::: teksten
-
-
-:::
-
-::: ref
-
-
-:::
 
 I islam finnes det en rekke restriksjoner på hva slags kjøtt man kan spise (Koranen 5:3-4, overs. 1980). Om alkohol står det i Koranen at synden i den «er større enn nytten» (2:219).
 
@@ -351,69 +491,60 @@ I Iliaden (6.344–58) sier Helena at…
 
 \[Ingen innførsel\]
 
+::: teksten
 I skuespillet Hamlet (4. akt, 2. scene) viser Shakespeare…
+:::
 
+::: ref
 Shakespeare, W. (2002). _Hamlet: Prins av Danmark_ (Ø. Berg, overs.). Oslo: Kolon forlag.
+:::
 
 ### Upublisert materiale
 
 ::: teksten
+(Forfatter, årstall, eventuelt sidetall)
 
-
+Med modernismen reverseres forholdet mellom persepsjon og representasjon (Utaker, 2010).
 :::
 
 ::: ref
-
-
-:::
-
-(Forfatter, årstall, eventuelt sidetall)
-
 Forfatter, A. A. (Årstall). _Tittel_. Upublisert manuskript. Institusjon, sted (hvis tilgjengelig).
 
-Med modernismen reverseres forholdet mellom persepsjon og representasjon (Utaker, 2010).
-
 Utaker, A. (2010). _Det perseptuelles antropologi: Persepsjon og bilder som filosofisk problem_. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
+:::
+
 
 ### Manuskript under vurdering, men ikke antatt (submitted)
 
 ::: teksten
+(Forfatter, årstall, eventuelt sidetall)
 
-
+Det varierer i hvilken grad forskjellige befolkningsgrupper oppsøker hjelp i forbindelse med helseplager (Ting, Florsheim & Huang, 2008).
 :::
 
 ::: ref
-
-
-:::
-
-(Forfatter, årstall, eventuelt sidetall)
-
 Forfatter, A. A. (Årstall). _Tittel_. Sendt utgiver, under vurdering.
 
-Det varierer i hvilken grad forskjellige befolkningsgrupper oppsøker hjelp i forbindelse med helseplager (Ting, Florsheim & Huang, 2008).
-
 Ting, J. Y., Florsheim, P. & Huang, W. (2008). _Mental health help-seeking in ethnic minority populations_. Sendt utgiver, under vurdering.
+:::
 
 ### Manuskript under utgivelse, antatt (in press)
 
 ::: teksten
+(Forfatter, under utgivelse, eventuelt sidetall)
 
-
+Ifølge Briscoe (under utgivelse), så er det slik at …
 :::
 
 ::: ref
+Tidsskriftartikkel:  
+Forfatter, A. A. (under utgivelse). Tittel. _Tidsskrifttittel_.
 
-
-:::
-
-(Forfatter, under utgivelse, eventuelt sidetall)
-
-Tidsskriftartikkel:Forfatter, A. A. (under utgivelse). Tittel. _Tidsskrifttittel._Bok:Forfatter, A. A. (under utgivelse). _Tittel_. Utgivelsessted: Forlag.
-
-Ifølge Briscoe (under utgivelse), så er det slik at …
+Bok:  
+Forfatter, A. A. (under utgivelse). _Tittel_. Utgivelsessted: Forlag.
 
 Briscoe, R. (under utgivelse). Egocentric spatial representation in action and perception. _Philosophy and Phenomenological Research._
+:::
 
 ### Kompendier
 
@@ -423,35 +554,34 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 
 Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten, der det også skal opplyses om [eventuell rettighetsklarering eller lisensbetingelser](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/), eksempelvis Creative Commons-lisens eller om det er gjengitt med tillatelse. Her er det vertsdokumentet – boken, nettsiden eller artikkelen som bildet er hentet fra – som føres inn i referanselisten. Figurteksten skal innledes med en kort beskrivelse av bildet.
 
-I figurteksten
-
-::: ref
-
-
-:::
-
-Bilder du har tatt selv: Inkluder beskrivelse, stedsangivelse og dato.  
+::: tip Bilder du har tatt selv: 
+Inkluder beskrivelse, stedsangivelse og dato.  
 Figur 1. Utsikt fra Ulriken, Bergen 26. juli 2018.
 
 Ingen innførsel i referanselisten
+:::
 
-Bilde hentet fra nettside:  
+
+::: tip Bilde hentet fra nettside:  
 Figur 2. Breiflabb. Fra «Monkfish / Breiflabb», av A. Hansen, 2006 ([https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)). CC BY-NC-ND 2.0
 
 Referer til nettsiden:  
 Hansen, A. (2006). Monkfish / Breiflabb. Hentet fra [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)
+:::
 
-Tabell hentet fra tidsskriftartikkel:  
+::: tip Tabell hentet fra tidsskriftartikkel:  
 Tabell 1. Sammenligning av mislykkethet. Fra «Unsuccessful treatments of “writer's block”: A meta-analysis,» av D. C. McLean & B. R. Thomas, 2014, _Psychological Reports, 115_, s. 277. Copyright 2014 Sage Publications. Gjengitt med tillatelse.
 
 Referer til artikkelen:  
 McLean, D. C. & Thomas, B. R. (2014). Unsuccessful treatments of “writer's block”: A meta-analysis. _Psychological Reports, 115_(1), 276-278.  [https://doi.org/10.2466/28.PR0.115c12z0](https://doi.org/10.2466/28.PR0.115c12z0)
+:::
 
-Bilde hentet fra bok  
+::: tip Bilde hentet fra bok  
 Figur 4. Relativ nettoflytting i kommunene. Fra _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ (s. 42), av K. Vareide, 2018, Oslo: Cappelen Damm Akademisk. CC BY 4.0.
 
 Referer til boken:  
 Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ [https://doi.org/10.23865/noasp.32](https://doi.org/10.23865/noasp.32)
+:::
 
 ## Henvisninger i teksten
 

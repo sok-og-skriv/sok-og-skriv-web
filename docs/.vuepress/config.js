@@ -118,6 +118,22 @@ module.exports = {
     [
       'vuepress-plugin-container',
       {
+        type: 'teksten',
+        before: `<div class="in-text"><p class="title">I teksten</p>`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'ref',
+        before: `<div class="in-ref"><p class="title">I referanselisten</p>`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
         type: 'eksempel',
         before: info => `<div class="example"><p class="title">${info}</p>`,
         after: '</div>',
