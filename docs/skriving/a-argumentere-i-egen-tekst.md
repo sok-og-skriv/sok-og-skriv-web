@@ -3,7 +3,7 @@ title: "Å argumentere i egen tekst"
 date: "2013-01-18"
 ---
 
-# Å argumentere i egen tekst
+# Å argumentere i egen tekst - Flyttet
 
 Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva er hovedpoenget i teksten din, og hvordan vil du underbygge dette? Å argumentere i en tekst betyr å gjøre det klart _hva_ det er du hevder i teksten og _hva du bygger på_. Du skal med andre ord begrunne dine påstander.
 

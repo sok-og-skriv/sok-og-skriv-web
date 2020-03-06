@@ -21,7 +21,6 @@ module.exports = {
     'struktur-og-argumentasjon',
     'oppbygning-av-en-oppgave',
     'redegjor-og-droft',
-    'a-argumentere-i-egen-tekst',
     'imrod-modellen',
     'akademisk-sprak-og-stil',
     'skrive-ryddig',
