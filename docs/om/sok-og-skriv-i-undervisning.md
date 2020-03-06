@@ -27,7 +27,7 @@ Vi har oppgitt læringsmål for kursforslagene som de står her - disse kan selv
 
 Søk & Skriv-redaksjonen tar gjerne imot [tilbakemeldinger](/om-sok-skriv/kontaktinformasjon/) og forslag til forbedringer.
 
-## 1. Informasjonssøk ved oppgaveskriving / Søkeverksted
+## Informasjonssøk ved oppgaveskriving / Søkeverksted
 
 Etter gjennomført kurs skal studentene kunne
 
@@ -62,7 +62,7 @@ Synonymer på andre språk
 5. Søk i databasen(e) ved å kombinere søkeordene.
 6. Vurder trefflisten. Kan denne informasjonen brukes til å svare på din problemstilling? Bør du avgrense eller forandre søket ditt? Søke på mer spesifikke, eller mer generelle søkeord?
 
-## 2. Lesestrategier og hurtiglesing
+## Lesestrategier og hurtiglesing
 
 Etter å ha gjennomgått lesekurset skal studentene
 
@@ -82,7 +82,7 @@ Hvis det er praktisk mulig (for eksempel på et kurs som går over flere ganger)
 
 Her har man, enten man gjør det på den ene eller den andre måten, et godt utgangspunkt for å diskutere både tekstens innhold, måten teksten fungerer på, og utbyttet av de ulike lesemåtene.
 
-## 3. Sjangrer og sjangerbevissthet
+## Sjangrer og sjangerbevissthet
 
 Etter å ha deltatt på dette kurset skal studentene
 
@@ -111,7 +111,7 @@ Aktuelle spørsmål vi kan stille når vi skal diskutere sjanger:
 
 En diskusjon om sjanger vil også være et spørsmål om retorikk: Hva gjør forfatteren eller teksten for å overbevise leseren? Hvilke «retoriske grep» tas i teksten?
 
-## 4. Kildevurdering
+## Kildevurdering
 
 Etter å ha gjennomgått kurset skal studentene
 
@@ -137,7 +137,7 @@ På siden [_Kvalitative vurderinger_](/kildebruk-og-referanser/kildevurdering/kv
 - Fagfellevurdering
 - Impact factor
 
-## 5. Kurs i opphavsrett
+## Kurs i opphavsrett
 
 Etter fullført kurs skal studentene kunne
 
@@ -189,7 +189,7 @@ Be studentene vurdere et gitt nettsted og se spesielt på kildebruken. Studenten
     - Ville det være etisk og lovlig å bruke det? Hvordan ville du eventuelt avklart bruk av materialet?
     - Hvordan henviser du til denne visuelle kilden i teksten, og hvordan oppgir du den i en referanseliste? Bruk Harvard/APA/MLA osv. (den [referansestilen](/kildebruk-og-referanser/referansestiler/) som anbefales eller er mest vanlig på det aktuelle faget eller lærestedet.)
 
-## 6. Sitering og etisk kildebruk
+## Sitering og etisk kildebruk
 
 Etter fullført kurs skal studentene kunne
 
@@ -235,7 +235,7 @@ Studentene kan for eksempel benytte referansestilene i Søk & Skriv underveis i 
 
 En annen måte å jobbe med referanselister på er å vise studentene en faktisk, eksisterende pensumliste som inneholder noen feil, og be dem finne feilene. Så kan man i fellesskap, og ved hjelp av Søk & Skriv, finne fram til hvordan det skulle vært gjort.
 
-## 7. Skrivekurs for masterstudenter
+## Skrivekurs for masterstudenter
 
 Målet med et skrivekurs er gjerne at studentene skal bli tryggere på sin egen skriving, både når det gjelder arbeidsmåte og personlig skrivestil. De skal også kjenne til viktige trekk ved det akademiske håndverket. De aller fleste studenter har mer kunnskap om lesing og skriving enn de er klar over, og et mål for kursholderen kan være å hjelpe dem til å bli klar over dette. En måte å oppøve trygghet på er å arbeide med begreper (”metaspråk for skriving”). Gjennom å sette ord på hva som gjør en tekst god og hva som gjør den mindre god, vil studentene kunne utvikle et analytisk blikk for tekster, noe som også er til god hjelp for den egne skrivingen.
 
