@@ -27,7 +27,7 @@ module.exports = {
     'formelle-krav-til-oppsett',
     'formidling',
   ],
-  '/kildebruk-og-referanser/': [
+  '/kjeldebruk-og-referanser/': [
     '',
     'kvifor-referere',
     'korleis-referere',
