@@ -44,7 +44,7 @@ module.exports = {
             ]
           },
           {
-            text: 'Om',
+            text: 'Mer',
             ariaLabel: 'Om Søk og skriv meny',
             items: [
               { text: 'Videoer', link: '/video/' },
@@ -74,7 +74,7 @@ module.exports = {
           { text: 'Writing', link: '/en/writing/' },
           { text: 'Sources and referencing', link: '/en/sources-and-referencing/' },
           {
-            text: 'About',
+            text: 'More',
             ariaLabel: 'About Search and write menu',
             items: [
               { text: 'Videos', link: '/en/video/' },
