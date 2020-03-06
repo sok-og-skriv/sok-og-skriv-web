@@ -1,7 +1,7 @@
 ---
 title: "Sources and referencing"
 date: "2012-03-16"
-prev: "../writing/disseminating-your-thesis"
+prev: "../writing/formal-requirements"
 ---
 
 # Sources and referencing

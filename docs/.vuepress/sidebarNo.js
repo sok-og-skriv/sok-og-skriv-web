@@ -24,8 +24,7 @@ module.exports = {
     'imrod-modellen',
     'akademisk-sprak-og-stil',
     'ikke-akademisk-sprak',
-    'formelle-krav-til-oppsett',
-    'formidling',
+    'formelle-krav-til-oppsett'
   ],
   '/kjeldebruk-og-referanser/': [
     '',
@@ -33,7 +32,7 @@ module.exports = {
     'korleis-referere',
     'kva-refererast',
     'etiske-retningslinjer-i-akademia',
-    'vurdering av kjelder',
+    'vurdering-av-kjelder',
     'kvalitative-vurderingar',
   ],
   '/referansestiler/apa/': [

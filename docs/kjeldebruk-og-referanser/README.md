@@ -1,7 +1,7 @@
 ---
 title: "Kildebruk og referanser"
 date: "2012-03-15"
-prev: "../skriving/formidling"
+prev: "../skriving/formelle-krav-til-oppsett"
 ---
 
 # ![](/images/illustrasjoner_kildehenvisning_500x450.png) Kildebruk og referanser
