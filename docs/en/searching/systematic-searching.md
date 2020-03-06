@@ -111,7 +111,7 @@ Life quality
 ::::
 :::::
 
-## Combination of search terms:
+## Combination of search terms
 
 All major article databases give you access to a search history. The search history displays which subject-related terms you have looked up, how they are combined, and how many hits each search has resulted in. The searching process becomes flexible and clear if you choose to search one word at a time and then combine the searches with AND, OR or NOT in the search history.
 
@@ -144,7 +144,7 @@ The search has been conducted in the Medline-Ovid database 1996 and up until tod
 | 18       | 3 and 7 and 13 and 17                             | 100     |
 :::
 
-## Explanation of Search History:
+## Explanation of Search History
 
 - **/ :** the slash indicates that the term is taken from the subject-related wordlist, Medical Subject Headings (MeSH)
 - **exp:** Explode indicates that subordinate terms have been included
@@ -181,12 +181,8 @@ In certain subjects, after completing the systematic search, you need to describ
 When you are ready with a search in a database, it is a good idea to save the search history so that you can retrieve it later. The search history is the best way to document your search. Remember to note which databases you have searched in.
 :::
 
+See also PhD on track’s page on [systematic review searching](https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews)
+
 ## Further Reading:
 
 Haraldstad, A.-M.B. og Christophersen, E. (2008) Litteratursøk og personlige referansedatabaser. I: Laake, P., Olsen, B.R. og Benestad, H.B. red. _Forskning i medisin og biofag._ 2. utg. Oslo, Gyldendal akademisk, s.147-186.
-
-See also PhD on track’s page on [systematic review searching](https://www.phdontrack.net/review-and-discover/systematic-review-searching/)
-
-## Feil lenke? 
-
-https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews ???
