@@ -36,7 +36,7 @@ Nedenfor finner du et utvalg tverrfaglige databaser som kan være et godt utgang
 - Publiseringsarkivet [NORA](https://nora.openaccess.no/) og databasen [Cristin](https://www.cristin.no/) gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren.
 
 ::: tip Tips 
-_For å unngå tilfeldig og usystematisk leting etter litteratur, kan det være lurt å sette opp en plan for søket. Det kan spare tid og sikre at alle viktige elementer i problemstillingen blir tatt med. Beskriv hvilke søkeord du har brukt, og hvordan disse er kombinert. Se mer under søketeknikker._
+For å unngå tilfeldig og usystematisk leting etter litteratur, kan det være lurt å sette opp en plan for søket. Det kan spare tid og sikre at alle viktige elementer i problemstillingen blir tatt med. Beskriv hvilke søkeord du har brukt, og hvordan disse er kombinert. 
 :::
 
-Gjennom søkeprosessen åpner det seg en spennende verden av kunnskap. Men for å unngå tilfeldig og usystematisk leting etter litteratur, kan det være lurt å sette opp en plan for søket. Det kan spare tid og sikre at alle viktige elementer i problemstillingen blir tatt med. En god søkestrategi bør beskrive hvilke søkeord du har brukt, og hvordan disse er kombinert. Se mer under [søketeknikker](/soking/soketeknikker/).
+
