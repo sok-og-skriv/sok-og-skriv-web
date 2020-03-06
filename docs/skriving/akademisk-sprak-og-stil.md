@@ -54,7 +54,7 @@ Les noen sider fra en masteroppgave i ditt fag og merk av ordet "jeg". Identifis
 **Husk!** Studentoppgaver kan ha noen gode grunner til å bruke det personlige jeg; grunner som kan være mindre relevante i en forskningsartikkel.
 :::
 
-# Å skrive ryddig
+## Å skrive ryddig
 
 For å kunne skrive effektivt og [strukturert](/skriving/oppbygning-av-en-oppgave/) er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
 
@@ -66,7 +66,7 @@ For å skille mellom de ulike operasjonene, kan du velge å legge redegjørelser
 Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave.
 :::
 
-## Redegjørelse
+### Redegjørelse
 
 I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling til det. Når du redegjør for teori skal du presentere en annen tenkers ideer på en mest mulig redelig måte. Testen på en god redegjørelse er at den skal kunne godkjennes av opphavspersonen. En nøytral beskrivelse gir deg et mye bedre ståsted for (eventuell) kritikk enn en presentasjon som er negativt vinklet.
 
@@ -76,11 +76,11 @@ Teksten blir mest ryddig dersom du setter nytt avsnitt før du begynner å drøf
 Gjengi materialet med egne ord, gå deretter tilbake til kilden for å sjekke fakta.
 :::
 
-## Analyse
+### Analyse
 
 Empirien i en empirisk oppgave må analyseres, det vil si _kodes, tolkes_ og eventuelt _kategoriseres_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrerte. Les gjerne andre oppgaver for inspirasjon.
 
-## Drøfting
+### Drøfting
 
 I en teoretisk oppgave er [argumentasjon](/lesing/argumentasjon-i-tekst/) og drøfting sentralt. Du kan enten drøfte ideene og begrepene underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
 
@@ -96,7 +96,7 @@ Let etter [argumentasjon](/lesing/argumentasjon-i-tekst/) og drøfting i andre
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
-# Å skape flyt
+## Å skape flyt
 
 Det er mange måter å skape flyt i en tekst. Dette kalles gjerne tekstbinding. Tekstbinding brukes til å skape de rette forventningene hos leseren: en "lesekontrakt" der leserens forventninger til oppgaven blir innfridd. Åpningen er spesielt viktig: den skal ikke love mer enn du kan holde, men heller ikke for lite. Kunsten er å vise at det som kommer er interessant, og at framstillingen er tilpasset innholdet. Nedenfor er noen eksempler på tekstbinding (NB: kategoriene er til dels overlappende):
 
