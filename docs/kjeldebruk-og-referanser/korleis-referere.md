@@ -135,7 +135,10 @@ I kapittelet På kjøret i _Historien om Norge_ (V) til Karsten Alnæs gjengis i
 _Hvorfor de røykte hasj?_  
 _«Det er jævla fint. Gøy. Du kommer inn i deg selv og blir ett med alt. Alt er kult. Fantasier, drømmer og alt mulig rart. Du får jævla lyst på mat. Etekikk. Så får du latterkikk … Du gråter aldri. Du er nesten aldri lei deg. Hvis du er sammen med en jente og hun slår opp, tenker du: ’Hva faen gjør det?’»_
 
-For utdypende analyser, se Rognstad, Nagel, Laupsa & Tønnesson (2006) _God skikk - Om bruk av litteratur og kilder i allmenne, historiske framstillinger_ (s. 120).
+For utdypende analyser, se Rognstad, Nagel, Laupsa & Tønnesson (2006) _God skikk - Om bruk av litteratur og kilder i allmenne, historiske framstillinger_ (s. 120). 
+
+:::
+
 
 # Forkortelser
 
