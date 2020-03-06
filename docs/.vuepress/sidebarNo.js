@@ -29,18 +29,12 @@ module.exports = {
   ],
   '/kildebruk-og-referanser/': [
     '',
-    'hvordan-referere',
-    'hva-refereres',
-    'forkortelser',
-    'hvorfor-referere',
+    'kvifor-referere',
+    'korleis-referere',
+    'kva-refererast',
     'etiske-retningslinjer-i-akademia',
-    'opphavsrettslige-forhold',
-    'kildevurdering',
-    'kvalitative-vurderinger',
-    'nettsider',
-    'vurdering-av-relevans',
-    'kildesammenligning',
-    'tekstanalyse'
+    'vurdering av kjelder',
+    'kvalitative-vurderingar',
   ],
   '/referansestiler/apa/': [
     '',
