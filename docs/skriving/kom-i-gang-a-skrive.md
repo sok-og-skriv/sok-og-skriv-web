@@ -150,14 +150,4 @@ Som regel er det nødvendig å spesifisere akkurat hva det er du vil undersøke 
 - Hvilken effekt har «miljømerking» (f.eks. Miljøfyrtårn, Svanemerket, EU Ecolabel) på kunders holdninger og atferd?
 :::
 
-## Her er lenken død i WP og det er vel bare å ta bort?
 
-<Figure
-  src="/images/martin-roa-skramstad-cropped-small.jpg"
-  alt="Martin Roa Skramstad"
-  caption="Martin Roa Skramstad"
-  type="right"
-/>
-
-Motivasjon fra engasjement (og vice versa)  
-Søk & Skriv har snakket med masterstudenten Martin Roa Skramstad om [det å utvikle problemstilling for masteroppgaven](/?p=4694).
