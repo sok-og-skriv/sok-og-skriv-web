@@ -1,11 +1,11 @@
 ---
 title: "Saying What You Mean part 2"
 date: "2016-01-03"
-description: 2A good approach to argumentation in academic writing, part II"
+description: A good approach to argumentation in academic writing, part 2 of 2."
 ---
 
 # Saying What You Mean part 2
 
-A good approach to argumentation in academic writing, part II
+A good approach to argumentation in academic writing, part 2 of 2.
 
 <Video id="DVTg57airZg" />
