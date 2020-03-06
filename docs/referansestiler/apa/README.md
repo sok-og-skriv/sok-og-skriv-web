@@ -12,7 +12,7 @@ APA står for American Psychological Association. Foreningen har utviklet en ref
 
 American Psychological Association. (2010). _Publication manual of the American Psychological Association_ (6. utg.). Washington, D.C.: Forfatter.
 
-Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den [originale manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio) og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
+Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den [originale manualen](https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?query=lsr09,contains,092422497,AND&tab=default_tab&search_scope=default_scope&sortby=date&vid=BIBSYS&facet=frbrgroupid,include,207777851&lang=no_NO&mode=advanced&offset=0) og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
 
 ## Referanselisten
 
