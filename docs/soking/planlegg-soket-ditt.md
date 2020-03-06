@@ -19,7 +19,7 @@ I en tidlig fase kan det være nødvendig å orientere seg bredt for å avklare 
 
 ## Finn faglitteratur
 
-Når du har lest deg opp på emnet, og problemstillingen begynner å ta form, kreves det informasjon som går mer i dybden. Fagmiljøet forventer at du bruker vitenskapelige kilder som grunnlag for oppgaven. I tillegg til fagbøker, er artikler i fagfellevurderte tidsskrift den viktigste inngangen til vitenskapelige tekster. At et tidsskrift er fagfellevurdert (engelsk _peer reviewed_), vil si at manuskriptet blir kvalitetsvurdert av eksperter/fagkonsulenter før publisering. [Se også Kvalitative vurderinger](/kildebruk-og-referanser/kvalitative-vurderinger/)
+Når du har lest deg opp på emnet, og problemstillingen begynner å ta form, kreves det informasjon som går mer i dybden. Sensor og faglærer forventer at du bruker vitenskapelige kilder som grunnlag for oppgaven. I tillegg til fagbøker, er artikler i fagfellevurderte tidsskrift den viktigste inngangen til vitenskapelige tekster. At et tidsskrift er fagfellevurdert (engelsk _peer reviewed_), vil si at artikkeler  blir vurdert og godkjent av andre forskere før publisering. [Se også Kvalitative vurderinger](/kildebruk-og-referanser/kvalitative-vurderinger/)
 
 ## Valg av databaser
 
