@@ -182,7 +182,3 @@ When you are ready with a search in a database, it is a good idea to save the se
 :::
 
 See also PhD on track’s page on [systematic review searching](https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews)
-
-## Further Reading:
-
-Haraldstad, A.-M.B. og Christophersen, E. (2008) Litteratursøk og personlige referansedatabaser. I: Laake, P., Olsen, B.R. og Benestad, H.B. red. _Forskning i medisin og biofag._ 2. utg. Oslo, Gyldendal akademisk, s.147-186.
