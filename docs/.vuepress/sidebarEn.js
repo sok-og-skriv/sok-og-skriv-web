@@ -26,8 +26,7 @@ module.exports = {
     'the-writing-process',
     'start-writing',
     'writing-groups',
-    'formal-requirements',
-    'disseminating-your-thesis',
+    'formal-requirements'
   ],
   '/en/sources-and-referencing/': [
     '',
