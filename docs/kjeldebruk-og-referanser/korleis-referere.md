@@ -140,7 +140,7 @@ For utdypende analyser, se Rognstad, Nagel, Laupsa & Tønnesson (2006) _God skik
 :::
 
 
-# Forkortelser
+## Forkortelser
 
 Det brukes en del standardforkortelser i forbindelse med bruk av sitering og kildehenvisninger:
 
@@ -207,7 +207,7 @@ Det brukes en del standardforkortelser i forbindelse med bruk av sitering og kil
 </dl>
 
 
-
+:::
 Mer om forkortinger fra [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/).
-
+:::
 
