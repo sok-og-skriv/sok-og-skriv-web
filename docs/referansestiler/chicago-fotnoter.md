@@ -27,9 +27,9 @@ Finn ut om hvordan du siterer og [henviser i teksten, lager noter og referanseli
 - Listen ordnes alfabetisk etter forfatters etternavn. Verk med flere forfattere alfabetiseres etter førsteforfatter.
 - Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for ytterlig informasjon.
 - Referanser uten forfatter alfabetiseres etter tittel.
-- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publikasjonsdato eller sist oppdatert-dato der disse finnes. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
-- DOI (Digital Object Identifier) er en identifisering av et elektronisk dokument på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte utgaver av artikkelen. DOI er permanent, og følger med dokumentet, selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
-- Bruk hengende innrykk i litteraturlisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
+- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publiseringsdato eller sist oppdatert-dato. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
+- DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
+- Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
 
 ## Bøker
 
@@ -97,7 +97,7 @@ Peter Childs definerer modernisme som "..."^1^
 
 Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag, årstall.
 
-... i følge interpretasjonen om kjønnsrollen i hennes levetid.^3^
+... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
 
 ^3^ Åsebø, "Griselda Pollock", 273–274.
 
@@ -110,21 +110,21 @@ Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etterna
 Ved 1-3 forfattere listes alle forfatterne, i den rekkefølgen de er satt opp på tittelbladet til boken, både i note og i referanseliste. Ved flere enn 3 forfattere nevnes kun første forfatter, etterfulgt av et al. (et aali = lat. og andre) i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første 7, etterfulgt av et al.
 
 ::: ref
-^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall.eller ^x^ Etternavn et al., _Tittel_, sidetall.
+^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall.eller ^x^ Etternavn et al., _Tittel_, ev. sidetall.
 
 Etternavn, Fornavn, Fornavn Etternavn (, Fornavn Etternavn, Fornavn Etternavn etc.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
 
-I boken Åtskilja och förena: etnologisk forskning om betydelser av kön diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
+I boken _Åtskilja och förena: etnologisk forskning om betydelser av kön_ diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
 
 ^6^ Lundgren, Lövkrona og Martinsson, _Åtskilja och förena_.
 
 Lundgren, Britta, Inger Lövkrona og Lena Martinsson. _Åtskilja och förena: etnologisk forskning om betydelser av kön_. Umeå: Universitetet, 1996.
 
-I forordet til boken _Kjønnsteori_7, hevdes det at...
+I forordet til boken _Kjønnsteori_7 hevdes det at...
 
 ^7^ Mortensen et al., _Kjønnsteori_, 11.
 
-Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal akademisk, 2008.
+Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal, 2008.
 :::
 
 
