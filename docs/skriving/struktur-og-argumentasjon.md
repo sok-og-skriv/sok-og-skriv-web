@@ -1,9 +1,9 @@
 ---
-title: "Struktur og argumentasjon"
+title: "Struktur"
 date: "2012-05-04"
 ---
 
-# Struktur og argumentasjon
+# Struktur
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
