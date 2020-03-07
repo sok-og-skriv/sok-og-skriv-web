@@ -3,7 +3,7 @@ title: "Kom i gang å skrive"
 date: "2012-05-16"
 ---
 
-# Kom i gang og skriv
+# Kom i gang å skrive
 
 Som student drives du ofte fram av et "hvorfor?". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre. Hun utforsker et fenomen, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.
 
