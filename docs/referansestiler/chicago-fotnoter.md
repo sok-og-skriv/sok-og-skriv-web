@@ -27,9 +27,9 @@ Finn ut om hvordan du siterer og [henviser i teksten, lager noter og referanseli
 - Listen ordnes alfabetisk etter forfatters etternavn. Verk med flere forfattere alfabetiseres etter førsteforfatter.
 - Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for ytterlig informasjon.
 - Referanser uten forfatter alfabetiseres etter tittel.
-- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publikasjonsdato eller sist oppdatert-dato der disse finnes. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
-- DOI (Digital Object Identifier) er en identifisering av et elektronisk dokument på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte utgaver av artikkelen. DOI er permanent, og følger med dokumentet, selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
-- Bruk hengende innrykk i litteraturlisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
+- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publiseringsdato eller sist oppdatert-dato. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
+- DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
+- Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
 
 ## Bøker
 
