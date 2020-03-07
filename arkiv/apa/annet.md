@@ -44,7 +44,10 @@ Omtale av kjente kunstverk som Skrik og Mona Lisa krever ingen innførsel i refe
 
 Kilden i teksten
 
-Kilden i refereranselisten
+::: ref
+
+
+:::
 
 (Opphavsperson, årstall)
 
@@ -65,7 +68,10 @@ Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver. Sidet
 
 Kilden i teksten
 
-Kilden i refereranselisten
+::: ref
+
+
+:::
 
 I islam finnes det en rekke restriksjoner på hva slags kjøtt man kan spise (Koranen 5:3-4, overs. 1980). Om alkohol står det i Koranen at synden i den «er større enn nytten» (2:219).
 
@@ -90,7 +96,10 @@ Shakespeare, W. (2002). _Hamlet: Prins av Danmark_ (Ø. Berg, overs.). Oslo: K
 
 Kilden i teksten
 
-Kilden i refereranselisten
+::: ref
+
+
+:::
 
 (Forfatter, årstall, eventuelt sidetall)
 
@@ -103,7 +112,10 @@ Utaker, A. (2010). _Det perseptuelles antropologi: Persepsjon og bilder som filo
 
 Kilden i teksten
 
-Kilden i refereranselisten
+::: ref
+
+
+:::
 
 (Forfatter, årstall, eventuelt sidetall)
 
@@ -116,7 +128,10 @@ Ting, J. Y., Florsheim, P. & Huang, W. (2008). _Mental health help-seeking in et
 
 Kilden i teksten
 
-Kilden i refereranselisten
+::: ref
+
+
+:::
 
 (Forfatter, under utgivelse, eventuelt sidetall)
 
@@ -134,7 +149,10 @@ Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten
 
 I figurteksten
 
-Kilden i refereranselisten
+::: ref
+
+
+:::
 
 Bilder du har tatt selv: Inkluder beskrivelse, stedsangivelse og dato.  
 Figur 1. Utsikt fra Ulriken, Bergen 26. juli 2018.
