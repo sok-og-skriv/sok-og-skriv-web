@@ -35,7 +35,16 @@ module.exports = {
     'vurdering-av-kjelder',
     'kvalitative-vurderingar',
   ],
-  '/referansestiler/apa/': [
+  '/referansestiler/': [
+    '',
+    'apa-6th',
+    'chicago-forfatter-aar',
+    'chicago-fotnoter',
+    'harvard',
+    'mla',
+    'vancouver'
+  ],
+  /* '/referansestiler/apa/': [
     '',
     'boeker',
     'artikler',
@@ -44,39 +53,39 @@ module.exports = {
   ],
   '/referansestiler/chicago-forfatter-aar/': [
     '',
-    /* 'boeker',
+    'boeker',
     'artikler',
     'offentlige-kilder',
-    'annet' */
+    'annet'
   ],
   '/referansestiler/chicago-fotnoter/': [
     '',
-    /* 'boeker',
+    'boeker',
     'artikler',
     'offentlige-kilder',
-    'annet' */
+    'annet'
   ],
   '/referansestiler/harvard/': [
     '',
-    /* 'boeker',
+    'boeker',
     'artikler',
     'offentlige-kilder',
-    'annet' */
+    'annet'
   ],
   '/referansestiler/mla/': [
     '',
-    /* 'boeker',
+    'boeker',
     'artikler',
     'offentlige-kilder',
-    'annet' */
+    'annet'
   ],
   '/referansestiler/vancouver/': [
     '',
-    /* 'boeker',
+    'boeker',
     'artikler',
     'offentlige-kilder',
-    'annet' */
-  ],
+    'annet'
+  ], */
   '/om/brukertest/': [
     '',
     'eksempel2',

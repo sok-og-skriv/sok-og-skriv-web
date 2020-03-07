@@ -37,9 +37,15 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 
 ### Nettside fra organisasjon
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Organisasjon, årstall)
 
@@ -53,9 +59,15 @@ Om du vil omtale et nettsted mer generelt, uten eksakt sideinformasjon, kan du g
 
 ### Nettside med forfatter
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Forfatter, årstall)
 
@@ -67,9 +79,15 @@ Lund, V. (2018, 26. september). Åtte av ti reiser med bil. Hentet fra [https:/
 
 ### Artikkel i trykt leksikon (med forfatter)
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Forfatter, årstall, eventuelt sidetall)
 
@@ -81,9 +99,15 @@ Slagstad, R. (1979). Demokrati. I _PaxLeksikon_ (Bind C–G, s. 76–79). Oslo: 
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 («Artikkeltittel», årstall)
 
@@ -99,9 +123,15 @@ Hårarbeid. (u.å.). I _Wikipedia_. Hentet 26. juni 2018 fra [https://no.wikipe
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Forfatter, årstall, eventuelt sidetall)
 
@@ -119,9 +149,15 @@ I Norge henviser vi til «originalloven» som konsolideres ved endringer. Det er
 
 Lenke er ikke obligatorisk, men kan være til hjelp for lesere av elektroniske dokumenter. Bruk i så fall permanent lenke, som kan finnes under deleikonet på Lovdata.
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Lovens kortnavn, årstall, paragraf)
 
@@ -137,9 +173,15 @@ Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2
 
 ### Forskrifter
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Forskriftens kortnavn, årstall, paragraf)
 
@@ -151,9 +193,15 @@ Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift 
 
 ### Meldinger og proposisjoner til Stortinget
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Departement, årstall, eventuelt sidetall)
 
@@ -169,9 +217,15 @@ De funksjonshemmedes stilling blir behandlet i handlingsplanen (Sosial- og helse
 
 ### Norges offentlige utredninger (NOU)
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (NOU årstall: nummer, årstall for publisering, eventuelt sidetall)
 
@@ -187,9 +241,15 @@ NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra https://www.regjering
 
 ### Ramme- og læreplaner
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Organisasjon, årstall, eventuelt sidetall)
 
@@ -211,9 +271,15 @@ Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver.
 
 ### Rapporter
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
  (Forfatter, årstall, eventuelt sidetall)
 
@@ -231,9 +297,15 @@ Nordisk ministerråd. (2009). _Naturopplevelse, friluftsliv og vår psykiske hel
 
 Omtale av kjente kunstverk som Skrik og Mona Lisa krever ingen innførsel i referanselisten. Andre refereres som følger:
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Opphavsperson, årstall)
 
@@ -253,9 +325,15 @@ Bilder som _reproduseres_ skal også ha komplett henvisning i figurteksten. Se [
 
 Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer, dikt kan deles inn i bøker eller sanger og skuespill i akt og scene. Denne inndelingen er den samme i alle utgaver og brukes ved siteringer. Dette gjelder for eksempel Bibelen, Koranen og eldre greske og romerske tekster. En del tekster blir gjerne referert med standardforkortelser som kan variere mellom ulike fagfelt. For eksempel kan du bruke forkortelser for bøkene i Bibelen, som Apg for Apostlenes gjerninger. I henhold til APA-stilen, trenger man ikke føre opp slike verker i referanselisten, men versjonen som er brukt skal identifiseres første gang man siterer.
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 I islam finnes det en rekke restriksjoner på hva slags kjøtt man kan spise (Koranen 5:3-4, overs. 1980). Om alkohol står det i Koranen at synden i den «er større enn nytten» (2:219).
 
@@ -279,9 +357,15 @@ Shakespeare, W. (2002). _Hamlet: Prins av Danmark_ (Ø. Berg, overs.). Oslo: K
 
 ### Upublisert materiale
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Forfatter, årstall, eventuelt sidetall)
 
@@ -293,9 +377,15 @@ Utaker, A. (2010). _Det perseptuelles antropologi: Persepsjon og bilder som filo
 
 ### Manuskript under vurdering, men ikke antatt (submitted)
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Forfatter, årstall, eventuelt sidetall)
 
@@ -307,9 +397,15 @@ Ting, J. Y., Florsheim, P. & Huang, W. (2008). _Mental health help-seeking in et
 
 ### Manuskript under utgivelse, antatt (in press)
 
-Kilden i teksten
+::: teksten
 
-Kilden i refereranselisten
+
+:::
+
+::: ref
+
+
+:::
 
 (Forfatter, under utgivelse, eventuelt sidetall)
 
@@ -329,7 +425,10 @@ Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten
 
 I figurteksten
 
-Kilden i refereranselisten
+::: ref
+
+
+:::
 
 Bilder du har tatt selv: Inkluder beskrivelse, stedsangivelse og dato.  
 Figur 1. Utsikt fra Ulriken, Bergen 26. juli 2018.

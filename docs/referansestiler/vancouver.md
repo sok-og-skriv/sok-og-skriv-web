@@ -22,228 +22,170 @@ Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_
 ### Bok
 
 ::: teksten
+[Tekst](#henvisninger_i_teksten)(nummer, s. [sidetall](#sidetall))
 
-
+... som en avklarende faktor i diagnostikken (1, s. 72)
 :::
 
 ::: ref
-
-
-:::
-
-[Tekst](#henvisninger_i_teksten)(nummer, s. [sidetall](#sidetall))
-
 xxx. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider.
 
-... som en avklarende faktor i diagnostikken (1, s. 72)
-
 1\. Eyre HJ, Lange DP, Morris LB. Informed decisions: the complete book of cancer diagnosis, treatment, and recovery. 2. utg. Atlanta: American Cancer Society; 2002. 768 s.
+:::
+
 
 ### Bokkapittel
 
 ::: teksten
+Tekst (nummer).
 
-
+Retrovirus hos katter har vist seg ... (2).
 :::
 
 ::: ref
-
-
-:::
-
-Tekst (nummer).
-
 xxx. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. s. xxx-xxx.
 
-Retrovirus hos katter har vist seg ... (2).
-
 2\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
+:::
+
 
 ### Bok med redaktør
 
 ::: teksten
+Tekst (nummer)
 
-
+... slik som framstilt i boken (2).
 :::
 
 ::: ref
-
-
-:::
-
-Tekst (nummer)
-
 xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. s. xxx-xxx.
 
-... slik som framstilt i boken (2).
-
 2\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
+:::
+
 
 ### Avhandling - doktor/master (publisert)
 
 ::: teksten
+Tekst (nummer, sidetall)
 
-
+Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
 :::
 
 ::: ref
-
-
-:::
-
-Tekst (nummer, sidetall)
-
- Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; Årstall. Antall sider.
+Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; Årstall. Antall sider.
 
 Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
 
-Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
-
 3\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
+:::
+
 
 ### Artikkel i tidsskrift
 
 ::: teksten
+[Tekst (nummer](#henvisninger_i_teksten))
 
-
+... viser forandringer i blodtrykknivået (4).
 :::
 
 ::: ref
-
-
-:::
-
-[Tekst (nummer](#henvisninger_i_teksten))
-
 xxx. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
 
-... viser forandringer i blodtrykknivået (4).
-
 4\. Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62(1):112-6.
+:::
+
 
 ### Nettside uten forfatter eller hvor forfatter er en organisasjon
 
 ::: teksten
 
+Tekst (nummer)
 
+På nettstedet til Kreftregisteret (6) belyses temaet …
+
+På nettstedet til Kreftregisteret (6) belyses temaet …
 :::
 
 ::: ref
-
-
-:::
-
-Tekst (nummer)
-
-Tekst (nummer)
-
 xxx. Nettstedets navn eller organisasjon \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
 xxx. Nettstedets navn eller organisasjon. Nettsidens tittel. \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
-På nettstedet til Kreftregisteret (6) belyses temaet …
-
-På nettstedet til Kreftregisteret (6) belyses temaet …
-
 6\. Kreftregisteret \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/](https://www.kreftregisteret.no/)
 
 6\. Kreftregisteret. Fakta om kreft. \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
+:::
+
 
 ### Nettside med forfatter
 
 ::: teksten
+Tekst ([nummer](#henvisninger_i_teksten))
 
-
+Noack og Seierstad (7) har undersøkt forekomsten av samboerskap…
 :::
 
 ::: ref
-
-
-:::
-
-Tekst ([nummer](#henvisninger_i_teksten))
-
 xxx. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
-Noack og Seierstad (7) har undersøkt forekomsten av samboerskap…
-
 7\. Noack T, Seierstad A. Samboerskap ved tusenårsskiftet: dagligdags og uutforsket \[Internett\]. Oslo: Statistisk sentralbyrå; \[hentet 2003-03-26\]. Tilgjengelig fra: [https://www.ssb.no/emner/00/02/10/ola\_kari/familie/](https://www.ssb.no/emner/00/02/10/ola_kari/familie/)
+:::
+
 
 ### Lover
 
 ::: teksten
+Tekst (nummer)
 
-
+Helsepersonelloven (8) sier at ...
 :::
 
 ::: ref
-
-
-:::
-
-Tekst (nummer)
-
 Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 
-Helsepersonelloven (8) sier at ...
-
 8\. Helsepersonelloven. 1999. Lov om helsepersonell m.v. av 1999-07-02 nr 64.
+:::
+
 
 ### Norges offentlige utredninger (NOU)
 
 ::: teksten
+Tekst ([nummer](#henvisninger_i_teksten))
 
-
+I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til …(9).
 :::
 
 ::: ref
-
-
-:::
-
-Tekst ([nummer](#henvisninger_i_teksten))
-
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
-I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til …(9).
-
 9\. NOU 1999: 13. Kvinners helse i Norge. Oslo, Statens forvaltningstjeneste; 1999.
+:::
+
 
 ### Manuskript under publisering, antatt (in press)
 
 ::: teksten
+Tekst ([nummer](#henvisninger_i_teksten))
 
+ ... som fremmer cellevekst (10).
 
 :::
 
 ::: ref
-
-
-:::
-
-Tekst ([nummer](#henvisninger_i_teksten))
-
 Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Under utgivelse. Årstall.
 
- ... som fremmer cellevekst (10).
-
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
+:::
 
 ### Personlig kommunikasjon
 
 Når det gjelder Personlig kommunikasjon skal henvisninger i litteraturlisten kun med om det er tilgjengelige dokumenter (som for eksempel brev i arkiv). Det skal siteres i løpende tekst kun etter avtale med den som kommer med informasjonen. Forbokstaver og etternavn samt dato oppgis: Kun tilgjengelige dokumenter tas med i litteraturlisten.
 
 ::: teksten
-
-
+I følge H. K. Anderssen (2001 personlig meddelelse )
 :::
 
-::: ref
-
-
-:::
-
- I følge H. K. Anderssen (2001 personlig meddelelse )
 
 ### Kompendier
 

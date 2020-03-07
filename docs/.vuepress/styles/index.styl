@@ -69,6 +69,10 @@ figcaption {
   border-collapse: collapse;
 }
 
+.details
+  hr
+    border-color #bbb
+
 .exercise
   margin 1rem 0
   padding .1rem 1.5rem
@@ -88,6 +92,57 @@ figcaption {
   border-left: 8px solid $sosRed !important;
   .title
     font-weight bold
+
+.in-text
+  margin 1rem 0
+  padding .1rem 1.5rem
+  border-top-right-radius 0.4rem
+  border-bottom-right-radius 0.4rem
+  background-color #f0f4f8
+  border-left: 8px solid $sosGreen !important;
+  .title
+    font-weight bold
+
+.in-footnote
+  margin 1rem 0
+  padding .1rem 1.5rem
+  border-top-right-radius 0.4rem
+  border-bottom-right-radius 0.4rem
+  background-color #f0f4f8
+  border-left: 8px solid $sosOrange !important;
+  .title
+    font-weight bold
+  hr 
+    display inline-block
+    width: 40%
+    left 0
+    border-color: #999
+  .text-placeholder
+    display: block
+    background: rgb(224,224,224);
+    background: linear-gradient(90deg, rgba(224,224,224,1) 0%, rgba(213,213,213,1) 40%, rgba(227,227,227,1) 100%);
+    padding: 0.5em
+  .long
+    width 90%
+  .short
+    margin-top: 0.5em
+    width 70%
+    margin-bottom: 2em
+
+.in-ref
+  margin 1rem 0
+  padding .1rem 1.5rem
+  border-top-right-radius 0.4rem
+  border-bottom-right-radius 0.4rem
+  background-color #f0f4f8
+  border-left: 8px solid $sosBlue !important
+  .title
+    font-weight bold
+
+.ref
+  display: inline-block
+  padding: 0 0 0.5em 0.5in
+  text-indent: -0.5in
 
 .custom-block table {
   background-color: white;

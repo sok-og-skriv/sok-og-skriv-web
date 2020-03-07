@@ -36,11 +36,12 @@ module.exports = {
             text: 'Referansestiler',
             ariaLabel: 'Referansestiler meny',
             items: [
-              { text: 'APA 6th', link: '/referansestiler/apa/' },
-              { text: 'Chicago forfatter-år', link: '/referansestiler/chicago-forfatter-aar/' },
-              { text: 'Chicago fotnoter', link: '/referansestiler/chicago-fotnoter/' },
-              { text: 'MLA', link: '/referansestiler/mla/' },
-              { text: 'Vancouver', link: '/referansestiler/vancouver/' }
+              { text: 'Introduksjon', link: '/referansestiler/index' },
+              { text: 'APA 6th', link: '/referansestiler/apa-6th' },
+              { text: 'Chicago forfatter-år', link: '/referansestiler/chicago-forfatter-aar' },
+              { text: 'Chicago fotnoter', link: '/referansestiler/chicago-fotnoter' },
+              { text: 'MLA', link: '/referansestiler/mla' },
+              { text: 'Vancouver', link: '/referansestiler/vancouver' }
             ]
           },
           {
@@ -115,6 +116,35 @@ module.exports = {
     'vuepress-plugin-glossary',
     /* 'alias', */
     ['@vuepress/back-to-top', true],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'teksten',
+        before: `<div class="in-text"><p class="title">Kilden i teksten</p>`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'footnote',
+        before: `
+          <div class="in-footnote">
+            <p class="title">Kilden i fotnoten</p>
+            <span class="text-placeholder long"></span>
+            <span class="text-placeholder short"></span>
+            <hr>`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'ref',
+        before: `<div class="in-ref"><p class="title">Kilden i referanselisten</p>`,
+        after: '</div>',
+      },
+    ],
     [
       'vuepress-plugin-container',
       {
