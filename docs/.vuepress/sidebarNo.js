@@ -15,7 +15,6 @@ module.exports = {
   ],
   '/skriving/': [
     '',
-    'skriveprosessen',
     'kom-i-gang-a-skrive',
     'skrivegrupper',
     'struktur-og-argumentasjon',
@@ -23,7 +22,6 @@ module.exports = {
     'redegjor-og-droft',
     'imrod-modellen',
     'akademisk-sprak-og-stil',
-    'ikke-akademisk-sprak',
     'formelle-krav-til-oppsett'
   ],
   '/kjeldebruk-og-referanser/': [

@@ -51,7 +51,7 @@ Det private jeg'et, derimot, har ingen ting i en akademisk tekst å gjøre. Dett
 ::: oppgave Øvelse
 Les noen sider fra en masteroppgave i ditt fag og merk av ordet "jeg". Identifiser hvilke forekomster som viser til henholdsvis forskerjeg'et, forfatter-jeg'et og det personlige jeg. For sammenligning, les en forskningsartikkel som bruker ordet "jeg", og utfør tilsvarende analyse. Hvordan var fordelingen i de to tekstene?
 
-**Husk!** Studentoppgaver kan ha noen gode grunner til å bruke det personlige jeg; grunner som kan være mindre relevante i en forskningsartikkel.
+**Husk!** I en studentoppgave kan det være gode grunner til å bruke det personlige jeg; grunner som kan være mindre relevante i en forskningsartikkel.
 :::
 
 
