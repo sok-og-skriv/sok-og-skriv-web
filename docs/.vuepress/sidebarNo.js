@@ -23,7 +23,6 @@ module.exports = {
     'redegjor-og-droft',
     'imrod-modellen',
     'akademisk-sprak-og-stil',
-    'ikke-akademisk-sprak',
     'formelle-krav-til-oppsett'
   ],
   '/kjeldebruk-og-referanser/': [
