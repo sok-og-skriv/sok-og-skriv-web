@@ -4,14 +4,18 @@ title: "Referansestiler"
 
 # Referansestiler
 
-<span class="tag is-large"><a href="/referansestiler/apa/">APA 6th</a></span>
-<span class="tag is-large"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
-<span class="tag is-large"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
-<span class="tag is-large"><a href="/referansestiler/harvard">Harvard</a></span>
-<span class="tag is-large"><a href="/referansestiler/mla">MLA</a></span>
-<span class="tag is-large"><a href="/referansestiler/vancouver">Vancouver</a></span>
+<div class="tags">
+    <span class="tag is-large"><a href="/referansestiler/apa-6th">APA 6th</a></span>
+    <span class="tag is-large"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
+    <span class="tag is-large"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
+    <span class="tag is-large"><a href="/referansestiler/harvard">Harvard</a></span>
+    <span class="tag is-large"><a href="/referansestiler/mla">MLA</a></span>
+    <span class="tag is-large"><a href="/referansestiler/vancouver">Vancouver</a></span>
+</div>
 
-gir forfatter-årstall, fotnoter eller et nummer for referansen. Hvilken stil du skal bruke er avhengig av faget du studerer. Dette må du avklare med din veileder. Hvis ditt fag ikke har en spesiell stil, må du velge en stil og bruke den konsekvent. En av de mest kjente forfatter-årstall stilene er Harvardstilen, som brukes i eksemplene i Søk & Skriv.
+En referansestil er et standardisert oppsett for hvordan du skal presentere informasjon om kildene du bruker. Typisk beskriver en stil hvordan du gjengir informasjon om forfatter, årstall, tittel og sidetall.
+
+Det finnes mange ulike stiler for hvordan man henviser fra tekst til litteraturliste. Dette kan for eksempel være stiler som i teksten oppgir forfatter-årstall, fotnoter eller et nummer for referansen. Hvilken stil du skal bruke er avhengig av faget du studerer. Dette må du avklare med din veileder. Hvis ditt fag ikke har en spesiell stil, må du velge en stil og bruke den konsekvent. En av de mest kjente forfatter-årstall stilene er Harvardstilen, som brukes i eksemplene i Søk & Skriv.
 
 Følgende stiler er brukt innenfor de akademiske miljøene.
 

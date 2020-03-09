@@ -33,8 +33,8 @@ module.exports = {
           { text: 'Skriving', link: '/skriving/' },
           { text: 'Kjeldebruk', link: '/kjeldebruk-og-referanser/' },
           {
-            text: 'Referansestiler',
-            ariaLabel: 'Referansestiler meny',
+            text: 'Referansestiler', link: '/referansestiler/'
+            /* ariaLabel: 'Referansestiler meny',
             items: [
               { text: 'Introduksjon', link: '/referansestiler/index' },
               { text: 'APA 6th', link: '/referansestiler/apa-6th' },
@@ -42,7 +42,7 @@ module.exports = {
               { text: 'Chicago fotnoter', link: '/referansestiler/chicago-fotnoter' },
               { text: 'MLA', link: '/referansestiler/mla' },
               { text: 'Vancouver', link: '/referansestiler/vancouver' }
-            ]
+            ] */
           },
           {
             text: 'Mer',
@@ -52,7 +52,6 @@ module.exports = {
               { text: 'Kontaktinformasjon', link: '/om/kontaktinformasjon/' },
               { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
               { text: 'Rettigheter', link: '/om/rettigheter-til-sok-og-skriv/' },
-              { text: 'Referanser', link: '/om/referanser/' },
               { text: 'Markdown demo', link: '/om/markdown-demo/' },
               { text: 'Gitlab-arbeidsflyt', link: '/om/gitlab-arbeidsflyt/' },
               { text: 'Brukertest', link: '/om/brukertest/' }
@@ -80,8 +79,7 @@ module.exports = {
             items: [
               { text: 'Videos', link: '/en/video/' },
               { text: 'Contact', link: '/en/about/contact-information/' },
-              { text: 'Rights', link: '/en/about/copyright-for-search-and-write/' },
-              { text: 'References', link: '/en/about/references/' }
+              { text: 'Rights', link: '/en/about/copyright-for-search-and-write/' }
             ]
           }
         ],
