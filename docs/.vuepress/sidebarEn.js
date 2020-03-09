@@ -48,7 +48,6 @@ module.exports = {
     '/en/about/',
     '/en/video/',
     '/en/about/contact-information',
-    '/en/about/copyright-for-search-and-write',
-    '/en/about/references'
+    '/en/about/copyright-for-search-and-write'
   ]
 }
