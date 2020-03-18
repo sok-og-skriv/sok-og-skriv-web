@@ -71,7 +71,15 @@ Prinsippet for tekstbinding er å hjelpe leseren til å se sammenhengen i tekste
 En god oppgave innfrir forventningene som skapes i starten, og svarer på problemstillingen.
 
 
-::: details Akademisk ordbruk - tips og vanlige feil 
+## Revidering av språk og stil 
+
+::: tip Revideringstips
+For å skape distanse til det du har skrevet, finnes det ulike knep. For eksempel kan du gå gjennom teksten baklengs for å legge merke til hvilke ord og uttrykk du bruker litt for ofte. Når du leser teksten forfra, er det lett å hengi seg til selve resonnementet og innholdet. Lesing bakfra gjør det lettere å fokusere på ordvalg. 
+:::
+
+
+## Akademisk ordbruk 
+::: warning Tips - og noen vanlige feil 
 Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. For å få en ryddigere tekst kan det også hjelpe å kutte ut ord som ikke tilfører noe til resonnementet, for eksempel adjektiver, adverb og småord.
 
 En god regel er å bruke vanlige ord som du er sikker på at du forstår. Unngå fremmedord dersom du kan bruke vanlige, norske ord som betyr det samme. Selv om en sensor ofte kan gjette seg fram til hva studenten ønsker å si, er det best å uttrykke seg presist.
@@ -99,10 +107,4 @@ Disse uttrykkene blandes ofte sammen, men betydningen er nesten motsatt. "Ikke n
 
 **I forhold til**  
 Dette uttrykket har fått en voldsom utbredelse de seneste årene, og erstatter snart de fleste preposisjoner. I forhold til betyr at man sammenligner noe med noe annet, altså at noe står i forhold til, sammenlignes med noe annet (som det ikke er). Overdreven bruk av "i forhold til" gjør meningen uklar og språket flatt. Prøv å variere med mer presise preposisjoner, som: med hensyn til, når det gjelder, sammenlignet med, i forbindelse med osv.
-:::
-
-## Revidering av språk og stil 
-
-::: tip Revideringstips
-For å skape distanse til det du har skrevet, finnes det ulike knep. For eksempel kan du gå gjennom teksten baklengs for å legge merke til hvilke ord og uttrykk du bruker litt for ofte. Når du leser teksten forfra, er det lett å hengi seg til selve resonnementet og innholdet. Lesing bakfra gjør det lettere å fokusere på ordvalg. 
 :::
