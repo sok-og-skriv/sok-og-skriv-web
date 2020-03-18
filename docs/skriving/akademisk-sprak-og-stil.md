@@ -71,10 +71,8 @@ Prinsippet for tekstbinding er å hjelpe leseren til å se sammenhengen i tekste
 
 En god oppgave innfrir forventningene som skapes i starten, og svarer på problemstillingen.
 
-::: tip Ikke-akademisk språk
+::: warning Ordbruk - noen vanlige feil 
 Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. Det kan ofte være en fordel å stryke adjektiver. For å få en ryddigere tekst kan det også være en fordel å kutte ut småord.
-
-## Ordbruk
 
 En god regel er å bruke vanlige ord som du er sikker på at du forstår. Unngå fremmedord dersom du kan bruke vanlige, norske ord som betyr det samme. Selv om en sensor ofte kan gjette seg fram til hva studenten ønsker å si, er det best å uttrykke seg presist.
 
@@ -94,11 +92,17 @@ Utdefinere betyr å definere noe "ut" av den relevante konteksten; det vil si å
 **Vie seg til noe**
 Uttrykket brukes ofte feil, og blandes av og til sammen med det å "egne seg" til noe.
 
-**Avskrekkende** betyr å virke skremmende, og dette holder oss fra å gjøre noe. Avskrekkende betyr _ikke_ "betryggende" eller "beroligende".
+**Avskrekkende** betyr å virke skremmende, noe som holder oss fra å gjøre noe. Avskrekkende betyr _ikke_ "betryggende" eller "beroligende".
 
 **Ikke nødvendigvis - nødvendigvis ikke**
 Disse uttrykkene blandes ofte sammen, men betydningen er nesten motsatt. "Ikke nødvendigvis" betyr at noe _kan_ være tilfelle, men det er ikke sikkert. "Nødvendigvis ikke" betyr at det som påstås, ikke kan være slik.
 
 **I forhold til**  
 Dette uttrykket har fått en voldsom utbredelse de seneste årene, og erstatter snart de fleste preposisjoner. I forhold til betyr at man sammenligner noe med noe annet, altså at noe står i forhold til, sammenlignes med noe annet (som det ikke er). Overdreven bruk av "i forhold til" gjør meningen uklar og språket flatt. Prøv å variere med mer presise preposisjoner, som: med hensyn til, når det gjelder, sammenlignet med, i forbindelse med osv.
+:::
+
+## Revidering av språk og stil 
+
+::: tip Revideringstips
+For å skape distanse til det du har skrevet, finnes det ulike knep. For eksempel kan du gå gjennom teksten baklengs for å legge merke til hvilke ord og uttrykk du bruker litt for ofte. Når du leser teksten forfra, er det lett å hengi seg til selve resonnementet og innholdet. Lesing bakfra gjør det lettere å fokusere på ordvalg. 
 :::

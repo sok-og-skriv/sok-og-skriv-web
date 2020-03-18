@@ -84,7 +84,6 @@ Mangler du penn og papir, har du kanskje en mobil i hånden. Skriv ideen du fikk
 - Bruk små bokstaver. Små bokstaver leses og huskes bedre enn store bokstaver
 :::
 
-(Kilde: Learning Support Services (2004) _Skills for Learning_ \[CD-ROM\]. Leeds: Leeds Metropolitan University Library).
 
 ## Tenketekst
 
@@ -112,9 +111,9 @@ Arbeidet med å forme et problem eller spørsmål kan gjerne starte med idémyld
 ::: oppgave Øvelse 
 + Skriv ned minst fem varianter av problemstillingen som opptar deg. 
 + Velg ut de to beste.
-+ Start på et nytt ark, og skriv fem varianter av de to. 
++ Start på et nytt ark, og skriv fem nye varianter basert på disse to. 
 + Velg de to beste. 
-+ Ta et nytt ark og skriv fem nye varianter. 
++ Ta et nytt ark og skriv igjen fem nye varianter. 
   
 Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som lar seg besvare. 
 ::: 
