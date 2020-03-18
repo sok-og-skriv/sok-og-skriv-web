@@ -7,11 +7,11 @@ date: "2012-06-08"
 
 Her finner du en generell beskrivelse av de viktigste elementene i større oppgaver på bachelor- og masternivå. Kapittelstrukturen tar utgangspunkt i empiriske oppgaver, men den har også relevans for deg som skal skrive teoretisk oppgave. Husk at ulike fag har forskjellige krav til oppsett; undersøk hva som gjelder i ditt fagmiljø.
 
-Når det gjelder innholdet i de ulike kapitlene, se også [Å skrive ryddig.](/skriving/sprak-og-stil/aa-skrive-ryddig/)
+Når det gjelder innholdet i de ulike kapitlene, se også [lenke til argumentere, redegjøre og drøfte?]
 
 ## Sammendrag og forord
 
-Sammendraget er ofte det første som blir lest. Her kan du vekke leserens interesse. Sammendraget skal gi et overblikk over hovedinnholdet, særlig problemstillingen, men det trenger ikke dekke alle aspekter ved oppgaven. Hovedsaken er å gi en god idé om hva oppgaven handler om.
+Sammendraget er ofte det første som blir lest. Her kan du vekke leserens interesse. Sammendraget skal gi et overblikk over hovedinnholdet, som hva du har undersøkt, forskningsspørsmål, funn og konklusjon, men det trenger ikke dekke alle aspekter ved oppgaven. Hovedsaken er å gi en god idé om hva oppgaven handler om.
 
 Sammendraget skrives gjerne til slutt, når du vet hva du faktisk har skrevet. Det er likevel greit å ha et utkast som du arbeider med underveis. Sammendrag kan være krevende å skrive, fordi du bare kan ta med hovedpoengene i arbeidet ditt. Men nettopp derfor er det veldig nyttig å arbeide med sammendraget - da tvinges du til å finne ut hva du egentlig holder på med.
 
@@ -182,6 +182,6 @@ I avslutningen bør du sette oppgaven i et større (faglig) perspektiv og peke p
 - Ta fatt i ubesvarte spørsmål fra ditt eget prosjekt
 - Pek på mulige oppfølginger og nye potensielle prosjekt
 
-### Oppgaven "biter seg selv i halen":
+### Oppgaven "biter seg selv i halen"
 
 Det må være god sammenheng mellom innledningen og avslutningen. Temaer og spørsmål som reises i innledningen må gjenfinnes i avslutningen. Dersom det viser seg at oppgaven likevel ikke har berørt et tema fra innledningen, må det heller strykes. En elegant måte å strukturere teksten på er å bruke samme "bilde", case eller fortelling i begynnelsen og slutten. Når dette bildet vender tilbake i avslutningen, har det fått en ny betydning gjennom innsiktene/erkjennelsen som har oppstått i løpet av skrivearbeidet.
