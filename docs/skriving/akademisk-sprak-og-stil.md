@@ -19,7 +19,7 @@ Et vanlig råd er å legge seg et sted midt imellom, og skrive til en medstudent
 
 ## Aktiv – passiv
 
-Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette er noen ganger nødvendig, men for mye passiv gjør teksten tung å lese. Dessuten trekker passivkonstruksjoner ofte med seg andre problemer, for eksempel lange rekker av preposisjonsuttrykk, som her: "_… undersøkelse av spørsmål om reduksjon i forekomsten av ..."_
+Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette er noen ganger nødvendig, men for mye passiv gjør teksten tung å lese. Dessuten trekker passivkonstruksjoner ofte med seg andre problemer, for eksempel lange rekker av preposisjonsuttrykk, som her: "… undersøkelse av spørsmål om reduksjon i forekomsten av ..."
 
 **Eksempel på passivkonstruksjon:** Det foretas stadig nye undersøkelser på dette området av instituttet.
 
