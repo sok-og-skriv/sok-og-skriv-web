@@ -118,6 +118,6 @@ Arbeidet med å forme et problem eller spørsmål kan gjerne starte med idémyld
 Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som lar seg besvare. 
 ::: 
 
-Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave.md)
+Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave/)
 
 

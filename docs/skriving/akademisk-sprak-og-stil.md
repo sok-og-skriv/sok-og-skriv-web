@@ -5,7 +5,7 @@ date: "2012-05-04"
 
 # Akademisk språk og stil
 
-Akademisk språk er klart, entydig, nøkternt og objektivt. Idealet om objektivitet kan misforstås; at noe er "objektivt" betyr ikke nødvendigvis at man unnlater å ta stilling, men at man viser hva man bygger sine standpunkter på ([argumentasjon](/skriving/struktur/a-argumenterere-i-egen-tekst/)). Dette skiller argumentasjon fra såkalt "synsing".
+Akademisk språk er klart, entydig, nøkternt og objektivt. Idealet om objektivitet kan misforstås - at noe er "objektivt" betyr ikke nødvendigvis at man unnlater å ta stilling, men at man viser hva man bygger sine standpunkter på. Dette skiller argumentasjon fra såkalt "synsing".
 
 Når man er uerfaren kan det være fristende å pynte på språket ved å bruke kompliserte uttrykksformer og fremmedord, men som regel er det bedre å unngå fremmedord når vanlige ord er like presise. Tenkere som har blitt klassikere, har gjerne en enkel og likefram stil. Nettopp derfor blir de lest av mange, uavhengig av tidens konvensjoner.
 
@@ -13,7 +13,7 @@ En del akademiske tekster er likevel - nødvendigvis - krevende å lese; dels fo
 
 ## Stilnivå: Hvem skriver du for?
 
-Hvor mye kan du forutsette at leseren allerede vet, og hvor mye må må du forklare og definere? Skal du skrive for veilederen din, eller for "alle"?
+Hvor mye kan du forutsette at leseren allerede vet, og hvor mye må du forklare og definere? Skal du skrive for veilederen din, eller for "alle"?
 
 Et vanlig råd er å legge seg et sted midt imellom, og skrive til en medstudent.
 
