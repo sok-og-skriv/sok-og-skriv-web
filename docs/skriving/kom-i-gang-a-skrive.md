@@ -110,17 +110,15 @@ Det er flere måter å starte en skriveprosess på, men det kan være lurt å ut
 Arbeidet med å forme et problem eller spørsmål kan gjerne starte med idémyldring. Skriv ned alle de spørsmålene og ideene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
 
 ::: oppgave Øvelse 
-Skriv ned minst fem varianter av problemstillingen som opptar deg. 
-+Velg ut de to beste.
-
-+Start på et nytt ark, og skriv fem varianter av de to. 
-  Velg de to beste. 
-
-+Skriv fem nye varianter på nytt ark. 
++ Skriv ned minst fem varianter av problemstillingen som opptar deg. 
++ Velg ut de to beste.
++ Start på et nytt ark, og skriv fem varianter av de to. 
++ Velg de to beste. 
++ Ta et nytt ark og skriv fem nye varianter. 
   
-Fortsett øvelsen til du har en problemformulering som virkelig sitter, og lar seg besvare. 
+Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som lar seg besvare. 
 ::: 
 
-Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave)
+Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave.md)
 
 
