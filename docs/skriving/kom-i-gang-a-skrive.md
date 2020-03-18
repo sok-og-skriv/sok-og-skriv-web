@@ -118,6 +118,6 @@ Skriv fem nye varianter.
 Fortsett øvelsen til du har en problemformulering som virkelig sitter, og lar seg besvare. 
 ::: 
 
-Se mer om problemformulering under **lenke** [Oppbygning av en oppgave](/oppbygning-av-en-oppgave)
+Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave)
 
 
