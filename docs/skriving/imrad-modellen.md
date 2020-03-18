@@ -1,15 +1,15 @@
 ---
-title: "IMRoD-modellen"
+title: "IMRaD-modellen"
 date: "2012-09-05"
 ---
 
-# IMRoD-modellen
+# IMRaD-modellen
 
 IMRaD står for _Introduction - Method - Results - and - Discussion_. På norsk kan vi si _Introduksjon - Metode - Resultater - og - Diskusjon_ (IMRoD).
 
-IMRoD-modellen er en mal for hvordan man bygger opp en vitenskapelig artikkel. Den brukes i helsefag og naturvitenskapene. Til forskjell fra en samfunnsvitenskapelig modell, har IMRoD ikke noe eget teorikapittel.
+IMRaD-modellen er en mal for hvordan man bygger opp en vitenskapelig artikkel. Den brukes i helsefag og naturvitenskapene. Til forskjell fra en samfunnsvitenskapelig modell, har IMRaD ikke noe eget teorikapittel.
 
-Oppgaver bygget over IMRoD-modellen er gjerne knappe og konsise. Språket er nøkternt og mest mulig entydig. Det er ikke plass for personlige betraktninger eller språklige finesser i en slik oppgave.
+Oppgaver bygget over IMRaD-modellen er gjerne knappe og konsise. Språket er nøkternt og mest mulig entydig. Det er ikke plass for personlige betraktninger eller språklige finesser i en slik oppgave.
 
 ## Introduksjon
 
@@ -58,4 +58,4 @@ Her tolker og diskuterer du resultatene fra ditt prosjekt.
 
 _Til konklusjonen:_ Hvordan besvares problemstillingen? Er hypotesen styrket, svekket eller falsifisert? Ikke trekk inn momenter som ikke har vært nevnt tidligere i teksten (under Introduksjon, Metode eller Resultat). Hvis studien ikke gir grunnlag for å konkludere, kan du avslutte med en _oppsummering_.
 
-Eksempler på tekster bygd opp etter IMRoD-modellen finnes for eksempel i [Helsebiblioteket](https://www.helsebiblioteket.no/). Mer litteratur om IMRoD finner du ved å søke i [Oria](https://oria.no "Oria") \- men søk da på IMRaD.
+Eksempler på tekster bygd opp etter IMRoD-modellen finnes for eksempel i [Helsebiblioteket](https://www.helsebiblioteket.no/). 
