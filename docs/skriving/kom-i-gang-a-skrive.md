@@ -103,11 +103,11 @@ Hurtigskriving er en metode for å skrive en tenketekst; også her er målet å 
 - Etterpå leser du igjennom teksten din og strukturerer setningene
 - Skriv gjerne stikkord i margen og del teksten inn i mindre biter
 
-## Fra tema til problemstilling
+## Fra tema til problemformulering
 
-Det er flere måter å starte en skriveprosess på, men det kan være lurt å utarbeide en foreløpig problemstilling nokså tidlig. Noen er så heldige at de vet akkurat hva de vil undersøke før de begynner. De fleste må tenke, notere, gjøre litteratursøk og lese en del før de formulerer problemstillingen sin, og mange må justere den underveis.
+Det er flere måter å starte en skriveprosess på, men det kan være lurt å utarbeide en foreløpig problemstilling nokså tidlig. Noen er så heldige at de vet akkurat hva de vil undersøke før de begynner. Andre må gjerne tenke, notere, gjøre litteratursøk og lese en del før de formulerer en problemstilling eller et forskningsspørsmål, og ofte må man justere underveis.
 
-Når du arbeider med å forme en problemstilling, kan du gjerne starte med idémyldring. Skriv ned alle de spørsmålene og ideene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
+Arbeidet med å forme et problem eller spørsmål kan gjerne starte med idémyldring. Skriv ned alle de spørsmålene og ideene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
 
 ::: oppgave Øvelse 
 Skriv ned minst fem varianter av problemstillingen som opptar deg. 
@@ -115,9 +115,9 @@ Velg ut de to beste.
 Start på et nytt ark, og skriv fem varianter av de to. 
 Velg de to beste. 
 Skriv fem nye varianter. 
-Fortsett øvelsen til du har en problemformulering som virkelig sitter, og som lar seg besvare. 
+Fortsett øvelsen til du har en problemformulering som virkelig sitter, og lar seg besvare. 
 ::: 
 
-Se mer om problemformulering under **lenke** [oppbygning av en oppgave](/oppbygning-av-en-oppgave)
+Se mer om problemformulering under **lenke** [Oppbygning av en oppgave](/oppbygning-av-en-oppgave)
 
 
