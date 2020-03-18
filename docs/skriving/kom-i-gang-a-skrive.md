@@ -107,7 +107,17 @@ Hurtigskriving er en metode for å skrive en tenketekst; også her er målet å 
 
 Det er flere måter å starte en skriveprosess på, men det kan være lurt å utarbeide en foreløpig problemstilling nokså tidlig. Noen er så heldige at de vet akkurat hva de vil undersøke før de begynner. De fleste må tenke, notere, gjøre litteratursøk og lese en del før de formulerer problemstillingen sin, og mange må justere den underveis.
 
-Når du arbeider med å forme en problemstilling, kan du gjerne starte med en idémyldring. Skriv ned alle de spørsmålene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
+Når du arbeider med å forme en problemstilling, kan du gjerne starte med idémyldring. Skriv ned alle de spørsmålene og ideene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
 
-[Formuler problemstillingen din som et spørsmål](/skriving/struktur/oppbygning-av-en-oppgave/#12_Avgrensning_og_problemstilling). Ofte kalles problemstilling også forskningsspørsmål!
+::: oppgave Øvelse 
+Skriv ned minst fem varianter av problemstillingen som opptar deg. 
+Velg ut de to beste. 
+Start på et nytt ark, og skriv fem varianter av de to. 
+Velg de to beste. 
+Skriv fem nye varianter. 
+Fortsett øvelsen til du har en problemformulering som virkelig sitter, og som lar seg besvare. 
+::: 
+
+Se mer om problemformulering under **lenke** [oppbygning av en oppgave](/oppbygning-av-en-oppgave)
+
 
