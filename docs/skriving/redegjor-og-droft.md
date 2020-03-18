@@ -3,7 +3,15 @@ title: "Redegjør og drøft"
 date: "2017-08-07"
 ---
 
-# Redegjør og drøft
+# Argumentere, redegjøre, drøfte
+
+Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva er hovedpoenget, og hvordan vil du underbygge dette? Å argumentere i en tekst betyr å gjøre det klart _hva_ det er du hevder i teksten og _hva du bygger på_. Du skal med andre ord begrunne dine påstander. Filmen "Saying what you mean" er et eksempel på hvordan dette kan gjøres.
+
+<Video id="OWeAPxlxGnE" />
+
+En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**. Det vil si et utsagn om hvordan noe er (påstand) og hvorfor det er slik (begrunnelse). Denne definisjonen av argumentasjon vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. For å gjøre poenget tydelig, kan du gjerne gi et eksempel på det du nettopp har skrevet. I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) opp mot hverandre. En mer avansert argumentasjonsmodell finnes nederst på siden.
+
+## Redegjør og drøft 
 
 Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for i lys av noe annet. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen eller det kan være to ulike teorier/begreper som drøftes mot hverandre.
 
@@ -47,25 +55,23 @@ Du kan lese mer om forskjellige skrivehandlinger her: [redegjørelse, analyse, d
 
 ## Enkel argumentasjon: T-U-R-modellen
 
-En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**. Det vil si et utsagn om hvordan noe er (påstand) og hvorfor det er slik (begrunnelse). For å gjøre poenget tydelig, kan du gjerne gi et eksempel på det du nettopp har skrevet. I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) opp mot hverandre.
-
-Nedenfor følger en enkel «oppskrift» på argumentasjon. Husk da at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt eget uttrykk.
+Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt eget uttrykk.
 
 ### Tema - hva handler dette om?
 
-Det første som må klargjøres når du skal argumentere, er hva det handler om, altså temaet. Den første setningen i et avsnitt kan derfor gjerne være en «temasetning» som viser hva avsnittet dreier seg om. Temasetningen kan være en påstand, eller den kan lede opp mot en påstand som du deretter skal utdype og begrunne.
+Det første som må klargjøres når du skal argumentere, er hva det handler om, altså temaet. Den første setningen i et avsnitt bør derfor være en «temasetning» som viser hva avsnittet dreier seg om. Temasetningen kan være en påstand, eller den kan lede opp mot en påstand som du deretter skal utdype og begrunne.
 
 ### Utdypning - hvorfor er det slik?
 
-I en akademisk tekst må alle påstander underbygges og begrunnes. På engelsk brukes termen evidens. Evidens kan enten være empiri (forskningsdata, undersøkelser, fakta og utsagn som kan verifiseres) eller teoretiske begrunnelser. Påstander som ikke begrunnes, kan heller ikke drøftes, men faller under kategorien «synsing». I drøftingen er det nemlig som regel begrunnelsene som diskuteres - er de gode eller dårlige? Fins det andre mulige forklaringer? For å undersøke dette, kan det være veldig nyttig å vise til eksempler.
+I en akademisk tekst forventes det at påstander underbygges og begrunnes. På engelsk brukes termen evidens. Evidens kan enten være empiri (forskningsdata, undersøkelser, fakta og utsagn som kan verifiseres) eller teoretiske begrunnelser. Påstander som ikke er begrunnet, kan heller ikke drøftes, men faller under kategorien «synsing». I drøftingen er det nemlig som regel begrunnelsene som diskuteres - er de gode eller dårlige? Fins det andre mulige forklaringer? For å undersøke dette, kan det være veldig nyttig å vise til eksempler.
 
 ### Relevans - hva er dette eksempel på?
 
-Relevansen av et argument blir tydeligst når du bruker eksempler. Gjennom eksempler kan du vise hvordan du forstår temaet i praksis, og du kan få med nyanser som vekkes hos leseren i form av gjenkjennelse og assosiasjoner. Et velvalgt eksempel kan dermed spare deg for mye ekstra forklaring.
+Relevansen av et argument blir tydeligst når du bruker eksempler. Gjennom eksempler kan du vise hvordan du forstår temaet i praksis, og du kan få med nyanser som vekkes hos leseren i form av gjenkjennelse og assosiasjoner. Et velvalgt eksempel kan dermed spare deg for mye ekstra forklaring. En annen måte å vise relevans på, er ved å trekke slutninger. 
 
 ## Tema - Utdypning - Relevans
 
-Vi får da følgende formel: Tema, Utdypning og Relevans, T-U-R. Relevans-argumentet kan gjerne være et springbrett til neste avsnitt som igjen starter med et nytt tema. Dermed kan teksten bygges opp gjennom flere avsnitt som følger formelen
+Vi får da følgende formel: Tema, Utdypning og Relevans, T-U-R. Relevans-utsagnet i et avsnitt kan gjerne være et springbrett til neste avsnitt som igjen starter med et nytt tema. Dermed kan teksten bygges opp gjennom flere avsnitt som følger formelen
 
 T1-U-R
 
@@ -79,15 +85,6 @@ Mange av avsnittene på denne siden er eksempler på T-U-R.
 Les 5 avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som følger T-U-R-formelen.
 :::
 
-## Å argumentere i egen tekst
-
-Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva er hovedpoenget i teksten din, og hvordan vil du underbygge dette? Å argumentere i en tekst betyr å gjøre det klart _hva_ det er du hevder i teksten og _hva du bygger på_. Du skal med andre ord begrunne dine påstander.
-
-Den enkleste definisjonen av argumentasjon er nettopp "påstand + begrunnelse", og dette vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. Se for eksempel "[redegjør og drøft](/skriving/struktur/redegjor-og-droft/)", "[argumentasjon i tekst](/lesing/argumentasjon-i-tekst/)" og filmen "Saying what you mean".
-
-<Video id="OWeAPxlxGnE" />
-
-En mer avansert argumentasjonsmodell følger nedenfor.
 
 ### Argumentasjonens struktur
 
@@ -140,7 +137,7 @@ I hvilken grad er påstanden din sikker, sannsynlig eller mulig?
 Still spørsmål til det du selv skal skrive:
 
 1. Hva er hovedpåstanden din?
-2. Hva er argumentene dine, og hvordan vil du dokumentere påstanden din?
+2. Hva er argumentene dine, og hvordan vil du dokumentere påstanden?
 3. Hvilke undersøkelsemetoder vil du bruke?
 4. Hvilke innvendinger mot undersøkelsesmetoden ser du?
 5. Hvilken ryggdekning har metoden?
