@@ -21,7 +21,7 @@ Et vanlig råd er å legge seg et sted midt imellom, og skrive til en medstudent
 
 Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette er noen ganger nødvendig, men for mye passiv gjør teksten tung å lese. Dessuten trekker passivkonstruksjoner ofte med seg andre problemer, for eksempel lange rekker av preposisjonsuttrykk, som her: "… undersøkelse av spørsmål om reduksjon i forekomsten av ..."
 
-**Eksempel på passivkonstruksjon:** Det foretas stadig nye undersøkelser på dette området ved instituttet.
+**Eksempel på passivkonstruksjon:** Det foretas stadig nye undersøkelser ved instituttet på dette området.
 
 **Samme setning i aktiv form:** Instituttet foretar stadig nye undersøkelser på dette området. Eller: Instituttets forskere gjør stadig nye undersøkelser på dette området.
 Eller enda enklere: Instituttet forsker stadig på dette området.
@@ -56,7 +56,7 @@ Les noen sider fra en masteroppgave i ditt fag og merk av ordet "jeg". Identifis
 
 ## Å skape flyt
 
-Det er mange måter å skape flyt i en tekst. Dette kalles gjerne tekstbinding. Tekstbinding brukes til å skape de rette forventningene hos leseren: en "lesekontrakt" der leserens forventninger til oppgaven blir innfridd. Åpningen er spesielt viktig: den skal ikke love mer enn du kan holde, men heller ikke for lite. Kunsten er å vise at det som kommer er interessant, og at framstillingen er tilpasset innholdet. Nedenfor er noen eksempler på tekstbinding (NB: kategoriene er til dels overlappende):
+Det er mange måter å skape flyt i en tekst. Dette kalles gjerne for tekstbinding. Tekstbinding brukes til å skape de rette forventningene hos leseren: en "lesekontrakt" der leserens forventninger til oppgaven blir innfridd. Åpningen er spesielt viktig: den skal ikke love mer enn du kan holde, men heller ikke for lite. Kunsten er å vise at det som kommer er interessant, og at framstillingen er tilpasset innholdet. Nedenfor er noen eksempler på tekstbinding (NB: kategoriene er til dels overlappende):
 
 - **Disposisjon**: strukturert oversikt over innholdet
 - **Leserveiledninger**: tydeliggjør tekstens oppbygning. Hva kommer når, hva er hensikten med de ulike avsnittene osv. Eksempel: "Nå har jeg tatt for meg ... I kommende avsnitt vil jeg ...."
@@ -70,8 +70,9 @@ Prinsippet for tekstbinding er å hjelpe leseren til å se sammenhengen i tekste
 
 En god oppgave innfrir forventningene som skapes i starten, og svarer på problemstillingen.
 
-::: Vis/skjul-boks Akademisk ordbruk - noen vanlige feil 
-Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. Det kan ofte være en fordel å stryke adjektiver. For å få en ryddigere tekst kan det også være en fordel å kutte ut småord.
+
+::: details Akademisk ordbruk - tips og vanlige feil 
+Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. For å få en ryddigere tekst kan det også hjelpe å kutte ut ord som ikke tilfører noe til resonnementet, for eksempel adjektiver, adverb og småord.
 
 En god regel er å bruke vanlige ord som du er sikker på at du forstår. Unngå fremmedord dersom du kan bruke vanlige, norske ord som betyr det samme. Selv om en sensor ofte kan gjette seg fram til hva studenten ønsker å si, er det best å uttrykke seg presist.
 
