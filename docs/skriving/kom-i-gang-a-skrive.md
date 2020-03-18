@@ -5,9 +5,9 @@ date: "2012-05-16"
 
 # Kom i gang å skrive
 
-Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser som avløser hverandre: flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
+Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser som avløser hverandre: Flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
 
-Skriveprosessen består av faser som involverer idémyldring, lesing, informasjonssøk og problematisering. I en innledende fase trenger du kanskje å søke bredt for å orientere deg i feltet. Når du har kommet i gang med skrivingen vil du trolig måtte søke på nytt - denne gangen dypere og mer spesifikt med utgangspunkt i problemstillingen.
+Skriveprosessen består av faser som involverer idémyldring, lesing, informasjonssøk og problematisering. I en innledende fase trenger du kanskje å lese bredt for å orientere deg i feltet. Når du har kommet i gang med skrivingen vil du trolig måtte søke på nytt - denne gangen dypere og mer spesifikt med utgangspunkt i problemstillingen.
 
 Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord på - ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene faller på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
 
@@ -109,55 +109,5 @@ Det er flere måter å starte en skriveprosess på, men det kan være lurt å ut
 
 Når du arbeider med å forme en problemstilling, kan du gjerne starte med en idémyldring. Skriv ned alle de spørsmålene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
 
-:::: eksempel EKSEMPEL  
-La oss si temaet du er interessert i er miljøvennlighet som markedsføringsstrategi. Spørsmål du stiller innledningsvis kan for eksempel være: Lønner det seg for bedrifter å markedsføre seg som miljøvennlige? Hva skal til for at kundene opplever at en bedrift, vare eller tjeneste er miljøvennlig? Fører et nytt miljøvennlig produkt i produktporteføljen til at kundene også opplever at bedriftens øvrige produkter er mer miljøvennlige? Hva er effektene av å komme inn i en merkeordning? Hva gjør bedrifter for å framstå som miljøvennlige, og hvordan virker det? Hva vil det si at en bedrift er bærekraftig? Følger det noen spesiell etisk forpliktelse med slik markedsføring? Appellerer slik markedsføring til noen spesielle grupper? Hva kjennetegner miljøbevisste kunder? Er miljøbevisste forbrukere mer eller mindre kritiske enn andre? Er det samsvar mellom forbrukernes holdninger og de faktiske valgene deres? Hvordan endre konsumentenes miljøskadelige vaner? Hvordan påvirker konsumentenes personlige og sosiale identitet de valg de gjør av miljøvennlige produkter? Så gjør du [brede litteratursøk](/soking/planlegg-soket-dit/) for å orientere deg i faglitteraturen.
-
-::: details Mulige søkeord
-| NORSK                       | ENGELSK                                |
-|-----------------------------|----------------------------------------|
-| merkevare, merkevarebygging | branding                               |
-| kundeatferd                 | consumer behaviour                     |
-| kundetilfredshet            | satisfaction                           |
-| troverdighet/kredibilitet   | credibility                            |
-| tillit                      | trust                                  |
-| holdninger                  | attitudes                              |
-| vaner                       | habits                                 |
-| bærekraftig                 | sustainable                            |
-| grønn                       | green                                  |
-| økologisk                   | organic, ecological                    |
-| miljømerking                | eco-labelling, environmental labelling |
-| sertifikat, sertifisering   | certificate, certification             |
-| sosial identitet            | social identity                        |
-| segmentering                | segmentation                           |
-| ansvarlige bedrifter        | corporate social responsibility        |
-
-[Kombiner søkeordene dine i aktuelle databaser.](/soking/planlegg-soket-dit/#Kombiner_ulike_skeord)
-:::
-
-Når du har orientert deg i fagfeltet og [skumlest](/lesing/lesemater/) litt her og der, må du snevre inn temaet, og finne ditt fokus.
-
-**Tenk på:** Hva har du mest lyst til å jobbe med/finne ut mer om? Hvilke spørsmål er det mulig å besvare? Hva slags metoder kan du bruke? Hvor mye tid har du til rådighet? Hva er gjort før? Finnes det datagrunnlag, markedsundersøkelser e.l. eller må du lage noen selv? Skal du ta utgangspunkt i ett eller flere bestemte eksempel (case) – gode eller dårlige? Skal du begrense deg til ett bestemt marked/en produkttype?
-
-- Gjør mer [spesifikke litteratursøk i bibliotekets databaser](/soking/utdypende-sok)
-- Se/søk i kildelisten til sentrale artikler og bøker
-- Se på andre masteroppgaver
-- Snakk med andre: venner, medstudenter, foreleser, veileder – du vil ofte få nyttige (om enn ubehagelige) spørsmål og innvendinger, og det kan hjelpe deg å tenke gjennom ting på nytt
-
 [Formuler problemstillingen din som et spørsmål](/skriving/struktur/oppbygning-av-en-oppgave/#12_Avgrensning_og_problemstilling). Ofte kalles problemstilling også forskningsspørsmål!
 
-Eksempler på overordnede forskningsspørsmål kan være:
-
-- Lønner det seg for bedrifter å markedsføre seg som miljøvennlige?
-- Hva kjennetegner god/vellykket, grønn markedsføring?
-- Hva kjennetegner miljøbevisste forbrukere?
-- Hvordan endre kundenes atferd i retning mer miljøvennlig konsum?
-
-Som regel er det nødvendig å spesifisere akkurat hva det er du vil undersøke i ett eller flere underspørsmål. Det kan for eksempel være ett av disse:
-
-- Har miljøvennlige bedrifter bedre lønnsomhet og mer positiv aksjekursutvikling enn andre bedrifter?
-- Hvilke effekter har det på kundeatferd å appellere til sosiale normer i markedsføring av miljøvennlige produkter?
-- Hvilke effekter har vaner og holdninger på konsum av grønne produkter?
-- Hva kjennetegner kundegruppene hvor grønn markedsføring synes å ha størst appell?
-- Hvorfor oppfattes bedrift A som mer troverdig enn bedrift B i miljøspørsmål?
-- Hvilken effekt har «miljømerking» (f.eks. Miljøfyrtårn, Svanemerket, EU Ecolabel) på kunders holdninger og atferd?
-::::
