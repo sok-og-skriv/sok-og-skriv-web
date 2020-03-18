@@ -5,7 +5,7 @@ date: "2012-05-04"
 
 # Akademisk språk og stil
 
-Akademisk språk er klart, entydig, nøkternt og objektivt. Idealet om objektivitet kan misforstås; at noe er "objektivt" betyr ikke nødvendigvis at man unnlater å ta stilling, men at man viser hva man bygger sine standpunkter på ([argumentasjon](/skriving/struktur/a-argumenterere-i-egen-tekst/)). Dette skiller argumentasjon fra såkalt "synsing".
+Akademisk språk er klart, entydig, nøkternt og objektivt. Idealet om objektivitet kan misforstås - at noe er "objektivt" betyr ikke nødvendigvis at man unnlater å ta stilling, men at man viser hva man bygger sine standpunkter på. Dette skiller argumentasjon fra såkalt "synsing".
 
 Når man er uerfaren kan det være fristende å pynte på språket ved å bruke kompliserte uttrykksformer og fremmedord, men som regel er det bedre å unngå fremmedord når vanlige ord er like presise. Tenkere som har blitt klassikere, har gjerne en enkel og likefram stil. Nettopp derfor blir de lest av mange, uavhengig av tidens konvensjoner.
 
@@ -13,19 +13,18 @@ En del akademiske tekster er likevel - nødvendigvis - krevende å lese; dels fo
 
 ## Stilnivå: Hvem skriver du for?
 
-Hvor mye kan du forutsette at leseren allerede vet, og hvor mye må må du forklare og definere? Skal du skrive for veilederen din, eller for "alle"?
+Hvor mye kan du forutsette at leseren allerede vet, og hvor mye må du forklare og definere? Skal du skrive for veilederen din, eller for "alle"?
 
 Et vanlig råd er å legge seg et sted midt imellom, og skrive til en medstudent.
 
 ## Aktiv – passiv
 
-Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette er noen ganger nødvendig, men for mye passiv gjør teksten tung å lese. Dessuten trekker passivkonstruksjoner ofte med seg andre problemer, for eksempel lange rekker av preposisjonsuttrykk, som her: "_… undersøkelse av spørsmål om reduksjon i forekomsten av ..."_
+Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette er noen ganger nødvendig, men for mye passiv gjør teksten tung å lese. Dessuten trekker passivkonstruksjoner ofte med seg andre problemer, for eksempel lange rekker av preposisjonsuttrykk, som her: "… undersøkelse av spørsmål om reduksjon i forekomsten av ..."
 
-**Eksempel på passivkonstruksjon:** Det foretas stadig nye undersøkelser på dette området av instituttet.
+**Eksempel på passivkonstruksjon:** Det foretas stadig nye undersøkelser på dette området ved instituttet.
 
 **Samme setning i aktiv form:** Instituttet foretar stadig nye undersøkelser på dette området. Eller: Instituttets forskere gjør stadig nye undersøkelser på dette området.
-
-Eller: Instituttet forsker stadig på dette området.
+Eller enda enklere: Instituttet forsker stadig på dette området.
 
 Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. Dette er vanlig å gjøre i beskrivelsen av forskningsmetoder der resultatene skal kunne reproduseres uavhengig av hvem som gjør undersøkelsen. Det er imidlertid en vanlig misforståelse å tro at en setning i passiv form er mer objektiv fordi man unngår ordet "jeg" eller "vi". Her, som ellers, er det fornuftig å variere. For mye passiv form blir tunglest, byråkratisk og ”mystifiserende”, men for mye aktiv form kan også bli slitsomt. Det er ikke alltid vi trenger å minnes om forskernes personer gjennom bruk av ”jeg” eller ”vi”.
 
@@ -71,7 +70,7 @@ Prinsippet for tekstbinding er å hjelpe leseren til å se sammenhengen i tekste
 
 En god oppgave innfrir forventningene som skapes i starten, og svarer på problemstillingen.
 
-::: warning Ordbruk - noen vanlige feil 
+::: Vis/skjul-boks Akademisk ordbruk - noen vanlige feil 
 Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. Det kan ofte være en fordel å stryke adjektiver. For å få en ryddigere tekst kan det også være en fordel å kutte ut småord.
 
 En god regel er å bruke vanlige ord som du er sikker på at du forstår. Unngå fremmedord dersom du kan bruke vanlige, norske ord som betyr det samme. Selv om en sensor ofte kan gjette seg fram til hva studenten ønsker å si, er det best å uttrykke seg presist.
