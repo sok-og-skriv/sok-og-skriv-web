@@ -111,13 +111,16 @@ Arbeidet med å forme et problem eller spørsmål kan gjerne starte med idémyld
 
 ::: oppgave Øvelse 
 Skriv ned minst fem varianter av problemstillingen som opptar deg. 
-Velg ut de to beste. 
-Start på et nytt ark, og skriv fem varianter av de to. 
-Velg de to beste. 
-Skriv fem nye varianter. 
++Velg ut de to beste.
+
++Start på et nytt ark, og skriv fem varianter av de to. 
+  Velg de to beste. 
+
++Skriv fem nye varianter på nytt ark. 
+  
 Fortsett øvelsen til du har en problemformulering som virkelig sitter, og lar seg besvare. 
 ::: 
 
-Se mer om problemformulering under **lenke** [Oppbygning av en oppgave](/oppbygning-av-en-oppgave)
+Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave)
 
 
