@@ -13,11 +13,11 @@ Oppgaver bygget over IMRaD-modellen er gjerne knappe og konsise. Språket er nø
 
 ## Introduksjon
 
-Introduksjonen (eller bedre, innføringen) viser at du kjenner fagfeltet og tidligere forskning. Den inneholder gjerne:
+Introduksjonen (eller innføringen) viser at du kjenner fagfeltet og tidligere forskning. Den inneholder gjerne:
 
-- Oppsummering av tidligere forskning på temaet
-- Problemstilling, hypotese eller forskningsspørsmål 
 - Innføring i feltet, situasjonen eller rådende praksis
+- Oppsummering av tidligere forskning på temaet
+- Problemformulering, eventuelt hypotese eller forskningsspørsmål 
 - Formål eller hensikt
 
 Innføringen skal gjøre rede for _hva vi vet, og hva vi lurer på_. Den skal redegjøre og oppsummere, men også stille spørsmål, belyse, sammenligne osv. _Alt du skriver her, skal bygge opp under din problemstilling._
