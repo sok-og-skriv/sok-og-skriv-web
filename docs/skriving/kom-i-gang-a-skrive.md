@@ -7,20 +7,19 @@ date: "2012-05-16"
 
 Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser som avløser hverandre: Flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
 
-Skriveprosessen består av faser som involverer idémyldring, lesing, informasjonssøk og problematisering. I en innledende fase trenger du kanskje å lese bredt for å orientere deg i feltet. Når du har kommet i gang med skrivingen vil du trolig måtte søke på nytt - denne gangen dypere og mer spesifikt med utgangspunkt i problemstillingen.
+Skriveprosessen består av sykler og veksling mellom ulike faser, som idémyldring, fordypning, grubling, informasjonssøk og tekstproduksjon. Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord på - ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene faller på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
 
-Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord på - ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene faller på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
-
+::: tip Ikke utsett skrivingen
 Mange uerfarne skribenter tror at de ikke kan begynne skrive før de har skaffet seg fullstendig klarhet og oversikt. De tror kanskje at gode tekster oppstår ved at man plasserer perfekte setninger etter hverandre. En slik tilnærming fører til at det tar altfor lang tid å komme i gang. I virkeligheten må de aller fleste skrive teksten sin om igjen - opptil flere ganger. Å skrive godt, er ofte å skrive om.
-
-* Snakk med medstudenter om oppgaven du skal skrive
-* Lag [skrivegrupper](/skriving/skrivegrupper) for å holde skriveprosessen i gang, både din egen og andres.
+::: 
 
 Som student drives du ofte fram av et "hvorfor?". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre. Hun utforsker et fenomen, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.
 
 <Video id="FOwhrXNnHNI" />
 
+::: tip Skrivesnakk 
 Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan være veldig klargjørende å sette ord på ideene dine. Hvorfor synes du at dette temaet er interessant? Hvilke problemstillinger ser du for deg? Hvordan kan problemstillingen(e) besvares? Hva ser du for deg at du vil komme fram til? Å presentere utkast for [medstudenter](?p=1216) er også en utmerket måte å komme i gang på.
+:::
 
 ## Tenk og skriv
 
