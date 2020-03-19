@@ -16,7 +16,6 @@ module.exports = {
   '/skriving/': [
     '',
     'kom-i-gang-a-skrive',
-    'skrivegrupper',
     'struktur-og-argumentasjon',
     'oppbygning-av-en-oppgave',
     'redegjor-og-droft',
