@@ -87,7 +87,7 @@ Disposisjonen over oppgaven kan gjerne komme på slutten av innledningen, men he
 
 Teorien i en empirisk oppgave skal belyse empirien på en spesiell - vitenskapelig - måte. Den skal få fram noe som hverdagsbetraktninger ikke gjør. Hovedhensikten med teori er å bruke den i analysen eller tolkningen av et datamateriale. Dette betyr at du _ikke_ må redegjøre for teori som du ikke skal bruke til noe. Dette skaper falske forventninger hos leseren, og gir inntrykk av at du ikke har kommet i havn.
 
-Ikke alle oppgaver har en egen teoridel. I [IMRaD-](?p=1226)modellen er det tidligere forskning som tar teoriens plass, som del av introduksjonen. Da blir metodekapitlet nummer to.
+Ikke alle oppgaver har en egen teoridel. I [IMRaD-](?p=1226)modellen er det tidligere forskning som tar teoriens plass, som del av introduksjonen. 
 
 **Hva slags teori bør du velge?** Siden teorien danner et grunnlag for å analysere dataene, kan det være nyttig å velge teori som gjør det mulig å skille og plassere fenomener i ulike kategorier. Men det finnes også teori som får fram flere nyanser ved et fenomen enn det vi får gjennom hverdagslige betraktninger. Du kan altså velge å enten redusere kompleksiteten i datamaterialet, eller å utvikle det som i utgangspunktet virker enkelt.
 
