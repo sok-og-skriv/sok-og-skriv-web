@@ -54,14 +54,7 @@ Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med 
 :::
 
 
-**Skriv tre forskjellige åpninger til din oppgave ved bruk av ulike litterære virkemidler (se eksemplene ovenfor), for eksempel:**
 
-a) en åpning som "setter scenen" ved hjelp av et bilde  
-b) en historisk tilnærming til fenomenet du skal diskutere og  
-c) aktualisering ved hjelp av en mediesak
-
-Se hvordan de ulike åpningene inspirerer deg, og velg den tilnærmingen som virker mest riktig for ditt tema. Vil du for eksempel vekke følelser, eller være mest mulig nøytral? Hvor viktig er den historiske bakgrunnen? Denne øvelsen kan gjerne gjøres i smågrupper eller to og to. Diskutér hva som gjør en åpning god eller mindre egnet. Hvordan kan åpningen kaste lys over det som skal komme; hvilke forventninger skapes hos leseren?
-:::
 
 ### Avgrensning og problemstilling
 
