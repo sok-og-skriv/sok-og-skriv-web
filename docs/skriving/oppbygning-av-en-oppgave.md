@@ -58,7 +58,11 @@ Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med 
 
 ### Avgrensning og problemstilling
 
-Noe av det første man må gjøre som forsker er å avgrense undersøkelsens **område** (tema, felt) og **omfang** (mengden informasjon). Ofte kan det ta lang tid å få avgrenset nok. Det kan virke merkelig at jo mer man avgrenser, jo mer spennende blir problemstillingen. Jo smalere du definerer undersøkelsens område, jo dypere kan du gå, mens en mer omfattende problemstilling (eller forskningsspørsmål) bare tillater en overflatisk behandling av temaet.
+Noe av det første man må gjøre som forsker er å avgrense undersøkelsens **område** (tema, felt) og **omfang** (mengden informasjon). Ofte kan det ta lang tid å få avgrenset nok. Det kan virke merkelig at jo mer man avgrenser, jo mer spennende blir gjerne problemstillingen. Jo smalere du definerer undersøkelsens område, jo dypere kan du gå, mens en mer omfattende problemstilling bare tillater en overflatisk behandling av temaet. 
+
+::: tip Tips: 
+Undersøk det minste/smaleste problemet som fortsatt er interessant. Du kan alltids utvide undersøkelsen hvis det blir nødvendig. Det motsatte - å begrense et prosjekt som har startet for vidt - er mye mer krevende. 
+::: 
 
 Problemstillingen kan gjerne formuleres som et hovedspørsmål som konkretiseres i ett eller flere forskningsspørsmål, eller en hypotese som skal testes.
 
