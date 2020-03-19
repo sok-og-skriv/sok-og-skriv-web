@@ -87,7 +87,7 @@ Disposisjonen over oppgaven kan gjerne komme på slutten av innledningen, men he
 
 Teorien i en empirisk oppgave skal belyse empirien på en spesiell - vitenskapelig - måte. Den skal få fram noe som hverdagsbetraktninger ikke gjør. Hovedhensikten med teori er å bruke den i analysen eller tolkningen av et datamateriale. Dette betyr at du _ikke_ må redegjøre for teori som du ikke skal bruke til noe. Dette skaper falske forventninger hos leseren, og gir inntrykk av at du ikke har kommet i havn.
 
-Ikke alle oppgaver har en egen teoridel. I [IMRoD-](?p=1226)modellen er det tidligere forskning som tar teoriens plass, som del av introduksjonen. Da blir metodekapitlet kapittel nr. 2.
+Ikke alle oppgaver har en egen teoridel. I [IMRaD-](?p=1226)modellen er det tidligere forskning som tar teoriens plass, som del av introduksjonen. Da blir metodekapitlet nummer to.
 
 **Hva slags teori bør du velge?** Siden teorien danner et grunnlag for å analysere dataene, kan det være nyttig å velge teori som gjør det mulig å skille og plassere fenomener i ulike kategorier. Men det finnes også teori som får fram flere nyanser ved et fenomen enn det vi får gjennom hverdagslige betraktninger. Du kan altså velge å enten redusere kompleksiteten i datamaterialet, eller å utvikle det som i utgangspunktet virker enkelt.
 
@@ -106,7 +106,7 @@ Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner s
 
 ## Analyse
 
-Sammen med drøftingen er analysen oppgavens høydepunkt. I [IMRoD-modellen](?p=1226) kalles denne delen for resultater. Her redegjør du for funn, og behandler disse på en systematisk - metodisk - måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
+Sammen med drøftingen er analysen oppgavens høydepunkt. I [IMRaD-modellen](?p=1226) kalles denne delen for resultater. Her redegjør du for funn, og behandler disse på en systematisk - metodisk - måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
 
 Å analysere betyr å skille mellom ulike fenomener - likt fra ulikt. Ved å skille mellom fenomener, setter du teorien i arbeid. Men akkurat hvordan selve analysen skal se ut, er et metodespørsmål. Det kan ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. Se gjerne på tidligere masteroppgaver for inspirasjon og eksempler.
 
@@ -116,14 +116,14 @@ NB: Ikke alle oppgaver har et eget kapittel for analyse: det kan også være akt
 
 ## Drøfting
 
-I mange oppgaver er drøftingen det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Her har du anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
+I mange oppgaver er drøftingen (eller diskusjonen) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Her har du anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
 
 En drøfting består av argumentasjon; det vil si å undersøke et fenomen fra flere sider. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på formuleringer som signaliserer drøfting:
 
 - På den ene siden .. og på den andre
-- Men er det virkelig slik at ...
-- ... eller kan det også tenkes ... ?
+- Men er det virkelig slik at ... eller kan det også ... ?
 - ... en annen mulig forklaring kan være ...
+- ... i lys av x, kan det se ut til at ... 
 
 ## Avslutning
 
