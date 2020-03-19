@@ -61,14 +61,14 @@ Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med 
 Noe av det første man må gjøre som forsker er å avgrense undersøkelsens **område** (tema, felt) og **omfang** (mengden informasjon). Ofte kan det ta lang tid å få avgrenset nok. Det kan virke merkelig at jo mer man avgrenser, jo mer spennende blir gjerne problemstillingen. Jo smalere du definerer undersøkelsens område, jo dypere kan du gå, mens en mer omfattende problemstilling bare tillater en overflatisk behandling av temaet. 
 
 ::: tip Tips: 
-Undersøk det minste/smaleste problemet som fortsatt er interessant. Du kan alltids utvide undersøkelsen hvis det blir nødvendig. Det motsatte - å begrense et prosjekt som har startet for vidt - er mye mer krevende. 
+Ta for deg det minste - eller smaleste - problemet som _fortsatt er interessant_. Du kan alltids utvide undersøkelsen hvis det blir nødvendig. Det motsatte - å begrense et prosjekt som begynte for vidt - er mye mer krevende. 
 ::: 
 
-Problemstillingen kan gjerne formuleres som et hovedspørsmål som konkretiseres i ett eller flere forskningsspørsmål, eller en hypotese som skal testes.
+Problemstillingen kan gjerne formuleres som ett hovedspørsmål som konkretiseres i flere forskningsspørsmål, eller en hypotese som skal testes. En annen variant er en tese/hovedpåstand som senere underbygges ved hjelp av lesninger og argumentasjon (vanlig i litteratur- og kulturfag). 
 
-Problemstillingen leder deg framover i oppgaveskrivingen. Dersom du arbeider i et frittstående prosjekt, kan du også endre den underveis.
+Problemformuleringen leder deg framover i oppgaveskrivingen. Dersom du arbeider i et frittstående prosjekt, kan du også endre den underveis.
 
-Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling - og et forskningsspørsmål - noe som kan _besvares_. Hvis den ikke kan besvares, er det snakk om et tema eller et felt.
+Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling - på samme måte som et forskningsspørsmål - noe som kan _besvares_. Hvis den ikke kan besvares, er det snakk om et tema eller et felt.
 
 ::: tip Tips:
 
