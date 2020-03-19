@@ -134,14 +134,15 @@ Avslutningen på en oppgave kan være av forskjellige slag. Noen oppgaver krever
 Et forskningsspørsmål som er åpent stilt, kan ikke alltid besvares, men hvis spørsmålet kan besvares i bestemt form, _må_ du konkludere. Konklusjonen skal altså svare på problemstillingen, men husk at en negativ konklusjon også er gyldig.
 
 En god oppsummering gjentar de viktigste momentene fra oppgaven, ikke minst drøftingen, men sier dem på en ny måte, for eksempel ved å sette dem inn i en større sammenheng eller perspektiv. 
-U
+
 
 ::: tip Tips til perspektivering
-nder arbeidet med oppgaven kan det ha det dukket opp nye problemstillinger og interessant litteratur som du kunne ha fulgt opp, men som falt utenfor rammen av prosjektet. Her er noen forslag til hvordan du kan vise til det du _ikke_ har kunnet gå inn på: 
+Under arbeidet med oppgaven kan det ha det dukket opp nye problemstillinger og interessant litteratur som du kunne ha fulgt opp, men som falt utenfor rammen av prosjektet. Her er noen forslag til hvordan du kan vise til det du _ikke_ har kunnet gå inn på: 
 - Pek på nye problemstillinger som du har kommet over gjennom arbeidet 
 - Vis til hvordan andre har belyst temaet i en annen kontekst
 - Om andre har kommet fram til andre konklusjoner enn du selv, kan dette gi ideer om nye måter å se problemet på
 - Ta fatt i ubesvarte spørsmål fra ditt eget prosjekt, og pek på mulig oppfølging og nye, potensielle prosjekter
+:::
 
 ### Oppgaven "biter seg selv i halen"
 
