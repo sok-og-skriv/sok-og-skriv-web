@@ -13,7 +13,7 @@ Når det gjelder innholdet i de ulike kapitlene, se også [argumentere, redegjø
 
 Sammendraget er ofte det første som blir lest. Her kan du vekke leserens interesse. Sammendraget skal gi et overblikk over hovedinnholdet, som hva du har undersøkt, forskningsspørsmål, funn og konklusjon, men det trenger ikke dekke alle aspekter ved oppgaven. Hovedsaken er å gi en god idé om hva oppgaven handler om.
 
-Sammendraget skrives gjerne til slutt, når du vet hva du faktisk har skrevet. Det er likevel greit å ha et utkast å arbeide med underveis. Sammendrag kan være krevende å skrive, fordi du bare kan ta med hovedpoengene i arbeidet ditt. Men nettopp derfor er det veldig nyttig å arbeide med sammendraget - da tvinges du til å finne ut hva du egentlig holder på med.
+Sammendraget skrives gjerne til slutt, når du vet hva du faktisk har skrevet. Det er likevel greit å ha et utkast å arbeide med underveis. Sammendrag kan være krevende å skrive, fordi du bare kan ta med hovedpoengene i arbeidet ditt. Nettopp derfor er det veldig nyttig å arbeide med sammendraget - da tvinges du til å finne ut hva du egentlig holder på med.
 
 Forordet har ingen spesielle konvensjoner, men det er vanlig å takke veiledere, informanter og andre som har vært til hjelp og støtte under arbeidet. Dersom du har fått stipender eller hatt forskningsopphold skal disse instansene også takkes.
 
@@ -131,21 +131,18 @@ En drøfting består av argumentasjon; det vil si å undersøke et fenomen fra f
 
 Avslutningen på en oppgave kan være av forskjellige slag. Noen oppgaver krever en konklusjon, mens andre kan greie seg med en oppsummering. Problemstillingen og forskningsspørsmålene er avgjørende.
 
-Åpne forskningsspørsmål kan ikke alltid besvares, men hvis spørsmålet kan besvares i bestemt form, _må_ det konkluderes. Konklusjonen skal altså svare på problemstillingen. Husk at en negativ konklusjon også er gyldig.
+Et forskningsspørsmål som er åpent stilt, kan ikke alltid besvares, men hvis spørsmålet kan besvares i bestemt form, _må_ du konkludere. Konklusjonen skal altså svare på problemstillingen, men husk at en negativ konklusjon også er gyldig.
 
-En oppsummering skal gjenta de viktigste momentene fra oppgaven (særlig drøftingen), men gjerne sagt på en ny måte, for eksempel ved å sette dem inn i en større sammenheng, der du setter oppgaven din inn i et større perspektiv.
+En oppsummering skal gjenta de viktigste momentene fra oppgaven (særlig drøftingen), men gjerne si dem på en ny måte, for eksempel ved å sette dem inn i en større sammenheng eller perspektiv. 
+Under arbeidet med oppgaven kan det ha det dukket opp nye problemstillinger og interessant litteratur som du kunne ha fulgt opp, men som falt utenfor rammen av prosjektet. Her er noen forslag til hvordan du kan vise til det du _ikke_ har kunnet gå inn på: 
 
-### Perspektivering
-
-I avslutningen bør du sette oppgaven i et større (faglig) perspektiv og peke på mulige veier videre. Under arbeidet med oppgaven kan det ha det dukket opp nye problemstillinger og interessant litteratur som du kunne ha fulgt opp, men som falt utenfor rammen av prosjektet.
-
-- Bruk andres perspektiv på ditt eget materiale. Da vil du lettere kunne se ting du ikke fikk med deg i utarbeidelsen av prosjektet
 - Pek på andre problemstillinger enn dine egne, som du kom over i kildematerialet som ble benyttet til prosjektet
-- Vis hvordan andre har sett temaet i en større sammenheng
+- Vis til hvordan andre har belyst temaet i en annen sammenheng
 - Om andre har kommet fram til andre konklusjoner enn du selv, vil dette gi en idé om nye måter å se problemet på
-- Ta fatt i ubesvarte spørsmål fra ditt eget prosjekt
-- Pek på mulige oppfølginger og nye potensielle prosjekt
+- Ta fatt i ubesvarte spørsmål fra ditt eget prosjekt, og pek på mulige oppfølginger og nye potensielle prosjekter
 
 ### Oppgaven "biter seg selv i halen"
 
-Det må være god sammenheng mellom innledningen og avslutningen. Temaer og spørsmål som reises i innledningen må gjenfinnes i avslutningen. Dersom det viser seg at oppgaven likevel ikke har berørt et tema fra innledningen, må det heller strykes. En elegant måte å strukturere teksten på er å bruke samme "bilde", case eller fortelling i begynnelsen og slutten. Når dette bildet vender tilbake i avslutningen, har det fått en ny betydning gjennom innsiktene/erkjennelsen som har oppstått i løpet av skrivearbeidet.
+Det må være god sammenheng mellom innledningen og avslutningen. Temaer og spørsmål som reises i innledningen skal kunne gjenfinnes i avslutningen. Dersom det viser seg at oppgaven likevel ikke har berørt et tema fra innledningen, må det heller strykes. En elegant måte å strukturere teksten på er å bruke samme "bilde", case eller fortelling i begynnelsen og slutten. Når dette bildet vender tilbake i avslutningen, har det fått en ny betydning gjennom innsiktene/erkjennelsen som har oppstått i løpet av skrivearbeidet.
+
+Lykke til! 
