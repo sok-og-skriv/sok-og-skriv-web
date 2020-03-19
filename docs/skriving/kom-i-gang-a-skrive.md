@@ -81,7 +81,7 @@ Mangler du penn og papir, har du kanskje en mobil i hånden. Skriv ideen du fikk
 ::: tip Tips:
 - Bruk farger for å markere temaer og relasjoner, og for å framheve tanker
 - Bruk bilder eller symboler
-- Bruk små bokstaver. Små bokstaver leses og huskes bedre enn store bokstaver
+- Bruk små bokstaver (minuskler). Små bokstaver leses og huskes bedre enn store
 :::
 
 
@@ -97,14 +97,14 @@ En tenketekst er en privat og kreativ tekst som kan hjelpe deg i gang med skrive
 
 Hurtigskriving er en metode for å skrive en tenketekst; også her er målet å få i gang skriveprosessen.
 
-- Skriv et sentralt ord fra oppgaven din som overskrift
-- Skriv uten stans mellom 10-30 minutter uten å løfte fingrene fra tastaturet- eller pennen fra papiret
-- Etterpå leser du igjennom teksten din og strukturerer setningene
-- Skriv gjerne stikkord i margen og del teksten inn i mindre biter
+- Skriv et tema du vil undersøke som overskrift
+- Skriv uten stans mellom 10-30 minutter uten å løfte fingrene fra tastaturet eller pennen fra papiret
+- Etterpå leser du igjennom teksten din, streker under nøkkelmomenter og begynner å strukturere ideer
+- Del gjerne teksten inn i mindre biter med mellomoverskrifter 
 
 ## Fra tema til problemformulering
 
-Det er flere måter å starte en skriveprosess på, men det kan være lurt å utarbeide en foreløpig problemstilling nokså tidlig. Noen er så heldige at de vet akkurat hva de vil undersøke før de begynner. Andre må gjerne tenke, notere, gjøre litteratursøk og lese en del før de formulerer en problemstilling eller et forskningsspørsmål, og ofte må man justere underveis.
+Noen er så heldige at de vet akkurat hva de vil undersøke før de begynner. Andre må gjerne tenke, notere, gjøre litteratursøk og lese en del før de formulerer en problemstilling eller et forskningsspørsmål, og ofte må man justere underveis. Det er flere måter å starte en skriveprosess på, men det kan være lurt å utarbeide en foreløpig problemstilling tidlig. 
 
 Arbeidet med å forme et problem eller spørsmål kan gjerne starte med idémyldring. Skriv ned alle de spørsmålene og ideene du kommer på – det å være kritisk og luke ut kommer etter hvert. Når du orienterer deg i emnet, blir du gradvis i stand til å stille mer presise spørsmål. Kanskje dukker det opp nye spørsmål og vinkler du ikke hadde tenkt på. Tenk og kjenn etter: Hva interesserer deg? Hva engasjerer deg mest? Formuler dette i fulle setninger som senere kan danne utgangspunkt for en innledning.
 
