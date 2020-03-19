@@ -13,7 +13,7 @@ Når det gjelder innholdet i de ulike kapitlene, se også [argumentere, redegjø
 
 Sammendraget er ofte det første som blir lest. Her kan du vekke leserens interesse. Sammendraget skal gi et overblikk over hovedinnholdet, som hva du har undersøkt, forskningsspørsmål, funn og konklusjon, men det trenger ikke dekke alle aspekter ved oppgaven. Hovedsaken er å gi en god idé om hva oppgaven handler om.
 
-Sammendraget skrives gjerne til slutt, når du vet hva du faktisk har skrevet. Det er likevel greit å ha et utkast som du arbeider med underveis. Sammendrag kan være krevende å skrive, fordi du bare kan ta med hovedpoengene i arbeidet ditt. Men nettopp derfor er det veldig nyttig å arbeide med sammendraget - da tvinges du til å finne ut hva du egentlig holder på med.
+Sammendraget skrives gjerne til slutt, når du vet hva du faktisk har skrevet. Det er likevel greit å ha et utkast å arbeide med underveis. Sammendrag kan være krevende å skrive, fordi du bare kan ta med hovedpoengene i arbeidet ditt. Men nettopp derfor er det veldig nyttig å arbeide med sammendraget - da tvinges du til å finne ut hva du egentlig holder på med.
 
 Forordet har ingen spesielle konvensjoner, men det er vanlig å takke veiledere, informanter og andre som har vært til hjelp og støtte under arbeidet. Dersom du har fått stipender eller hatt forskningsopphold skal disse instansene også takkes.
 
@@ -21,7 +21,7 @@ Forordet har ingen spesielle konvensjoner, men det er vanlig å takke veiledere,
 
 ## Innledning
 
-Innledningen skal både gi oversikt over oppgaven som helhet, og være en appetittvekker for leseren. Det kan være lurt å gå gjennom innledningen helt til slutt, slik at det blir god sammenheng mellom den og avslutningen (konklusjonen).
+Innledningen skal både gi oversikt over oppgaven som helhet og være en appetittvekker for leseren. Det kan være lurt å gå gjennom innledningen helt til slutt, slik at det blir god sammenheng mellom den og avslutningen (konklusjonen).
 
 ::: tip Tips
 En elegant vri er å bruke samme stilgrep på innledning og konklusjon, for eksempel et "bilde" som presenteres på én måte i innledningen, og som vender tilbake til i avslutningen, men denne gang med et annet - rikere eller annerledes - perspektiv.
@@ -57,7 +57,7 @@ EKSEMPEL:
 Forskjellige måter å åpne en oppgave eller artikkel. Som inngang til en lengre tekst kan du blant annet bruke oppsummering, historisering, henvisning til en kjent hendelse, aktualisering og leserhenvendelse.
 
 ::: eksempel Oppsummering
-«Forsøk med spesielt tilrettelagt undervisning i full klasse har vist at …». «Flere studier av makt i organisasjoner har fokusert på … ». I disse konstruerte eksemplene brukes oppsummeringen som bakgrunn.
+«Forsøk med spesielt tilrettelagt undervisning i full klasse har vist at … ». «Flere studier av makt i organisasjoner har fokusert på … ». I disse konstruerte eksemplene brukes oppsummeringen som bakgrunn.
 :::
 
 ::: eksempel Historikk
@@ -69,7 +69,7 @@ Forskjellige måter å åpne en oppgave eller artikkel. Som inngang til en lengr
 :::
 
 ::: eksempel Aktualisering av tema
-"I forbindelse med det norske TV-programmet Hjernevask har forholdet mellom arv og miljø igjen fått stor oppmerksomhet i offentligheten. Dette temaet er ikke nytt, men har en lang historie i psykologifaget såvel som i skjønnlitteraturen". Klassisk diskusjon aktualiseres ved hjelp av en nyere hendelse.
+"I forbindelse med det norske TV-programmet Hjernevask har forholdet mellom arv og miljø igjen fått stor oppmerksomhet i offentligheten. Dette temaet er ikke nytt, men har en lang historie i psykologifaget så vel som i skjønnlitteratur". Klassisk diskusjon aktualiseres ved hjelp av en nyere hendelse.
 :::
 
 ::: eksempel Leserhenvendelse
@@ -87,7 +87,7 @@ Adorno, Th. W.,(1991) Tale om lyrikk og samfunn. I: Kittang, A., Melberg, A. og
 
 a) en åpning som "setter scenen" ved hjelp av et bilde  
 b) en historisk tilnærming til fenomenet du skal diskutere og  
-c) aktualisering ved hjelp av en mediesak.
+c) aktualisering ved hjelp av en mediesak
 
 Se hvordan de ulike åpningene inspirerer deg, og velg den tilnærmingen som virker mest riktig for ditt tema. Vil du for eksempel vekke følelser, eller være mest mulig nøytral? Hvor viktig er den historiske bakgrunnen? Denne øvelsen kan gjerne gjøres i smågrupper eller to og to. Diskutér hva som gjør en åpning god eller mindre egnet. Hvordan kan åpningen kaste lys over det som skal komme; hvilke forventninger skapes hos leseren?
 :::
