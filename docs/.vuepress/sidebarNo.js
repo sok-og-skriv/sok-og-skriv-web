@@ -10,6 +10,7 @@ module.exports = {
     'lesemater',
     'lesing-og-skriving',
     'kollokvie',
+    'skrivegrupper',
     'argumentasjon-i-tekst',
     'akademiske-sjangrer'
   ],
