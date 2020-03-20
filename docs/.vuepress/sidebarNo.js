@@ -10,13 +10,14 @@ module.exports = {
     'lesemater',
     'lesing-og-skriving',
     'kollokvie',
+    'skrivegrupper',
     'argumentasjon-i-tekst',
     'akademiske-sjangrer'
   ],
   '/skriving/': [
     '',
     'kom-i-gang-a-skrive',
-    'skrivegrupper',
+    'struktur',
     'oppbygning-av-en-oppgave',
     'imrad-modellen',
     'akademisk-sprak-og-stil',
