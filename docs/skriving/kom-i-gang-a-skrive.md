@@ -123,7 +123,7 @@ Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-
 
 ## Hold skriveprosessen i gang
 
-For å holde oversikt over skrivearbeidet ditt kan det være en god ide å føre en logg, eller en skrivedagbok, om hva du har gjort og hva du skal gjøre. Du kan også opprette en blogg for å få og gi innspill underveis i skriveprosessen. Noen blogger har en personlig stil som grenser mot dagbokform, andre er ment som faglige diskusjonsfora.Finn ut hva som fungerer for deg. 
+For å holde oversikt over skrivearbeidet ditt kan det være en god ide å føre en logg, eller en skrivedagbok, om hva du har gjort og hva du skal gjøre. Du kan også opprette en blogg for å få og gi innspill underveis i skriveprosessen. Noen blogger har en personlig stil som grenser mot dagbokform, andre er ment som faglige diskusjonsfora. Finn ut hva som fungerer for deg. 
 
 Lykke til! 
 
