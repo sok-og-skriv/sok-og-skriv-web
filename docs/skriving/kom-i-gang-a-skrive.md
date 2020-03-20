@@ -31,7 +31,7 @@ Det er (minst) to strategier for å produsere tekst:
 
 ::: eksempel Tekst før struktur
 
-- Skriv ned alt du vet om emnet
+- Skriv ned alt du vet og lurer på om emnet
 - Les gjennom det du har skrevet, og ordne teksten i avsnitt ved hjelp av stikkord/overskrifter
 - Ut fra dette strukturerer du teksten
 :::
@@ -49,7 +49,7 @@ Skriveprosessen kan ha ulike former. Det er viktig å finne ut hvordan _du_ fu
 
 Nedenfor er noen ulike teknikker som kan brukes for å nærme seg en problemstilling og disposisjon for oppgaven.
 
-## Idémyldring
+### Idémyldring
 
 Idémyldring er et godt redskap for å få oversikt over hva du vet om et tema og hva du trenger å finne ut mer om. Det kan også brukes til å avgrense et tema og lage utkast til disposisjon. Skriv ned alle assosiasjoner du har til temaet uten å sensurere deg selv. I løpet av idémyldringen vil det komme frem stikkord og setninger som du kan arbeide videre med.
 
@@ -64,7 +64,7 @@ Idémyldring er en privat tekst, som skal gi skrivelyst.
 Mangler du penn og papir, har du kanskje en mobil i hånden. Skriv ideen du fikk som en tekstmelding, eller les det inn på taleopptak.
 :::
 
-## Tankekart
+### Tankekart
 
 - Skriv hovedideen din midt på arket
 - Tegn linjer eller grener fra hovedideen og skriv nøkkelord på hver linje
@@ -86,7 +86,7 @@ Mangler du penn og papir, har du kanskje en mobil i hånden. Skriv ideen du fikk
 :::
 
 
-## Tenketekst
+### Tenketekst
 
 En tenketekst er en privat og kreativ tekst som kan hjelpe deg i gang med skriveprosessen. Tenkeskriving er skriving for å lære, for å få ideer og for å engasjere. Ved å skrive uten tanke på produktet, kan du oppdage nye muligheter i emnet du fokuserer på.
 
@@ -94,7 +94,7 @@ En tenketekst er en privat og kreativ tekst som kan hjelpe deg i gang med skrive
 - Fokuser på innholdet i teksten din
 - Skriv uten å ta stilling til tekstens form. Målet er å få fram ideer og tanker uten kritiske blikk
 
-## Hurtigskriving
+### Hurtigskriving
 
 Hurtigskriving er en metode for å skrive en tenketekst; også her er målet å få i gang skriveprosessen.
 
@@ -121,9 +121,11 @@ Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som
 
 Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave/)
 
-## Hold skriveprosessen i gang
+##" Hold skriveprosessen i gang
 
-For å holde oversikt over skrivearbeidet ditt kan det være en god ide å føre en logg, eller en skrivedagbok, om hva du har gjort og hva du skal gjøre. Du kan også opprette en blogg for å få og gi innspill underveis i skriveprosessen. Noen blogger har en personlig stil som grenser mot dagbokform, andre er ment som faglige diskusjonsfora. Finn ut hva som fungerer for deg. 
+For å holde oversikt over skrivearbeidet ditt kan det være en god ide å føre en logg, eller en skrivedagbok, om hva du har gjort og hva du skal gjøre. Du kan også opprette en blogg for å få innspill underveis i skriveprosessen. 
+
+Noen blogger har en personlig stil som grenser mot dagbokform, andre er ment som faglige diskusjonsfora. Finn ut hva som fungerer for deg. 
 
 Lykke til! 
 
