@@ -56,9 +56,7 @@ God tilbakemelding er konkret, konstruktiv og kjærlig.
 - Det er du som bestemmer over din tekst. Ta hensyn til kommentarene du mener er relevante, og overse resten.
 ::: 
 
-Avtal å møtes jevnlig og møt alltid forberedt. Som medlem av en skrivegruppe får du en uvurderlig drahjelp i oppgavearbeidet. Og når innlevering står for døra, vet du hvor du kan henvende deg for å få en siste gjennomlesning.
-
-## Verktøy for gruppearbeidet
+Avtal å møtes jevnlig, og møt alltid forberedt. Som medlem av en skrivegruppe får du en uvurderlig drahjelp i oppgavearbeidet. Og når innlevering står for døra, vet du hvor du kan henvende deg for å få en siste gjennomlesning.
 
 <Figure
   src="/images/studentgruppe6.jpg"
@@ -66,10 +64,6 @@ Avtal å møtes jevnlig og møt alltid forberedt. Som medlem av en skrivegruppe 
   caption="Skrivegrupper, Ill.foto: UiB"
   type="right"
 />
-
-Om du i deltar i et gruppearbeid der dere skal levere en felles tekst finnes det flere [verktøy for samskriving](https://en.wikipedia.org/wiki/Collaborative_real-time_editor). Det  er ikke alltid like hensiktsmessig å bruke Word og e-post eller et læringsstøttesystem. Et verktøy som dere kan bruke i stedet er Docs & Spreadsheets i Google Drive. Dette er en gratis nettbasert tekstredigerer med lav brukerterskel.
-
-Dere bestemmer selv hvem som er med i skrivegruppen, og innsyn stenges for andre. På en smidig måte redigeres teksten med flere samtidige skribenter koblet til. Programmet holder orden på innleggene, og skrivingen kan pågå i direkte, virtuell kommunikasjon med hele gruppen. Teksten kan lagres i doc, PDF, RTF eller ODF format eller publiseres som blogg. Vil du vite mer se [Wikipedias artikkel](https://en.wikipedia.org/wiki/Google_Drive "Google Drive").
 
 
 
