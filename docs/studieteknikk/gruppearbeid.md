@@ -5,9 +5,7 @@ date: "2012-12-07"
 
 # Gruppearbeid 
 
-Å diskutere tekster med andre er en god måte få et aktivt forhold til innholdet på. Du leser mer oppmerksomt, og husker bedre, hvis du etterpå skal diskutere det du leser med noen. Gjennom å diskutere øver du deg i å bruke begreper og i å argumentere. 
-
-Ved universitetet bruker man gjerne uttrykket kollokviegrupper, fra det latinske _colloquium_ som betyr samtale. 
+Å diskutere tekster med andre er en god måte få et aktivt forhold til innholdet på. Du leser mer oppmerksomt, og husker bedre, hvis du etterpå skal diskutere det du har lest. Gjennom å diskutere øver du deg i å bruke begreper og i å argumentere. Ved universitetet brukes gjerne uttrykket kollokviegrupper, fra det latinske ordet for samtale, _colloquium_. 
 
 <Figure
   src="/images/kategori_studier5-1.jpg"
@@ -16,14 +14,14 @@ Ved universitetet bruker man gjerne uttrykket kollokviegrupper, fra det latinske
   type="right"
 />
 
-Sørg for en viss planlegging på forhånd: Vær enige om hva dere skal diskutere, hvilken tekst (eller hvilke tekster) dere skal ta opp, og fordel tekster mellom dere som dere har hovedansvaret for å presentere for de andre. Når deltakerne i gruppen bytter på å fremlegge tekster, får alle trening i å forklare og kommentere fagstoff muntlig. Selv om det også går an å diskutere "på sparket", vil en kollokviegruppe uten planlegging og forberedelse ofte utarte til retningsløst "prat". Det går fint en gang eller to, men på sikt er det lite tilfredsstillende.
+For at gruppearbeidet skal være effektivt er det viktig å planlegge: Bli enige om hva dere skal diskutere og fordel ansvar på forhånd. Når deltakerne i en gruppe bytter på å legge fram tekster, får alle trening i å forklare og kommentere fagstoff muntlig. Selv om det også går an å diskutere "på sparket", vil en kollokviegruppe uten planlegging og forberedelse ofte henfalle til retningsløst "prat". Det går fint en gang eller to, men på sikt er det lite tilfredsstillende.
 
 Jo tidligere i studiet dere lager en kollokviegruppe, jo bedre. Begynn som en lese- og diskusjonsgruppe. Når dere etterhvert skal i gang med å [skrive oppgaver](?p=1216), kan dere bruke hverandre som lesere av hverandres tekster. Få ting er nyttigere enn å få kommentarer av medstudenter.
 
 
 # Skrivegrupper
 
-Lengre tekster, som masteroppgaver, krever at du skriver jevnt og trutt. For å holde prosessen i gang, er er det klokt å la andre lese utkast underveis. Slik vil du også finne ut hvordan oppgaven din kommuniserer med en leser. Som medlem av en skrivegruppe kan du legge fram utkast, gi og få respons og finne støtte i et fellesskap av medstudenter. Skrivegruppen erstatter ikke veilederen, men er et supplement. En ideell skrivegruppe er en gruppe studenter i samme fag som er på ulike stadier i oppgaven. Er du allerede med i en kollokvie eller [lesegruppe](?p=2219) som fungerer godt, bruk den!
+Lengre tekster, som masteroppgaver, krever at du skriver jevnt og trutt. For å holde prosessen i gang, er det klokt å la andre lese utkast underveis. Slik vil du også finne ut hvordan oppgaven din kommuniserer med en leser. Som medlem av en skrivegruppe kan du legge fram utkast, gi og få respons og finne støtte i et fellesskap av medstudenter. Skrivegruppen erstatter ikke veilederen, men er et supplement. En ideell skrivegruppe er en gruppe studenter i samme fag som er på ulike stadier i oppgaven. Er du allerede med i en kollokvie eller lesegruppe som fungerer godt, bruk den!
 
 Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin skrivegruppe i sluttfasen av doktorgradsarbeidet:
 
