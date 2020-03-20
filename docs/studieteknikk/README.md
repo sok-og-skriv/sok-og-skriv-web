@@ -1,5 +1,5 @@
 ---
-title: "Lesing"
+title: "Om å studere"
 date: "2012-03-15"
 prev: "../soking/systematisk-soking"
 ---
@@ -14,6 +14,6 @@ Det viktigste med å lese er _at_ man leser. Den som leser mye og jevnlig, vil
 
 Å lære seg et fag innebærer også å gjøre seg kjent med tekster som formidler fagets innsikter, metoder og debatter. Du blir kjent med og lærer deg faget også på andre måter enn gjennom lesing: ved å følge forelesninger, ved å delta i samtaler og diskusjoner, på seminarer og i kollokviegrupper, og ved å skrive oppgaver.
 
-I denne delen får du noen enkle råd om hvordan du kan gå fram når du leser, og hva du kan eller bør tenke på. Du kan plukke og samle det du vil av disse rådene – ikke alle råd passer for alle. Ordet «lese» henger ordhistorisk sammen med ord som betyr nettopp «å plukke og samle». Latin _lego_ betyr både «jeg plukker», «jeg samler» og «jeg leser».
+I denne delen får du noen enkle råd om hvordan du kan gå fram når du leser og studerer, og hva du kan eller bør tenke på. Du kan plukke og samle det du vil av disse rådene – ikke alle råd passer for alle. Ordet «lese» henger ordhistorisk sammen med ord som betyr nettopp «å plukke og samle». Latin _lego_ betyr både «jeg plukker», «jeg samler» og «jeg leser».
 
 God lesing!
