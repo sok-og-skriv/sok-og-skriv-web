@@ -5,9 +5,9 @@ date: "2012-05-16"
 
 # Kom i gang å skrive
 
-Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser som avløser hverandre: Flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord på - ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene faller på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene. 
+Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser som avløser hverandre: Flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
 
-Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
+Skriveprosessen består av sykler og veksling mellom ulike faser, som idémyldring, fordypning, grubling, informasjonssøk og tekstproduksjon. Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord på - ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene faller på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
 
 ::: tip Når kan jeg begynne å skrive? 
 Mange uerfarne skribenter tror at de ikke kan begynne skrive før de har skaffet seg fullstendig klarhet og oversikt. De tror kanskje at gode tekster oppstår ved at man plasserer perfekte setninger etter hverandre. En slik tilnærming fører til at det tar altfor lang tid å komme i gang. I virkeligheten må de aller fleste skrive teksten sin om igjen - opptil flere ganger. Å skrive godt, er ofte å skrive om.
@@ -17,6 +17,9 @@ Som student drives du ofte fram av et "hvorfor?". Dette er også utgangpunktet f
 
 <Video id="FOwhrXNnHNI" />
 
+::: tip Skrivesnakk 
+Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan være veldig klargjørende å sette ord på ideene dine. Hvorfor synes du at dette temaet er interessant? Hvilke problemstillinger ser du for deg? Hvordan kan problemstillingen(e) besvares? Hva ser du for deg at du vil komme fram til? Å presentere utkast for [medstudenter](?p=1216) er også en utmerket måte å komme i gang på.
+:::
 
 ## Tenk og skriv
 
@@ -100,7 +103,6 @@ Hurtigskriving er en metode for å skrive en tenketekst; også her er målet å 
 - Etterpå leser du igjennom teksten din, streker under nøkkelmomenter og begynner å strukturere ideer
 - Del gjerne teksten inn i mindre biter med mellomoverskrifter 
 
-
 ## Fra tema til problemformulering
 
 Noen er så heldige at de vet akkurat hva de vil undersøke før de begynner. Andre må gjerne tenke, notere, gjøre litteratursøk og lese en del før de formulerer en problemstilling eller et forskningsspørsmål, og ofte må man justere underveis. Det er flere måter å starte en skriveprosess på, men det kan være lurt å utarbeide en foreløpig problemstilling tidlig. 
@@ -118,11 +120,6 @@ Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som
 ::: 
 
 Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave/)
-
-::: tip Skrivesnakk 
-Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan være veldig klargjørende å sette ord på ideene dine. Hvorfor synes du at dette temaet er interessant? Hvilke problemstillinger ser du for deg? Hvordan kan problemstillingen(e) besvares? Hva ser du for deg at du vil komme fram til? Å presentere utkast for [medstudenter](?p=1216) er også en utmerket måte å komme i gang på.
-:::
-
 
 ## Hold skriveprosessen i gang
 

@@ -77,8 +77,6 @@ Avsnitt markeres enten med ekstra linjeskift _eller_ innrykk. Det første er van
 
 Kortere sitater i teksten markeres med anførselstegn og kildehenvisning, men _ikke_ kursiv. Unntaket er utsagn fra informanter (intervjudata), som ofte kursiveres. Lengre sitater (mer enn 3 linjer eller 140 ord, avhengig av referansestil) rykkes inn med tabulator eller ved hjelp av Word-malen. Når sitatet er rykket inn, skal det verken ha anførselstegn eller kursiv.
 
-> Eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempelEksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel eksempel (kildehenvisning).
-
 Det kan være nødvendig å redigere Word-malen for å fjerne unødvendig kursivering. Endre teksten slik du vil ha den, marker en del av teksten og høyreklikk på stilen du vil endre. Velg "Update Normal to Match Selection", eller tilsvarende på norsk.
 
 Les mer om sitering under "[hvordan referere](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/)".
