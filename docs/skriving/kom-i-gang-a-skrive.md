@@ -29,19 +29,21 @@ Begynn gjerne å skrive om det du syns er gøy. Skriv gjerne bare litt om gangen
 
 Det er (minst) to strategier for å strukturere en tekst:
 
-**Tekst før struktur**
+::: eksempel **Tekst før struktur**
 
 - Skriv ned alt du vet om emnet
 - Les gjennom det du har skrevet, og ordne teksten i avsnitt ved hjelp av stikkord/overskrifter
 - Ut fra dette strukturerer du teksten
+:::
 
-**Struktur før tekst**
+::: eksempel **Struktur før tekst**
 
 - Her lager du en disposisjon før du går i gang med å skrive
 - Så fyller du inn tekst i disposisjonen, punkt for punkt
 - Disposisjonen justeres underveis
+:::
 
-En skriveprosess kan ha ulike former. Det er viktig å finne ut hvordan _du_ fungerer best. Pleier du å gå og "ruge" i lang tid, for så å skrive ut en mer eller mindre ferdig tekst rett før innleveringsfristen? Eller trenger du å komme i gang raskt, og deretter bruke tiden til å strukturere, skrive om og bygge ut utkastet ditt? Vær trygg på arbeidsmåten din!
+Skriveprosessen kan ha ulike former. Det er viktig å finne ut hvordan _du_ fungerer best. Pleier du å gå og "ruge" i lang tid, for så å skrive ut en mer eller mindre ferdig tekst rett før innleveringsfristen? Eller trenger du å komme i gang raskt, og deretter bruke tiden til å strukturere, skrive om og bygge ut utkastet ditt? Vær trygg på arbeidsmåten din!
 
 ## Oppstartsteknikker
 
