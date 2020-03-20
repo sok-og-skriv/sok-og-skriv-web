@@ -121,4 +121,11 @@ Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som
 
 Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave/)
 
+## Hold skriveprosessen i gang
+
+For å holde oversikt over skrivearbeidet ditt kan det være en god ide å føre en logg, eller en skrivedagbok, om hva du har gjort og hva du skal gjøre. Du kan også opprette en blogg for å få og gi innspill underveis i skriveprosessen. Bloggen kan brukes på mange måter. Du kan bruke den alene eller sammen med andre. Noen blogger har en personlig stil som grenser mot dagbokform, andre er ment som faglige diskusjonsfora. 
+
+I utgangspunktet er bloggen åpen for alle. Alle kan lese bloggen din og legge inn kommentarer på den. Du velger selv om andres kommentarer skal publiseres eller ikke. Skrivesjangeren er uhøytidelig, og terskelen for å komme i gang med skrivingen er lav. Dette så klart forutsatt at du er vant med å bruke sosiale medier.
+
+
 
