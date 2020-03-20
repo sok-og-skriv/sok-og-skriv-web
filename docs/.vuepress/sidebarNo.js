@@ -9,9 +9,9 @@ module.exports = {
     '',
     'lesemater',
     'lesing-og-skriving',
-    'kollokvie',
     'argumentasjon-i-tekst',
-    'akademiske-sjangrer'
+    'akademiske-sjangrer',
+    'gruppearbeid'
   ],
   '/skriving/': [
     '',
