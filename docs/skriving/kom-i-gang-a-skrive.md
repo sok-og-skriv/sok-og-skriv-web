@@ -29,14 +29,14 @@ Begynn gjerne å skrive om det du syns er gøy. Skriv gjerne bare litt om gangen
 
 Det er (minst) to strategier for å strukturere en tekst:
 
-::: eksempel **Tekst før struktur**
+::: eksempel Tekst før struktur
 
 - Skriv ned alt du vet om emnet
 - Les gjennom det du har skrevet, og ordne teksten i avsnitt ved hjelp av stikkord/overskrifter
 - Ut fra dette strukturerer du teksten
 :::
 
-::: eksempel **Struktur før tekst**
+::: eksempel Struktur før tekst
 
 - Her lager du en disposisjon før du går i gang med å skrive
 - Så fyller du inn tekst i disposisjonen, punkt for punkt
