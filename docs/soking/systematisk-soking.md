@@ -1,7 +1,7 @@
 ---
 title: "Systematisk søking"
 date: "2012-08-23"
-next: "../lesing/"
+next: "../studieteknikk/"
 ---
 
 # Systematisk søking

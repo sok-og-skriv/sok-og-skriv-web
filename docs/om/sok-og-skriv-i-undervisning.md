@@ -13,7 +13,7 @@ Denne siden er tenkt som en idébank for faglærere, bibliotekarer og andre som 
 
 Søk & Skriv er nettbasert, men mye av materialet kan brukes i klasseroms-undervisning. Man kan for eksempel komponere forelesninger som følger mer eller mindre samme struktur som nettstedet og supplere med øvelser, oppgaver og fagspesifikke eksempler. Nettstedet inneholder materiale som egner seg for utskrift i en undervisningssituasjon. En oversikt over alle oppgavene på nettstedet finner du [nederst på denne siden](#oppgaveoversikt).
 
-De fire hovedsporene _[Søking](/soking/)_, [_Lesing_](/lesing/), [_Skriving_](/skriving) og [_Kildebruk og referanser_](/kildebruk-og-referanser/) tar for seg ulike faser i oppgaveprosessen. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre oppgaver underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
+De fire hovedsporene _[Søking](/soking/)_, [Studieteknikk](/studieteknikk/), [_Skriving_](/skriving) og [_Kildebruk og referanser_](/kildebruk-og-referanser/) tar for seg ulike faser i oppgaveprosessen. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre oppgaver underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
 
 Det skal være lett å navigere rundt på nettstedet ved hjelp av hovedmenyen som er synlig på alle sider, og detaljerte, klikkbare innholdsfortegnelser i margen. Under sporet [Om Søk & Skriv](/om-sok-skriv/) ligger det en alfabetisk indeks over temaer som er behandlet på nettstedet ([Kategorier](/om-sok-skriv/kategorier/)), og på hver side er det en søkeboks man kan bruke til å gjøre fritekstsøk på hele nettstedet.
 
@@ -73,7 +73,7 @@ Etter å ha gjennomgått lesekurset skal studentene
 
 Mange studenter sliter med å skille mellom oversikts- og dybdelesning. De bruker unødvendig mye tid på hver enkelt tekst, også de mindre relevante, med den konsekvens at de ikke får tid til å lese hele pensum eller alt de trenger for å skrive en oppgave. Et lesekurs kan bevisstgjøre studenter om nytten av å lage en lesestrategi, og hjelpe dem å lære, gjennom praktiske øvelser, teknikker som hurtiglesing.
 
-Kurset kan ta utgangspunkt i lesesporet. Man kan starte med å gi en kort introduksjon om lesing – for eksempel om formålet med lesingen, forskjellige måter å lese på og viktige spørsmål å stille til teksten. Hent gjerne inspirasjon på siden [_Lesemåter_](/lesing/lesemater/).
+Kurset kan ta utgangspunkt i lesesporet. Man kan starte med å gi en kort introduksjon om lesing – for eksempel om formålet med lesingen, forskjellige måter å lese på og viktige spørsmål å stille til teksten. Hent gjerne inspirasjon på siden [_Lesemåter_](/studieteknikk/lesemater/).
 
 Deretter bør studentene gjøre en praktisk øvelse. Finn fram til en eller flere egnede tekster – det kan være lettere sagt enn gjort. Det bør helst være artikler, kapitler eller tekstutdrag som utgjør et hele og kan stå på egne bein. Teksten(e) bør være hentet fra studentenes pensum eller i det minste fagområde – erfaringsmessig styrker det studentenes motivasjon og gir størst læringsutbytte.
 
@@ -240,7 +240,7 @@ En annen måte å jobbe med referanselister på er å vise studentene en faktisk
 
 Målet med et skrivekurs er gjerne at studentene skal bli tryggere på sin egen skriving, både når det gjelder arbeidsmåte og personlig skrivestil. De skal også kjenne til viktige trekk ved det akademiske håndverket. De aller fleste studenter har mer kunnskap om lesing og skriving enn de er klar over, og et mål for kursholderen kan være å hjelpe dem til å bli klar over dette. En måte å oppøve trygghet på er å arbeide med begreper (”metaspråk for skriving”). Gjennom å sette ord på hva som gjør en tekst god og hva som gjør den mindre god, vil studentene kunne utvikle et analytisk blikk for tekster, noe som også er til god hjelp for den egne skrivingen.
 
-Skrivesporet består av fem underkategorier, hvor særlig [_Struktur_](/skriving/struktur/) og [_Språk og stil_](/skriving/sprak-og-stil/) egner seg til bruk i undervisning. Også lesesporet vil være til god nytte, for eksempel undersporet [_Akademiske sjangrer_](/lesing/hvordan-hente-noe-ut-av-en-tekst/). Det er fullt mulig å legge opp disse sporene som forelesninger, gjerne med bruk av PowerPoint. I tillegg må det lages relevante teksteksempler fra de aktuelle fagene. Korte forelesninger kan veksle med øvelser knyttet til de ulike temaene.
+Skrivesporet består av fem underkategorier, hvor særlig [_Struktur_](/skriving/struktur/) og [_Språk og stil_](/skriving/sprak-og-stil/) egner seg til bruk i undervisning. Også lesesporet vil være til god nytte, for eksempel undersporet [_Akademiske sjangrer_](/studieteknikk/hvordan-hente-noe-ut-av-en-tekst/). Det er fullt mulig å legge opp disse sporene som forelesninger, gjerne med bruk av PowerPoint. I tillegg må det lages relevante teksteksempler fra de aktuelle fagene. Korte forelesninger kan veksle med øvelser knyttet til de ulike temaene.
 
 Skrivekurs for masterstudenter fungerer best dersom studentene kan arbeide med sine egne tekster, og aller helst utkast som er sendt inn på forhånd. Da er det viktig at studentene er trygge nok til å vise fram arbeider som ikke er ferdige. Dersom studenten anser teksten for å være ferdig, vil det ikke være rom for læring, verken for den som har skrevet eller den som skal kommentere teksten. Når det gjelder organiseringen av skrivegrupper, kommentering og den slags er det tips og råd å finne under [_Skriveprosessen_](/skriving/skriveprosessen/).
 
@@ -249,8 +249,8 @@ Det å holde et skrivekurs krever en del erfaring med emner som tekstanalyse, ve
 # Oversikt over oppgaver på nettstedet
 
 - [Finn søkeord og synonyme](/soking/planlegg-soket-dit/#Gjr_deg_kjent_med_databasen)_[r](/soking/planlegg-soket-dit/#Gjr_deg_kjent_med_databasen)_ – øvelser i søketeknikk
-- [Spør teksten](/lesing/lesemater/#Spr_teksten) – identifisering av tema, problemstilling og resultater, vurdering av aktualitet og anvendelighet.
-- Toulmins modell – argumentasjonsanalyse brukt på [andres tekst](/lesing/argumentasjon-i-tekst/) og på [egen tekst.](/skriving/struktur/a-argumenterere-i-egen-tekst/#Argumentasjonens_struktur)
+- [Spør teksten](/studieteknikk/lesemater/#Spr_teksten) – identifisering av tema, problemstilling og resultater, vurdering av aktualitet og anvendelighet.
+- Toulmins modell – argumentasjonsanalyse brukt på [andres tekst](/studieteknikk/argumentasjon-i-tekst/) og på [egen tekst.](/skriving/struktur/a-argumenterere-i-egen-tekst/#Argumentasjonens_struktur)
 - [Skriv flere åpninger til teksten](/skriving/struktur/oppbygning-av-en-oppgave/#11Bakgrunn) – skriveteknisk øvelse
 - [Skriv om til aktiv](/skriving/sprak-og-stil/#Aktiv_passiv) – skriveteknisk øvelse
 - [Bruk av «jeg»](/skriving/sprak-og-stil/#Kan_jeg_skrive_jeg) – refleksjon rundt akademisk stil

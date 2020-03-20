@@ -25,7 +25,7 @@ Men hva betyr det å redegjøre, og hva er egentlig drøfting?
 
 Poenget med å redegjøre for et stoff du har lest i en studentoppgave, er å vise at du har lest og forstått dette stoffet. Det kan du bare gjøre når du presenterer hovedpoengene med dine egne ord. Det er derfor mye viktigere at det du skriver er forståelig og klart enn at du bruker avanserte ord og uttrykk fra litteraturen.
 
-Husk at når du redegjør for et stoff, skal framstillingen kunne aksepteres av andre lesere, også av de som ikke har samme syn som deg. Redegjørelsen skal med andre ord være balansert, dekkende og ikke være preget av dine egne synspunkter. Les mer om å [lese og skrive sammendrag](/lesing/lesing-og-skriving/).
+Husk at når du redegjør for et stoff, skal framstillingen kunne aksepteres av andre lesere, også av de som ikke har samme syn som deg. Redegjørelsen skal med andre ord være balansert, dekkende og ikke være preget av dine egne synspunkter. Les mer om å [lese og skrive sammendrag](/studieteknikk/lesing-og-skriving/).
 
 ## Hva er drøfting?
 

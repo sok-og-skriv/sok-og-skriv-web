@@ -5,7 +5,7 @@ module.exports = {
     'soketeknikker',
     'systematisk-soking',
   ],
-  '/lesing/': [
+  '/studieteknikk/': [
     '',
     'lesemater',
     'lesing-og-skriving',
