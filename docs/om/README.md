@@ -9,7 +9,7 @@ Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjon
 
 **[Søking](/soking)**. Her synliggjør vi hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving, og hvordan gode informasjonssøk kan brukes til å avgrense oppgaven og spesifisere problemstillingen du skal ta for deg.
 
-**[Lesing](/lesing)**. I lesedelen tar vi opp ulike formål med å lese en tekst. Gjennom å avdekke argumentasjon i tekstene du leser blir du bedre rustet til å se hvordan du kan bruke andres tekster i ditt eget arbeid.
+**[Studieteknikk](/studieteknikk)**. I lesedelen tar vi opp ulike formål med å lese en tekst. Gjennom å avdekke argumentasjon i tekstene du leser blir du bedre rustet til å se hvordan du kan bruke andres tekster i ditt eget arbeid.
 
 **[Skriving](skriving)**. I skrivedelen får du tips om hele skriveprosessen, fra struktur, språk og stil til formelle krav og formidling.
 

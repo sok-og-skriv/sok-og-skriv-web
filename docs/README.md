@@ -22,10 +22,10 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <a href="/lesing"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Lesing"></a>
+      <a href="/studieteknikk"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Lesing"></a>
     </div>
     <div class="content">
-      <h2><a href="/lesing">Lesing</a></h2>
+      <h2><a href="/studieteknikk">Lesing</a></h2>
       <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave, må være bevisst på hva og hvordan du leser.</p>
     </div>
   </div>

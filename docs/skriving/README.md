@@ -1,7 +1,7 @@
 ---
 title: "Skriving"
 date: "2012-03-15"
-prev: "../lesing/akademiske-sjangrer"
+prev: "../studieteknikk/akademiske-sjangrer"
 ---
 
 

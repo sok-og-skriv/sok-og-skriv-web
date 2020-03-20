@@ -29,7 +29,7 @@ module.exports = {
         home: 'true',
         nav: [
           { text: 'Søking', link: '/soking/' },
-          { text: 'Lesing', link: '/lesing/' },
+          { text: 'Studieteknikk', link: '/studieteknikk/' },
           { text: 'Skriving', link: '/skriving/' },
           { text: 'Kjeldebruk', link: '/kjeldebruk-og-referanser/' },
           {

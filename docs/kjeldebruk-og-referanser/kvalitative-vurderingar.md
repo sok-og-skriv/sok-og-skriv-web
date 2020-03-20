@@ -29,7 +29,7 @@ Se på referanselisten til teksten du leser. Denne viser hvilke kilder forfatter
 - Hvem refererer forfatteren til?
 - Er kildene etterrettelige?
 
-Se også: [Akademiske sjangrer](/lesing/akademiske-sjangrer/) og [Argumentasjon i tekst](/lesing/argumentasjon-i-tekst/)
+Se også: [Akademiske sjangrer](/studieteknikk/akademiske-sjangrer/) og [Argumentasjon i tekst](/studieteknikk/argumentasjon-i-tekst/)
 
 ## Målgruppe og sjanger
 

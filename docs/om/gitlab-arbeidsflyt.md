@@ -7,7 +7,7 @@ date: "2020-02-12"
 
 Siden Søk og skriv nå er en Vuepress-drevet side, har vi fått en helt annen måte å redigere innhold. Alt innhold ligger i Markdown-filer (.md) som blir konvertert til web-sider og lagt på en server uten noen bakenforliggende database.
 
-Hele Søk og skriv ligger på Gitlab med én fil per nettsadresse. Filen som ligger i `docs/lesing/lesemater.md` blir til [sokogskriv.no/lesing/lesemåter](https://sok-og-skriv.now.sh/lesing/lesemater.html).
+Hele Søk og skriv ligger på Gitlab med én fil per nettsadresse. Filen som ligger i `docs/studieteknikk/lesemater.md` blir til [sokogskriv.no/studieteknikk/lesemåter](https://sok-og-skriv.now.sh/studieteknikk/lesemater.html).
 
 ## Videodemonstrasjon
 
