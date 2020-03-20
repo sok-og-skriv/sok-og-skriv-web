@@ -121,7 +121,7 @@ Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som
 
 Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave/)
 
-##" Hold skriveprosessen i gang
+### Hold skriveprosessen i gang
 
 For å holde oversikt over skrivearbeidet ditt kan det være en god ide å føre en logg, eller en skrivedagbok, om hva du har gjort og hva du skal gjøre. Du kan også opprette en blogg for å få innspill underveis i skriveprosessen. 
 
