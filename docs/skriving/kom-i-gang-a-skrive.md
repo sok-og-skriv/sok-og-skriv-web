@@ -27,7 +27,7 @@ Det er viktigere å komme i gang, enn å ha full kontroll på produktet. Det fin
 
 Begynn gjerne å skrive om det du syns er gøy. Skriv gjerne bare litt om gangen. Hvis du tar pauser FØR du har skrevet deg helt tom, er det lettere å ta opp igjen tråden. Presenter gjerne teksten din for andre, for eksempel i [skrivegrupper](/skriving/skriving-er-en-prosess/skrivegrupper/), og be om tilbakemeldinger selv om du ikke er helt fornøyd enda. Gode forfattere bruker tid på å revidere, og må ofte restrukturere tekstene sine flere ganger. Se
 
-Det er (minst) to strategier for å strukturere en tekst:
+Det er (minst) to strategier for å produsere tekst:
 
 ::: eksempel Tekst før struktur
 
