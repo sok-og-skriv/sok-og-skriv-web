@@ -17,7 +17,7 @@ module.exports = {
   '/skriving/': [
     '',
     'kom-i-gang-a-skrive',
-    'struktur-og-argumentasjon',
+    'struktur',
     'oppbygning-av-en-oppgave',
     'imrad-modellen',
     'akademisk-sprak-og-stil',
