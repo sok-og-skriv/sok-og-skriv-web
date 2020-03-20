@@ -5,15 +5,15 @@ date: "2012-09-14"
 
 # Lesemåter
 
-Det finnes ulike måter å lese på. Hvordan vi leser avhenger av hva vi leser, men også av formålet med lesingen. Vi leser en roman på en annen måte enn en innføring i statistikk, men vi leser også en roman på en annen måte dersom vi skal lage en litterær analyse av den, enn hvis vi bare leser den.
+Det finnes ulike måter å lese på. Hvordan vi leser avhenger av hva vi leser, men også av formålet med lesingen. Vi leser en roman på en annen måte enn en innføring i statistikk, men vi leser også en roman på en annen måte dersom vi skal lage en litterær analyse av den, enn hvis vi bare _leser_ den.
 
 Når du leser en roman som underholdning lever du deg inn i fortellingen, blir kjent med personene, og er spent på hvordan det vil gå dem. Hvis du skal analysere en roman leser du målrettet ut fra bestemte spørsmål til teksten: Hvordan er fortellingen bygget opp? Hvordan blir personene introdusert og beskrevet? Hva slags språklige virkemidler tas i bruk? Hva slags roman er det?
 
 ## Mål for lesingen
 
-- Hvis målet ditt er å skaffe deg [generelle kunnskaper](/soking/skaff-deg-oversikt/ "Skaff deg oversikt") om et nytt fag eller tema, så leser du i _bredden_ mer enn i _dybden_. Du studerer pensumlisten, orienterer deg i faglitteratur (bøker, artikler, kompendier), går på biblioteket og oppsøker relevante nettsider.
+- Hvis målet ditt er å skaffe deg generell kunnskap om et nytt fag eller tema, så leser du i _bredden_ mer enn i _dybden_. Du studerer pensumlisten, orienterer deg i faglitteratur (bøker, artikler, kompendier), går på biblioteket og oppsøker relevante nettsider.
 - Du kan også ha glede av å lese i bredden i den innledende fasen av arbeidet med en oppgave, enten du har en oppgitt problemstilling eller skal formulere din egen.
-- Hvis målet er å bruke det du leser i skrivingen av en oppgave, må du lese fokusert. Du ser etter stoff som har  direkte relevans for oppgavens tema og [problemstilling.](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/ "Oppbygning av en oppgave") Du spør: Kan jeg bruke det jeg leser nå, til å skrive denne oppgaven? Du leser i dybden og går i aktiv dialog med det du leser.
+- Hvis målet er å bruke det du leser i skrivingen av en oppgave, må du lese fokusert. Du ser etter stoff som har  direkte relevans for oppgavens tema og problemstilling. Du spør: Kan jeg bruke det jeg leser nå, til å skrive denne oppgaven? Du leser i dybden og går i aktiv dialog med det du leser.
 - Det er uansett viktig å forholde seg aktivt til tekstene du leser. Å studere dreier seg både om å tilegne seg kunnskap og å anvende den.
 - Ikke alle tekster er like gode, og ikke alle tekster er relevante for deg. Mer om dette finner du under [kildevurdering. ](/kildebruk-og-referanser/kildevurdering/ "kildevurdering")En viktig del av studiene dreier seg om å øve seg i å forholde seg _kritisk_ og _selvstendig,_ ikke bare til det teksten handler om, men også til teksten selv. Når du leser pensum, kan det være nyttig å spørre seg: Hvorfor har jeg denne teksten på pensum? Hva er det som er viktig med denne teksten, siden den er havnet på pensumlisten? Hva er forbindelsen mellom denne teksten, emnebeskrivelsen og resten av pensumlitteraturen?
 
