@@ -5,6 +5,8 @@ date: "2012-09-18"
 
 # Vancouver
 
+Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, patent og standard 
+
 Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers \[Elektronisk bok\]. 2nd ed. Wendling DL., technical editor. Bethesda (MD): National Library of Medicine (US); 2007 \[hentet 2008-01-14\]. Tilgjengelig fra: [https://www.nlm.nih.gov/citingmedicine](https://www.nlm.nih.gov/citingmedicine)
