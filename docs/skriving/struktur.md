@@ -7,6 +7,7 @@ date: "2012-05-04"
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
+Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRoD](?p=1226) (fra engelske IMRaD: Introduction. Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
 ::: eksempel En god oppgave kjennetegnes av at:
 - Alle spørsmål som reises, er besvart eller belyst
@@ -37,8 +38,8 @@ I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling 
 
 Teksten blir mest ryddig dersom du setter nytt avsnitt før du begynner å drøfte – eller diskutere – det du har redegjort for, men her kan du bruke skjønn.
 
-::: tip Tips!
-Gjengi materialet med egne ord, gå deretter tilbake til kilden for å sjekke fakta.
+::: tip Bruk ditt eget språk 
+Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gjengivelsen. Da får du mye bedre flyt enn hvis du kopierer kildens språk for å bearbeide det. 
 :::
 
 ## Analyse
@@ -49,21 +50,17 @@ Empirien i en empirisk oppgave må analyseres, det vil si _kodes, tolkes_ og eve
 
 I en teoretisk oppgave er [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting sentralt. Du kan enten drøfte ideene og begrepene underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
 
-I en empirisk oppgave kommer drøftingen etter redegjørelsen, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRoD-modellen](/skriving/imrod-modellen/).
+I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen/).
 
 Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
 
 ::: tip Tips!
-Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i andres tekster.
+Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
 ## Slutninger (konklusjoner)
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
-
-Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRoD](?p=1226) (fra engelske IMRaD: Introduction. Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
-
-Det finnes også mye god litteratur om oppgaveskriving, prøv å søke i [Oria](https://oria.no "Oria").
 
 <Video id="rnqQo0pyg3E" />
