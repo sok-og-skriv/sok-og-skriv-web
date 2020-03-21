@@ -9,25 +9,28 @@ Oppgaveskriving i høyere utdanning går ut på å bruke det du har lest og lær
 
 Gjennom lesingen plukker du opp og samler inn momenter du kan bruke i skrivingen. Husk at du da endrer på den opprinnelige sammenhengen for det materialet du bruker. Når du viser til eller siterer fra en annen tekst, bruker du den til å forme egne resonnementer. Alt som skjer i din tekst er det du som gjør. Samtidig kan du ikke bare overta det andre har tenkt og skrevet som om det var deg selv som hadde tenkt og skrevet det. Du må skille klart mellom egne resonnementer, fortolkninger, parafrasering (indirekte sitater), og direkte sitater. Du må altså beherske grunnleggende [sitat- og referanseteknikk](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/).
 
-## Ta vare på det du har lest
+## Hvordan ta gode notater? 
 
 Mens man leser en tekst, hender det at man tenker: «Det var interessant, det visste jeg ikke, det må jeg huske på». Hvordan kan du ta med deg disse glimtene av innsikt videre i studiet? Her skal vi si litt mer om å ta notater og om andre måter du kan kombinere lesing og skriving i arbeidet ditt.
 
-### Notater
+Å skrive stikkord, markere og streke under i teksten er en teknikk du kan bruke for å bli en mer aktiv leser. Men vær klar over at en tekst full av understrekninger kan gi et falskt inntrykk av at du har jobbet grundigere med teksten enn du faktisk har. Å streke under er lett; å trekke ut viktig informasjon og viktige poenger og ordne stoffet i egne notater er vanskeligere – men til gjengjeld gir det større utbytte. 
 
-- Skriv notater til det du leser i et eget dokument. Dette vil automatisk få deg til å skrive bedre og mer informative notater enn hvis du bare noterer i selve teksten. Lag gjerne korte sammendrag av det du leser.
-- Å skrive stikkord, notere og lage understrekninger i teksten er også en teknikk du kan bruke for å bli en mer aktiv leser. Vær klar over at en tekst full av understrekninger kan gi et falsk inntrykk av at du har jobbet grundigere med teksten enn du faktisk har. Å streke under er lett; å trekke ut viktig informasjon og viktige poenger og ordne stoffet i egne notater er vanskeligere – men til gjengjeld gir det større utbytte.
-- Få tak i tekstens hovedbudskap, argumentasjon og sammenhengen teksten står i. Vent gjerne med understrekning og notering til du har lest gjennom teksten, eller til du har lest nok til at du skjønner hvilken retning teksten tar og hva den dreier seg om. (Mer om dette under [Lesemåter](?p=1285)). Hvis du fester deg for mye ved detaljer, kan du oppleve at det blir vanskeligere å gripe helheten i teksten. Legg merke til  steder i teksten der forfatteren samler sine argumenter eller der hvor hovedpoengene kommer tydeligst til uttrykk.
-- Bli enig med deg selv om hvilke tegn du bruker til å markere hva med. Streker, dobbeltstreker, ringer rundt bestemte begreper, utropstegn eller kryss er eksempler på tegn man kan bruke til å markere i teksten. Når du tar frem teksten igjen, går det raskere å få øye på det viktigste i teksten.
+::: tip Skriv notater til det du leser i et eget dokument. 
+Dette vil automatisk få deg til å skrive bedre og mer informative notater enn hvis du bare noterer i selve teksten. Lag gjerne korte sammendrag av det du leser.
+::: 
+
+Få tak i tekstens hovedbudskap, argumentasjon og sammenhengen teksten står i. Vent gjerne med understrekning og notering til du har lest gjennom teksten, eller til du har lest nok til at du skjønner hvilken retning teksten tar og hva den dreier seg om. (Mer om dette under [Lesemåter](?p=1285)). Hvis du fester deg for mye ved detaljer, kan du oppleve at det blir vanskeligere å gripe helheten i teksten. Legg merke til  steder i teksten der forfatteren samler sine argumenter eller der hvor hovedpoengene kommer tydeligst til uttrykk.
+
+Bli enig med deg selv om hvilke tegn du bruker til å markere hva med. Streker, dobbeltstreker, ringer rundt bestemte begreper, utropstegn eller kryss er eksempler på tegn man kan bruke til å markere i teksten. Når du tar frem teksten igjen, går det raskere å få øye på det viktigste.
 
 ::: tip Tenk på:
-Hva du oppfatter som det viktigste, kan forandre seg. Første gang du jobber med en vanskelig tekst om et nytt emne, kan det hende at du gjetter ganske mye hva som er viktig i teksten. Det er ikke sikkert at du gjetter riktig i første omgang. Vær åpen for at du kan ha oversett noe viktig, kanskje til og med det viktigste. 
+Hva du oppfatter som det viktigste, kan forandre seg. Første gang du jobber med en vanskelig tekst om et nytt emne, kan det hende at du gjetter ganske mye hva som er viktig i teksten. Det er ikke sikkert at du gjetter riktig i første omgang. Vær åpen for at du kan ha oversett noe viktig, kanskje til og med det viktigste.
+:::
 
 I løpet av en skriveprosess kan du få bruk for å gå tilbake til og lese en tekst på nytt, fordi ditt perspektiv kan ha endret seg. 
 + Kanskje forstår du argumentasjonen bedre etter å ha lest noe annet? 
 + Kanskje prosessen med å drøfte har fått deg til å stille andre spørsmål? 
 + Kanskje kan du ha nytte av teksten på en annen måte enn du først trodde fordi du har endret problemstillingen din?
-:::
 
 
 ## Å skrive sammendrag
