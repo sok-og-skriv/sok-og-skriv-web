@@ -36,19 +36,19 @@ Som student skal du skal både lese og skrive argumenterende tekster. Å tenke o
 
 Å se etter argumentasjonen i en tekst er altså å stille en viss type spørsmål til teksten. 
 
-::: oppgave Spør:
+::: oppgave Spørsmål 1: hovedpåstand
 Hva er **synspunktet** i teksten? Hva er det forfatteren hevder? Hva er det forfatteren argumenterer for? Synspunktet kan kalles **standpunktet**, **påstanden**, eller **hovedpåstanden**. Forfatteren diskuterer seg frem til et synspunkt, som fremføres til slutt. Synspunktet kan derfor også kalles for **konklusjonen**. 
 ::: 
 
 En vanlig framstilling er som følger: Synspunktet kommer fram tidlig ("Jeg vil argumentere for"), så kommer argumentasjonen; diskusjonen, drøftingen, analysen, gjennomgangen, og til slutt kommer synspunktet igjen, nå som en konklusjon: "Vi kan på bakgrunn av dette konkludere med...", "Som jeg har vist i det foregående...". 
 
-::: oppgave Spør: 
+::: oppgave Spørsmål 2: argumenter
 Hva er **argumentene** i teksten? Hvordan underbygger forfatteren synspunktene sine? Hva er det forfatteren argumenterer med? 
 :::
 
 Et argument som underbygger et synspunkt kalles også for **belegg:** Hva slags belegg har forfatteren for å hevde dette? eller **dokumentasjon:** Hvordan dokumenterer forfatteren synspunktet sitt?
 
-::: oppgave Spør:
+::: oppgave Spørsmål 3: relevans
 Hva er de underliggende eller bakenforliggende antakelsene som ligger til grunn for at disse argumentene faktisk kan brukes til å støtte dette synspunktet? Hva er det som gjør at argumentene fremstår som relevante i sammenhengen?
 :::
 
@@ -69,7 +69,7 @@ Argumentasjonen i en akademisk tekst er ofte kompleks. En tilnærmet fullstendig
 
 ::: oppgave OPPGAVE
 
-Spørsmålene over kan du samle til en spørremetode (vi kaller metoden [Toulmins argumentasjonsmodell](https://folk.uib.no/st10938/toulmin-andrestekst/argument.html)).  
+Spørsmålene over kan samles til en spørremetode kalt Toulmins argumentasjonsmodell.  
 Spør:
 
 1. Hva er **hovedpåstanden** til forfatteren?
@@ -79,7 +79,7 @@ Spør:
 5. Hvilken **ryggdekning** har metoden (på tross av innvendingene hun har pekt på)?
 6. Hvilken **styrkemarkør** mener forfatteren at argumentene har?
 
-Når du har utført grundige søk til oppgaven du skal skrive kan du bruke argumentajonsmodellen til å analysere argumentasjonen i sentrale tekster du leser. Dette vil gi deg en mer systematisk oversikt over hvordan forfatteren argumenterer, og om argumentene hun/han kommer med holder, eller om du ser svakheter i teksten.
+Ved å analysere argumentasjonen i sentrale tekster vil du få en systematisk oversikt over hvordan forfatteren argumenterer, om argumentene virker holdbare og eventuelle svakheter i teksten.
 :::
 
 ## **Eksempel på argumentasjonsanalyse**
