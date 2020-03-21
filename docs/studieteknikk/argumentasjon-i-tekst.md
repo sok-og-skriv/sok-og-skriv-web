@@ -32,7 +32,7 @@ En analyse av denne korte samtalen over kan gjøres mer nøyaktig og omfattende 
 
 Som student skal du skal både lese og skrive argumenterende tekster. Å tenke over hvordan argumentasjonen fungerer i de tekstene du leser, er derfor en viktig side ved det å lese dem. Når du får tak i hvordan forfatteren argumenterer i teksten, får du et bedre grep om hva hun eller han egentlig sier, og samtidig trener du opp evnen til å ta stilling til det du leser.
 
-## Stephen Toulmins argumentasjonsmodell
+## Toulmins argumentasjonsmodell
 
 Å se etter argumentasjonen i en tekst er altså å stille en viss type spørsmål til teksten. Spør:
 
