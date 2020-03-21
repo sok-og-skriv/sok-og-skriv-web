@@ -10,16 +10,21 @@ Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig f
 Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRoD](?p=1226) (fra engelske IMRaD: Introduction. Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
 ::: eksempel En god oppgave kjennetegnes av at:
-- Alle spørsmål som reises, er besvart eller belyst
-- Leseren forstår hvor forfatteren vil til enhver tid
-- Alt som er redegjort for, har en funksjon
+Alle spørsmål som reises, er besvart eller belyst
 
-- Teorien brukes til å analysere (tolke) data
-- Metodekapitlet er konkret
-- Drøftingen bringer sammen empiri, teori og metode
+Leseren forstår hvor forfatteren vil til enhver tid
 
-- Funnene kommer til sin rett
-- Konklusjonen følger av det som er sagt
+Alt som er redegjort for, har en funksjon
+
+Teorien brukes til å analysere (tolke) data
+
+Metodekapitlet er konkret
+
+Funnene kommer til sin rett
+
+Drøftingen bringer sammen empiri, teori og metode
+
+Konklusjonen følger av det som er sagt
 :::
 
 For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
