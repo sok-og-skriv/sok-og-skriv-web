@@ -68,9 +68,7 @@ Når du har utført grundige søk til oppgaven du skal skrive kan du bruke argum
 
 ## **Argumenterende tekster**
 
-Ikke alle tekster er argumenterende tekster, heller ikke blant [de akademiske sjangrene](?p=943). En leksikonartikkel er først og fremst informativ. Den gir informasjon om noe, men den argumenterer ikke for noe.
-
-Mange av de tekstene du leser er argumenterende tekster. De argumenterer for noe. Ofte sier forfatteren klart fra om hva det er hun eller han argumenterer for.
+Mange av de tekstene du leser er argumenterende tekster. De argumenterer for noe. Ofte sier forfatteren klart fra om hva det er hen argumenterer for.
 
 ::: eksempel EKSEMPEL  
 Fra en artikkel i litteraturvitenskap:
