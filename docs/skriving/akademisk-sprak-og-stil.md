@@ -107,4 +107,6 @@ Disse uttrykkene blandes ofte sammen, men betydningen er nesten motsatt. "Ikke n
 
 **I forhold til**  
 Dette uttrykket har fått en voldsom utbredelse de seneste årene, og erstatter snart de fleste preposisjoner. I forhold til betyr at man sammenligner noe med noe annet, altså at noe står i forhold til, sammenlignes med noe annet (som det ikke er). Overdreven bruk av "i forhold til" gjør meningen uklar og språket flatt. Prøv å variere med mer presise preposisjoner, som: med hensyn til, når det gjelder, sammenlignet med, i forbindelse med osv.
+
+Se flere eksempler på vanlige feil hos [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriverad/Feil-bruk-av-ord-og-uttrykk)
 :::
