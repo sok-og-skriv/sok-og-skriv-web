@@ -5,9 +5,9 @@ date: "2012-12-07"
 
 # Lesing og skriving
 
-Oppgaveskriving i høyere utdanning går ut på å bruke det du har lest og lært til å skrive noe selv, på en selvstendig måte. Du former din egen tekst blant annet gjennom å omforme andres tekster.
+Oppgaveskriving i høyere utdanning går ut på å bruke det du har lest og lært til å skrive noe selv, på en selvstendig måte. Du former din egen tekst blant annet gjennom å omforme og diskutere med andres tekster.
 
-Gjennom lesingen plukker du opp og samler inn det du kan bruke i skrivingen. Husk at du da endrer på den opprinnelige sammenhengen for det materialet du bruker. Når du viser til eller siterer fra en annen tekst, bruker du det til å forme egne resonnementer. Alt som skjer i din tekst er det du som gjør. Samtidig kan du ikke bare overta det andre har tenkt og skrevet som om det var deg selv som hadde tenkt og skrevet det. Du må skille klart mellom egne resonnementer, fortolkninger, parafraseringer (indirekte sitater), og direkte sitater. Du må altså beherske grunnleggende [sitat- og referanseteknikk](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/).
+Gjennom lesingen plukker du opp og samler inn momenter du kan bruke i skrivingen. Husk at du da endrer på den opprinnelige sammenhengen for det materialet du bruker. Når du viser til eller siterer fra en annen tekst, bruker du den til å forme egne resonnementer. Alt som skjer i din tekst er det du som gjør. Samtidig kan du ikke bare overta det andre har tenkt og skrevet som om det var deg selv som hadde tenkt og skrevet det. Du må skille klart mellom egne resonnementer, fortolkninger, parafrasering (indirekte sitater), og direkte sitater. Du må altså beherske grunnleggende [sitat- og referanseteknikk](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/).
 
 ## Ta vare på det du har lest
 
@@ -20,11 +20,15 @@ Mens man leser en tekst, hender det at man tenker: «Det var interessant, det vi
 - Få tak i tekstens hovedbudskap, argumentasjon og sammenhengen teksten står i. Vent gjerne med understrekning og notering til du har lest gjennom teksten, eller til du har lest nok til at du skjønner hvilken retning teksten tar og hva den dreier seg om. (Mer om dette under [Lesemåter](?p=1285)). Hvis du fester deg for mye ved detaljer, kan du oppleve at det blir vanskeligere å gripe helheten i teksten. Legg merke til  steder i teksten der forfatteren samler sine argumenter eller der hvor hovedpoengene kommer tydeligst til uttrykk.
 - Bli enig med deg selv om hvilke tegn du bruker til å markere hva med. Streker, dobbeltstreker, ringer rundt bestemte begreper, utropstegn eller kryss er eksempler på tegn man kan bruke til å markere i teksten. Når du tar frem teksten igjen, går det raskere å få øye på det viktigste i teksten.
 
-::: tip 
-**Husk!** Hva du oppfatter som det viktigste, kan forandre seg. Første gang du jobber med en vanskelig tekst om et nytt emne, kan det hende at du gjetter ganske mye hva som er viktig i teksten. Det er ikke sikkert at du gjetter riktig i første omgang. Vær åpen for at du kan ha oversett noe viktig, kanskje til og med det viktigste?
+::: tip Tenk på:
+Hva du oppfatter som det viktigste, kan forandre seg. Første gang du jobber med en vanskelig tekst om et nytt emne, kan det hende at du gjetter ganske mye hva som er viktig i teksten. Det er ikke sikkert at du gjetter riktig i første omgang. Vær åpen for at du kan ha oversett noe viktig, kanskje til og med det viktigste. 
+
+I løpet av en skriveprosess kan du få bruk for å gå tilbake til og lese en tekst på nytt, fordi ditt perspektiv kan ha endret seg. 
++ Kanskje forstår du argumentasjonen bedre etter å ha lest noe annet? 
++ Kanskje prosessen med å drøfte har fått deg til å stille andre spørsmål? 
++ Kanskje kan du ha nytte av teksten på en annen måte enn du først trodde fordi du har endret problemstillingen din?
 :::
 
-Når du er i en skriveprosess, kan det også hende du får bruk for å gå tilbake til og lese en tekst på nytt, fordi din oppfatning av den kan ha endret seg. Kanskje forstår du argumentasjonen bedre etter å ha lest noe annet? Kanskje prosessen med drøfting har fått deg til å stille andre spørsmål? Kanskje kan du ha nytte av teksten på en annen måte enn du først trodde fordi du har endret problemstillingen din?
 
 ## Å skrive sammendrag
 
