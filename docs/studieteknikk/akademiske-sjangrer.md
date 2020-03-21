@@ -8,29 +8,26 @@ next: "../skriving/"
 
 Når du studerer, leser du ulike typer tekster: lærebøker, oppslagsverk, vitenskapelige og populærvitenskapelige artikler og essays, konferanseinnlegg, rapporter og avhandlinger.
 
-## Sjangerbevissthet
-
-Du leser med andre ord tekster i ulike sjangrer. Å være bevisst om hva slags sjanger du har å gjøre med når du leser en tekst, er en del av tekstforståelsen. Sjanger er også nyttig å tenke på når du skal skrive akademiske tekster selv, og lar deg inspirere av tekster du leser. Skal du for eksempel skrive en semesteroppgave (bacheloroppgave) eller en hjemmeeksamen, skal teksten du skriver ligne mer på en artikkel enn på et kapittel i en lærebok. Det betyr at du skal argumentere og problematisere - drøfte - ikke bare presentere kunnskap.
+Du leser med andre ord tekster i ulike sjangrer. Å være bevisst om hva slags sjanger du har å gjøre med når du leser en tekst, er en del av tekstforståelsen. Sjanger er også nyttig å tenke på når du skal skrive akademiske tekster selv, og lar deg inspirere av tekster du leser. Skal du for eksempel skrive en semesteroppgave (bacheloroppgave) eller en hjemmeeksamen, skal teksten du skriver ligne mer på en artikkel enn på et kapittel i en lærebok. Det betyr at du skal argumentere og problematisere - drøfte - og ikke bare presentere kunnskap.
 
 I skolen lærer man om både skjønnlitterære sjangrer (dikt, noveller, romaner, skuespill) og om sakprosasjangrer. Innenfor sakprosa finner vi både akademiske og ikke-akademiske sjangrer. Eksempler på det siste er journalistiske sjangrer som lederartikkel og nyhetsreportasje. Her skal vi kort omtale noen akademiske sjangrer og hva som kjennetegner dem.
 
-## Noen akademiske sjangrer
 
 ### Lærebok
 
-Formålet med en lærebok er å formidle etablert kunnskap. Målgruppen er studenter i faget. En lærebok gir en innføring i hva faget dreier seg om, hva man vet i faget og hvilke problemstillinger, begreper og teorier faget består av. En lærebok presenterer kunnskap, og den forklarer hva kunnskapen har vært brukt til og kan brukes til. Den informerer og instruerer. Selv om en lærebok også kan inneholde drøfting og argumentasjon, er dens viktigste oppgave ikke å argumentere for bestemte oppfatninger, men å redegjøre for de oppfatninger som allerede finnes i faget.
+Formålet med en lærebok er å formidle etablert kunnskap. Målgruppen er studenter i faget. En lærebok gir en innføring i hva faget dreier seg om, hva man vet i faget og hvilke problemstillinger, begreper og teorier faget består av. En lærebok presenterer kunnskap, og den forklarer hva kunnskapen har vært brukt og kan brukes til. Den informerer og instruerer. Selv om en lærebok også kan inneholde drøfting og argumentasjon, er dens viktigste oppgave ikke å argumentere for bestemte oppfatninger, men å redegjøre for de oppfatninger som allerede finnes i faget.
 
 ### Vitenskapelig artikkel
 
-Formålet med en vitenskapelig artikkel er å presentere ny kunnskap eller gi nye perspektiver på et faglig problem eller en faglig gjenstand. Målgruppen er andre fagpersoner. En vitenskapelig artikkel er først og fremst argumenterende: Den hevder at noe er tilfelle eller sannsynligvis tilfelle, og underbygger påstanden med argumenter. En vitenskapelig artikkel må derfor ha grundig og sammenhengende argumentasjon. Den må også ha grundig dokumentasjon, ved å vise til empiri eller til annen forskning. Dessuten må forfatteren av en vitenskapelig artikkel anvende anerkjente metoder og gjøre rede for disse i artikkelen.
+Formålet med en vitenskapelig artikkel er å presentere ny kunnskap eller gi nye perspektiver på et faglig spørsmål. Målgruppen er andre fagpersoner. En vitenskapelig artikkel er først og fremst argumenterende: Den hevder at noe er tilfelle eller sannsynligvis tilfelle, og underbygger påstanden med evidens (argumenter, forskningsresultater). En vitenskapelig artikkel må derfor både ha gyldig argumentasjon og grundig dokumentasjon. Dessuten må forfatteren av en vitenskapelig artikkel anvende anerkjente metoder og gjøre rede for disse i artikkelen.
 
 ### Avhandling
 
-En avhandling er et større vitenskapelig arbeid. I noen fag (spesielt medisin og realfag) er det vanlig å sette sammen en avhandling av (allerede publiserte) artikler, med en innledning som forklarer hvordan artiklene inngår i avhandlingens overordnede sammenheng. I andre fag (spesielt humanistiske og samfunnsvitenskapelige fag) er det vanligere å skrive en monografi, altså ett sammenhengende arbeid som er inndelt i kapitler. Avhandlingen har fellestrekk med artikkelen: Den presenterer ny kunnskap overfor fagfolk, den argumenterer, den har grundig dokumentasjon og den gjør rede for metoden som er brukt. Når du skal skrive masteroppgave, er det en avhandling du skal skrive.
+En avhandling er et større, vitenskapelig arbeid. I mange fag er det vanlig å sette sammen en avhandling av (allerede publiserte) artikler, med en innledning (kappe) som forklarer hvordan artiklene inngår i avhandlingens overordnede sammenheng. I andre fag (spesielt humanistiske fag) er det vanligere å skrive en monografi, altså ett sammenhengende arbeid som er inndelt i kapitler. Avhandlingen har fellestrekk med artikkelen: Den presenterer ny kunnskap overfor fagfolk, den argumenterer, den har grundig dokumentasjon og den gjør rede for metoden som er brukt. Når du skal skrive masteroppgave, er det en avhandling du skal skrive.
 
 ### Populærvitenskapelig framstilling
 
-Formålet med populærvitenskapelige framstillinger, i enten bøker eller artikler, er å formidle etablert kunnskap til «den alminnelige leser». Ettersom formålet normalt ikke er å etablere ny kunnskap eller utfordre etablerte sannheter, vil innslaget av argumentasjon være mindre enn i de vitenskapelige sjangrene. Isteden legges det vekt på å levendegjøre stoffet, ved hjelp av fortellinger, anekdoter, illustrasjoner og lignende. Av og til kan teksten i sin helhet være bygget opp som en fortelling, for eksempel en biografi om en betydningsfull vitenskapsmann eller -kvinne, eller en framstilling av et historisk forløp.
+Formålet med populærvitenskapelige framstillinger, i enten bøker eller artikler, er å formidle etablert kunnskap til «den alminnelige leser». Ettersom formålet normalt ikke er å etablere ny kunnskap eller utfordre etablerte sannheter, vil innslaget av argumentasjon være mindre enn i de vitenskapelige sjangrene. Isteden legges det vekt på å levendegjøre stoffet ved hjelp av fortellinger, anekdoter, illustrasjoner og lignende. Av og til kan teksten i sin helhet være bygget opp som en fortelling, for eksempel en biografi om en betydningsfull forsker eller en framstilling av et historisk forløp.
 
 ### Leksikonartikkel
 
