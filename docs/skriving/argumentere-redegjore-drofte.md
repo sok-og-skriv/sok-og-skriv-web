@@ -35,9 +35,9 @@ I drøftingen (eller diskusjonen) er det derimot ønskelig at du utvikler egne s
 
 For å kunne drøfte, må du vite hva det er du drøfter. Da kan det være lurt å ta utgangspunkt i en **forskjell** eller **spenning** i stoffet du har redegjort for. Ofte er oppgaven lagt opp til at du skal drøfte ulike tilnærminger til samme fenomen, for eksempel to ulike teorier. Det er sjelden interessant å se etter likheter - det interessante oppstår når du utforsker en eller annen forskjell eller spenning. Eksempler kan være til god hjelp.
 
-### Ikke still en masse spørsmål
-
-Husk at dersom du stiller et spørsmål i en akademisk tekst, forventer leseren at du skal svare på det. Det å stille «undrende» spørsmål, er ikke det samme som å drøfte.
+::: tip Ikke still en masse spørsmål
+Husk at dersom du stiller et spørsmål i en akademisk tekst, forventer leseren at du skal svare på det. Det å stille «undrende» spørsmål, er ikke det samme som å drøfte. Mange spørsmål etter hverandre er dessuten utmattende å lese. 
+:::
 
 ### Gå systematisk til verks
 
@@ -53,7 +53,7 @@ I noen fag er det vanlig å redegjøre først og deretter drøfte. I andre fag e
 
 Du kan lese mer om forskjellige skrivehandlinger her: [redegjørelse, analyse, drøfting og slutninger. ](/skriving/sprak-og-stil/aa-skrive-ryddig/)
 
-## Enkel argumentasjon: T-U-R-modellen
+## Argumentasjon: T-U-R-modellen
 
 Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt eget uttrykk.
 
