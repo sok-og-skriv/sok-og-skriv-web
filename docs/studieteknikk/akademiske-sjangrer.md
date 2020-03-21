@@ -35,14 +35,14 @@ Formålet med en leksikonartikkel er å presentere etablert kunnskap på en nøy
 
 Se også [kvalitative kildevurderinger](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/) og [målgruppe og sjanger](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/#Mlgruppe_og_sjanger "Målgruppe og sjanger").
 
-## Hvorfor være opptatt av sjanger? 
+## Sjanger og språklige handlinger 
 
 Etter denne korte omtalen av noen akademiske sjangrer, er det verdt å merke seg følgende:
 
 - En sjangerinndeling er en grovsortering ut fra tekstegenskaper og kommunikasjonssituasjoner, men en sjangerinndeling er også selv en sjanger: en måte å inndele (klassifisere) tekster på. 
 - Det er ikke vanntette skott mellom sjangrene. Ofte vil vi finne sjanger_blanding_ eller sjanger_brudd_ i de tekstene vi leser. En biografi kan befinne seg på grensen mellom populærvitenskapelig og vitenskapelig, og av og til vil det være mest dekkende å snakke om en vitenskapelig biografi. En faglig artikkel kan være mer spørrende og problematiserende, mer personlig og språklig original enn en standard vitenskapelig artikkel. Da vil vi kanskje heller omtale artikkelen som et essay. Her er det variasjoner både i terminologi og mellom ulike faglige tradisjoner.
 
-I omtalen ovenfor deler vi inn sjangrene etter _formål_ og _målgruppe_. I tillegg bruker vi en del ord (verb) for å si noe om hva som skjer i de ulike sjangrene, eller hva tekster i de ulike sjangrene vanligvis _gjør,_ som formidle, forklare, presentere, argumentere, informere, beskrive, fortelle. Vi kan si at en sjanger blant annet er kjennetegnet av at en eller noen slike språkhandlinger er dominerende i forhold til andre språkhandlinger. En leksikonartikkel er først og fremst informerende. En artikkel er først og fremst argumenterende. Det betyr ikke at ikke en artikkel også er informerende, men informasjonen som gis er underordnet argumentasjonen.
+I omtalen ovenfor deler vi inn sjangrene etter _formål_ og _målgruppe_. I tillegg bruker vi en del ord (verb) for å si noe om hva som skjer i de ulike sjangrene, eller hva tekster i de ulike sjangrene vanligvis _gjør,_ som formidle, forklare, presentere, argumentere, informere, beskrive, fortelle. Vi kan si at en sjanger er kjennetegnet av at en eller noen slike språkhandlinger dominerer over andre. En leksikonartikkel er først og fremst informerende. En artikkel er først og fremst argumenterende. Det betyr ikke at en artikkel ikke også er informerende, men informasjonen som gis er underordnet argumentasjonen.
 
 Når vi leser akademiske tekster, kan vi prøve å legge merke til hvilke _språkhandlinger_ vi finner i teksten. Språkforskere (lingvister) snakker av og til om «ulike teksttyper». En vanlig firedeling (som går tilbake til amerikansk skoleundervisning i retorikk og skriveøvelser fra 1800-tallet), er denne: Exposition, Description, Narration, Argumentation, forkortet EDNA. På norsk: Presentasjon (forklaring, redegjørelse), Beskrivelse, Fortelling, Argumentasjon.
 
@@ -54,5 +54,7 @@ I tillegg til å snakke om at akademiske tekster inngår i ulike akademiske sjan
 - argumenterer (drøfter, problematiserer)
 
 ::: oppgave Øvelse
-Ett av de spørsmålene du kan stille til en tekst, er: Hva gjør denne teksten nå? Forklarer den? Beskriver den? Forteller den? Argumenterer den? Ved å spørre slik kan du skjerpe din forståelse av hva det er som foregår i de tekstene du leser. Da vil også tekstlesingen fungere som en mer aktiv forberedelse av din egen skriving av tilsvarende tekster. Hvordan kan du bruke teksten i din oppgave? Hva kan du hente ut av teksten i forhold til problemstillingen du skal i gang med?
+Ett av spørsmålene du kan stille til en tekst, er: Hva gjør denne teksten nå? Forklarer den? Beskriver den? Forteller den? Argumenterer den? 
+
+Ved å spørre slik, kan du skjerpe din forståelse av hva som foregår i de tekstene du leser. Da vil lesingen også fungere som en aktiv forberedelse til din egen skriving.
 :::
