@@ -59,7 +59,7 @@ I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer s
 
 Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
 
-::: tip Tips!
+::: øvelse Øvelse
 Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
