@@ -36,19 +36,19 @@ Som student skal du skal både lese og skrive argumenterende tekster. Å tenke o
 
 Å se etter argumentasjonen i en tekst er altså å stille en viss type spørsmål til teksten. 
 
-::: oppgave Spør:
+::: oppgave Spørsmål 1: hovedpåstand
 Hva er **synspunktet** i teksten? Hva er det forfatteren hevder? Hva er det forfatteren argumenterer for? Synspunktet kan kalles **standpunktet**, **påstanden**, eller **hovedpåstanden**. Forfatteren diskuterer seg frem til et synspunkt, som fremføres til slutt. Synspunktet kan derfor også kalles for **konklusjonen**. 
 ::: 
 
 En vanlig framstilling er som følger: Synspunktet kommer fram tidlig ("Jeg vil argumentere for"), så kommer argumentasjonen; diskusjonen, drøftingen, analysen, gjennomgangen, og til slutt kommer synspunktet igjen, nå som en konklusjon: "Vi kan på bakgrunn av dette konkludere med...", "Som jeg har vist i det foregående...". 
 
-::: oppgave Spør: 
+::: oppgave Spørsmål 2: argumenter
 Hva er **argumentene** i teksten? Hvordan underbygger forfatteren synspunktene sine? Hva er det forfatteren argumenterer med? 
 :::
 
 Et argument som underbygger et synspunkt kalles også for **belegg:** Hva slags belegg har forfatteren for å hevde dette? eller **dokumentasjon:** Hvordan dokumenterer forfatteren synspunktet sitt?
 
-::: oppgave Spør:
+::: oppgave Spørsmål 3: relevans
 Hva er de underliggende eller bakenforliggende antakelsene som ligger til grunn for at disse argumentene faktisk kan brukes til å støtte dette synspunktet? Hva er det som gjør at argumentene fremstår som relevante i sammenhengen?
 :::
 
@@ -67,9 +67,9 @@ Hva slags **styrkemarkør** fremføres synspunktet med? Styrkemarkører kan du s
 
 Argumentasjonen i en akademisk tekst er ofte kompleks. En tilnærmet fullstendig analyse av argumentasjonen kan fort bli svært omfattende. Det gjelder derfor å forenkle - i alle fall til å begynne med. Da kan du holde deg til noen få hovedspørsmål som du stiller til teksten, og så ser du hvor langt du kommer med det.
 
-::: oppgave OPPGAVE
+::: oppgave Toulmins argumentasjonsmodell
 
-Spørsmålene over kan du samle til en spørremetode (vi kaller metoden [Toulmins argumentasjonsmodell](https://folk.uib.no/st10938/toulmin-andrestekst/argument.html)).  
+Spørsmålene over kan samles til en spørremetode kalt Toulmins argumentasjonsmodell.  
 Spør:
 
 1. Hva er **hovedpåstanden** til forfatteren?
@@ -79,7 +79,7 @@ Spør:
 5. Hvilken **ryggdekning** har metoden (på tross av innvendingene hun har pekt på)?
 6. Hvilken **styrkemarkør** mener forfatteren at argumentene har?
 
-Når du har utført grundige søk til oppgaven du skal skrive kan du bruke argumentajonsmodellen til å analysere argumentasjonen i sentrale tekster du leser. Dette vil gi deg en mer systematisk oversikt over hvordan forfatteren argumenterer, og om argumentene hun/han kommer med holder, eller om du ser svakheter i teksten.
+Ved å analysere argumentasjonen i sentrale tekster vil du få en systematisk oversikt over hvordan forfatteren argumenterer, om argumentene virker holdbare og eventuelle svakheter i teksten.
 :::
 
 ## **Eksempel på argumentasjonsanalyse**
@@ -94,6 +94,8 @@ I min lesning av diktet ‘Död amazon’ vil jeg argumentere for at diktspråke
 
 Vi legger merke til følgende:
 
+### 1 Synspunktet
+
 Forfatteren sier «vil jeg argumentere for». Det som følger er da det synspunktet eller den påstanden det skal argumenteres for, her «at diktspråket \[i diktet ‘Död amazon’\] rommer en kompleks og fortettet temporalitet (osv.)». Andre måter å markere hva som er hovedsynspunktet eller hovedpåstanden på, er «Tesen i denne artikkelen er … », «Jeg vil hevde at», «Min påstand i det følgende er at … ». Det kan sies på mange måter. Dessuten blir det ikke alltid sagt rett ut. Ofte må vi slutte oss til hva det blir argumentert for ut fra det vi leser, uten at vi får direkte hjelp av slike formuleringer.
 
 For det andre: Selv om forfatteren sier hva det er hun/han argumenterer for, er det ikke sikkert vi dermed fullt ut forstår hva hun mener. Hva betyr «den mimesislogikk som vi vanligvis møter i poetikken»? Hvis vi har studert litteraturvitenskap, har vi kanskje en idé om hva det kan bety. Men selv da må vi gjerne lese videre, for å få en mer presis oppfatning av hva det er snakk om i sammenhengen. I den artikkelen vi har sitert, utdyper forfatteren hva som ligger i begrepene allerede i de neste setningene i innledningen. Etter innledningen heter det første hovedavsnittet «Mimesis og temporalitet», og her får vi utdypet det enda mer, med henvisning til forskjellige teoretikere, med bruk av flere begreper, og gjennom eksempler.
@@ -102,6 +104,8 @@ For det tredje: Det er ikke alltid slik at et synspunkt er noe som skal – elle
 
 For det fjerde: Legg merke til at synspunktet i den litteraturvitenskapelige artikkelen er formulert med visse modifikasjoner. Det er noen uttrykk i synspunktformuleringen som gjør den mindre bastant enn hvis de ikke hadde vært der: "som vanskelig lar seg forene med", "som vi vanligvis møter i poetikken". Det står ikke: "som ikke (eller umulig) lar seg forene med", eller "som vi alltid møter i poetikken". Forfatteren tar visse forbehold, kan vi si. En annen måte å si det på er at forfatteren bruker _styrkemarkører_ for å angi hvor sterkt en påstand skal oppfattes. Å si at vi _alltid _møter mimesislogikk i poetikken, vil være å gå for langt; vi møter den _vanligvis._ Slik bruk av styrkemarkører er svært utbredt - og det er viktig å legge merke til bruken av styrkemarkører når vi leser. Hevder forfatteren at noe "alltid" er tilfelle? Eller "ofte", "vanligvis", "noen ganger"? Er det snakk om at noe "er" slik og slik - eller er det  snakk om at noe "kanskje er", "muligens er" eller "kan tenkes" å være slik og slik?
 
+### 2 Argumentene 
+
 Så langt om synspunktet (standpunktet, påstanden, tesen, det som det argumenteres _for_). Hva med argumentene? Argumentene er alt det som skal støtte eller underbygge synspunktet. I den litteraturvitenskapelige artikkelen vi har sitert, er argumentene av flere slag:
 
 - Henvisninger til teoretikere (filosofer, litteraturvitere), for å få fram at det er en interessant motsetning mellom en ikke-mimetisk temporalitet og en tradisjonell mimesislogikk. (Hvis ikke det var det, ville synspunktet bli tømt for innhold.)
@@ -109,13 +113,16 @@ Så langt om synspunktet (standpunktet, påstanden, tesen, det som det argumente
 - Henvisninger til (og sitater fra) diktet som tolkes.
 - Henvisninger til andre dikt; av Karin Boye, og fra den klassiske tradisjonen som Gullberg henspiller på.
 
+
+### Relevans (3-6)
+
 Hvis vi så spør hva det er som gjør dette stoffet brukbart i en argumentasjon, og om hvor sterke de enkelte argumentene er, så får vi dels øye på _hva som generelt regnes som gangbar argumentasjon_ i litteraturvitenskapelig teksttolkning; dels retter vi oppmerksomheten mot _hvordan akkurat denne artikkelforfatteren spesielt går fram_ for å underbygge sitt syn, og hvordan hun utnytter det stoffet som hun presenterer. Generelt: Det regnes som gangbart å sitere teorier, begreper og utsagn fra forskjellige filosofer og litteraturteoretikere for å kaste lys over en tekst man tolker. Det forventes videre at man siterer den teksten man tolker og at de kommentarene man gir virker plausible (troverdige, sannsynlige) sammenholdt med teksten. (Leseren får en mulighet for å tenke «Dette virker søkt», «Det er jo ikke det som står her».) Å trekke inn historiske og biografiske forhold, og å sammenligne forskjellige tekster og la dem belyse hverandre, er også en del av den generelle framgangsmåten, ser det ut til. Hvis vi studerer litteraturvitenskap og setter oss inn i faghistorien, vil vi riktignok oppdage at det har vært mye diskusjon om hva som skal regnes som gangbart. For eksempel har en av hoveddiskusjonene vært om hvor langt en kan gå i å trekke inn forhold utenfor teksten (historie, biografi) når en skal tolke en tekst: Bør en ikke holde seg mest mulig til teksten selv? Men hva skal en i så fall forstå med "teksten selv"? Slike spørsmål hører til det en gjerne kaller for et fags grunnlagsproblematikk. Her fins synspunkter - og argumenter - på begge sider!
 
 Så kan vi spørre mer spesifikt: Hva er argumentene til akkurat denne forfatteren? Hvordan går forfatteren av denne analysen av dette diktet fram for å underbygge sitt syn? Ett sted leser vi for eksempel dette avsnittet:
 
 Rent formelt skriver "Död amazon" seg inn i en lang tradisjon av korlyrikk som kan dateres tilbake til den antikke greske kulturens storhetstid. Ved å appropriere den antikke greske elegiens form, flettes diktspråket inn i en intertekstuell vev. I denne veven kan vi spore tråder fra Simonides' korlyriske ode til Leonidas, som på finurlig vis veves inn i hyllingsdiktet til Karin Boye. Slik kan vi si at Gullbergs dikt følger et formelt og språklig påbud fra antikken, og diktet representerer noe formelt utidssvarende (_Unzeitgemäβ_) i forhold til Gullbergs moderne samtid. (Ibid., s. 148; to trykkfeil i sitatet er rettet her: "Leonides" og "Unzitgemäβ"; dessuten er utelatt en fotnote, der et dikt av Simonides blir sitert).
 
-Dette avsnittet inngår i en serie avsnitt der forfatteren viser eller sannsynligjør - argumenterer for - at Gullbergs diktspråk "rommer en kompleks og fortettet temporalitet". I dette avsnittet er argumentet at diktets komplekse forhold til tid (temporalitet) blant annet viser seg i måten diktet inngår i og utnytter en litterær tradisjon. Det oppstår en "vev" av ulike tider og tekster i diktet, og en spenning mellom "antikken" og "Gullbergs moderne samtid". I neste avsnitt går forfatteren inn på hvordan diktet er bygget opp med strofer og rim, fortsatt som en del av argumentasjonen for at diktet er "komplekst" i måten det forholder seg til ulike historiske tradisjoner og "tider" på. Forfatteren går videre inn på enkeltord i diktet, særlig ordet "amazon". I følge forfatteren kan dette ordet "ikke kun betraktes som en etterligning av den antikke amasonen", det "har også en 'moderne' fremtoning, da de fleste moderne lesere i dag assosierer ordet med lesbianisme" (ibid., s. 149). "Amasonen fungerer i diktet som en signifikant \[her menes: et tegn\] som på ett nivå refererer til personen Karin Boye, og må derfor også sies å ha resonans i samtiden \[...\] Men i tillegg, og som en projeksjon mot det fremtidige, bærer videre ordet 'amazone' bud om et fenomen som vi forbinder med 1970-tallet, nemlig de lesbiske 'Amazon Warriors' med sine krigerske strategier som dannet fortroppen i kvinnebevegelsen" (s. 150).
+Dette avsnittet inngår i en serie avsnitt der forfatteren viser eller sannsynligjør - argumenterer for - at Gullbergs diktspråk "rommer en kompleks og fortettet temporalitet". I dette avsnittet er argumentet at diktets komplekse forhold til tid (temporalitet) blant annet viser seg i måten diktet inngår i og utnytter en litterær tradisjon. Det oppstår en "vev" av ulike tider og tekster i diktet, og en spenning mellom "antikken" og "Gullbergs moderne samtid". I neste avsnitt går forfatteren inn på hvordan diktet er bygget opp med strofer og rim, fortsatt som en del av argumentasjonen for at diktet er "komplekst" i måten det forholder seg til ulike historiske tradisjoner og "tider" på. Forfatteren går videre inn på enkeltord i diktet, særlig ordet "amazon". Ifølge forfatteren kan dette ordet "ikke kun betraktes som en etterligning av den antikke amasonen", det "har også en 'moderne' fremtoning, da de fleste moderne lesere i dag assosierer ordet med lesbianisme" (ibid., s. 149). "Amasonen fungerer i diktet som en signifikant \[her menes: et tegn\] som på ett nivå refererer til personen Karin Boye, og må derfor også sies å ha resonans i samtiden \[...\] Men i tillegg, og som en projeksjon mot det fremtidige, bærer videre ordet 'amazone' bud om et fenomen som vi forbinder med 1970-tallet, nemlig de lesbiske 'Amazon Warriors' med sine krigerske strategier som dannet fortroppen i kvinnebevegelsen" (s. 150).
 
 Her vil kanskje leseren stoppe opp og tenke: Hva? Går det an å si om et dikt fra 1941 at det også henspiller på betydninger fra 1970-tallet? Hva slags argument er det? Hvis vi spør slik, kan vi videre spørre: Hva gjør forfatteren i artikkelen for å begrunne at det går an å argumentere slik? Da oppdager vi, eller får en klarere oppfatning av, at en god del av artikkelen går med til å diskutere hva det vil si å lese ut betydning av et dikt (en tekst) som både står i en historisk tradisjon, er skrevet i en bestemt historisk situasjon og leses av oss i en annen historisk situasjon. De forskjellige tidslagene og betydningslagene er tilstede samtidig når vi leser. Forfatteren diskuterer slike ting blant annet ved å vise til teorier om betydning og temporalitet (tid). Vi kan stille oss kritisk til en del av det forfatteren (eller disse teoriene) hevder, men vi kan ikke si at hun ikke argumenterer for det hun hevder. Hun argumenterer blant annet gjennom å drøfte og underbygge selve grunnlaget for å kunne bruke de mer spesifikke argumentene hun bruker når hun analyserer diktet. Gjør hun det på en overbevisende måte? kan vi spørre. For å få gode svar på slike spørsmål, må vi ta teksten vi leser alvorlig og lese den grundig.
 
