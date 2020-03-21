@@ -63,7 +63,7 @@ Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser a
 Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
-## Slutninger (konklusjoner)
+## Slutninger (konklusjon)
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
