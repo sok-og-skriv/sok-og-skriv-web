@@ -37,9 +37,16 @@ I løpet av en skriveprosess kan du få bruk for å gå tilbake til og lese en t
 
 Sammendrag er et veldig godt verktøy for å sette seg inn i og forstå et stoff. Når du skriver sammendrag, bør du konsentrere deg om å få fram hovedtrekk ved tekstens formål, argumentasjon og struktur. [Sammendraget skal være lojalt](/kildebruk-og-referanser/hvordan-referere/#Meningsinnhold "Hvorfor referere?") overfor originalteksten. Det gjelder å fremstille problematikken og argumentasjonen i en tekst på dens egne premisser. Poenget med å skrive sammendrag er _ikke_ å kritisere synspunktene eller å belyse egne problemstillinger. Skriv sammendraget med sikte på å gjengi andres påstander og argumenter – med dine egne ord – på en slik måte at de ville kunne si: «Ja, det var det jeg mente».
 
-## Les din egen oppgave
+Å skrive sammendrag kan være krevende, men svært nyttig når du skal skrive større oppgaver, rapporter, i undervisning og faglige diskusjoner. 
 
-- Når du skriver en oppgave, er det viktig å lese gjennom den mange ganger. Vær kritisk, og still de samme spørsmålene til din egen tekst som du stiller til andres: Hva vil jeg fram til her? Gjør jeg klart rede for problemstillingen? Besvarer jeg den i løpet av oppgaven?
-- Akkurat som med andre tekster, er det lurt å legge den fra seg en stund for så å komme tilbake og se på den med friske øyne. Er noe uklart? Kommer det tydelig fram hva jeg vil undersøke, hva jeg vil demonstrere og/eller argumentere for, hva som er mine poenger og hva som er andres?
-- Les teksten din høyt for deg selv. Dette er en god måte å oppdage eventuelle problemer som dine lesere vil kunne støte på. Er setningene for lange? Er det mange gjentakelser? Det er lett å se seg blind på sin egen tekst, men du kan ofte _høre_ at noe kan bli bedre.
-- La også andre lese og kommentere teksten din, gjerne både [medstudenter](studieteknikk/gruppearbeid) og andre som ikke er like innforstått med tematikk og terminologi. De kan se ting ikke du ser. Når dere leser hverandres tekster, kan dere bli inspirert, men dere kan også bli oppmerksomme på svakheter og feil dere selv vil unngå. Det kan altså være nyttig både for den som leser og kommenterer og for den som får teksten sin kommentert.
+## Les og del 
+
+Når du skriver en oppgave, er det viktig å lese gjennom den flere ganger. Vær kritisk, og still de samme spørsmålene til din egen tekst som du stiller til andres: Hva vil jeg fram til her? Gjør jeg klart rede for problemstillingen? Besvarer jeg den i løpet av oppgaven?
+
+Akkurat som med andre tekster, er det lurt å legge den fra seg en stund for så å komme tilbake og se på den med friske øyne. Er noe uklart? Kommer det tydelig fram hva jeg vil undersøke, hva jeg vil demonstrere eller argumentere for, hva som er mine poenger og hva som er andres?
+
+::: oppgave Les teksten din høyt for deg selv 
+Dette er en god måte å oppdage eventuelle problemer som dine lesere vil kunne støte på. Er setningene for lange? Er det mange gjentakelser? Det er lett å se seg blind på sin egen tekst, men du kan ofte _høre_ at noe kan bli bedre.
+:::
+
+La også andre lese og kommentere teksten din, gjerne både [medstudenter](studieteknikk/gruppearbeid) og andre som ikke er like innforstått med tematikk og terminologi. De kan se ting ikke du ser. Når dere leser hverandres tekster, kan dere bli inspirert, men dere kan også bli oppmerksomme på svakheter og feil dere selv vil unngå. Det kan altså være nyttig både for den som leser og kommenterer og for den som får teksten sin kommentert.
