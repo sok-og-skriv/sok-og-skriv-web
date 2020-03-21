@@ -67,7 +67,7 @@ Hva slags **styrkemarkør** fremføres synspunktet med? Styrkemarkører kan du s
 
 Argumentasjonen i en akademisk tekst er ofte kompleks. En tilnærmet fullstendig analyse av argumentasjonen kan fort bli svært omfattende. Det gjelder derfor å forenkle - i alle fall til å begynne med. Da kan du holde deg til noen få hovedspørsmål som du stiller til teksten, og så ser du hvor langt du kommer med det.
 
-::: oppgave OPPGAVE
+::: oppgave Toulmins argumentasjonsmodell
 
 Spørsmålene over kan samles til en spørremetode kalt Toulmins argumentasjonsmodell.  
 Spør:
