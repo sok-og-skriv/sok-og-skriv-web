@@ -98,12 +98,6 @@ Dersom du bruker figurer og/eller tabeller i teksten, må disse kommenteres og f
 
 Vær oppmerksom på [opphavsrettslige forhold](https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) ved reproduksjon av andres bilder. Slik bruk er som regel ikke omfattet av sitatretten.
 
-<Figure
-  src="/images/figur-eksempel.png"
-  alt="Figur"
-  caption="Eksempel på bruk av figur. Hentet fra «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0."
-  type=""
-/>
 
 ## Noter
 
