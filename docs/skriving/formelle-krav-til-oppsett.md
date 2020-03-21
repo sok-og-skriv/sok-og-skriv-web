@@ -64,10 +64,13 @@ Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer ti
 
 Brødteksten er den teksten som kalles "normal" i tekstbehandlingsprogrammet. Vær forsiktig med bruk av utheving, kursivering, understreking mv.
 
-- **Linjeavstand** er vanligvis halvannen (1,5). Stilles inn her: ![](/images/linjeavstand.png)
-- **Punktstørrelse:** Det mest vanlige er 11 i en moderne font som Calibri eller 12 i en tradisjonell font som Times New Roman.
-- **Venstrejustert** tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet. Velg ![](/images/venstrejustert.png)
-- **Topp- og bunnmarg** skal være minst 2,5 cm.
+**Linjeavstand** er vanligvis halvannen (1,5). Stilles inn her: ![](/images/linjeavstand.png)
+
+**Punktstørrelse:** Det mest vanlige er 11 i en moderne font som Calibri eller 12 i en tradisjonell font som Times New Roman.
+
+**Venstrejustert** tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet. Velg ![](/images/venstrejustert.png)
+
+**Topp- og bunnmarg** skal være minst 2,5 cm.
 
 I tabeller, figurer, fotnoter og referanseliste kan du bruke mindre punktstørrelse og enkel linjeavstand så lenge hensynet til lesbarhet er godt ivaretatt.
 
