@@ -7,25 +7,29 @@ date: "2012-05-04"
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
-En god oppgave kjennetegnes av at:
+Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRoD](?p=1226) (fra engelske IMRaD: Introduction. Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
+::: eksempel En god oppgave kjennetegnes av at:
 - Alle spørsmål som reises, er besvart eller belyst
 - Leseren forstår hvor forfatteren vil til enhver tid
 - Alt som er redegjort for, har en funksjon
+
 - Teorien brukes til å analysere (tolke) data
 - Metodekapitlet er konkret
 - Drøftingen bringer sammen empiri, teori og metode
+
 - Funnene kommer til sin rett
 - Konklusjonen følger av det som er sagt
+:::
 
-For å kunne skrive effektivt og [strukturert](/skriving/oppbygning-av-en-oppgave/) er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
+For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
 
-Ta for deg én ting om gangen og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
+Ta for deg én ting om gangen, og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
 
-For å skille mellom de ulike operasjonene, kan du velge å legge redegjørelser i egne kapitler (teorikapittel, presentasjon av funn osv.) og samle all drøftingen i et eget drøftingskapittel. Du kan også velge å drøfte og argumentere underveis. Det siste er vanlig i filosofiske og teoretiske oppgaver. Uansett er det viktig å _signalisere_ hva som er redegjørelse (beskrivelse eller utlegning) og hva som er din tolkning, dine argumenter og andres argumenter. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. En slik skrivemåte er en del av forskerrollens ideal om refleksivitet og objektivitet.
+For å skille mellom de ulike operasjonene kan du velge å legge redegjørelser i egne kapitler (teorikapittel, presentasjon av funn osv.) og samle all drøftingen i et eget drøftingskapittel. Du kan også velge å drøfte eller diskutere underveis. Det siste er vanlig i filosofiske og teoretiske oppgaver. Uansett er det viktig å _signalisere_ hva som er redegjørelse (beskrivelse, utlegning, forklaring) og hva som er din egen tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
 
-::: tip Tips!
-Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave.
+::: tip Tips
+Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave. Se [akademisk språk og stil](/skriving/akademisk-sprak-og-stil)
 :::
 
 ## Redegjørelse
@@ -34,8 +38,8 @@ I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling 
 
 Teksten blir mest ryddig dersom du setter nytt avsnitt før du begynner å drøfte – eller diskutere – det du har redegjort for, men her kan du bruke skjønn.
 
-::: tip Tips!
-Gjengi materialet med egne ord, gå deretter tilbake til kilden for å sjekke fakta.
+::: tip Bruk ditt eget språk 
+Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gjengivelsen. Da får du mye bedre flyt enn hvis du kopierer kildens språk for å bearbeide det. 
 :::
 
 ## Analyse
@@ -46,21 +50,17 @@ Empirien i en empirisk oppgave må analyseres, det vil si _kodes, tolkes_ og eve
 
 I en teoretisk oppgave er [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting sentralt. Du kan enten drøfte ideene og begrepene underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
 
-I en empirisk oppgave kommer drøftingen etter redegjørelsen, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRoD-modellen](/skriving/imrod-modellen/).
+I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen/).
 
 Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
 
 ::: tip Tips!
-Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i andres tekster.
+Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
 ## Slutninger (konklusjoner)
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
-
-Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRoD](?p=1226) (fra engelske IMRaD: Introduction. Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
-
-Det finnes også mye god litteratur om oppgaveskriving, prøv å søke i [Oria](https://oria.no "Oria").
 
 <Video id="rnqQo0pyg3E" />
