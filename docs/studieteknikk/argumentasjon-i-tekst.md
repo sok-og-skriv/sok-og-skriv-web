@@ -66,7 +66,7 @@ Spør:
 Når du har utført grundige søk til oppgaven du skal skrive kan du bruke argumentajonsmodellen til å analysere argumentasjonen i sentrale tekster du leser. Dette vil gi deg en mer systematisk oversikt over hvordan forfatteren argumenterer, og om argumentene hun/han kommer med holder, eller om du ser svakheter i teksten.
 :::
 
-## **Argumenterende tekster**
+## **Eksempel på argumentasjonsanalyse**
 
 Mange av de tekstene du leser er argumenterende tekster. De argumenterer for noe. Ofte sier forfatteren klart fra om hva det er hen argumenterer for.
 
