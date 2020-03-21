@@ -9,7 +9,7 @@ date: "2012-12-07"
 
 1. Et synspunkt, en påstand, noe vi argumenterer _for_
 2. Et argument, noe vi argumenterer _med_
-3. Etutsagn som _knytter sammen_ synspunktet og argumentet
+3. Et utsagn som _knytter sammen_ synspunktet og argumentet
 
 Utsagnet som binder sammen synspunkt og argument gjør at vi skjønner hvorfor argumentet fungerer. Utsagnet er et argument for at synspunkt og argument henger sammen.
 
@@ -34,13 +34,29 @@ Som student skal du skal både lese og skrive argumenterende tekster. Å tenke o
 
 ## Toulmins argumentasjonsmodell
 
-Å se etter argumentasjonen i en tekst er altså å stille en viss type spørsmål til teksten. Spør:
+Å se etter argumentasjonen i en tekst er altså å stille en viss type spørsmål til teksten. 
 
-Hva er **synspunktet** i teksten? Hva er det forfatteren hevder? Hva er det forfatteren argumenterer for? Synspunktet kan kalles **standpunktet**, **påstanden**, eller **hovedpåstanden**. Forfatteren diskuterer seg frem til et synspunkt, som fremføres til slutt. Synspunktet kan derfor også kalles for **konklusjonen**. Det er vanlig å kombinere: Synspunktet kommer fram tidlig ("Jeg vil argumentere for"), så kommer argumentasjonen; diskusjonen, drøftingen, analysen, gjennomgangen, og til slutt kommer synspunktet igjen, nå som en konklusjon: "Vi kan på bakgrunn av dette konkludere med...", "Som jeg har vist i det foregående...". Hva er **argumentene** i teksten? Hvordan underbygger forfatteren synspunktene sine? Hva er det forfatteren argumenterer med? Et argument som underbygger et synspunkt kalles også for **belegg:** Hva slags belegg har forfatteren for å hevde dette? eller **dokumentasjon:** Hvordan dokumenterer forfatteren synspunktet sitt?
+::: oppgave Spør:
+Hva er **synspunktet** i teksten? Hva er det forfatteren hevder? Hva er det forfatteren argumenterer for? Synspunktet kan kalles **standpunktet**, **påstanden**, eller **hovedpåstanden**. Forfatteren diskuterer seg frem til et synspunkt, som fremføres til slutt. Synspunktet kan derfor også kalles for **konklusjonen**. 
+::: 
 
+En vanlig framstilling er som følger: Synspunktet kommer fram tidlig ("Jeg vil argumentere for"), så kommer argumentasjonen; diskusjonen, drøftingen, analysen, gjennomgangen, og til slutt kommer synspunktet igjen, nå som en konklusjon: "Vi kan på bakgrunn av dette konkludere med...", "Som jeg har vist i det foregående...". 
+
+::: oppgave Spør: 
+Hva er **argumentene** i teksten? Hvordan underbygger forfatteren synspunktene sine? Hva er det forfatteren argumenterer med? 
+:::
+
+Et argument som underbygger et synspunkt kalles også for **belegg:** Hva slags belegg har forfatteren for å hevde dette? eller **dokumentasjon:** Hvordan dokumenterer forfatteren synspunktet sitt?
+
+::: oppgave Spør:
 Hva er de underliggende eller bakenforliggende antakelsene som ligger til grunn for at disse argumentene faktisk kan brukes til å støtte dette synspunktet? Hva er det som gjør at argumentene fremstår som relevante i sammenhengen?
+:::
 
-Det som knytter sammen et argument og et synspunkt, slik at forbindelsen fungerer argumentativt kalles for argumentets **hjemmel**. Et annet ord for dette er **undersøkelsesmetode**. I eksempelet over om middagslaging fant vi hjemmelen i utsagnet "en avtale er en avtale" (som var underforstått eller implisitt, men nødvendig for at argumentasjonen skulle fungere). I en litteraturvitenskapelig artikkel kan hjemlene eller undersøkelsesmetodene være slikt som "Det er tillatt å trekke inn opplysninger om forfatteren når vi analyserer dikt", "Et dikts betydning er ikke bundet til det øyeblikket det ble skrevet, men kan også være knyttet til historiske forhold før og etter at det ble skrevet." I en lingvistisk undersøkelse av sammenhengen mellom alder og uttale, kan det være f.eks. "Når en rekke studier peker i retning av en nær sammenheng mellom alder og uttale, er det grunn til å feste lit til resultatene." I faglige (akademiske, vitenskapelige) tekster vil ofte hjemlene/undersøkelsemetodene peke mot generelle antakelser, eller grunnprinsipper i det aktuelle faget. Felles for alle fag er hjemler av typen "Forskning bygger på tidligere forskning".
+Det som knytter sammen et argument og et synspunkt, slik at forbindelsen fungerer argumentativt kalles for argumentets **hjemmel**. Et annet ord for dette er **undersøkelsesmetode**. I eksempelet over om middagslaging fant vi hjemmelen i utsagnet "en avtale er en avtale" (som var underforstått eller implisitt, men nødvendig for at argumentasjonen skulle fungere). 
+
+::: eksempel Eksempel 
+I en litteraturvitenskapelig artikkel kan hjemlene eller undersøkelsesmetodene være slikt som "Det er tillatt å trekke inn opplysninger om forfatteren når vi analyserer dikt", "Et dikts betydning er ikke bundet til det øyeblikket det ble skrevet, men kan også være knyttet til historiske forhold før og etter at det ble skrevet." I en lingvistisk undersøkelse av sammenhengen mellom alder og uttale, kan det være f.eks. "Når en rekke studier peker i retning av en nær sammenheng mellom alder og uttale, er det grunn til å feste lit til resultatene." I faglige (akademiske, vitenskapelige) tekster vil ofte hjemlene/undersøkelsemetodene peke mot generelle antakelser, eller grunnprinsipper i det aktuelle faget. Felles for alle fag er hjemler av typen "Forskning bygger på tidligere forskning".
+::: 
 
 Hva slags **motargumenter** eller **innvendinger** kan du tenke deg? Tar forfatteren hensyn til motargumenter? Drøfter forfatteren for og mot, før hun/han konkluderer? Eller argumenterer forfatteren ensidig for sitt syn, og trekker bare inn slik forskning og slik empiri (funn, data) som støtter dette synet? Forfatteren bruker en metode, men begrunnes det godt nok om denne metoden er den beste? Forfatteren bygger på et tallmateriale, men er materialet stort nok? Representativt nok? Forfatteren bygger på intervjuer, men er det mange nok intervjuer? Er intervjuene grundige nok? Trekkes det mer vidtrekkende konklusjoner på bakgrunn av materialet enn det er belegg for?
 
