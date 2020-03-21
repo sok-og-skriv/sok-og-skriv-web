@@ -5,17 +5,22 @@ date: "2012-06-08"
 
 # Formelle krav til oppsett
 
-Oppsettet av oppgaver ved universitet og høgskole følger bestemte formelle krav. Her finner du en generell beskrivelse, men ulike studiesteder og -programmer kan ha mer spesifikke krav til omfang, referansestil, forside og så videre. Sjekk emnesidene for faget ditt. Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og [etisk bruk av kilder](/kildebruk-og-referanser/sitering-og-etikk/). En generell beskrivelse av _innholdet_ i en større oppgave finner du under "[oppbygning av en oppgave](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/)".
+Oppsettet av oppgaver ved universitet og høgskole følger bestemte formelle krav. Her finner du en generell beskrivelse, men ulike studiesteder og -programmer kan ha mer spesifikke krav til omfang, referansestil, forside og så videre. Sjekk emnesidene for faget ditt. 
+
+Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og [etisk bruk av kilder](/kildebruk-og-referanser/sitering-og-etikk/). En generell beskrivelse av innholdet i en større oppgave finner du under "[oppbygning av en oppgave](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/)".
 
 ## Forside
 
-Mange institutter og avdelinger har en egen forsidemal som kan fylles ut. Forsiden inneholder vanligvis:
+Mange institutter og avdelinger har en egen forsidemal som kan fylles ut. 
 
-- Tittel, eventuelt undertittel (for master- og bacheloroppgaver)
-- Ditt navn eller studentnummer
-- Oppgavetype
-- Institusjonstilknytning (universitet/høgskole, fakultet, institutt, emne)
-- Studiesemester eller årstall
+::: warning Forsiden inneholder vanligvis:
+
+Tittel, eventuelt undertittel (for master- og bacheloroppgaver)
+Ditt navn eller studentnummer
+Oppgavetype
+Institusjonstilknytning (universitet/høgskole, fakultet, institutt, emne)
+Studiesemester eller årstall
+:::
 
 Her kan du laste ned logo til bruk på forside fra [UiB](https://kapd.h.uib.no/profilmanual/99LastNed/99a_lastned.html) og [forside fra UiO](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
 
@@ -23,7 +28,11 @@ Her kan du laste ned logo til bruk på forside fra [UiB](https://kapd.h.uib.no/
 
 Bruk av maler (eng. _templates_) i Word anbefales for å spare arbeid. Malene har ferdige oppsett for innholdsfortegnelse, tekstformatering, overskrifter, kapittelnummerering, innrykk med mer. Se [hjelpesider fra Microsoft her.](https://support.office.com/nb-no/article/bruke-stiler-f8b96097-4d25-4fac-8200-6139c8093109)
 
-Når du har valgt en mal, er det viktig å bruke denne til all formatering av overskrifter, innrykk, sitater, fotnoter, figurer og så videre. Det betyr at dersom du vil gjøre endringer i for eksempel skriftstørrelse, må du endre selve malen. Marker området med den nye formateringen, og høyreklikk nivået du vil endre (normal, overskrifter mv) i Word-menyen:
+::: danger 
+Når du har valgt en mal, er det viktig å bruke denne til **all** formatering av overskrifter, innrykk, sitater, fotnoter, figurer og så videre. Det betyr at dersom du vil gjøre endringer i for eksempel skriftstørrelse, må du endre selve malen. 
+::: 
+
+Marker området med den nye formateringen, og høyreklikk nivået du vil endre (normal, overskrifter mv) i Word-menyen:
 
 <Figure
   src="/images/maler.png"
@@ -32,9 +41,8 @@ Når du har valgt en mal, er det viktig å bruke denne til all formatering av ov
   type=""
 />
 
-::: tip Tips
-- Dersom du limer inn tekst fra andre dokumenter eller plattformer, er det best å velge "lim inn som ren tekst" for å unngå å få med uønsket formatering.
-- Hvis du har fått problemer med layout og formatering, kan du klikke på ikonet for "vis usynlige", som ser slik ut: **¶**. Da vil du kunne oppdage usynlige funksjoner som mellomrom, linjeskift, sideskift og så videre.
+::: warning Formateringsproblemer 
+Dersom du limer inn tekst fra andre dokumenter eller plattformer, er det best å velge "lim inn som ren tekst" for å unngå å få med uønsket formatering. Hvis du har fått problemer med layout og formatering, kan du klikke på ikonet for "vis usynlige", som ser slik ut: **¶**. Da vil du kunne oppdage usynlige funksjoner som mellomrom, linjeskift, sideskift og så videre.
 :::
 
 ##  Innholdsfortegnelse
