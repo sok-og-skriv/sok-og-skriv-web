@@ -7,25 +7,28 @@ date: "2012-05-04"
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
-En god oppgave kjennetegnes av at:
 
+::: eksempel En god oppgave kjennetegnes av at:
 - Alle spørsmål som reises, er besvart eller belyst
 - Leseren forstår hvor forfatteren vil til enhver tid
 - Alt som er redegjort for, har en funksjon
+
 - Teorien brukes til å analysere (tolke) data
 - Metodekapitlet er konkret
 - Drøftingen bringer sammen empiri, teori og metode
+
 - Funnene kommer til sin rett
 - Konklusjonen følger av det som er sagt
+:::
 
-For å kunne skrive effektivt og [strukturert](/skriving/oppbygning-av-en-oppgave/) er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
+For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
 
-Ta for deg én ting om gangen og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
+Ta for deg én ting om gangen, og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
 
-For å skille mellom de ulike operasjonene, kan du velge å legge redegjørelser i egne kapitler (teorikapittel, presentasjon av funn osv.) og samle all drøftingen i et eget drøftingskapittel. Du kan også velge å drøfte og argumentere underveis. Det siste er vanlig i filosofiske og teoretiske oppgaver. Uansett er det viktig å _signalisere_ hva som er redegjørelse (beskrivelse eller utlegning) og hva som er din tolkning, dine argumenter og andres argumenter. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. En slik skrivemåte er en del av forskerrollens ideal om refleksivitet og objektivitet.
+For å skille mellom de ulike operasjonene kan du velge å legge redegjørelser i egne kapitler (teorikapittel, presentasjon av funn osv.) og samle all drøftingen i et eget drøftingskapittel. Du kan også velge å drøfte eller diskutere underveis. Det siste er vanlig i filosofiske og teoretiske oppgaver. Uansett er det viktig å _signalisere_ hva som er redegjørelse (beskrivelse, utlegning, forklaring) og hva som er din egen tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
 
-::: tip Tips!
-Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave.
+::: tip Tips
+Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave. Se [akademisk språk og stil](/skriving/akademisk-sprak-og-stil)
 :::
 
 ## Redegjørelse
