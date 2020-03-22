@@ -1,3 +1,5 @@
+![Søk og skriv](./docs/.vuepress/public/sos-logo.svg)
+
 # Søk og skriv
 
 [Søk og skriv](https://sokogskriv.no)
