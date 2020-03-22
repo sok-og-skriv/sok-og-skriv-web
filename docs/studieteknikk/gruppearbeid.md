@@ -27,15 +27,16 @@ Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin 
 
 <Video id="pbH-PqsYxK8" />
 
-## Hvordan gi og ta imot tilbakemelding i skrivegrupper?
+## Responsgrupper: Hvordan gi og ta imot tilbakemelding?
 
 Å dele respons er en effektiv måte å utvikle seg som skriver. Noen ganger kan det være vel så lærerikt å kommentere andres arbeid som å få respons på sitt eget. Grunnen er at du lærer mye om å skrive ved å analysere andres tekster, og sette ord på det du ser. 
 
-Tekstene som deles kan være mer eller mindre ferdige. Før du leverer en tekst til skrivegruppa:
-
+Tekstene som deles kan være mer eller mindre ferdige.
+ 
+::: tip Før du leverer en tekst til skrivegruppa:
 - Informer leserne om hvilken type tekst det er, og hvor den skal inn i oppgaven.
 - Tenk over hva du ønsker tilbakemelding på på _dette_ stadiet, og bestill ønsket respons.
-
+:::
 ::: oppgave Når du leser og gir tilbakemelding, tenk på:
 
 - Les teksten på forhånd.
@@ -64,7 +65,7 @@ Avtal å møtes jevnlig, og møt alltid forberedt. Som medlem av en skrivegruppe
   src="/images/studentgruppe6.jpg"
   alt="Gruppe studenter som skriver sammen"
   caption="Skrivegrupper, Ill.foto: UiB"
-  type="right"
+  type="left"
 />
 
 
