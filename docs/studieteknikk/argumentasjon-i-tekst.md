@@ -54,7 +54,7 @@ Hva er de underliggende eller bakenforliggende antakelsene som ligger til grunn 
 
 Det som knytter sammen et argument og et synspunkt, slik at forbindelsen fungerer argumentativt kalles for argumentets **hjemmel**. Et annet ord for dette er **undersøkelsesmetode**. I eksempelet over om middagslaging fant vi hjemmelen i utsagnet "en avtale er en avtale" (som var underforstått eller implisitt, men nødvendig for at argumentasjonen skulle fungere). 
 
-::: eksempel Eksempel 
+::: eksempel Eksempel (litteraturvitenskap)
 I en litteraturvitenskapelig artikkel kan hjemlene eller undersøkelsesmetodene være slikt som "Det er tillatt å trekke inn opplysninger om forfatteren når vi analyserer dikt", "Et dikts betydning er ikke bundet til det øyeblikket det ble skrevet, men kan også være knyttet til historiske forhold før og etter at det ble skrevet." I en lingvistisk undersøkelse av sammenhengen mellom alder og uttale, kan det være f.eks. "Når en rekke studier peker i retning av en nær sammenheng mellom alder og uttale, er det grunn til å feste lit til resultatene." I faglige (akademiske, vitenskapelige) tekster vil ofte hjemlene/undersøkelsemetodene peke mot generelle antakelser, eller grunnprinsipper i det aktuelle faget. Felles for alle fag er hjemler av typen "Forskning bygger på tidligere forskning".
 ::: 
 
@@ -86,10 +86,9 @@ Ved å analysere argumentasjonen i sentrale tekster vil du få en systematisk o
 
 Mange av de tekstene du leser er argumenterende tekster. De argumenterer for noe. Ofte sier forfatteren klart fra om hva det er hen argumenterer for.
 
-::: eksempel EKSEMPEL  
-Fra en artikkel i litteraturvitenskap:
+::: eksempel Eksempel fra en litteraturvitenskapelig artikkel 
 
-I min lesning av diktet ‘Död amazon’ vil jeg argumentere for at diktspråket rommer en kompleks og fortettet temporalitet som vanskelig lar seg forene med den mimesislogikk som vi vanligvis møter i poetikken. (Ellen Mortensen, “En ubestemmelig død: Mimesis og temporalitet i Hjalmar Gullbergs ‘Död amazon’”, _Agora. Journal for metafysisk spekulasjon_, 4/00-01, 140-154; s. 140.)
+"I min lesning av diktet ‘Död amazon’ vil jeg argumentere for at diktspråket rommer en kompleks og fortettet temporalitet som vanskelig lar seg forene med den mimesislogikk som vi vanligvis møter i poetikken. (Ellen Mortensen, “En ubestemmelig død: Mimesis og temporalitet i Hjalmar Gullbergs ‘Död amazon’”, _Agora. Journal for metafysisk spekulasjon_, 4/00-01, 140-154; s. 140.)
 :::
 
 Vi legger merke til følgende:
