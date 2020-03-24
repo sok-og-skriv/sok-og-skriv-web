@@ -27,21 +27,23 @@ Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin 
 
 <Video id="pbH-PqsYxK8" />
 
-## Hvordan gi og ta imot tilbakemelding i skrivegrupper?
+## Responsgrupper: Hvordan gi og ta imot tilbakemelding?
 
-Det er meningen at du skal gi innspill til andres ideer og få tilbakemeldinger på egne. Noen ganger kan det være vel så lærerikt å kommentere som å få respons. Grunnen er at du lærer mye om å skrive ved å analysere andres tekster, og sette ord på det du ser. Tekstene kan være mer eller mindre ferdige. Før du leverer en tekst til skrivegruppa:
+Å dele respons er en effektiv måte å utvikle seg som skriver. Noen ganger kan det være vel så lærerikt å kommentere andres arbeid som å få respons på sitt eget. Grunnen er at du lærer mye om å skrive ved å analysere andres tekster, og sette ord på det du ser. 
 
+Tekstene som deles kan være mer eller mindre ferdige.
+ 
+::: tip Før du leverer en tekst til skrivegruppa:
 - Informer leserne om hvilken type tekst det er, og hvor den skal inn i oppgaven.
-- Gi melding på forhånd om det er spesielle ting i teksten du ønsker tilbakemelding på.
-
+- Tenk over hva du ønsker tilbakemelding på på _dette_ stadiet, og bestill ønsket respons.
+:::
 ::: oppgave Når du leser og gir tilbakemelding, tenk på:
 
 - Les teksten på forhånd.
 - Forbered og formuler kommentarene dine skriftlig.
-- Ta gjerne utgangspunkt i skriverens behov (se nedenfor).
 - Begynn med det du oppfatter som tekstens hovedbudskap. 
 - Begynn med det positive. Det fins alltid noe godt i en tekst som forfatteren kan videreutvikle.
-- Fortell hva du synes forfatteren har lykkes med, og hvorfor det fungerer. Uspesifisert ros er ikke til noen nytte.
+Fortell hva du synes forfatteren har lykkes med, og hvorfor det fungerer. Uspesifisert ros er ikke til noen nytte.
 - Hvis noe oppleves som uklart, spør om det kunne vært formulert på en annen måte i stedet for å bare kritisere.
 - Husk at det å levere fra seg en tekst til andre kan være et stort steg å ta for medstudenten din, så les godt og grundig, og gi konstruktive kommentarer.
 
@@ -50,7 +52,7 @@ God tilbakemelding er konkret, konstruktiv og kjærlig.
 
 ::: oppgave Når du mottar tilbakemelding:
 
-- Be gjerne om tilbakemeldinger som passer for det stadiet du er (idéfase, argumentasjon, finpuss). 
+- Be om tilbakemeldinger som passer for det stadiet du er (idéfase, argumentasjon eller finpuss). 
 - Vær åpen for kommentarene de andre medlemmene av skrivegruppa gir. Husk at de har lagt arbeid i å forstå teksten din.
 - Lytt, og skriv ned kommentarene i stedet for å argumentere eller forsvare deg. Selv om du ikke er enig i kommentarene, gjenspeiler de en leseropplevelse som du kan ta hensyn til i det videre arbeidet. Det nye utkastet blir ditt svar.
 - En tekst kan alltid bli bedre. Når teksten din blir lest av andre, får du et større perspektiv på muligheter i teksten din.
@@ -63,7 +65,7 @@ Avtal å møtes jevnlig, og møt alltid forberedt. Som medlem av en skrivegruppe
   src="/images/studentgruppe6.jpg"
   alt="Gruppe studenter som skriver sammen"
   caption="Skrivegrupper, Ill.foto: UiB"
-  type="right"
+  type="left"
 />
 
 

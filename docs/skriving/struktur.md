@@ -7,7 +7,7 @@ date: "2012-05-04"
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
-Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRoD](?p=1226) (fra engelske IMRaD: Introduction. Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
+Det er mange måter å strukturere en oppgave på. Tidlig i studiet, for eksempel på Examen philosophicum, er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/struktur/redegjor-og-droft/). I helsefag og naturvitenskapelige fag brukes modellen [IMRaD](?p=1226) (Introduction, Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
 ::: eksempel En god oppgave kjennetegnes av at:
 Alle spørsmål som reises, er besvart eller belyst
@@ -59,7 +59,7 @@ I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer s
 
 Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
 
-::: tip Tips!
+::: øvelse Øvelse
 Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
