@@ -58,13 +58,13 @@ Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer ti
   text="Se etter dette symbolet i skriveprogrammets menyer, og velg en stil."
 />
 
-Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
-
 ::: details Videoguide
 <Video id="aYdGlx8bFLI" />
 
 Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). 
 :::
+
+Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
 
 ## Brødtekst, marger og skriftstørrelse
 
@@ -145,7 +145,13 @@ En del materiale kan legges som vedlegg, for eksempel intervjuguide, samtykkeskj
 Alle kildene som er brukt, skal vanligvis oppgis i samme referanseliste og ordnes alfabetisk. Hvis det er flere innførsler med samme forfatter, og du bruker en forfatter-årstall-stil (som APA eller Harvard), ordnes de kronologisk i stigende rekkefølge (eldste først). Referanser med samme årstall markeres da med a, b, c osv. I de aller fleste fag ligger alle typer kilde i samme referanseliste, men det kan være aktuelt å skille mellom primær- og sekundærkilder i enkelte historiske emner. Les mer om referanselister under "[hvordan referere](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/#Referanselisten)".
 
 ::: tip Tips: 
-Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. Se etter dette symbolet:  ![](/images/cite.png)
+Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. 
+
+<List
+  image="/images/scholar-cite.svg"
+  alt="Scholar cite"
+  text="Knapp for Google Scholar siteringsfunksjon."
+/>
 :::
 
 ## Flere ressurser
