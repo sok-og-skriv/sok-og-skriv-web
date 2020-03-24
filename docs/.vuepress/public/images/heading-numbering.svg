@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.753688,0,0,0.753688,-981.247,-394.125)">
+        <g transform="matrix(1.15135,0,0,1,-219.259,0)">
+            <path d="M1418.41,651.553L1483.89,651.553" style="fill:none;stroke:black;stroke-width:10.25px;"/>
+        </g>
+        <g transform="matrix(1.15135,0,0,1,-218.702,0)">
+            <path d="M1439.03,691.192L1483.4,691.192" style="fill:none;stroke:black;stroke-width:10.25px;"/>
+        </g>
+        <g transform="matrix(1.15135,0,0,1,-218.969,0)">
+            <path d="M1458.38,729.111L1483.63,729.111" style="fill:none;stroke:black;stroke-width:10.25px;"/>
+        </g>
+        <g transform="matrix(-1.19807,1.46721e-16,-1.46721e-16,-1.19807,2065.91,1488.58)">
+            <path d="M426.154,662.816L438.233,652.194L450.709,663.274" style="fill:none;stroke:rgb(34,140,205);stroke-width:9.23px;stroke-linecap:round;"/>
+        </g>
+        <text x="1384.09px" y="667.395px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:37.5px;fill:rgb(34,140,205);stroke:rgb(34,140,205);stroke-width:1.33px;stroke-miterlimit:2;">1</text>
+        <g transform="matrix(1,0,0,1,1,0)">
+            <text x="1401.47px" y="707.314px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:45.833px;fill:rgb(34,140,205);stroke:rgb(34,140,205);stroke-width:1.33px;stroke-miterlimit:2;">a</text>
+        </g>
+        <g transform="matrix(1,0,0,1,3,-1)">
+            <text x="1434.45px" y="746.08px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:45.689px;fill:rgb(34,140,205);stroke:rgb(34,140,205);stroke-width:1.33px;stroke-miterlimit:2;">i</text>
+        </g>
+    </g>
+</svg>

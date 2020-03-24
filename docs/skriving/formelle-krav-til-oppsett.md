@@ -50,20 +50,58 @@ Når du arbeider med oppgaven i malen, vil innholdsfortegnelsen oppdateres med r
 
 ## Overskrifter
 
-Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1), mens fire regnes som maksimalt (eksempel: 1.1.1.1). Se etter dette symbolet i skriveprogrammets menyer, og velg en stil ![](/images/Nummererte-overskrifter.png). Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
+Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1), mens fire regnes som maksimalt (eksempel: 1.1.1.1). 
+
+<List 
+  image="/images/heading-numbering.svg"
+  alt="Nummererte overskrifter"
+  text="Se etter dette symbolet i skriveprogrammets menyer, og velg en stil."
+/>
+
+Hvert nytt kapittel i en større oppgave starter på en ny side. Du setter inn sideskift fra meny, eller med PC-tastene Ctrl + Enter.
+
+::: details Videoguide
+<Video id="aYdGlx8bFLI" />
+
+Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). 
+:::
 
 ## Brødtekst, marger og skriftstørrelse
 
 Brødteksten er den teksten som kalles "normal" i tekstbehandlingsprogrammet. Vær forsiktig med bruk av utheving, kursivering, understreking mv.
 
-- **Linjeavstand** er vanligvis halvannen (1,5). Stilles inn her: ![](/images/linjeavstand.png)
-- **Punktstørrelse:** Det mest vanlige er 11 i en moderne font som Calibri eller 12 i en tradisjonell font som Times New Roman.
-- **Venstrejustert** tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet. Velg ![](/images/venstrejustert.png)
-- **Topp- og bunnmarg** skal være minst 2,5 cm.
+
+<List 
+  image="/images/font-size.svg"
+  alt="Punktstørrelse"
+  text="Punktstørrelse: Det mest vanlige er 11 i en moderne font som Calibri eller 12 i en tradisjonell font som Times New Roman."
+/>
+
+<List 
+  image="/images/line-height.svg"
+  alt="Linjeavstand"
+  text="Linjeavstand er vanligvis halvannen (1,5)"
+/>
+
+<List
+  image="/images/justified-left.svg"
+  alt="Venstrejustert"
+  text="Venstrejustert tekst med flytende høyremarg (ikke blokkjustert) gir best leselighet."
+/>
+
+<List
+  image="/images/margins.svg"
+  alt="Marger"
+  text="Topp- og bunnmarg skal være minst 2,5 cm."
+/>
 
 I tabeller, figurer, fotnoter og referanseliste kan du bruke mindre punktstørrelse og enkel linjeavstand så lenge hensynet til lesbarhet er godt ivaretatt.
 
-Det skal aldri være mer enn ett mellomrom etter hvert ord eller tegn. Hvis du trenger større mellomrom (innrykk), bruk tabulatortasten: ![](/images/tabulator.jpg)
+<List
+  image="/images/tabulator.svg"
+  alt="Tabulator knapp"
+  text="Det skal aldri være mer enn ett mellomrom etter hvert ord eller tegn. Hvis du trenger større mellomrom (innrykk), bruk tabulatortasten."
+/>
 
 ## Sidetall (paginering)
 
