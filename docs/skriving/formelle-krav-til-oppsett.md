@@ -28,7 +28,7 @@ Her kan du laste ned logo til bruk på forside fra [UiB](https://kapd.h.uib.no/
 
 Bruk av maler (eng. _templates_) i Word anbefales for å spare arbeid. Malene har ferdige oppsett for innholdsfortegnelse, tekstformatering, overskrifter, kapittelnummerering, innrykk med mer. Se [hjelpesider fra Microsoft her.](https://support.office.com/nb-no/article/bruke-stiler-f8b96097-4d25-4fac-8200-6139c8093109)
 
-::: danger 
+::: danger Pass på:
 Når du har valgt en mal, er det viktig å bruke denne til **all** formatering av overskrifter, innrykk, sitater, fotnoter, figurer og så videre. Det betyr at dersom du vil gjøre endringer i for eksempel skriftstørrelse, må du endre selve malen. 
 ::: 
 
