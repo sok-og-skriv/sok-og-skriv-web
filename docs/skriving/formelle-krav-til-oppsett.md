@@ -41,7 +41,7 @@ Marker området med den nye formateringen, og høyreklikk nivået du vil endre (
   type=""
 />
 
-::: warning Formateringsproblemer 
+::: warning Formateringsproblemer? 
 Dersom du limer inn tekst fra andre dokumenter eller plattformer, er det best å velge "lim inn som ren tekst" for å unngå å få med uønsket formatering. Hvis du har fått problemer med layout og formatering, kan du klikke på ikonet for "vis usynlige", som ser slik ut: **¶**. Da vil du kunne oppdage usynlige funksjoner som mellomrom, linjeskift, sideskift og så videre.
 :::
 
