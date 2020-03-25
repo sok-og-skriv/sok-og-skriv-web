@@ -123,11 +123,16 @@ module.exports = {
     {
       transformer:
       (timestamp, lang) => {
-        const moment = require('moment')
+        var dayjs = require('dayjs')
+        var localizedFormat = require('dayjs/plugin/localizedFormat')
+        dayjs.extend(localizedFormat)
+        require('dayjs/locale/en')
+        require('dayjs/locale/nb')
+        
         lang = lang.toLowerCase()
         if (lang == "no") {lang = 'nb'}
-        moment.locale(lang)
-        return moment(timestamp).format('LL')
+        dayjs.locale(lang)
+        return dayjs(timestamp).format('LL')
       }
     }
   ],
