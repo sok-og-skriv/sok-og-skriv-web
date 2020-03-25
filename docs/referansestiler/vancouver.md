@@ -13,11 +13,11 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 
 ## Henvisninger i teksten
 
-- I teksten oppgis kun nummeret til referansen. 
-- Bruk eventuelt sidetall etter henvisningsnummeret når du referer til en bok eller lengre artikkel. Dette setter leseren i stand til å gjenfinne og etterprøve påstanden.
+- I teksten oppgis kun nummeret til referansen, eventuelt med sidetall. 
+- Bruk sidetall etter henvisningsnummeret når du referer til en bestemt side i bok eller lengre artikkel. Dette setter leseren i stand til å gjenfinne og etterprøve påstanden.
 - Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
-- Hvis du refererer til samme dokument flere ganger, skal referansen hele tiden ha samme nummer.
-- Dersom du viser til flere kilder på en gang, skrives dette slik (1-3), der kilde 1, 2 og 3 understøtter det samme poenget.
+- Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
+- Dersom du viser til flere kilder på en gang, skrives dette slik (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
 
 
 ## Referanselisten
