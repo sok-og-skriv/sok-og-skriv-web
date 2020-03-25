@@ -1,10 +1,10 @@
 ---
-title: "Om å studere"
+title: "Studieteknikk"
 date: "2012-03-15"
 prev: "../soking/systematisk-soking"
 ---
 
-# ![](/images/illustrasjoner_lesing_500x450.png) Om å studere
+# ![](/images/illustrasjoner_lesing_500x450.png) Studieteknikk
 
 Lesing og skriving er kjerneaktiviteter i akademisk arbeid. Som ferdigheter henger de nært sammen, og påvirker hverandre. For å kunne skrive en god oppgave, må du være god til å lese, og du må være bevisst på _hva_ og _hvordan_ du leser. Når du trener deg opp til å lese med oppmerksomhet, vil du også kunne lese dine egne utkast og ideer på en oppmerksom måte. 
 
