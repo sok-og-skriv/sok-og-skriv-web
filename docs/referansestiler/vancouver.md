@@ -5,13 +5,20 @@ date: "2012-09-18"
 
 # Vancouver
 
-Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, patent og standard 
+Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, patent og standard med mer. SE på internettkilder, finn nyere eksempler og sjekk dagens praksis.  
 
 Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers \[Elektronisk bok\]. 2nd ed. Wendling DL., technical editor. Bethesda (MD): National Library of Medicine (US); 2007 \[hentet 2008-01-14\]. Tilgjengelig fra: [https://www.nlm.nih.gov/citingmedicine](https://www.nlm.nih.gov/citingmedicine)
 
-Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_i_teksten), lager en [referanseliste](#referanselisten) og behandler forskjellige [referansetyper](#referansetyper)
+## Henvisninger i teksten
+
+- I teksten oppgis kun nummeret til referansen. 
+- Bruk eventuelt sidetall etter henvisningsnummeret når du referer til en bok eller lengre artikkel. Dette setter leseren i stand til å gjenfinne og etterprøve påstanden.
+- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
+- Hvis du refererer til samme dokument flere ganger, skal referansen hele tiden ha samme nummer.
+- Dersom du viser til flere kilder på en gang, skrives dette slik (1-3), der kilde 1, 2 og 3 understøtter det samme poenget.
+
 
 ## Referanselisten
 
@@ -19,18 +26,19 @@ Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_
 - Skriv de første seks forfatterne etterfulgt av ”et al.” hvis det er flere enn seks forfattere.
 - Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i [PubMed Journals database](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
 
+
 ## Referansetyper
 
 ### Bok
 
 ::: teksten
-[Tekst](#henvisninger_i_teksten)(nummer, s. [sidetall](#sidetall))
+[Tekst](#henvisninger_i_teksten) (nummer, evt. s. [sidetall](#sidetall))
 
 ... som en avklarende faktor i diagnostikken (1, s. 72)
 :::
 
 ::: ref
-xxx. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider.
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider.
 
 1\. Eyre HJ, Lange DP, Morris LB. Informed decisions: the complete book of cancer diagnosis, treatment, and recovery. 2. utg. Atlanta: American Cancer Society; 2002. 768 s.
 :::
@@ -51,7 +59,7 @@ xxx. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører. B
 :::
 
 
-### Bok med redaktør
+### Bok med redaktør(-er)
 
 ::: teksten
 Tekst (nummer)
@@ -60,7 +68,7 @@ Tekst (nummer)
 :::
 
 ::: ref
-xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. s. xxx-xxx.
+xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. xxx s.
 
 2\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 :::
@@ -69,13 +77,13 @@ xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver
 ### Avhandling - doktor/master (publisert)
 
 ::: teksten
-Tekst (nummer, sidetall)
+Tekst (nummer, evt. sidetall)
 
 Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
 :::
 
 ::: ref
-Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; Årstall. Antall sider.
+Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
 
 Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
 
@@ -125,7 +133,7 @@ xxx. Nettstedets navn eller organisasjon. Nettsidens tittel. \[Internett\]. Utgi
 ::: teksten
 Tekst ([nummer](#henvisninger_i_teksten))
 
-Noack og Seierstad (7) har undersøkt forekomsten av samboerskap…
+Noack og Seierstad (7) har undersøkt forekomsten av samboerskap …
 :::
 
 ::: ref
@@ -180,42 +188,11 @@ Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel fork
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
 :::
 
-### Personlig kommunikasjon
-
-Når det gjelder Personlig kommunikasjon skal henvisninger i litteraturlisten kun med om det er tilgjengelige dokumenter (som for eksempel brev i arkiv). Det skal siteres i løpende tekst kun etter avtale med den som kommer med informasjonen. Forbokstaver og etternavn samt dato oppgis: Kun tilgjengelige dokumenter tas med i litteraturlisten.
-
-::: teksten
-I følge H. K. Anderssen (2001 personlig meddelelse )
-:::
-
-
-### Kompendier
-
-Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
-
-## Henvisninger i teksten
-
-- I teksten oppgis kun nummeret til referansen. For bøker eller lengre dokumenter anbefales det å også oppgi sidetall.
-- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
-- Hvis du refererer til samme dokument flere ganger, skal referansen hele tiden ha samme nummer.
-- Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i PubMed Journals database: [https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
-
-### Sidetall
-
-Bruk sidetall i henvisningen etter henvisningsnummeret når du referer til en bok eller lengre artikkel. Dette er viktig for å sette leseren i stand til å gjenfinne kilden og etterprøve påstanden.
-
-### Sekundærkilder
-
-Dette er en referanse som du har lest om i et verk. Som hovedregel skal du kun sitere fra verk du har lest. Unntaksvis kan det likevel være nødvendig å henvise til andres omtale av et verk. Du skal da vise til både verket som du har lest og den referansen som du leste om i verket. For eksempel har du lest om Beck og Beck-Gemsheim i boken til Kloster.
-
-> _Beck og Beck-Gemsheim (11) referert i Kloster (12, s. 4) snakker om tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet._
 
 ### Sitat
 
-Et direkte sitat fra en annen forsker/forfatter må være korrekt gjengitt og inneholde henvisning med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med anførselstegn. Sitater som er lengre enn tre linjer skal skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
+Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
 
 ### Indirekte sitat
 
-Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden og å kontrollere fakta.
-
-> _Kloster (12, s. 10) skriver i sin hovedfagsoppgave at singellivet som eksisterer i det senmoderne samfunnet er en konsekvens av demokratiseringen i den private sfæren._
+Indirekte sitat eller parafrasering er å gjengi andres utsagn med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde, bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden og eventuelt lese videre.  
