@@ -9,7 +9,8 @@ Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, 
 
 Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
-Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers \[Elektronisk bok\]. 2nd ed. Wendling DL., technical editor. Bethesda (MD): National Library of Medicine (US); 2007 \[hentet 2008-01-14\]. Tilgjengelig fra: [https://www.nlm.nih.gov/citingmedicine](https://www.nlm.nih.gov/citingmedicine)
+Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
+
 
 ## Henvisninger i teksten
 
@@ -17,7 +18,7 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 - Bruk sidetall etter henvisningsnummeret når du referer til en bestemt side i bok eller lengre artikkel. Dette setter leseren i stand til å gjenfinne og etterprøve påstanden.
 - Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
 - Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
-- Dersom du viser til flere kilder på en gang, skrives dette slik (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
+- Dersom du viser til flere kilder på en gang, skrives dette for eksempel slik: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
 
 
 ## Referanselisten
