@@ -23,7 +23,7 @@ Akademiske tekster har formelle regler for sitering og henvisning som varierer m
 
 I direkte sitat gjengir du ordrett det en annen forfatter har skrevet. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med anførselstegn.
 
-> "_Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er_ drøfting_" (Førland, 1996, s. 11)_.
+> "Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er_ drøfting_" (Førland, 1996, s. 11).
 
 Sitater som er lengre enn tre linjer skal skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn. Se de enkelte referansestiler.
 
