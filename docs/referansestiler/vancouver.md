@@ -11,7 +11,14 @@ Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefa
 
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers \[Elektronisk bok\]. 2nd ed. Wendling DL., technical editor. Bethesda (MD): National Library of Medicine (US); 2007 \[hentet 2008-01-14\]. Tilgjengelig fra: [https://www.nlm.nih.gov/citingmedicine](https://www.nlm.nih.gov/citingmedicine)
 
-Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_i_teksten), lager en [referanseliste](#referanselisten) og behandler forskjellige [referansetyper](#referansetyper)
+## Henvisninger i teksten
+
+- I teksten oppgis kun nummeret til referansen. 
+- Bruk eventuelt sidetall etter henvisningsnummeret når du referer til en bok eller lengre artikkel. Dette setter leseren i stand til å gjenfinne og etterprøve påstanden.
+- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
+- Hvis du refererer til samme dokument flere ganger, skal referansen hele tiden ha samme nummer.
+- Dersom du viser til flere kilder på en gang, skrives dette slik (1-3), der kilde 1, 2 og 3 understøtter det samme poenget.
+
 
 ## Referanselisten
 
@@ -19,18 +26,19 @@ Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_
 - Skriv de første seks forfatterne etterfulgt av ”et al.” hvis det er flere enn seks forfattere.
 - Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i [PubMed Journals database](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
 
+
 ## Referansetyper
 
 ### Bok
 
 ::: teksten
-[Tekst](#henvisninger_i_teksten)(nummer, s. [sidetall](#sidetall))
+[Tekst](#henvisninger_i_teksten) (nummer, evt. s. [sidetall](#sidetall))
 
 ... som en avklarende faktor i diagnostikken (1, s. 72)
 :::
 
 ::: ref
-xxx. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider.
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider.
 
 1\. Eyre HJ, Lange DP, Morris LB. Informed decisions: the complete book of cancer diagnosis, treatment, and recovery. 2. utg. Atlanta: American Cancer Society; 2002. 768 s.
 :::
@@ -51,7 +59,7 @@ xxx. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører. B
 :::
 
 
-### Bok med redaktør
+### Bok med redaktør(-er)
 
 ::: teksten
 Tekst (nummer)
@@ -60,7 +68,7 @@ Tekst (nummer)
 :::
 
 ::: ref
-xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. s. xxx-xxx.
+xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. xxx s.
 
 2\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 :::
@@ -69,13 +77,13 @@ xxx. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver
 ### Avhandling - doktor/master (publisert)
 
 ::: teksten
-Tekst (nummer, sidetall)
+Tekst (nummer, evt. sidetall)
 
 Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
 :::
 
 ::: ref
-Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; Årstall. Antall sider.
+Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
 
 Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
 
@@ -125,7 +133,7 @@ xxx. Nettstedets navn eller organisasjon. Nettsidens tittel. \[Internett\]. Utgi
 ::: teksten
 Tekst ([nummer](#henvisninger_i_teksten))
 
-Noack og Seierstad (7) har undersøkt forekomsten av samboerskap…
+Noack og Seierstad (7) har undersøkt forekomsten av samboerskap …
 :::
 
 ::: ref
@@ -193,16 +201,6 @@ I følge H. K. Anderssen (2001 personlig meddelelse )
 
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
 
-## Henvisninger i teksten
-
-- I teksten oppgis kun nummeret til referansen. For bøker eller lengre dokumenter anbefales det å også oppgi sidetall.
-- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
-- Hvis du refererer til samme dokument flere ganger, skal referansen hele tiden ha samme nummer.
-- Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i PubMed Journals database: [https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
-
-### Sidetall
-
-Bruk sidetall i henvisningen etter henvisningsnummeret når du referer til en bok eller lengre artikkel. Dette er viktig for å sette leseren i stand til å gjenfinne kilden og etterprøve påstanden.
 
 ### Sekundærkilder
 
