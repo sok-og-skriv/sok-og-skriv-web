@@ -1,3 +1,5 @@
+const moment = require('moment')
+
 let sidebarNo = require('./sidebarNo');
 let sidebarEn = require('./sidebarEn');
 
@@ -114,6 +116,17 @@ module.exports = {
     'vuepress-plugin-glossary',
     /* 'alias', */
     ['@vuepress/back-to-top', true],
+    ['@vuepress/last-updated',
+      {
+        transformer:
+          (timestamp, lang) => {
+            lang = lang.toLowerCase()
+            if (lang == "no") {lang = 'nb'}
+            moment.locale(lang)
+            return moment(timestamp).fromNow()
+        }
+      }
+    ],
     [
       'vuepress-plugin-container',
       {
