@@ -1,5 +1,3 @@
-const moment = require('moment')
-
 let sidebarNo = require('./sidebarNo');
 let sidebarEn = require('./sidebarEn');
 
@@ -112,29 +110,35 @@ module.exports = {
     }
   },
   plugins: [
+    [
+      'sitemap', {
+        hostname: 'https://sok-og-skriv.now.sh/'
+      }
+    ],
     'vuepress-plugin-export',
     'vuepress-plugin-glossary',
     /* 'alias', */
     ['@vuepress/back-to-top', true],
     ['@vuepress/last-updated',
-      {
-        transformer:
-          (timestamp, lang) => {
-            lang = lang.toLowerCase()
-            if (lang == "no") {lang = 'nb'}
-            moment.locale(lang)
-            return moment(timestamp).fromNow()
-        }
+    {
+      transformer:
+      (timestamp, lang) => {
+        const moment = require('moment')
+        lang = lang.toLowerCase()
+        if (lang == "no") {lang = 'nb'}
+        moment.locale(lang)
+        return moment(timestamp).format('LL')
       }
-    ],
-    [
-      'vuepress-plugin-container',
-      {
-        type: 'teksten',
-        before: `<div class="in-text"><p class="title">Kilden i teksten</p>`,
-        after: '</div>',
-      },
-    ],
+    }
+  ],
+  [
+    'vuepress-plugin-container',
+    {
+      type: 'teksten',
+      before: `<div class="in-text"><p class="title">Kilden i teksten</p>`,
+      after: '</div>',
+    },
+  ],
     [
       'vuepress-plugin-container',
       {
@@ -225,11 +229,6 @@ module.exports = {
             buttonText: "Refresh"
           }
         }
-      }
-    ],
-    [
-      'sitemap', {
-        hostname: 'https://sok-og-skriv.now.sh/'
       }
     ],
     [
