@@ -33,7 +33,7 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 ### Bok
 
 ::: teksten
-[Tekst](#henvisninger_i_teksten) (nummer, evt. s. [sidetall](#sidetall))
+[Tekst](#henvisninger_i_teksten) (nummer, eventuelt s. [sidetall](#sidetall))
 
 ... som en avklarende faktor i diagnostikken (1, s. 72)
 :::
@@ -78,7 +78,7 @@ Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgi
 ### Avhandling - doktor/master (publisert)
 
 ::: teksten
-Tekst (nummer, evt. sidetall)
+Tekst (nummer, eventuelt sidetall)
 
 Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
 :::
