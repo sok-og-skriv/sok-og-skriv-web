@@ -5,7 +5,7 @@ date: "2012-09-18"
 
 # Vancouver
 
-Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, patent og standard 
+Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, patent og standard med mer. SE på internettkilder, finn nyere eksempler og sjekk dagens praksis.  
 
 Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
@@ -190,10 +190,10 @@ Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel fork
 
 ### Personlig kommunikasjon
 
-Når det gjelder Personlig kommunikasjon skal henvisninger i litteraturlisten kun med om det er tilgjengelige dokumenter (som for eksempel brev i arkiv). Det skal siteres i løpende tekst kun etter avtale med den som kommer med informasjonen. Forbokstaver og etternavn samt dato oppgis: Kun tilgjengelige dokumenter tas med i litteraturlisten.
+Når det gjelder personlig kommunikasjon, skal henvisninger i litteraturlisten kun med om det er tilgjengelige dokumenter (som for eksempel brev i arkiv). Det skal siteres i løpende tekst kun etter avtale med den som kommer med informasjonen. Forbokstaver og etternavn samt dato oppgis: Kun tilgjengelige dokumenter tas med i litteraturlisten.
 
 ::: teksten
-I følge H. K. Anderssen (2001 personlig meddelelse )
+Ifølge H. K. Anderssen (2001 personlig meddelelse )
 :::
 
 
@@ -202,18 +202,10 @@ I følge H. K. Anderssen (2001 personlig meddelelse )
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
 
 
-### Sekundærkilder
-
-Dette er en referanse som du har lest om i et verk. Som hovedregel skal du kun sitere fra verk du har lest. Unntaksvis kan det likevel være nødvendig å henvise til andres omtale av et verk. Du skal da vise til både verket som du har lest og den referansen som du leste om i verket. For eksempel har du lest om Beck og Beck-Gemsheim i boken til Kloster.
-
-> _Beck og Beck-Gemsheim (11) referert i Kloster (12, s. 4) snakker om tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet._
-
 ### Sitat
 
-Et direkte sitat fra en annen forsker/forfatter må være korrekt gjengitt og inneholde henvisning med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med anførselstegn. Sitater som er lengre enn tre linjer skal skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
+Et direkte sitat fra en annen forsker/forfatter må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
 
 ### Indirekte sitat
 
-Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden og å kontrollere fakta.
-
-> _Kloster (12, s. 10) skriver i sin hovedfagsoppgave at singellivet som eksisterer i det senmoderne samfunnet er en konsekvens av demokratiseringen i den private sfæren._
+Indirekte sitat eller parafrasering er å gjengi andres utsagn med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde, bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden og eventuelt lese videre.  
