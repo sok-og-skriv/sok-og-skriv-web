@@ -188,23 +188,10 @@ Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel fork
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
 :::
 
-### Personlig kommunikasjon
-
-Når det gjelder personlig kommunikasjon, skal henvisninger i litteraturlisten kun med om det er tilgjengelige dokumenter (som for eksempel brev i arkiv). Det skal siteres i løpende tekst kun etter avtale med den som kommer med informasjonen. Forbokstaver og etternavn samt dato oppgis: Kun tilgjengelige dokumenter tas med i litteraturlisten.
-
-::: teksten
-Ifølge H. K. Anderssen (2001 personlig meddelelse )
-:::
-
-
-### Kompendier
-
-Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
-
 
 ### Sitat
 
-Et direkte sitat fra en annen forsker/forfatter må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
+Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
 
 ### Indirekte sitat
 
