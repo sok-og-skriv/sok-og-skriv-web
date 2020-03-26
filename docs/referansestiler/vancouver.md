@@ -14,11 +14,10 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 
 ## Henvisninger i teksten
 
-- I teksten oppgis kun nummeret til referansen, eventuelt med sidetall. 
-- Bruk sidetall etter henvisningsnummeret når du referer til en bestemt side i bok eller lengre artikkel. Dette setter leseren i stand til å gjenfinne og etterprøve påstanden.
-- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten.
-- Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
-- Dersom du viser til flere kilder på en gang, skrives dette for eksempel slik: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
+- I teksten oppgis nummeret til referansen i parentes, eventuelt med sidetall. 
+- Bruk sidetall når du referer til en bestemt side i bok eller lengre artikkel. Dette setter leseren i stand til å finne og etterprøve påstanden.
+- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten. Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
+- Dersom du viser til flere kilder på en gang, skrives dette på denne måten: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
 
 
 ## Referanselisten
@@ -33,7 +32,7 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 ### Bok
 
 ::: teksten
-[Tekst](#henvisninger_i_teksten) (nummer, eventuelt s. [sidetall](#sidetall))
+Tekst (nummer, eventuelt sidetall)
 
 ... som en avklarende faktor i diagnostikken (1, s. 72)
 :::
@@ -95,7 +94,7 @@ Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årsta
 ### Artikkel i tidsskrift
 
 ::: teksten
-[Tekst (nummer](#henvisninger_i_teksten))
+Tekst (nummer)
 
 ... viser forandringer i blodtrykknivået (4).
 :::
@@ -162,7 +161,7 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 ### Norges offentlige utredninger (NOU)
 
 ::: teksten
-Tekst ([nummer](#henvisninger_i_teksten))
+Tekst (nummer)
 
 I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til …(9).
 :::
@@ -177,7 +176,7 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 ### Manuskript under publisering, antatt (in press)
 
 ::: teksten
-Tekst ([nummer](#henvisninger_i_teksten))
+Tekst (nummer)
 
  ... som fremmer cellevekst (10).
 
