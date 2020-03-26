@@ -161,7 +161,7 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 ### Norges offentlige utredninger (NOU)
 
 ::: teksten
-Tekst ([nummer](#henvisninger_i_teksten))
+Tekst (nummer)
 
 I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til …(9).
 :::
@@ -176,7 +176,7 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 ### Manuskript under publisering, antatt (in press)
 
 ::: teksten
-Tekst ([nummer](#henvisninger_i_teksten))
+Tekst (nummer)
 
  ... som fremmer cellevekst (10).
 
