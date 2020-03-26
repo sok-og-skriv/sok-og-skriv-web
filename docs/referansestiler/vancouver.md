@@ -3,11 +3,9 @@ title: "Vancouver"
 date: "2012-09-18"
 ---
 
-# Vancouver
+# Vancouver 
 
-Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, patent og standard med mer. SE på internettkilder, finn nyere eksempler og sjekk dagens praksis.  
-
-Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
+Vancouverstilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
 
@@ -15,7 +13,6 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 ## Henvisninger i teksten
 
 - I teksten oppgis nummeret til referansen i parentes, eventuelt med sidetall. 
-- Bruk sidetall når du referer til en bestemt side i bok eller lengre artikkel. Dette setter leseren i stand til å finne og etterprøve påstanden.
 - Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten. Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
 - Dersom du viser til flere kilder på en gang, skrives dette på denne måten: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
 
@@ -64,13 +61,13 @@ Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører
 ::: teksten
 Tekst (nummer)
 
-... slik som framstilt i boken (2).
+... slik som framstilt i boken (3).
 :::
 
 ::: ref
 Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. xxx s.
 
-2\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
+3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 :::
 
 
@@ -79,7 +76,7 @@ Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgi
 ::: teksten
 Tekst (nummer, eventuelt sidetall)
 
-Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
+Jones (4, s. 39) viser i sin doktoravhandling forskjellen på …
 :::
 
 ::: ref
@@ -87,7 +84,7 @@ Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Ant
 
 Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
 
-3\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
+4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
 :::
 
 
@@ -96,13 +93,13 @@ Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årsta
 ::: teksten
 Tekst (nummer)
 
-... viser forandringer i blodtrykknivået (4).
+... viser forandringer i blodtrykknivået (5).
 :::
 
 ::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
 
-4\. Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62(1):112-6.
+5\. Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62(1):112-6.
 :::
 
 
@@ -163,7 +160,7 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 ::: teksten
 Tekst (nummer)
 
-I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til …(9).
+I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til ... (9).
 :::
 
 ::: ref
@@ -173,7 +170,9 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 :::
 
 
-### Manuskript under publisering, antatt (in press)
+### Manuskript under publisering, antatt (in press) (og preprint?)
+Preprint, se https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html
+> NLM-guide har dette: https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
 
 ::: teksten
 Tekst (nummer)
@@ -188,8 +187,49 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstit
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
 :::
 
+### Standarder 
 
-### Sitat
+::: teksten 
+Tekst (nummer)
+
+... i henhold til standard for støy, virkning på mennesker (11).
+
+::: 
+
+::: ref 
+Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgiver; År [hentet dato]. Tilgjengelig fra: http://...
+
+11\. International Organization for Standardization. ISO Standard nr. 13.140. Noise with respect to human beings [Internett] Geneve: ISO; 2005? Tilgjengelig fra https://www.standard.no/no/Nettbutikk/produktkatalogen/?ProdCat=11343848
+::: 
+
+### Patenter 
+
+::: teksten 
+Tekst (nummer)
+
+
+
+
+
+### Elektronisk oppslagsverk 
+
+::: teksten 
+Tekst (nummer)
+
+... xx ... 
+:::
+
+### Forelesninger og handouts 
+
+https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
+
+
+### Point of care-verktøy (??) 
+ point-of-care verktøy som er en e-ressurs (som UpToDate). 
+
+
+
+## Sitater
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
 
