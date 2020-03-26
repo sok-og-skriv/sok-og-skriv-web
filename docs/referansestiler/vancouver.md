@@ -3,9 +3,7 @@ title: "Vancouver"
 date: "2012-09-18"
 ---
 
-# Vancouver
-
-Note to self: det ønskes eksempler på oppslagsverk, elektronisk oppslagsverk, patent og standard med mer. SE på internettkilder, finn nyere eksempler og sjekk dagens praksis.  
+# Vancouver 
 
 Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
@@ -211,7 +209,7 @@ Tekst (nummer)
 
 
 
-### Elektronisk leksikon 
+### Elektronisk oppslagsverk 
 
 
 
