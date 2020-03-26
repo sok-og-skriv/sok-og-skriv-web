@@ -5,7 +5,7 @@ date: "2012-09-18"
 
 # Vancouver 
 
-Vancouver-stilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
+Vancouverstilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
 
@@ -171,6 +171,8 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
 
 ### Manuskript under publisering, antatt (in press) (og preprint?)
+Preprint, se https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html
+> NLM-guide har dette: https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
 
 ::: teksten
 Tekst (nummer)
@@ -211,9 +213,23 @@ Tekst (nummer)
 
 ### Elektronisk oppslagsverk 
 
+::: teksten 
+Tekst (nummer)
+
+... xx ... 
+:::
+
+### Forelesninger og handouts 
+
+https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
 
 
-### Sitat
+### Point of care-verktøy (??) 
+ point-of-care verktøy som er en e-ressurs (som UpToDate). 
+
+
+
+## Sitater
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
 
