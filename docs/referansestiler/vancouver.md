@@ -187,6 +187,19 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstit
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
 :::
 
+### Standarder 
+
+::: teksten 
+Tekst (nummer)
+
+... i henhold til standard for ... (11)
+
+::: 
+
+::: ref 
+Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgiver; År [hentet dato]. Tilgjengelig fra: http://...
+
+11\. International Organization for Standardization. ISO Standard nr. 13.140. Støy. Virkning på mennesker [Internett] Geneve: ISO; 2005? Tilgjengelig fra https://www.standard.no/no/Nettbutikk/produktkatalogen/?ProdCat=11343848
 
 ### Sitat
 
