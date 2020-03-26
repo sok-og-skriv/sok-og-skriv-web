@@ -172,7 +172,7 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 :::
 
 
-### Manuskript under publisering, antatt (in press)
+### Manuskript under publisering, antatt (in press) (og preprint?)
 
 ::: teksten
 Tekst (nummer)
@@ -192,14 +192,28 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstit
 ::: teksten 
 Tekst (nummer)
 
-... i henhold til standard for ... (11)
+... i henhold til standard for støy, virkning på mennesker (11).
 
 ::: 
 
 ::: ref 
 Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgiver; År [hentet dato]. Tilgjengelig fra: http://...
 
-11\. International Organization for Standardization. ISO Standard nr. 13.140. Støy. Virkning på mennesker [Internett] Geneve: ISO; 2005? Tilgjengelig fra https://www.standard.no/no/Nettbutikk/produktkatalogen/?ProdCat=11343848
+11\. International Organization for Standardization. ISO Standard nr. 13.140. Noise with respect to human beings [Internett] Geneve: ISO; 2005? Tilgjengelig fra https://www.standard.no/no/Nettbutikk/produktkatalogen/?ProdCat=11343848
+::: 
+
+### Patenter 
+
+::: teksten 
+Tekst (nummer)
+
+
+
+
+
+### Elektronisk leksikon 
+
+
 
 ### Sitat
 
