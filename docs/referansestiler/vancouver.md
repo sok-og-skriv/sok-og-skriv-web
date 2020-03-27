@@ -114,18 +114,17 @@ På nettstedet til Kreftregisteret (6) belyses temaet …
 :::
 
 ::: ref
-Nummer. Nettstedets navn eller organisasjon \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
-Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel. \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
+Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
-6\. Kreftregisteret. Fakta om kreft. \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
+6\. Kreftregisteret. Fakta om kreft \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
 :::
 
 
 ### Nettside med forfatter(e)
 
 ::: teksten
-Tekst ([nummer](#henvisninger_i_teksten))
+Tekst (nummer)
 
 Eksempeltekst (7).
 :::
@@ -244,7 +243,6 @@ Tekst (nummer)
 :::
 
 
-
 ### Elektronisk oppslagsverk, artikkel med forfatter  
 
 ::: teksten 
@@ -269,6 +267,10 @@ Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. St
 ### Forelesninger og handouts 
 
 https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
+
+
+### Datajournal, datasett 
+
 
 
 ### Point of care-verktøy (??) 
