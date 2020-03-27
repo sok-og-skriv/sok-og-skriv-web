@@ -202,9 +202,9 @@ Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https
 ### Meldinger og proposisjoner til Stortinget
 
 ::: teksten
-Departement _Tittel på stortingsmelding_*
+Departement _Tittel på melding_*
 
-Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
+Nyere eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
 :::
 
 ::: ref
@@ -218,7 +218,7 @@ Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, fork
 
 ### Klassiske og hellige tekster
 
-Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen, og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å ta inn i litteraturlisten til slutt.
+Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen, og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å føre opp i referanselista.
 
 ::: teksten
 (Tekststed)
