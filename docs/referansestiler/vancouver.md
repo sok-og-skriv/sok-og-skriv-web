@@ -111,15 +111,12 @@ Tekst (nummer)
 
 På nettstedet til Kreftregisteret (6) belyses temaet …
 
-På nettstedet til Kreftregisteret (6) belyses temaet …
 :::
 
 ::: ref
 Nummer. Nettstedets navn eller organisasjon \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
 Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel. \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
-
-6\. Kreftregisteret \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/](https://www.kreftregisteret.no/)
 
 6\. Kreftregisteret. Fakta om kreft. \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
 :::
@@ -130,13 +127,13 @@ Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel. \[Internett\]. U
 ::: teksten
 Tekst ([nummer](#henvisninger_i_teksten))
 
-Noack og Seierstad (7) har undersøkt forekomsten av samboerskap …
+Eksempeltekst (7).
 :::
 
 ::: ref
 Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
-7\. Noack T, Seierstad A. Samboerskap ved tusenårsskiftet: dagligdags og uutforsket \[Internett\]. Oslo: Statistisk sentralbyrå; \[hentet 2003-03-26\]. Tilgjengelig fra: [https://www.ssb.no/emner/00/02/10/ola\_kari/familie/](https://www.ssb.no/emner/00/02/10/ola_kari/familie/)
+
 :::
 
 
@@ -160,13 +157,13 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 ::: teksten
 Tekst (nummer)
 
-I Norges offentlig utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til ... (9).
+I Norges offentlige utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til ... (9).
 :::
 
 ::: ref
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
-9\. NOU 1999: 13. Kvinners helse i Norge. Oslo, Statens forvaltningstjeneste; 1999.
+9\. 
 :::
 
 ### Meldinger og proposisjoner til Stortinget  
@@ -174,10 +171,16 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 ::: teksten 
 Tekst (nummer)
 
+
+::: 
+
 ### Rapporter 
 
 ::: teksten 
 Tekst (nummer)
+
+Etternavn Initial(er). Tittel på rapport. Sted: Utgiver; Publiseringstidspunkt. Rapport nr.
+
 
 ### Manuskript under publisering, antatt (in press) (og preprint?)
 Preprint, se https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html
