@@ -164,16 +164,24 @@ Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utva
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
 9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
-
 :::
+
 
 ### Meldinger og proposisjoner til Stortinget  
 
 ::: teksten 
 Tekst (nummer)
 
-
+setning (10)
 ::: 
+
+::: ref 
+Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
+
+Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
+:::
+
+* Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
 
 ### Rapporter 
 
