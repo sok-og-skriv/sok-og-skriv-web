@@ -13,3 +13,6 @@ På disse sidene får du allmenne råd om oppgaveskriving på lavere og høyere
 
 ::: warning Faglige forskjeller 
 Husk at ulike fag stiller ulike krav. Rådene du får her er generelle, og må alltid sjekkes mot de spesielle kravene i faget.
+
+**youtube** 
+[Video](https://sok-og-skriv.now.sh/video/kva-er-forskjellen-pa-ei-god-og-ei-darleg-oppgave.html#kva-er-forskjellen-pa-ei-god-og-ei-darleg-oppgave)
