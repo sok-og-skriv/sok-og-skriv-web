@@ -125,7 +125,7 @@ Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel. \[Internett\]. U
 :::
 
 
-### Nettside med forfatter
+### Nettside med forfatter(e)
 
 ::: teksten
 Tekst ([nummer](#henvisninger_i_teksten))
@@ -169,6 +169,15 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 9\. NOU 1999: 13. Kvinners helse i Norge. Oslo, Statens forvaltningstjeneste; 1999.
 :::
 
+### Meldinger og proposisjoner til Stortinget  
+
+::: teksten 
+Tekst (nummer)
+
+### Rapporter 
+
+::: teksten 
+Tekst (nummer)
 
 ### Manuskript under publisering, antatt (in press) (og preprint?)
 Preprint, se https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html
