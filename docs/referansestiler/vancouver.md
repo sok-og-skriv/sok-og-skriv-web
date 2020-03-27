@@ -191,10 +191,7 @@ Tekst (nummer)
 Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
 :::
 
-### Manuskript under publisering, antatt (in press) (og preprint?)
-
-Preprint, se https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html
-> NLM-guide har dette: https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
+### Manuskript under publisering, antatt (in press) 
 
 ::: teksten
 Tekst (nummer)
@@ -208,6 +205,21 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstit
 
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
 :::
+
+### Preprint 
+
+::: teksten 
+Tekst (nummer)
+
+... (11)
+
+::: 
+
+::: ref 
+https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
+
+::: 
+
 
 ### Standarder 
 
