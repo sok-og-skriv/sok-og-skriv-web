@@ -76,7 +76,7 @@ Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgi
 ::: teksten
 Tekst (nummer, eventuelt sidetall)
 
-Jones (4, s. 39) viser i sin doktoravhandling forskjellen på …
+Jones (4, s. 39) viser i sin doktoravhandling forskjellen mellom …
 :::
 
 ::: ref
@@ -97,7 +97,7 @@ Tekst (nummer)
 :::
 
 ::: ref
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
 
 5\. Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62(1):112-6.
 :::
@@ -179,10 +179,11 @@ Tekst (nummer)
 ::: teksten 
 Tekst (nummer)
 
-Etternavn Initial(er). Tittel på rapport. Sted: Utgiver; Publiseringstidspunkt. Rapport nr.
+Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
 
 
 ### Manuskript under publisering, antatt (in press) (og preprint?)
+
 Preprint, se https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html
 > NLM-guide har dette: https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
 
@@ -228,8 +229,16 @@ Tekst (nummer)
 ::: teksten 
 Tekst (nummer)
 
-... xx ... 
+
+
 :::
+
+### Oppslagsverk (trykt)
+
+::: teksten 
+Tekst (nummer)
+
+Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall.
 
 ### Forelesninger og handouts 
 
