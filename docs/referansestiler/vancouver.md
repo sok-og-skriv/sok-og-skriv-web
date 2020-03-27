@@ -157,13 +157,14 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 ::: teksten
 Tekst (nummer)
 
-I Norges offentlige utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til ... (9).
+Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utvalget til ... (9).
 :::
 
 ::: ref
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
-9\. 
+9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
+
 :::
 
 ### Meldinger og proposisjoner til Stortinget  
