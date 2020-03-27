@@ -43,7 +43,7 @@ Her innleder forfatteren med at IKT har fått et større innpass også i høyere
 :::
 
 ::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidetall.
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidespenn.
 
 Ludvigsen, Sten R. “IKT i høyere utdanning. Forventinger og resultater”. _Når læring er det viktigste, Undervisning i høyere utdanning_. Red. Helge I. Strømsø, Kirsten Hofgaard Lycke og Per Lauvås. Oslo: Cappelen Akademisk Forlag, 2006. 215-231.
 :::
@@ -87,7 +87,7 @@ Syse vil i sin artikkel se om det er en sammenheng mellom kristen etikk og rettf
 :::
 
 ::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidetall. Eventuelt DOI-nummer
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
 
 Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.årgang. Nr. 1 (2009): 49-58.
 :::
@@ -199,10 +199,10 @@ Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https
 :::
 
 
-### Stortingsmeldinger og proposisjoner
+### Meldinger og proposisjoner til Stortinget
 
 ::: teksten
-Departement _Tittel på stortingsmelding_
+Departement _Tittel på stortingsmelding_*
 
 Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
 :::
@@ -212,6 +212,8 @@ Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). U
 
 Arbeidsdepartementet. _Arbeidsinnvandring_ St.meld. nr 18 (2007-2008). Oslo: Arbeidsdepartementet, 2008.
 :::
+
+Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
 
 
 ### Klassiske og hellige tekster
