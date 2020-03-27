@@ -12,8 +12,8 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 
 ## Henvisninger i teksten
 
-- I teksten oppgis nummeret til referansen i parentes, eventuelt med sidetall. 
-- Referansene nummereres fortløpende i den rekkefølgen de forekommer i teksten. Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
+- Kildene nummereres fortløpende i den rekkefølgen de forekommer i teksten. Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
+- I teksten oppgis kun referansenummeret, i parentes, eventuelt med sidetall. 
 - Dersom du viser til flere kilder på en gang, skrives dette på denne måten: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
 
 
@@ -157,22 +157,31 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 ::: teksten
 Tekst (nummer)
 
-I Norges offentlige utredninger, nr. 13, om kvinners helse i Norge  viser utvalget til ... (9).
+Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utvalget til ... (9).
 :::
 
 ::: ref
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
-9\. 
+9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
 :::
+
 
 ### Meldinger og proposisjoner til Stortinget  
 
 ::: teksten 
 Tekst (nummer)
 
-
+setning (10)
 ::: 
+
+::: ref 
+Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
+
+Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
+:::
+
+* Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
 
 ### Rapporter 
 
@@ -182,10 +191,7 @@ Tekst (nummer)
 Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
 :::
 
-### Manuskript under publisering, antatt (in press) (og preprint?)
-
-Preprint, se https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html
-> NLM-guide har dette: https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
+### Manuskript under publisering, antatt (in press) 
 
 ::: teksten
 Tekst (nummer)
@@ -199,6 +205,21 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstit
 
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
 :::
+
+### Preprint 
+
+::: teksten 
+Tekst (nummer)
+
+... (11)
+
+::: 
+
+::: ref 
+https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
+
+::: 
+
 
 ### Standarder 
 
