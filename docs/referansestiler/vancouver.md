@@ -5,7 +5,7 @@ date: "2012-09-18"
 
 # Vancouver 
 
-Vancouverstilen er en numerisk stil. Stilen er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
+Vancouverstilen er en numerisk stil som er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
 
@@ -224,7 +224,7 @@ Tekst (nummer)
 
 
 
-### Elektronisk oppslagsverk 
+### Elektronisk oppslagsverk, artikkel med forfatter  
 
 ::: teksten 
 Tekst (nummer)
@@ -232,6 +232,10 @@ Tekst (nummer)
 
 
 :::
+
+SNL - føres med forfatter? Spør Ivana. 
+
+Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs også redaktør. SNL som mal. 
 
 ### Oppslagsverk (trykt)
 
