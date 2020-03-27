@@ -274,11 +274,11 @@ https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466
 
 
 ### Point of care-verktøy (??) 
- point-of-care verktøy som er en e-ressurs (som UpToDate). 
+ point-of-care-verktøy er en e-ressurs (som UpToDate). 
 
 
 
-## Sitater
+## Sitater (flyttes til toppen?)
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
 
