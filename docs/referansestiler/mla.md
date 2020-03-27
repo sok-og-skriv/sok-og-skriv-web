@@ -5,14 +5,14 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språkfagene. Framstillingen her er basert på: _MLA Handbook for Writers of Research Papers_. 7th edition. New York: MLA, 2009.
+MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på: _MLA Handbook for Writers of Research Papers_. 7th edition. New York: MLA, 2009.
 
 Finn ut om hvordan du siterer og henviser i teksten, lager en referanseliste og behandler forskjellige referansetyper.
 
 ## Referanselisten
 
-- Referanselisten skal ordnes alfabetisk på forfatternes etternavn
-- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren
+- Referanselisten skal ordnes alfabetisk etter forfatternes etternavn.
+- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren.
 - Har en forfatter skrevet flere verk skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
 - Navnet til førsteforfatteren skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skal skrives Fornavn Etternavn.
 - Dersom en referanse går over flere linjer skal alle linjene ha innrykk unntatt den første.
