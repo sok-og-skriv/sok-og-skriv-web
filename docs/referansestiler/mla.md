@@ -5,14 +5,14 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språkfagene. Framstillingen her er basert på: _MLA Handbook for Writers of Research Papers_. 7th edition. New York: MLA, 2009.
+MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på: _MLA Handbook for Writers of Research Papers_. 7th edition. New York: MLA, 2009.
 
 Finn ut om hvordan du siterer og henviser i teksten, lager en referanseliste og behandler forskjellige referansetyper.
 
 ## Referanselisten
 
-- Referanselisten skal ordnes alfabetisk på forfatternes etternavn
-- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren
+- Referanselisten skal ordnes alfabetisk etter forfatternes etternavn.
+- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren.
 - Har en forfatter skrevet flere verk skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
 - Navnet til førsteforfatteren skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skal skrives Fornavn Etternavn.
 - Dersom en referanse går over flere linjer skal alle linjene ha innrykk unntatt den første.
@@ -43,7 +43,7 @@ Her innleder forfatteren med at IKT har fått et større innpass også i høyere
 :::
 
 ::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidetall.
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidespenn.
 
 Ludvigsen, Sten R. “IKT i høyere utdanning. Forventinger og resultater”. _Når læring er det viktigste, Undervisning i høyere utdanning_. Red. Helge I. Strømsø, Kirsten Hofgaard Lycke og Per Lauvås. Oslo: Cappelen Akademisk Forlag, 2006. 215-231.
 :::
@@ -87,7 +87,7 @@ Syse vil i sin artikkel se om det er en sammenheng mellom kristen etikk og rettf
 :::
 
 ::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidetall. Eventuelt DOI-nummer
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
 
 Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.årgang. Nr. 1 (2009): 49-58.
 :::
@@ -199,12 +199,12 @@ Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https
 :::
 
 
-### Stortingsmeldinger og proposisjoner
+### Meldinger og proposisjoner til Stortinget
 
 ::: teksten
-Departement _Tittel på stortingsmelding_
+Departement _Tittel på melding_*
 
-Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
+Nyere eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
 :::
 
 ::: ref
@@ -213,10 +213,12 @@ Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). U
 Arbeidsdepartementet. _Arbeidsinnvandring_ St.meld. nr 18 (2007-2008). Oslo: Arbeidsdepartementet, 2008.
 :::
 
+Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
+
 
 ### Klassiske og hellige tekster
 
-Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen, og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å ta inn i litteraturlisten til slutt.
+Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen, og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å føre opp i referanselista.
 
 ::: teksten
 (Tekststed)

@@ -180,7 +180,7 @@ Tekst (nummer)
 Tekst (nummer)
 
 Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
-
+:::
 
 ### Manuskript under publisering, antatt (in press) (og preprint?)
 
@@ -220,7 +220,7 @@ Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgive
 ::: teksten 
 Tekst (nummer)
 
-
+:::
 
 
 
@@ -243,6 +243,7 @@ Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs
 Tekst (nummer)
 
 Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall.
+::: 
 
 ### Forelesninger og handouts 
 
