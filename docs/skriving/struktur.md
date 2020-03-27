@@ -49,18 +49,24 @@ Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gj
 
 ## Analyse
 
-Empirien i en empirisk oppgave må analyseres, det vil si _kodes, tolkes_ og eventuelt _kategoriseres_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrerte. Les gjerne andre oppgaver for inspirasjon.
+Å analysere betyr å skille (skjelne) mellom ulike elementer eller dimensjoner i et materiale. For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. 
+
+::: tip
+Les gjerne andre oppgaver for inspirasjon om struktur.
+:::
 
 ## Drøfting
 
-I en teoretisk oppgave er [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting sentralt. Du kan enten drøfte ideene og begrepene underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
+I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte/) og drøfting sentralt. Du kan enten drøfte ideer og begreper underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
 
 I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen/).
 
-Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
+::: tip Hvordan kan du gjenkjenne drøftingen i en tekst? 
+Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ... En annen forklaring kan være ... og så videre. 
+:::
 
 ::: øvelse Øvelse
-Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
+Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
 ## Slutninger og konklusjon
