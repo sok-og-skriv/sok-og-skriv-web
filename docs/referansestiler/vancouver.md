@@ -55,6 +55,12 @@ Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører
 2\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
 :::
 
+::: details I EndNote
+/[kopiert fra VIKO]/ 
+Legges inn som "Book Section".
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Editor (trykk "enter" mellom hvert navn hvis flere), Book Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
+:::
+
 
 ### Bok med redaktør(-er)
 
@@ -64,11 +70,17 @@ Tekst (nummer)
 ... slik som framstilt i boken (3).
 :::
 
-::: ref
+:::: ref
 Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. xxx s.
 
 3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
+::: details I EndNote
+/[rappa fra Viko]/
+Legges inn som "Edited Book".
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition - hvis aktuelt.
 :::
+::::
+
 
 
 ### Avhandling - doktor/master (publisert)
