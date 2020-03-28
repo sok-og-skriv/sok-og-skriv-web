@@ -18,6 +18,7 @@ module.exports = {
     '',
     'kom-i-gang-a-skrive',
     'struktur',
+    'argumentere-redegjore-drofte',
     'oppbygning-av-en-oppgave',
     'imrad-modellen',
     'akademisk-sprak-og-stil',
