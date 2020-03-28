@@ -14,7 +14,8 @@ Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide f
 
 - Kildene nummereres fortløpende i den rekkefølgen de forekommer i teksten. Hvis du viser til samme kilde flere ganger, brukes det samme nummeret.
 - I teksten oppgis kun referansenummeret, i parentes, eventuelt med sidetall. 
-- Dersom du viser til flere kilder på en gang, skrives dette på denne måten: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.
+- Dersom du viser til flere kilder på en gang, listes referansene med semikolon, uten mellomrom, slik: (1;3;7) 
+- eller med bindestrek: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.  
 
 
 ## Referanselisten
