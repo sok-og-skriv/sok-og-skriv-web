@@ -14,5 +14,5 @@ På disse sidene får du allmenne råd om oppgaveskriving på lavere og høyere
 ::: warning Faglige forskjeller 
 Husk at ulike fag stiller ulike krav. Rådene du får her er generelle, og må alltid sjekkes mot de spesielle kravene i faget.
 
+<Video id="GD1scK6R01A" />
 
-[Video](https://youtu.be/GD1scK6R01A)
