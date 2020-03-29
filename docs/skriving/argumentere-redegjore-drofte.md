@@ -9,11 +9,12 @@ Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva 
 
 <Video id="OWeAPxlxGnE" />
 
-En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**. Det vil si et utsagn om hvordan noe er (påstand) og hvorfor det er slik (begrunnelse). Denne definisjonen av argumentasjon vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. For å gjøre poenget tydelig, kan du gjerne gi et eksempel på det du nettopp har skrevet. I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) opp mot hverandre. En mer avansert argumentasjonsmodell finnes nederst på siden.
+## Argumentasjon: enkelt sagt 
+En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**. Det vil si et utsagn om hvordan noe er (påstand) og hvorfor det er slik (begrunnelse). Denne definisjonen av argumentasjon vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. For å gjøre poenget tydelig, kan du gjerne gi et eksempel på det du nettopp har skrevet. En mer avansert argumentasjonsmodell finnes nederst på siden.
 
 ## Redegjør og drøft 
 
-Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for i lys av noe annet. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen eller det kan være to ulike teorier/begreper som drøftes mot hverandre.
+Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) mot hverandre. I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen eller det kan være to ulike teorier/begreper som drøftes mot hverandre.
 
 Men hva betyr det å redegjøre, og hva er egentlig drøfting?
 
@@ -32,12 +33,14 @@ I drøftingen (eller diskusjonen) er det derimot ønskelig at du utvikler egne s
 For å kunne drøfte, må du vite hva det er du drøfter. Da kan det være lurt å ta utgangspunkt i en **forskjell** eller **spenning** i stoffet du har redegjort for. Ofte er oppgaven lagt opp til at du skal drøfte ulike tilnærminger til samme fenomen, for eksempel to ulike teorier. Det er sjelden interessant å se etter likheter - det interessante oppstår når du utforsker en eller annen forskjell eller spenning. Eksempler kan være til god hjelp.
 
 ::: eksempel Tre tips til en god drøfting
-Ikke still en masse spørsmål. Husk at dersom du stiller et spørsmål i en akademisk tekst, forventer leseren at du skal svare på det. Det å stille «undrende» spørsmål, er ikke det samme som å drøfte. Mange spørsmål etter hverandre er dessuten utmattende å lese. 
----
-Gå systematisk til verks. Skriv helst bare om ett tema per avsnitt, og gjør deg ferdig med ett poeng før du går videre til noe annet. Ikke redegjør og drøft i samme setning. Tenk også på at det du skriver, skal være forståelig for andre.
---- 
-Relevant konklusjon
 
+* Ikke still en masse spørsmål. 
+Husk at dersom du stiller et spørsmål i en akademisk tekst, forventer leseren at du skal svare på det. Det å stille «undrende» spørsmål, er ikke det samme som å drøfte. Mange spørsmål etter hverandre er dessuten utmattende å lese. 
+---
+* Gå systematisk til verks. 
+Skriv helst bare om ett tema per avsnitt, og gjør deg ferdig med ett poeng før du går videre til noe annet. Ikke redegjør og drøft i samme setning. Tenk også på at det du skriver, skal være forståelig for andre.
+--- 
+* Relevant konklusjon
 Oppsummer eller konkluder med essensen av det du har skrevet. Ikke skriv en intetsigende konklusjon som kunne stått i enhver besvarelse.
 ::: 
 
@@ -94,9 +97,9 @@ I hvilken grad er påstanden din sikker, sannsynlig eller mulig?
 
 ::: oppgave Oppgave
 
-Still spørsmål til det du selv skal skrive:
+Still spørsmål til teksten din: 
 
-1. Hva er hovedpåstanden din?
+1. Hva er din hovedpåstand?
 2. Hva er argumentene dine, og hvordan vil du dokumentere påstanden?
 3. Hvilke undersøkelsemetoder vil du bruke?
 4. Hvilke innvendinger mot undersøkelsesmetoden ser du?
