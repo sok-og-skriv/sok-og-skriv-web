@@ -27,7 +27,7 @@ Drøftingen bringer sammen empiri, teori og metode
 Konklusjonen følger av det som er sagt
 :::
 
-For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon.
+For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon. Du kan lese mer om de ulike operasjonene på (denne siden, lenke).
 
 Ta for deg én ting om gangen, og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
 
@@ -37,7 +37,7 @@ For å skille mellom de ulike operasjonene kan du velge å legge redegjørelser 
 Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave. Se [akademisk språk og stil](/skriving/akademisk-sprak-og-stil)
 :::
 
-## Redegjørelse
+## Forklar med egne ord
 
 I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling til det. Når du redegjør for teori skal du presentere en annen tenkers ideer på en mest mulig redelig måte. Testen på en god redegjørelse er at den skal kunne godkjennes av opphavspersonen. En nøytral beskrivelse gir deg et mye bedre ståsted for (eventuell) kritikk enn en presentasjon som er negativt vinklet.
 
