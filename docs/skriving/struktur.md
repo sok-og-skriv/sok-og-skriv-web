@@ -74,4 +74,37 @@ Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og [drøfting
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
 
+## Argumentasjon: T-U-R-modellen
+
+Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt eget uttrykk.
+
+### Tema - hva handler dette om?
+
+Det første som må klargjøres når du skal argumentere, er hva det handler om, altså temaet. Den første setningen i et avsnitt bør derfor være en «temasetning» som viser hva avsnittet dreier seg om. Temasetningen kan være en påstand, eller den kan lede opp mot en påstand som du deretter skal utdype og begrunne.
+
+### Utdypning - hvorfor er det slik?
+
+I en akademisk tekst forventes det at påstander underbygges og begrunnes. På engelsk brukes termen evidens. Evidens kan enten være empiri (forskningsdata, undersøkelser, fakta og utsagn som kan verifiseres) eller teoretiske begrunnelser. Påstander som ikke er begrunnet, kan heller ikke drøftes, men faller under kategorien «synsing». I drøftingen er det nemlig som regel begrunnelsene som diskuteres - er de gode eller dårlige? Fins det andre mulige forklaringer? For å undersøke dette, kan det være veldig nyttig å vise til eksempler.
+
+### Relevans - hva er dette eksempel på?
+
+Relevansen av et argument blir tydeligst når du bruker eksempler. Gjennom eksempler kan du vise hvordan du forstår temaet i praksis, og du kan få med nyanser som vekkes hos leseren i form av gjenkjennelse og assosiasjoner. Et velvalgt eksempel kan dermed spare deg for mye ekstra forklaring. En annen måte å vise relevans på, er ved å trekke slutninger. 
+
+## Tema - Utdypning - Relevans
+
+Vi får da følgende formel: Tema, Utdypning og Relevans, T-U-R. Relevans-utsagnet i et avsnitt kan gjerne være et springbrett til neste avsnitt som igjen starter med et nytt tema. Dermed kan teksten bygges opp gjennom flere avsnitt som følger formelen
+
+T1-U-R
+
+T2-U-R
+
+osv.
+
+Mange av avsnittene på denne siden er eksempler på T-U-R.
+
+::: oppgave Øvelse
+Les fem avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som følger T-U-R-formelen.
+:::
+
+
 <Video id="rnqQo0pyg3E" />
