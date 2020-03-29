@@ -74,7 +74,7 @@ Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og [drøfting
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
 
-## Argumentasjon: T-U-R-modellen
+## Oppbygning av avsnitt: T-U-R-modellen
 
 Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt eget uttrykk.
 
