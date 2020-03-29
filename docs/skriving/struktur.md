@@ -37,7 +37,7 @@ For å skille mellom de ulike operasjonene kan du velge å legge redegjørelser 
 Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave. Se [akademisk språk og stil](/skriving/akademisk-sprak-og-stil)
 :::
 
-## Forklar med egne ord
+## Redegjørelse
 
 I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling til det. Når du redegjør for teori skal du presentere en annen tenkers ideer på en mest mulig redelig måte. Testen på en god redegjørelse er at den skal kunne godkjennes av opphavspersonen. En nøytral beskrivelse gir deg et mye bedre ståsted for (eventuell) kritikk enn en presentasjon som er negativt vinklet.
 
@@ -51,8 +51,8 @@ Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gj
 
 Å analysere betyr å skille (skjelne) mellom ulike elementer eller dimensjoner i et materiale. For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. 
 
-::: tip
-Les gjerne andre oppgaver for inspirasjon om struktur.
+::: tip Les andres oppgaver 
+Les gjerne andres oppgaver for inspirasjon om struktur.
 :::
 
 ## Drøfting
@@ -66,10 +66,10 @@ Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra
 :::
 
 ::: øvelse Øvelse
-Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
+Let etter argumentasjon og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
-## Slutninger og konklusjon
+### Slutninger og konklusjon
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
@@ -82,7 +82,7 @@ Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Husk lik
 
 Det første som må klargjøres når du skal argumentere, er hva det handler om, altså temaet. Den første setningen i et avsnitt bør derfor være en «temasetning» som viser hva avsnittet dreier seg om. Temasetningen kan være en påstand, eller den kan lede opp mot en påstand som du deretter skal utdype og begrunne.
 
-### Utdypning - hvorfor er det slik?
+### Utdypning - hvordan og hvorfor
 
 I en akademisk tekst forventes det at påstander underbygges og begrunnes. På engelsk brukes termen evidens. Evidens kan enten være empiri (forskningsdata, undersøkelser, fakta og utsagn som kan verifiseres) eller teoretiske begrunnelser. Påstander som ikke er begrunnet, kan heller ikke drøftes, men faller under kategorien «synsing». I drøftingen er det nemlig som regel begrunnelsene som diskuteres - er de gode eller dårlige? Fins det andre mulige forklaringer? For å undersøke dette, kan det være veldig nyttig å vise til eksempler.
 
