@@ -1,5 +1,5 @@
 ---
-title: "Argumentere og drøfte"
+title: "Argumentere, redegjøre og drøfte"
 date: "2017-08-07"
 ---
 
