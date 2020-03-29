@@ -49,23 +49,62 @@ Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gj
 
 ## Analyse
 
-Empirien i en empirisk oppgave må analyseres, det vil si _kodes, tolkes_ og eventuelt _kategoriseres_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrerte. Les gjerne andre oppgaver for inspirasjon.
+Å analysere betyr å skille (skjelne) mellom ulike elementer eller dimensjoner i et materiale. For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. 
+
+::: tip
+Les gjerne andre oppgaver for inspirasjon om struktur.
+:::
 
 ## Drøfting
 
-I en teoretisk oppgave er [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting sentralt. Du kan enten drøfte ideene og begrepene underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
+I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte/) og drøfting sentralt. Du kan enten drøfte ideer og begreper underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
 
 I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen/).
 
-Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
+::: tip Hvordan kan du gjenkjenne drøftingen i en tekst? 
+Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ... En annen forklaring kan være ... og så videre. 
+:::
 
 ::: øvelse Øvelse
-Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
+Let etter [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
 ## Slutninger og konklusjon
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
+
+
+## Argumentasjon: T-U-R-modellen
+
+Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt eget uttrykk.
+
+### Tema - hva handler dette om?
+
+Det første som må klargjøres når du skal argumentere, er hva det handler om, altså temaet. Den første setningen i et avsnitt bør derfor være en «temasetning» som viser hva avsnittet dreier seg om. Temasetningen kan være en påstand, eller den kan lede opp mot en påstand som du deretter skal utdype og begrunne.
+
+### Utdypning - hvorfor er det slik?
+
+I en akademisk tekst forventes det at påstander underbygges og begrunnes. På engelsk brukes termen evidens. Evidens kan enten være empiri (forskningsdata, undersøkelser, fakta og utsagn som kan verifiseres) eller teoretiske begrunnelser. Påstander som ikke er begrunnet, kan heller ikke drøftes, men faller under kategorien «synsing». I drøftingen er det nemlig som regel begrunnelsene som diskuteres - er de gode eller dårlige? Fins det andre mulige forklaringer? For å undersøke dette, kan det være veldig nyttig å vise til eksempler.
+
+### Relevans - hva er dette eksempel på?
+
+Relevansen av et argument blir tydeligst når du bruker eksempler. Gjennom eksempler kan du vise hvordan du forstår temaet i praksis, og du kan få med nyanser som vekkes hos leseren i form av gjenkjennelse og assosiasjoner. Et velvalgt eksempel kan dermed spare deg for mye ekstra forklaring. En annen måte å vise relevans på, er ved å trekke slutninger. 
+
+## Tema - Utdypning - Relevans
+
+Vi får da følgende formel: Tema, Utdypning og Relevans, T-U-R. Relevans-utsagnet i et avsnitt kan gjerne være et springbrett til neste avsnitt som igjen starter med et nytt tema. Dermed kan teksten bygges opp gjennom flere avsnitt som følger formelen
+
+T1-U-R
+
+T2-U-R
+
+osv.
+
+Mange av avsnittene på denne siden er eksempler på T-U-R.
+
+::: oppgave Øvelse
+Les fem avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som følger T-U-R-formelen.
+:::
 
 
 <Video id="rnqQo0pyg3E" />
