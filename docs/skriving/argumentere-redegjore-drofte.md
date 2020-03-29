@@ -34,13 +34,16 @@ For å kunne drøfte, må du vite hva det er du drøfter. Da kan det være lurt 
 
 ::: eksempel Tre tips til en god drøfting
 
-* Ikke still en masse spørsmål. 
+* Ikke still en masse spørsmål
+
 Husk at dersom du stiller et spørsmål i en akademisk tekst, forventer leseren at du skal svare på det. Det å stille «undrende» spørsmål, er ikke det samme som å drøfte. Mange spørsmål etter hverandre er dessuten utmattende å lese. 
 ---
-* Gå systematisk til verks. 
+* Gå systematisk til verks
+
 Skriv helst bare om ett tema per avsnitt, og gjør deg ferdig med ett poeng før du går videre til noe annet. Ikke redegjør og drøft i samme setning. Tenk også på at det du skriver, skal være forståelig for andre.
 --- 
 * Relevant konklusjon
+
 Oppsummer eller konkluder med essensen av det du har skrevet. Ikke skriv en intetsigende konklusjon som kunne stått i enhver besvarelse.
 ::: 
 
@@ -95,7 +98,7 @@ Styrkemarkør brukes til å uttrykke graden av sikkerhet du fremsetter en påsta
 
 I hvilken grad er påstanden din sikker, sannsynlig eller mulig?
 
-::: oppgave Oppgave
+::: oppgave Oppgave: Analyser din egen tekst
 
 Still spørsmål til teksten din: 
 
