@@ -51,9 +51,6 @@ Oppsummer eller konkluder med essensen av det du har skrevet. Ikke skriv en inte
 
 I noen fag er det vanlig å redegjøre først og deretter drøfte. I andre fag er det ønskelig å drøfte underveis. Begge deler kan gi gode tekster – det viktige er at du vet hva du gjør, når du gjør det, og ikke «sklir» fra det ene til det andre, for eksempel ved å gjengi en idé fra litteraturen og samtidig si at du er uenig. Eksempel: «Teoretiker NN hevder at P, noe jeg syns er dumt».
 
-Du kan lese mer om forskjellige skrivehandlinger her: [redegjørelse, analyse, drøfting og slutninger. ](/skriving/sprak-og-stil/aa-skrive-ryddig/)
-
-
 
 ### Argumentasjonens struktur
 
