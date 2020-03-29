@@ -72,7 +72,7 @@ Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
-::: øvelse Øvelse
+::: oppgave Øvelse
 
 Let etter argumentasjon og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
