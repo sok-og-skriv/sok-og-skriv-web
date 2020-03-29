@@ -1,9 +1,9 @@
 ---
-title: "Argumentere og drøfte"
+title: "Argumentere, redegjøre, drøfte"
 date: "2017-08-07"
 ---
 
-# Argumentere, redegjøre, drøfte
+# Argumentere, redegjøre og drøfte
 
 Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva er hovedpoenget, og hvordan vil du underbygge dette? Å argumentere i en tekst betyr å gjøre det klart _hva_ det er du hevder i teksten og _hva du bygger på_. Du skal med andre ord begrunne dine påstander. Filmen "Saying what you mean" er et eksempel på hvordan dette kan gjøres.
 
@@ -17,35 +17,29 @@ Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I førs
 
 Men hva betyr det å redegjøre, og hva er egentlig drøfting?
 
-## Hva er redegjørelse?
+### Forklar med egne ord
 
 Å redegjøre betyr å beskrive eller presentere et stoff. Når du redegjør, skal du ikke ta stilling til innholdet, for eksempel si om det er bra eller dårlig, uttrykke dine egne meninger eller stille (for mange) spørsmål ved det du beskriver.
 
-### Forklar med egne ord
-
-Poenget med å redegjøre for et stoff du har lest i en studentoppgave, er å vise at du har lest og forstått dette stoffet. Det kan du bare gjøre når du presenterer hovedpoengene med dine egne ord. Det er derfor mye viktigere at det du skriver er forståelig og klart enn at du bruker avanserte ord og uttrykk fra litteraturen.
+I en studentoppgave er et viktig formål å vise at du har lært og forstått stoffet. Det kan du bare gjøre når du presenterer hovedpoengene med dine egne ord. Det er derfor mye viktigere at det du skriver er forståelig og klart enn at du bruker avanserte ord og uttrykk fra litteraturen.
 
 Husk at når du redegjør for et stoff, skal framstillingen kunne aksepteres av andre lesere, også av de som ikke har samme syn som deg. Redegjørelsen skal med andre ord være balansert, dekkende og ikke være preget av dine egne synspunkter. Les mer om å [lese og skrive sammendrag](/studieteknikk/lesing-og-skriving/).
 
-## Hva er drøfting?
+### Se etter en forskjell 
 
-I drøftingen (eller diskusjonen) er det derimot ønskelig at du utvikler egne synspunkter, og at drøftingen drives fram gjennom [argumentasjon](/skriving/struktur-og-argumentasjon/a-argumenterere-i-egen-tekst/). En enkel modell for dette presenteres lenger ned. Materialet til drøftingen finner du i din egen redegjørelse. En interessant drøfting kan oppstå når du setter ulike påstander opp mot hverandre. Husk at påstandene bør være rimelige.
-
-### Se etter en forskjell
+I drøftingen (eller diskusjonen) er det derimot ønskelig at du utvikler egne synspunkter, og at drøftingen drives fram gjennom argumentasjon. En enkel modell for dette presenteres lenger ned. Materialet til drøftingen finner du i din egen redegjørelse. En interessant drøfting kan oppstå når du setter ulike påstander opp mot hverandre. Husk at påstandene bør være rimelige.
 
 For å kunne drøfte, må du vite hva det er du drøfter. Da kan det være lurt å ta utgangspunkt i en **forskjell** eller **spenning** i stoffet du har redegjort for. Ofte er oppgaven lagt opp til at du skal drøfte ulike tilnærminger til samme fenomen, for eksempel to ulike teorier. Det er sjelden interessant å se etter likheter - det interessante oppstår når du utforsker en eller annen forskjell eller spenning. Eksempler kan være til god hjelp.
 
-::: tip Ikke still en masse spørsmål
-Husk at dersom du stiller et spørsmål i en akademisk tekst, forventer leseren at du skal svare på det. Det å stille «undrende» spørsmål, er ikke det samme som å drøfte. Mange spørsmål etter hverandre er dessuten utmattende å lese. 
-:::
-
-### Gå systematisk til verks
-
-Skriv helst bare om ett tema per avsnitt, og gjør deg ferdig med ett poeng før du går videre til noe annet. Ikke redegjør og drøft i samme setning. Tenk også på at det du skriver, skal være forståelig for andre.
-
-### Relevant konklusjon
+::: eksempel Tre tips til en god drøfting
+Ikke still en masse spørsmål. Husk at dersom du stiller et spørsmål i en akademisk tekst, forventer leseren at du skal svare på det. Det å stille «undrende» spørsmål, er ikke det samme som å drøfte. Mange spørsmål etter hverandre er dessuten utmattende å lese. 
+---
+Gå systematisk til verks. Skriv helst bare om ett tema per avsnitt, og gjør deg ferdig med ett poeng før du går videre til noe annet. Ikke redegjør og drøft i samme setning. Tenk også på at det du skriver, skal være forståelig for andre.
+--- 
+Relevant konklusjon
 
 Oppsummer eller konkluder med essensen av det du har skrevet. Ikke skriv en intetsigende konklusjon som kunne stått i enhver besvarelse.
+::: 
 
 ## Redegjørelse først, drøfting etterpå?
 
