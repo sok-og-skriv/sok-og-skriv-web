@@ -7,7 +7,9 @@ date: "2012-09-18"
 
 Vancouverstilen er en numerisk stil som er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
+::: eksempel Kilde
 Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
+::: 
 
 
 ## Henvisninger i teksten
@@ -35,11 +37,15 @@ Tekst (nummer, eventuelt sidetall)
 ... som en avklarende faktor i diagnostikken (1, s. 72)
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider.
 
 1\. Eyre HJ, Lange DP, Morris LB. Informed decisions: the complete book of cancer diagnosis, treatment, and recovery. 2. utg. Atlanta: American Cancer Society; 2002. 768 s.
+
+::: details I EndNote
+...
 :::
+::::
 
 
 ### Bokkapittel
@@ -50,17 +56,17 @@ Tekst (nummer).
 Retrovirus hos katter har vist seg ... (2).
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. s. fra-til.
 
 2\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
-:::
 
 ::: details I EndNote
-/[kopiert fra VIKO]/ 
-Legges inn som "Book Section".
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Editor (trykk "enter" mellom hvert navn hvis flere), Book Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
+/[rappa fra Viko]/
+Legges inn som "Edited Book".
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition hvis aktuelt.
 :::
+::::
 
 
 ### Bok med redaktør(-er)
@@ -197,12 +203,6 @@ Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utva
 :::: ref
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
-::: details I EndNote 
-
-tekst 
-:::
-:::: ref
-
 9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
 
 ::: details I EndNote 
@@ -268,13 +268,18 @@ Tekst (nummer)
 i en setning (11)
 ::: 
 
-::: ref 
+:::: ref 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL [- eller doi?]
 
 11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
 
 11. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
-::: 
+
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 
 ### Standarder 
@@ -286,11 +291,18 @@ Tekst (nummer)
 ... i henhold til standard for støy, virkning på mennesker (11).
 ::: 
 
-::: ref 
+:::: ref 
 Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgiver; År [hentet dato]. Tilgjengelig fra: http://...
 
 11\. International Organization for Standardization. ISO Standard nr. 13.140. Noise with respect to human beings [Internett] Geneve: ISO; 2005? Tilgjengelig fra https://www.standard.no/no/Nettbutikk/produktkatalogen/?ProdCat=11343848
-::: 
+
+::: details I EndNote 
+
+tekst 
+:::
+::::
+
+ 
 
 ### Patenter 
 
@@ -298,6 +310,15 @@ Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgive
 
 Tekst (nummer)
 :::
+
+:::: ref 
+... 
+
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 
 ### Elektronisk oppslagsverk, artikkel med forfatter  
@@ -311,6 +332,13 @@ SNL - føres med forfatter? Spør Ivana.
 
 Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs også redaktør. SNL som mal. 
 
+::: ref
+::: details I EndNote 
+
+tekst 
+:::
+::::
+
 ### Oppslagsverk (trykt)
 
 ::: teksten 
@@ -319,6 +347,13 @@ Tekst (nummer)
 
 Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
 ::: 
+
+:::: ref
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 ### Point of care-verktøy - Kliniske oppslagsverk*  
 
