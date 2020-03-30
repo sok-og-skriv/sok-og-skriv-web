@@ -269,9 +269,11 @@ i en setning (11)
 ::: 
 
 ::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Sidetall s.]. Tilgjengelig fra: URL
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL [- eller doi?]
 
 11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
+
+11. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
 ::: 
 
 
@@ -318,6 +320,30 @@ Tekst (nummer)
 Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
 ::: 
 
+### Point of care-verktøy - Kliniske oppslagsverk*  
+
+::: teksten 
+
+Tekst (nummer)
+
+... tekst (15).
+::: 
+
+:::: ref 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klinisk oppslagsverk [database]. Utgivelsessted: Utgiver. [oppdatert Årstall-Måned-Dag; lest Årstall-Måned-Dag].
+
+15. Bartlett JG. Diagnostic approach to community-acquired pneumonia in adults. UpToDate [database]. Waltham, MA: UpToDate, Inc. [oppdatert 2019-12-02; lest 2020-03-30].
+
+15. Penaloza RS, Tanaka DJ, Druck J. Assessment of neck pain. BMJ Best Practice [database]. London: BMJ Publishing group. [oppdatert 2020-mars; lest 2020-03-30].
+
+::: I EndNote 
+
+blabla 
+::: 
+:::: 
+
+* basert på https://www.fhi.no/div/bibliotek/referanseliste-med-numerisk-stil/
+
 ### Forelesninger og handouts 
 
 https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
@@ -325,10 +351,6 @@ https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466
 
 ### Datajournal, datasett 
 
-
-
-### Point of care-verktøy (??) 
- point-of-care-verktøy er en e-ressurs (som UpToDate). 
 
 
 
