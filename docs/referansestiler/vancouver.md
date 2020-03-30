@@ -91,13 +91,18 @@ Tekst (nummer, eventuelt sidetall)
 Jones (4, s. 39) viser i sin doktoravhandling forskjellen mellom …
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
 
 Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
 
 4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Artikkel i tidsskrift
@@ -108,11 +113,16 @@ Tekst (nummer)
 ... viser forandringer i blodtrykknivået (5).
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
 
 5\. Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62(1):112-6.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Nettside uten forfatter eller hvor forfatter er en organisasjon
@@ -125,12 +135,17 @@ På nettstedet til Kreftregisteret (6) belyses temaet …
 
 :::
 
-::: ref
+:::: ref
 
 Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
 6\. Kreftregisteret. Fakta om kreft \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Nettside med forfatter(e)
@@ -141,10 +156,15 @@ Tekst (nummer)
 Eksempeltekst (7).
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 :::
 
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 ### Lover
 
@@ -154,11 +174,16 @@ Tekst (nummer)
 Helsepersonelloven (8) sier at ...
 :::
 
-::: ref
+:::: ref
 Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 
 8\. Helsepersonelloven. 1999. Lov om helsepersonell m.v. av 1999-07-02 nr 64.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Norges offentlige utredninger (NOU)
@@ -169,12 +194,22 @@ Tekst (nummer)
 Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utvalget til ... (9).
 :::
 
-::: ref
+:::: ref
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
-9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
-:::
+::: details I EndNote 
 
+tekst 
+:::
+:::: ref
+
+9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
+
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 ### Meldinger og proposisjoner til Stortinget  
 
@@ -184,11 +219,16 @@ Tekst (nummer)
 setning (10)
 ::: 
 
-::: ref 
+:::: ref 
 Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
 
 Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 * Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
 
@@ -208,22 +248,32 @@ Tekst (nummer)
  ... som fremmer cellevekst (10).
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Under utgivelse. Årstall.
 
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
+
 
 ### Preprint 
 
 ::: teksten 
 Tekst (nummer)
 
-... (11)
+i en setning (11)
 ::: 
 
 ::: ref 
-https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL [- eller doi?]
+
+11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
+
+11. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
 ::: 
 
 
@@ -270,6 +320,30 @@ Tekst (nummer)
 Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
 ::: 
 
+### Point of care-verktøy - Kliniske oppslagsverk*  
+
+::: teksten 
+
+Tekst (nummer)
+
+... tekst (15).
+::: 
+
+:::: ref 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klinisk oppslagsverk [database]. Utgivelsessted: Utgiver. [oppdatert Årstall-Måned-Dag; lest Årstall-Måned-Dag].
+
+15. Bartlett JG. Diagnostic approach to community-acquired pneumonia in adults. UpToDate [database]. Waltham, MA: UpToDate, Inc. [oppdatert 2019-12-02; lest 2020-03-30].
+
+15. Penaloza RS, Tanaka DJ, Druck J. Assessment of neck pain. BMJ Best Practice [database]. London: BMJ Publishing group. [oppdatert 2020-mars; lest 2020-03-30].
+
+::: I EndNote 
+
+blabla 
+::: 
+:::: 
+
+* basert på https://www.fhi.no/div/bibliotek/referanseliste-med-numerisk-stil/
+
 ### Forelesninger og handouts 
 
 https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
@@ -277,10 +351,6 @@ https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466
 
 ### Datajournal, datasett 
 
-
-
-### Point of care-verktøy (??) 
- point-of-care-verktøy er en e-ressurs (som UpToDate). 
 
 
 
