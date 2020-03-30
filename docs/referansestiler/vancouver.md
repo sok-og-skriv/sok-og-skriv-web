@@ -91,13 +91,18 @@ Tekst (nummer, eventuelt sidetall)
 Jones (4, s. 39) viser i sin doktoravhandling forskjellen mellom …
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
 
 Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
 
 4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Artikkel i tidsskrift
@@ -108,11 +113,16 @@ Tekst (nummer)
 ... viser forandringer i blodtrykknivået (5).
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
 
 5\. Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62(1):112-6.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Nettside uten forfatter eller hvor forfatter er en organisasjon
@@ -125,12 +135,17 @@ På nettstedet til Kreftregisteret (6) belyses temaet …
 
 :::
 
-::: ref
+:::: ref
 
 Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
 6\. Kreftregisteret. Fakta om kreft \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Nettside med forfatter(e)
@@ -141,10 +156,15 @@ Tekst (nummer)
 Eksempeltekst (7).
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 :::
 
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 ### Lover
 
@@ -154,11 +174,16 @@ Tekst (nummer)
 Helsepersonelloven (8) sier at ...
 :::
 
-::: ref
+:::: ref
 Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 
 8\. Helsepersonelloven. 1999. Lov om helsepersonell m.v. av 1999-07-02 nr 64.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 
 ### Norges offentlige utredninger (NOU)
@@ -169,12 +194,22 @@ Tekst (nummer)
 Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utvalget til ... (9).
 :::
 
-::: ref
+:::: ref
 NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
-9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
-:::
+::: details I EndNote 
 
+tekst 
+:::
+:::: ref
+
+9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
+
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 ### Meldinger og proposisjoner til Stortinget  
 
@@ -184,11 +219,16 @@ Tekst (nummer)
 setning (10)
 ::: 
 
-::: ref 
+:::: ref 
 Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
 
 Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
 
 * Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
 
@@ -208,11 +248,17 @@ Tekst (nummer)
  ... som fremmer cellevekst (10).
 :::
 
-::: ref
+:::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Under utgivelse. Årstall.
 
 10\. Savinainen KJ, Helenius MA, Lehtonen HJ, Visakorpi T. Overexpression of EIF3S3 promotes cancer cell growth. Prostate. Under utgivelse 2006.
+
+::: details I EndNote 
+
+tekst 
 :::
+::::
+
 
 ### Preprint 
 
