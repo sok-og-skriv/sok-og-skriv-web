@@ -6,11 +6,13 @@ next: "../studieteknikk/"
 
 # Systematisk søking
 
-I en del fag forventes det at du lærer deg å gjøre systematiske søk etter forskningsresultater. Dette gjelder fag som er opptatt av kunnskapsbasert praksis, som sykepleie, medisin, psykologi og til dels pedagogikk. Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart.
+I fag som er opptatt av kunnskapsbasert praksis forventes det at du lærer deg å gjøre systematiske søk etter forskningsresultater. Dette gjelder særlig helse-og sosialfag. Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart.
 
 ## Problemstilling
 
-Før du kan foreta et systematisk søk, må du [arbeide grundig med problemstillingen](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/#Avgrensning_og_problemstilling "Oppbygning av en oppgave"). Det er viktig å finne ut hva slags informasjon du er ute etter å finne. Ofte kan det være nyttig å formulere problemstillingen som et spørsmål. I denne fasen kan PICO-skjemaet være et hjelpemiddel til å strukturere spørsmålet og å skille ut de viktigste begrepene i problemstillingen slik at overgangen til søk blir enklere.
+Før du kan foreta et systematisk søk, må du [arbeide grundig med problemstillingen](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/#Avgrensning_og_problemstilling "Oppbygning av en oppgave"). Det er viktig å finne ut hva slags informasjon du er ute etter å finne. Ofte kan det være nyttig å formulere problemstillingen som et spørsmål. 
+
+I denne fasen kan PICO-skjemaet være et hjelpemiddel til å strukturere spørsmålet og å skille ut de viktigste begrepene i problemstillingen slik at overgangen til søk blir enklere.
 
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
@@ -20,6 +22,7 @@ PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilli
 **O**: (outcome): utfall (det du vil ha ny kunnskap om)
 
 Foreløpig er PICO-skjemaet mest brukt innen helsefag. PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
+
 
 ### Anvendelse av PICO på to helsefaglige spørsmål
 
@@ -72,16 +75,11 @@ I dette eksempelet har vi tatt utgangspunkt i den samme pasientgruppen som i sp�
 ## Søkeord
 
 Når du har skilt ut de viktigste elementene i problemstillingen via for eksempel PICO-skjemaet, må du jobbe videre med å finne presise fagtermer og synonymer som du kan bruke i litteratursøket.
-
-I de fleste basene kreves det at du bruker engelske søketermer. Hjelp til dette, finner du for eksempel i:
-
-- Wikipedia
-- Ordbøker
-- Emneordslister i databasene.
+I de fleste basene kreves det at du søker på engelsk. Hjelp til å finne engelske søkeord finner du for eksempel ved å lese engelsk Wikipedia, slå opp i ordbøker, eller sjekke emneordslistene i databasene. 
 
 Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten. Den brukes i flere helsefaglige databaser.
-
 For å være sikker på å finne alle relevante artikler, bør man søke på synonyme termer. Velger du å søke via emneordslisten i en av databasene (for eksempel MeSH), vil den automatisk inkludere en del synonymer i søket. Likevel er det nyttig å supplere med søk på tekstord som hentes fra forfatters emneord og sammendraget av artikkelen.
+
 
 ::::: eksempel EKSEMPEL: PICO-skjema med forslag til synonymer
 Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
