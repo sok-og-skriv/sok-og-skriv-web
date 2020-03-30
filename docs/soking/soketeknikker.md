@@ -5,34 +5,42 @@ date: "2016-07-04"
 
 # Søketeknikker
 
-Det første du må gjøre, er å finne gode søkeord. Bruk problemstillingen som utgangspunkt og identifiser sentrale begreper, inkludert alternative termer (synonymer).
-
-**Tenk på følgende**
-
-- Bruk fagterminologi. Mange databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer med tilhørende synonymer.
-- Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen.
-- Språk: De fleste internasjonale databaser krever at du søker på engelsk. Selv om [Oria](https://oria.no) gir treff både på norsk og engelsk, kan du gå glipp av svært mange aktuelle dokumenter dersom du bare velger norske søkeord. Engelske fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord.
-- Vær kreativ: Finn flest mulig synonymer som er dekkende for innholdet i begrepene du er interessert i.
-- Sett opp en tabell med kolonner for hvert begrep i problemstillingen, og føy til synonymer underveis (se eksempel lenger ned).
-- Ikke bruk for mange ulike søkeord - to til tre er vanligvis nok.
+Det første du må gjøre, er å finne gode søkeord. Bruk problemstillingen som utgangspunkt og identifiser sentrale begreper. Husk å ta med synonymer. Finnes det flere begrep som beskriver dine søkeord? 
+Tenk på følgende
+*	Bruk fagterminologi. Mange databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer med tilhørende synonymer.
+*	Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen.
+*	De fleste internasjonale databaser krever at du søker på engelsk. Selv om Oria gir treff både på norsk og engelsk, kan du gå glipp av svært mange aktuelle dokumenter dersom du bare velger norske søkeord. 
+*	Engelske fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord.
+*	Om du velger å søke på norsk, skal du være oppmerksom på at bokmål gir flere treff enn nynorsk.
+*	Vær kreativ: Finn flest mulig synonymer til dine søkeord.
+*	Ikke bruk for mange ulike søkeord - to til tre er vanligvis nok. Merk at for hvert søkeord kan du ha mange synonymer.
 
 ## Fritekstsøk
 
 Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da søker du på ord i tittel, sammendrag, emne- og nøkkelord. Siden samme fenomen ofte dekkes av forskjellige termer, er det viktig å søke på synonymer.
 
+Fritekstsøk er den vanligste måten å søke på. Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokument som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord.
+
+::: tip Tips
+Fordi ulike begrep kan bli brukt om det samme er, det viktig å søke på synonymer. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
+:::
+
+
+
+
 ## Avgrensing av søk
 
-Benytt databasenes muligheter for å avgrense/snevre inn en lang treffliste. I de fleste databaser kan du avgrense på publiseringsår, språk, større emneområder og dokumenttyper. Vær obs på at enhver avgrensing kan føre til at du mister viktig informasjon.
-
-<Video id="_yKr4R3k5Pg" />
+Benytt databasenes muligheter for å avgrense en lang treffliste. I de fleste databaser kan du avgrense på publiseringsår, språk, større emneområder og dokumenttyper. Vær obs på at enhver avgrensing kan føre til at du mister viktig informasjon.
 
 ## Emneordssøk
 
-Å søke på emneord vil si å søke via emneordslistene i databasen. Da søker du på standardiserte emneord som beskriver innholdet i et dokument. En fordel med søk på emneord, er at det automatisk inkluderer søk på synonyme termer.
+<Video id="_yKr4R3k5Pg" />
 
-<Video id="V20SCScsECE" />
+Når du søker på emneord får du treff på alle dokument som har dette emneordet festet på seg. Alt innhold i databasen som handler om skole får emneordet skole selv om forfatteren har brukt andre begrep (mellomtrinnet, skule, grunnskole osv.) Det lønner seg å jobbe med å finne de emneordene som dekker ditt område.  
 
 ## Kombiner søkeord
+
+<Video id="V20SCScsECE" />
 
 Når du har funnet alle relevante søkeord, må du tenke gjennom hvordan de skal kombineres. I de fleste databaser kan du kombinere søkeord på tre forskjellige måter: med OG/AND, ELLER/OR, IKKE/NOT. Dette kalles å søke med boolske operatorer.
 
@@ -158,13 +166,10 @@ Skill
 
 ::::
 
-## Generelle søketips
-
-Ulike databaser krever ulike måter å søke på. Søkefasilitetene i databasen hjelper deg å løfte fram relevant litteratur og å unngå lange trefflister med irrelevante dokumenter. En gjennomgang av databasens hjelpeside kan derfor spare mye tid.
 
 ### Trunkering
 
-Ved trunkering søker du på stammen av et ord for å få med både entalls- og flertallsformer og ulike varianter av ordet. Trunkering **øker** antall treff. Som regel er trunkeringstegnet en stjerne (\*). Trunkering bør benyttes med omtanke; dersom du trunkerer for tidlig i ordet, kan du få lange trefflister med uaktuell litteratur. Skal du for eksempel lese om «engler» og trunkerer til eng\* for å få med entallsformen «engel», vil du drukne i treff på ord som **eng**asjement, **Eng**land, **eng**elsk osv.
+Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (*). Barn* gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
 
 ### Lagring av søk
 
@@ -172,8 +177,7 @@ De fleste databaser gir deg mulighet til å lagre søket eller sende søkehistor
 
 ### Siteringssøk
 
-Noen databaser og verktøy som Web of Science og Google Scholar gir informasjon om hvor ofte et dokument er sitert og hvem som har gjort det. Hvor ofte et dokument er sitert, kan si kan si noe om hvor stor gjennomslagskraft dokumentet har hatt på fagområdet. Klikker du på lenken «Cited by» i Google Scholar, får du opp en liste med siteringer. En slik liste kan løfte fram sentrale dokumenter og nøkkelforfattere.
+Noen databaser og verktøy som Web of Science (lenke) og Google Scholar (lenke) gir informasjon om siteringer. Det vil si hvor mange, og hvem har brukt ett gitt dokument i sin referanseliste. Hvor ofte et dokument er sitert, kan si kan si noe om hvor stor gjennomslagskraft dokumentet har hatt på fagområdet. Klikker du på lenken «Cited by» i Google Scholar, får du opp en liste med siteringer. En slik liste kan løfte fram sentrale dokumenter og nøkkelforfattere.
 
-### Søk i referanselister
-
+### Let i referanselister
 Det er ikke bare ved å foreta søk i databaser du finner god og kvalitetssikret informasjon. Hvis du har funnet en vitenskapelig artikkel som er midt i blinken for din oppgave, kan artikkelens referanseliste vise til aktuell litteratur som du kan bruke.
