@@ -265,11 +265,13 @@ tekst
 ::: teksten 
 Tekst (nummer)
 
-... (11)
+i en setning (11)
 ::: 
 
 ::: ref 
-https://www.ncbi.nlm.nih.gov/books/NBK7264/#ch14.secCIE
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Sidetall s.]. Tilgjengelig fra: URL
+
+11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
 ::: 
 
 
