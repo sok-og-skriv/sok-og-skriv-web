@@ -1,9 +1,9 @@
 ---
-title: "Gruppearbeid"
+title: "Studiegrupper"
 date: "2012-12-07"
 ---
 
-# Gruppearbeid 
+# Studiegrupper 
 
 Å diskutere tekster med andre er en god måte få et aktivt forhold til innholdet på. Du leser mer oppmerksomt, og husker bedre, hvis du etterpå skal diskutere det du har lest. Gjennom å diskutere øver du deg i å bruke begreper og i å argumentere. Ved universitetet brukes gjerne uttrykket kollokviegrupper, fra det latinske ordet for samtale, _colloquium_. 
 
