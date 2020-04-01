@@ -7,7 +7,7 @@ date: "2012-09-14"
 
 Det finnes ulike måter å lese på. Hvordan vi leser avhenger av hva vi leser, men også av formålet med lesingen. Vi leser en roman på en annen måte enn en innføring i statistikk, men vi leser også en roman på en annen måte dersom vi skal lage en litterær analyse av den, enn hvis vi bare _leser_ den.
 
-Når du leser en roman som underholdning lever du deg inn i fortellingen, blir kjent med personene, og er spent på hvordan det vil gå dem. Hvis du skal analysere en roman leser du målrettet ut fra bestemte spørsmål til teksten: Hvordan er fortellingen bygget opp? Hvordan blir personene introdusert og beskrevet? Hva slags språklige virkemidler tas i bruk? Hva slags roman er det?
+Når du leser en roman som underholdning, lever du deg inn i fortellingen, blir kjent med personene, og er spent på hvordan det vil gå dem. Hvis du skal analysere en roman leser du målrettet ut fra bestemte spørsmål til teksten: Hvordan er fortellingen bygget opp? Hvordan blir personene introdusert og beskrevet? Hva slags språklige virkemidler tas i bruk? Hva slags roman er det?
 
 ## Mål for lesingen
 
