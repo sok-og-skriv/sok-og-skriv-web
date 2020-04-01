@@ -23,10 +23,10 @@ Selv om Oria gir treff både på norsk og engelsk, kan du gå glipp av svært ma
 
 ## Fritekstsøk
 
-Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da søker du på ord i tittel, sammendrag, emne- og nøkkelord. Siden samme fenomen ofte dekkes av forskjellige termer, er det viktig å søke på synonymer.
+Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da søker du på ord i tittel, sammendrag, emne- og nøkkelord. Her er det viktig å finne rett nivå: ikke for spesifikt og ikke for generelt. 
 
 ::: eksempel Eksempel 
-Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokumenter som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord. Fordi ulike begreper kan bli brukt om det samme er, det viktig å søke på synonymer. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
+Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokumenter som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord. Fordi ulike betegnelser kan bli brukt om det samme fenomenet, er det viktig å bruke flere søkeord. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
 :::
 
 
