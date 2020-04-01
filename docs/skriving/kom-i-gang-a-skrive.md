@@ -1,9 +1,9 @@
 ---
-title: "Kom i gang å skrive"
+title: "Kom i gang med å skrive"
 date: "2012-05-16"
 ---
 
-# Kom i gang å skrive
+# Kom i gang med å skrive
 
 Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser som avløser hverandre: Flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
 
