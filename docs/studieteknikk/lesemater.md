@@ -9,7 +9,7 @@ Det finnes ulike måter å lese på. Hvordan vi leser avhenger av _hva: vi leser
 
 Når du leser en roman som underholdning, lever du deg inn i fortellingen, blir kjent med personene, og er spent på hvordan det vil gå dem. Hvis du skal analysere en roman leser du målrettet ut fra bestemte spørsmål til teksten: Hvordan er fortellingen bygget opp? Hvordan blir personene introdusert og beskrevet? Hva slags språklige virkemidler tas i bruk? Hvilken sammenheng står romanen i?
 
-## Mål for lesingen
+## Hva er målet for lesingen?
 
 Hvis målet ditt er å skaffe deg generell kunnskap om et nytt fag eller tema, så leser du i bredden mer enn i dybden. Du begynner kanskje med å google, studere Wikipedia, orientere deg i referanselister eller siteringer og gå på biblioteket.
 
@@ -19,24 +19,24 @@ Det er uansett viktig å forholde seg aktivt til tekstene du leser. Å studere d
 
 Ikke alle tekster er like gode, og ikke alle tekster er relevante for deg. Mer om dette finner du under [kildevurdering](/kildebruk-og-referanser/kildevurdering/ "kildevurdering"). En viktig del av studiene dreier seg om å øve seg i å forholde seg _kritisk_ og _selvstendig,_ ikke bare til det teksten handler om, men også til teksten selv. Når du leser pensum, kan det være nyttig å spørre seg: Hvorfor har vi denne teksten på pensum? Hva er det som er viktig med denne teksten, siden den er havnet på pensumlisten? Hva er forbindelsen mellom denne teksten, emnebeskrivelsen og resten av pensumlitteraturen?
 
-::: tip Varier lesningen 
+::: tip Varier lesingen 
 
-Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst. Lesere er forskjellige. Men generelle råd fins: Øv deg i å bli en aktiv leser. Forsøk å variere måten du leser på. En anbefalt fremgangsmåte er å lese samme tekst i tre omganger, på tre ulike måter.
+Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst. Lesere er forskjellige. Men generelle råd fins: Øv deg i å bli en aktiv leser ved å variere måten du leser på. En anbefalt fremgangsmåte er å lese samme tekst i flere omganger, på ulike måter.
 ::: 
 
-## Å lese en tekst i tre omganger
+## Å lese en tekst i flere omganger
 
-- **_Orienter deg i teksten_**. Få et første overblikk over teksten, finn ut hva slags tekst det er og hva den dreier seg om. Studer overskrifter, mellomtitler, sammendrag og referanseliste. Hvis det er en bok, studér innholdsfortegnelse, forord, emneregister, personregister, baksidetekst og annet som beskriver teksten. 
+- **_Orienter deg i teksten_**. Få et første overblikk over teksten, finn ut hva slags tekst det er og hva den dreier seg om. Studer overskrifter, mellomtitler, sammendrag og referanseliste. Hvis det er en bok, studér innholdsfortegnelse, forord, eventuelt emneregister, referanseliste, baksidetekst og annet som beskriver teksten. 
 
 Les eventuelt noen avsnitt her og der, for eksempel første og siste avsnitt i en artikkel eller åpningen av de ulike kapitlene i en bok. På den måten stiller du bedre forberedt til selve lesingen: Du har allerede en idé om hva som kommer.
 
-- **_Les hurtig gjennom teksten_**. Neste skritt er å lese gjennom teksten. Begynn med å lese gjennom hele teksten uten å ta notater eller skrive i margen, bortsett  fra eventuelt noen små merker (streker, prikker, utropstegn) hvis det er noe du biter deg spesielt merke i. Hvis det er noe du ikke forstår: Les videre. Hvis du ikke synes du forstår noe som helst: Les likevel. Du kommer tilbake til det både én og to ganger.
+- **_Les hurtig gjennom teksten_**. Neste skritt er gjennomlesing. Begynn med å lese gjennom hele teksten _uten_ å ta notater eller skrive i margen, bortsett fra eventuelt noen små merker (streker, prikker, utropstegn) hvis det er noe du biter deg spesielt merke i. Hvis det er noe du ikke forstår: Les videre. Hvis du ikke synes du forstår noe som helst: Les likevel. Du kommer tilbake til det både én og to ganger.
 
 - **_Les teksten grundig_**. Fordyp deg i teksten. Nå leser du for å forstå mest mulig. Finn fram penn og papir eller elektronisk notatverktøy, og ta notater mens du leser. I løpet av semesteret kan du bygge deg opp et "notatarkiv" eller "pensumarkiv". Et slikt arkiv er gull verdt når du skal repetere før eksamen eller når du skal skrive oppgaver. 
 
 Når du har orientert deg i teksten, lest gjennom én gang og deretter jobbet grundig med å lese og notere, kan du legge den til side. Når du vender tilbake til teksten, for eksempel dagen (eller uken) etter, kan du lese gjennom **raskt**. Antakelig vil oppfatte teksten litt annerledes nå. Å diskutere tekstene du leser med andre studenter er også nyttig.
 
-## Spørre teksten
+## Spør teksten
 
 Still spørsmål til teksten, og forsøk å «tvinge» den til å svare. Når du leser en tekst med tanke på å få den til å kaste lys over noe du lurer på eller ikke forstår, vil lesingen bli både lettere og mer interessant. Spørsmålene kan variere med lesingens formål: alt fra spørsmål om tekstens agenda og hovedbudskap, hvordan argumentasjonen fungerer, til spesifikke spørsmål om ord og begreper. Det er ikke teksten som skal tenke for deg, men du som skal tenke ved hjelp av teksten.
 
