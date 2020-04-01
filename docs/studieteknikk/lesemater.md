@@ -38,9 +38,9 @@ Still spørsmål til teksten, og forsøk å «tvinge» den til å svare. Når d
 Ta for deg en tekst du har på pensum, og spør: Hva er temaet? Hva er problemstillingen? Hva undersøker forfatteren, hva kommer hun fram til, og hvordan kommer hun fram til det? Kan du bruke noe av det i din oppgave, og i så fall, hvordan vil du selv bruke det?
 :::
 
-## Å se etter konteksten
+## Se på konteksten
 
-Å se etter sammenhengen teksten inngår i, kan hjelpe deg til å få et bedre grep om teksten, og det fører deg videre inn i faget. Kontekstualiserende lesing kan sammenlignes med orienterende lesing; forskjellen er at du nå ikke bare orienterer deg i teksten og dens nærmeste omgivelser, men også i tekstens «omland». Du ser etter slike ting som:
+Å se etter sammenhengen teksten inngår i, kan hjelpe deg til å få et bedre grep om teksten og føre deg videre inn i faget. Kontekstualiserende lesing kan sammenlignes med orienterende lesing; forskjellen er at du nå ikke bare orienterer deg i teksten og dens nærmeste omgivelser, men også i tekstens «omland». Du ser etter slike ting som:
 
 - **Forfatteren** av teksten. Hvem er det? Et søk på forfatternavn vil i de fleste tilfeller gi napp. Du finner hjemmesider, leksikonartikler eller andre publikasjoner. Tilhører forfatteren\[e\] en bestemt **teoretisk retning**? Kan du i så fall finne ut noe mer om hva som kjennetegner den?
 - Forfattere viser til **andre forskere**. Hva kan du finne ut om dem?
