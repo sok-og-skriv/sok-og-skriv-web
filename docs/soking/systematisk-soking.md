@@ -6,22 +6,20 @@ next: "../studieteknikk/"
 
 # Systematisk søking
 
-I fag som er opptatt av kunnskapsbasert praksis forventes det at du lærer deg å gjøre systematiske søk etter forskningsresultater. Dette gjelder særlig helse-og sosialfag. Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart.
+I fag som er opptatt av kunnskapsbasert praksis, forventes det at du lærer deg å gjøre systematiske søk etter forskningsresultater. Dette gjelder særlig innenfor helse-og sosialfag. Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart.
 
 ## Problemstilling
 
 Før du kan foreta et systematisk søk, må du [arbeide grundig med problemstillingen](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/#Avgrensning_og_problemstilling "Oppbygning av en oppgave"). Det er viktig å finne ut hva slags informasjon du er ute etter å finne. Ofte kan det være nyttig å formulere problemstillingen som et spørsmål. 
 
-I denne fasen kan PICO-skjemaet være et hjelpemiddel til å strukturere spørsmålet og å skille ut de viktigste begrepene i problemstillingen slik at overgangen til søk blir enklere.
-
-PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
+I denne fasen kan PICO-skjemaet være et hjelpemiddel til å strukturere spørsmålet og å skille ut de viktigste begrepene i problemstillingen slik at overgangen til søking blir enklere. PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
 **P**: (problem/patient): pasient/pasientgruppe/diagnose  
-**I**: (intervention): tiltak /eksponering  
+**I**: (intervention): tiltak/eksponering  
 **C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering  
 **O**: (outcome): utfall (det du vil ha ny kunnskap om)
 
-Foreløpig er PICO-skjemaet mest brukt innen helsefag. PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
+Foreløpig er PICO-skjemaet mest brukt innen helsefagene. PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
 
 
 ### Anvendelse av PICO på to helsefaglige spørsmål
@@ -77,8 +75,7 @@ I dette eksempelet har vi tatt utgangspunkt i den samme pasientgruppen som i sp�
 Når du har skilt ut de viktigste elementene i problemstillingen via for eksempel PICO-skjemaet, må du jobbe videre med å finne presise fagtermer og synonymer som du kan bruke i litteratursøket.
 I de fleste basene kreves det at du søker på engelsk. Hjelp til å finne engelske søkeord finner du for eksempel ved å lese engelsk Wikipedia, slå opp i ordbøker, eller sjekke emneordslistene i databasene. 
 
-Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten. Den brukes i flere helsefaglige databaser.
-For å være sikker på å finne alle relevante artikler, bør man søke på synonyme termer. Velger du å søke via emneordslisten i en av databasene (for eksempel MeSH), vil den automatisk inkludere en del synonymer i søket. Likevel er det nyttig å supplere med søk på tekstord som hentes fra forfatters emneord og sammendraget av artikkelen.
+Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten. Den brukes i flere helsefaglige databaser. For å være sikker på å finne alle relevante artikler, bør man søke på synonyme termer. Velger du å søke via emneordslisten i en av databasene, som MeSH, vil den automatisk inkludere en del synonymer i søket. Likevel er det nyttig å supplere med søk på tekstord, for eksempel forfatters emneord og sammendraget av artikkelen.
 
 
 ::::: eksempel EKSEMPEL: PICO-skjema med forslag til synonymer
@@ -116,7 +113,7 @@ Livskvalitet
 
 ## Kombinasjon av søkeord
 
-Alle store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord av gangen for så å [kombinere søkene](/soking/utdypende-sok/kombinasjon-av-sokeord/ "Kombinasjon av søkeord") med AND, OR eller NOT i søkehistorikken.
+Alle store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å [kombinere søkene](/soking/utdypende-sok/kombinasjon-av-sokeord/ "Kombinasjon av søkeord") med AND, OR eller NOT i søkehistorikken.
 
 ::: details EKSEMPEL: Systematisk søk presentert via søkehistorikken.
 Her presenteres søkehistorikken til et søk på spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
@@ -154,7 +151,7 @@ Forklaringer til søkehistorikken:
 
 ## Gjennomgang av søkeresultatet
 
-En gjennomgang av trefflisten kan av og til gi ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid og at den bør spisses/gjøres mer presis. I slike tilfelle må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. I eksempelet over, viste gjennomgangen av trefflisten at det er stor forskjell på hvordan barn og ungdom opplever det å leve med insulinpumpe. Muligens ville det være lurt å snevre inn problemstillingen slik at den kun omhandler enten barn eller ungdom. Eventuelt kunne gjennomgangen føre til at du ønsket å dreie problemstillingen mot hvorfor bruk av insulinpumpe oppleves så forskjellig for de to aldersgruppene.
+En gjennomgang av trefflisten kan av og til gi ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør "spisses" for å bli mer presis. I slike tilfelle må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. I eksempelet over, viste gjennomgangen av trefflisten at det er stor forskjell på hvordan barn og ungdommer opplever det å leve med insulinpumpe. Muligens ville det være lurt å snevre inn problemstillingen slik at den kun omhandler _enten_ barn _eller_ ungdom. Eventuelt kunne gjennomgangen føre til at du ønsket å dreie problemstillingen mot _hvorfor_ bruk av insulinpumpe oppleves så forskjellig for de to aldersgruppene.
 
 De enkelte databasene tilbyr også muligheter for å avgrense/snevre inn en treffliste. Du kan for eksempel avgrense på:
 
@@ -168,16 +165,16 @@ Husk at enhver avgrensing kan føre til at du går glipp av sentral informasjon.
 
 Til slutt må du [vurdere](/kildebruk-og-referanser/kildevurdering/ "Kildevurdering") den enkelte artikkels [kvalitet](/kildebruk-og-referanser/kvalitative-vurderinger/ "Kvalitative vurderinger") og [relevans](/kildebruk-og-referanser/vurdering-av-relevans/ "Vurdering av relevans") i forhold til problemstillingen din.
 
-## Dokumenter søket
+## Dokumentér søket
 
-I enkelte fag må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Du bør si noe om:
+I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Du bør si noe om:
 
 - hvilke databaser du har valgt å søke i
 - hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
-- har du utnyttet databasens emneordsliste?
-- har du utnyttet andre søkefasiliteter i databasen?
-- dato for når søket ble tatt
+- har du benyttet databasens emneordsliste?
+- har du benyttet andre søkefasiliteter i databasen?
+- dato for når søket ble foretatt
 
 ::: tip TIPS
-Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
+Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
 :::
