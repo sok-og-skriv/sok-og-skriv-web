@@ -19,6 +19,7 @@ Selv om Oria gir treff både på norsk og engelsk, kan du gå glipp av svært ma
 *	Vær kreativ: Finn flest mulig synonymer til dine søkeord.
 *	Ikke bruk for mange ulike søkeord - to til tre er vanligvis nok. 
 * Merk at for hvert søkeord (eller -term) kan du ha mange synonymer.
+::: 
 
 ## Fritekstsøk
 
