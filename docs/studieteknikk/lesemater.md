@@ -62,4 +62,4 @@ Du leser et avsnitt der det står:
 
 Ordet «altså» tyder på at det forut for dette avsnittet er sagt noe om både «inversjonsritual i Gluckmanns forstand» og «heterotop i Foucaults forstand» - og kanskje det som er sagt er nok for å forstå hva det snakkes om i dette avsnittet. Likevel: Hvem er Gluckmann og hvem er Foucault? Det er ikke sikkert det er sagt så mye om dem. Kanskje de er berømte forskere, som det hører med til fagkompetansen å kjenne til? Og hva betyr "inversjonsritual" og "heterotop"? Kanskje forfatteren forklarer det greit, men sannsynligheten er stor for at det ikke er bortkastet å søke hjelp også andre steder.
 
-NOTE to self: denne siden trenger en avslutning. Eksemplet kan kanskje erstattes av noe annet?
+NOTIS: denne siden er under bearbeiding. Siden trenger en avslutning. Eksemplet kan kanskje erstattes av noe annet?
