@@ -34,11 +34,11 @@ Les eventuelt noen avsnitt her og der, for eksempel første og siste avsnitt i e
 
 - **_Les teksten grundig_**. Fordyp deg i teksten. Nå leser du for å forstå mest mulig. Finn fram penn og papir eller elektronisk notatverktøy, og ta notater mens du leser. I løpet av semesteret kan du bygge deg opp et "notatarkiv" eller "pensumarkiv". Et slikt arkiv er gull verdt når du skal repetere før eksamen eller når du skal skrive oppgaver. 
 
-Når du har orientert deg i teksten, lest gjennom én gang og deretter jobbet grundig med å lese og notere, kan du legge den til side. Vend tilbake til teksten ganske snart, for eksempel dagen (eller uken) etter, og les den **raskt*** igjennom. Antakelig vil du oppdage at du oppfatter teksten litt annerledes nå. Å diskutere tekstene du leser med andre studenter er også nyttig.
+Når du har orientert deg i teksten, lest gjennom én gang og deretter jobbet grundig med å lese og notere, kan du legge den til side. Når du vender tilbake til teksten, for eksempel dagen (eller uken) etter, kan du lese gjennom **raskt***. Antakelig vil oppfatte teksten litt annerledes nå. Å diskutere tekstene du leser med andre studenter er også nyttig.
 
 ## Spørre teksten
 
-Still spørsmål til teksten, og forsøk å «tvinge» den til å svare. Når du leser en tekst med tanke på å få den til å kaste lys over noe du lurer på eller ikke forstår, vil gjøre lesingen både lettere og mer interessant. Spørsmålene kan variere med lesingens formål; alt fra overordnede spørsmål om tekstens agenda og hovedbudskap, hvordan argumentasjonen fungerer, til spesifikke spørsmål om ord og begreper. Det er ikke teksten som skal tenke for deg, men du som skal tenke ved hjelp av teksten.
+Still spørsmål til teksten, og forsøk å «tvinge» den til å svare. Når du leser en tekst med tanke på å få den til å kaste lys over noe du lurer på eller ikke forstår, vil lesingen bli både lettere og mer interessant. Spørsmålene kan variere med lesingens formål: alt fra spørsmål om tekstens agenda og hovedbudskap, hvordan argumentasjonen fungerer, til spesifikke spørsmål om ord og begreper. Det er ikke teksten som skal tenke for deg, men du som skal tenke ved hjelp av teksten.
 
 ::: oppgave OPPGAVE
 
@@ -47,7 +47,7 @@ Ta for deg en tekst du har på pensum, og spør: Hva er temaet? Hva er problemst
 
 ## Se på konteksten
 
-Å se etter sammenhengen teksten inngår i, kan hjelpe deg til å få et bedre grep om teksten og føre deg videre inn i faget. Kontekstualiserende lesing kan sammenlignes med orienterende lesing; forskjellen er at du nå ikke bare orienterer deg i teksten og dens nærmeste omgivelser, men også i tekstens «omland». Du ser etter slike ting som:
+Å se etter sammenhengen teksten inngår i, kan hjelpe deg til å få et bedre grep om teksten og føre deg videre inn i faget. Kontekstualiserende lesing kan sammenlignes med orienterende lesing; forskjellen er at du nå ikke bare orienterer deg i selve teksten, men også i tekstens «omland». Du ser etter slike ting som:
 
 - **Forfatteren** av teksten. Hvem er det? Et søk på forfatternavn vil i de fleste tilfeller gi napp. Du finner hjemmesider, leksikonartikler eller andre publikasjoner. Tilhører forfatteren\[e\] en bestemt **teoretisk retning**? Kan du i så fall finne ut noe mer om hva som kjennetegner den?
 - Forfattere viser til **andre forskere**. Hva kan du finne ut om dem?
@@ -61,3 +61,5 @@ Du leser et avsnitt der det står:
 :::
 
 Ordet «altså» tyder på at det forut for dette avsnittet er sagt noe om både «inversjonsritual i Gluckmanns forstand» og «heterotop i Foucaults forstand» - og kanskje det som er sagt er nok for å forstå hva det snakkes om i dette avsnittet. Likevel: Hvem er Gluckmann og hvem er Foucault? Det er ikke sikkert det er sagt så mye om dem. Kanskje de er berømte forskere, som det hører med til fagkompetansen å kjenne til? Og hva betyr "inversjonsritual" og "heterotop"? Kanskje forfatteren forklarer det greit, men sannsynligheten er stor for at det ikke er bortkastet å søke hjelp også andre steder.
+
+NOTE to self: denne siden trenger en avslutning. Eksemplet kan kanskje erstattes av noe annet?
