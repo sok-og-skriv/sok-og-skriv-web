@@ -1,10 +1,10 @@
 ---
-title: "Kvalitative vurderinger"
+title: "Kvalitative vurderingar"
 date: "2012-04-19"
 alias: "/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/"
 ---
 
-# Kvalitative vurderinger
+# Kvalitative vurderingar
 
 Kildevurdering vil si at man vurderer kilden ut fra type, ekthet, troverdighet og autoritet. Spørsmål om kildens kvalitet kan avgjøres på grunnlag av spørsmål som hvem den er produsert for, hvordan kilden refererer til andre kilder, hvem som står bak og når den ble publisert. Vurder kilden du har foran deg ut fra:
 

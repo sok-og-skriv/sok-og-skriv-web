@@ -1,9 +1,9 @@
 ---
-title: "Hva refereres?"
+title: "Kva skal refererast?"
 date: "2012-06-28"
 ---
 
-# Hva refereres?
+# Kva skal refererast?
 
 Alle faglige argumenter som ikke bygger på eget materiale, egne resonnement og meninger, skal refereres i teksten og henvises til i referanselisten. Dette kan for eksempel være andres meninger og vurderinger, tallmateriale, modeller, resultater og konklusjoner. Husk at dette også omfatter figurer, tabeller, lyd og bilder, og at bruk av slikt materiale har en [opphavsrettslig](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) side.
 

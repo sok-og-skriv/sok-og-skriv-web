@@ -1,9 +1,9 @@
 ---
-title: "Kildevurdering"
+title: "Vurdering av kjelder"
 date: "2012-05-08"
 ---
 
-# Kildevurdering
+# Vurdering av kjelder
 
 Gode kilder er vesentlig for å kunne skrive en god oppgave. Du bør alltid være bevisst på hvilke kilder du bruker, og hvilken funksjon ulike typer kilder har for din oppgave.
 

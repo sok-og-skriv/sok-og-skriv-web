@@ -1,12 +1,12 @@
 ---
-title: "Kildebruk og referanser"
+title: "Kjeldebruk"
 date: "2012-03-15"
 prev: "../skriving/formelle-krav-til-oppsett"
 ---
 
-# ![](/images/illustrasjoner_kildehenvisning_500x450.png) Kildebruk og referanser
+# ![](/images/illustrasjoner_kildehenvisning_500x450.png) Kjeldebruk
 
-All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag. Mulige kilder kan være bøker, rapporter, tidsskriftartikler, bilder, kart, musikk, intervju, avhandlinger, aviser og nettdokumenter.
+All forsking tek utgongspunkt i andre sitt arbeid - i kjelder. Kva kjelder som er best å nytte vil varie frå fag til fag, og frå oppgåve til oppgåve. Aktuelle kjelder kan du finne overalt: bøker, artiklar, ulike nettsider, nyhende og kart. 
 
 
 <Video id="GPR0phJIsuk" />

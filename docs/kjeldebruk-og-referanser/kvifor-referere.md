@@ -1,5 +1,5 @@
 ---
-title: "Hvorfor referere?"
+title: "Kvifor referere?"
 date: "2012-04-20"
 ---
 
