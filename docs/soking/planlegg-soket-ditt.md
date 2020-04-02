@@ -24,7 +24,7 @@ Når du har lest deg opp på emnet, og problemstillingen begynner å ta form, kr
 
 ## Valg av databaser
 
-Gjennom bibliotekenes nettsider (UiO, UiB, HVL, NHH) får du tilgang til databaser som dekker et bredt spekter av fagområder. En database er et elektronisk arkiv som inneholder ulike typer kilder. Noen databaser er tverrfaglige, mens andre dekker avgrensede fagområder. De fagspesifikke databasene gir bedre dekning av litteraturen på fagområdet enn de mer generelle databasene.
+Gjennom bibliotekenes nettsider (UiO, UiB, HVL) får du tilgang til databaser som dekker et bredt spekter av fagområder. En database er et elektronisk arkiv som inneholder ulike typer kilder. Noen databaser er tverrfaglige, mens andre dekker avgrensede fagområder. De fagspesifikke databasene gir bedre dekning av litteraturen på fagområdet enn de mer generelle databasene.
 
 Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen databaser dekker alt; de overlapper og utfyller hverandre. Derfor er det viktig å bruke flere databaser for å få oversikt.
 Nedenfor finner du et utvalg tverrfaglige databaser som kan være et godt utgangspunkt for søk før du går videre til de fagspesifikke databasene:
@@ -32,7 +32,7 @@ Nedenfor finner du et utvalg tverrfaglige databaser som kan være et godt utgang
 *	Google Scholar er den akademiske versjonen av Google. Den søker etter vitenskapelig litteratur fra anerkjente forlag og forskningsdatabaser.
 *	Artikkelbasen Norart gir oversikt over norske og et utvalg nordiske tidsskriftsartikler. Basen dekker både populærvitenskapelige og vitenskapelige tidsskrifter, så her må du selv foreta en kritisk vurdering.
 *	Idunn dekker tidsskrifter som er utgitt på Universitetsforlaget. Tilgjengelig i de fleste bibliotek i Norge.
-*	Publiseringsarkivet NORA og databasen Cristin gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren. Cristin inneholder også publiserte masteroppgaver og doktoravhandlinger. 
+*	Publiseringsarkivet NORA gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren. Søk i NORA eller eget institusjonsarkiv (BORA, DUO, HVL Open) for å finne  masteroppgaver og doktoravhandlinger. 
 
 
 ::: tip Tips 
