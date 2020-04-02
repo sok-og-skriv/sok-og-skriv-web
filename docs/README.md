@@ -39,11 +39,11 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
 
   <div class="card">
     <div class="image">
-      <a href="/kildebruk-og-referanser"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kildebruk og referanser"></a>
+      <a href="/kjeldebruk-og-referanser"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kjeldebruk og referanser"></a>
     </div>
     <div class="content">
-      <h2><a href="/kildebruk-og-referanser">Kildebruk</a></h2>
-      <p>All forsking bygger på kilder. Hvilke kilder som er mest hensiktsmessige, varierer fra fag til fag.</p>
+      <h2><a href="/kjeldebruk-og-referanser">Kjeldebruk</a></h2>
+      <p>All forsking bygger på kilder. Kva kjelder som er mest nyttig vil variere frå fag til fag. </p>
     </div>
   </div>
 </div>
