@@ -48,6 +48,7 @@ module.exports = {
             text: 'Mer',
             ariaLabel: 'Om Søk og skriv meny',
             items: [
+              { text: 'Om Søk og skriv', link: '/om/' },
               { text: 'Videoer', link: '/video/' },
               { text: 'Kontaktinformasjon', link: '/om/kontaktinformasjon/' },
               { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
