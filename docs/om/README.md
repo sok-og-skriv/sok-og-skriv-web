@@ -18,7 +18,7 @@ Det finnes en alfabetisk indeks over temaer som er behandlet på nettstedet ([Ka
 ::: 
 
 
-# Rettigheter til Søk & Skriv
+## Rettigheter til Søk & Skriv
 
 Opphavsretten til produktet Søk & Skriv tilhører institusjonene UiB, UiO og HVL.  
 
