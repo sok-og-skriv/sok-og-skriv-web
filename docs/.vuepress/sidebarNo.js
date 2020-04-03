@@ -95,7 +95,6 @@ module.exports = {
     '/video/',
     '/om/kontaktinformasjon',
     '/om/sok-og-skriv-i-undervisning',
-    '/om/rettigheter-til-sok-og-skriv',
     '/om/markdown-demo',
     '/om/gitlab-arbeidsflyt',
     '/om/brukertest/'
