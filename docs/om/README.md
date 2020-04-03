@@ -12,3 +12,9 @@ Norges Handelshøyskole har tidligere deltatt i samarbeidet.
 
 Den første versjonen av Søk & Skriv ble publisert i 2009, og nettsidene har siden gjennomgått to større revisjoner. Revisjonen i 2012-14 ble delvis finansiert med prosjektmidler fra Nasjonalbiblioteket.
 
+::: tip Indeks og søkefelt 
+Det finnes en alfabetisk indeks over temaer som er behandlet på nettstedet ([Kategorier](/om-sok-skriv/kategorier/)). 
+
+Søkefeltet søker i fulltekst på hele nettstedet. 
+::: 
+
