@@ -21,4 +21,4 @@ Opphavsretten til produktet Søk & Skriv tilhører institusjonene UiB, UiO og HV
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Søk & Skriv er lisensiert under <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 internasjonal lisens</a>.
 
-Andre institusjoner kan fritt ta i bruk nettstedet Søk & Skriv. Ved gjenbruk av Søk & Skrivs innhold forutsettes det at nettstedet krediteres som åndsverkloven og god skikk tilsier.
+Andre institusjoner kan fritt ta i bruk nettstedet Søk & Skriv. Ved gjenbruk av Søk & Skrivs innhold eller deler av produktet forutsettes det at nettstedet krediteres som åndsverkloven og god skikk tilsier.
