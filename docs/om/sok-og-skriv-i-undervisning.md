@@ -5,21 +5,22 @@ date: "2013-09-23"
 
 # Søk & Skriv i undervisning
 
-Søk & Skriv er hovedsakelig rettet mot studenter som skal skrive oppgaver på bachelor- og masternivå. Nettstedet kan brukes på flere måter: som utgangspunkt for organisert undervisning ved universiteter og høgskoler, til egenaktivitet for studenter og som oppslagsverk.
+Søk & Skriv er hovedsakelig rettet mot studenter som skal skrive oppgaver på bachelor- og masternivå. Nettstedet kan brukes på flere måter: som utgangspunkt for organisert undervisning ved universiteter og høgskoler, nettkurs, flipped classroom og som oppslagsverk.
 
 Denne siden er tenkt som en idébank for faglærere, bibliotekarer og andre som underviser og veileder studenter i skriveprosessen. Her finner du tips om undervisning og eksempler på ulike kursopplegg som kan tilpasses fagenes tradisjoner og  læringsmål.
 
 # Hvordan bruke Søk & Skriv i undervisningen?
 
-Søk & Skriv er nettbasert, men mye av materialet kan brukes i klasseroms-undervisning. Man kan for eksempel komponere forelesninger som følger mer eller mindre samme struktur som nettstedet og supplere med øvelser, oppgaver og fagspesifikke eksempler. Nettstedet inneholder materiale som egner seg for utskrift i en undervisningssituasjon. En oversikt over alle oppgavene på nettstedet finner du [nederst på denne siden](#oppgaveoversikt).
+Søk & Skriv er nettbasert, men mye av materialet kan brukes i klasseromsundervisning. Man kan for eksempel komponere forelesninger som følger mer eller mindre samme struktur som nettstedet og supplere med øvelser, oppgaver og fagspesifikke eksempler. Nettstedet inneholder materiale som egner seg for utskrift i en undervisningssituasjon. En oversikt over alle oppgavene på nettstedet finner du [nederst på denne siden](#oppgaveoversikt).
 
-De fire hovedsporene _[Søking](/soking/)_, [Studieteknikk](/studieteknikk/), [_Skriving_](/skriving) og [_Kildebruk og referanser_](/kildebruk-og-referanser/) tar for seg ulike faser i oppgaveprosessen. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre oppgaver underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
+De fire hovedsporene [Søking](/soking/)_, [Studieteknikk](/studieteknikk/), [_Skriving_](/skriving) og [_Kildebruk og referanser_](/kildebruk-og-referanser/) tar for seg ulike aspekter av studiene generelt og oppgaveskriving spesielt. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre oppgaver underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
 
-Det skal være lett å navigere rundt på nettstedet ved hjelp av hovedmenyen som er synlig på alle sider, og detaljerte, klikkbare innholdsfortegnelser i margen. Under sporet [Om Søk & Skriv](/om-sok-skriv/) ligger det en alfabetisk indeks over temaer som er behandlet på nettstedet ([Kategorier](/om-sok-skriv/kategorier/)), og på hver side er det en søkeboks man kan bruke til å gjøre fritekstsøk på hele nettstedet.
+Det skal være lett å navigere rundt på nettstedet ved hjelp av hovedmenyen som er synlig på alle sider, og detaljerte, klikkbare innholdsfortegnelser i margen. Under sporet [Om Søk & Skriv](/om-sok-skriv/) ligger det en alfabetisk indeks over temaer som er behandlet på nettstedet ([Kategorier](/om-sok-skriv/kategorier/)), og på hver side er det en søkeboks man kan bruke til å gjøre fritekstsøk på hele nettstedet. 
+
 
 # Forslag til kurs
 
-Vi presenterer her syv skisser til kursopplegg med utgangspunkt i nettstedet Søk & Skriv. Kursene er tenkt som moduler som enten kan holdes enkeltvis i 45 minutters økter eller kombineres til lengre kursopplegg. De fleste oppleggene kan tilpasses alle studenter. I de tilfeller vi mener kurset egner seg spesielt godt for studenter på bestemte nivåer, har vi indikert det i forslaget.
+Vi presenterer her skisser til kursopplegg med utgangspunkt i nettstedet Søk & Skriv. Kursene er tenkt som moduler som enten kan holdes enkeltvis i 45 minutters økter eller kombineres til lengre kursopplegg. De fleste oppleggene kan tilpasses alle studenter. I de tilfeller vi mener kurset egner seg spesielt godt for studenter på bestemte nivåer, har vi indikert det i forslaget.
 
 Kursets innhold må tilpasses studentenes nivå og behov, lærestedenes krav og egne preferanser. Vår erfaring er at skreddersydde kurs blir svært positivt mottatt. Studentene opplever stor nytteverdi om en tar utgangspunkt i det de selv jobber med og fagspesifikke problemstillinger knyttet til oppgaveskriving og informasjonssøk.
 
