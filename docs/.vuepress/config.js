@@ -51,7 +51,6 @@ module.exports = {
               { text: 'Videoer', link: '/video/' },
               { text: 'Kontaktinformasjon', link: '/om/kontaktinformasjon/' },
               { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
-              { text: 'Rettigheter', link: '/om/rettigheter-til-sok-og-skriv/' },
               { text: 'Markdown demo', link: '/om/markdown-demo/' },
               { text: 'Gitlab-arbeidsflyt', link: '/om/gitlab-arbeidsflyt/' },
               { text: 'Brukertest', link: '/om/brukertest/' }
