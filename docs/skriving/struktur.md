@@ -7,7 +7,7 @@ date: "2012-05-04"
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
-Det er mange måter å strukturere en oppgave på. Tidlig i studiet er det vanlig med [«redegjør og drøft»-oppgaver[(skriving/argumentere-redegjore-drofte.html#redegjor-og-droft)]. I helsefag og naturvitenskapelige fag brukes modellen [IMRaD](?p=1226) (Introduction, Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
+Det er mange måter å strukturere en oppgave på. Tidlig i studiet er det vanlig med [«redegjør og drøft»-oppgaver](skriving/argumentere-redegjore-drofte.html#redegjor-og-droft). I helsefag og naturvitenskapelige fag brukes modellen [IMRaD](?p=1226) (Introduction, Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
 ::: eksempel En god oppgave kjennetegnes av at:
 Alle spørsmål som reises, er besvart eller belyst
@@ -27,19 +27,20 @@ Drøftingen bringer sammen empiri, teori og metode
 Konklusjonen følger av det som er sagt
 :::
 
-For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skriveoperasjoner som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon. Du kan lese mer om de ulike operasjonene på (denne siden, lenke).
 
-Ta for deg én ting om gangen, og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
+## En ting om gangen 
 
-For å skille mellom de ulike operasjonene kan du velge å legge redegjørelser i egne kapitler (teorikapittel, presentasjon av funn osv.) og samle all drøftingen i et eget drøftingskapittel. Du kan også velge å drøfte eller diskutere underveis. Det siste er vanlig i filosofiske og teoretiske oppgaver. 
+For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skrivehandlinger som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon. Ta for deg én ting om gangen, og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
 
-Uansett er det viktig å signalisere hva som er redegjørelse (beskrivelse, utlegning, forklaring) og hva som er din egen tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
+For å skille mellom de ulike skrivehandlingene kan du velge å legge redegjørelser i egne kapitler (teorikapittel, presentasjon av funn osv.) og samle all drøftingen i et eget drøftingskapittel. Du kan også velge å drøfte eller diskutere underveis. Det siste er vanlig i filosofiske og teoretiske oppgaver. Uansett er det viktig å signalisere hva som er redegjørelse (beskrivelse, utlegning, gjengivelse, forklaring) og hva som er din _egen_ tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
 
-::: tip Tips
-Unngå svært personlige betraktninger og "synsing". Det er ikke relevant i en akademisk oppgave. Se [akademisk språk og stil](/skriving/akademisk-sprak-og-stil)
+::: oppgave Reversdisponering
+Hvis du lurer på om teksten din har en tydelig struktur, kan du "tagge" avsnittene, for eksempel med post-it-lapper. Notér poenget i hvert avsnitt med stikkord. Dersom avsnittene har flere enn ett poeng, kan du vurdere å dele dem opp eller flytte innholdet. Det som hører sammen (logisk), bør også stå sammen. 
+
+Deretter kan du se på sammenhengen. Står poengene i riktig rekkefølge? Er det noe som må flyttes på? Bruk Post-it-lappene og prøv deg fram. 
 :::
 
-## Redegjørelse
+### Redegjørelse
 
 I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling til det. Når du redegjør for teori skal du presentere en annen tenkers ideer på en mest mulig redelig måte. Testen på en god redegjørelse er at den skal kunne godkjennes av opphavspersonen. En nøytral beskrivelse gir deg et mye bedre ståsted for (eventuell) kritikk enn en presentasjon som er negativt vinklet.
 
@@ -49,7 +50,7 @@ Teksten blir mest ryddig dersom du setter nytt avsnitt før du begynner å drøf
 Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gjengivelsen. Da får du mye bedre flyt enn hvis du kopierer kildens språk for å bearbeide det. 
 :::
 
-## Analyse
+### Analyse
 
 Å analysere betyr å skille (skjelne) mellom ulike elementer eller dimensjoner i et materiale. For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. 
 
@@ -57,14 +58,14 @@ Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gj
 Les gjerne andres oppgaver for eksempler på analyse. Godkjente masteroppgaver finner du i institusjonelle arkiver ved universiteter og høyskoler. 
 :::
 
-## Drøfting
+### Drøfting
 
 I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte/) og drøfting sentralt. Du kan enten drøfte ideer og begreper underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
 
 I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen/).
 
 ::: tip Hvordan kan du gjenkjenne drøftingen i en tekst? 
-Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ... En annen forklaring kan være ... og så videre. 
+Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ... En _annen_ forklaring kan være ... og så videre. 
 :::
 
 
@@ -73,7 +74,6 @@ Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
 ::: oppgave Øvelse
-
 Let etter argumentasjon og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
 :::
 
