@@ -108,17 +108,15 @@ Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner s
 
 ## Analyse (resultater) 
 
-For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. 
+For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. I [IMRaD-modellen](?p=1226) kalles denne delen for resultater. 
 
-Sammen med drøftingen er analysen oppgavens høydepunkt. I [IMRaD-modellen](?p=1226) kalles denne delen for resultater. Her redegjør du for funn, og behandler disse på en systematisk - metodisk - måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
+Sammen med drøftingen er analysen oppgavens høydepunkt. Her redegjør du for funn, og behandler disse på en systematisk - metodisk - måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
 
-Å analysere betyr å skille (skjelne) mellom ulike elementer eller dimensjoner i et materiale. 
+Å analysere betyr å skille mellom ulike elementer eller dimensjoner i et materiale - å skjelne likt fra ulikt. Ved å skille mellom fenomener, setter du teorien i arbeid. Men akkurat _hvordan_ selve analysen skal se ut, er et metodespørsmål og hva som passer for ditt materiale. Det kan ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. 
 
-::: tip Eksempler på analyse 
+::: oppgave Hvordan skal analysen se ut? 
 Les gjerne andres oppgaver for eksempler på analyse. Godkjente masteroppgaver finner du i institusjonelle arkiver ved universiteter og høyskoler. 
 :::
-
-Å analysere betyr altså å skille likt fra ulikt. Ved å skille mellom fenomener, setter du teorien i arbeid. Men akkurat hvordan selve analysen skal se ut, er et metodespørsmål. Det kan ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. Se gjerne på tidligere masteroppgaver for inspirasjon og eksempler.
 
 Dersom du analyserer menneskelige handlinger, settes kanskje leserens følelser i sving. Da er det viktig å velge de analysekategoriene som stemmer overens med teorien du bruker. Samtidig med at følelsene engasjeres skal det kastes lys over fenomenet slik at man forstår det på en ny (og bedre) måte.
 
@@ -128,14 +126,16 @@ Ikke alle oppgaver har et eget kapittel for analyse: det kan også være aktuelt
 
 ## Drøfting
 
-I mange oppgaver er drøftingen (eller diskusjonen) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Her har du anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
+I mange oppgaver er [drøftingen (eller diskusjonen)](/skriving/argumentere-redegjore-drofte.html#drofting-se-etter-en-forskjell/) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Her har du anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
 
-En drøfting består av argumentasjon; det vil si å undersøke et fenomen fra flere sider. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på formuleringer som signaliserer drøfting:
+I en drøfting undersøker vi et fenomen fra flere sider. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på formuleringer som signaliserer drøfting:
 
 - På den ene siden .. og på den andre
 - Men er det virkelig slik at ... eller kan det også ... ?
-- ... en annen mulig forklaring kan være ...
-- ... i lys av x, kan det se ut til at ... 
+- Dersom x er tilfelle, vil det også kunne ... 
+- I lys av x, kan det se ut til at ... 
+- En annen mulig forklaring kan være ...
+- I motsetning til tidligere studier, ser det ut til at ... 
 
 ## Avslutning
 
