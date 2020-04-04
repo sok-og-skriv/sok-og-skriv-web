@@ -9,6 +9,11 @@ Oppgaveskriving i høyere utdanning går ut på å bruke det du har lest og lær
 
 Gjennom lesingen plukker du opp og samler inn momenter du kan bruke i skrivingen. Husk at du da endrer på den opprinnelige sammenhengen for det materialet du bruker. Når du viser til eller siterer fra en annen tekst, bruker du den til å forme egne resonnementer. Alt som skjer i din tekst er det du som gjør. Samtidig kan du ikke bare overta det andre har tenkt og skrevet som om det var deg selv som hadde tenkt og skrevet det. Du må skille klart mellom egne resonnementer, fortolkninger, parafrasering (indirekte sitater), og direkte sitater. Du må altså beherske grunnleggende [sitat- og referanseteknikk](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/).
 
+::: eksempel Hvordan kan jeg skrive selvstendig? 
+Hør filosof og skrivementor Åsne Grøgaard gi en innføring i hva det vil si å "ta stilling" til noe du har lest. 
+<Video id="FJKg3G-JRpg" />
+::: 
+
 ## Hvordan ta gode notater? 
 
 Mens man leser en tekst, hender det at man tenker: «Det var interessant, det visste jeg ikke, det må jeg huske på». Hvordan kan du ta med deg disse glimtene av innsikt videre i studiet? Her skal vi si litt mer om å ta notater og om andre måter du kan kombinere lesing og skriving i arbeidet ditt.
