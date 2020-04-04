@@ -77,9 +77,9 @@ module.exports = {
             text: 'More',
             ariaLabel: 'About Search and write menu',
             items: [
+              { text: 'About', link: '/en/about/' },
               { text: 'Videos', link: '/en/video/' },
-              { text: 'Contact', link: '/en/about/contact-information/' },
-              { text: 'Rights', link: '/en/about/copyright-for-search-and-write/' }
+              { text: 'Contact', link: '/en/about/contact-information/' }
             ]
           }
         ],
