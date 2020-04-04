@@ -6,7 +6,7 @@ prev: "../soking/systematisk-soking"
 
 # ![](/images/illustrasjoner_lesing_500x450.png) Studieteknikk
 
-I det akademiske håndverket er lesing og skriving tett forbundet. For å kunne skrive en god oppgave, må du lese effektivt og målrettet. Og omvendt, når du trener deg opp til å lese med oppmerksomhet, vil du også kunne lese dine egne utkast og ideer på en oppmerksom måte. 
+I det akademiske håndverket er lesing og skriving tett forbundet. For å kunne skrive en god oppgave, må du lese effektivt og målrettet. Og omvendt, når du trener deg opp til å lese med oppmerksomhet, vil du også kunne lese dine egne utkast og ideer på en oppmerksom måte. Hør Birger Solheims råd om hvordan du som student kan bli en bedre leser: 
 
 <Video id="JchpFI50UDk" />
 
