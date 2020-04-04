@@ -133,3 +133,9 @@ Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan v�
 
 Lykke til! 
 
+<Figure
+  src="/"
+  alt="Fire studenter diskuterer en akademisk tekst"
+  caption="Kollokvie. Ill.foto: NHH"
+  type=""
+/>
