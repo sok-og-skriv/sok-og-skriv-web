@@ -54,12 +54,7 @@ God tilbakemelding er konkret, konstruktiv og kjærlig.
 
 Avtal å møtes jevnlig, og møt alltid forberedt. Som medlem av en skrivegruppe får du en uvurderlig drahjelp i oppgavearbeidet. Og når innlevering står for døra, vet du hvor du kan henvende deg for å få en siste gjennomlesning.
 
-<Figure
-  src="/images/studentgruppe6.jpg"
-  alt="Gruppe studenter som skriver sammen"
-  caption="Skrivegrupper, Ill.foto: UiB"
-  type="left"
-/>
+
 
 
 
