@@ -80,7 +80,7 @@ Let etter argumentasjon og [drøfting](/skriving/argumentere-redegjore-drofte)
 
 ## Oppbygning av avsnitt: T-U-R-modellen
 
-Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt eget uttrykk.
+Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Formelen kan også brukes i ikke-argumenterende avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt _eget_ uttrykk.
 
 **Tema - hva handler dette om?**
 
@@ -104,5 +104,8 @@ Mange av avsnittene på denne siden er eksempler på T-U-R.
 Les fem avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som følger T-U-R-formelen.
 :::
 
+## Struktur gjennom revisjon 
+
+Bak envher tekst som har en god struktur, ligger det mye arbeid. I denne filmem kan du se og høre professor Ingvild Sælid Gilhus fortelle om hvordan hun jobber med å revidere tekst.
 
 <Video id="rnqQo0pyg3E" />
