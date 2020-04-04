@@ -32,21 +32,18 @@ Konklusjonen følger av det som er sagt
 
 For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skrivehandlinger som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon. Ta for deg én ting om gangen, og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
 
-I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte/) og drøfting sentralt. Du kan enten drøfte ideer og begreper underveis, eller skille ut drøftingen (diskusjonen) i et eget kapittel. Det første er vanlig i filosofiske og teoretiske oppgaver. Pass uansett på at du ikke redegjør og drøfter i én og samme vending. Det er også viktig å signalisere hva som er gjengivelse av andres ideer og hva som er din _egen_ tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
+I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte/) og drøfting sentralt. Du kan enten drøfte ideer og begreper underveis, eller skille ut drøftingen (diskusjonen) i et eget kapittel. Det siste er vanligst i empiriske oppgaver. Pass uansett på at du ikke redegjør og drøfter i én og samme vending. 
+
+Det er også viktig å signalisere hva som er gjengivelse av andres ideer og hva som er din _egen_ tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
 
 ::: oppgave Reversdisponering
-Hvis du lurer på om teksten din har en tydelig struktur, kan du "tagge" avsnittene, for eksempel med post-it-lapper. Notér poenget i hvert avsnitt med stikkord. Dersom avsnittene har flere enn ett poeng, kan du vurdere å dele dem opp eller flytte innholdet. Det som hører sammen (logisk), bør også stå sammen. 
+Hvis du lurer på om teksten din har en tydelig struktur, kan du "tagge" avsnittene, for eksempel med post-it-lapper. Notér poenget fra hvert avsnitt i form av stikkord. Dersom avsnittene har flere enn ett poeng, kan du vurdere å dele dem opp eller flytte innholdet. Det som hører sammen (logisk), bør også stå sammen. 
 
 Deretter kan du se på sammenhengen. Står poengene i riktig rekkefølge? Er det noe som må flyttes på? Bruk Post-it-lappene og prøv deg fram. 
 :::
 
-Å analysere betyr å skille (skjelne) mellom ulike elementer eller dimensjoner i et materiale. For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. 
-
-::: tip Eksempler på analyse 
-Les gjerne andres oppgaver for eksempler på analyse. Godkjente masteroppgaver finner du i institusjonelle arkiver ved universiteter og høyskoler. 
-:::
-
 I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen/).
+
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 
 
