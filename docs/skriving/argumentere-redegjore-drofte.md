@@ -9,7 +9,7 @@ Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva 
 
 <Video id="OWeAPxlxGnE" />
 
-## Argumentasjon: enkelt sagt 
+### Argumentasjon: enkelt sagt 
 En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**. Det vil si et utsagn om hvordan noe er (påstand) og hvorfor det er slik (begrunnelse). Denne definisjonen av argumentasjon vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. For å gjøre poenget tydelig, kan du gjerne gi et eksempel på det du nettopp har skrevet. En mer avansert argumentasjonsmodell finnes nederst på siden.
 
 ## Redegjør og drøft 
@@ -20,15 +20,23 @@ Men hva betyr det å redegjøre, og hva er egentlig drøfting?
 
 ### Forklar med egne ord
 
-Å redegjøre betyr å beskrive eller presentere et stoff. Når du redegjør, skal du ikke ta stilling til innholdet, for eksempel si om det er bra eller dårlig, uttrykke dine egne meninger eller stille (for mange) spørsmål ved det du beskriver.
+Å redegjøre betyr å beskrive eller presentere et stoff. Når du redegjør, skal du ikke ta stilling til innholdet, for eksempel si om det er bra eller dårlig, uttrykke dine egne meninger eller stille (for mange) spørsmål ved det du beskriver. ### Redegjørelse
+
+I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling til det. Når du redegjør for teori skal du presentere en annen tenkers ideer på en mest mulig redelig måte. Testen på en god redegjørelse er at den skal kunne godkjennes av opphavspersonen. En nøytral beskrivelse gir deg et mye bedre ståsted for (eventuell) kritikk enn en presentasjon som er negativt vinklet.
+
+Teksten blir mest ryddig dersom du setter nytt avsnitt før du begynner å drøfte – eller diskutere – det du har redegjort for, men her kan du bruke skjønn.
+
+::: tip Bruk ditt eget språk 
+Gjengi materialet med egne ord; gå deretter tilbake til kilden for å sjekke gjengivelsen. Da får du mye bedre flyt enn hvis du kopierer kildens språk for å bearbeide det. 
+:::
 
 I en studentoppgave er et viktig formål å vise at du har lært og forstått stoffet. Det kan du bare gjøre når du presenterer hovedpoengene med dine egne ord. Det er derfor mye viktigere at det du skriver er forståelig og klart enn at du bruker avanserte ord og uttrykk fra litteraturen.
 
 Husk at når du redegjør for et stoff, skal framstillingen kunne aksepteres av andre lesere, også av de som ikke har samme syn som deg. Redegjørelsen skal med andre ord være balansert, dekkende og ikke være preget av dine egne synspunkter. Les mer om å [lese og skrive sammendrag](/studieteknikk/lesing-og-skriving/).
 
-### Se etter en forskjell 
-
-I drøftingen (eller diskusjonen) er det derimot ønskelig at du utvikler egne synspunkter, og at drøftingen drives fram gjennom argumentasjon. En enkel modell for dette presenteres lenger ned. Materialet til drøftingen finner du i din egen redegjørelse. En interessant drøfting kan oppstå når du setter ulike påstander opp mot hverandre. Husk at påstandene bør være rimelige.
+### Drøfting: se etter en forskjell 
+ 
+I drøftingen (eller diskusjonen) er det derimot ønskelig at du utvikler egne synspunkter, og at drøftingen drives fram gjennom argumentasjon. Materialet til drøftingen finner du i din egen redegjørelse. En interessant drøfting kan oppstå når du setter ulike påstander opp mot hverandre. Husk at påstandene bør være rimelige.
 
 For å kunne drøfte, må du vite hva det er du drøfter. Da kan det være lurt å ta utgangspunkt i en **forskjell** eller **spenning** i stoffet du har redegjort for. Ofte er oppgaven lagt opp til at du skal drøfte ulike tilnærminger til samme fenomen, for eksempel to ulike teorier. Det er sjelden interessant å se etter likheter - det interessante oppstår når du utforsker en eller annen forskjell eller spenning. Eksempler kan være til god hjelp.
 
@@ -47,12 +55,20 @@ Skriv helst bare om ett tema per avsnitt, og gjør deg ferdig med ett poeng før
 Oppsummer eller konkluder med essensen av det du har skrevet. Ikke skriv en intetsigende konklusjon som kunne stått i enhver besvarelse.
 ::: 
 
+
 ## Redegjørelse først, drøfting etterpå?
 
 I noen fag er det vanlig å redegjøre først og deretter drøfte. I andre fag er det ønskelig å drøfte underveis. Begge deler kan gi gode tekster – det viktige er at du vet hva du gjør, når du gjør det, og ikke «sklir» fra det ene til det andre, for eksempel ved å gjengi en idé fra litteraturen og samtidig si at du er uenig. Eksempel: «Teoretiker NN hevder at P, noe jeg syns er dumt».
 
+::: tip Hvordan kan du gjenkjenne drøftingen i en tekst? 
+Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ... En _annen_ forklaring kan være ... og så videre. 
+:::
+::: oppgave Øvelse
+Let etter argumentasjon og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
+:::
 
-### Argumentasjonens struktur
+
+## Argumentasjonens struktur
 
 Argumentasjonen utgjør et resonnement som består av
 
