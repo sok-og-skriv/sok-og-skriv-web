@@ -54,8 +54,6 @@ Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med 
 :::
 
 
-
-
 ### Avgrensning og problemstilling
 
 Noe av det første man må gjøre som forsker er å avgrense undersøkelsens **område** (tema, felt) og **omfang** (mengden informasjon). Ofte kan det ta lang tid å få avgrenset nok. Det kan virke merkelig at jo mer man avgrenser, jo mer spennende blir gjerne problemstillingen. Jo smalere du definerer undersøkelsens område, jo dypere kan du gå, mens en mer omfattende problemstilling bare tillater en overflatisk behandling av temaet. 
@@ -108,15 +106,25 @@ Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner s
 - Vis hva du har gjort for å øke **validiteten**. Hva kan du si om reliabiliteten (påliteligheten) i datainnsamlingen? Hvordan vet du at du har undersøkt det du ønsket å undersøke? Hvilke slutninger kan trekkes på dette grunnlaget? Hvilke slutninger er sikre, og hvilke er mer tentative? Hvilken overføringsverdi har resultatene? Kan du generalisere – hvorfor, hvorfor ikke?
 - Svakheter og styrker ved metoden skal beskrives. Den ekstra gode oppgaven utmerker seg ved å forsvare sine valg og samtidig kritisere dem.
 
-## Analyse
+## Analyse (resultater) 
+
+For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. 
 
 Sammen med drøftingen er analysen oppgavens høydepunkt. I [IMRaD-modellen](?p=1226) kalles denne delen for resultater. Her redegjør du for funn, og behandler disse på en systematisk - metodisk - måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
 
-Å analysere betyr å skille mellom ulike fenomener - likt fra ulikt. Ved å skille mellom fenomener, setter du teorien i arbeid. Men akkurat hvordan selve analysen skal se ut, er et metodespørsmål. Det kan ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. Se gjerne på tidligere masteroppgaver for inspirasjon og eksempler.
+Å analysere betyr å skille (skjelne) mellom ulike elementer eller dimensjoner i et materiale. 
+
+::: tip Eksempler på analyse 
+Les gjerne andres oppgaver for eksempler på analyse. Godkjente masteroppgaver finner du i institusjonelle arkiver ved universiteter og høyskoler. 
+:::
+
+Å analysere betyr altså å skille likt fra ulikt. Ved å skille mellom fenomener, setter du teorien i arbeid. Men akkurat hvordan selve analysen skal se ut, er et metodespørsmål. Det kan ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. Se gjerne på tidligere masteroppgaver for inspirasjon og eksempler.
 
 Dersom du analyserer menneskelige handlinger, settes kanskje leserens følelser i sving. Da er det viktig å velge de analysekategoriene som stemmer overens med teorien du bruker. Samtidig med at følelsene engasjeres skal det kastes lys over fenomenet slik at man forstår det på en ny (og bedre) måte.
 
-NB: Ikke alle oppgaver har et eget kapittel for analyse: det kan også være aktuelt å tolke og/eller analysere underveis.
+::: tip NB
+Ikke alle oppgaver har et eget kapittel for analyse: det kan også være aktuelt å tolke og/eller analysere underveis.
+:::
 
 ## Drøfting
 
