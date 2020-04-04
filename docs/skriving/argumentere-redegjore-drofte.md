@@ -55,22 +55,17 @@ Skriv helst bare om ett tema per avsnitt, og gjør deg ferdig med ett poeng før
 Oppsummer eller konkluder med essensen av det du har skrevet. Ikke skriv en intetsigende konklusjon som kunne stått i enhver besvarelse.
 ::: 
 
-
-## Redegjørelse først, drøfting etterpå?
-
 I noen fag er det vanlig å redegjøre først og deretter drøfte. I andre fag er det ønskelig å drøfte underveis. Begge deler kan gi gode tekster – det viktige er at du vet hva du gjør, når du gjør det, og ikke «sklir» fra det ene til det andre, for eksempel ved å gjengi en idé fra litteraturen og samtidig si at du er uenig. Eksempel: «Teoretiker NN hevder at P, noe jeg syns er dumt».
 
-::: tip Hvordan kan du gjenkjenne drøftingen i en tekst? 
-Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ... En _annen_ forklaring kan være ... og så videre. 
-:::
+
 ::: oppgave Øvelse
-Let etter argumentasjon og [drøfting](/skriving/argumentere-redegjore-drofte) i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse. 
+Let etter argumentasjon og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse, og ved å sette ting opp mot hverandre (ofte kalt ulike _posisjoner_). 
 :::
 
 
-## Argumentasjonens struktur
+## Argumentasjonens struktur: resonnement
 
-Argumentasjonen utgjør et resonnement som består av
+Argumentasjon utgjør et resonnement som består av
 
 1. Et synspunkt, en påstand, noe du argumenterer _for_
 2. Et argument, noe du argumenterer _med_
