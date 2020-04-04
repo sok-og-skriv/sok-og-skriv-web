@@ -7,14 +7,12 @@ prev: "../studieteknikk/akademiske-sjangrer"
 
 # ![](/images/illustrasjoner_skriving_500x450.png) Skriving
 
-I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil.
-
-På disse sidene får du allmenne råd om oppgaveskriving på lavere og høyere grad. Vi gir deg innføring i hvordan [større oppgaver kan struktureres](/skriving/oppbygning-av-en-oppgave) og råd om [akademisk språk og stil](/skriving/akademisk-sprak-og-stil). Du får tips om hvordan du kan [komme i gang med skrivingen](/skriving/kom-i-gang-a-skrive/) og innspill til ulike deler av skrivearbeidet, inkludert [formelle krav til oppsett](/skriving/formelle-krav-til-oppsett).
+I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil. På disse sidene får du allmenne råd om oppgaveskriving på lavere og høyere grad. Vi gir deg innføring i hvordan større oppgaver kan struktureres og råd om argumentasjon og drøfting. Du får tips om hvordan du kan komme i gang med skrivingen og innspill til skriveprosessen helt fram til [ferdig produkt](/skriving/formelle-krav-til-oppsett/).  
 
 ::: warning Faglige forskjeller 
 Husk at ulike fag stiller ulike krav. Rådene du får her er generelle, og må alltid sjekkes mot de spesielle kravene i faget.
 ::: 
 
-Se professor Lars Nyre ved Institutt for informasjons- og medievitskap ved UiB fortelle om en oppgave han skrev som ikke ble så godt mottatt som han hadde håpet:
+For å skrive gode, akademiske tekster må man gjerne både øve og prøve seg fram. Se professor Lars Nyre ved Institutt for informasjons- og medievitskap ved UiB fortelle om en oppgave han skrev som ikke ble så godt mottatt som han hadde håpet:
 <Video id="GD1scK6R01A" />
 
