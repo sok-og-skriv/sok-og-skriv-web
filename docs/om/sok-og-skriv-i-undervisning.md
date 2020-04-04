@@ -7,11 +7,9 @@ date: "2013-09-23"
 
 Søk & Skriv er hovedsakelig rettet mot studenter som skal skrive oppgaver på bachelor- og masternivå. Nettsidene kan brukes på flere måter: som utgangspunkt for organisert undervisning ved universiteter og høgskoler, nettkurs, flipped classroom og som oppslagsverk.
 
-Søk & Skriv er nettbasert, men mye av materialet kan brukes i undervisning og veiledning. Man kan for eksempel komponere forelesninger som følger mer eller mindre samme struktur som nettstedet og supplere med øvelser, oppgaver og fagspesifikke eksempler. En oversikt over alle oppgavene på nettstedet finner du [nederst på denne siden](#oppgaveoversikt). 
+Søk & Skriv er nettbasert, men mye av materialet kan brukes i undervisning og veiledning. Man kan for eksempel komponere seminarer som følger mer eller mindre samme struktur som nettstedet og supplere med øvelser, oppgaver og fagspesifikke eksempler. Nettstedet har også en rekke filmer som kan brukes i "flipped classroom"-sammenheng, der studentene ser filmene i forkant av seminarundervisning, og eventuelt etterpå for å repetere. 
 
-Nettstedet har også en rekke filmer som kan brukes i "flipped classroom"-sammenheng, der studentene ser filmene i forkant av seminarundervisning, og eventuelt etterpå for å repetere. 
-
-De fire hovedsporene [Søking](/soking/, [Studieteknikk](/studieteknikk/), [Skriving](/skriving) og [Kjeldebruk](/kildebruk-og-referanser/) tar for seg ulike aspekter av studiene generelt og oppgaveskriving spesielt. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre oppgaver underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
+De fire hovedsporene [Søking](/soking/, [Studieteknikk](/studieteknikk/), [Skriving](/skriving) og [Kjeldebruk](/kildebruk-og-referanser/) tar for seg ulike aspekter av studiene generelt og oppgaveskriving spesielt. Det er mulig å jobbe seg gjennom hvert enkelt spor fra begynnelse til slutt og gjøre øvelser underveis. I det praktiske arbeidet med en oppgave er de ulike arbeidsfasene imidlertid integrerte. Studenter som bruker Søk & Skriv som hjelp til oppgaveskriving vil ha bruk for å bevege seg fram og tilbake mellom sporene, og vi anbefaler at kurs og øvelser støtter opp om en slik bruk.
 
 
 
