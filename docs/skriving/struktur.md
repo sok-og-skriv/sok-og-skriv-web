@@ -7,7 +7,7 @@ date: "2012-05-04"
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
-Det er mange måter å strukturere en oppgave på. Tidlig i studiet er det vanlig med [«redegjør og drøft»-oppgaver](skriving/argumentere-redegjore-drofte.html#redegjor-og-droft). I helsefag og naturvitenskapelige fag brukes modellen [IMRaD](?p=1226) (Introduction, Methods, Results, and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
+Det er mange måter å strukturere en oppgave på. Tidlig i studiet er det vanlig med [«redegjør og drøft»-oppgaver](skriving/argumentere-redegjore-drofte.html#redegjor-og-droft). I helsefag og naturvitenskapelige fag brukes modellen [IMRaD](?p=1226) (Introduction, Methods, Results and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
 ::: eksempel En god oppgave kjennetegnes av at:
 Alle spørsmål som reises, er besvart eller belyst
@@ -16,7 +16,7 @@ Leseren forstår hvor forfatteren vil til enhver tid
 
 Alt som er redegjort for, har en funksjon
 
-Teorien brukes til å analysere (tolke) data
+Teorien brukes til å analysere/tolke data (hvis relevant)
 
 Metodekapitlet er konkret
 
@@ -73,8 +73,8 @@ Mange av avsnittene på denne siden er eksempler på T-U-R.
 Les fem avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som følger T-U-R-formelen.
 :::
 
-## Struktur gjennom revisjon 
+## Hvordan få en god struktur? 
 
-Bak envher tekst som har en god struktur, ligger det mye arbeid. I denne filmem kan du se og høre professor Ingvild Sælid Gilhus fortelle om hvordan hun jobber med å revidere tekst.
+Bak envher tekst som har en god struktur, ligger det mye arbeid. I denne filmen kan du se og høre professor Ingvild Sælid Gilhus fortelle om hvordan hun jobber med å revidere tekst.
 
 <Video id="rnqQo0pyg3E" />
