@@ -332,7 +332,7 @@ SNL - føres med forfatter? Spør Ivana.
 
 Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs også redaktør. SNL som mal. 
 
-::: ref
+:::: ref
 ::: details I EndNote 
 
 tekst 
@@ -371,7 +371,7 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klini
 
 15. Penaloza RS, Tanaka DJ, Druck J. Assessment of neck pain. BMJ Best Practice [database]. London: BMJ Publishing group. [oppdatert 2020-mars; lest 2020-03-30].
 
-::: I EndNote 
+::: details I EndNote
 
 blabla 
 ::: 

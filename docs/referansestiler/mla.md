@@ -132,9 +132,9 @@ I artikkelen "Nær 8000 raskere tilbake", viser NAV sine tall at arbeidsledighet
 :::
 
 ::: ref
-"Artikkeltittel". _Tittel på nettstedet._ Nettstedets navn/Organisasjon. År. Oppdatert dato.<URL> Lesedato.  
+"Artikkeltittel". _Tittel på nettstedet._ Nettstedets navn/Organisasjon. År. Oppdatert dato.\<URL\> Lesedato.  
 
-"Nær 8000 raskere tilbake" _NAV_. 2007. 31. desember 2007.< [https://www.nav.no/805371523.cms](https://www.nav.no/805371523.cms)\> 12.februar 2013.
+"Nær 8000 raskere tilbake" _NAV_. 2007. 31. desember 2007. <[https://www.nav.no/805371523.cms](https://www.nav.no/805371523.cms)\> 12.februar 2013.
 :::
 
 
@@ -147,7 +147,7 @@ Thoring (_Framtiden i våre hender_) skriver at økologisk jordbruk er det mest 
 :::
 
 ::: ref
-Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ Publiseringsdato. År. Red. hvis det oppgis. Organisasjon. Internett.<URL> Lesedato.
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ Publiseringsdato. År. Red. hvis det oppgis. Organisasjon. Internett.\<URL\> Lesedato.
 
 Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden i våre hender. Internett. <[https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
 :::
@@ -193,7 +193,7 @@ Helsepersonellovens §6, 1999 skal sørge for at helsehjelpen ikke påfører pas
 :::
 
 ::: ref
-Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiversted og departement brukes ikke, fordi alle norske lover vedtas av Stortinget og utgis i Oslo. Eventuelt <URL>  og lesedato.
+Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiversted og departement brukes ikke, fordi alle norske lover vedtas av Stortinget og utgis i Oslo. Eventuelt \<URL\>  og lesedato.
 
 Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02.februar 2013.
 :::

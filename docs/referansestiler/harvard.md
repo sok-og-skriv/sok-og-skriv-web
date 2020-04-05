@@ -39,7 +39,7 @@ Bok med fire eller flere forfattere:
 Eriksen og Nielsen (2013, s. 14) hevder at …
 :::
 
-::: ref
+:::: ref
 Bok med en til tre forfattere:  
 Etternavn, N.N, Etternavn, N.N. og Etternavn, N.N. (Årstall) _Tittel_. Utgivelsessted: Utgiver. 
 
@@ -47,7 +47,12 @@ Bok med fire eller flere forfattere:
 Etternavn, N.N. mfl. (årstall) _Tittel_. Utgivelsessted: Utgiver
 
 Eriksen, T.H. og Nielsen, F.S. (2013) _A history of anthropology._ 2. utg. London: Pluto Press.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempel
 De seks medisinske kjernespørsmålene (Nortvedt mfl., 2012, s. 35) bestemmer hvilken …
@@ -63,11 +68,16 @@ Nortvedt, M.W. mfl. (2012) _Jobb kunnskapsbasert! En arbeidsbok._ 2. utg. Oslo: 
 Skolen kan sees på som et prisme (Engen, 2010, s. 122).
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. (Årstall) Kapitteltittel, i Redaktør, N.N. og Redaktør, N.N. (red.) _Boktittel_. Utgivelsessted: Utgiver, sidetall for kapittelet.
 
 Engen, T.O. (2010) Enhetsskolen og minoritetene, i Lund, A.C.B. og Moen, B.B. (red.) _Nasjonale minoriteter i det flerkulturelle Norge_. Trondheim: Tapir akademisk forlag, s. 121–139.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ### Avhandling - doktor/master (publisert)
 
@@ -79,13 +89,18 @@ Utgivelsessted tas med dersom det ikke er en del av universitetets eller høg
 Sætre (2009, s. 21) viser i sin avhandling …
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. (Årstall) _Tittel_. Type akademisk avhandling. Sted: Universitet/Høgskole.
 
 For elektronisk utgave legges til: Tilgjengelig fra: https://URL (Hentet: dato).
 
 Sætre, A. (2009) _Dysleksi og selvoppfatning: en kvalitativ intervjuundersøkelse_. Doktoravhandling. Trondheim: Norges teknisk-naturvitenskapelige universitet.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempler
 Det er mange ulike stoffer som påvirker synapsens funksjon (Hagenes, 2012, s. 8).
@@ -104,11 +119,16 @@ Hagenes, M. (2012) _Fysioterapi til MS-pasienter i palliativ fase: fra rehabili
 Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov og Straume, 2003, s. 99).
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. og Etternavn, N.N. (Årstall) Artikkeltittel, _Tidsskriftets tittel_, årgang(hefte, måned eller årstid) (hvis det er oppgitt), sidetall.
 
 Dyregrov, A. og Straume, M. (2003) Kollektiv ivaretakelse etter katastrofer: erfaringer fra «Sleipnerulykken». _Tidsskrift for norsk psykologforening_, 40(2), s. 92–101.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempler
 Studier viser at … (Strømsø mfl., 2007, s. 275).
@@ -124,7 +144,7 @@ Strømsø, H.I., Grøttum, P. og Lycke, K.H. (2007) Content and processes in p
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
 :::
 
-::: ref
+:::: ref
 Elektronisk avis:  
 Etternavn, N.N. (Årstall) Artikkeltittel, _Avis_, dato. Tilgjengelig fra: https://url (Hentet: dato).
 
@@ -132,7 +152,12 @@ Papiravis:
 Etternavn, N.N. (Årstall) Artikkeltittel, _Avis_, dato, eventuelt del, sidetall.
 
 Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober. Tilgjengelig fra: https://www.bt.no/meninger/kronikk/Utroskapens-pris-1819069.html (Hentet: 17. januar 2015).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempler
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
@@ -148,11 +173,16 @@ Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober, del 2, s. 12.
 … (Espeland og Tuv, 2019).
 :::
 
-::: ref
+:::: ref
 Forfatter/redaktør/organisasjon (Årstall) _Tittel_. Tilgjengelig fra: https://url (Hentet: dato).
 
 Espeland, J. og Tuv, N. (2019) _Slik måler SSB ulikhet_. Tilgjengelig fra: https://www.ssb.no/inntekt-og-forbruk/artikler-og-publikasjoner/slik-maler-ssb-ulikhet (Hentet: 10. mai 2019).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 #### Merknad
 
@@ -174,11 +204,16 @@ Dersom nettadressen til oppslaget er svært lang, anbefales det kun å ta med�
 (Heflin, 2015)
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. (Årstall for siste oppdatering) Oppslagets tittel, i _Oppslagsverk_. Tilgjengelig fra: https://url (Hentet: dato).
 
 Heflin, M.T. (2015) Geriatric health maintenance, i _UpToDate_. Tilgjengelig fra: https://www.uptodate.com/ (Hentet: 20. september 2015).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ### Artikkel i elektronisk leksikon uten forfatter
 
@@ -190,11 +225,16 @@ Dersom nettadressen til oppslaget er svært lang, anbefales det kun å ta med�
 I begrepet universell utforming ligger flere prinsipper (Universell utforming, 2015).
 :::
 
-::: ref
+:::: ref
 Artikkeltittel (Årstall for siste oppdatering) i _Oppslagsverk_. Tilgjengelig fra: https://url (Hentet: dato).
 
 Universell utforming (2015) i _Wikipedia_. Tilgjengelig fra: https://no.wikipedia.org/wiki/Universell\_utforming (Hentet: 3. september 2015).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Artikkel i trykt leksikon med forfatter
@@ -205,14 +245,19 @@ Universell utforming (2015) i _Wikipedia_. Tilgjengelig fra: https://no.wikiped
 ... ble født i 1860 (Risa, 2003, s. 405).
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. (Årstall) Tittel på artikkel, i _Tittel på leksikon: Volumtittel_. Utgave. Utgivelsessted: Forlag, sidetall.
 
 Alternativt:  
 Etternavn, N.N. (Årstall) Tittel på artikkel, i _Tittel på leksikon_ (volumnummer). Utgave. Utgivelsessted: Forlag.
 
 Risa, G. (2003) Munthe, Margrethe, i_ _Norsk biografisk leksikon:_ Bind 6 Lassen–Nitter_. Oslo: Kunnskapsforlaget, s. 405.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Bilder/kunst/fotografi
@@ -225,11 +270,16 @@ Bilder tilgjengeliggjøres på mange ulike måter. Omtaler du et bilde i en bok,
 Eldre fotografi av Børsen i Bergen (Knudsen, 1865).
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. (Årstall) _Tittel på bilde_ \[Medium\]_._ Sted. Referansenummer, om det finnes.
 
 Knudsen, K. (1865) _Børsen i Bergen_ \[Fotografi\]. Universitetsbiblioteket i Bergen. Ubb-kk-1318-0012.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Digitale bilder/kunst/fotografi
@@ -246,7 +296,7 @@ Oppgi navn på fotograf/kunstner hvis informasjonen er gitt. Bruk tittel på bil
 (_Northern lights (aurora borealis) over Tromso, Troms, Northern Norway_, u.å.) …
 :::
 
-::: ref
+:::: ref
 Etternavn, N_._ (Årstall) _Tittel på bilde_ \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
 
 _Tittel på bilde_ (Årstall) \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
@@ -254,7 +304,12 @@ _Tittel på bilde_ (Årstall) \[Medium\]_._ Tilgjengelig fra: https://url (Hente
 Huyn, T. (u.å.) _Streetlife_ \[Fotografi\]. Tilgjengelig fra: https://tommyimages.com/Stock\_Photos/Caribbean/Cuba/Life\_in\_Havana/slides/Cuba\_01\_E\_8\_19-Street\_Life.html (Hentet 18. desember 2013).
 
 _Northern lights (aurora borealis) over Tromso, Troms, Northern Norway _(u.å.) \[Fotografi\].Tilgjengelig fra: https://www.theodora.com/wfb/photos/norway/norway\_photos\_48.html (Hentet: 26. november 2009).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempler
 (Munch, 1926)
@@ -272,11 +327,16 @@ Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, 
 I sangen Stella vil Gud gi Stella hele verden, om hun bare blir hos ham (Sivertsen, 2008).
 :::
 
-::: ref
+:::: ref
 Komponist, N.N. / Artist, N.N. (Årstall) _Tittel på komposisjon_ \[Medium, evt. katalognummer\]. Utøver(e). Sted: Utgiver/plateselskap.
 
 Sivertsen, I.M. (2008) _Fortress ’round my heart_ \[CD\], Ida Maria. Oslo: Waterfall records.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ## Offentlige kilder
 
@@ -290,11 +350,16 @@ I Norge henviser vi til «originalloven» som konsolideres ved endringer. Det er
 I helsepersonelloven (1999, § 6) blir det slått fast at …
 :::
 
-::: ref
+:::: ref
 Lovens kortnavn. _Lovens fullstendige navn__._
 
 Helsepersonelloven. _Lov 2. juli 1999 nr. 64 om helsepersonell m.v._
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Forskrifter  
@@ -305,11 +370,16 @@ Helsepersonelloven. _Lov 2. juli 1999 nr. 64 om helsepersonell m.v._
 Utdanningen skal kvalifisere for forskningsbasert yrkesutøvelse (Forskrift om plan for grunnskolelærerutdanning, 2010, § 1).
 :::
 
-::: ref
+:::: ref
 Forskriftens kortnavn. _Forskriftens fulle navn_.
 
 Forskrift om plan for grunnskolelærerutdanning. _Forskrift 1. mars 2010 nr. 295 om rammeplan for grunnskolelærerutdanningen for 1.-7. og 5.-10. trinn. _
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ### Meldinger og proposisjoner til stortinget
 
@@ -328,7 +398,7 @@ F.o.m. 1. oktober 2009 er lovbehandlingen i Stortinget endret og publikasjoner f
 Regjeringen vil prioritere dette arbeidet (St.meld. nr. 47 (2008–2009), s. 90).
 :::
 
-::: ref
+:::: ref
 St.meld. nr. x (Sesjon). _Tittel på stortingsmelding_.
 
 Meld. St. x (Sesjon). _Tittel på stortingsmelding_.
@@ -348,7 +418,12 @@ Meld. St. 13 (2012–2013). _Ta heile Noreg i bruk: distrikts- og regionalpolit
 Loven skal fremme bærekraftig utvikling (Ot.prp. nr. 32 (2007–2008), s. 6).
 
 Ot.prp. nr. 32 (2007–2008). _Om lov om planlegging og byggesaksbehandling (plan- og bygningsloven) (plandelen)_.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Norges offentlige utredninger (NOU)
@@ -359,11 +434,16 @@ Ot.prp. nr. 32 (2007–2008). _Om lov om planlegging og byggesaksbehandling (pla
 Nytte og relevans ivaretas best (NOU 1999: 13, s. 45) ...
 :::
 
-::: ref
+:::: ref
 NOU årstall: nr. _Tittel_.
 
 NOU 1999: 13. _Kvinners helse i Norge._
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Rapport/serie/retningslinje
@@ -376,11 +456,16 @@ De forskjellige dokumentene kan ha ulik tegnsetting for angivelse av nummer. V
 (Folkehelseinstituttet, 2006, s. 8)
 :::
 
-::: ref
+:::: ref
 Forfatter (Årstall) _Tittel_. Rapport nr. /serie nr. / retningslinje nr. Sted: Utgiver.
 
 Folkehelseinstituttet (2006) _Rettleiar til forskrift om smittevern i helsetenesta_. Smittevern 15. Oslo: Folkehelseinstituttet.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempler
 (Helsedirektoratet og Norsk gynekologisk forening, 2009, s. 8)
@@ -400,10 +485,15 @@ I Lukasevangeliet (Luk 1:34) er Maria i tvil om hun virkelig vil føde Guds bar
 I Shakespeares skuespill Hamlet (2002, 4. akt, 2. scene) …
 :::
 
-::: ref
+:::: ref
 Shakespeare, W. (2002) _Hamlet: prins av Danmark._ Gjendiktet av Øyvind Berg. Oslo: Kolon forlag.
 
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempler
 I Platons dialog (1928, avsnitt 6) kommer det fram at …
@@ -425,11 +515,16 @@ Homer (1994) _Iliaden._ Oversatt av P. Østbye. 3. utg. Oslo: Aschehoug.
 Med modernismen reverseres forholdet mellom persepsjon og representasjon (Utaker, 2010).
 :::
 
-::: ref
+:::: ref
 Forfatter, N.N. (Årstall) _Tittel_. Institusjon, Sted (hvis tilgjengelig). Upublisert.
 
 Utaker, A. (2010) _Det perseptuelles antropologi: persepsjon og bilder som filosofisk problem_. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen. Upublisert.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Manuskript under vurdering, men ikke antatt (submitted)
@@ -440,11 +535,16 @@ Utaker, A. (2010) _Det perseptuelles antropologi: persepsjon og bilder som filos
 Det varierer i hvilken grad forskjellige befolkningsgrupper oppsøker hjelp i forbindelse med helseplager (Ting, Florsheim og Huang, 2008).
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. (Årstall) _Tittel_ \[manuskript innsendt for publisering\].
 
 Ting, J.Y., Florsheim, P. og Huang, W. (2008) _Mental health help-seeking in ethnic minority populations_ \[manuskript innsendt for publisering\].
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Manuskript under publisering, antatt (in press)
@@ -455,11 +555,16 @@ Ting, J.Y., Florsheim, P. og Huang, W. (2008) _Mental health help-seeking in et
 Ifølge Briscoe (2009), så er det slik at …
 :::
 
-::: ref
+:::: ref
 Etternavn, N.N. (årstall) Tittel. Antatt for publisering i _Tidsskriftets tittel._
 
 Briscoe, R. (2009) Egocentric spatial representation in action and perception. Antatt for publisering i _Philosophy and phenomenological research_.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Personlig kommunikasjon
