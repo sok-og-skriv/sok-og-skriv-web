@@ -145,7 +145,7 @@ _Når stedsnavn  er en del av institusjonens navn, gjentas ikke dette._
 
 ::: details I EndNote
 
-blabla 
+blabla i Endnote...
 ::: 
 :::: 
 
