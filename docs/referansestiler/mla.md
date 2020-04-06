@@ -11,15 +11,15 @@ MLA står for Modern Language Association. Referansestilen er en typisk **forfat
 
 Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. Legg merke til tegnsettingen:
 
-Forfatter.
-Kildens tittel.
-Mediets tittel,
-Andre bidragsytere,
-Versjon,
-Nummer,
-Utgiver,
-Utgivelsesdato,
-Sted.
++ Forfatter.
++ Kildens tittel.
++ Mediets tittel,
++ Andre bidragsytere,
++ Versjon,
++ Nummer,
++ Utgiver,
++ Utgivelsesdato,
++ Sted.
 
 Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned. 
 
