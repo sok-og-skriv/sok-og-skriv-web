@@ -5,22 +5,23 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide." The Purdue OWL, Purdue U Writing Lab. Accessed [?] 6. april 2020. 
-Den nyeste versjonen av MLA er enklere enn tidligere, blant annet er utgiversted utelatt og elementene kan tilpasses nyere formater som ... 
+MLA står for Modern Language Association. Referansestilen er en typisk **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide." The Purdue OWL, Purdue U Writing Lab. Accessed [hva sier vi på norsk?] 6. april 2020. I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskrives oppsett av elementene. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
 
-Some basic info here. 
-When deciding how to cite your source, start by consulting the list of core elements. These are the general pieces of information that MLA suggests including in each Works Cited entry. In your citation, the elements should be listed in the following order:
+## Elementer i en referanse 
 
-Author.
-Title of source.
-Title of container,
-Other contributors,
-Version,
-Number,
-Publisher,
-Publication date,
-Location.
-Each element should be followed by the corresponding punctuation mark shown above. Earlier editions of the handbook included the place of publication and required different punctuation (such as journal editions in parentheses and colons after issue numbers) depending on the type of source. In the current version, punctuation is simpler (only commas and periods separate the elements), and information about the source is kept to the basics.
+Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. Legg merke til tegnsettingen:
+
+Forfatter.
+Kildens tittel.
+Mediets tittel,
+Andre bidragsytere,
+Versjon,
+Nummer,
+Utgiver,
+Utgivelsesdato,
+Sted.
+
+Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned. 
 
 ## Referanselisten
 
