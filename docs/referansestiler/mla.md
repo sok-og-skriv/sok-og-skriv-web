@@ -5,17 +5,30 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på: _MLA Handbook for Writers of Research Papers_. 7th edition. New York: MLA, 2009.
+MLA står for Modern Language Association. Foreningen har utviklet en referansestil som er en typisk forfatter-sidetallstil og vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide." The Purdue OWL, Purdue U Writing Lab. Accessed [?] 6. april 2020. 
+Den nyeste versjonen av MLA er enklere enn tidligere, blant annet er utgiversted utelatt og elementene kan tilpasses nyere formater som ... 
 
-Finn ut om hvordan du siterer og henviser i teksten, lager en referanseliste og behandler forskjellige referansetyper.
+Some basic info here. 
+When deciding how to cite your source, start by consulting the list of core elements. These are the general pieces of information that MLA suggests including in each Works Cited entry. In your citation, the elements should be listed in the following order:
+
+Author.
+Title of source.
+Title of container,
+Other contributors,
+Version,
+Number,
+Publisher,
+Publication date,
+Location.
+Each element should be followed by the corresponding punctuation mark shown above. Earlier editions of the handbook included the place of publication and required different punctuation (such as journal editions in parentheses and colons after issue numbers) depending on the type of source. In the current version, punctuation is simpler (only commas and periods separate the elements), and information about the source is kept to the basics.
 
 ## Referanselisten
 
-- Referanselisten skal ordnes alfabetisk etter forfatternes etternavn.
-- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren.
-- Har en forfatter skrevet flere verk skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
-- Navnet til førsteforfatteren skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skal skrives Fornavn Etternavn.
-- Dersom en referanse går over flere linjer skal alle linjene ha innrykk unntatt den første.
+- Referanselisten ordnes alfabetisk etter forfatternes etternavn.
+- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatter.
+- Har en forfatter skrevet flere av verkene, skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
+- Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
+- Dersom en referanse går over flere linjer, skal alle linjene ha innrykk unntatt den første.
 
 ## Bøker
 
@@ -24,13 +37,13 @@ Finn ut om hvordan du siterer og henviser i teksten, lager en referanseliste�
 ::: teksten
 Forfatter (eventuelt sidetall)
 
-Swales og Feak peker her på at definisjoner kan fungere godt som innledning til en akademisk tekst  (47).
+Swales og Feak (47) peker på at definisjoner kan fungere godt som innledning til en akademisk tekst.
 :::
 
 ::: ref
-Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Sted: Utgiver, årstall.
+Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
 
-Swales, John M., og Christine B. Feak. _Academic writing for graduate students. Essential tasks and skills_. Michigan: The University of Michigan Press, 2004.
+Swales, John M., og Christine B. Feak. _Academic writing for graduate students. Essential tasks and skills_. The University of Michigan Press, 2004.
 :::
 
 
@@ -43,9 +56,9 @@ Her innleder forfatteren med at IKT har fått et større innpass også i høyere
 :::
 
 ::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidespenn.
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
 
-Ludvigsen, Sten R. “IKT i høyere utdanning. Forventinger og resultater”. _Når læring er det viktigste, Undervisning i høyere utdanning_. Red. Helge I. Strømsø, Kirsten Hofgaard Lycke og Per Lauvås. Oslo: Cappelen Akademisk Forlag, 2006. 215-231.
+Ludvigsen, Sten R. “IKT i høyere utdanning. Forventinger og resultater”. _Når læring er det viktigste, Undervisning i høyere utdanning_. Red. Helge I. Strømsø, Kirsten Hofgaard Lycke og Per Lauvås. Cappelen Akademisk Forlag, 2006. 215-231.
 :::
 
 ### Oversatt bok
