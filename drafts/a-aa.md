@@ -21,8 +21,6 @@ B
 
 Bibliotekportalen, se [informasjonsressurser](index.php?action=static&id=77)
 
-[BIBSYS](http://ask.bibsys.no/ask/action/stdsearch "Bibsys Ask") bibliotekbasen, se [informasjonsressurser](index.php?action=static&id=77)
-
 [blogg](index.php?action=static&id=78)
 
 [boolske operatorer](index.php?action=static&id=79)
