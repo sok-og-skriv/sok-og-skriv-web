@@ -35,12 +35,16 @@ Forfatter (årstall, eventuelt sidetall)
 Morton Klass definerer myte som «...» (1995, 125).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag.
 
 Klass, Morton. 1995. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview Press.
-:::
 
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 
@@ -53,11 +57,16 @@ Klass, Morton. 1995. _Ordered Universes: Approaches to the Anthropology of Relig
 Den økologiske vendingen har ikke endret grunnprinsippene for å oppnå kontroll med miljørisiko i petroliumssektoren (Andersen 2017, 601).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI eller URL
 
 Andersen, Gisle. 2017. _Parlamentets natur: Utvikling av norsk miljø- og petroliumspolitikk._ Oslo: Universitetsforlaget. https://doi.org/10.18261/9788215028132-2017
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 #### Merknad
 
@@ -73,11 +82,16 @@ Se også retningslinjer for flere forfattere øverst på denne siden under _Refe
 Forfatterne viser til at studenter ofte vegrer seg for å omarbeide tekstutkast utover å rette opp spesifikke feil veileder påpeker (Øyen og Solheim 2013, 9).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Utgiversted: Forlag.
 
 Øyen, Simen A. og Birger Solheim. 2013. _Akademisk skriving: En skriveveiledning_. Oslo: Cappelen Damm Akademisk.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ### Oversatt bok
 
@@ -87,11 +101,16 @@ Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Utgiversted: Forlag
 … skildret i romanen _Kelterens drøm_ (Vargas Llosa 2012).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Oversatt av Fornavn Etternavn. Utgiversted: Forlag.
 
 Vargas Llosa, Mario. 2012. _Kelterens drøm_. Oversatt av Kari Risvik og Kjell Risvik. Oslo: Gyldendal.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ### Kapittel/artikkel i redigert bok
 
@@ -101,11 +120,16 @@ Vargas Llosa, Mario. 2012. _Kelterens drøm_. Oversatt av Kari Risvik og Kjell R
 … i følge interpretasjonen av kjønnsrollen i hennes levetid (Åsebø 2008, 272).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag.
 
 Åsebø, Sigrun. 2008. «Griselda Pollock.» I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Bok i flerbindsverk
@@ -116,11 +140,16 @@ Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av For
 … dokumentert på grunnlag av kildevalget … (Imsen og Sandnes 1995, 249).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Bind nummer av _Hovedtittel_, redigert av Fornavn Etternavn. Utgiversted: Forlag.
 
 Imsen, Steinar og Jørn Sandnes. 1995. _Avfolkning og union: 1319–448_. Bind 4 av _Norges historie_, redigert av Knut Mykland. Oslo: Cappelen.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Avhandling – doktor/master (publisert)
@@ -131,11 +160,16 @@ Forfatter (årstall)
 I sin masteroppgave analyserer kulturviteren Fredrik Langeland (2007) maskulinitetsframstillinger i sport og populærkultur.
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. «Tittel.» Type avhandling, Institusjon.
 
 Langeland, Fredrik. 2007. «Harde kropper: en kulturvitenskapelig analyse av maskulinitetskonstruksjoner i Dagbladets Sportsmagasinet.» Masteroppgave, Universitetet i Bergen.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ## Artikler
 
@@ -147,11 +181,16 @@ Langeland, Fredrik. 2007. «Harde kropper: en kulturvitenskapelig analyse av mas
 … og stå ansvarlig for tap (Tjøtta 2016, 17).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): Sidetall.
 
 Tjøtta, Sigve. 2016. «Kunnskapsproblemet i skolen.» _Samfunnsøkonomen_ 130 (4): 10–18.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ### Artikkel i elektronisk tidsskrift
 
@@ -161,11 +200,16 @@ Forfatter (årstall, eventuelt sidetall)
 … som Hagen påpeker (2011, 38).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): Sidetall. URL/DOI.  
 
 Hagen, Erik Bjerck. 2011. «Litteraturvitenskap som litteraturkritikk.» _Norsk litteraturvitenskapelig tidsskrift_ 14 (1): 34–41. https://www.idunn.no/ts/nlvt/2011/01/art03.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ::: details Flere eksempler
 Turgåing ble viktig i nasjonalromatiske bevegelser (Ween og Abram, 156).
@@ -187,7 +231,7 @@ Noen artikler oppgir ikke forfatter/journalist. Da setter du i stedet avisens na
 … seks gonger så mange som i 2000 (Todal, 2019).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. «Artikkeltittel.» _Avistittel_, dato. URL.
 
 Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 2019. https://www.dagogtid.no/samfunn/lokkemenn-i-norske-hamner-6.3.11560.aa1e742add.
@@ -195,7 +239,12 @@ Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 
 Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 2019, Atekst.
 
 Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 2019, 4-5.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ## Nettsider
 
@@ -207,11 +256,16 @@ Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 
 De politiske partiene i Norge mottok i 2017 nærmere en halv milliard kroner i offentlig støtte (Statistisk sentralbyrå 2018)
 :::
 
-::: ref
+:::: ref
 Tittel på nettsted. Årstall. «Artikkeltittel.» Oppdatert dato. URL/DOI.
 
 Statistisk sentralbyrå. 2018. «Finansiering av politiske partier.» Oppdatert 13.september, 2018. https://www.ssb.no/valg/statistikker/partifin.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Nettside med forfatter
@@ -222,11 +276,16 @@ Statistisk sentralbyrå. 2018. «Finansiering av politiske partier.» Oppdatert 
 I gjennomsnitt har utdanningsnivået over tid blitt langt høyere for kvinner enn for menn (Grindheim 2019).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Årstall. «Artikkeltittel.» Nettsted. URL/DOI.
 
 Grindheim, Jan Erik. 2019. «Hvorfor stemmer menn blått og kvinner rødt?,» Civita_._ [https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt](https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 Chicago-stilen krever ikke lesedato for nettsider når publiseringstidpunkt er oppgitt. Hvis du likevel vil legge til denne opplysningen, plasseres den rett før URL.
 
@@ -240,11 +299,16 @@ Generelle leksika og oppslagsverk som ordbøker blir ofte nevnt i en parentes i 
 … og det er påvist at Locke arbeidet med toleranseproblemet i en årrekke (_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19.august, 2019).
 :::
 
-::: ref
+:::: ref
 _Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato, URL/DOI.
 
 _The Internet Encyclopedia of Philosophy,_ s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Artikkel i trykt leksikon
@@ -257,11 +321,16 @@ Forfatter («Artikkeltittel»)
 Som Pentikäinen viser («Finnish Religions»).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. «Artikkeltittel». _Tittel på oppslagsverk_, utg., bd., utgiversted, årstall.
 
 Pentikäinen, Juha. «Finnish Religions.» _Encyclopedia of Religion_, 2. utg., bd. 5, Detroit, 2005.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Visuelle kilder
@@ -279,11 +348,16 @@ Oppgi en billedtekst under verket med henvisning til kunstner og rettighetshaver
 Billedtekst, for eksempel: Passepike i Bergen i mellomkrigstiden: _St. Hans Strædet_, ca. 1920. Foto: Olai Schumann Olsen. Gjengitt med tillatelse fra Universitetsbiblioteket i Bergen.
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. _Tittel._ Årstall. Medium. Inventarnummer. Eieren av bildet. URL.
 
 Olsen, Olai Schumann. _St. Hans Strædet. _Ca. 1920.Foto. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Reproduksjon av kunstverk
@@ -294,11 +368,16 @@ Kildehenvisningen er i billedteksten.
 Billedtekst, for eksempel: Edvard Munchs maleri «Skrik» fra 1893. Gjengitt med tillatelse fra Nasjonalmuseet for kunst, arkitektur og design.
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. _Tittel._ Årstall. Medium. Størrelse. Inventarnummer. Eieren av kunstverket. Evt. fotografert av Fornavn Etternavn. Evt. dato for nedlasting og URL.
 
 Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.00939. Nasjonalmuseet for kunst, arkitektur og design. 2. Februar 2013. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Digitale bilder/film
@@ -309,11 +388,16 @@ Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.0
 Som visualisert av ArkikonAS (2011).
 :::
 
-::: ref
+:::: ref
 Opphavsperson Etternavn, Fornavn (evt. navn på produksjonsselskap e.l.). «Tittel.» Medium. Evt. andre opplysninger. Dato. URL eller DOI.
 
 ArkikonAS. «Bergen anno 1350. ver.1.» Video. Work in progress. 6:04. 31. august 2011. [https://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related](https://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Musikk/Auditive kilder
@@ -328,11 +412,16 @@ Har du mange henvisninger til musikkverk, kan det være greit å samle disse i e
 ...i en moderne jazzversjon av "Seterjentens Søndag" (Bull, spilt av Dag Arnesen trio 2007).
 :::
 
-::: ref
+:::: ref
 Komponistens Etternavn, Fornavn. Årstall. "Tittel på komposisjon". Fornavn Etternavn på utøver(e), instrument. _Tittel på album_. Plateselskap. Lydformat.
 
 Bull, Ole. 2007. ”Sæterjentens søndag”. Dag Arnesen trio: Dag Arnesen, klaver, Terje Gewelt, kontrabass, Pål Thowsen, slagverk, perkusjon. _Norwegian song_. Resonant Music. CD.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ## Offentlige kilder
 
@@ -346,11 +435,16 @@ Det finnes egne, spesialiserte regler for detaljerte og inngående henvisninger 
 … slik det formuleres i lovteksten (Introduksjonsloven, § 3, 2003).
 :::
 
-::: ref
+:::: ref
 Lovens korttittel. _Lovens fulle tittel av dato nr_. Evt. nettadresse.
 
 Introduksjonsloven. _Lov om introduksjonsordning og norskopplæring for nyankomne innvandrere av 4. juli 2003 nr.80._ [https://www.lovdata.no/all/nl-20030704-080.html](https://www.lovdata.no/all/nl-20030704-080.html).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Forskrifter
@@ -361,11 +455,16 @@ Introduksjonsloven. _Lov om introduksjonsordning og norskopplæring for nyankomn
 … slik det også er fastslått i gjeldende forskrifter (Forskrift om habilitering og rehabilitering, § 10, 2011).
 :::
 
-::: ref
+:::: ref
 Forskriftens kortittel. _Forskriftens fulle tittel._ Fastsatt ved kgl. res. dato. Evt. nettadresse.
 
 Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehabilitering, individuell plan og koordinator._ Fastsatt ved kgl. res. 16.desember 2011. [https://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html](https://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Stortingsmeldinger og proposisjoner
@@ -376,11 +475,16 @@ Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehab
 … slik det også nevnes i Stoltenberg-regjeringens stortingsmelding om arbeidsinnvandring (Arbeids- og inkluderingsdepartementet 2008, 31).
 :::
 
-::: ref
+:::: ref
 Departement. «Tittel på stortingsmelding.» St. meld. nr. (sesjon dvs. årstall) Utgiversted: Utgiver, årstall. URL/DOI.
 
 Arbeids- og inkluderingsdepartementet. «Arbeidsinnvandring.» St. meld. nr. 18 (2007–2008). Oslo: Arbeids- og inkluderingsdepartementet, 2008. [https://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?id=507744](https://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?showdetailedtableofcontents=true&id=507744).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Norges offentlige utredninger (NOU)
@@ -391,11 +495,16 @@ Arbeids- og inkluderingsdepartementet. «Arbeidsinnvandring.» St. meld. nr. 18 
 Som påpekt i utredningen (NOU 2011: 18, 25)...
 :::
 
-::: ref
+:::: ref
 NOU årstall: nr. _Tittel._ Utgiversted: Utgiver. Eventuelt nedlastningsinformasjon.
 
 NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [https://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064](https://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ## Annet
 
@@ -418,11 +527,16 @@ Henvisningen til et upublisert manuskript inneholder forfatternavn, kommentaren 
 (Trille, upublisert manuskript, 2012)
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. «Tittel». Upublisert manuskript, dato år. Filtype.
 
 Trille, Lille. «Stort og smått i eggebransjen». Upublisert manuskript, sist endret 10. november 2012. Microsoft Word-fil.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Manuskript under publisering, antatt (in press/forthcoming)
@@ -435,11 +549,16 @@ Hvis en bok eller en artikkel er antatt, kan kommentaren "under publisering" ers
 (Trille, under publisering)
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. Under publisering. «Tittel.» Utgiversted: _Tidsskrift_.
 
 Trille, Lille. Under publisering. «Stort og smått i eggebransjen.» Andeby: _Norsk tidsskrift for fiktive figurer fra rim og regler_
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Personlig kommunikasjon
@@ -461,11 +580,16 @@ I primærkilder og arkivmateriale er det ofte brukt unike forkortelser, som bete
 Ifølge opptegnelsene i panteboken (BPB, 1, nr. 1, 1680–84, pag.222)
 :::
 
-::: ref
+:::: ref
 Institusjon. Kilde, opphavsperson, kildetype, evt. sideanvisning / andre opplysninger. Årstall.
 
 Statsarkivet i Bergen. Pantebok I, Byfogd og byskriver i Bergen, Pantebok 1. 1680–1684).
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Kompendier
