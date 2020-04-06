@@ -134,9 +134,8 @@ Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan v�
 Lykke til! 
 
 <Figure
-  src="/docs/.vuepress/public/images/studenter deler tekst.jpg"
-  alt="to studenter diskuterer en akademisk tekst"
+  src="./vuepress/public/images/skrivesnakk.jpg"
+  alt="Studenter diskuterer en akademisk tekst"
   caption="Foto: Simen Kjellin/UiO"
   type=""
 />
-
