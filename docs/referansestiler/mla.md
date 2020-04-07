@@ -76,11 +76,14 @@ Forfatter (eventuelt sidetall)
 
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
 
+::: details I EndNote
 
-:::
+blabla 
+::: 
+:::: 
 
 
 ### Bokkapittel
@@ -91,29 +94,41 @@ Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
 
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
 
+::: details I EndNote
 
-:::
+blabla 
+::: 
+:::: 
 
 ### Oversatt bok
 
-::: ref
+:::: ref
 Etternavn, Fornavn.  _Boktittel_. Overs. Fornavn Etternavn. Sted: Utgiver, årstall. Overs. av _Originaltittel_, Sted: Forlag, årstall.
 
 Vargas Llosa, Mario. _Kelterens drøm._ Overs. Kari Risvik og Kjell Risvik. Oslo: Gyldendal, 2012. Overs. av _El sueño del celta_, Madrid: Alfaguara, 2010.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Avhandling - doktor/master
 
-::: ref
+:::: ref
 Etternavn, fornavn. _Tittel_. Akademisk avhandling. Institutt/fakultet, Universitet, årstall.
 
 Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio._ Akademisk avhandling. Nordisk institutt, Universitetet i Bergen, 2001.
-:::
 
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ### Artikkel i tidsskrift
 
@@ -123,11 +138,16 @@ Forfatter tekst (eventuelt sidetall)
 Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
 
 Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.årgang. Nr. 1 (2009): 49-58.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Artikkel i nettavis
@@ -138,11 +158,16 @@ Forfatter tekst "Artikkel"
 Skålid skriver i "Barn lærer å lese i mange aldre" at barns forforståelse av tekst påvirker hvordan de forstår teksten de skal lese.
 :::
 
-::: ref
+:::: ref
 Etternavn, fornavn. "Tittel på artikkel". _Tittel på nettavis_ Dato. Internett. Lesedato.
 
 Skålid, Jon Olav. "Barn lærer å lese i mange aldre." _forskning.no_. 08.januar 2013. Internett.  <[https://www.forskning.no/artikler/2012/juni/325176](https://www.forskning.no/artikler/2012/juni/325176)\>10.januar 2013.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Artikkel i trykt avis
@@ -153,11 +178,16 @@ Tekst forfatter (eventuelt sidetall)
 I debatten om bruk av hijab peker Gudbrandsen på at en må se hvem mennesket er som faktisk bærer hijab (3).
 :::
 
-::: ref
+:::: ref
 Etternavn, fornavn. "Tittel på artikkel". _Avistittel_ Dato.
 
 Gudbrandsen, Frøy. "Det er en kvinne inni". _Bergens Tidende_ 9.januar 2013.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Nettside fra organisasjon
@@ -168,11 +198,16 @@ Gudbrandsen, Frøy. "Det er en kvinne inni". _Bergens Tidende_ 9.januar 2013.
 I artikkelen "Nær 8000 raskere tilbake", viser NAV sine tall at arbeidsledigheten i Norge synker.
 :::
 
-::: ref
+:::: ref
 "Artikkeltittel". _Tittel på nettstedet._ Nettstedets navn/Organisasjon. År. Oppdatert dato.\<URL\> Lesedato.  
 
 "Nær 8000 raskere tilbake" _NAV_. 2007. 31. desember 2007. <[https://www.nav.no/805371523.cms](https://www.nav.no/805371523.cms)\> 12.februar 2013.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Nettside med forfatter
@@ -183,11 +218,16 @@ Forfatter (nettsted)
 Thoring (_Framtiden i våre hender_) skriver at økologisk jordbruk er det mest bærekraftige alternativet både for i-land og u-land.
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ Publiseringsdato. År. Red. hvis det oppgis. Organisasjon. Internett.\<URL\> Lesedato.
 
 Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden i våre hender. Internett. <[https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
@@ -198,11 +238,16 @@ Tittel på elektronisk leksikon
 Encyclopaedia Britannica definerer feminisme som "the belief in the social, economic, and political equality of the sexes".
 :::
 
-::: ref
+:::: ref
 "Oppslagsord". _Tittel på oppslagsverk._ Organisasjon, år. Internett. Lesedato.
 
 ”Feminism”. _Encyclopædia Britannica Online_. Encyclopædia Britannica Online Inc., 2013. Internett. 10. januar 2013.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Artikkel i trykt leksikon (med forfatter)
@@ -213,11 +258,16 @@ Forfatter (eventuelt sidetall)
 Tveite ser på historikeren Seips kritikk av Arbeiderpartiet der han hevder at etterkrigstidens Norge har blitt en ettpartistat (280).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. "Artikkeltittel". _Tittel på oppslagsverk._ Red. Fornavn Etternavn og Fornavn Etternavn. Bind nr. Sted: Utgiver, årstall.
 
 Tveite, Tonje. "'Politikk er ikke idyll': Jens Arup Seip som samtidsforfatter". _Norsk litteraturhistorie: Sakprosa fra 1750 til 1995_. Red. Egil Børre Johnsen og Trond Berg Eriksen. Bind 2. Oslo: Universitetsforlaget, 1998.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 ## Offentlige kilder
 
@@ -229,11 +279,16 @@ Lovtittel paragraf, årstall
 Helsepersonellovens §6, 1999 skal sørge for at helsehjelpen ikke påfører pasienter, helseinstitusjon, trygden eller andre unødvendig tidstap eller utgift.
 :::
 
-::: ref
+:::: ref
 Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiver eller departement oppgis ikke, fordi alle norske lover vedtas av Stortinget. Eventuelt \<URL\> og lesedato.
 
 Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02.februar 2013.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Meldinger og proposisjoner til Stortinget
@@ -244,11 +299,16 @@ Departement _Tittel på melding_*
 Nyere eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
 :::
 
-::: ref
+:::: ref
 Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
 
 Arbeidsdepartementet. _Arbeidsinnvandring_ St.meld. nr 18 (2007-2008). Oslo: Arbeidsdepartementet, 2008.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
 
@@ -263,11 +323,16 @@ Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidet
 Romeo viser her sin sanne og intense kjærlighet til sin elskede Julie (Akt 2, scene 5, vers 55).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. _Tittel på skuespill_. Red. Fornavn Etternavn. Utgiver. Årstall.
 
 Shakespeare, William. _Romeo and Juliet._ Red. Roma Gill. Oxford University Press. 1982.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Upublisert materiale
@@ -278,11 +343,16 @@ Forfatter tekst (_Tittel_)
 Utaker ser her på bruk av bilder i filosofi knyttet til menneskets forståelse og persepsjon av seg selv. (_Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_).
 :::
 
-::: ref
+:::: ref
 Etternavn, Fornavn. _Tittel._ Årstall. Upublisert manuskript. Institusjonstilhørighet.
 
 Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Manuskript under publisering, antatt (in press)
@@ -293,11 +363,16 @@ Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filoso
 Staksruds forskningsarbeid i _Children in the online world_ avdekker faktisk nettbruk blant europeiske barn og deres familier.
 :::
 
-::: ref
+:::: ref
 Etternavn, fornavn. _Tittel_. Sted: Utgiver (manuskript, antatt, under publisering)
 
 Staksrud, Elisabeth. _Children in the online world: Risk, Regulation and Rights._ Ashgate (manuskript, antatt, under publisering)
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Bilde
@@ -308,9 +383,14 @@ Navn på fotograf. _Billedtittel_. År. Navn på institusjon som eier bildet. In
 Bildet Passepiken fra 1920 av Olai Schumann Olsen er et eksempel på hvordan gatelivet i Bergen var preget av barn...
 :::
 
-::: ref
+:::: ref
 Olsen, Olai Schumann. _St.Hans Strædet (Passepike_). 1920. Universitetsbiblioteket i Bergen. UBB-SO-0434.
-:::
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
 ### Kompendier
