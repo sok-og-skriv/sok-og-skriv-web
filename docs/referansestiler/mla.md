@@ -7,6 +7,44 @@ date: "2012-09-18"
 
 MLA står for Modern Language Association. Referansestilen er en typisk **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide." The Purdue OWL, Purdue U Writing Lab. Accessed [hva sier vi på norsk?] 6. april 2020. I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskrives oppsett av elementene. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
 
+## Siteringer i teksten 
+
+Forfatternavn og sidetall til slutt i setningen, slik ... 
+## Henvisninger i teksten
+
+### Forfatter og sidetall
+
+Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
+
+> _Barrow fant at \[…\] (137-141)._
+
+Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens navn og sidetall, uten komma:
+
+> …_(Barrow 137-141)._
+
+Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
+
+> … _(Faingold_, Child language _95-97)_
+
+Hvis du refererer til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og evt. tittel i selve teksten, heller enn i parentes.
+
+> _Fukuyamas_ Our Posthuman Future _har mange eksempler på dette._
+
+### Flere forfattere samlet
+
+Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
+referansen forekommer i teksten
+
+> _…(Dewdney og Ross 322).  
+> Waugh, Greenberg og Olander fant \[…\] (227)_
+
+For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten første forfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
+
+> _… (Smith, Rubick, Jones, and Malcolm 42)  
+> Smith et al. hevder at \[…\] (42)  
+> … (Smith et al. 42)_
+
+
 ## Elementer i en referanse 
 
 Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. Legg merke til tegnsettingen:
@@ -38,13 +76,13 @@ Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned.
 ::: teksten
 Forfatter (eventuelt sidetall)
 
-Swales og Feak (47) peker på at definisjoner kan fungere godt som innledning til en akademisk tekst.
+
 :::
 
 ::: ref
 Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
 
-Swales, John M., og Christine B. Feak. _Academic writing for graduate students. Essential tasks and skills_. The University of Michigan Press, 2004.
+
 :::
 
 
@@ -53,22 +91,16 @@ Swales, John M., og Christine B. Feak. _Academic writing for graduate students. 
 ::: teksten
 (Forfatter eventuelt sidetall).
 
-Her innleder forfatteren med at IKT har fått et større innpass også i høyere utdanning (Ludvigsen 215).
+
 :::
 
 ::: ref
 Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
 
-Ludvigsen, Sten R. “IKT i høyere utdanning. Forventinger og resultater”. _Når læring er det viktigste, Undervisning i høyere utdanning_. Red. Helge I. Strømsø, Kirsten Hofgaard Lycke og Per Lauvås. Cappelen Akademisk Forlag, 2006. 215-231.
+
 :::
 
 ### Oversatt bok
-
-::: teksten
-Forfatter _Tittel_.
-
-Vargas Llosas _Kelterens drøm_ omhandlar iren Roger Casement og er ein historisk roman. Romanen føyer seg inn i Vargas Llosas forfattarskap der han avdekkar maktstrukturar i tidligare koloniar, og einskildindividas kamp mot desse.
-:::
 
 ::: ref
 Etternavn, Fornavn.  _Boktittel_. Overs. Fornavn Etternavn. Sted: Utgiver, årstall. Overs. av _Originaltittel_, Sted: Forlag, årstall.
@@ -78,12 +110,6 @@ Vargas Llosa, Mario. _Kelterens drøm._ Overs. Kari Risvik og Kjell Risvik. Oslo
 
 
 ### Avhandling - doktor/master
-
-::: teksten
-Forfatter (eventuelt sidetall)
-
-Kyrkjebø (39) viser i sin doktoravhandling forskjellen på ...
-:::
 
 ::: ref
 Etternavn, fornavn. _Tittel_. Akademisk avhandling. Institutt/fakultet, Universitet, årstall.
@@ -97,7 +123,7 @@ Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna
 ::: teksten
 Forfatter tekst (eventuelt sidetall)
 
-Syse vil i sin artikkel se om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
+Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
 :::
 
 ::: ref
@@ -207,7 +233,7 @@ Helsepersonellovens §6, 1999 skal sørge for at helsehjelpen ikke påfører pas
 :::
 
 ::: ref
-Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiversted og departement brukes ikke, fordi alle norske lover vedtas av Stortinget og utgis i Oslo. Eventuelt \<URL\>  og lesedato.
+Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiver eller departement oppgis ikke, fordi alle norske lover vedtas av Stortinget. Eventuelt \<URL\> og lesedato.
 
 Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02.februar 2013.
 :::
@@ -222,7 +248,7 @@ Nyere eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldinge
 :::
 
 ::: ref
-Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiversted: Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
+Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
 
 Arbeidsdepartementet. _Arbeidsinnvandring_ St.meld. nr 18 (2007-2008). Oslo: Arbeidsdepartementet, 2008.
 :::
@@ -241,9 +267,9 @@ Romeo viser her sin sanne og intense kjærlighet til sin elskede Julie (Akt 2, s
 :::
 
 ::: ref
-Etternavn, Fornavn. _Tittel på skuespill_. Red. Fornavn Etternavn. Sted: Utgiver. Årstall.
+Etternavn, Fornavn. _Tittel på skuespill_. Red. Fornavn Etternavn. Utgiver. Årstall.
 
-Shakespeare, William. _Romeo and Juliet._ Red. Roma Gill. Oxford: Oxford University Press. 1982.
+Shakespeare, William. _Romeo and Juliet._ Red. Roma Gill. Oxford University Press. 1982.
 :::
 
 
@@ -256,9 +282,9 @@ Utaker ser her på bruk av bilder i filosofi knyttet til menneskets forståelse 
 :::
 
 ::: ref
-Etternavn, Fornavn. _Tittel._ Årstall. Upublisert manuskript. Institusjonstilhørighet, sted.
+Etternavn, Fornavn. _Tittel._ Årstall. Upublisert manuskript. Institusjonstilhørighet.
 
-Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen, Os.
+Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
 :::
 
 
@@ -273,61 +299,27 @@ Staksruds forskningsarbeid i _Children in the online world_ avdekker faktisk net
 ::: ref
 Etternavn, fornavn. _Tittel_. Sted: Utgiver (manuskript, antatt, under publisering)
 
-Staksrud, Elisabeth. _Children in the online world: Risk, Regulation and Rights. _Ukjent sted: Ashgate (manuskript, antatt, under publisering)
+Staksrud, Elisabeth. _Children in the online world: Risk, Regulation and Rights._ Ashgate (manuskript, antatt, under publisering)
 :::
 
 
 ### Bilde
 
 ::: teksten
-Navn på fotograf. _Billedtittel_. År. Navn på institusjon som eier bildet, sted. Inventarnummer.
+Navn på fotograf. _Billedtittel_. År. Navn på institusjon som eier bildet. Inventarnummer.
 
 Bildet Passepiken fra 1920 av Olai Schumann Olsen er et eksempel på hvordan gatelivet i Bergen var preget av barn...
 :::
 
 ::: ref
-Olsen, Olai Schumann. _St.Hans Strædet (Passepike_). 1920. Universitetsbiblioteket i Bergen, Bergen. UBB-SO-0434.
+Olsen, Olai Schumann. _St.Hans Strædet (Passepike_). 1920. Universitetsbiblioteket i Bergen. UBB-SO-0434.
 :::
-
 
 
 ### Kompendier
 
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
 
-## Henvisninger i teksten
-
-### Forfatter og sidetall
-
-Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
-
-> _Barrow fant at \[…\] (137-141)._
-
-Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens navn og sidetall, uten komma:
-
-> …_(Barrow 137-141)._
-
-Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
-
-> … _(Faingold_, Child language _95-97)_
-
-Hvis du refererer til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og evt. tittel i selve teksten, heller enn i parentes.
-
-> _Fukuyamas_ Our Posthuman Future _har mange eksempler på dette._
-
-### Flere forfattere samlet
-
-Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
-referansen forekommer i teksten
-
-> _…(Dewdney og Ross 322).  
-> Waugh, Greenberg og Olander fant \[…\] (227)_
-
-For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten første forfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
-
-> _… (Smith, Rubick, Jones, and Malcolm 42)  
-> Smith et al. hevder at \[…\] (42)  
-> … (Smith et al. 42)_
 
 ### Forkortelser
 
