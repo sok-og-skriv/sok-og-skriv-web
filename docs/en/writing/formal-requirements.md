@@ -51,20 +51,58 @@ When you work on a paper in a template, the table of contents can be updated wit
 
 ## Headings
 
-You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1), while four is a maximum (ex: 1.1.1.1). Look for this symbol in your word-processor’s menu ![](/images/nummererte-overskrifter.png) and choose a style. You can also confer the [help site for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). Every new chapter in a large paper should start on a new page. Page breaks are inserted from the menu or by using the shortcut CTRL + ENTER.
+You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1), while four is a maximum (ex: 1.1.1.1). 
+
+<List 
+  image="/images/heading-numbering.svg"
+  alt="Nummererte overskrifter"
+  text="Look for this symbol in your word-processor’s menu and choose a style. "
+/>
+
+::: details Videoguide
+<Video id="aYdGlx8bFLI" />
+
+You can also confer the [help site for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). 
+:::
+
+Every new chapter in a large paper should start on a new page. Page breaks are inserted from the menu or by using the shortcut CTRL + ENTER.
 
 ## Body text, margins and text size
 
 The body of your paper should be written in “Normal” in your style manager. Be careful with highlighting, italicization, and underlining, etc.
 
-- **Line spacing** is usually one and a half (1,5), and can be adjusted here: ![](/images/linjeavstand.png)
-- **Text size:** Standard text sizes are usually 11 for modern fonts, such as Calibri, or 12 for traditional fonts, such as Times New Roman.
-- Use **Align left** for your text (not Justify) for the best possible readability. Choose ![](/images/venstrejustert.png)
-- **Header and footer** margins should be at least 2,5 cm (or 1 in.)
+<List 
+  image="/images/font-size.svg"
+  alt="Text size"
+  text="Text size: Standard text sizes are usually 11 for modern fonts, such as Calibri, or 12 for traditional fonts, such as Times New Roman."
+/>
+
+<List 
+  image="/images/line-height.svg"
+  alt="Line spacing"
+  text="Line spacing is usually one and a half (1,5)"
+/>
+
+<List
+  image="/images/justified-left.svg"
+  alt="Align left"
+  text="Use Align left for your text (not Justify) for the best possible readability."
+/>
+
+<List
+  image="/images/margins.svg"
+  alt="Marger"
+  text="Header and footer margins should be at least 2,5 cm (or 1 in.)"
+/>
 
 In tables, figures, footnotes and reference lists, you can use a smaller text size and single line spacing (as long as you preserve good readability).
 
-Never use more than one space between words or symbols. For indentation, be sure to use the TAB key. ![](/images/tabulator.jpg)
+<List
+  image="/images/tabulator.svg"
+  alt="Tabulator knapp"
+  text="Never use more than one space between words or symbols. For indentation, be sure to use the TAB key.
+/>
+
 
 ## Page numbers (pagination)
 
@@ -88,13 +126,6 @@ If you use figures or tables in your text, these must be explained and numbered 
 
 Be aware of [intellectual property rights](/en/sources-and-referencing/why-cite-sources/intellectual-property-rights/) when reproducing images. Such use is not usually covered by (sitatretten)
 
-<Figure
-  src="/images/figur-eksempel.png"
-  alt="Figure"
-  caption="Example of use of figures. Retrieved from «Samfunnsgeografiske metoder,» av H. Ø. Haugen og A. F. Tollefsen, i D. Jordhus-Lier og K. Stokke, _Samfunnsgeografi: En innføring_ (s. 70), 2017 ([https://doi.org/10.23865/noasp.14.45](https://doi.org/10.23865/noasp.14.45)). CC BY 4.0.\]"
-  type=""
-/>
-
 ## Notes
 
 In some fields, it is acceptable to use footnotes or endnotes to include important or relevant information that does not fit naturally into your running text. Be conservative with the use of such notes and try to limit their scope.
@@ -110,7 +141,13 @@ Most reference styles recommend to list all sources together, arranged in alphab
 In most fields, different source types are included in the same reference list, but in some historical subjects it can be the case that primary and secondary sources are listed separately. Read more about referencing at “[Why Cite Sources?](/en/sources-and-referencing/why-cite-sources/)”
 
 ::: tip Tip:
-If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete. Look for this symbol: ![](/images/cite.png)
+If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete.
+
+<List
+  image="/images/scholar-cite.svg"
+  alt="Scholar cite"
+  text="Symbol for Google Scholar citation functionality."
+/>
 :::
 
 ## Other resources
