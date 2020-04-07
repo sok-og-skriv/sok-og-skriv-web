@@ -10,17 +10,14 @@ MLA står for Modern Language Association. Referansestilen er en typisk **forfat
 ## Siteringer i teksten 
 
 Forfatternavn og sidetall til slutt i setningen, slik ... 
-## Henvisninger i teksten
-
-### Forfatter og sidetall
 
 Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
 
-> _Barrow fant at \[…\] (137-141)._
+> Barrow fant at \[…\] (137-141).
 
 Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens navn og sidetall, uten komma:
 
-> …_(Barrow 137-141)._
+> … (Barrow 137-141).
 
 Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
 
@@ -28,21 +25,21 @@ Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og 
 
 Hvis du refererer til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og evt. tittel i selve teksten, heller enn i parentes.
 
-> _Fukuyamas_ Our Posthuman Future _har mange eksempler på dette._
+> Fukuyamas_ Our Posthuman Future _har mange eksempler på dette.
 
 ### Flere forfattere samlet
 
 Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
 referansen forekommer i teksten
 
-> _…(Dewdney og Ross 322).  
-> Waugh, Greenberg og Olander fant \[…\] (227)_
+> …(Dewdney og Ross 322).  
+> Waugh, Greenberg og Olander fant \[…\] (227)
 
 For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten første forfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
 
-> _… (Smith, Rubick, Jones, and Malcolm 42)  
+> … (Smith, Rubick, Jones, and Malcolm 42)  
 > Smith et al. hevder at \[…\] (42)  
-> … (Smith et al. 42)_
+> … (Smith et al. 42)
 
 
 ## Elementer i en referanse 
