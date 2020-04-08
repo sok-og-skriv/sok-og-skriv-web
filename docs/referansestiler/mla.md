@@ -33,11 +33,10 @@ referansen forekommer i teksten
 > ... (Dewdney og Ross 322).  
 > Waugh, Greenberg og Olander fant ... (227)
 
-For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten førsteforfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
+For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt av et al. (eller mfl.) og eventuelt sidetall. Det samme gjelder i referanselisten. 
 
-> ... (Smith, Rubick, Jones, and Malcolm 42)  
-> Smith et al. hevder at ... (42)  
-> ... (Smith et al. 42)
+> Smith et al. hevder at ... (42)
+> ... (Smith mfl. 42)
 
 
 ## Elementer i en referanse 
@@ -54,7 +53,7 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 + Utgivelsesdato,
 + Plass.
 
-En "beholder" er der du finner kilden, for eksempel når en novelle er publisert i en antologi. Da er novellen kilden, og antologien er beholderen. "Plass" er ikke utgiversted, men plass i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
+En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plass" er ikke utgiversted, men plass i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
 
 ## Referanselisten
 
@@ -94,9 +93,9 @@ blabla
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_, redigert av Fornavn Etternavn, Utgiver, årstall. Sidespenn.
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_, redigert av Fornavn Etternavn, Utgiver, årstall, ss xx-xx. 
 
-Moi, Toril. "Å skrive er å tenke." _Min metode. Om sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad. Cappelen Damm, 2019, 15-23. 
+Moi, Toril. "Å skrive er å tenke." _Min metode. Om sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad. Cappelen Damm, 2019, ss. 15-23. 
 
 ::: details I EndNote
 
@@ -132,6 +131,9 @@ blabla
 :::: 
 
 ### Artikkel i tidsskrift
+
+Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
+If an issue of a scholarly journal is dated with a month or season, the month or season is now always cited along with the year (45).
 
 ::: teksten
 Forfatter tekst (eventuelt sidetall)
