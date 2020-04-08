@@ -21,7 +21,7 @@ Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og 
 
 > … (Faingold, _Child language_ 95-97).
 
-Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og tittel i selve teksten, heller enn i parentes.
+**Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes.**
 
 > Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
 
@@ -52,9 +52,9 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 + Nummer,
 + Utgiver,
 + Utgivelsesdato,
-+ Sted.
++ Plass.
 
-En "beholder" er der du finner kilden, for eksempel når en novelle er publisert i en antologi. Da er novellen kilden, og antologien er beholderen. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
+En "beholder" er der du finner kilden, for eksempel når en novelle er publisert i en antologi. Da er novellen kilden, og antologien er beholderen. "Plass" er ikke utgiversted, men plass i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
 
 ## Referanselisten
 
@@ -89,11 +89,14 @@ blabla
 ::: teksten
 (Forfatter eventuelt sidetall).
 
+Å lære seg å skrive er å lære seg å lese sine egne ord med maksimal oppmerksomhet (Moi 19).
 
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_, redigert av Fornavn Etternavn, Utgiver, årstall. Sidespenn.
+
+Moi, Toril. "Å skrive er å tenke." _Min metode. Om sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad. Cappelen Damm, 2019, 15-23. 
 
 ::: details I EndNote
 
