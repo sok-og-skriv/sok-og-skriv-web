@@ -11,11 +11,11 @@ MLA står for Modern Language Association. Referansestilen er en **forfatter-sid
 
 Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
 
-> Barrow fant at \[…\] (137-141).
+> Barrow fant at ... (137-141).
 
-Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens navn og sidetall, uten komma:
+Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma:
 
-> … (Barrow 137-141).
+> ... (Barrow 137-141).
 
 Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
 
@@ -30,14 +30,14 @@ Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte bes
 Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
 referansen forekommer i teksten
 
-> … (Dewdney og Ross 322).  
-> Waugh, Greenberg og Olander fant \[…\] (227)
+> ... (Dewdney og Ross 322).  
+> Waugh, Greenberg og Olander fant ... (227)
 
 For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten førsteforfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
 
-> … (Smith, Rubick, Jones, and Malcolm 42)  
-> Smith et al. hevder at \[…\] (42)  
-> … (Smith et al. 42)
+> ... (Smith, Rubick, Jones, and Malcolm 42)  
+> Smith et al. hevder at ... (42)  
+> ... (Smith et al. 42)
 
 
 ## Elementer i en referanse 
@@ -54,7 +54,7 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 + Utgivelsesdato,
 + Sted.
 
-En "beholder" er der du finner kilden, for eksempel når en novelle er publisert i en antologi. Da er novellen kilden, og antologien er beholderen. Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned. 
+En "beholder" er der du finner kilden, for eksempel når en novelle er publisert i en antologi. Da er novellen kilden, og antologien er beholderen. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
 
 ## Referanselisten
 
