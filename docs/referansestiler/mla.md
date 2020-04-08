@@ -5,11 +5,9 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Referansestilen er en typisk **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide." The Purdue OWL, Purdue U Writing Lab. Accessed [hva sier vi på norsk?] 6. april 2020. I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskrives oppsett av elementene. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
+MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
 
-## Siteringer i teksten 
-
-Forfatternavn og sidetall til slutt i setningen, slik ... 
+## Sitering i teksten 
 
 Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
 
@@ -21,21 +19,21 @@ Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens 
 
 Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
 
-> … _(Faingold_, Child language _95-97)_
+> … (Faingold, _Child language_ 95-97).
 
-Hvis du refererer til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og evt. tittel i selve teksten, heller enn i parentes.
+Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og tittel i selve teksten, heller enn i parentes.
 
-> Fukuyamas_ Our Posthuman Future _har mange eksempler på dette.
+> Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
 
 ### Flere forfattere samlet
 
 Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
 referansen forekommer i teksten
 
-> …(Dewdney og Ross 322).  
+> … (Dewdney og Ross 322).  
 > Waugh, Greenberg og Olander fant \[…\] (227)
 
-For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten første forfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
+For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten førsteforfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
 
 > … (Smith, Rubick, Jones, and Malcolm 42)  
 > Smith et al. hevder at \[…\] (42)  
@@ -48,7 +46,7 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 
 + Forfatter.
 + Kildens tittel.
-+ Mediets tittel,
++ Beholderens tittel,
 + Andre bidragsytere,
 + Versjon,
 + Nummer,
@@ -56,7 +54,7 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 + Utgivelsesdato,
 + Sted.
 
-Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned. 
+En "beholder" er der du finner kilden, for eksempel når en novelle er publisert i en antologi. Da er novellen kilden, og antologien er beholderen. Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned. 
 
 ## Referanselisten
 
