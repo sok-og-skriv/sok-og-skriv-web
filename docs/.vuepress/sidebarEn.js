@@ -16,7 +16,7 @@ module.exports = {
   '/en/writing/': [
     '',
     'structure-and-argumentation',
-    'structuring-a-thesis',
+    'organising-a-thesis',
     'crafting-an-argument',
     'the-imrad-format',
     'language-and-style',
