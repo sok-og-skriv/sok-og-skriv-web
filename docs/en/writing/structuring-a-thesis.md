@@ -1,9 +1,9 @@
 ---
-title: "Structuring a thesis"
+title: "Organising a thesis"
 date: "2013-02-21"
 ---
 
-# Structuring a thesis
+# Organising a thesis
 
 This section describes the main elements of a written thesis for the Norwegian bachelor’s and master’s degrees. Although the organising principles described here are most clearly relevant for empirical theses, much of the advice is also relevant for theoretical work. Please note that the formal requirements vary between different disciplines, and make sure to confer the guidelines that apply in your field.
 
