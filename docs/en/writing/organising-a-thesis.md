@@ -53,17 +53,6 @@ If it is common in your discipline to reflect upon your experiences as a practit
 Do not spend too much time on your background and opening remarks before you have gotten started with the main text.
 :::
 
-::: oppgave Exercise
-
-**Write three different opening paragraphs for your thesis using different literary devices**
-
-For example:  
-a) “set the scene” with a (short) narrative  
-b) adopt a historical approach to the phenomenon you intend to discuss  
-c) take an example from the media to give your topic current relevance.
-:::
-
-Observe to what extent these different openings inspire you, and choose the approach most appropriate to your topic. For example, do you want to spur emotions, or remain as neutral as possible? How important is the historical background? The exercise can be done in small groups or pairs. Discuss what makes an opening paragraph successful (or not). How does your opening paragraph shed light on what is to follow? What will the reader's expectations be?
 
 ### 1.2 Defining the scope of your thesis
 
