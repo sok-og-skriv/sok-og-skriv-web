@@ -399,7 +399,11 @@ blabla
 
 ### Forelesninger og handouts 
 
-https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
+Nummer. Foreleser AA. Tittel på forelesning [upubliserte forelesningsnotater]. Universitetets navn; notater gitt på forelesningen dato.
+
+8. Ødegaard M. Litteratursøking [upubliserte forelesningsnotater]. Universitetet i Oslo; notater gitt på forelesning 2. mars 2020.
+
+Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i oppgaven din.
 
 
 ### Datasett 
@@ -442,20 +446,5 @@ Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som
 
 
 
-
-
-- Forelesninger, notater tatt på forelesninger, e-poster, samtaler, brev, mm.:
-(Basert på: https://guides.library.uwa.edu.au/c.php?g=324981&p=2178448 og https://www.ncbi.nlm.nih.gov/books/NBK7242/ og https://www.ncbi.nlm.nih.gov/books/NBK7266/ )
-På grunn av det er umulig å gjenopprette informasjon fra disse, er det uvanlig å bruke dem som kilder i litteratur. Hvis man må bruke dem, kan de refereres til som personlig kommunikasjon. Det betyr at de henvises til i teksten selv, men de kommer ikke på referanselisten. Alt innhold i referanselisten må være gjenfinnbar og dokumenterbar.
-I teksten:
-…at «UB sine sider om referering gjerne kunne trengt en gjennomgang» (6. april 2020, e-post fra M Ødegaard til meg; uten referanse), noe jeg er veldig enig med. …
-Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i oppgaven din.
-
-- Handouts og andre printet materialer gitt av foreleser:
-(Basert på: https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 )
-xxx. Foreleser AA. Tittel på forelesning [upubliserte forelesnings notater]. Universitetets navn; notater gitt på forelesningen dato.
-8. Ødegaard M. Litteratur søking [upubliserte forelesningsnotater]. Universitetet i Oslo; notater gitt på forelesning 2. mars 2020.
-Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i oppgaven din.
-(Basert på: https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 )
 
 
