@@ -11,6 +11,8 @@ Søk & Skriv er et samarbeid mellom bibliotekene ved Høgskolen på Vestlandet, 
 
 Den første versjonen av Søk & Skriv ble publisert i 2009. Nettsidene har siden gjennomgått to større revisjoner. Revisjonen i 2012-14 ble gjennomført med prosjektmidler fra Nasjonalbiblioteket.
 
+I forbindelse med revisjonen fra 2020 vil Søk & Skriv-redaksjonen rette en stor takk til redaksjonen i VIKO for tillatelsen til å gjenbruke EndNote-informasjon fra www.ntnu.no/viko.
+
 
 ## Rettigheter til Søk & Skriv
 
