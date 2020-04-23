@@ -346,8 +346,25 @@ tekst
 ::: teksten 
 
 Tekst (nummer)
+::: 
 
-Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
+:::: ref 
+Med forfatter: 
+
+**Her er det motstrid - se på:** 
+
+Nummer. Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
+
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
+
+6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
+
+Uten forfatter:
+
+Nummer. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. Innførselstittel; s. xxx-x. 
+
+7. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
+
 ::: 
 
 :::: ref
@@ -426,15 +443,6 @@ Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som
 
 
 
-- Innførsel i trykt oppslagsverk:
-Med forfatter: 
-(Basert på: https://www.ncbi.nlm.nih.gov/books/NBK7271/#A35016 )
-xxx. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel til oppslagsverk. Utgave (hvis finnes). Bind nummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
-6. Sandvig, K. syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
-Uten forfatter:
-(Basert på https://www.ncbi.nlm.nih.gov/books/NBK7271/#A34910 )
-xxx. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel til oppslagsverk. Utgave (hvis finnes). Bind nummer. Utgivelsessted: Utgiver; Årstall. Innførselstittel; s. xxx-x. 
-7. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
 
 - Forelesninger, notater tatt på forelesninger, e-poster, samtaler, brev, mm.:
 (Basert på: https://guides.library.uwa.edu.au/c.php?g=324981&p=2178448 og https://www.ncbi.nlm.nih.gov/books/NBK7242/ og https://www.ncbi.nlm.nih.gov/books/NBK7266/ )
