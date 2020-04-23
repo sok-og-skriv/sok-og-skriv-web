@@ -110,8 +110,6 @@ Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::::
 
 
-
-
 ### Artikkel i tidsskrift
 
 ::: teksten
@@ -127,7 +125,14 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets 
 
 ::: details I EndNote 
 
-tekst 
+Artikkel fra trykt tidsskrift: Legges inn som "Journal Article". 
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages.
+
+Artikkel hentet fra internett: Legges inn som "Electronic Article".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Periodical Title, Volume, Issue, Pages, Year Cited, Date Cited, URL.
+
 :::
 ::::
 
@@ -150,7 +155,14 @@ Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Ut
 
 ::: details I EndNote 
 
-tekst 
+Organisasjon: 
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet/institusjonsnavnet), Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
+
+Legges inn som "Web Page".
+
+Uten forfatter: 
+Fyll ut feltene: Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
+
 :::
 ::::
 
@@ -169,7 +181,9 @@ Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilg
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Web Page".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
 :::
 ::::
 
@@ -188,7 +202,11 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 
 ::: details I EndNote 
 
-tekst 
+Fra trykte kilder: Legges inn som "Government Document".
+
+Fyll ut feltene: Year, Title, Place Published, Publisher.
+
+Fra internett: Legges inn som "Web Page". 
 :::
 ::::
 
@@ -207,8 +225,9 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
 
 ::: details I EndNote 
+Legges inn som "Government Document".
 
-tekst 
+Fyll ut feltene: Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, Place Published, Publisher. 
 :::
 ::::
 
@@ -217,7 +236,7 @@ tekst
 ::: teksten 
 Tekst (nummer)
 
-setning (10)
+setning (10).
 ::: 
 
 :::: ref 
@@ -227,7 +246,9 @@ Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europe
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Government Document".
+
+Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med et komma til slutt), Year, Title, Place Published, Publisher.
 :::
 ::::
 
@@ -240,6 +261,21 @@ Tekst (nummer)
 
 Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
 :::
+
+:::: ref 
+
+::: details I EndNote 
+
+Trykt rapport: Legges inn som "Report".
+
+Fyll ut feltene: Author, Year, Title, Place Published, Institution, Report Number.
+
+Rapport hentet fra internett: Legges inn som "Web Page".
+
+Fyll ut feltene: Author, Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Title til: Tittel. Rapport nr.)
+:::
+:::: 
+
 
 ### Manuskript under publisering, antatt (in press) 
 
@@ -300,7 +336,8 @@ Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgive
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Web Page".
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet), Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. 
 :::
 ::::
 
@@ -337,7 +374,13 @@ Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs
 :::: ref
 ::: details I EndNote 
 
-tekst 
+Trykt oppslagsverk: Legges inn som "Dictionary".
+
+Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
+
+Elektronisk oppslagsverk: Legges inn som "Web Page".
+
+Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
 :::
 ::::
 
@@ -438,6 +481,8 @@ tekst
 :::
 ::::
 
+
+Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler 
 
 
 ## Sitater (flyttes til toppen?)
