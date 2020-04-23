@@ -270,7 +270,8 @@ i en setning (11)
 ::: 
 
 :::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL [- eller doi?]
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL/DOI/Handle
+
 
 11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
 
@@ -356,7 +357,7 @@ tekst
 :::
 ::::
 
-### Point of care-verktøy - Kliniske oppslagsverk*  
+### Kliniske oppslagsverk (Point of care-verktøy)*  
 
 ::: teksten 
 
@@ -378,14 +379,22 @@ blabla
 ::: 
 :::: 
 
-* basert på https://www.fhi.no/div/bibliotek/referanseliste-med-numerisk-stil/
 
 ### Forelesninger og handouts 
 
 https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
 
 
-### Datajournal, datasett 
+### Datasett 
+
+:::: ref 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel. Global Persistant Identifier/DOI/Handle Arkivets navn, Versjonen.
+
+5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
+::: details I EndNote 
+... 
+:::
+:::: 
 
 ### Avhandling - doktor/master (publisert)
 
@@ -413,5 +422,32 @@ tekst
 ## Sitater (flyttes til toppen?)
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
+
+
+
+
+- Innførsel i trykt oppslagsverk:
+Med forfatter: 
+(Basert på: https://www.ncbi.nlm.nih.gov/books/NBK7271/#A35016 )
+xxx. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel til oppslagsverk. Utgave (hvis finnes). Bind nummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
+6. Sandvig, K. syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
+Uten forfatter:
+(Basert på https://www.ncbi.nlm.nih.gov/books/NBK7271/#A34910 )
+xxx. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel til oppslagsverk. Utgave (hvis finnes). Bind nummer. Utgivelsessted: Utgiver; Årstall. Innførselstittel; s. xxx-x. 
+7. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
+
+- Forelesninger, notater tatt på forelesninger, e-poster, samtaler, brev, mm.:
+(Basert på: https://guides.library.uwa.edu.au/c.php?g=324981&p=2178448 og https://www.ncbi.nlm.nih.gov/books/NBK7242/ og https://www.ncbi.nlm.nih.gov/books/NBK7266/ )
+På grunn av det er umulig å gjenopprette informasjon fra disse, er det uvanlig å bruke dem som kilder i litteratur. Hvis man må bruke dem, kan de refereres til som personlig kommunikasjon. Det betyr at de henvises til i teksten selv, men de kommer ikke på referanselisten. Alt innhold i referanselisten må være gjenfinnbar og dokumenterbar.
+I teksten:
+…at «UB sine sider om referering gjerne kunne trengt en gjennomgang» (6. april 2020, e-post fra M Ødegaard til meg; uten referanse), noe jeg er veldig enig med. …
+Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i oppgaven din.
+
+- Handouts og andre printet materialer gitt av foreleser:
+(Basert på: https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 )
+xxx. Foreleser AA. Tittel på forelesning [upubliserte forelesnings notater]. Universitetets navn; notater gitt på forelesningen dato.
+8. Ødegaard M. Litteratur søking [upubliserte forelesningsnotater]. Universitetet i Oslo; notater gitt på forelesning 2. mars 2020.
+Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i oppgaven din.
+(Basert på: https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 )
 
 
