@@ -43,7 +43,29 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. U
 1\. Eyre HJ, Lange DP, Morris LB. Informed decisions: the complete book of cancer diagnosis, treatment, and recovery. 2. utg. Atlanta: American Cancer Society; 2002. 768 s.
 
 ::: details I EndNote
-...
+
+Legges inn som "Book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition (hvis aktuelt).
+:::
+::::
+
+### E-bok 
+
+::: teksten
+Tekst (nummer, eventuelt sidetall)
+
+... 
+:::
+
+:::: ref
+Nummer. 
+... 
+
+::: details I EndNote 
+Legges inn som "Electronic Book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Type of Medium, Place Published, Publisher, Year Cited, Date Cited, URL.
 :::
 ::::
 
@@ -62,9 +84,9 @@ Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører
 2\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
 
 ::: details I EndNote
-/[rappa fra Viko]/
+
 Legges inn som "Edited Book".
-Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition hvis aktuelt.
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition (hvis aktuelt).
 :::
 ::::
 
@@ -82,31 +104,8 @@ Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgi
 
 3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 ::: details I EndNote
-/[rappa fra Viko]/
 Legges inn som "Edited Book".
 Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition hvis aktuelt.
-:::
-::::
-
-
-### Avhandling - doktor/master (publisert)
-
-::: teksten
-Tekst (nummer, eventuelt sidetall)
-
-Jones (4, s. 39) viser i sin doktoravhandling forskjellen mellom …
-:::
-
-:::: ref
-Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
-
-Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
-
-4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
-
-::: details I EndNote 
-
-tekst 
 :::
 ::::
 
@@ -126,7 +125,14 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets 
 
 ::: details I EndNote 
 
-tekst 
+Artikkel fra trykt tidsskrift: Legges inn som "Journal Article". 
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages.
+
+Artikkel hentet fra internett: Legges inn som "Electronic Article".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Periodical Title, Volume, Issue, Pages, Year Cited, Date Cited, URL.
+
 :::
 ::::
 
@@ -149,7 +155,14 @@ Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Ut
 
 ::: details I EndNote 
 
-tekst 
+Organisasjon: 
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet/institusjonsnavnet), Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
+
+Legges inn som "Web Page".
+
+Uten forfatter: 
+Fyll ut feltene: Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
+
 :::
 ::::
 
@@ -168,7 +181,9 @@ Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilg
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Web Page".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
 :::
 ::::
 
@@ -187,7 +202,11 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 
 ::: details I EndNote 
 
-tekst 
+Fra trykte kilder: Legges inn som "Government Document".
+
+Fyll ut feltene: Year, Title, Place Published, Publisher.
+
+Fra internett: Legges inn som "Web Page". 
 :::
 ::::
 
@@ -206,8 +225,9 @@ NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
 
 ::: details I EndNote 
+Legges inn som "Government Document".
 
-tekst 
+Fyll ut feltene: Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, Place Published, Publisher. 
 :::
 ::::
 
@@ -216,7 +236,7 @@ tekst
 ::: teksten 
 Tekst (nummer)
 
-setning (10)
+setning (10).
 ::: 
 
 :::: ref 
@@ -226,7 +246,9 @@ Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europe
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Government Document".
+
+Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med et komma til slutt), Year, Title, Place Published, Publisher.
 :::
 ::::
 
@@ -239,6 +261,21 @@ Tekst (nummer)
 
 Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
 :::
+
+:::: ref 
+
+::: details I EndNote 
+
+Trykt rapport: Legges inn som "Report".
+
+Fyll ut feltene: Author, Year, Title, Place Published, Institution, Report Number.
+
+Rapport hentet fra internett: Legges inn som "Web Page".
+
+Fyll ut feltene: Author, Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Title til: Tittel. Rapport nr.)
+:::
+:::: 
+
 
 ### Manuskript under publisering, antatt (in press) 
 
@@ -269,7 +306,8 @@ i en setning (11)
 ::: 
 
 :::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL [- eller doi?]
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL/DOI/Handle
+
 
 11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
 
@@ -298,7 +336,8 @@ Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgive
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Web Page".
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet), Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. 
 :::
 ::::
 
@@ -335,7 +374,13 @@ Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs
 :::: ref
 ::: details I EndNote 
 
-tekst 
+Trykt oppslagsverk: Legges inn som "Dictionary".
+
+Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
+
+Elektronisk oppslagsverk: Legges inn som "Web Page".
+
+Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
 :::
 ::::
 
@@ -344,8 +389,25 @@ tekst
 ::: teksten 
 
 Tekst (nummer)
+::: 
 
-Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
+:::: ref 
+Med forfatter: 
+
+**Her er det motstrid - se på:** 
+
+Nummer. Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
+
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
+
+6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
+
+Uten forfatter:
+
+Nummer. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. Innførselstittel; s. xxx-x. 
+
+7. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
+
 ::: 
 
 :::: ref
@@ -355,7 +417,7 @@ tekst
 :::
 ::::
 
-### Point of care-verktøy - Kliniske oppslagsverk*  
+### Kliniske oppslagsverk (Point of care-verktøy)*  
 
 ::: teksten 
 
@@ -377,20 +439,57 @@ blabla
 ::: 
 :::: 
 
-* basert på https://www.fhi.no/div/bibliotek/referanseliste-med-numerisk-stil/
 
 ### Forelesninger og handouts 
 
-https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466 
+Nummer. Foreleser AA. Tittel på forelesning [upubliserte forelesningsnotater]. Universitetets navn; notater gitt på forelesningen dato.
+
+8. Ødegaard M. Litteratursøking [upubliserte forelesningsnotater]. Universitetet i Oslo; notater gitt på forelesning 2. mars 2020.
+
+Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i oppgaven din.
 
 
-### Datajournal, datasett 
+### Datasett 
+
+:::: ref 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel. Global Persistant Identifier/DOI/Handle Arkivets navn, Versjonen.
+
+5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
+::: details I EndNote 
+... 
+:::
+:::: 
+
+### Avhandling - doktor/master (publisert)
+
+::: teksten
+Tekst (nummer, eventuelt sidetall)
+
+Jones (4, s. 39) viser i sin doktoravhandling forskjellen mellom …
+:::
+
+:::: ref
+Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
+
+Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
+
+4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
+
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 
+Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler 
 
 
 ## Sitater (flyttes til toppen?)
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
+
+
+
 
 
