@@ -43,7 +43,29 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. U
 1\. Eyre HJ, Lange DP, Morris LB. Informed decisions: the complete book of cancer diagnosis, treatment, and recovery. 2. utg. Atlanta: American Cancer Society; 2002. 768 s.
 
 ::: details I EndNote
-...
+
+Legges inn som "Book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition (hvis aktuelt).
+:::
+::::
+
+### E-bok 
+
+::: teksten
+Tekst (nummer, eventuelt sidetall)
+
+... 
+:::
+
+:::: ref
+Nummer. 
+... 
+
+::: details I EndNote 
+Legges inn som "Electronic Book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Type of Medium, Place Published, Publisher, Year Cited, Date Cited, URL.
 :::
 ::::
 
@@ -62,9 +84,9 @@ Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører
 2\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
 
 ::: details I EndNote
-/[rappa fra Viko]/
+
 Legges inn som "Edited Book".
-Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition hvis aktuelt.
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition (hvis aktuelt).
 :::
 ::::
 
@@ -82,33 +104,12 @@ Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgi
 
 3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 ::: details I EndNote
-/[rappa fra Viko]/
 Legges inn som "Edited Book".
 Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition hvis aktuelt.
 :::
 ::::
 
 
-### Avhandling - doktor/master (publisert)
-
-::: teksten
-Tekst (nummer, eventuelt sidetall)
-
-Jones (4, s. 39) viser i sin doktoravhandling forskjellen mellom …
-:::
-
-:::: ref
-Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
-
-Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
-
-4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
-
-::: details I EndNote 
-
-tekst 
-:::
-::::
 
 
 ### Artikkel i tidsskrift
@@ -386,6 +387,26 @@ https://guides.library.uwa.edu.au/c.php?g=324981&p=2178466
 
 ### Datajournal, datasett 
 
+### Avhandling - doktor/master (publisert)
+
+::: teksten
+Tekst (nummer, eventuelt sidetall)
+
+Jones (4, s. 39) viser i sin doktoravhandling forskjellen mellom …
+:::
+
+:::: ref
+Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Antall sider.
+
+Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
+
+4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
+
+::: details I EndNote 
+
+tekst 
+:::
+::::
 
 
 
