@@ -8,7 +8,7 @@ date: "2012-09-18"
 Vancouverstilen er en numerisk stil som er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 ::: eksempel Kilde
-Eksemplene under er basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
+Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
 ::: 
 
 
@@ -79,7 +79,7 @@ Retrovirus hos katter har vist seg ... (2).
 :::
 
 :::: ref
-Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. s. fra-til.
+Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, red. Boktittel. Utgivelsessted: Utgiver; årstall. s. fra-til.
 
 2\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
 
@@ -100,7 +100,7 @@ Tekst (nummer)
 :::
 
 :::: ref
-Nummer. Redaktør AA, Redaktør BB, redaktører. Boktittel. Utgivelsessted: Utgiver; årstall. Antall s.
+Nummer. Redaktør AA, Redaktør BB, red. Boktittel. Utgivelsessted: Utgiver; årstall. Antall s.
 
 3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 ::: details I EndNote
@@ -332,7 +332,7 @@ Tekst (nummer)
 :::: ref 
 Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgiver; År [hentet dato]. Tilgjengelig fra: http://...
 
-11\. International Organization for Standardization. ISO Standard nr. 13.140. Noise with respect to human beings [Internett] Geneve: ISO; 2005? Tilgjengelig fra https://www.standard.no/no/Nettbutikk/produktkatalogen/?ProdCat=11343848
+11\. International Organization for Standardization. ISO Standard nr. 13.140. Noise with respect to human beings [Internett] Geneve: ISO; 2005? Tilgjengelig fra ... 
 
 ::: details I EndNote 
 
@@ -395,9 +395,10 @@ Tekst (nummer)
 Med forfatter: 
 
 **Her er det motstrid - se på:** 
-
+Fra VIKO
 Nummer. Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
 
+Fra Ivana 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
 6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
@@ -417,7 +418,7 @@ tekst
 :::
 ::::
 
-### Kliniske oppslagsverk (Point of care-verktøy)*  
+### Kliniske oppslagsverk (Point of care-verktøy)  
 
 ::: teksten 
 
