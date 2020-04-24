@@ -175,6 +175,9 @@ I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, be
 - har du benyttet andre søkefasiliteter i databasen?
 - dato for når søket ble foretatt
 
+
+[Last ned dit eget skjema her.](../dokumenter søk.docx)
+
 ::: tip TIPS
 Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
 :::
