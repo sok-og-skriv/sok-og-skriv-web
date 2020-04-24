@@ -168,7 +168,7 @@ Skill
 
 ::::
 
-[Vil du prøve selv? Trykk her og fyll inn med dine egne søkeord.](../søkeordskjema.docx)
+
 ### Trunkering
 
 Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (*). Barn* gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
