@@ -25,13 +25,10 @@ module.exports = {
   ],
   '/kjeldebruk-og-referanser/': [
     '',
-    'kvifor-referere',
-    'korleis-referere',
-    'kva-refererast',
-    'etiske-retningslinjer-i-akademia',
-    'vurdering-av-kjelder',
-    'kvalitative-vurderingar',
-  ],
+    'korleis-skal-ein-referere',
+    'ulike-kjelder',
+    'gjer-dine-refleksjonar',
+   ],
   '/referansestiler/': [
     '',
     'apa-6th',
