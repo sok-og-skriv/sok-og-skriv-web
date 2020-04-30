@@ -168,7 +168,7 @@ Skill
 
 ::::
 
-[Vil du prøve selv? Trykk her og fyll inn med dine egne søkeord.](søkeordskjema.docx)
+[Vil du prøve selv? Trykk her og fyll inn med dine egne søkeord.](/docs/sokeordskjema.docx)
 
 ### Trunkering
 
