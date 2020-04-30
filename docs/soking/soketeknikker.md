@@ -165,7 +165,6 @@ Technique
 
 Skill
 :::
-
 ::::
 
 [Vil du prøve selv? Trykk her og fyll inn med dine egne søkeord.](/docs/sokeordskjema.docx)
