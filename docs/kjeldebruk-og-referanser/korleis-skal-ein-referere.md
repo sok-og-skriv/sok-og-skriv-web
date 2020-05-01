@@ -9,6 +9,30 @@ Korrekt måte å vise til referansen på er å ha ei referanseliste i slutten av
 
 På Søk & Skriv viser vi stilane [APA, 7 utgåve](/referansestiler/apa-7th), [Chicago med fotnoter](/referansestiler/chicago-fotnoter), [Chicago, forfatter-år](/referansestiler/chcago-forfatter-aar), [Harvard](/referansestiler/harvard), [MLA](/referansestiler/mla) og [Vancouver](/referansestiler/vancouver).
 
+
+:::: details Forkortingar
+
+Det blir nytta ein del standard forkortingar ved bruk av siteringar og kjeldehenvisningar. Nedanfor nemner vi ein del av dei. Hugs at forkorta versjoner av ord alltid skal ha punktum etterpå. 
+
+- **b.** bind. 
+- **anon.** Anonym. Denne nyttes når forfatteren er ukjend. 
+- **ca.** Cirka. Nyttes for omtrentlege tidspunkt. For eksempel ca. 1978. 
+- **et al.** et ali/og andre/med fleire. Nyttes for å forkorte forfatterlista. 
+- **Kap.** Kapittel
+- **red.** Redaktør(er 
+- **rev. utg.** Revidert utgåve. Nyttes når ein bok har ein revidert utgåve.  
+- **s.** side(r)  
+- **Suppl.** supplement. Nyttes for eksempel ved ekstra hefte av tidsskrift
+- **u.d.** Uten dato. Nyttes ved henvisning til kjelder uten publiseringsdato.
+  Utg. Utgåve
+
+:::
+Meir om forkortingar frå [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/).
+:::
+
+::::
+
+
 For å sjå korleis referansene i referanselista skal byggast opp, og visast til frå tekste, følg lenkjene til stilane ovanfor. Likevel er det fleire ting som gjerast likt uavhengig av kva stil du nytter, som for eksempel korleis ein skriv sitata (viser til referansene du har på referanselista di) og bruk av forkortingar. Nedanfor vil du sjå ulike måtar å skrive sita dine på, og få tips til korleis du kan håndtere referansene dine om du ikkje vil skrive dei manuelt. 
 
 
@@ -40,20 +64,3 @@ Førland (1996) hevder at alle studenter innenfor samfunnsfag og humaniora må l
 
 Den akademiske sjangeren kjennetegnes av drøfing og alle studenter innenfor samfunnsfag og humaniora må lære seg den (Førland, 1996, s.11).  
 :::
-
-
-# Forkortingar 
-
-:::: details bind
-b. 
-::::
-
-:::: details anonym
-anon. Nyttes når forfattaren er ukjend.
-::::
-
-:::: details cirka
-ca. Nyttes for omtrentlege tidspunkt. Feks ca. 1978.
-::::
-
-
