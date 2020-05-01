@@ -57,7 +57,7 @@ Sitater som har meir enn 40 ord skal skrivast i eit eiget avsnitt med innrykk. H
 
 ### Indirekte sitat
 
-Når du har sitat, å omformulere det ein anna har skrive. Det kan skape ei betre flyt i teksten, og kan det nokre gonger vere betre å gjere det vi kaller for parafrasering. Å parafrasere er å omformulere det en annen forfatter har skrevet. Du bør helst bytte ut både ord og ordstilling, og skrive det om til ditt eget språk. Pass på at du beholder det opprinnelige [meningsinnholdet](#Meningsinnhold).
+Når du har sitat, kan det i fleire tilfeller vere lurt å omformulere det ein anna har skrive. Det kan skape ein betre flyt i teksten. Dette kaller vi for å parafrasere. Når du parafaserar,  omformulerar du det ein anna forfatter har skrive. Du bør bytte ut både ord og ordstilling, og skrive det om til ditt eige språk. Pass på at det opprinnlege innhaldet er likt.
 
 ::: eksempel EKSEMPEL  
 Førland (1996) hevder at alle studenter innenfor samfunnsfag og humaniora må lære seg den akademiske sjangeren, som kjennetegnes av drøfting (s. 11).
@@ -67,7 +67,7 @@ Den akademiske sjangeren kjennetegnes av drøfing og alle studenter innenfor sam
 
 ### Ved endringar i sitatet 
 
-På samme måte som med indirekte sitater, kan det nokre gonger vere aktuelt å gjere visse endringar på sitatet. Det kan vere å ta vekk deler av sitatet som ikkje er naudsynt for oppgåva, eller å legge til ord for å få lesaren til å forstå samanhengen. Hovedprinsippet er at alle tilleggingar eller utelatelingar skal markerast. Om du har eit lengre sitat med ein del irrelevante passasjer kan det vere aktuelt å **utelate** deler av sitatet. Dette må markerast tydleg, for eksempel med tre prikker i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ). Utelatingar av eitt eller to ord kan markerast med ... (tre prikker), mens parentesane nyttes for lengre utelatelingar.
+På samme måte som med indirekte sitater, kan det nokre gonger vere aktuelt å gjere visse endringar på sitatet. Det kan vere å ta vekk deler av sitatet som ikkje er naudsynt for oppgåva, eller å legge til ord for å få lesaren til å forstå samanhengen. Hovedprinsippet er at alle tilleggingar eller utelatelingar skal markerast. Om du har eit lengre sitat med ein del irrelevante passasjer kan det vere aktuelt å **utelate** deler av sitatet. Dette må markerast tydleg, for eksempel med tre prikker i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ). Utelatingar av eitt eller to ord kan markerast med ... (tre prikker), og parentesane nyttes for lengre utelatelingar.
 
 ::: eksempel EKSEMPEL  
 
