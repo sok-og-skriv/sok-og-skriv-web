@@ -77,7 +77,7 @@ På samme måte som med indirekte sitater, kan det nokre gonger vere aktuelt å 
 
 Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markeres dette gjerne ved å nytte klammeparenteser. 
 
-::: Eksempel EKSEMPEL
+::: eksempel EKSEMPEL
 
 "Studenter (og forskere) innenfor \[de akademiske disipliner\] må skrive innenfor en akademisk sjanger"(Førland, 1996, s.11).
 
@@ -85,7 +85,7 @@ Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markeres 
 
 Det kan også vere aktuelt å fjerne eller legge til kursiv i eit lengre sitat. Dette markerast i henvisningen. 
 
-::: Eksempel EKSEMPEL
+::: eksempel EKSEMPEL
 
 "Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er drøfting" (Førland, 1996, s.11, utheving fjerna). 
 
