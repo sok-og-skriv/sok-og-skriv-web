@@ -27,7 +27,7 @@ module.exports = {
     '',
     'korleis-skal-ein-referere',
     'ulike-kjelder',
-    'gjer-dine-refleksjonar',
+    'kjelderefleksjonar',
    ],
   '/referansestiler/': [
     '',
