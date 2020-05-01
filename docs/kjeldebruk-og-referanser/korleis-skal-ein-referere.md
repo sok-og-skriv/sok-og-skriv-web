@@ -27,7 +27,7 @@ Det blir nytta ein del standard forkortingar ved bruk av siteringar og kjeldehen
   Utg. Utgåve
 
 :::
-Meir om forkortingar frå [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/).
+Meir om forkortingar på [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/).
 :::
 
 ::::
@@ -75,7 +75,7 @@ På samme måte som med indirekte sitater, kan det nokre gonger vere aktuelt å 
 
 :::
 
-Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markeres dette gjerne ved å nytte klammeparenteser. 
+Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markeres dette ved å nytte klammeparenteser. 
 
 ::: eksempel EKSEMPEL
 
