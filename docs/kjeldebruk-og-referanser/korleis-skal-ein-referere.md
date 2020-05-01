@@ -36,7 +36,7 @@ Meir om forkortingar frå [Språkrådet](https://www.sprakradet.no/sprakhjelp/Sk
 For å sjå korleis referansene i referanselista skal byggast opp, og visast til frå tekste, følg lenkjene til stilane ovanfor. Likevel er det fleire ting som gjerast likt uavhengig av kva stil du nytter, som for eksempel korleis ein skriv sitata (viser til referansene du har på referanselista di) og bruk av forkortingar. Nedanfor vil du sjå ulike måtar å skrive sita dine på, og få tips til korleis du kan håndtere referansene dine om du ikkje vil skrive dei manuelt. 
 
 
-# Sitat
+## Sitat
 Når ein henter utdrag frå ein tekst ein les og vel nytte utdraget i din eiga tekst, kalles det sitat. Du henter informasjon andre står bak, inn i di eiga tekst. Det er fleire måtar å skrive sitata på. 
 
 :::
@@ -44,7 +44,7 @@ NB! Når vi har eksemplar og viser nedanfor, vil eksempla følgje APA 7
 :::
 
 
-## Direkte sitat
+### Direkte sitat
 
 I direkte sitat skriv du ordrett det ein anna forfattar har skrevet. Sitater som er har mindre enn 40 ord skrivast direkte inn i teksten og uthevast med anførselstegn.
 
@@ -55,7 +55,7 @@ I direkte sitat skriv du ordrett det ein anna forfattar har skrevet. Sitater som
 Sitater som har meir enn 40 ord skal skrivast i eit eiget avsnitt med innrykk. Her brukes det ikke anførselstegn. 
 
 
-## Indirekte sitat
+### Indirekte sitat
 
 Når du har sitat, å omformulere det ein anna har skrive. Det kan skape ei betre flyt i teksten, og kan det nokre gonger vere betre å gjere det vi kaller for parafrasering. Å parafrasere er å omformulere det en annen forfatter har skrevet. Du bør helst bytte ut både ord og ordstilling, og skrive det om til ditt eget språk. Pass på at du beholder det opprinnelige [meningsinnholdet](#Meningsinnhold).
 
@@ -64,3 +64,50 @@ Førland (1996) hevder at alle studenter innenfor samfunnsfag og humaniora må l
 
 Den akademiske sjangeren kjennetegnes av drøfing og alle studenter innenfor samfunnsfag og humaniora må lære seg den (Førland, 1996, s.11).  
 :::
+
+## Ved endringar i sitatet 
+
+På samme måte som med indirekte sitater, kan det nokre gonger vere aktuelt å gjere visse endringar på sitatet. Det kan vere å ta vekk deler av sitatet som ikkje er naudsynt for oppgåva, eller å legge til ord for å få lesaren til å forstå samanhengen. Hovedprinsippet er at alle tilleggingar eller utelatelingar skal markerast. Om du har eit lengre sitat med ein del irrelevante passasjer kan det vere aktuelt å **utelate** deler av sitatet. Dette må markerast tydleg, for eksempel med tre prikker i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ). Utelatingar av eitt eller to ord kan markerast med ... (tre prikker), mens parentesane nyttes for lengre utelatelingar.
+
+::: eksempel EKSEMPEL  
+"Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting" _(Førland, 1996, s.11).
+:::
+
+Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markeres dette gjerne ved å nytte klammeparenteser. 
+
+::: Eksempel EKSEMPEL
+"Studenter (og forskere) innenfor \[de akademiske disipliner\] må skrive innenfor en akademisk sjanger"(Førland, 1996, s.11).
+:::
+
+Det kan også vere aktuelt å fjerne eller legge til kursiv i eit lengre sitat. Dette markerast i henvisningen. 
+
+::: Eksempel EKSEMPEL
+"Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er drøfting" (Førland, 1996, s.11, utheving fjerna). 
+
+Dersom du skal legge til kursiv for å framheve eit poeng, skriver du "forfatterens utheving" eller "utheving tillagt" etter kildehenvisningen, slik: (Førland, 1996, s. 11, utheving tillagt).
+:::
+
+
+## Sekundærreferanser
+
+Som hovedregel skal du kun sitere fra verk du har lest. Om originalkilden ikkje er tilgjengeleg, eller er på språk du ikkje forstår, kan du henvise til andre sin omtale av den:
+
+::: eksempel EKSEMPEL  
+Beck og Beck-Gemsheim referert i Kloster (2003, s. 4) snakker om tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet.
+
+Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet (Beck & Beck-Gemsheim 2000 I: Kloster, 2003, s. 4).
+
+
+:::
+
+
+## Verktøy for å handtere referanser
+
+For større oppgåver som bacheloroppgaver og masteroppgaver kan du effektivisere arbeidet med referansene dine ved å nytte referansehåndteringsverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. Når du nytter Word samman med EndNote, vil Word automatisk opprette ein referanseliste for henvisningene i teksten. Du vil også lett kunne bytte referansestil, dersom det er aktuelt.
+
+Undersøk med studiestaden din kva referansehåndteringsverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengeleg for alle.
+
+### Eksporter referansene dine frå databasen
+
+I staden for å kopiere referansene, kan du eksportere dei frå databasen du søkte i. De fleste databaser ein eksportfunksjon. Nytter du denne blir skrivearbeidet forenkla og du unngår feil i referansene.
+
