@@ -65,30 +65,36 @@ Førland (1996) hevder at alle studenter innenfor samfunnsfag og humaniora må l
 Den akademiske sjangeren kjennetegnes av drøfing og alle studenter innenfor samfunnsfag og humaniora må lære seg den (Førland, 1996, s.11).  
 :::
 
-## Ved endringar i sitatet 
+### Ved endringar i sitatet 
 
 På samme måte som med indirekte sitater, kan det nokre gonger vere aktuelt å gjere visse endringar på sitatet. Det kan vere å ta vekk deler av sitatet som ikkje er naudsynt for oppgåva, eller å legge til ord for å få lesaren til å forstå samanhengen. Hovedprinsippet er at alle tilleggingar eller utelatelingar skal markerast. Om du har eit lengre sitat med ein del irrelevante passasjer kan det vere aktuelt å **utelate** deler av sitatet. Dette må markerast tydleg, for eksempel med tre prikker i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ). Utelatingar av eitt eller to ord kan markerast med ... (tre prikker), mens parentesane nyttes for lengre utelatelingar.
 
 ::: eksempel EKSEMPEL  
+
 "Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting" _(Førland, 1996, s.11).
+
 :::
 
 Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markeres dette gjerne ved å nytte klammeparenteser. 
 
 ::: Eksempel EKSEMPEL
+
 "Studenter (og forskere) innenfor \[de akademiske disipliner\] må skrive innenfor en akademisk sjanger"(Førland, 1996, s.11).
+
 :::
 
 Det kan også vere aktuelt å fjerne eller legge til kursiv i eit lengre sitat. Dette markerast i henvisningen. 
 
 ::: Eksempel EKSEMPEL
+
 "Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er drøfting" (Førland, 1996, s.11, utheving fjerna). 
 
 Dersom du skal legge til kursiv for å framheve eit poeng, skriver du "forfatterens utheving" eller "utheving tillagt" etter kildehenvisningen, slik: (Førland, 1996, s. 11, utheving tillagt).
+
 :::
 
 
-## Sekundærreferanser
+### Sekundærreferanser
 
 Som hovedregel skal du kun sitere fra verk du har lest. Om originalkilden ikkje er tilgjengeleg, eller er på språk du ikkje forstår, kan du henvise til andre sin omtale av den:
 
