@@ -106,6 +106,16 @@ Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegels
 
 :::
 
+## Noter / vedlegg
+
+- Begrens bruk av noter.
+- Noter skal nyttes til tilleggsopplysninger som ikkje er ein naturlig del av teksten. Det vil seie informasjon som ikkje er essensielt for å forstå innhaldet.
+- Du kan velje om du vil nytte fotnoter nedst på sida eller som sluttnoter bak i kapitlet/oppgåva. Vel du å plassere notene som fotnoter er det vanleg å nytte ein mindre skrifttype på desse for å skilje notene frå hovudteksten.
+- Pass på at du ikkje blander henvisninger til ein litteraturliste og henvisninger til noter.
+- Nøyaktig korleis henvisningen til noter gjerast er ofte avhenging av kva referansestil ein nytter. Det er for eksempel ikkje hensiktsmessig å bruke nummererte noter dersom man nytter en nummermetode i referansene.
+- Vedlegg er lister over tabeller og figurer som er med i oppgaven, spørreskjema, observasjonsskjema, intervjuguider og liknande. Vedlegga	 skal nummerast og plasserast etter litteraturlista.
+
+
 
 ## Verktøy for å handtere referanser
 
