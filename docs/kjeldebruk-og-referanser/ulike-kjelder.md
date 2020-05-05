@@ -4,6 +4,8 @@ date: "2020-04-28"
 ---
 # Ulike kjelder
 Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap frå ein person med god kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stadene: på nettet, bøker, artiklar osv. 
+
+## Kva er formålet med kjelda?
 Når du skal finne informasjon til oppgåva di vil du møte mange ulike måter informasjonen blir framstilt på, og i ulike format. Å skrive oppgåve handlar mykje om å vite kva kjelde og kva type informasjon som best kan gjere oppgåva betre. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer/) som ofte blir føretrekt eller som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte/) og det faglege innhaldet i oppgåva di. Andre gonger er det mest korrekt å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelde du treng vil avhenge av kva type informasjon du treng til det du skriv om og det du ønskjer å poengtere. [Å skrive akademisk](/skriving/akademisk-sprak-og-stil/) krev at du vurderer kva kjelder som finnes opp mot kva type kjelde oppgåva di treng. 
 
 # Artiklar
@@ -27,9 +29,16 @@ Ifølgje [Sykepleien.no]( https://sykepleien.no/forskning/2012/02/forskningsarti
 
 Når du treng vite om det er ein fag- eller forskingsartikkel du har framfor deg, vurder derfor om artikkelen presenterer ny kunnskap eller om den oppsummerer kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å sjå om dei har skrive metoden dei nytter so grundig at du kunne ha gjort nøyaktig det same. 
 
+### Fagfellevurdering (peer review)
+
+Fagfellevurdering inneber at ein artikkel blir vurt av minst to fagpersonar innan same forskningsfelt før den blir akseptert for publisering. Artikkelforfattar får tilbakemelding på tekst og får konkrete forslag til forbetringar som må utførast før artikkelen eventuelt kan bli publisert. På denne måten blir artikkelen kvalitetsikra. Dette skal bidra til at artikkelen følgjer akademiske og vitskaplege normer som er gjeldane innanfor faget. edringer som må utføres før artikkelen eventuelt kan publiseres. 
+
+Artikler som ikkje er fagfellevurderte kan også vere relevante og gode. Vurderalltid kjelda både for fagfellevurderte artiklar, og artiklar publisert i andre tidsskrift.
+
 ## Populærvitskapleg artikkel
 
 Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen formidle ny innsikt og forskingsbasert kunnskap. Her er det imidlertid ein målsetting å kommunisere ny kunnskap utover det vitskaplege forskningsfellesskapet. Målet er å formidle kunnskap til et "breiare lag av folket". Populærevitskaplege artiklar har ofte ein journalistisk språkdrakt. Du finner desse på nettstader som for eksempel Illustrert Vitenskap. Kravet til etterprøvbarhet er noko svakare enn i den vitskaplege artikkelen. Ein lemper på krav til belegg og empiri, og som i essay er bruk av metafor vanleg.
+
 
 ## Essay
 
@@ -47,6 +56,7 @@ Bacheloroppgåver og andre mindre studentoppgåver er ofte kjelder du kun bør n
 
 # Nettstader
 Det er mange ulike nettstader som er relevant å nytte som kjelder og til å hente informasjon om eit emne. Du kan nytte Google til raskt finne informasjon du treng, eller lese nyhendesider for å finne siste nytt eller korleis emnet ditt dekkes i media, eller du kan finne gode sitat på sider som relevante for ditt fagfelt. Ved å nytte internett som kunnskapskjelde kan du finne gode kjelder. Til gjengjeld finnes det eit hav av informasjon og mange kjelder som ikkje er fult so gode å nytte. Men internett er det veldig viktig å [vurdere](/kjeldebruk/kjelderefleksjonar) det du finn, og kvalitetssikre innhaldet. 
+
 ## Leksikon vs Wikipedia
 Leksikon inneheld fagleg, kvalitetssikra informasjon og bakgrunnsstoff om ein mengde emner. Artiklene er samla av eigne emneredaktørar innanfor ulike fagområder og har gode referanselister. Dei finnast både i trykte og elektroniske utgåver. 
 
@@ -71,19 +81,10 @@ Kronikk er ein relativt kort artikkel av opplysande eller resonnerande karakter,
 
 ## Nyhende
 Nyhender og andre sider som fortel siste nytt eller fortel om saker som har skjedd, kan vere aktuelle å nytte til å få eit perspektiv på korleis oppgåva sitt emne. Merk at, på same måte som kronikker, populærvitskap og essay, so er ikkje nyhende fagleg tunge og bør unngåast som ein del av argumentasjon og drøfting. 
-# Oppgåver: Kva nettside du ville du ha nytta? 
-
-::: oppgave Øving 1
-Du er i startfasen og har bestemt deg for overordna tema. Men treng inspirasjon og idear til kva vinkling du skal ha på temaet. Kvar startar du? 
-:::
-
-::: oppgåve Øving 2
-Du har begynt på drøfting og mangler ei kjelde som bygger opp under nokre av argumenta dine. Kva type kjelde gjer argumentasjonen din sterkare? 
-:::
-
 
 # Andre kjelder
 Det finnes mange andre kjelder enn dei nemnd ovanfor som kan vere aktuelle. 
+
 ## Radio- eller TV-programmer
 Radio- eller TV-programmer kan også vere ein god stad å starte for å få innfallsvinklar til oppgåva di. Om du skal skrive om psykiatrien, men er usikker på kva vinkling du ønskjer kan det vere aktuelt å høre podcasten «Hos Peder» eller å sjå tv-programmet «Helene sjekker inn». Eller om du skriv om andre temaer innan samfunn, helse eller miljø, finnes det mange både norske og internasjonale program som kan hjelpe deg å få idear og inspirasjon.
 ::: warning OBS!
@@ -98,5 +99,15 @@ Ver merksam på at mange bilete, fotografar og illustrasjonar ikkje alltid er op
 I fag der deltakande observasjon er nytta som metode, er informanter ei viktigkjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 <Video id="ktM1r1Ca5Tc" />
 
+
+# Oppgåver: Kva nettside du ville du ha nytta? 
+
+::: oppgave Øving 1
+Du er i startfasen og har bestemt deg for overordna tema. Men treng inspirasjon og idear til kva vinkling du skal ha på temaet. Kvar startar du? 
+:::
+
+::: oppgåve Øving 2
+Du har begynt på drøfting og mangler ei kjelde som bygger opp under nokre av argumenta dine. Kva type kjelde gjer argumentasjonen din sterkare? 
+:::
 
 
