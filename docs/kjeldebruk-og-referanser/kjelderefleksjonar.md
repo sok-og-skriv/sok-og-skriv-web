@@ -19,7 +19,7 @@ Alle kjlder bør vurderast ut fra kva fagleg bakgrunn forfatteren har. Er han/ho
 - Siteringssøk nytter du når du skal finne ut kven som har nytta den aktuelle referansen i nyare forsking. Siteringssøk kan gjerast i databasen Web of Science
 - Vil du sjekke kven som har sitert eit bestemt arbeid av ein forfatter søker du på ein kombinasjon av forfatter og arbeid (tidsskrifttittel eller boktittel forkorta), eller årstallet for når det aktuelle arbeidet blei publisert
 
-## Tekstens kjelder
+## Teksten sine kjelder
 
 Sjå på referanselista til teksten du leser. Denne viser kva kjelder forfatteren har nytta i teksten, med andre ord kva slags informasjon forfattaren bygger sine argumenter og konklusjoner på. Vurder i kva grad forfattaren undervygger sine påstander gjennom bruk av empiri, teori og metode. 
 - I kva grad refererer forfattaren til andre kjelder?
@@ -31,7 +31,7 @@ Sjå på referanselista til teksten du leser. Denne viser kva kjelder forfattere
 
 Kjelda bør vurderast i lys av kven den er skrive for. All tekst er skrive med tanke på ein lesar, der den tenkte lesar er med på å forme teksten. Ein måte å identifisere tekstens målgruppe på er gjennom å analysere teksten sin sjanger - kva type kjelde kjelda er. 
 
-## Utggjevar
+## Utgjevar
 
 Utgjevar kan ha påverknad på innhaldet i det materialet du har funne. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. I mange tilfeller er det lett å finne ut kven utggjevaren er. Er det ein bok vil du som regel finne forlaget sitt namn på for- eller baksida av tittelbladet. Forlaget kan vere meir eller mindre kjent. Enkelte ganger kan det vere vanskeleg å finne ut kven som har gitt ut materialet. Er utgjevar ukjend for deg, er det desto viktigare å finne informasjon om dette.
 
@@ -54,7 +54,7 @@ Publiseringstidspunkt for informasjon er ofte relevant. Ofte er vi ute etter inf
 - Ta stilling til kva tyding har datering av kjelda for di oppgåve.  
 
 
-# Tekstanalyse
+## Tekstanalyse
 For å kunne sei meir om kjelda er relevant for oppgåva di, bør du analysere teksten for å finne ut kvifor den er skriven og kva formål forfattaren har hatt med å skrive teksten. Du bør du ta eit blikk på korleis forfattaren formidler eit materiale eller resultatet. 
 
 Det dreier seg om å finne ut kva forfattaren ønskjer å formidle til deg som lesar. Du skal du også finne ut korleis forfattaren formidlar resultata sine ved å sjå på retoriske grep. Til slutt set tekstanalysen deg i stand til å sjå kva faglege samanhenger forfattaren har utvikla teksten nnanfor. Korleis er teksten satt i samaheng med andre tekstar? Korleis er språket? 
@@ -83,9 +83,9 @@ Sjå på teksten i lys av andre tekster. Still følgjande spørsmål:
 
 
 
-# Vurdering av artiklar
+## Vurdering av artiklar
 
-# Kva kjenneteikner ei god nettside?
+## Kva kjenneteikner ei god nettside?
 
 
 ## Kva er ei god kjelde?
