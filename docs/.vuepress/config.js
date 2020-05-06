@@ -112,38 +112,53 @@ module.exports = {
   plugins: [
     [
       'sitemap', {
-        hostname: 'https://sok-og-skriv.now.sh/'
+        hostname: 'https://sok-og-skriv.now.sh/',
+        dateFormatter: (time) => {
+          var dayjs = require('dayjs')
+          var customParseFormat = require('dayjs/plugin/customParseFormat')
+          dayjs.extend(customParseFormat)
+          require('dayjs/locale/en')
+          require('dayjs/locale/nb')
+
+          if (time.match(/^\d/)) {
+            let date = dayjs(time, 'D. MMMM yyyy', 'nb', true).format('YYYY-MM-DDThh:mm:ssTZD')
+            return date
+          }
+          else {
+            let dateEN = dayjs(time, 'MMMM D, YYYY', 'en', true).format('YYYY-MM-DDThh:mm:ssTZD')
+            return dateEN
+          }
+        }
       }
     ],
     'vuepress-plugin-export',
     'vuepress-plugin-glossary',
     /* 'alias', */
     ['@vuepress/back-to-top', true],
-    ['@vuepress/last-updated',
-    {
+    ['@vuepress/last-updated', {
       transformer:
-      (timestamp, lang) => {
-        var dayjs = require('dayjs')
-        var localizedFormat = require('dayjs/plugin/localizedFormat')
-        dayjs.extend(localizedFormat)
-        require('dayjs/locale/en')
-        require('dayjs/locale/nb')
-        
-        lang = lang.toLowerCase()
-        if (lang == "no") {lang = 'nb'}
-        dayjs.locale(lang)
-        return dayjs(timestamp).format('LL')
+        (timestamp, lang) => {
+          var dayjs = require('dayjs')
+          var localizedFormat = require('dayjs/plugin/localizedFormat')
+          dayjs.extend(localizedFormat)
+          require('dayjs/locale/en')
+          require('dayjs/locale/nb')
+          
+          lang = lang.toLowerCase()
+          if (lang == "no") {lang = 'nb'}
+          dayjs.locale(lang)
+          return dayjs(timestamp).format('LL')
+        }
       }
-    }
-  ],
-  [
-    'vuepress-plugin-container',
-    {
-      type: 'teksten',
-      before: `<div class="in-text"><p class="title">Kilden i teksten</p>`,
-      after: '</div>',
-    },
-  ],
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'teksten',
+        before: `<div class="in-text"><p class="title">Kilden i teksten</p>`,
+        after: '</div>',
+      },
+    ],
     [
       'vuepress-plugin-container',
       {
