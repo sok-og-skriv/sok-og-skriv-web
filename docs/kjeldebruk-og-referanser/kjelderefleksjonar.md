@@ -5,7 +5,7 @@ date: "2020-04-28"
 # Kjelderefleksjonar
 Når du har funne ei kjelde må du vurdere om denne er god og relevant for ditt arbeid. For å vurdere om ei kjelde er god, må du ta omsyn til fleire faktorar: Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Andre spørsmål du bør stille deg er kven kjelda er produsert for, korleis kjelda refererer til andre og tidspunktet for publisering. For å vurdere i kva grad kjelda er relevant for deg, kan det vere nyttig å analysere teksten nærare: kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
 
-Når ein vurderer og reflekterar kan dette gjerast mykje likt som når ein vurderar innhaldet i det ein les. Sjå [Lesemåtar](/studieteknitt/lesemåter) for korleis du kan vurdere innhaldet i eit tekst. 
+Når ein vurderer og reflekterar kan dette gjerast mykje likt som når ein vurderar innhaldet i det ein les. Sjå [Lesemåtar](/studieteknikk/lesemåter) for korleis du kan vurdere innhaldet i eit tekst. 
 
 ## Er kjelda truverdig?
 
