@@ -9,9 +9,9 @@ Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde ei
 Når du skal finne informasjon til oppgåva di vil du møte mange ulike måter informasjonen blir framstilt på, og i ulike format. Å skrive oppgåve handlar mykje om å vite kva kjelde og kva type informasjon som best kan gjere oppgåva betre. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer/) som ofte blir føretrekt eller som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte/) og det faglege innhaldet i oppgåva di. Andre gonger er det mest korrekt å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelde du treng vil avhenge av kva type informasjon du treng til det du skriv om og det du ønskjer å poengtere. [Å skrive akademisk](/skriving/akademisk-sprak-og-stil/) krev at du vurderer kva kjelder som finnes opp mot kva type kjelde oppgåva di treng. 
 
 # Artiklar
-Kva ein artikkel er vil variere om det er ein artikkel i eit tidsskrift, ein artikkel publisert i aviser eller på nettsider som for eksempel NRK, VG eller fagsider. Vurder alltid kva type artikkel du har framfor deg. Er det for eksempel publisert i eit tidsskrift vil du sjå informasjon som namnet på tidsskriftet (Journal of… og Nordisk tidsskrift for… som eksempel), og eit tilhøyrande DOI nummer (ein artikkel unike nettadresse). 
-Mange artiklar (spesielt dei som er publiserte i tidsskrift og som ikkje har eit populærvitskapleg innhald) har eit høgt nivå av kvalitet på det faglege innhaldet, og vil gjere argumentasjonane dine sterkare. Belag oppgåva di gjerne på fagleg gode artiklar etter at du har [vurdert artiklane dine fagleg](/kjeldebruk/kjelderefleksjonar/). 
-Merk at sjølv om du les artiklane på internett, skal kjeldene til artiklar publisert i tidsskrift alltid følgje denne referanseformen. 
+Kva ein artikkel er vil variere om det er ein artikkel i eit tidsskrift, ein artikkel publisert i aviser eller på nettsider som for eksempel NRK, VG eller fagsider. 
+
+Mange artiklar (spesielt dei som er publiserte i tidsskrift og som ikkje har eit populærvitskapleg innhald) har eit høgt nivå av kvalitet på det faglege innhaldet, og vil gjere argumentasjonane dine sterkare. Belag oppgåva di gjerne på fagleg gode artiklar etter at du har [vurdert artiklane dine fagleg](/kjeldebruk/kjelderefleksjonar/).  
 
 ## Vitskapleg artikkel
 
@@ -23,11 +23,11 @@ Ein oversiktsartikkel er ein forskingsartikkel som gir eit overblikk over eit fa
 
 ## Fag- eller forskingsartikkel? 
 
-Spesielt innan helsefaglege studiar er det vanleg å skilje mellom fag- og forskingsartikkel, og i mange oppgåver blir det forventa at studenten klarer skilje mellom når ein nytter den eine eller andre artikkelen. I tillegg blir det forventa at du som student skal vite når ein treng forskingsartikkel, og når det held med ein fagartikkel. 
+Det er vanleg å skilje mellom fag- og forskingsartikkel, og i mange oppgåver blir det forventa at studenten klarer skilje mellom når ein nytter den eine eller andre artikkelen. 
 
 Ifølgje [Sykepleien.no]( https://sykepleien.no/forskning/2012/02/forskningsartikkel-eller-fagartikkel) har ein forskingsartikkel som føremål å presentere ny forsking, medan fagartiklar oppsummerar kunnskap som allereie er kjend. På grunn av forskningsartikkelen sitt krav om at resultata skal kunne kontrollerast og etterprøvast skal denne type artikkel derfor innehalde nøyaktig informasjon om korleis forskarane har gått fram for å undersøke problemstillinga. 
 
-Når du treng vite om det er ein fag- eller forskingsartikkel du har framfor deg, vurder derfor om artikkelen presenterer ny kunnskap eller om den oppsummerer kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å sjå om dei har skrive metoden dei nytter so grundig at du kunne ha gjort nøyaktig det same. 
+I mange tilfeller er artiklane merka med kva type artikkel dei er, for eksempel "research article", "review" og so vidare. Sjå om artikkelen er merka, om ikkje må du sjølve vurdere om det er ein fag- eller forskingsartikkel. Vurder om artikkelen presenterer ny kunnskap eller om den tek utgongspunkt i kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å sjå om dei har skrive metoden dei nytter so grundig at du kunne ha gjort nøyaktig det same. 
 
 ### Fagfellevurdering (peer review)
 
@@ -35,14 +35,13 @@ Fagfellevurdering inneber at ein artikkel blir vurt av minst to fagpersonar inna
 
 Artikler som ikkje er fagfellevurderte kan også vere relevante og gode. Vurderalltid kjelda både for fagfellevurderte artiklar, og artiklar publisert i andre tidsskrift.
 
-## Populærvitskapleg artikkel
-
-Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen formidle ny innsikt og forskingsbasert kunnskap. Her er det imidlertid ein målsetting å kommunisere ny kunnskap utover det vitskaplege forskningsfellesskapet. Målet er å formidle kunnskap til et "breiare lag av folket". Populærevitskaplege artiklar har ofte ein journalistisk språkdrakt. Du finner desse på nettstader som for eksempel Illustrert Vitenskap. Kravet til etterprøvbarhet er noko svakare enn i den vitskaplege artikkelen. Ein lemper på krav til belegg og empiri, og som i essay er bruk av metafor vanleg.
-
-
 ## Essay
 
 Essayet er ein personleg forma artikkel. Det er tydeleg prega av forfatteren, av forfattaren sine eigne meningar og haldninger. Forfatteren kan ta i bruk personlege opplevingar, anekdotar eller metaforer som illustrerande eksempel. Den er ofte skriven for å underhalde og kan førast i eit assosiativt språk. Essayet er ein sjanger som ligg mellom fagtekst og prosatekst.
+
+## Populærvitskapleg artikkel
+
+Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen formidle ny innsikt og forskingsbasert kunnskap. Her er det imidlertid ein målsetting å kommunisere ny kunnskap utover det vitskaplege forskningsfellesskapet. Målet er å formidle kunnskap til et "breiare lag av folket". Populærevitskaplege artiklar har ofte ein journalistisk språkdrakt. Du finner desse på nettstader som for eksempel Illustrert Vitenskap. Kravet til etterprøvbarhet er noko svakare enn i den vitskaplege artikkelen. Ein lemper på krav til belegg og empiri, og som i essay er bruk av metafor vanleg.
 
 # Lærebok
 
@@ -57,10 +56,8 @@ Bacheloroppgåver og andre mindre studentoppgåver er ofte kjelder du kun bør n
 # Nettstader
 Det er mange ulike nettstader som er relevant å nytte som kjelder og til å hente informasjon om eit emne. Du kan nytte Google til raskt finne informasjon du treng, eller lese nyhendesider for å finne siste nytt eller korleis emnet ditt dekkes i media, eller du kan finne gode sitat på sider som relevante for ditt fagfelt. Ved å nytte internett som kunnskapskjelde kan du finne gode kjelder. Til gjengjeld finnes det eit hav av informasjon og mange kjelder som ikkje er fult so gode å nytte. Men internett er det veldig viktig å [vurdere](/kjeldebruk/kjelderefleksjonar) det du finn, og kvalitetssikre innhaldet. 
 
-## Leksikon vs Wikipedia
+## Leksikon
 Leksikon inneheld fagleg, kvalitetssikra informasjon og bakgrunnsstoff om ein mengde emner. Artiklene er samla av eigne emneredaktørar innanfor ulike fagområder og har gode referanselister. Dei finnast både i trykte og elektroniske utgåver. 
-
-Wikipedia er eit leksikon der kven som helst har tilgong til å skrive om kva som helst. Nytt gjerne Wikipedia som eit utgongspunkt for å få oversikt over emna, eller til å sjekke kva kjelder dei nytter eller til å lese deg personleg opp på emnet. Grunnregelen bør vere at du aldri skal nytte Wikipedia som einaste kjelde, men nytt sida gjerne til å samanlikne deira perspektiv opp mot andre sider sine perspektiv. Du bør alltid sjekke det du finn i Wikipedia opp mot kvalitetssikra kjelder.
 
 ::: tip Tips!
 Nytt fagspesifikke leksika som for eksempel Store Medisinske Leksikon.
@@ -70,7 +67,7 @@ Leksikon er ein god kjelde å nytte når du treng definisjonar til omgrep, ord o
 
 ## Blogg
 
-En blogg kan vere ein grei innfallsvinkel for å følgje diskusjoner i ulike fora. Du kan abonnere på blogger som RSS feeds. Ver merksam på kven som står bak bloggen då dei ofte har ein dagbokform og reflekterer personlege erfaringar og meiningar. Dei bygger derfor ikkje alltid på etterprøvbare og vitskaplege dokumenterte påstander.  erfaringer og meninger. 
+En blogg kan vere ein grei innfallsvinkel for å følgje diskusjoner i ulike fora. Ver merksam på kven som står bak bloggen då dei ofte har ein dagbokform og reflekterer personlege erfaringar og meiningar. Dei bygger derfor ikkje alltid på etterprøvbare og vitskaplege dokumenterte påstander.  erfaringer og meninger. 
 
 ::: tip Tips!
 Undersøk om det finnes fagblogger på området du skriv innanfor. Sjå for eksempel bloggen til [Forskning.no](https://blogg.forskning.no/).
