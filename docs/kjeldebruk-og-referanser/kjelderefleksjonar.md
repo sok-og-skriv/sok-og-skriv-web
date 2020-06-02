@@ -9,9 +9,10 @@ Når ein vurderer og reflekterar kan dette gjerast mykje likt som når ein vurde
 
 ## Er kjelda truverdig?
 
-### Forfattar Alle kjelder bør vurderast ut frå kven forfatteren har. Er han/ho fagekspert på området, eller har forfattaren ein anna bakgrunn? Dette bør du undersøke før du nytter kjelda i oppgåva di. Når du har ei aktuell kjelde kan du undersøke om: 
-Forfatteren har skrive noko meir om same emne. Søk gjerne forfattaren opp i [Oria](https://oria.no "Oria")eller Google.0
-- 
+### Forfattar 
+Alle kjelder bør vurderast ut frå kven forfatteren har. Er han/ho fagekspert på området, eller har forfattaren ein anna bakgrunn? Dette bør du undersøke før du nytter kjelda i oppgåva di. Når du har ei aktuell kjelde kan du undersøke om: 
+Forfatteren har skrive noko meir om same emne. Søk gjerne forfattaren opp i [Oria](https://oria.no "Oria")eller Google.
+
 ### Utgjevar/ansvarleg
 
 Utgjevar eller den ansvarlege kan vere med på å påverke innhaldet. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. Kva blir utgjeve på forlaget eller i tidsskriftet? Sjå etter ei skildring av kva dei er interessert i å gje ut, og kva tema dei vanlegvis dekker. Undersøk også forlaget og tidsskriftet i [«Register over vitenskapelige publiseringskanaler»](https://dbh.nsd.uib.no/publiseringskanaler/Forside). Om forlaget eller tidsskrifter står oppført som anten nivå 1 eller nivå 2 kanalar, kan du regne med at det er eit seriøst og godt forlag eller tidsskrift. 
@@ -25,6 +26,7 @@ Ta alltid ei vurdering av kjelda sine referanser og tilvisingar for å sjå kven
 ## Relevans
 
 ### Når er kjelda blitt til?
+
 Publiseringstidspunkt for kjelda skal du alltid sjekke. Ofte er vi ute etter informasjon som er oppdatert, og som gjev den nyaste kunnskapen innan fagfeltet. Derfor vil det vere aktuelt å tenkje kjelder frå dei siste 5-10 åra. Andre ganger er vi spesielt ute etter eldre informasjon. Det kan vere informasjon publisert innanfor ein historisk periode eller i eit spesifikt år. Her kan det vere aktuelt med referansar publisert for meir enn 5-10 år sidan. 
 
 For å sikre deg oppdatert kunnskap bør du skaffe siste utgåve av ein bok, dersom den har kome i fleire utgåver. 
@@ -69,26 +71,38 @@ Sjå på teksten i lys av andre tekster. Still følgjande spørsmål:
 
 Du har funne tre interessante treff på søket ditt om helse og fysisk aktivitet. Korleis vurderer du desse tre kjeldene? 
 
-::: oppgave Kjelde 1
-** [Helseeffekter av fysisk aktivitet](https://www.fhi.no/ml/aktivitet/helseeffekter-av-fysisk-aktivitet/)**
-Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
-:::: details Vårt vurderingforslag
+Kva type kjelde er det? 
+Er kjelda truverdig? 
+Kven står som ansvarleg? 
+Kva er det teksten ønskjer å formidle? 
+Kva er bodskapen til kjelda?
 
+::: oppgave Kjelde 1
+[**Helseeffekter av fysisk aktivitet**](https://www.fhi.no/ml/aktivitet/helseeffekter-av-fysisk-aktivitet/)
+
+:::: details Vårt vurderingforslag
 Dette er ein artikkel publisert på folkehelseinstituttet si nettisde i 2019. Her kan me vurdere utgjevar som truverdig og innhaldet som oppdatert. Artikkelen innleiier med å vise til tidlegare forsking og har ei fyldig kjeldeliste til sist. Her kunne det vere nyttig å lese artikkelen for å danne eg eit bilete av feltet for deretter å gå nærare inn i stoffet via forskinga det blir vist til. Både folkehelsesintituttet sin artikkel og referansar kan fungere som kjelder.
 ::::
 ::: 
 
 ::: oppgave Kjelde 2
-** [Gjør du dette hver dag, forebygger du 30 sykdommer]( https://www.klikk.no/helse/gar-du-i-rask-gange-hver-dag-forebygger-du-mot-30-ulike-sykdommer-6817180)**
-Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
+[**Gjør du dette hver dag, forebygger du 30 sykdommer**]( https://www.klikk.no/helse/gar-du-i-rask-gange-hver-dag-forebygger-du-mot-30-ulike-sykdommer-6817180)
+
 :::: details Vårt vurderingsforslag 
 Dette er ei sak frå nettmagasinet klikk.no publisert i 2019. Saka viser til forsking, men har inga kjeldeliste. Dersom innhaldet er relevant kan det vere aktuelt å søke vidare på forsinka det blir vist til, men saka frå klikk.no fungerer dåleg som kjelde. Dersom du ønskjer å seie noko om dekninga av helsestoff i media kan  saka fungere som ein illustrasjon. 
 ::::
 ::: 
 
 ::: oppgave Kjelde 3
-** [Fysisk aktivitet og psykisk helse - Hvordan kan sykepleiere fremme fysisk aktivitet for mennesker med depresjon?]( https://hdl.handle.net/11250/2653415)**
-Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
+[**Fysisk aktivitet og psykisk helse - Hvordan kan sykepleiere fremme fysisk aktivitet for mennesker med depresjon?**]( https://hdl.handle.net/11250/2653415)
+
+Kva type kjelde er det? 
+Er kjelda truverdig? 
+Kven står som ansvarleg? 
+Kva er det teksten ønskjer å formidle? 
+Kva er bodskapen til kjelda?
+
+
 :::: details Vårt vurderingforslag
 Dette er ei bacheloroppgåve frå 2019. Dersom oppgåva er relevant for ditt tema, kan kjeldelista vere nyttig å sjå nærare på. Som ein hovudregel tilrår me ikkje studentoppgåver som kjelder, unntaket er om det kjem fram heilt ny informasjon. Sjekk ande kjelder først og vurder kritisk om du treng å vise til bacheloroppgåva.
 ::::
