@@ -6,17 +6,19 @@ prev: "../skriving/formelle-krav-til-oppsett"
 
 # ![](/images/illustrasjoner_kildehenvisning_500x450.png) Kjeldebruk
 
-All forsking tek utgongspunkt i andre sitt arbeid – kalla kjelder. I ei god oppgåve byggjer teksten på kunnskap og informasjon andre har skrive. Utan å vise til forsking, kunnskap og fagleg informasjon, står oppgåva di på bar bakke. Eit godt arbeid har eit bevisst bruk av sentrale og vitskaplege kjelder, og bygger vidare på eksisterande kunnskap. 
+God forsking bygger vidare på eksisterande kunnskap, det er dette me kallar kjeldebruk. Når du skriv akademiske tekstar blir det forventa du viser til gode kjelder. Utan bruk av relevant kunnskap står oppgåva di på bar bakke. 
 
 <Video id="GPR0phJIsuk" />
 
-Å nytte sentrale og vitskaplege kjelder som er relevant for oppgåva er ein sentral del av skriveprosessen. 
+Å nytte relevante vitskaplege kjelder er ein sentral del av skriveprosessen. 
 
-Kva kjelder som er best å nytte vil varie frå fag til fag, og frå oppgåve til oppgåve. Aktuelle kjelder kan du finne overalt: bøker, artiklar, ulike nettsider, nyhende og kart. Bruk problemstillingen til å orientere deg i aktuelle kilder. Nytt gjerne rettleiarar, medstudentar og andre fagfolk til å finne ut kva kjelder som er gode innnan ditt fagfelt. 
+Kva kjelder som er best å nytte vil varie frå fag til fag, og frå oppgåve til oppgåve. Aktuelle kjelder kan vere alt frå bøker og artiklar, til ulike nettsider, nyhende og kart. Bruk problemstillinga til å orientere deg. Nytt gjerne rettleiarar, medstudentar og andre fagfolk til å finne ut kva kjelder som er gode innnan ditt fagfelt. 
 
 # Kvifor skal ein referere til andre sitt arbeid? 
 
-Undervegs i oppgåva di skal du nytte kjeldetilvisningar, og til slutt i oppgåva ei samla referanseliste der kjeldetilvisningane samlast. Grunnen er både å gjere det mogeleg å kontrollere opplysningane du nytter og å kunne slå opp for å lese meir.
+Undervegs i oppgåva di skal du nytte kjeldetilvisningar. Kjeldetilvisinga viser lesaren vidare til kjeldelista (også kalla referaneliste eller litteraturliste), der ein finn fullstendig informasjon om opphavsperson, årtal og utgjevar.
+
+Dette gjer det i sin tur mogeleg for lesaren å etterprøve opplysningane, eller slå opp for å lese meir.
 
 Nøyaktig dokumentasjon av kjelder gjer lesaren i stand til raskt å:
 
@@ -24,8 +26,8 @@ Nøyaktig dokumentasjon av kjelder gjer lesaren i stand til raskt å:
 - kontrollere fakta og etterprøve resultata
 - setje seg inn i emne
 
-Ein anna grunn til at det er naudsynt å ha kjeldehenvisningar er for å unngå plagiat. 
-Plagiat er å ha framstilt andre sine resultater, tanker, ideer eller formuleringer som om dei var dine eigne. Dette regnes som intellektuelt tjuveri i følgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). Omfattande og/eller bevisst plagiat reknast som fusk, og vil få store følgjer. 
+Korrekt føring av Kjeldehenvisningar og kjeldeliste er avgjerande for å unngå plagiat. 
+Plagiat er å ha framstilt andre sine resultat, tankar, idear eller formuleringar som om dei var dine eigne. Dette reknast som intellektuelt tjuveri i følgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). Omfattande og/eller medvite plagiat reknast som fusk, og vil få store følgjer. 
 
 
 
