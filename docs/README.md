@@ -57,7 +57,7 @@ footer: Søk og skriv ... [Trenger vi noe mer? Kanskje noe om rettigheter?]
   <div class="content">
     <h2><a href="/referansestiler">Referansestiler</a></h2>
     <span class="tags">
-      <span class="tag"><a href="/referansestiler/apa/">APA 6th</a></span>
+      <span class="tag"><a href="/referansestiler/apa-6th">APA 6th</a></span>
       <span class="tag"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
       <span class="tag"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
       <span class="tag"><a href="/referansestiler/harvard">Harvard</a></span>
