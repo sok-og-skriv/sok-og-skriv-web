@@ -46,7 +46,6 @@ module.exports = {
   ],
   '/en/': [
     '/en/about/',
-    '/en/video/',
     '/en/about/contact-information',
   ]
 }

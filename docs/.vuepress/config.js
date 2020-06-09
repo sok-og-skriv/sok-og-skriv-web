@@ -44,19 +44,7 @@ module.exports = {
               { text: 'Vancouver', link: '/referansestiler/vancouver' }
             ] */
           },
-          {
-            text: 'Mer',
-            ariaLabel: 'Om Søk og skriv meny',
-            items: [
-              { text: 'Om Søk og skriv', link: '/om/' },
-              { text: 'Videoer', link: '/video/' },
-              { text: 'Kontaktinformasjon', link: '/om/kontaktinformasjon/' },
-              { text: 'Søk og skriv i undervisning', link: '/om/sok-og-skriv-i-undervisning/' },
-              { text: 'Markdown demo', link: '/om/markdown-demo/' },
-              { text: 'Gitlab-arbeidsflyt', link: '/om/gitlab-arbeidsflyt/' },
-              { text: 'Brukertest', link: '/om/brukertest/' }
-            ]
-          }
+          { text: 'Videoer', link: '/video/' },
         ],
         sidebar: {
           ...sidebarNo
@@ -73,15 +61,7 @@ module.exports = {
           { text: 'Reading', link: '/en/reading/' },
           { text: 'Writing', link: '/en/writing/' },
           { text: 'Sources and referencing', link: '/en/sources-and-referencing/' },
-          {
-            text: 'More',
-            ariaLabel: 'About Search and write menu',
-            items: [
-              { text: 'About', link: '/en/about/' },
-              { text: 'Videos', link: '/en/video/' },
-              { text: 'Contact', link: '/en/about/contact-information/' }
-            ]
-          }
+          { text: 'Videos', link: '/en/video/' },
         ],
         sidebar: {
           ...sidebarEn

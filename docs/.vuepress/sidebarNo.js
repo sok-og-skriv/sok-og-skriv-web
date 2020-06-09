@@ -89,7 +89,6 @@ module.exports = {
   ],
   '/': [
     '/om/',
-    '/video/',
     '/om/kontaktinformasjon',
     '/om/sok-og-skriv-i-undervisning',
     '/om/markdown-demo',
