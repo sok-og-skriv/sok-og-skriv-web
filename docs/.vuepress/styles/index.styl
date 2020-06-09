@@ -19,21 +19,33 @@ a.active.sidebar-link
 .page-edit .last-updated .time
   color: #666 !important
 
-.home .hero img {
-  max-height: 430px;
-}
+.home 
+  .hero
+    display: none;
+    img
+      max-height: 430px;
+    .description 
+      max-width: 40rem !important
+      font-size: calc(16px + (32 - 16) * ((100vw - 300px) / (1600 - 300))) !important
+      line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300))) !important
+      color: #2c3e50 !important
+  .feature
+    flex-grow: 1 !important;
+    flex-basis: 23% !important;
+    max-width: 23% !important;
 
-.home .hero .description 
-  max-width: 40rem !important
-  font-size: calc(16px + (32 - 16) * ((100vw - 300px) / (1600 - 300))) !important
-  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300))) !important
-  color: #2c3e50 !important
-
-.home .feature {
-  flex-grow: 1 !important;
-  flex-basis: 23% !important;
-  max-width: 23% !important;
-}
+.footer
+  font-size: 0.9rem
+.footer-links
+  text-align: center
+  font-size: 0.9rem
+  padding: 1rem
+  a 
+    color: #4e6e8e
+  .align-right
+    text-align: right
+  .align-left
+    text-align: left
 
 @media (max-width: 719px) {
   .home .feature {
@@ -195,6 +207,7 @@ figcaption {
       font-size: 1.25rem
 
 .cards 
+  margin-top: 2rem
   display: grid
   grid-template-columns: 1fr 1fr
   grid-gap: 1rem
@@ -265,7 +278,6 @@ figcaption {
   grid-gap: 1rem
   .video .title 
     display: none
-
 
 .search-table
   display: grid
