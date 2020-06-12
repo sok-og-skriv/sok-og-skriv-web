@@ -23,7 +23,7 @@ footer: Søk og skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.
     </div>
     <div class="content">
       <h2><a href="/studieteknikk">Studieteknikk</a></h2>
-      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave, må være bevisst på hva og hvordan du leser.</p>
+      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave, må du være bevisst på hva og hvordan du leser.</p>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ footer: Søk og skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.
     </div>
     <div class="content">
       <h2><a href="/kjeldebruk-og-referanser">Kjeldebruk</a></h2>
-      <p>All forsking bygger på kilder. Kva kjelder som er mest nyttig vil variere frå fag til fag. </p>
+      <p>All forsking bygger på kjelder. Kva kjelder som er mest nyttige, vil variere frå fag til fag. </p>
     </div>
   </div>
 </div>
