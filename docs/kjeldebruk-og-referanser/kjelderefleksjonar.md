@@ -5,17 +5,16 @@ date: "2020-04-28"
 # Kjelderefleksjonar
 Når du har funne ei kjelde må du vurdere om denne er god og relevant for ditt arbeid. For å vurdere om ei kjelde er god, må du ta omsyn til fleire faktorar: Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Andre spørsmål du bør stille deg er kven kjelda er produsert for, korleis kjelda refererer til andre og tidspunktet for publisering. For å vurdere i kva grad kjelda er relevant for deg, kan det vere nyttig å analysere teksten nærare: kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
 
-Når ein vurderer og reflekterar kan dette gjerast mykje likt som når ein vurderar innhaldet i det ein les. Sjå [Lesemåtar](/studieteknikk/lesemåter) for korleis du kan vurdere innhaldet i eit tekst. 
+Sjå [Lesemåtar](/studieteknikk/lesemåter) for korleis du kan vurdere innhaldet i eit tekst. 
 
 ## Er kjelda truverdig?
 
 ### Forfattar 
-Alle kjelder bør vurderast ut frå kven forfatteren har. Er han/ho fagekspert på området, eller har forfattaren ein anna bakgrunn? Dette bør du undersøke før du nytter kjelda i oppgåva di. Når du har ei aktuell kjelde kan du undersøke om: 
-Forfatteren har skrive noko meir om same emne. Søk gjerne forfattaren opp i [Oria](https://oria.no "Oria")eller Google.
+Når du skal vurdere ei kjelde, kan ein god start vere å sjå nærare  på forfattaren. Blir forfattaren tydeleg presentert? Er det ein forfattar, eller er det fleire? Er det ein person, eller kanskje ein organisasjon? Kan du finne ut meir om bakgrunn og fagområde? Eit søk på forfattarnamn i [Oria](https://oria.no "Oria")eller Google kan gje nyttig informasjon.
 
 ### Utgjevar/ansvarleg
 
-Utgjevar eller den ansvarlege kan vere med på å påverke innhaldet. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. Kva blir utgjeve på forlaget eller i tidsskriftet? Sjå etter ei skildring av kva dei er interessert i å gje ut, og kva tema dei vanlegvis dekker. Undersøk også forlaget og tidsskriftet i [«Register over vitenskapelige publiseringskanaler»](https://dbh.nsd.uib.no/publiseringskanaler/Forside). Om forlaget eller tidsskrifter står oppført som anten nivå 1 eller nivå 2 kanalar, kan du regne med at det er eit seriøst og godt forlag eller tidsskrift. 
+Utgjevar eller ansvarleg kan vere med på å påverke innhaldet. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. Kva blir utgjeve på forlaget eller i tidsskriftet? Sjå etter ei skildring av kva dei er interessert i å gje ut, og kva tema dei vanlegvis dekker. Undersøk også forlaget og tidsskriftet i [«Register over vitenskapelige publiseringskanaler»](https://dbh.nsd.uib.no/publiseringskanaler/Forside). Om forlaget eller tidsskrifter står oppført som anten nivå 1 eller nivå 2 kanalar, kan du regne med at det er eit seriøst og godt forlag eller tidsskrift. 
 
 ### Kjeldebruk
 - I kva grad refererer forfattaren til andre kjelder?
@@ -27,22 +26,22 @@ Ta alltid ei vurdering av kjelda sine referanser og tilvisingar for å sjå kven
 
 ### Når er kjelda blitt til?
 
-Publiseringstidspunkt for kjelda skal du alltid sjekke. Ofte er vi ute etter informasjon som er oppdatert, og som gjev den nyaste kunnskapen innan fagfeltet. Derfor vil det vere aktuelt å tenkje kjelder frå dei siste 5-10 åra. Andre ganger er vi spesielt ute etter eldre informasjon. Det kan vere informasjon publisert innanfor ein historisk periode eller i eit spesifikt år. Her kan det vere aktuelt med referansar publisert for meir enn 5-10 år sidan. 
+Sjekk publiseringstidspunkt for kjelda. Ofte er vi ute etter informasjon som er oppdatert, og som gjev den nyaste kunnskapen innan fagfeltet. Her vil det vere aktuelt å tenkje kjelder frå dei siste 5-10 åra. Andre gonger er vi ute etter eldre informasjon. Det kan vere informasjon publisert innanfor ein historisk periode eller i eit spesifikt år. Her kan det vere aktuelt med referansar publisert for meir enn 5-10 år sidan. 
 
-For å sikre deg oppdatert kunnskap bør du skaffe siste utgåve av ein bok, dersom den har kome i fleire utgåver. 
-- Undersøk utgjevnadsstidspunkt ved å sjå i bokens kolofonside (oftast baksiden av tittelbladet).
-- Undersøk kva utgåve det er. Er det ein ny og revidert utgåve, eller eit opptrykk/nytt opplag av tidlegare utgåve?  
+For å sikre deg oppdatert kunnskap bør du skaffe siste utgåve av ei bok, dersom ho har kome i fleire utgåver. 
+- Undersøk utgjevnadsstidspunkt ved å sjå kolofonsida i boka (oftast baksida av tittelbladet).
+- Undersøk kva utgåve det er. Er det ei ny og revidert utgåve, eller eit opptrykk/nytt opplag av tidlegare utgåve?  
 - Undersøk datering på kjelda sine eigne referansar.
-- Nytter du ressurser på nett, bør du sjekke når informasjonen er publisert, eller sist oppdatert.
+- Nytter du ressursar på nett, bør du sjekke når informasjonen er publisert, eller sist oppdatert.
 
 ### Målgruppe og sjanger
 
-Kjelda bør vurderast i lys av kven den er skrive for. All tekst er skrive med tanke på ein lesar, der den tenkte lesar er med på å forme teksten. Ein måte å identifisere tekstens målgruppe på er gjennom å analysere teksten sin sjanger - kva type kjelde kjelda er. 
+Kjelda bør vurderast i lys av kven ho er skrive for. All tekst er skrive med tanke på ein lesar, der den tenkte lesaren er med på å forme teksten. Ein måte å identifisere målgruppa på er gjennom å analysere teksten sin sjanger - kva type kjelde kjelda er. 
 
 ## Tekstanalyse
-For å kunne sei meir om kjelda er relevant for oppgåva di, bør du analysere teksten for å finne ut kvifor den er skriven og kva formål forfattaren har hatt med å skrive teksten. Du bør du ta eit blikk på korleis forfattaren formidler eit materiale eller resultatet. 
+Det kan vere nyttig å analysere teksten for å finne ut kvifor han er skriven og kva formål forfattaren har hatt. Du bør du ha eit blikk på korleis forfattaren formidlar sitt materiale eller sine resultat. 
 
-Det dreier seg om å finne ut kva forfattaren ønskjer å formidle til deg som lesar. Du skal du også finne ut korleis forfattaren formidlar resultata sine ved å sjå på retoriske grep. Til slutt set tekstanalysen deg i stand til å sjå kva faglege samanhenger forfattaren har utvikla teksten nnanfor. Korleis er teksten satt i samaheng med andre tekstar? Korleis er språket? 
+Det dreier seg om å finne ut kva forfattaren ønskjer å formidle til deg som lesar. Du kan finne ut korleis forfattaren formidlar resultata sine ved å sjå på retoriske grep. Til slutt set tekstanalysen deg i stand til å sjå kva faglege samanhenger forfattaren har utvikla teksten innanfor. Korleis er teksten satt i samaheng med andre tekstar? Korleis er språket? 
 
 - Kva finn forskaren i materialet sitt?
 - Kva materiale baserer forskaren seg på? Kva type empiri ligg til grunn?
@@ -56,20 +55,20 @@ Det dreier seg om å finne ut kva forfattaren ønskjer å formidle til deg som l
 - Korleis vil forfattaren overbevise deg om at perspektivet han/ho har er fruktbart?
 - Korleis får han/ho deg til å eventuelt ignorere andre perspektiv eller svakheiter i presentasjonen?
 - Kva gjer han/ho for å halde på merksemda di?
-- Korleis blir du som lesar vekka? Kva eksempler vel forfattaren å vise fram? Er de morosame? Urovekkjande eller opplysande?  
+- Korleis blir du som lesar vekka? Kva eksempel vel forfattaren å vise fram? Er de morosame? Urovekkjande eller opplysande?  
 - Kva haldning har forfattaren til stoffet som blir presentert? Korleis blir du som lesar inkludert? Er det eit engasjement som smitter over på lesaren? Korleis er tonen i teksten? 
 
-### Korleis forholder teksten seg til andre tekster?
+### Korleis forheld teksten seg til andre tekstar?
 
-Sjå på teksten i lys av andre tekster. Still følgjande spørsmål:
+Sjå på teksten i lys av andre tekstar. Still følgjande spørsmål:
 
 - Kva er teksten eit svar på/ein utfordring til?
-- Er teksten prega av andre tekster i samtida?
+- Er teksten prega av andre tekstar i samtida?
 
 
 # Øving: Er desse tre gode kjelder? 
 
-Du har funne tre interessante treff på søket ditt om helse og fysisk aktivitet. Korleis vurderer du desse tre kjeldene? 
+Du har funne tre interessante treff på eit søk på "helse og fysisk aktivitet". Korleis vurderer du desse tre kjeldene? 
 
 Kva type kjelde er det? 
 Er kjelda truverdig? 
@@ -81,7 +80,7 @@ Kva er bodskapen til kjelda?
 [**Helseeffekter av fysisk aktivitet**](https://www.fhi.no/ml/aktivitet/helseeffekter-av-fysisk-aktivitet/)
 
 :::: details Vårt vurderingforslag
-Dette er ein artikkel publisert på folkehelseinstituttet si nettisde i 2019. Her kan me vurdere utgjevar som truverdig og innhaldet som oppdatert. Artikkelen innleiier med å vise til tidlegare forsking og har ei fyldig kjeldeliste til sist. Her kunne det vere nyttig å lese artikkelen for å danne eg eit bilete av feltet for deretter å gå nærare inn i stoffet via forskinga det blir vist til. Både folkehelsesintituttet sin artikkel og referansar kan fungere som kjelder.
+Dette er ein artikkel publisert på folkehelseinstituttet si nettisde i 2019. Her kan me vurdere utgjevar som truverdig og innhaldet som oppdatert. Artikkelen innleiier med å vise til tidlegare forsking og har ei fyldig kjeldeliste til sist. Her kunne det vere nyttig å lese artikkelen for å danne eg eit bilete av feltet for deretter å gå nærare inn i stoffet via forskinga det blir vist til. Både folkehelsesintituttet sin artikkel og referansar kan fungere som kjelder. Teksten er opplysande bodskapen ser ut til å vere at fysisk aktivitet er godt for helsa.
 ::::
 ::: 
 
@@ -89,7 +88,7 @@ Dette er ein artikkel publisert på folkehelseinstituttet si nettisde i 2019. He
 [**Gjør du dette hver dag, forebygger du 30 sykdommer**]( https://www.klikk.no/helse/gar-du-i-rask-gange-hver-dag-forebygger-du-mot-30-ulike-sykdommer-6817180)
 
 :::: details Vårt vurderingsforslag 
-Dette er ei sak frå nettmagasinet klikk.no publisert i 2019. Saka viser til forsking, men har inga kjeldeliste. Dersom innhaldet er relevant kan det vere aktuelt å søke vidare på forsinka det blir vist til, men saka frå klikk.no fungerer dåleg som kjelde. Dersom du ønskjer å seie noko om dekninga av helsestoff i media kan  saka fungere som ein illustrasjon. 
+Dette er ei sak frå nettmagasinet klikk.no publisert i 2019. Saka viser til forsking, men har inga kjeldeliste. Dersom innhaldet er relevant kan det vere aktuelt å søke vidare på forsinka det blir vist til, men saka frå klikk.no fungerer dåleg som kjelde. Dersom du ønskjer å seie noko om dekninga av helsestoff i media kan  saka fungere som ein illustrasjon. Teksten er opplysande, men sett på spissen. Overskrifta og innleiinga er særleg spissa, og ein bør ta med i vurderinga at teksten er publisert i ein kommersiell komersiell kanal.
 ::::
 ::: 
 
@@ -104,6 +103,6 @@ Kva er bodskapen til kjelda?
 
 
 :::: details Vårt vurderingforslag
-Dette er ei bacheloroppgåve frå 2019. Dersom oppgåva er relevant for ditt tema, kan kjeldelista vere nyttig å sjå nærare på. Som ein hovudregel tilrår me ikkje studentoppgåver som kjelder, unntaket er om det kjem fram heilt ny informasjon. Sjekk ande kjelder først og vurder kritisk om du treng å vise til bacheloroppgåva.
+Dette er ei bacheloroppgåve frå 2019. Dersom oppgåva er relevant for ditt tema, kan kjeldelista vere nyttig å sjå nærare på. Som ein hovudregel tilrår me ikkje studentoppgåver som kjelder, unntaket er om det kjem fram heilt ny informasjon. Sjekk ande kjelder først og vurder kritisk om du treng å vise til bacheloroppgåva. 
 ::::
 ::: 
