@@ -50,7 +50,9 @@ Eriksen, T.H. og Nielsen, F.S. (2013) _A history of anthropology._ 2. utg. Lon
 
 ::: details I EndNote
 
-blabla 
+Bok: Legges inn som "book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher.
 ::: 
 :::: 
 
@@ -75,7 +77,9 @@ Engen, T.O. (2010) Enhetsskolen og minoritetene, i Lund, A.C.B. og Moen, B.B. (r
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Book Section".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Editor (trykk "enter" mellom hvert navn hvis flere), Book title, Place published, Publisher, Pages.
 ::: 
 :::: 
 
@@ -98,7 +102,9 @@ Sætre, A. (2009) _Dysleksi og selvoppfatning: en kvalitativ intervjuundersøke
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Thesis".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, University, Thesis Type.
 ::: 
 :::: 
 
@@ -126,7 +132,11 @@ Dyregrov, A. og Straume, M. (2003) Kollektiv ivaretakelse etter katastrofer: erf
 
 ::: details I EndNote
 
-blabla 
+Artikkel fra trykt tidsskrift: Legges inn som "Journal article". 
+
+Artikkel hentet fra internett: Legges inn som "Electronic article".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages, Doi (eller ev. URL hvis hentet fra internett, men DOI er å foretrekke).
 ::: 
 :::: 
 
@@ -155,7 +165,9 @@ Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober. Tilgjengelig
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Newspaper article".
+
+Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Issue date. 
 ::: 
 :::: 
 
@@ -180,7 +192,9 @@ Espeland, J. og Tuv, N. (2019) _Slik måler SSB ulikhet_. Tilgjengelig fra: http
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: "Web page"
+
+Fyll ut feltene: Author (trykk enter mellom hvert navn hvis flere), Year, Title, Access Date, Access Year, URL. 
 ::: 
 :::: 
 
@@ -211,7 +225,9 @@ Heflin, M.T. (2015) Geriatric health maintenance, i _UpToDate_. Tilgjengelig fr
 
 ::: details I EndNote
 
-blabla 
+ Legges inn som: "Electronic Book Section"
+
+Fyll ut feltene: Author, Year, Title, Book Title, URL og Access Date. 
 ::: 
 :::: 
 
@@ -232,7 +248,9 @@ Universell utforming (2015) i _Wikipedia_. Tilgjengelig fra: https://no.wikiped
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: "Web Page"
+
+Fyll ut feltene: Author (artikkeltittel), Year, Title (navn på oppslagsverket), URL. 
 ::: 
 :::: 
 
@@ -255,7 +273,9 @@ Risa, G. (2003) Munthe, Margrethe, i_ _Norsk biografisk leksikon:_ Bind 6 Las
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: "Encyclopedia"
+
+Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publisher. 
 ::: 
 :::: 
 
@@ -277,7 +297,9 @@ Knudsen, K. (1865) _Børsen i Bergen_ \[Fotografi\]. Universitetsbiblioteket i B
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: "Artwork"
+
+Fyll ut feltene: Artist, Year, Title, Description (her legges all info om museum/galleri etc., by, inventarnummer), Type of Work 
 ::: 
 :::: 
 
@@ -307,7 +329,9 @@ _Northern lights (aurora borealis) over Tromso, Troms, Northern Norway _(u.å.)
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: "Artwork"
+
+Fyll ut feltene: Artist, Year, Title, Description (her legges all info om museum/galleri etc., by, inventarnummer), Type of Work, URL, Access date 
 ::: 
 :::: 
 
@@ -334,7 +358,9 @@ Sivertsen, I.M. (2008) _Fortress ’round my heart_ \[CD\], Ida Maria. Oslo: Wat
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Audivisual Material".
+
+Fyll ut feltene: Author Title, Year, Publisher, Performers og Format.
 ::: 
 :::: 
 
@@ -357,7 +383,13 @@ Helsepersonelloven. _Lov 2. juli 1999 nr. 64 om helsepersonell m.v._
 
 ::: details I EndNote
 
-blabla 
+Fra trykte kilder: Legges inn som "Gouvernment document".
+
+Fyll ut feltene: Author (korttittelen til loven), Year, Title (full tittel på loven).
+
+Fra internett: Legges inn som: "Web page"
+
+Fyll ut feltene: Author (korttittelen til loven), Year, Title (full tittel på loven), Access Date og Access Year, URL.
 ::: 
 :::: 
 
@@ -377,7 +409,13 @@ Forskrift om plan for grunnskolelærerutdanning. _Forskrift 1. mars 2010 nr. 295
 
 ::: details I EndNote
 
-blabla 
+Fra trykte kilder: Legges inn som "Gouvernment document".
+
+Fyll ut feltene: Author (korttittelen til loven), Year, Title (full tittel på loven).
+
+Fra internett: Legges inn som: "Web page"
+
+Fyll ut feltene: Author (korttittelen til loven), Year, Title (full tittel på loven), Access Date og Access Year, URL. 
 ::: 
 :::: 
 
@@ -421,7 +459,9 @@ Ot.prp. nr. 32 (2007–2008). _Om lov om planlegging og byggesaksbehandling (pla
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Government document".
+
+Fyll ut feltene: Author (St. meld nr. med komma til slutt for å unngå invertering), Year, Title, Place Published, Publisher. 
 ::: 
 :::: 
 
@@ -441,7 +481,9 @@ NOU 1999: 13. _Kvinners helse i Norge._
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Government document".
+
+Fyll ut feltene: Author (NOU-nummerering med komma til slutt for å unngå invertering), Year, Title, Place Published, Publisher.
 ::: 
 :::: 
 
@@ -463,7 +505,9 @@ Folkehelseinstituttet (2006) _Rettleiar til forskrift om smittevern i helsetenes
 
 ::: details I EndNote
 
-blabla 
+Fylles ut som "Report" 
+
+Fyll ut feltene: Author, Year, Title, Series Title, Report Number, Place Published, Institution, Access Date, URL.
 ::: 
 :::: 
 
@@ -491,7 +535,9 @@ Shakespeare, W. (2002) _Hamlet: prins av Danmark._ Gjendiktet av Øyvind Berg. 
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Classical Work".
+
+Fyll ut feltene: Attribution, Year, Title,Translator, Place Published, og Publisher. 
 ::: 
 :::: 
 
@@ -522,7 +568,9 @@ Utaker, A. (2010) _Det perseptuelles antropologi: persepsjon og bilder som filos
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Unpublished Work".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Series Title, Place Published, Publisher, Institution, Type of Work
 ::: 
 :::: 
 
@@ -542,7 +590,9 @@ Ting, J.Y., Florsheim, P. og Huang, W. (2008) _Mental health help-seeking in et
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: Electronic Article
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Periodical Title, Type of Work (Ikke antatt)
 ::: 
 :::: 
 
@@ -562,7 +612,10 @@ Briscoe, R. (2009) Egocentric spatial representation in action and perception. A
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: Electronic Article
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Periodical Title, Type of Work (Antatt)
+ 
 ::: 
 :::: 
 
