@@ -632,6 +632,29 @@ Fullt navn, tittel/rolle (type kommunikasjon/kontekst, dato)
 Ifølge Ole Olsen, professor i semantikk ved Universitetet i Bergen (personlig diskusjon på hans kontor, 22. mars 2015) ...
 :::
 
+###Podcast
+
+:: teksten
+(Etternavn, Årstall)
+
+Ifølge Furuseth, Kjøs, og Rashidi (2020), så er unge opptatt av...
+:::
+
+:::: ref
+Etternavn,N.N. (Årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato)._
+
+Furuseth,C.K, Kjøs, P. og Rashidi, K. (2020). Hva er lykke? [podcast] God bedring. Tilgjengelig fra:https://radio.nrk.no/podkast/god_bedring/l_e9bb24dd-4744-48e5-bb24-dd474488e524 (Hentet: 15. juni 2020)-.
+
+::: details I EndNote
+
+Legges inn som: Podcast
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere),....
+ 
+::: 
+::::
+
+
 ### Kompendier
 
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
