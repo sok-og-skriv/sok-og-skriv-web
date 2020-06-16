@@ -114,6 +114,8 @@ Det er mange ulike stoffer som påvirker synapsens funksjon (Hagenes, 2012, s. 
 Hagenes, M. (2012) _Fysioterapi til MS-pasienter i palliativ fase: fra rehabilitering til dehabilitering_. Masteroppgave. Universitetet i Tromsø. Tilgjengelig fra: https://munin.uit.no/handle/10037/4530 (Hentet: 8. mai 2019).
 :::
 
+## Artikler
+
 ### Tidsskriftartikkel
 
 [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI) oppgis om artikkelen har det. Nettadresse/URL oppgis bare for artikler som kun er tilgjengelig på nett, og om DOI ikke finnes. Dersom nettadressen er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres. Ved bruk av DOI-nummer utelates hentet-dato.
