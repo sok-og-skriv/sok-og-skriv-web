@@ -632,9 +632,9 @@ Fullt navn, tittel/rolle (type kommunikasjon/kontekst, dato)
 Ifølge Ole Olsen, professor i semantikk ved Universitetet i Bergen (personlig diskusjon på hans kontor, 22. mars 2015) ...
 :::
 
-###Podcast
+### Podcast
 
-:: teksten
+::: teksten
 (Etternavn, Årstall)
 
 Ifølge Furuseth, Kjøs, og Rashidi (2020), så er unge opptatt av...
