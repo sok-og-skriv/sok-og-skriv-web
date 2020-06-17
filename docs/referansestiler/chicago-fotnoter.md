@@ -95,11 +95,9 @@ blabla
 :::: 
 
 
-
 ### Kapittel i redigert bok
 
 :::: ref
-^x^ Etternavn, "Kapitteltittel", sidetall.
 
 Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag, årstall.
 
@@ -116,15 +114,14 @@ blabla
 :::: 
 
 
-
 ### Bok med flere forfattere (eller redaktører)
 
-Ved 1-3 forfattere listes alle forfatterne, i den rekkefølgen de er satt opp på tittelbladet til boken, både i note og i referanseliste. Ved flere enn 3 forfattere nevnes kun første forfatter, etterfulgt av et al. (et aali = lat. og andre) i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første 7, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti listes bare de første sju, etterfulgt av et al.
 
 :::: ref
 ^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall.eller ^x^ Etternavn et al., _Tittel_, ev. sidetall.
 
-Etternavn, Fornavn, Fornavn Etternavn (, Fornavn Etternavn, Fornavn Etternavn etc.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
+Etternavn, Fornavn, Fornavn Etternavn (Fornavn Etternavn, Fornavn Etternavn osv.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
 
 I boken _Åtskilja och förena: etnologisk forskning om betydelser av kön_ diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
 
