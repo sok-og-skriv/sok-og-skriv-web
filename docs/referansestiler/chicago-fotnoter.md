@@ -5,29 +5,26 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og [forfatter-årstallstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, for at teksten ikke skal bli "avbrutt" av bibliografiske opplysninger. Henvisningene tar en heller inn som fotnoter eller sluttnoter.
+Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og [forfatter-årstallstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
-Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
-
-Finn ut om hvordan du siterer og [henviser i teksten, lager noter og referanseliste](#eksempler-paa-henvisninger) og behandler forskjellige referansetyper.
 
 ## Henvisninger i notene
 
-- Fotnoter settes inn nederst på siden, og nummereres fortløpende 1, 2, 3 og så videre.
-- Ved bruk av sluttnoter plasserer du alle noter helt til slutt i teksten foran referanselisten.
+- Fotnoter nummereres fortløpende 1, 2, 3 og så videre.
+- Ved bruk av sluttnoter plasserer du alle notene til slutt i teksten, foran referanselisten.
 - I notene skriver du den fulle referansen første gang du bruker den. Etter det gir du referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang.
-- Hvis du siterer fra eller refererer til ett eller flere bestemte steder i en tekst, skal du også ha med sidetall.
-- Når du henviser til den samme referansen to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (bruk av _ibid_. (ibidem = lat. på samme sted) frarådes i Chicago 17. utgave).
-- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i "anførselstegn," se de ulike referansetypene under.
-- Ved referanser til e-bøker kan det elektroniske formatet listes, for eksempel    "Kindle" eller "iBooks".
+- Hvis du siterer fra eller viser til bestemte steder i en tekst, skal du også ha med sidetall.
+- Når du henviser til den samme referansen to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (bruk av _ibid_, latin for 'samme sted', frarådes i Chicago 17. utgave).
+- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i "anførselstegn", se de ulike referansetypene under.
+- Ved referanser til e-bøker kan det elektroniske formatet listes, for eksempel "Kindle" eller "iBooks".
 
 ## Referanselisten
 
-- I referanselisten presenteres referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første), og publikasjonsdata (utgiversted, forlag).
+- I referanselisten gis referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første), og publikasjonsdata (utgiversted, forlag).
 - Listen ordnes alfabetisk etter forfatters etternavn. Verk med flere forfattere alfabetiseres etter førsteforfatter.
-- Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for ytterlig informasjon.
+- Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for mer informasjon.
 - Referanser uten forfatter alfabetiseres etter tittel.
-- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publiseringsdato eller sist oppdatert-dato. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
+- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publiseringsdato eller dato for siste oppdatering. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
 - DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
 - Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
 
@@ -35,14 +32,10 @@ Finn ut om hvordan du siterer og [henviser i teksten, lager noter og referanseli
 
 ### Bok
 
-::: teksten
-^x^
-
-Morton Klass definerer myte som "..."^1^
-:::
+Morton Klass definerer myte som "..."1
 
 ::: footnote 
-^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), sidetall.
+^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), ev. sidetall.
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995)_,_ 125.
 :::
@@ -60,10 +53,6 @@ blabla
 :::: 
 
 ### E-bok
-
-::: teksten
-Peter Childs definerer modernisme som "..."^1^
-:::
 
 ::: footnote
 ^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
@@ -83,13 +72,12 @@ blabla
 :::: 
 
 
-
 ### Oversatt bok
 
 ... skildret i romanen _Kelterens drøm_.^2^
 
 ::: footnote
-^x^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), sidetall.
+^x^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), ev. sidetall.
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 :::
@@ -106,17 +94,19 @@ blabla
 :::: 
 
 
-
 ### Kapittel i redigert bok
-
-:::: ref
-^x^ Etternavn, "Kapitteltittel", sidetall.
-
-Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag, årstall.
 
 ... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
 
+::: footnote
+^x^ Etternavn, _Korttittel_, (Utgivelsessted: Forlag, år), ev. sidetall.
+
 ^3^ Åsebø, "Griselda Pollock", 273–274.
+:::
+
+:::: ref
+
+Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
 Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk, 2008.
 
@@ -127,27 +117,34 @@ blabla
 :::: 
 
 
-
 ### Bok med flere forfattere (eller redaktører)
 
-Ved 1-3 forfattere listes alle forfatterne, i den rekkefølgen de er satt opp på tittelbladet til boken, både i note og i referanseliste. Ved flere enn 3 forfattere nevnes kun første forfatter, etterfulgt av et al. (et aali = lat. og andre) i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første 7, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti listes bare de første sju, etterfulgt av et al.
 
-:::: ref
-^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall.eller ^x^ Etternavn et al., _Tittel_, ev. sidetall.
+Eksempel: I _Åtskilja och förena: etnologisk forskning om betydelser av kön_ diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
 
-Etternavn, Fornavn, Fornavn Etternavn (, Fornavn Etternavn, Fornavn Etternavn etc.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
-
-I boken _Åtskilja och förena: etnologisk forskning om betydelser av kön_ diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
+::: footnote
+^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall eller ^x^ Etternavn et al., _Tittel_, ev. sidetall.
 
 ^6^ Lundgren, Lövkrona og Martinsson, _Åtskilja och förena_.
+::: 
+
+::: ref
+Etternavn, Fornavn, Fornavn Etternavn (Fornavn Etternavn, Fornavn Etternavn osv.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
 
 Lundgren, Britta, Inger Lövkrona og Lena Martinsson. _Åtskilja och förena: etnologisk forskning om betydelser av kön_. Umeå: Universitetet, 1996.
 
-I forordet til boken _Kjønnsteori_7 hevdes det at...
+::: 
+
+::: footnote 
+I forordet til _Kjønnsteori_7 hevdes det at...
 
 ^7^ Mortensen et al., _Kjønnsteori_, 11.
+::: 
 
+:::: ref 
 Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal, 2008.
+::: 
 
 ::: details I EndNote
 
@@ -156,17 +153,19 @@ blabla
 :::: 
 
 
-
 ### Bok i flerbindsverk
+
+... dokumentert på grunnlag av kildevalget ….8
+
+::: footnote 
+^8^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
+::: 
 
 :::: ref
 ^x^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
 
 Etternavn, Fornavn, _Tittel_, bindnummer, red. Fornavn Etternavn, _Serietittel_. Utgiversted: Forlag, årstall.
 
-... dokumentert på grunnlag av kildevalget ….8
-
-^8^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 
 Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, red. Knut Mykland, _Norges historie_. Oslo: Cappelen, 1995.
 
