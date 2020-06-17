@@ -35,7 +35,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og 
 Morton Klass definerer myte som "..."1
 
 ::: footnote 
-^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), sidetall.
+^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), ev. sidetall.
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995)_,_ 125.
 :::
@@ -72,13 +72,12 @@ blabla
 :::: 
 
 
-
 ### Oversatt bok
 
 ... skildret i romanen _Kelterens drøm_.^2^
 
 ::: footnote
-^x^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), sidetall.
+^x^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), ev. sidetall.
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 :::
@@ -97,13 +96,17 @@ blabla
 
 ### Kapittel i redigert bok
 
+... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
+
+::: footnote
+^x^ Etternavn, _Korttittel_, (Utgivelsessted: Forlag, år), ev. sidetall.
+
+^3^ Åsebø, "Griselda Pollock", 273–274.
+:::
+
 :::: ref
 
 Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag, årstall.
-
-... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
-
-^3^ Åsebø, "Griselda Pollock", 273–274.
 
 Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk, 2008.
 
@@ -118,18 +121,22 @@ blabla
 
 Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti listes bare de første sju, etterfulgt av et al.
 
-:::: ref
-^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall.eller ^x^ Etternavn et al., _Tittel_, ev. sidetall.
+Eksempel: I _Åtskilja och förena: etnologisk forskning om betydelser av kön_ diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
 
-Etternavn, Fornavn, Fornavn Etternavn (Fornavn Etternavn, Fornavn Etternavn osv.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
-
-I boken _Åtskilja och förena: etnologisk forskning om betydelser av kön_ diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
+::: footnote
+^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall eller ^x^ Etternavn et al., _Tittel_, ev. sidetall.
 
 ^6^ Lundgren, Lövkrona og Martinsson, _Åtskilja och förena_.
+::: 
+
+Etternavn, Fornavn, Fornavn Etternavn (Fornavn Etternavn, Fornavn Etternavn osv.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
+::: 
+
+:::: ref
 
 Lundgren, Britta, Inger Lövkrona og Lena Martinsson. _Åtskilja och förena: etnologisk forskning om betydelser av kön_. Umeå: Universitetet, 1996.
 
-I forordet til boken _Kjønnsteori_7 hevdes det at...
+I forordet til _Kjønnsteori_7 hevdes det at...
 
 ^7^ Mortensen et al., _Kjønnsteori_, 11.
 
