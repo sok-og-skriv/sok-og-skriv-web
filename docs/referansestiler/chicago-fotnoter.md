@@ -106,7 +106,7 @@ blabla
 
 :::: ref
 
-Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag, årstall.
+Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
 Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk, 2008.
 
@@ -129,18 +129,22 @@ Eksempel: I _Åtskilja och förena: etnologisk forskning om betydelser av kön_ 
 ^6^ Lundgren, Lövkrona og Martinsson, _Åtskilja och förena_.
 ::: 
 
+::: ref
 Etternavn, Fornavn, Fornavn Etternavn (Fornavn Etternavn, Fornavn Etternavn osv.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
-::: 
-
-:::: ref
 
 Lundgren, Britta, Inger Lövkrona og Lena Martinsson. _Åtskilja och förena: etnologisk forskning om betydelser av kön_. Umeå: Universitetet, 1996.
 
+::: 
+
+::: footnote 
 I forordet til _Kjønnsteori_7 hevdes det at...
 
 ^7^ Mortensen et al., _Kjønnsteori_, 11.
+::: 
 
+:::: ref 
 Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal, 2008.
+::: 
 
 ::: details I EndNote
 
@@ -149,17 +153,19 @@ blabla
 :::: 
 
 
-
 ### Bok i flerbindsverk
+
+... dokumentert på grunnlag av kildevalget ….8
+
+::: footnote 
+^8^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
+::: 
 
 :::: ref
 ^x^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
 
 Etternavn, Fornavn, _Tittel_, bindnummer, red. Fornavn Etternavn, _Serietittel_. Utgiversted: Forlag, årstall.
 
-... dokumentert på grunnlag av kildevalget ….8
-
-^8^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 
 Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, red. Knut Mykland, _Norges historie_. Oslo: Cappelen, 1995.
 
