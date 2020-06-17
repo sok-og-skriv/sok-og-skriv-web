@@ -5,29 +5,26 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og [forfatter-årstallstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, for at teksten ikke skal bli "avbrutt" av bibliografiske opplysninger. Henvisningene tar en heller inn som fotnoter eller sluttnoter.
+Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og [forfatter-årstallstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
-Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
-
-Finn ut om hvordan du siterer og [henviser i teksten, lager noter og referanseliste](#eksempler-paa-henvisninger) og behandler forskjellige referansetyper.
 
 ## Henvisninger i notene
 
-- Fotnoter settes inn nederst på siden, og nummereres fortløpende 1, 2, 3 og så videre.
-- Ved bruk av sluttnoter plasserer du alle noter helt til slutt i teksten foran referanselisten.
+- Fotnoter nummereres fortløpende 1, 2, 3 og så videre.
+- Ved bruk av sluttnoter plasserer du alle notene til slutt i teksten, foran referanselisten.
 - I notene skriver du den fulle referansen første gang du bruker den. Etter det gir du referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang.
-- Hvis du siterer fra eller refererer til ett eller flere bestemte steder i en tekst, skal du også ha med sidetall.
-- Når du henviser til den samme referansen to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (bruk av _ibid_. (ibidem = lat. på samme sted) frarådes i Chicago 17. utgave).
-- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i "anførselstegn," se de ulike referansetypene under.
-- Ved referanser til e-bøker kan det elektroniske formatet listes, for eksempel    "Kindle" eller "iBooks".
+- Hvis du siterer fra eller viser til bestemte steder i en tekst, skal du også ha med sidetall.
+- Når du henviser til den samme referansen to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (bruk av _ibid_, latin for 'samme sted', frarådes i Chicago 17. utgave).
+- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i "anførselstegn", se de ulike referansetypene under.
+- Ved referanser til e-bøker kan det elektroniske formatet listes, for eksempel "Kindle" eller "iBooks".
 
 ## Referanselisten
 
-- I referanselisten presenteres referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første), og publikasjonsdata (utgiversted, forlag).
+- I referanselisten gis referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første), og publikasjonsdata (utgiversted, forlag).
 - Listen ordnes alfabetisk etter forfatters etternavn. Verk med flere forfattere alfabetiseres etter førsteforfatter.
-- Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for ytterlig informasjon.
+- Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for mer informasjon.
 - Referanser uten forfatter alfabetiseres etter tittel.
-- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publiseringsdato eller sist oppdatert-dato. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
+- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publiseringsdato eller dato for siste oppdatering. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
 - DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
 - Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
 
@@ -35,11 +32,7 @@ Finn ut om hvordan du siterer og [henviser i teksten, lager noter og referanseli
 
 ### Bok
 
-::: teksten
-^x^
-
-Morton Klass definerer myte som "..."^1^
-:::
+Morton Klass definerer myte som "..."1
 
 ::: footnote 
 ^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), sidetall.
@@ -60,10 +53,6 @@ blabla
 :::: 
 
 ### E-bok
-
-::: teksten
-Peter Childs definerer modernisme som "..."^1^
-:::
 
 ::: footnote
 ^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
