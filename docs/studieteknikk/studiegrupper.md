@@ -40,7 +40,7 @@ Fortell hva du synes forfatteren har lykkes med, og hvorfor det fungerer. Uspesi
 - Hvis noe oppleves som uklart, spør om det kunne vært formulert på en annen måte i stedet for å bare kritisere.
 - Husk at det å levere fra seg en tekst til andre kan være et stort steg å ta for medstudenten din, så les godt og grundig, og gi konstruktive kommentarer.
 
-God tilbakemelding er konkret, konstruktiv og kjærlig.
+God tilbakemelding er konkret, konstruktiv og vennlig.
 ::: 
 
 ::: oppgave Når du mottar tilbakemelding:
