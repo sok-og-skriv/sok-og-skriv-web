@@ -632,6 +632,29 @@ Fullt navn, tittel/rolle (type kommunikasjon/kontekst, dato)
 Ifølge Ole Olsen, professor i semantikk ved Universitetet i Bergen (personlig diskusjon på hans kontor, 22. mars 2015) ...
 :::
 
+### Podcast
+
+:: teksten
+(Etternavn, Årstall)
+
+Furuseth og Kjøs, og Rashidi (2020) snakker om at unge sliter med...
+:::
+
+:::: ref
+Etternavn,N.N. (Årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato)._
+
+Briscoe, R. (2009)_.
+
+::: details I EndNote
+
+Legges inn som: Electronic Article
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Periodical Title, Type of Work (Antatt)
+ 
+::: 
+:::: 
+
+
 ### Kompendier
 
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
