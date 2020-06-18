@@ -32,10 +32,10 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og 
 
 ### Bok
 
-Morton Klass definerer myte som "..."1
+Morton Klass definerer myte som "..."^1^
 
 ::: footnote 
-^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), ev. sidetall.
+^nummer^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), ev. sidetall.
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995)_,_ 125.
 :::
@@ -121,20 +121,6 @@ blabla
 
 Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti listes bare de første sju, etterfulgt av et al.
 
-Eksempel: I _Åtskilja och förena: etnologisk forskning om betydelser av kön_ diskuteres det hvordan kjønnsperspektiver kan anvendes på ulike områder av etnologien.6
-
-::: footnote
-^x^ Etternavn, Etternavn og Etternavn, _Tittel_, sidetall eller ^x^ Etternavn et al., _Tittel_, ev. sidetall.
-
-^6^ Lundgren, Lövkrona og Martinsson, _Åtskilja och förena_.
-::: 
-
-::: ref
-Etternavn, Fornavn, Fornavn Etternavn (Fornavn Etternavn, Fornavn Etternavn osv.) og Fornavn Etternavn. _Tittel_. Utgiversted: Forlag, Årstall.
-
-Lundgren, Britta, Inger Lövkrona og Lena Martinsson. _Åtskilja och förena: etnologisk forskning om betydelser av kön_. Umeå: Universitetet, 1996.
-
-::: 
 
 ::: footnote 
 I forordet til _Kjønnsteori_7 hevdes det at...
