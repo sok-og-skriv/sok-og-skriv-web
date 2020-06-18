@@ -5,7 +5,7 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og [forfatter-årstallstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
+Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
 
 ## Henvisninger i notene
@@ -35,9 +35,9 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og 
 Morton Klass definerer myte som "..."^1^
 
 ::: footnote 
-^nummer^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), ev. sidetall.
+^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), eventuelt sidetall.
 
-^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995)_,_ 125.
+^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995), 125.
 :::
 
 :::: ref
@@ -55,9 +55,9 @@ blabla
 ### E-bok
 
 ::: footnote
-^nummer^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
+^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
 
-^1^ Childs, _Modernism _(London: Taylor and Francis, 2016)_,_ ProQuest Ebook Central.
+^1^ Childs, _Modernism _(London: Taylor and Francis, 2016), ProQuest Ebook Central.
 :::
 
 :::: ref
@@ -77,7 +77,7 @@ blabla
 ... skildret i romanen _Kelterens drøm_.^2^
 
 ::: footnote
-^nummer^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), ev. sidetall.
+^nr^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), eventuelt sidetall.
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 :::
@@ -99,7 +99,7 @@ blabla
 ... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
 
 ::: footnote
-^nummer^ Etternavn, _Korttittel_, (Utgivelsessted: Forlag, år), ev. sidetall.
+^nr^ Etternavn, "Kortittel", eventuelt sidetall.
 
 ^3^ Åsebø, "Griselda Pollock", 273–274.
 :::
@@ -108,7 +108,7 @@ blabla
 
 Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
-Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk, 2008.
+Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal, 2008.
 
 ::: details I EndNote
 
@@ -123,7 +123,8 @@ Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, 
 
 
 ::: footnote 
-I forordet til _Kjønnsteori_^4^ hevdes det at...
+
+^nr^ Etternavn et al., _Boktittel_, eventuelt sidetall. 
 
 ^4^ Mortensen et al., _Kjønnsteori_, 11.
 ::: 
@@ -144,7 +145,8 @@ blabla
 ... dokumentert på grunnlag av kildevalget ….^5^
 
 ::: footnote 
-^nummer^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
+^nr^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ eventuelt sidetall.
+
 ^5^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 ::: 
 
@@ -165,10 +167,10 @@ blabla
 
 Doktoravhandlinger behandles ofte som bøker. Den eneste forskjellen er at avhandlingstype og universitet erstatter utgivelsessted og forlag.
 
-”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
+”Landskap har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
 
 ::: footnote 
-^nummer^ Etternavn, _Korttittel_, ev. sidetall.
+^nr^ Etternavn, _Korttittel_, eventuelt sidetall.
 
 ^6^ Åsebø, _Femininitetens rom_, 327.
 :::
@@ -190,10 +192,10 @@ blabla
 
 Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
 
-I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^7^Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
+I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
 ::: footnote 
-^nummer^ Etternavn, ”Korttittel”, ev. sidetall.
+^nr^ Etternavn, ”Korttittel”, eventuelt sidetall.
 
 ^7^ Stange, "Inspirert av The New Brutalism?"^8^, 23.
 :::
@@ -201,7 +203,6 @@ I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet 
 :::: ref
 
 Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
-
 
 Stange, Espen. "Inspirert av The New Brutalism? Arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
 
@@ -216,42 +217,18 @@ blabla
 ## Artikler
 
 
-
-### Artikkel i elektronisk tidsskrift
-
-Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av bevegelse, og at dette igjen har symbolsk betydning.^9^ 
+### Tidsskriftsartikkel 
 
 ::: footnote 
-^nummer^ Etternavn, "Korttittel", ev. sidetall.
+^nr^ Etternavn, "Korttittel", eventuelt sidetall.
 
-^9^ Sjöstrand, "Raka eller böjda ben?", 10–11.
+^9^ EKSEMPEL
 ::: 
 
 :::: ref
 
-Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Årstall): sidespenn. Dato. URL/DOI
+Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Årstall): sidespenn. Eventuelt lesedato og URL/DOI
 
-Sjöstrand, Ylva. "Raka eller böjda ben? Om variation bland älgarna på Nämforsens hällristningar". _Fornvännen_ 105, (2010): 9–19. 26.05.2014. [https://kulturarvsdata.se/raa/fornvannen/html/2010\_009](https://kulturarvsdata.se/raa/fornvannen/html/2010_009)
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
-
-### Artikkel i trykt tidsskrift
-
-::: footnote 
-^nummer^ Etternavn, "Korttittel", sidetall.
-
-^10^ Melve, "Komparativ historie", 66.
-:::
-
-:::: ref
-
-Etternavn, Fornavn. "Tittel". _Tidsskrifttittel_ Årgang, Nummer (årstall): sidespenn.
-
-Melve, Leidulf. "Komparativ historie: Ei utfordring for historiefaget?". _Historisk tidsskrift_ 88, nr. 1 (2009): 61–77.
 
 ::: details I EndNote
 
@@ -263,7 +240,7 @@ blabla
 ### Artikkel i nettavis
 
 ::: footnote 
-^nummer^ Etternavn, "Artikkeltittel".
+^nr^ Etternavn, "Artikkeltittel".
 
 ^11^ Røyrane, "Hanseatene kommer tilbake".
 :::
@@ -283,7 +260,7 @@ blabla
 
 ### Artikkel i trykt avis
 
-^nummer^ Etternavn, "Artikkeltittel."
+^nr^ Etternavn, "Artikkeltittel."
 ^12^ Nærø, "Ketil Bjørnstad."
 
 :::: ref
@@ -306,7 +283,7 @@ blabla
 
 ..., jfr data fra Statistisk sentralbyrå.^13^
 
-^nummer^ Nettstedets navn, "Artikkeltittel."
+^nr^ Nettstedets navn, "Artikkeltittel."
 
 ^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
 
@@ -324,11 +301,11 @@ blabla
 
 
 
-### Nettside med forfatter / Blogg
+### Nettside med forfatter / blogg
 
 …ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
 
-^nummer^ Etternavn, ”Artikkeltittel.”
+^nr^ Etternavn, ”Artikkeltittel.”
 
 ^14^ Tetens, "Dishing the Victorian Dirt".
 
@@ -351,34 +328,22 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Håvamål betyr «den høyes tale»^15^
 
-^nummer^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
+::: footnote 
+
+^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
 
 ^15^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
-
-:::: ref
-
-::: details I EndNote
-
-blabla 
 ::: 
-:::: 
 
 
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
-:::: ref
-^x^ Tittel på leksikon/nettsted, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
+Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^29^
+^nr^ _Tittel på leksikon/nettsted_, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
 
-^29^ Store norske leksikon, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
+^16^ _Store norske leksikon_, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 
 
 
@@ -386,14 +351,18 @@ blabla
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er første og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
 
+Alderdom kan defineres som ”…”^17^
+
+::: footnote 
+^nr^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
+
+^17^_Kulturhistorisk leksikon_, s.v. "alderdom."
+
+::: 
+
 :::: ref
-^x^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
 
 Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
-
-Alderdom er definert som ”…”^20^
-
-^20^ _Kulturhistorisk leksikon_, s.v. "alderdom."
 
 Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
 
@@ -404,17 +373,16 @@ blabla
 :::: 
 
 
-
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
 :::: ref
-^x^ Etternavn, ”Korttittel artikkel.”
+^nr^ Etternavn, ”Korttittel artikkel.”
 
 Etternavn, Fornavn. ”Artikkeltittel”, i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
 
-…ifølge Dag Sveen^21^
+…ifølge Dag Sveen^18^
 
-^21^ Sveen, ”Kritisk realisme”.
+^18^ Sveen, ”Kritisk realisme”.
 
 Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax forlag, 1979.
 
@@ -540,22 +508,22 @@ Korttittelen kan brukes i den målformen den er vedtatt, selv om oppgaven er på
 
 ### Forskrifter
 
-::: tip I noten
-^x^ Forskrift dato nr. formelt navn evt. (korttittel) og URL
+::: footnote
+^nr^ Forskrift dato nr. formelt navn evt. (korttittel) og URL
 
 Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse omsettes i apotekene.^25^
 
 ^25^ Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) https://lovdata.no/forskrift/2009-12-18-1839
 :::
 
-Forskrifter føres vanligvis ikke inn i litteraturlisten.
+Forskrifter føres vanligvis ikke inn i referanselisten.
 
-### Stortingsmeldinger
+### Meldinger til Stortinget OPPDATERE
 
 :::: ref
-^x^ Dokumenttype nr. (sesjon), evt. sidetall.
+^nr^ Dokumenttype nr. (sesjon), eventuelt sidetall.
 
-St.meld. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Evt. URL
+St.meld. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Eventuelt URL.
 
 En stortingsmelding fra 2008^27^ tar for seg temaet arbeidsinnvandring.
 
@@ -576,9 +544,9 @@ blabla
 ### Proposisjoner
 
 :::: ref
-^x^ Prop. nr. (sesjon), evt. sidetall.
+^nr^ Prop. nr. (sesjon), eventuelt sidetall.
 
-Prop. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Evt. URL
+Prop. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Eventuelt URL
 
 Regjeringen^27^ foreslo i forbindelse med revidert statsbudsjett å fjerne avgift på forbrenning av avfall.
 
@@ -597,9 +565,9 @@ blabla
 ### Norges offentlige utredninger (NOU)
 
 :::: ref
-x NOU årstall: nr., evt. sidetall.
+x NOU årstall: nr., eventuelt sidetall.
 
-NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Evt. URL
+NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Eventuelt URL
 
 I NOU _Struktur for likestilling_^28^ hevdes det at…
 
@@ -623,7 +591,7 @@ Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver, sidet
 
 
 
-::: tip I noten
+::: footnote
 I Lukasevangeliet er Maria i tvil om hun virkelig vil føde Guds barn.^26^ 
 
 Eller
