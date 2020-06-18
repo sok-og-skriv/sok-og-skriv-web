@@ -55,7 +55,7 @@ blabla
 ### E-bok
 
 ::: footnote
-^x^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
+^nummer^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
 
 ^1^ Childs, _Modernism _(London: Taylor and Francis, 2016)_,_ ProQuest Ebook Central.
 :::
@@ -77,7 +77,7 @@ blabla
 ... skildret i romanen _Kelterens drøm_.^2^
 
 ::: footnote
-^x^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), ev. sidetall.
+^nummer^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), ev. sidetall.
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 :::
@@ -99,7 +99,7 @@ blabla
 ... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
 
 ::: footnote
-^x^ Etternavn, _Korttittel_, (Utgivelsessted: Forlag, år), ev. sidetall.
+^nummer^ Etternavn, _Korttittel_, (Utgivelsessted: Forlag, år), ev. sidetall.
 
 ^3^ Åsebø, "Griselda Pollock", 273–274.
 :::
@@ -123,9 +123,9 @@ Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, 
 
 
 ::: footnote 
-I forordet til _Kjønnsteori_7 hevdes det at...
+I forordet til _Kjønnsteori_^4^ hevdes det at...
 
-^7^ Mortensen et al., _Kjønnsteori_, 11.
+^4^ Mortensen et al., _Kjønnsteori_, 11.
 ::: 
 
 :::: ref 
@@ -141,17 +141,16 @@ blabla
 
 ### Bok i flerbindsverk
 
-... dokumentert på grunnlag av kildevalget ….8
+... dokumentert på grunnlag av kildevalget ….^5^
 
 ::: footnote 
-^8^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
+^nummer^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
+^5^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 ::: 
 
 :::: ref
-^x^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
 
 Etternavn, Fornavn, _Tittel_, bindnummer, red. Fornavn Etternavn, _Serietittel_. Utgiversted: Forlag, årstall.
-
 
 Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, red. Knut Mykland, _Norges historie_. Oslo: Cappelen, 1995.
 
@@ -162,19 +161,18 @@ blabla
 :::: 
 
 
-
 ### Avhandling (publisert)
 
 Doktoravhandlinger behandles ofte som bøker. Den eneste forskjellen er at avhandlingstype og universitet erstatter utgivelsessted og forlag.
 
+”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
+
+^nummer^ Etternavn, _Korttittel_, ev. sidetall.
+^6^ Åsebø, _Femininitetens rom_, 327.
+
 :::: ref
-^x^ Etternavn, _Korttittel_, sidetall.
 
 Etternavn, Fornavn. _Tittel_. Avhandlingstype. Institusjon. Årstall.
-
-”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^9^
-
-^9^ Åsebø, _Femininitetens rom_, 327.
 
 Åsebø, Sigrun. _Femininitetens rom og kvinnekroppens grenser – Å lese kunstens historie med A K Dolven og Mari Slaattelid_. Ph.D.-avhandling. Universitetet i Bergen. 2011.
 
@@ -185,21 +183,21 @@ blabla
 :::: 
 
 
-
 ### Upublisert materiale
 
-Upubliserte avhandlinger (det gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
+Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
+
+I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^7^Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
 
+^nummer^ Etternavn, ”Korttittel”, ev. sidetall.
+
+^7^ Stange, "Inspirert av The New Brutalism?"^8^, 23.
 
 :::: ref
-^x^ Etternavn, ”Korttittel”, sidetall.
 
 Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
 
-I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^10^Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^11^
-
-^10^ Stange, "Inspirert av The New Brutalism?".^11^ 23.
 
 Stange, Espen. "Inspirert av The New Brutalism?: arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
 
@@ -213,16 +211,37 @@ blabla
 
 ## Artikler
 
-### Artikkel i trykt tidsskrift
+
+
+### Artikkel i elektronisk tidsskrift
+
+Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av bevegelse, og at dette igjen har symbolsk betydning.^9^ 
+
+^nummer^ Etternavn, "Korttittel", ev. sidetall.
+
+^9^ Sjöstrand, "Raka eller böjda ben?", 10–11.
 
 :::: ref
-^x^ Etternavn, "Korttittel", sidetall.
 
-Etternavn, Fornavn. "Tittel". _Tidsskrifttittel_ Årgang, Nummer (årstall): sidetall.
+Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Årstall): sidespenn. Dato. URL/DOI
 
-... viser forandringer.^12^
+Sjöstrand, Ylva. "Raka eller böjda ben? Om variation bland älgarna på Nämforsens hällristningar". _Fornvännen_ 105, (2010): 9–19. 26.05.2014. [https://kulturarvsdata.se/raa/fornvannen/html/2010\_009](https://kulturarvsdata.se/raa/fornvannen/html/2010_009)
 
-^12^ Melve, "Komparativ historie", 66.
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+### Artikkel i trykt tidsskrift
+
+^nummer^ Etternavn, "Korttittel", sidetall.
+
+^10^ Melve, "Komparativ historie", 66.
+
+:::: ref
+
+Etternavn, Fornavn. "Tittel". _Tidsskrifttittel_ Årgang, Nummer (årstall): sidespenn.
 
 Melve, Leidulf. "Komparativ historie: Ei utfordring for historiefaget?". _Historisk tidsskrift_ 88, nr. 1 (2009): 61–77.
 
@@ -233,40 +252,17 @@ blabla
 :::: 
 
 
-
-### Artikkel i elektronisk tidsskrift
-
-:::: ref
-^x^ Etternavn, "Korttittel", sidetall.
-
-Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Årstall): sidetall. Dato. URL/DOI
-
-Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av bevegelse, og at dette igjen har symbolsk betydning.^13^ Forfatteren har delt inn helleristningene av elg i fire ulike benstillingskategorier.^14^
-
-^13^ Sjöstrand, "Raka eller böjda ben?".^14^ s. 10–11.
-
-Sjöstrand, Ylva. "Raka eller böjda ben? Om variation bland älgarna på Nämforsens hällristningar". _Fornvännen_ 105, (2010): 9–19. 26.05.2014. [https://kulturarvsdata.se/raa/fornvannen/html/2010\_009](https://kulturarvsdata.se/raa/fornvannen/html/2010_009)
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
-
-
-
 ### Artikkel i nettavis
 
 Ofte er det nok å referere til avisartikler i teksten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
-:::: ref
-^x^ Etternavn, "Artikkeltittel."
+^nummer^ Etternavn, "Artikkeltittel".
+
+^11^ Røyrane, "Hanseatene kommer tilbake".
 
 Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato. URL/DOI
 
-Målgruppen for Hansaspillet er både fastboende og turister.^15^
-
-^15^ Røyrane, "Hanseatene kommer tilbake".
+:::: ref
 
 Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
 
@@ -277,19 +273,16 @@ blabla
 :::: 
 
 
-
 ### Artikkel i trykt avis
 
 Ofte er det nok å referere til avisartikler i teksten, og det er ikke strengt nødvendig å liste dem opp i litteraturlisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
+^nummer^ Etternavn, "Artikkeltittel."
+^12^ Nærø, "Ketil Bjørnstad."
+
 :::: ref
-^x^ Etternavn, "Artikkeltittel."
 
 Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato.
-
-Forfatteren, komponisten og musikeren foreslo flere samarbeidsprosjekter for å løfte frem Munchs ukjente tekstarv.^16^
-
-^16^ Nærø, "Ketil Bjørnstad."
 
 Nærø, Sturle Scholz. "Ingen tok Ketil Bjørnstad på alvor." _Aftenposten_. 25.01.2013.
 
@@ -305,18 +298,17 @@ blabla
 
 ### Nettside uten forfatter
 
-Ofte er det nok å referere til nettsider i teksten, og det er ikke strengt nødvendig å liste dem opp i litteraturlisten. Hvis det likevel ønskes gjort, står nettstedets navn i stedet for forfatternavn i litteraturlisten.
+..., jfr data fra Statistisk sentralbyrå.^13^
+
+^nummer^ Nettstedets navn, "Artikkeltittel."
+
+^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
 
 :::: ref
-^x^ Nettstedets navn, "Artikkeltittel."
 
 Nettsted. "Artikkeltittel." Dato. URL/DOI
 
-..., jfr data fra Statistisk sentralbyrå.^17^
-
-^17^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
-
-^17^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
+^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
 
 ::: details I EndNote
 
@@ -328,16 +320,15 @@ blabla
 
 ### Nettside med forfatter / Blogg
 
-Ofte er det nok å referere til nettsider eller blogger i teksten, og det er ikke strengt nødvendig å liste dem opp i litteraturlisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
+…ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
+
+^nummer^ Etternavn, ”Artikkeltittel.”
+
+^14^ Tetens, "Dishing the Victorian Dirt".
 
 :::: ref
-^x^ Etternavn, ”Artikkeltittel.”
 
 Etternavn, Fornavn. ”Artikkeltittel,” Navn på nettsted/blogg. Dato (publisert/sist oppdatert eller lest). URL/DOI
-
-…ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^18^
-
-^18^ Tetens, "Dishing the Victorian Dirt".
 
 Tetens, Kristian. "Dishing the Victorian Dirt," _The Victorian Peeper. Nineteenth-century Britain through the looking glass_ (blogg). 25.04.2011. [https://www.victorianpeeper.blogspot.com/](https://www.victorianpeeper.blogspot.com/)
 
@@ -348,17 +339,17 @@ blabla
 :::: 
 
 
-
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet).
 
+Håvamål betyr «den høyes tale»^15^
+
+^nummer^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
+
+^15^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+
 :::: ref
-^x^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
-
-Håvamål betyr «den høyes tale»^19^
-
-^19^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 
 ::: details I EndNote
 
