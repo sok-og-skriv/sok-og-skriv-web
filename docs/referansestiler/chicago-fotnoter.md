@@ -167,8 +167,11 @@ Doktoravhandlinger behandles ofte som bøker. Den eneste forskjellen er at avhan
 
 ”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
 
+::: footnote 
 ^nummer^ Etternavn, _Korttittel_, ev. sidetall.
+
 ^6^ Åsebø, _Femininitetens rom_, 327.
+:::
 
 :::: ref
 
@@ -189,17 +192,18 @@ Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter 
 
 I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^7^Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
-
+::: footnote 
 ^nummer^ Etternavn, ”Korttittel”, ev. sidetall.
 
 ^7^ Stange, "Inspirert av The New Brutalism?"^8^, 23.
+:::
 
 :::: ref
 
 Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
 
 
-Stange, Espen. "Inspirert av The New Brutalism?: arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
+Stange, Espen. "Inspirert av The New Brutalism? Arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
 
 ::: details I EndNote
 
@@ -217,9 +221,11 @@ blabla
 
 Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av bevegelse, og at dette igjen har symbolsk betydning.^9^ 
 
+::: footnote 
 ^nummer^ Etternavn, "Korttittel", ev. sidetall.
 
 ^9^ Sjöstrand, "Raka eller böjda ben?", 10–11.
+::: 
 
 :::: ref
 
@@ -235,9 +241,11 @@ blabla
 
 ### Artikkel i trykt tidsskrift
 
+::: footnote 
 ^nummer^ Etternavn, "Korttittel", sidetall.
 
 ^10^ Melve, "Komparativ historie", 66.
+:::
 
 :::: ref
 
@@ -254,15 +262,15 @@ blabla
 
 ### Artikkel i nettavis
 
-Ofte er det nok å referere til avisartikler i teksten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
-
+::: footnote 
 ^nummer^ Etternavn, "Artikkeltittel".
 
 ^11^ Røyrane, "Hanseatene kommer tilbake".
-
-Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato. URL/DOI
+:::
 
 :::: ref
+
+Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato. URL/DOI
 
 Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
 
@@ -274,8 +282,6 @@ blabla
 
 
 ### Artikkel i trykt avis
-
-Ofte er det nok å referere til avisartikler i teksten, og det er ikke strengt nødvendig å liste dem opp i litteraturlisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
 ^nummer^ Etternavn, "Artikkeltittel."
 ^12^ Nærø, "Ketil Bjørnstad."
