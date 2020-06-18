@@ -326,7 +326,7 @@ blabla
 
 
 
-### Nettside med forfatter / Blogg
+### Nettside med forfatter / blogg
 
 …ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
 
@@ -353,34 +353,22 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Håvamål betyr «den høyes tale»^15^
 
+::: footnote 
+
 ^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
 
 ^15^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
-
-:::: ref
-
-::: details I EndNote
-
-blabla 
 ::: 
-:::: 
 
 
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
-:::: ref
-^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
+Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^29^
+^nr^ _Tittel på leksikon/nettsted_, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
 
-^29^ Store norske leksikon, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
+^16^ _Store norske leksikon_, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 
 
 
@@ -388,14 +376,18 @@ blabla
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er første og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
 
+Alderdom kan defineres som ”…”^17^
+
+::: footnote 
+^nr^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
+
+^17^_Kulturhistorisk leksikon_, s.v. "alderdom."
+
+::: 
+
 :::: ref
-^x^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
 
 Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
-
-Alderdom er definert som ”…”^20^
-
-^20^ _Kulturhistorisk leksikon_, s.v. "alderdom."
 
 Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
 
@@ -406,17 +398,16 @@ blabla
 :::: 
 
 
-
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
 :::: ref
-^x^ Etternavn, ”Korttittel artikkel.”
+^nr^ Etternavn, ”Korttittel artikkel.”
 
 Etternavn, Fornavn. ”Artikkeltittel”, i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
 
-…ifølge Dag Sveen^21^
+…ifølge Dag Sveen^18^
 
-^21^ Sveen, ”Kritisk realisme”.
+^18^ Sveen, ”Kritisk realisme”.
 
 Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax forlag, 1979.
 
