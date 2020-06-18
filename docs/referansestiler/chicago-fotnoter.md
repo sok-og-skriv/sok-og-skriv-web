@@ -426,7 +426,7 @@ blabla
 
 
 
-### Visuelle kilder
+## Visuelle kilder
 
 For å bruke et bilde eller et kunstverk som illustrasjon i teksten din må du normalt hente inn tillatelse fra opphavsrettshaver eller eier. For kilder som ligger fritt tilgjengelig på nett holder det å oppgi eier og hvor du har hentet det fra. Informasjon om kunstverk presenteres snarere i teksten enn i note eller referanseliste. Ta i alle tilfelle med så mye av den følgende informasjonen som er tilgjengelig: navn på opphavsperson/kunstner, tittel i kursiv,  dato og/eller år for verket og/eller når reproduksjonen av det ble laget, medium (for eksempel foto/olje på lerret/silketrykk),og plassering, størrelse. Hvis bibliografi er påkrevd, gjentas samme informasjon her.
 

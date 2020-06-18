@@ -333,7 +333,7 @@ blabla
 :::: 
 
 
-### Visuelle kilder
+## Visuelle kilder
 
 For å bruke et bilde eller et kunstverk som illustrasjon i teksten din må du normalt hente inn tillatelse fra opphavsrettshaver eller eier. For en del ting som ligger fritt tilgjengelig på nettet holder det å oppgi eier og hvor du har hentet det fra.
 
