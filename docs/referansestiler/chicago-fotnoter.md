@@ -5,7 +5,7 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og [forfatter-årstallstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
+Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
 
 ## Henvisninger i notene
