@@ -35,7 +35,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som vi presenterer her, og 
 Morton Klass definerer myte som "..."^1^
 
 ::: footnote 
-^nummer^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), ev. sidetall.
+^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), ev. sidetall.
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995)_,_ 125.
 :::
@@ -55,7 +55,7 @@ blabla
 ### E-bok
 
 ::: footnote
-^nummer^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
+^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
 
 ^1^ Childs, _Modernism _(London: Taylor and Francis, 2016)_,_ ProQuest Ebook Central.
 :::
@@ -77,7 +77,7 @@ blabla
 ... skildret i romanen _Kelterens drøm_.^2^
 
 ::: footnote
-^nummer^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), ev. sidetall.
+^nr^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), ev. sidetall.
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 :::
@@ -99,7 +99,7 @@ blabla
 ... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
 
 ::: footnote
-^nummer^ Etternavn, _Korttittel_, (Utgivelsessted: Forlag, år), ev. sidetall.
+^nr^ Etternavn, "Kortittel", ev. sidetall.
 
 ^3^ Åsebø, "Griselda Pollock", 273–274.
 :::
@@ -108,7 +108,7 @@ blabla
 
 Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
-Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk, 2008.
+Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal, 2008.
 
 ::: details I EndNote
 
@@ -123,7 +123,8 @@ Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, 
 
 
 ::: footnote 
-I forordet til _Kjønnsteori_^4^ hevdes det at...
+
+^nr^ Etternavn et al., _Boktittel_, ev. sidetall. 
 
 ^4^ Mortensen et al., _Kjønnsteori_, 11.
 ::: 
@@ -144,7 +145,8 @@ blabla
 ... dokumentert på grunnlag av kildevalget ….^5^
 
 ::: footnote 
-^nummer^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
+^nr^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ sidetall.
+
 ^5^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 ::: 
 
@@ -168,7 +170,7 @@ Doktoravhandlinger behandles ofte som bøker. Den eneste forskjellen er at avhan
 ”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
 
 ::: footnote 
-^nummer^ Etternavn, _Korttittel_, ev. sidetall.
+^nr^ Etternavn, _Korttittel_, ev. sidetall.
 
 ^6^ Åsebø, _Femininitetens rom_, 327.
 :::
@@ -193,7 +195,7 @@ Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter 
 I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^7^Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
 ::: footnote 
-^nummer^ Etternavn, ”Korttittel”, ev. sidetall.
+^nr^ Etternavn, ”Korttittel”, ev. sidetall.
 
 ^7^ Stange, "Inspirert av The New Brutalism?"^8^, 23.
 :::
@@ -222,7 +224,7 @@ blabla
 Sentralt i Sjöstrands argument er at benposisjonen viser til ulik grad av bevegelse, og at dette igjen har symbolsk betydning.^9^ 
 
 ::: footnote 
-^nummer^ Etternavn, "Korttittel", ev. sidetall.
+^nr^ Etternavn, "Korttittel", ev. sidetall.
 
 ^9^ Sjöstrand, "Raka eller böjda ben?", 10–11.
 ::: 
@@ -242,7 +244,7 @@ blabla
 ### Artikkel i trykt tidsskrift
 
 ::: footnote 
-^nummer^ Etternavn, "Korttittel", sidetall.
+^nr^ Etternavn, "Korttittel", sidetall.
 
 ^10^ Melve, "Komparativ historie", 66.
 :::
@@ -263,7 +265,7 @@ blabla
 ### Artikkel i nettavis
 
 ::: footnote 
-^nummer^ Etternavn, "Artikkeltittel".
+^nr^ Etternavn, "Artikkeltittel".
 
 ^11^ Røyrane, "Hanseatene kommer tilbake".
 :::
@@ -283,7 +285,7 @@ blabla
 
 ### Artikkel i trykt avis
 
-^nummer^ Etternavn, "Artikkeltittel."
+^nr^ Etternavn, "Artikkeltittel."
 ^12^ Nærø, "Ketil Bjørnstad."
 
 :::: ref
@@ -306,7 +308,7 @@ blabla
 
 ..., jfr data fra Statistisk sentralbyrå.^13^
 
-^nummer^ Nettstedets navn, "Artikkeltittel."
+^nr^ Nettstedets navn, "Artikkeltittel."
 
 ^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
 
@@ -328,7 +330,7 @@ blabla
 
 …ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
 
-^nummer^ Etternavn, ”Artikkeltittel.”
+^nr^ Etternavn, ”Artikkeltittel.”
 
 ^14^ Tetens, "Dishing the Victorian Dirt".
 
@@ -351,7 +353,7 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Håvamål betyr «den høyes tale»^15^
 
-^nummer^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
+^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
 
 ^15^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 
@@ -368,7 +370,7 @@ blabla
 ### Artikkel i elektronisk leksikon (med forfatter)
 
 :::: ref
-^x^ Tittel på leksikon/nettsted, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
+^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
 
 Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^29^
 
