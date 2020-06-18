@@ -508,22 +508,22 @@ Korttittelen kan brukes i den målformen den er vedtatt, selv om oppgaven er på
 
 ### Forskrifter
 
-::: tip I noten
-^x^ Forskrift dato nr. formelt navn evt. (korttittel) og URL
+::: footnote
+^nr^ Forskrift dato nr. formelt navn evt. (korttittel) og URL
 
 Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse omsettes i apotekene.^25^
 
 ^25^ Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) https://lovdata.no/forskrift/2009-12-18-1839
 :::
 
-Forskrifter føres vanligvis ikke inn i litteraturlisten.
+Forskrifter føres vanligvis ikke inn i referanselisten.
 
-### Stortingsmeldinger
+### Meldinger til Stortinget OPPDATERE
 
 :::: ref
-^x^ Dokumenttype nr. (sesjon), evt. sidetall.
+^nr^ Dokumenttype nr. (sesjon), eventuelt sidetall.
 
-St.meld. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Evt. URL
+St.meld. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Eventuelt URL.
 
 En stortingsmelding fra 2008^27^ tar for seg temaet arbeidsinnvandring.
 
@@ -544,9 +544,9 @@ blabla
 ### Proposisjoner
 
 :::: ref
-^x^ Prop. nr. (sesjon), evt. sidetall.
+^nr^ Prop. nr. (sesjon), eventuelt sidetall.
 
-Prop. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Evt. URL
+Prop. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Eventuelt URL
 
 Regjeringen^27^ foreslo i forbindelse med revidert statsbudsjett å fjerne avgift på forbrenning av avfall.
 
@@ -565,9 +565,9 @@ blabla
 ### Norges offentlige utredninger (NOU)
 
 :::: ref
-x NOU årstall: nr., evt. sidetall.
+x NOU årstall: nr., eventuelt sidetall.
 
-NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Evt. URL
+NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Eventuelt URL
 
 I NOU _Struktur for likestilling_^28^ hevdes det at…
 
@@ -591,7 +591,7 @@ Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver, sidet
 
 
 
-::: tip I noten
+::: footnote
 I Lukasevangeliet er Maria i tvil om hun virkelig vil føde Guds barn.^26^ 
 
 Eller
