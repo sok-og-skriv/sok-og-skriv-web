@@ -13,7 +13,7 @@ footer: Søk og skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.
     </div>
     <div class="content">
       <h2><a href="/soking">Søking</a></h2>
-      <p>Finn tips om hvordan du søker etter informasjon og hvordan informasjonssøk kan hjelpe deg i gang med oppgaveskriving.</p>
+      <p>Få hjelp til å søke etter informasjon og komme i gang med oppgaveskriving.</p>
     </div>
   </div>
 
@@ -90,7 +90,7 @@ footer: Søk og skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.
       </picture>
     </a>
     <div class="title">
-      Høyskolen på Vestlandet
+      Høgskulen på Vestlandet
     </div>
   </div>
   <div class="partner">
