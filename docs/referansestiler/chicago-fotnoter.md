@@ -35,7 +35,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 Morton Klass definerer myte som "..."^1^
 
 ::: footnote 
-^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), eventuelt sidetall.
+^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995), 125.
 :::
@@ -57,13 +57,13 @@ blabla
 ::: footnote
 ^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
 
-^1^ Childs, _Modernism _(London: Taylor and Francis, 2016), ProQuest Ebook Central.
+^1^ Childs, _Modernism_ (London: Taylor & Francis, 2016), ProQuest Ebook Central.
 :::
 
 :::: ref
 <span class="ref">Etternavn, Fornavn. _Tittel_. Utgiversted: Forlag, årstall, URL/DOI/format.</span>
 
-<span class="ref">Childs, Peter. _Modernism._ London: Taylor and Francis, 2016. ProQuest Ebook Central.</span>
+<span class="ref">Childs, Peter. _Modernism._ London: Taylor & Francis, 2016. ProQuest Ebook Central.</span>
 
 ::: details I EndNote
 
@@ -77,7 +77,7 @@ blabla
 ... skildret i romanen _Kelterens drøm_.^2^
 
 ::: footnote
-^nr^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), eventuelt sidetall.
+^nr^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), evt. sidetall.
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 :::
@@ -96,10 +96,10 @@ blabla
 
 ### Kapittel i redigert bok
 
-... i henhold til oppfatningen av kjønnsrollene i hennes levetid.^3^
+... i henhold til oppfatninger av kjønnsrollene i hennes levetid.^3^
 
 ::: footnote
-^nr^ Etternavn, "Kortittel", eventuelt sidetall.
+^nr^ Etternavn, "Kortittel", evt. sidetall.
 
 ^3^ Åsebø, "Griselda Pollock", 273–274.
 :::
@@ -119,7 +119,7 @@ blabla
 
 ### Bok med flere forfattere (eller redaktører)
 
-Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti listes bare de første sju, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
 
 
 ::: footnote 
@@ -165,7 +165,7 @@ blabla
 
 ### Avhandling (publisert)
 
-Doktoravhandlinger behandles ofte som bøker. Den eneste forskjellen er at avhandlingstype og universitet erstatter utgivelsessted og forlag.
+Doktoravhandlinger behandles som bøker. Den eneste forskjellen er at utgiversted og forlag erstattes med avhandlingstype og universitet.
 
 ”Landskap har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
 
@@ -192,12 +192,12 @@ blabla
 
 Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
 
-I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
+I sin hovedoppgave diskuterer kunsthistoriker Espen Stange bruken av begrepet "brutalisme".^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
 ::: footnote 
 ^nr^ Etternavn, ”Korttittel”, eventuelt sidetall.
 
-^7^ Stange, "Inspirert av The New Brutalism?"^8^, 23.
+^7^ Stange, "Inspirert av The New Brutalism?", 23.
 :::
 
 :::: ref
@@ -219,16 +219,19 @@ blabla
 
 ### Tidsskriftsartikkel 
 
-::: footnote 
-^nr^ Etternavn, "Korttittel", eventuelt sidetall.
+Trykte og elektroniske artikler følger samme oppsett. For elektroniske artikler inkluderes gjerne publiseringsmåned sammen med årstall, samt DOI eller hvis dette ikke er tilgjengelig, URL.  
 
-^9^ EKSEMPEL
+::: footnote 
+^nr^ Etternavn, "Korttittel", evt. sidetall.
+
+^9^ Kalyvas, "Whose Crisis? Which Democracy?", 385.
 ::: 
 
 :::: ref
 
-Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Årstall): sidespenn. Eventuelt lesedato og URL/DOI
+Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Utgivelsesdato): sidespenn. Evt. DOI/URL. 
 
+Kalyvas, Andreas. "Whose Crisis? Which Democracy? Notes on the Current Political Conjuncture." _Constellations_ 26, no. 3 (September 2019): 384-90. DOI: 10.1111/1467-8675.12438. 
 
 ::: details I EndNote
 
@@ -238,6 +241,8 @@ blabla
 
 
 ### Artikkel i nettavis
+
+Ofte er det nok å henvise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
 ::: footnote 
 ^nr^ Etternavn, "Artikkeltittel".
@@ -259,6 +264,8 @@ blabla
 
 
 ### Artikkel i trykt avis
+
+Ofte er det nok å henvise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
 ^nr^ Etternavn, "Artikkeltittel."
 ^12^ Nærø, "Ketil Bjørnstad."
@@ -303,7 +310,7 @@ blabla
 
 ### Nettside med forfatter / blogg
 
-…ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
+… ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
 
 ^nr^ Etternavn, ”Artikkeltittel.”
 
