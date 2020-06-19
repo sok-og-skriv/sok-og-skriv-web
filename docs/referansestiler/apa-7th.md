@@ -14,7 +14,7 @@ Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenes
 
 ## Referanselisten
 
-Med unntak for enkelte offentlige dokumenter, består en referanse i APA 6th grovt sett av fire deler i fast rekkefølge: Opphavspersoner, publiseringsdato, dokumentets tittel og publikasjonsinformasjon. Disse gir svar på spørsmålene om _hvem_ som står bak kilden, _når_ den er publisert, _hva_ den heter og _hvor_ den kan finnes.
+Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th grovt sett av fire deler i fast rekkefølge: forfatter, publiseringstidspunkt, verk tittel og verkets kilde. Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ verket kan finnes.
 
 <Figure
   src="/images/apa-ref.png"
@@ -30,11 +30,9 @@ Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgi
 For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsessted og utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
 
 - Referanselisten skal ordnes alfabetisk på forfatternes etternavn.
-- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren.
 - Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
-- Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene.
+- Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første.
-- Om verket har mer enn syv forfattere, listes de seks første, fulgt av en ellipse (. . .) og sisteforfatteren.
 
 ## Bøker
 
@@ -50,34 +48,59 @@ Bok med fire til 20 forfattere:
 Bok med 21 forfattere eller flere:
 (Første forfatters etternavn, et. al., årstall, eventuelt sidetall)
 
-Eriksen og Nielsen (2013, s. 14) hevder at …
+1. Retterstøl, Ekeberg & Mehlum (2002, s. 54) hevder at …
+2. (Gullestad & Killingmo, 2013, s. 35)
+3. De seks medisinske kjernespørsmålene bestemmer hvilken … (Nortvedt et. al., 2012, s. 35).
+4. Ifølge Nortvedt et. al (2012, s. 35) bestemmer de seks medisinske kjernespørsmålene hvilke....
 :::
 
 :::: ref
+_Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
+
+<span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (evt. utg.). Forlag.</span>
 Bok med en til tre forfattere:  
-Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. 
+<span class="ref">Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
 
 Bok med fire til 21 forfattere:  
 Alle forfatterene skal nevnes.
-Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. 
+<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
 
 Bok med flere enn 21 forfattere: 
-Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D.,...Forfatter, Ø.Ø. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. 
+<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D.,...Forfatter, Ø.Ø. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
 
+<span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Oslo: Gyldendal.</span>
+
+
+
+:::
 ::: details I EndNote
 
-Bok: Legges inn som "book".
-
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher.
+blabla 
 ::: 
 :::: 
 
 ::: details Flere eksempel
-De seks medisinske kjernespørsmålene bestemmer hvilken … (Nortvedt et. al., 2012, s. 35).
-Ifølge Nortvedt et. al (2012, s. 35) bestemmer de seks medisinske kjernespørsmålene hvilke....
+De seks medisinske kjernespørsmålene (Nortvedt et. al., 2012, s. 35) bestemmer hvilken …
 
-Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe. 
+<span class="ref">GNortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe.</span>
 
+### Kapittel i redigert bok
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
 :::
+
+:::: ref
+<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx).  Forlag.</span>
+
+<span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Amsterdam: Elsevier.</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
 
 
