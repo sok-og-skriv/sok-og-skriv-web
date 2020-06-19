@@ -280,10 +280,10 @@ blabla
 
 ### Nettside uten forfatter
 
-..., jfr data fra Statistisk sentralbyrå.^13^
-
-::: tip I noten 
+.::: tip I noten 
 ^nr^ Nettstedets navn, "Artikkeltittel."
+
+.., jfr data fra Statistisk sentralbyrå.^13^
 
 ^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
 ::: 
@@ -329,11 +329,12 @@ blabla
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet).
 
-Håvamål betyr «den høyes tale»^15^
 
 ::: tip I noten  
 
 ^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
+
+Håvamål betyr «den høyes tale».^15^
 
 ^15^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 ::: 
@@ -342,10 +343,10 @@ Håvamål betyr «den høyes tale»^15^
 
 ### Artikkel i elektronisk leksikon (med forfatter)
 
-Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
-
 ::: tip I noten 
 ^nr^ _Tittel på leksikon/nettsted_, s.v. "oppslagsord," av Fornavn Etternavn, lesedato. URL/DOI
+
+Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
 ^16^ _Store norske leksikon_, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 :::
@@ -355,10 +356,11 @@ Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk o
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er den første, og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
 
-Alderdom kan defineres som ”…”^17^
 
 ::: tip I noten 
 ^nr^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
+
+Alderdom kan defineres som ”…”^17^
 
 ^17^_Kulturhistorisk leksikon_, s.v. "alderdom."
 ::: 
@@ -378,10 +380,11 @@ blabla
 
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
-… ifølge Dag Sveen^18^
 
 ::: tip I noten 
 ^nr^ Etternavn, ”Korttittel artikkel.” 
+
+… ifølge Dag Sveen.^18^
 
 ^18^ Sveen, ”Kritisk realisme”.
 :::
