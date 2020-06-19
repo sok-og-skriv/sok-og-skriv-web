@@ -12,7 +12,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 
 - Fotnoter nummereres fortløpende 1, 2, 3 og så videre.
 - Ved bruk av sluttnoter plasserer du alle notene til slutt i teksten, foran referanselisten.
-- I notene skriver du den fulle referansen første gang du bruker den. Etter det gir du referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang.
+- I notene skriver du den fulle referansen første gang du bruker den. Etter det gir du referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang. Her vises begge alternativer. 
 - Hvis du siterer fra eller viser til bestemte steder i en tekst, skal du også ha med sidetall.
 - Når du henviser til den samme referansen to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (bruk av _ibid_, latin for 'samme sted', frarådes i Chicago 17. utgave).
 - Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i "anførselstegn", se de ulike referansetypene under.
@@ -32,10 +32,14 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 
 ### Bok
 
-Morton Klass definerer myte som "..."^1^
+
 
 ::: tip I noten 
 ^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), evt. sidetall.
+
+**Eksempel**
+
+Morton Klass definerer myte som "..."^1^
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995), 125.
 :::
@@ -74,10 +78,11 @@ blabla
 
 ### Oversatt bok
 
-... skildret i romanen _Kelterens drøm_.^2^
 
 ::: tip I noten
 ^nr^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), evt. sidetall.
+
+... skildret i romanen _Kelterens drøm_.^2^
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
 :::
@@ -96,10 +101,11 @@ blabla
 
 ### Kapittel i redigert bok
 
-... i henhold til oppfatninger av kjønnsrollene i hennes levetid.^3^
 
 ::: tip I noten
 ^nr^ Etternavn, "Kortittel", evt. sidetall.
+
+... i henhold til oppfatninger av kjønnsrollene i hennes levetid.^3^
 
 ^3^ Åsebø, "Griselda Pollock", 273–274.
 :::
@@ -129,6 +135,9 @@ Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, 
 ::: 
 
 :::: ref 
+Etternavn, Fornavn, Fornavn, Etternavn osv. (red.). _Tittel_. Utgiversted: Forlag, årstall.
+
+
 Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal, 2008.
 ::: 
 
@@ -141,10 +150,12 @@ blabla
 
 ### Bok i flerbindsverk
 
-... dokumentert på grunnlag av kildevalget ….^5^
+
 
 ::: tip I noten
 ^nr^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ eventuelt sidetall.
+
+... dokumentert på grunnlag av kildematerialet ….^5^
 
 ^5^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 ::: 
@@ -166,10 +177,11 @@ blabla
 
 Doktoravhandlinger behandles som bøker. Den eneste forskjellen er at utgiversted og forlag erstattes med avhandlingstype og universitet.
 
-”Landskap har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
 
 ::: tip I noten
 ^nr^ Etternavn, _Korttittel_, eventuelt sidetall.
+
+”Landskap har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
 
 ^6^ Åsebø, _Femininitetens rom_, 327.
 :::
@@ -191,10 +203,11 @@ blabla
 
 Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
 
-I sin hovedoppgave diskuterer kunsthistoriker Espen Stange bruken av begrepet "brutalisme".^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
 ::: tip I noten
 ^nr^ Etternavn, ”Korttittel”, evt. sidetall.
+
+I sin hovedoppgave diskuterer kunsthistoriker Espen Stange bruken av begrepet "brutalisme".^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
 ^7^ Stange, "Inspirert av The New Brutalism?", 23.
 :::
@@ -241,7 +254,7 @@ blabla
 
 ### Avisartikkel (trykt og elektronisk)
 
-Ofte er det nok å henvise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
+Ofte er det tilstrekkelig å vise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
 ::: tip I noten
 ^nr^ Etternavn, "Artikkeltittel".
@@ -291,19 +304,19 @@ blabla
 
 ### Nettside med forfatter / blogg
 
-… ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
-
 ::: tip I noten 
 ^nr^ Etternavn, ”Artikkeltittel.”
 
-^14^ Tetens, "Dishing the Victorian Dirt".
+FINN NYTT EKSEMPEL
+
+^14^ 
 :::
 
 :::: ref
 
 Etternavn, Fornavn. ”Artikkeltittel,” Navn på nettsted/blogg. Dato (publisert/sist oppdatert eller lest). URL/DOI
 
-Tetens, Kristian. "Dishing the Victorian Dirt," _The Victorian Peeper. Nineteenth-century Britain through the looking glass_ (blogg). 25.04.2011. [https://www.victorianpeeper.blogspot.com/](https://www.victorianpeeper.blogspot.com/)
+EKSEMPEL
 
 ::: details I EndNote
 
@@ -444,13 +457,13 @@ Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, 
 
 Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
-... slik satsen ble tolket i framføringen under festspillene i Bergen, våren 2018^20^
-
 
 ::: tip I noten 
 ^nr^ Etternavn komponist, "Tittelspor" fra _Platetittel_, Etternavn på utøver(e), årstall.
 
-^20^ Berlioz, "Re^x^ tremendæ" fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
+... slik satsen ble tolket i framføringen under festspillene i Bergen, våren 2018^20^
+
+^20^ Berlioz, "Rex tremendæ" fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
 :::
 
 :::: ref
@@ -508,9 +521,9 @@ Forskrifter føres vanligvis ikke inn i referanselisten.
 
 St.meld. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Eventuelt URL.
 
-En stortingsmelding fra 2008^27^ tar for seg temaet arbeidsinnvandring.
+En stortingsmelding fra 2008^23^ tar for seg temaet arbeidsinnvandring.
 
-^27^ St.meld. nr. 18 (2007-2008), 15.
+^23^ St.meld. nr. 18 (2007-2008), 15.
 
 St.meld. nr. 18 (2007-2008). _Arbeidsinnvandring._ Oslo: Arbeidsdepartementet. [https://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/](https://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/)
 
@@ -526,15 +539,17 @@ blabla
 
 ### Proposisjoner
 
-:::: ref
+::: tip I noten
 ^nr^ Prop. nr. (sesjon), eventuelt sidetall.
 
+
+Regjeringen foreslo i forbindelse med revidert statsbudsjett å fjerne avgift på forbrenning av avfall.^24^
+
+^24^ Prop. 126 LS (2009-2010)
+:::
+
+:::: ref
 Prop. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Eventuelt URL
-
-Regjeringen^27^ foreslo i forbindelse med revidert statsbudsjett å fjerne avgift på forbrenning av avfall.
-
-^27^ Prop. 126 LS (2009-2010)
-
 Prop. 125 LS (2009-2010). _Endringer i skatte- og avgiftsreglane mv._ Oslo: Finansdepartementet. [https://www.regjeringen.no/no/dokumenter/Prop-126-LS-2009-2010/id604532/sec1](https://www.regjeringen.no/no/dokumenter/Prop-126-LS-2009-2010/id604532/sec1)
 
 ::: details I EndNote
@@ -547,12 +562,21 @@ blabla
 
 ### Norges offentlige utredninger (NOU)
 
-:::: ref
+SJEKK om dette er rett satt opp
+
+::: tip I noten
 x NOU årstall: nr., eventuelt sidetall.
+
+I NOU _Struktur for likestilling_^28^ hevdes det at …
+
+
+
+:::: ref
+
 
 NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Eventuelt URL
 
-I NOU _Struktur for likestilling_^28^ hevdes det at…
+
 
 ^28^ NOU 2011: 18, 25.
 
@@ -570,14 +594,13 @@ blabla
 
 ### Hellige skrifter og klassiske tekster
 
-Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver, sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel Bibelen, Koranen, klassiske skuespill, dikt og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, enten ved å oppgi tekststed i parentes eller i en fotnote. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å ta inn i referanselisten til slutt.
+Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver, sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel Bibelen, Koranen, klassiske skuespill, dikt og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, enten ved å oppgi tekststed i parentes eller i en fotnote. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å ta inn i referanselisten.
 
 
-
-::: footnote
+::: tip I noten
 I Lukasevangeliet er Maria i tvil om hun virkelig vil føde Guds barn.^26^ 
 
-Eller
+Eller:
 
 I Lukasevangeliet (Luk. 1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
 
@@ -586,18 +609,21 @@ I Lukasevangeliet (Luk. 1:34) er Maria i tvil om hun virkelig vil føde Guds bar
 
 ### Manuskript under vurdering, men ikke antatt (submitted)
 
-For manuskripter som er under vurdering skal tittel stå i anførselstegn, ikke kursiv. Erstatt dato/årstall med teksten innsendt for publisering. Ellers følges retningslinjene for den aktuelle referansetypen.
+For bokmanuskripter som er under vurdering, skal tittel stå i anførselstegn, ikke kursiv. Erstatt dato/årstall med teksten innsendt for publisering. Ellers følges retningslinjene for den aktuelle referansetypen.
+
+::: tip I noten
+
+^nr^ Etternavn, ”Korttittel”.
+:::
 
 :::: ref
-^x^ Etternavn, _”Korttittel”_, sidetall.
+Etternavn, Fornavn. ”Tittel”. Utgiversted: Utgiver, innsendt for publisering.
 
-Etternavn, Fornavn. _”Tittel”_. Utgiversted: Utgiver, innsendt for publisering.
+Nyere forskning peker i retning av (…)^24^
 
-Nyere forskning^29^ peker i retning av (…)
+^24^ Trille, ”Stort og smått”.
 
-^29^ Trille, _”Stort og smått”_.
-
-Trille, Lille. _”Stort og smått i eggbransjen”_. Norsk tidsskrift for fiktive figurer fra rim og regler, innsendt for publisering.
+Trille, Lille. ”Stort og smått i eggbransjen”. _Norsk tidsskrift for fiktive figurer fra rim og regler_, innsendt for publisering.
 
 ::: details I EndNote
 
@@ -606,19 +632,18 @@ blabla
 :::: 
 
 
-
 ### Manuskript under publisering, antatt (in press/forthcoming)
 
-Dersom det er en artikkel eller kapittel i en bok, oppgi sidetall hvis tilgjengelig. Dersom publikasjonstidspunkt er kjent, kan dette antydes, markert med forventet publisering (for eksempel høsten 2020) i stedet for publiseringsdato. Ellers skriver du bare ”under publisering.” For øvrig følges retningslinjene for den aktuelle referansetypen, ta med for eksempel årgang og nummer for tidsskrift hvis dette er kjent.
+Dersom det er en artikkel eller kapittel i en bok, oppgi sidetall hvis tilgjengelig. Dersom publiseringstidspunkt er kjent, kan dette antydes, markert med forventet publisering (for eksempel høsten 2020) i stedet for publiseringsdato. Ellers skriver du bare ”under publisering.” For øvrig følges retningslinjene for den aktuelle referansetypen, ta med for eksempel årgang og nummer for tidsskrift hvis dette er kjent.
 
 :::: ref
-^x^ Etternavn, _Korttittel_, sidetall hvis tilgjengelig.
+^nr^ Etternavn, _Korttittel_, sidetall hvis tilgjengelig.
 
 Etternavn, Fornavn. _Tittel_. Utgiversted: Utgiver. Under publisering.
 
-Ifølge Ola Nordmann er det en sannsynlig sammenheng mellom disse faktorene.^30^
+Ifølge Ola Nordmann er det en sannsynlig sammenheng mellom disse faktorene.^25^
 
-^30^ Nordmann, _Håp og tro_.
+^25^ Nordmann, _Håp og tro_.
 
 Nordmann, Ola. _Håp og Tro: En studie av religiøse forestillinger_. Oslo: Fiktivt Forlag. Forventet publisering 2020.
 
@@ -636,23 +661,25 @@ Personlig kommunikasjon kan være direkte tale, e-post og liknende. Forbokstaver
 
 ::: tip I noten
 
-”For øvrig mener jeg at Karthago bør ødelegges.” ^31^
+”For øvrig mener jeg at Karthago bør ødelegges.” ^26^
 
-^31^ Personlig kommunikasjon i e-post fra Cato den eldre, 01.02.20.
+^26^ Personlig kommunikasjon i e-post fra Cato den eldre, 01.02.20.
 :::
 
 ### Arkivmateriale og ikke trykte dokumenter
 
 I primærkilder og arkivmateriale er det ofte brukt unike forkortelser, som betegnelser for dokumenter, arkiver, kataloger og institusjoner. Det er vanlig å gruppere disse referansene for seg i referanselisten, og å inkludere en liste over forkortelsene som er brukt. Det varierer hva slags informasjon som finnes i/om kilden – oppgi den så nøyaktig og fullstendig som mulig.
 
+::: tip I noten 
+^nr^ Forkortelse for kilde, opphavsperson, kildetype, ev. andre opplysninger, sideanvisning.
+
+... slik som dokumentert i panteboken.^27^
+
+^27^ BPB, 1, nr.1, 1680–1684. Byfogd og byskriver i Bergen, pag. 222.
+:::
+
 :::: ref
-^x^ Forkortelse for kilde, opphavsperson, kildetype, ev. andre opplysninger, sideanvisning.
-
 Institusjon, Kilde, opphavsperson, kildetype, sideanvisning, ev. andre opplysninger. Årstall.
-
-... slik som dokumentert i panteboken.^32^
-
-^32^ BPB, 1, nr.1, 1680–1684. Byfogd og byskriver i Bergen, pag. 222.
 
 Statsarkivet i Bergen, Pantebok I, Byfogd og byskriver i Bergen. Pantebok 1. 1680–1684.
 
@@ -670,14 +697,17 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 
 ### Sosiale medier
 
-:::: ref
-^x^ Etternavn/gruppe/institusjon, ”Sitat (inntil 160 tegn).”
+::: tip I noten
+^nr^ Etternavn/gruppe/institusjon, ”Sitat (inntil 160 tegn).”
 
-Fornavn Etternavn/gruppe/institusjon, ”Sitat, (inntil 160 tegn)” Navn på sosialt medium, publiseringsdato, URL
-
-…som mottok fattighjelp, ble forhindret fra å stemme ved kommunevalget i 1916.^18^
+… som mottok fattighjelp, ble forhindret fra å stemme ved kommunevalget i 1916.^18^
 
 ^18^ Stortinget, "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp."
+:::
+
+:::: ref
+Fornavn Etternavn/gruppe/institusjon, ”Sitat, (inntil 160 tegn)” Navn på sosialt medium, publiseringsdato, URL
+
 
 Stortinget. "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp," Facebook, 3.12.2019, [https://www.facebook.com/stortinget/posts/2555777227987301](https://www.facebook.com/stortinget/posts/2555777227987301)
 
@@ -694,59 +724,13 @@ Se også [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part
 
 Det er dessverre umulig å lage en uttømmende liste med eksempler på alle type kilder. For flere eksempler anbefaler vi se i [Chicago manual of style](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) (din institusjon må ha abonnement). Manualen finnes også i [trykt versjon](https://bibsys-almaprimo.hosted.exlibrisgroup.com/permalink/f/16a854r/BIBSYS_ILS71547309680002201).
 
-## Eksempler på henvisninger
 
-### Sitat
+### Sitater 
 
-Et direkte sitat fra en annen forsker/forfatter må være korrekt gjengitt og inneholde henvisning. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med anførselstegn.
+Et direkte sitat fra en annen forsker/forfatter må være helt presist gjengitt med kildehenvisning. Sitater som er tre linjer eller kortere skrives direkte inn i teksten med anførselstegn. Sitater som er lengre enn tre linjer markeres med innrykk, men ikke anførselstegn.
 
-Willy Guneriussen understreker at: "De klassiske forestillingene om det moderne er selv en _del av den moderne kulturen_. De kan leses som "kilder" – som manifestasjoner av kulturelle tendenser eller tradisjoner."^1^
-
-Note:  
-^1^ Guneriussen, _Å forstå det moderne_, 14.
-
-Innførsel i referanselisten:  
-Guneriussen, Willy. _Å forstå det moderne_. Oslo: Tano Aschehoug, 1999.
-
-Sitater som er lengre enn tre linjer markeres med kolon etter løpende tekst og innrykk. Her er det ikke nødvendig med anførselstegn.
-
-USAs historie er preget av innvandring. Når det gjelder religion og etnisk tilhørighet blant minoriteter i USA skriver Valerie Martinez-Ebers og Manochehr Dorraj at vi finner store variasjoner tross felles språk som blant latinamerikanske minoriteter:
-
-> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics - both characteristics are the result of their origin countries’ shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status).^2^_
-
-Note:  
-^2^ Martinez-Ebers og Dorraj, _Perspectives on Race, Ethnicity, and Religion,_ 5.
-
-Innførsel i referanselisten:  
-Martinez-Ebers, Valerie og Manochehr Dorraj. _Perspectives on Race, Ethnicity, and Religion: Identity Politics in America_. New York: Oxford University Press, 2010.
-
-Når du oversetter sitat kan du enten oppgi originalsitatet i teksten og oversettelsen i noten, eller oversettelsen i teksten og originalsitatet i noten. Sett i begge tilfeller inn en merknad i noten om at det er din oversettelse.
-
-_Enten:_
-
-Victor Turner hevder at "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]."^3^
-
-Note:  
-^3^ "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]" (Min oversettelse). Turner, _The Anthropology of Performance_, 41.
-
-_Eller:_
-
-Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]"^4^
-
-Note:  
-^4^ (Min oversettelse) "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]." Turner, _The Anthropology of Performance_, 41.
-
-Innførsel i referanselisten:  
-Turner, Victor. _The Anthropology of Performance_. New York: PAJ, 1988.
+Hvis du oversetter sitat, kan du enten oppgi originalsitatet i teksten og oversettelsen i noten, eller oversettelsen i teksten og originalsitatet i noten. Lag i begge tilfeller en merknad i noten om at det er din oversettelse.
 
 ### Indirekte sitat
 
-Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde skal henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden og å kontrollere fakta.
-
-Kari-Marie Kloster snakker i sin hovedfagsoppgave om at singellivet som eksisterer i det senmoderne samfunnet er en konsekvens av demokratiseringen i den private sfæren.^5^
-
-Note:  
-^5^ Kloster, ”Singelliv”, 10.
-
-Innførsel i referanselisten:  
-Kloster, Kari-Marie. ”Singelliv: i grenselandet mellom enslighet og parforhold.” Hovedfagsoppgave, Institutt for kulturstudier og kunsthistorie, Universitetet i Bergen, 2003.
+Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde skal henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden.
