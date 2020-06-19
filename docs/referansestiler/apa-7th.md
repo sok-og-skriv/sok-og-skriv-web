@@ -39,38 +39,34 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 ### Bok
 
 ::: teksten
-Bok med en til tre forfattere:  
+**Bok med en til tre forfattere:**  
 (Etternavn & etternavn, årstall, eventuelt sidetall)  
 
-Bok med fire til 20 forfattere:  
+**Bok med fire til 20 forfattere:**  
 (Første forfatters etternavn, et. al., årstall, eventuelt sidetall)
 
-Bok med 21 forfattere eller flere:
+**Bok med 21 forfattere eller flere:**
 (Første forfatters etternavn, et. al., årstall, eventuelt sidetall)
 
-1. Retterstøl, Ekeberg & Mehlum (2002, s. 54) hevder at …
-2. (Gullestad & Killingmo, 2013, s. 35)
-3. De seks medisinske kjernespørsmålene bestemmer hvilken … (Nortvedt et. al., 2012, s. 35).
-4. Ifølge Nortvedt et. al (2012, s. 35) bestemmer de seks medisinske kjernespørsmålene hvilke....
+(Gullestad & Killingmo, 2013, s. 35)
+
 :::
 
 :::: ref
-_Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
-
 <span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (evt. utg.). Forlag.</span>
-Bok med en til tre forfattere:  
-<span class="ref">Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
+_Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
+  
+**Bok med en til tre forfattere:**
+<span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
 
-Bok med fire til 21 forfattere:  
-Alle forfatterene skal nevnes.
+**Bok med fire til 21 forfattere:**  
 <span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
+_Alle forfattere nevnes_
 
-Bok med flere enn 21 forfattere: 
+**Bok med flere enn 21 forfattere:** 
 <span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D.,...Forfatter, Ø.Ø. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
 
 <span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Oslo: Gyldendal.</span>
-
-
 
 :::
 ::: details I EndNote

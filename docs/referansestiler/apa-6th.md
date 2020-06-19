@@ -35,15 +35,6 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første.
 - Om verket har mer enn syv forfattere, listes de seks første, fulgt av en ellipse (. . .) og sisteforfatteren.
 
-
-
-
-
-
-
-
-
-
 ## Bøker
 
 ### Bok
