@@ -34,7 +34,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 
 Morton Klass definerer myte som "..."^1^
 
-::: footnote 
+::: tip I noten 
 ^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995), 125.
@@ -54,7 +54,7 @@ blabla
 
 ### E-bok
 
-::: footnote
+::: tip I noten
 ^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
 
 ^1^ Childs, _Modernism_ (London: Taylor & Francis, 2016), ProQuest Ebook Central.
@@ -76,7 +76,7 @@ blabla
 
 ... skildret i romanen _Kelterens drøm_.^2^
 
-::: footnote
+::: tip I noten
 ^nr^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), evt. sidetall.
 
 ^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
@@ -98,7 +98,7 @@ blabla
 
 ... i henhold til oppfatninger av kjønnsrollene i hennes levetid.^3^
 
-::: footnote
+::: tip I noten
 ^nr^ Etternavn, "Kortittel", evt. sidetall.
 
 ^3^ Åsebø, "Griselda Pollock", 273–274.
@@ -122,8 +122,7 @@ blabla
 Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
 
 
-::: footnote 
-
+::: tip I noten
 ^nr^ Etternavn et al., _Boktittel_, eventuelt sidetall. 
 
 ^4^ Mortensen et al., _Kjønnsteori_, 11.
@@ -144,7 +143,7 @@ blabla
 
 ... dokumentert på grunnlag av kildevalget ….^5^
 
-::: footnote 
+::: tip I noten
 ^nr^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ eventuelt sidetall.
 
 ^5^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
@@ -169,7 +168,7 @@ Doktoravhandlinger behandles som bøker. Den eneste forskjellen er at utgiverste
 
 ”Landskap har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
 
-::: footnote 
+::: tip I noten
 ^nr^ Etternavn, _Korttittel_, eventuelt sidetall.
 
 ^6^ Åsebø, _Femininitetens rom_, 327.
@@ -194,8 +193,8 @@ Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter 
 
 I sin hovedoppgave diskuterer kunsthistoriker Espen Stange bruken av begrepet "brutalisme".^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
-::: footnote 
-^nr^ Etternavn, ”Korttittel”, eventuelt sidetall.
+::: tip I noten
+^nr^ Etternavn, ”Korttittel”, evt. sidetall.
 
 ^7^ Stange, "Inspirert av The New Brutalism?", 23.
 :::
@@ -221,7 +220,7 @@ blabla
 
 Trykte og elektroniske artikler følger samme oppsett. For elektroniske artikler inkluderes gjerne publiseringsmåned sammen med årstall, samt DOI eller hvis dette ikke er tilgjengelig, URL.  
 
-::: footnote 
+::: tip I noten 
 ^nr^ Etternavn, "Korttittel", evt. sidetall.
 
 ^9^ Kalyvas, "Whose Crisis? Which Democracy?", 385.
@@ -240,11 +239,11 @@ blabla
 :::: 
 
 
-### Artikkel i nettavis
+### Avisartikkel (trykt og elektronisk)
 
 Ofte er det nok å henvise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
-::: footnote 
+::: tip I noten
 ^nr^ Etternavn, "Artikkeltittel".
 
 ^11^ Røyrane, "Hanseatene kommer tilbake".
@@ -252,29 +251,9 @@ Ofte er det nok å henvise til avisartikler i noten, og det er ikke strengt nød
 
 :::: ref
 
-Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato. URL/DOI
+Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato. Eventuelt URL/DOI
 
 Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
-
-
-### Artikkel i trykt avis
-
-Ofte er det nok å henvise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
-
-^nr^ Etternavn, "Artikkeltittel."
-^12^ Nærø, "Ketil Bjørnstad."
-
-:::: ref
-
-Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato.
-
-Nærø, Sturle Scholz. "Ingen tok Ketil Bjørnstad på alvor." _Aftenposten_. 25.01.2013.
 
 ::: details I EndNote
 
@@ -290,9 +269,11 @@ blabla
 
 ..., jfr data fra Statistisk sentralbyrå.^13^
 
+::: tip I noten 
 ^nr^ Nettstedets navn, "Artikkeltittel."
 
 ^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
+::: 
 
 :::: ref
 
@@ -312,9 +293,11 @@ blabla
 
 … ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^14^
 
+::: tip I noten 
 ^nr^ Etternavn, ”Artikkeltittel.”
 
 ^14^ Tetens, "Dishing the Victorian Dirt".
+:::
 
 :::: ref
 
@@ -335,7 +318,7 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Håvamål betyr «den høyes tale»^15^
 
-::: footnote 
+::: tip I noten  
 
 ^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
 
@@ -348,23 +331,23 @@ Håvamål betyr «den høyes tale»^15^
 
 Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-^nr^ _Tittel på leksikon/nettsted_, s.v. "oppslagsord," av Fornavn Etternavn, dato. URL/DOI
+::: tip I noten 
+^nr^ _Tittel på leksikon/nettsted_, s.v. "oppslagsord," av Fornavn Etternavn, lesedato. URL/DOI
 
 ^16^ _Store norske leksikon_, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
-
+:::
 
 
 ### Artikkel i trykt leksikon/oppslagsverk
 
-Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er første og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
+Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er den første, og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
 
 Alderdom kan defineres som ”…”^17^
 
-::: footnote 
+::: tip I noten 
 ^nr^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
 
 ^17^_Kulturhistorisk leksikon_, s.v. "alderdom."
-
 ::: 
 
 :::: ref
@@ -382,16 +365,18 @@ blabla
 
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
-:::: ref
-^nr^ Etternavn, ”Korttittel artikkel.”
+… ifølge Dag Sveen^18^
 
-Etternavn, Fornavn. ”Artikkeltittel”, i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
-
-…ifølge Dag Sveen^18^
+::: tip I noten 
+^nr^ Etternavn, ”Korttittel artikkel.” 
 
 ^18^ Sveen, ”Kritisk realisme”.
+:::
 
-Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax forlag, 1979.
+:::: ref 
+Etternavn, Fornavn. ”Artikkeltittel”, i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
+
+Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax, 1979.
 
 ::: details I EndNote
 
@@ -400,16 +385,15 @@ blabla
 :::: 
 
 
-
 ## Visuelle kilder
 
-For å bruke et bilde eller et kunstverk som illustrasjon i teksten din må du normalt hente inn tillatelse fra opphavsrettshaver eller eier. For kilder som ligger fritt tilgjengelig på nett holder det å oppgi eier og hvor du har hentet det fra. Informasjon om kunstverk presenteres snarere i teksten enn i note eller referanseliste. Ta i alle tilfelle med så mye av den følgende informasjonen som er tilgjengelig: navn på opphavsperson/kunstner, tittel i kursiv,  dato og/eller år for verket og/eller når reproduksjonen av det ble laget, medium (for eksempel foto/olje på lerret/silketrykk),og plassering, størrelse. Hvis bibliografi er påkrevd, gjentas samme informasjon her.
+For å bruke et bilde eller et kunstverk som illustrasjon, må du normalt hente inn tillatelse fra opphavsrettshaver eller eier. For kilder som ligger fritt tilgjengelig på nett holder det å oppgi eier og hvor du har hentet det fra. Informasjon om kunstverk presenteres snarere i teksten enn i note eller referanseliste. Ta i alle tilfelle med så mye av følgende informasjonen som er tilgjengelig: navn på opphavsperson/kunstner, tittel i kursiv,  dato og/eller år for verket og/eller når reproduksjonen av det ble laget, medium (for eksempel foto/olje på lerret/silketrykk),og plassering, størrelse. Hvis referansliste er påkrevd, gjentas samme informasjon her.
 
 I oppgaver/avhandlinger med mange illustrasjoner er det vanlig å ha en egen liste over disse.
 
 ### Fotografi
 
-:::: ref
+::: ref
 Kildehenvisningen er i billedteksten.
 
 Etternavn, Fornavn. _Tittel_. Årstall. Medium. Inventarnummer. Eieren av bildet. URL
@@ -418,17 +402,13 @@ Billedtekst, for eksempel: Passepike i Bergen i mellomkrigstiden (utsnitt). Foto
 
 Olsen, Olai Schumann. _St. Hans Strædet i Bergen_. Foto. Ca. 1920. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434 
 
-::: details I EndNote
-
-blabla 
 ::: 
-:::: 
 
 
 
 ### Reproduksjon av kunstverk
 
-:::: ref
+::: ref
 Kildehenvisningen er i billedteksten.
 
 Etternavn, Fornavn. _Tittel._ Årstall. Medium. Størrelse. Plassering (eier). Sted (der dette ikke kommer frem av institusjonsnavn). Fotografert av Fornavn Etternavn. URL
@@ -437,24 +417,16 @@ Billedtekst, for eksempel: Edvard Munch, _Skrik_, 1893. Gjengitt med tillatelse
 
 Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 ^x^ 73,5 cm.. Nasjonalmuseet for kunst, arkitektur og design. Oslo. Fotografert av Børre Høstland. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939)
 
-::: details I EndNote
-
-blabla 
 ::: 
-:::: 
 
 
 
 ### Digitale bilder/film
 
 :::: ref
-^x^ Opphavsperson, _Tittel_Opphavsperson Etternavn, Fornavn. _Tittel._ Medium, ev. andre opplysninger. Dato. URL/DOI
+^nr^ Opphavsperson, _Tittel_ Opphavsperson Etternavn, Fornavn. _Tittel._ Medium, ev. andre opplysninger. Lesedato. URL/DOI
 
-... som poengtert i språkvideoen til Moss^22^
-
-^22^ Bodil Moss, _Language as a tool in academic writing_
-
-Moss, Bodil. _Language as a tool in academic writing._ Video, 6:14. Mai 2018. [https://vimeo.com/269854439](https://vimeo.com/269854439)
+EKSEMPEL
 
 Se Chicago-manualen for flere eksempler på henvisning til multimediale kilder og apper.
 
@@ -472,14 +444,18 @@ Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, 
 
 Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
+... slik satsen ble tolket i framføringen under festspillene i Bergen, våren 2018^20^
+
+
+::: tip I noten 
+^nr^ Etternavn komponist, "Tittelspor" fra _Platetittel_, Etternavn på utøver(e), årstall.
+
+^20^ Berlioz, "Re^x^ tremendæ" fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
+:::
+
 :::: ref
-^x^ Etternavn komponist, "Tittelspor" fra _Platetittel_, Etternavn på utøver(e), årstall.
 
 Etternavn, Fornavn. _Tittel_. Fornavn Etternavn på utøver(e). Årstall. Plateselskap. Lydformat.
-
-... slik satsen ble tolket i framføringen under festspillene i Bergen, våren 2018^23^
-
-^23^ Berlioz, "Re^x^ tremendæ" fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
 
 Berlioz, Hector. "Rex tremendæ" fra _Grande messe des morts, op.5, h75_. Bror Magnus Tødenes, tenor, Choir of Collegiûm Mûsicûm, Edvard Grieg kor, Royal Northern College of Music Chorus, Bergen Philharmonic Choir, Håkon Matti Skrede, chorus master, Eikanger-Bjørsvik musikklag, musicians from Bergen philharmonic youth orchestra and Crescendo, Bergen philharmonic orchestra, David Stewart, leader, Edward Gardner, conductor. 2018. Chandos. CD.
 
@@ -501,26 +477,26 @@ Eksemplene nedenfor viser hvordan man kan håndtere enkle referanser til lovteks
 
 
 ::: tip I noten
-^x^ Lovens sanksjonsdato, nummer og fullstendig tittel, evt. paragraf, (korttittel) og URL  
+^nr^ Lovens sanksjonsdato, nummer og fullstendig tittel, evt. paragraf, (korttittel) og URL  
 
-Helsepersonell skal sørge for at helsehjelpen ikke påfører pasienter, helseinstitusjon, trygden eller andre unødvendig tidstap eller utgift.^24^
+Helsepersonell skal sørge for at helsehjelpen ikke påfører pasienter, helseinstitusjon, trygden eller andre unødvendig tidstap eller utgift.^21^
 
-^24^ Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) https://lovdata.no/lov/1999-07-02-64
+^21^ Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) https://lovdata.no/lov/1999-07-02-64
 :::
 
-Loven føres vanligvis ikke inn i litteraturlisten.   
+Loven føres vanligvis ikke inn i referanselisten.   
 
 For mange lover er det vedtatt korttittel som del av den fullstendige tittelen. Slike korttitler kan brukes i stedet for fullstendig tittel etter at fullstendig informasjon om loven er presentert første gang. For eksempel: 24 Helsepersonelloven, § 6  
 Korttittelen kan brukes i den målformen den er vedtatt, selv om oppgaven er på en annen målform.
 
 ### Forskrifter
 
-::: footnote
+::: tip I noten
 ^nr^ Forskrift dato nr. formelt navn evt. (korttittel) og URL
 
-Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse omsettes i apotekene.^25^
+Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse omsettes i apotekene.^22^
 
-^25^ Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) https://lovdata.no/forskrift/2009-12-18-1839
+^22^ Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) https://lovdata.no/forskrift/2009-12-18-1839
 :::
 
 Forskrifter føres vanligvis ikke inn i referanselisten.
