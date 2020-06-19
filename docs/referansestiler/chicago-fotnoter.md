@@ -133,6 +133,9 @@ Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, 
 ::: 
 
 :::: ref 
+Etternavn, Fornavn, Fornavn, Etternavn osv. (red.). _Tittel_. Utgiversted: Forlag, årstall.
+
+
 Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal, 2008.
 ::: 
 
