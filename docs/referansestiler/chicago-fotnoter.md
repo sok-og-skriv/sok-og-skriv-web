@@ -252,7 +252,7 @@ blabla
 :::: 
 
 
-### Avisartikkel (trykt og elektronisk)
+### Avisartikkel (trykt/elektronisk)
 
 Ofte er det tilstrekkelig å vise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
@@ -336,7 +336,7 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Håvamål betyr «den høyes tale».^15^
 
-^15^ Wikipedia, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+^15^ _Wikipedia_, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 ::: 
 
 
