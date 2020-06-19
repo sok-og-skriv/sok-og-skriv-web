@@ -4,7 +4,7 @@ date: "2012-05-15"
 ---
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og kjeldeliste skal sjå ut, vil avhenge av kva referansestil du skal nytte. Kva referansestil som er aktuell vil variere frå fag til fag. Nokon står fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Det er viktig at du tek utgangspunkt i *ein* referansestil og føl denne konsekvent.
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av kva referansestil du skal nytte. Kva referansestil som er aktuell vil variere frå fag til fag. Nokon står fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Det er viktig at du tek utgangspunkt i *ein* referansestil og føl denne konsekvent.
 
 
 På Søk & Skriv viser vi stilane [APA, 7 utgåve](/referansestiler/apa-7th), [Chicago med fotnoter](/referansestiler/chicago-fotnoter), [Chicago, forfatter-år](/referansestiler/chcago-forfatter-aar), [Harvard](/referansestiler/harvard), [MLA](/referansestiler/mla) og [Vancouver](/referansestiler/vancouver).
@@ -12,7 +12,7 @@ På Søk & Skriv viser vi stilane [APA, 7 utgåve](/referansestiler/apa-7th), [C
 
 :::: details Forkortingar
 
-Det blir nytta ein del standardforkortingar ved utforming av kjeldeliste og kjeldehenvisningar. Nedanfor nemner vi ein del av dei. Hugs at forkorta versjoner av ord alltid skal ha punktum etterpå. 
+Det blir nytta ein del standardforkortingar ved utforming av referanseliste og kjeldehenvisningar. Nedanfor nemner vi ein del av dei. Hugs at forkorta versjoner av ord alltid skal ha punktum etterpå. 
 
 - **b.** bind. 
 - **anon.** Anonym. Denne nyttes når forfatteren er ukjend. 
@@ -94,7 +94,7 @@ Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegels
 - Avgrens bruk av notar.
 - Notar skal nyttast til tilleggsopplysningar som ikkje er ein naturleg del av teksten. 
 - Du kan velje om du vil nytte fotnotar nedst på sida eller som sluttnotar bak i kapitlet/oppgåva. Vel du å plassere notane som fotnotar er det vanleg å ha ein mindre skrifttype for å skilje notane frå hovudteksten.
-- Pass på at du ikkje blandar tilvisingar til ei kjeldeliste og tilvisingar til notar.
+- Pass på at du ikkje blandar tilvisingar til ei referanseeliste og tilvisingar til notar.
 - Nøyaktig korleis notetilvisinga gjerast er ofte avhenging av kva referansestil du nyttar. Det er for eksempel ikkje føremålsteneleg å nytte nummererte notar dersom du nytter ein nummerert referansestil.
 - Vedlegg er lister over tabellar og figurar som er med i oppgåva, spørreskjema, observasjonsskjema, intervjuguide og liknande. Vedlegg skal nummerast og plasserast etter litteraturlista.
 
@@ -102,6 +102,6 @@ Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegels
 
 ## Verktøy for å handtere referanser
 
-For større oppgåver som bacheloroppgåver og masteroppgåver kan du effektivisere arbeidet med referansane dine ved å nytte referansehandteringsverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
-Undersøk med studiestaden din kva referansehåndteringsverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengeleg for alle.
+For større oppgåver som bacheloroppgåver og masteroppgåver kan du effektivisere arbeidet med referansane dine ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
+Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengeleg for alle.
 

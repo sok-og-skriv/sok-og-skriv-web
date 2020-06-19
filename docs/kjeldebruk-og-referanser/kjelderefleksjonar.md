@@ -14,7 +14,7 @@ Når du skal vurdere ei kjelde, kan ein god start vere å sjå nærare  på forf
 
 ### Utgjevar/ansvarleg
 
-Utgjevar eller ansvarleg kan vere med på å påverke innhaldet. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. Kva blir utgjeve på forlaget eller i tidsskriftet? Sjå etter ei skildring av kva dei er interessert i å gje ut, og kva tema dei vanlegvis dekker. Undersøk også forlaget og tidsskriftet i [«Register over vitenskapelige publiseringskanaler»](https://dbh.nsd.uib.no/publiseringskanaler/Forside). Om forlaget eller tidsskrifter står oppført som anten nivå 1 eller nivå 2 kanalar, kan du regne med at det er eit seriøst og godt forlag eller tidsskrift. 
+Utgjevar eller ansvarleg kan vere med på å påverke innhaldet. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. Kva blir utgjeve på forlaget eller i tidsskriftet? Sjå etter ei skildring av kva dei er interessert i å gje ut, og kva tema dei vanlegvis dekker. Undersøk også forlaget og tidsskriftet i [«Register over vitenskapelige publiseringskanaler»](https://dbh.nsd.uib.no/publiseringskanaler/Forside). Om forlaget eller tidsskriftet står oppført som anten nivå 1 eller nivå 2, kan du rekne med at det er eit seriøst og godt forlag eller tidsskrift. 
 
 ### Kjeldebruk
 - I kva grad refererer forfattaren til andre kjelder?
@@ -26,13 +26,13 @@ Ta alltid ei vurdering av kjelda sine referanser og tilvisingar for å sjå kven
 
 ### Når er kjelda blitt til?
 
-Sjekk publiseringstidspunkt for kjelda. Ofte er vi ute etter informasjon som er oppdatert, og som gjev den nyaste kunnskapen innan fagfeltet. Her vil det vere aktuelt å tenkje kjelder frå dei siste 5-10 åra. Andre gonger er vi ute etter eldre informasjon. Det kan vere informasjon publisert innanfor ein historisk periode eller i eit spesifikt år. Her kan det vere aktuelt med referansar publisert for meir enn 5-10 år sidan. 
+Sjekk publiseringstidspunkt for kjelda. Ofte er vi ute etter informasjon som er oppdatert, og som gjev den nyaste kunnskapen innan fagfeltet. Her vil det vere aktuelt å konsentrere seg om kjelder frå dei siste 5-10 åra. Andre gonger er vi ute etter eldre informasjon. Det kan vere informasjon publisert innanfor ein historisk periode eller i eit spesifikt år. Her kan det vere aktuelt med referansar publisert for meir enn 5-10 år sidan. 
 
 For å sikre deg oppdatert kunnskap bør du skaffe siste utgåve av ei bok, dersom ho har kome i fleire utgåver. 
 - Undersøk utgjevnadsstidspunkt ved å sjå kolofonsida i boka (oftast baksida av tittelbladet).
 - Undersøk kva utgåve det er. Er det ei ny og revidert utgåve, eller eit opptrykk/nytt opplag av tidlegare utgåve?  
 - Undersøk datering på kjelda sine eigne referansar.
-- Nytter du ressursar på nett, bør du sjekke når informasjonen er publisert, eller sist oppdatert.
+- Nyttar du ressursar på nett, bør du sjekke når informasjonen er publisert, eller sist oppdatert.
 
 ### Målgruppe og sjanger
 
@@ -80,7 +80,7 @@ Kva er bodskapen til kjelda?
 [**Helseeffekter av fysisk aktivitet**](https://www.fhi.no/ml/aktivitet/helseeffekter-av-fysisk-aktivitet/)
 
 :::: details Vårt vurderingforslag
-Dette er ein artikkel publisert på folkehelseinstituttet si nettisde i 2019. Her kan me vurdere utgjevar som truverdig og innhaldet som oppdatert. Artikkelen innleiier med å vise til tidlegare forsking og har ei fyldig kjeldeliste til sist. Her kunne det vere nyttig å lese artikkelen for å danne eg eit bilete av feltet for deretter å gå nærare inn i stoffet via forskinga det blir vist til. Både folkehelsesintituttet sin artikkel og referansar kan fungere som kjelder. Teksten er opplysande bodskapen ser ut til å vere at fysisk aktivitet er godt for helsa.
+Dette er ein artikkel publisert på folkehelseinstituttet si nettisde i 2019. Her kan me vurdere utgjevar som truverdig og innhaldet som oppdatert. Artikkelen innleiier med å vise til tidlegare forsking og har ei fyldig referanseliste til sist. Her kunne det vere nyttig å lese artikkelen for å danne eg eit bilete av feltet for deretter å gå nærare inn i stoffet via forskinga det blir vist til. Både folkehelsesintituttet sin artikkel og referansar kan fungere som kjelder. Teksten er opplysande og bodskapen ser ut til å vere at det finst godt belegg for påstanden om at fysisk aktivitet er godt for helsa.
 ::::
 ::: 
 
@@ -88,7 +88,7 @@ Dette er ein artikkel publisert på folkehelseinstituttet si nettisde i 2019. He
 [**Gjør du dette hver dag, forebygger du 30 sykdommer**]( https://www.klikk.no/helse/gar-du-i-rask-gange-hver-dag-forebygger-du-mot-30-ulike-sykdommer-6817180)
 
 :::: details Vårt vurderingsforslag 
-Dette er ei sak frå nettmagasinet klikk.no publisert i 2019. Saka viser til forsking, men har inga kjeldeliste. Dersom innhaldet er relevant kan det vere aktuelt å søke vidare på forsinka det blir vist til, men saka frå klikk.no fungerer dåleg som kjelde. Dersom du ønskjer å seie noko om dekninga av helsestoff i media kan  saka fungere som ein illustrasjon. Teksten er opplysande, men sett på spissen. Overskrifta og innleiinga er særleg spissa, og ein bør ta med i vurderinga at teksten er publisert i ein kommersiell komersiell kanal.
+Dette er ei sak frå nettmagasinet klikk.no publisert i 2019. Saka viser til forsking, men har inga referanseliste. Dersom innhaldet er relevant kan det vere aktuelt å søke vidare på forsinka det blir vist til, men saka frå klikk.no fungerer dåleg som kjelde. Dersom du ønskjer å seie noko om dekninga av helsestoff i media kan  saka fungere som ein illustrasjon. Teksten er opplysande, men sett på spissen. Overskrifta og innleiinga er særleg spissa, og ein bør ta med i vurderinga at teksten er publisert i ein kommersiell komersiell kanal.
 ::::
 ::: 
 
@@ -103,6 +103,6 @@ Kva er bodskapen til kjelda?
 
 
 :::: details Vårt vurderingforslag
-Dette er ei bacheloroppgåve frå 2019. Dersom oppgåva er relevant for ditt tema, kan kjeldelista vere nyttig å sjå nærare på. Som ein hovudregel tilrår me ikkje studentoppgåver som kjelder, unntaket er om det kjem fram heilt ny informasjon. Sjekk ande kjelder først og vurder kritisk om du treng å vise til bacheloroppgåva. 
+Dette er ei bacheloroppgåve frå 2019. Dersom oppgåva er relevant for ditt tema, kan referanselista vere nyttig å sjå nærare på. Som ein hovudregel tilrår me ikkje studentoppgåver som kjelder, unntaket er om det kjem fram heilt ny informasjon. Sjekk ande kjelder først og vurder kritisk om du treng å vise til bacheloroppgåva. 
 ::::
 ::: 

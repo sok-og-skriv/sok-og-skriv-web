@@ -16,9 +16,7 @@ Kva kjelder som er best å nytte vil varie frå fag til fag, og frå oppgåve ti
 
 # Kvifor skal ein referere til andre sitt arbeid? 
 
-Undervegs i oppgåva di skal du nytte kjeldetilvisningar. Kjeldetilvisinga viser lesaren vidare til kjeldelista (også kalla referaneliste eller litteraturliste), der ein finn fullstendig informasjon om opphavsperson, årtal og utgjevar.
-
-Dette gjer det i sin tur mogeleg for lesaren å etterprøve opplysningane, eller slå opp for å lese meir.
+Undervegs i oppgåva di skal du nytte kjeldetilvisningar. Kjeldetilvisinga viser lesaren vidare til referanselista,der ein finn fullstendig informasjon om opphavsperson, årtal og utgjevar. Dette gjer det i sin tur mogeleg for lesaren å enkelt finne tilbake til kjelda.
 
 Nøyaktig dokumentasjon av kjelder gjer lesaren i stand til raskt å:
 
@@ -26,8 +24,8 @@ Nøyaktig dokumentasjon av kjelder gjer lesaren i stand til raskt å:
 - kontrollere fakta og etterprøve resultata
 - setje seg inn i emne
 
-Korrekt føring av Kjeldehenvisningar og kjeldeliste er avgjerande for å unngå plagiat. 
-Plagiat er å ha framstilt andre sine resultat, tankar, idear eller formuleringar som om dei var dine eigne. Dette reknast som intellektuelt tjuveri i følgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). Omfattande og/eller medvite plagiat reknast som fusk, og vil få store følgjer. 
+Korrekt føring av Kjeldehenvisningar og referanseliste er avgjerande for å unngå plagiat. 
+Plagiat er å ha framstilt andre sine resultat, tankar, idear eller formuleringar som om dei var dine eigne. Dette reknast som intellektuelt tjuveri i følgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. 
 
 
 
