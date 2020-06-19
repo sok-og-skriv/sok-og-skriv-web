@@ -78,7 +78,7 @@ blabla
 ::: details Flere eksempel
 De seks medisinske kjernespørsmålene (Nortvedt et. al., 2012, s. 35) bestemmer hvilken …
 
-<span class="ref">GNortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe.</span>
+<span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe.</span>
 ::: 
 
 
