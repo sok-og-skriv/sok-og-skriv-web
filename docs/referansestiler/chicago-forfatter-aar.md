@@ -26,19 +26,16 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 ### Bok
 
 ::: teksten
-(Forfatter årstall)  
-eller
-(Forfatter årstall, eventuelt sidetall)  
-eller  
-Forfatter (årstall, eventuelt sidetall)
+(Forfatter årstall, evt. sidetall) eller Forfatter (årstall, evt. sidetall)
 
-Morton Klass definerer myte som «...» (1995, 125).
+"Å skrive med stil er å drive med noe i retning av høytskriving", ifølge Johansen (2003, 43). 
+
 :::
 
 :::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag.
 
-Klass, Morton. 1995. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview.
+Johansen, Anders. 2003. _Samtalens tynne tråd: Skriveerfaringer_. Oslo: Spartacus. 
 
 ::: details I EndNote
 
@@ -53,7 +50,7 @@ blabla
 ::: teksten
 (Forfatter årstall, eventuelt sidetall)
 
-NYTT EKSEMPEL TRENGS. SAmme som Vancouver og Harvard, evt også Chicago B.
+NYTT EKSEMPEL TRENGS. SAmme som Vancouver og Harvard, evt også Chicago a?
 :::
 
 :::: ref
