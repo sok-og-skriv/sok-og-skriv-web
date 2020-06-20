@@ -9,7 +9,14 @@ MLA står for Modern Language Association. Referansestilen er en **forfatter-sid
 
 ## Sitering i teksten 
 
-Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: "Barrow fant at ... (137-141)." Hvis forfatterens navn ikke står i setningen, skal forfatternavn og sidetall i parentes: "... (Barrow 137-141)". Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97). Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
+Hvis forfatternavnet brukes i teksten oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: Barrow fant at ... (137-141). 
+
+Hvis forfatternavnet ikke er del av setningen, skal det også stå i parentesen, slik: "... (Barrow 137-141)". 
+
+Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97). Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
+
+Sitater må være eksakt gjengitt med kildehenvisning. Sitater som er kortere enn tre linjer inkluderes i teksten og markeres med anførselstegn. Lengre sitater markeres med kolon og innrykk, men ikke anførselstegn.
+
 
 ### Verk med flere forfattere 
 
@@ -399,7 +406,3 @@ Ved annen gangs sitering og senere:
 
 > _(NRK,_ Dagsnytt _1999)_
 
-
-### Sitat
-
-Et sitat fra en annen forsker/forfatter må være eksakt gjengitt og med kildehenvisning. Hvis forfatternavnet brukes i teksten oppgis bare sidetallet i parentes. Sitater som er mindre enn fire linjer inkluderes i teksten og markeres med anførselstegn. Sitater som er lengre enn tre linjer markeres med kolon og innrykk, men ikke anførselstegn.
