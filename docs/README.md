@@ -3,7 +3,7 @@ home: true
 # heroImage: /sos-logo.svg
 # actionText:  La oss starte →
 # actionLink: /soking/
-footer: Søk og skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 ---
 
 <div class="cards">
@@ -132,15 +132,15 @@ footer: Søk og skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.
 
 <div class="container two-column footer-links">
   <div class="align-right">
-    <div><a href="/om/">Om Søk og skriv</a></div>
+    <div><a href="/om/">Om Søk & Skriv</a></div>
     <div><a href="/om/kontaktinformasjon/">Kontaktinformasjon</a></div>
-    <div><a href="/om/sok-og-skriv-i-undervisning/">Søk og skriv i undervisning</a></div>
+    <div><a href="/om/sok-og-skriv-i-undervisning/">Søk & Skriv i undervisning</a></div>
     <div>
       <a href="/om/markdown-demo/">Markdown demo</a> | <a href="/om/gitlab-arbeidsflyt/">Gitlab-arbeidsflyt</a> | <a href="/om/brukertest/">Brukertest</a> 
     </div>
   </div>
   <div class="align-left">
-    <div><a href="/en/about/">About Search and write</a></div>
+    <div><a href="/en/about/">About Search & Write</a></div>
     <div><a href="/en/about/contact-information/">Contact</a></div>
     <div><a href="/en/about/">Missing</a></div>
   </div>

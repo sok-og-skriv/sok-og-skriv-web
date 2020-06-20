@@ -2,7 +2,7 @@ let sidebarNo = require('./sidebarNo');
 let sidebarEn = require('./sidebarEn');
 
 module.exports = {
-  title: 'Søk og skriv',
+  title: 'Søk & Skriv',
   home: 'true',
   dest: 'public',
   locales: {
@@ -10,12 +10,12 @@ module.exports = {
     // As a special case, the default locale can use '/' as its path.
     '/': {
       lang: 'NO', // this will be set as the lang attribute on <html>
-      title: 'Søk og skriv',
+      title: 'Søk & Skriv',
       description: 'Lær om informasjonssøk og akademisk skriving',
     },
     '/en/': {
       lang: 'EN',
-      title: 'Search and write',
+      title: 'Search & Write',
       description: 'Learn about information gathering and academic writing'
     }
   },
