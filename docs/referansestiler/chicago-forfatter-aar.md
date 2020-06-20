@@ -115,15 +115,21 @@ blabla
 ### Kapittel/artikkel i redigert bok
 
 ::: teksten
-(Forfatter årstall, eventuelt sidetall)
+(Forfatter årstall, evt. sidetall)
 
-… i følge interpretasjonen av kjønnsrollen i hennes levetid (Åsebø 2008, 272).
+"Det er derfor gode forfattere også er gode lesere (Moi 2019, 19).
 :::
+
+:::: ref
+
+Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
+
 
 :::: ref
 Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag.
 
-Åsebø, Sigrun. 2008. «Griselda Pollock.» I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk.
+Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm.
+Åsebø, Sigrun. 2008. «Griselda Pollock.» 
 
 ::: details I EndNote
 
