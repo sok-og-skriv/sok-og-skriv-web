@@ -5,41 +5,30 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Referansestilen er en typisk **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide." The Purdue OWL, Purdue U Writing Lab. Accessed [hva sier vi på norsk?] 6. april 2020. I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskrives oppsett av elementene. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
+MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
 
-## Siteringer i teksten 
+## Sitering i teksten 
 
-Forfatternavn og sidetall til slutt i setningen, slik ... 
+Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: Barrow fant at ... (137-141). Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma: ... (Barrow 137-141). Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittel (hvis den er kort) eller en forkortet tittel, før sidetallet: 
 
-Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
+> (Faingold, _Child language_ 95-97).
 
-> Barrow fant at \[…\] (137-141).
+Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes:
 
-Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens navn og sidetall, uten komma:
-
-> … (Barrow 137-141).
-
-Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
-
-> … _(Faingold_, Child language _95-97)_
-
-Hvis du refererer til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og evt. tittel i selve teksten, heller enn i parentes.
-
-> Fukuyamas_ Our Posthuman Future _har mange eksempler på dette.
+> Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
 
 ### Flere forfattere samlet
 
-Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
-referansen forekommer i teksten
+Hvis en kilde har to eller tre forfattere, må du skrive alle navnene hver gang  
+referansen forekommer i teksten:
 
-> …(Dewdney og Ross 322).  
-> Waugh, Greenberg og Olander fant \[…\] (227)
+> ... (Dewdney og Ross 322).  
+> Waugh, Greenberg og Olander fant ... (227)
 
-For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten første forfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
+For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt av et al. (eller mfl.) og eventuelt sidetall. Det samme gjelder i referanselisten. 
 
-> … (Smith, Rubick, Jones, and Malcolm 42)  
-> Smith et al. hevder at \[…\] (42)  
-> … (Smith et al. 42)
+> Smith et al. hevder at ... (42)
+> ... (Smith mfl. 42)
 
 
 ## Elementer i en referanse 
@@ -48,15 +37,15 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 
 + Forfatter.
 + Kildens tittel.
-+ Mediets tittel,
++ Beholderens tittel,
 + Andre bidragsytere,
 + Versjon,
 + Nummer,
 + Utgiver,
 + Utgivelsesdato,
-+ Sted.
++ Plass.
 
-Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned. 
+En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plass" er ikke utgiversted, men plass i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
 
 ## Referanselisten
 
@@ -73,11 +62,13 @@ Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned.
 ::: teksten
 Forfatter (eventuelt sidetall)
 
-
+... Rem ... (18).
 :::
 
 :::: ref
 Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
+
+Rem, Tore. _En Biografi Om Jens Bjørneboe_. Cappelen Damm, 2020.
 
 ::: details I EndNote
 
@@ -91,11 +82,14 @@ blabla
 ::: teksten
 (Forfatter eventuelt sidetall).
 
+Å lære seg å skrive er å lære seg å lese sine egne ord med maksimal oppmerksomhet (Moi 19).
 
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_, redigert av Fornavn Etternavn, Utgiver, årstall, ss xx-xx. 
+
+Moi, Toril. "Å skrive er å tenke." _Min metode. Om sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad. Cappelen Damm, 2019, ss. 15-23. 
 
 ::: details I EndNote
 
@@ -131,6 +125,9 @@ blabla
 :::: 
 
 ### Artikkel i tidsskrift
+
+REDIGERE: Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
+If an issue of a scholarly journal is dated with a month or season, the month or season is now always cited along with the year (45).
 
 ::: teksten
 Forfatter tekst (eventuelt sidetall)
@@ -296,7 +293,7 @@ blabla
 ::: teksten
 Departement _Tittel på melding_*
 
-Nyere eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
+NYERE eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
 :::
 
 :::: ref
