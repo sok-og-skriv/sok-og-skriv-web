@@ -62,7 +62,7 @@ En "beholder" er der du finner kilden, for eksempel en database eller en antolog
 ::: teksten
 Forfatter (eventuelt sidetall)
 
-... Rem ... (18)
+... Rem ... (18).
 :::
 
 :::: ref
@@ -126,7 +126,7 @@ blabla
 
 ### Artikkel i tidsskrift
 
-Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
+REDIGERE: Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
 If an issue of a scholarly journal is dated with a month or season, the month or season is now always cited along with the year (45).
 
 ::: teksten
@@ -293,7 +293,7 @@ blabla
 ::: teksten
 Departement _Tittel på melding_*
 
-Nyere eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
+NYERE eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
 :::
 
 :::: ref
