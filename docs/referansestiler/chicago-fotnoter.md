@@ -105,16 +105,16 @@ blabla
 ::: tip I noten
 ^nr^ Etternavn, "Kortittel", evt. sidetall.
 
-... i henhold til oppfatninger av kjønnsrollene i hennes levetid.^3^
+"Det er derfor gode forfattere også er gode lesere."^3^
 
-^3^ Åsebø, "Griselda Pollock", 273–274.
+^3^ Moi, "Å skrive er å tenke", 19. 
 :::
 
 :::: ref
 
 Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
-Åsebø, Sigrun. "Griselda Pollock". I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal, 2008.
+Moi, Toril. "Å skrive er å tenke". I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm, 2019.
 
 ::: details I EndNote
 
