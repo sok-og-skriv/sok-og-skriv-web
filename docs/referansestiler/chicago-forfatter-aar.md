@@ -53,13 +53,13 @@ blabla
 ::: teksten
 (Forfatter årstall, eventuelt sidetall)
 
-Den økologiske vendingen har ikke endret grunnprinsippene for å oppnå kontroll med miljørisiko i petroleumssektoren (Andersen 2017, 601).
+NYTT EKSEMPEL TRENGS. SAmme som Vancouver og Harvard, evt også Chicago B.
 :::
 
 :::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI eller URL
 
-Andersen, Gisle. 2017. _Parlamentets natur: Utvikling av norsk miljø- og petroleumspolitikk._ Oslo: Universitetsforlaget. https://doi.org/10.18261/9788215028132-2017
+EKSEMPEL
 
 ::: details I EndNote
 
