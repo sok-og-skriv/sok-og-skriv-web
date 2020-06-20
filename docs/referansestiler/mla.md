@@ -5,13 +5,11 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
+MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
 
 ## Sitering i teksten 
 
-Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: "Barrow fant at ... (137-141)." Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma: "... (Barrow 137-141)". Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97).
-
-Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
+Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: "Barrow fant at ... (137-141)." Hvis forfatterens navn ikke står i setningen, skal forfatternavn og sidetall i parentes: "... (Barrow 137-141)". Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97). Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
 
 ### Flere forfattere samlet
 
