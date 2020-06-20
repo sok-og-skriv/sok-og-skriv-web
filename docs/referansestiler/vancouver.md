@@ -54,6 +54,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ::: teksten
 Tekst (nummer, eventuelt sidetall)
+EKSEMPEL TRENGS
 
 ... 
 :::
