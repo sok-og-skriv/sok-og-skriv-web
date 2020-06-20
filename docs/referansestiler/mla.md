@@ -9,13 +9,9 @@ MLA står for Modern Language Association. Referansestilen er en **forfatter-sid
 
 ## Sitering i teksten 
 
-Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: Barrow fant at ... (137-141). Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma: ... (Barrow 137-141). Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittel (hvis den er kort) eller en forkortet tittel, før sidetallet: 
+Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: "Barrow fant at ... (137-141)." Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma: "... (Barrow 137-141)". Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97).
 
-> (Faingold, _Child language_ 95-97).
-
-Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes:
-
-> Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
+Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
 
 ### Flere forfattere samlet
 
@@ -33,7 +29,7 @@ For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt a
 
 ## Elementer i en referanse 
 
-Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. Legg merke til tegnsettingen:
+Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. **Legg merke til tegnsettingen:**
 
 + Forfatter.
 + Kildens tittel.
@@ -50,7 +46,7 @@ En "beholder" er der du finner kilden, for eksempel en database eller en antolog
 ## Referanselisten
 
 - Referanselisten ordnes alfabetisk etter forfatternes etternavn.
-- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatter.
+- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatter, deretter andreforfatter osv.
 - Har en forfatter skrevet flere av verkene, skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
 - Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
 - Dersom en referanse går over flere linjer, skal alle linjene ha innrykk unntatt den første.
@@ -66,9 +62,9 @@ Forfatter (eventuelt sidetall)
 :::
 
 :::: ref
-Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
+Etternavn, Fornavn. _Tittel_. Utgiver, årstall.
 
-Rem, Tore. _En Biografi Om Jens Bjørneboe_. Cappelen Damm, 2020.
+Rem, Tore. _En biografi om Jens Bjørneboe_. Cappelen Damm, 2020.
 
 ::: details I EndNote
 
@@ -87,7 +83,7 @@ blabla
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_, redigert av Fornavn Etternavn, Utgiver, årstall, ss xx-xx. 
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_, redigert av Fornavn Etternavn, Utgiver, årstall, ss. xx-xx. 
 
 Moi, Toril. "Å skrive er å tenke." _Min metode. Om sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad. Cappelen Damm, 2019, ss. 15-23. 
 
