@@ -68,7 +68,7 @@ Forfatter (eventuelt sidetall)
 :::: ref
 Etternavn, Fornavn. _Tittel_. Utgiver, årstall.
 
-Rem, Tore. _En Biografi Om Jens Bjørneboe_. Cappelen Damm, 2020.
+Rem, Tore. _En biografi om Jens Bjørneboe_. Cappelen Damm, 2020.
 
 ::: details I EndNote
 
