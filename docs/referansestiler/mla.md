@@ -9,13 +9,9 @@ MLA står for Modern Language Association. Referansestilen er en **forfatter-sid
 
 ## Sitering i teksten 
 
-Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: Barrow fant at ... (137-141). Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma: ... (Barrow 137-141). Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet: 
+Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: Barrow fant at ... (137-141). Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma: ... (Barrow 137-141). Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet: (Faingold, _Child language_ 95-97).
 
-> (Faingold, _Child language_ 95-97).
-
-Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes:
-
-> Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
+Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes: Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
 
 ### Flere forfattere samlet
 
