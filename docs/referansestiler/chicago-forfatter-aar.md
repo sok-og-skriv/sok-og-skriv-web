@@ -48,7 +48,7 @@ blabla
 ### E-bok
 
 ::: teksten
-(Forfatter årstall, eventuelt sidetall)
+(Forfatter årstall, evt. sidetall)
 
 NYTT EKSEMPEL TRENGS. SAmme som Vancouver og Harvard, evt også Chicago a?
 :::
