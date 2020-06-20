@@ -38,7 +38,7 @@ Morton Klass definerer myte som «...» (1995, 125).
 :::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag.
 
-Klass, Morton. 1995. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview Press.
+Klass, Morton. 1995. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview.
 
 ::: details I EndNote
 
