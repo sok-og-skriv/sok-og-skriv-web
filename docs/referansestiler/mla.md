@@ -9,26 +9,18 @@ MLA står for Modern Language Association. Referansestilen er en **forfatter-sid
 
 ## Sitering i teksten 
 
-Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
+Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: Barrow fant at ... (137-141). Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma: ... (Barrow 137-141). Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittel (hvis den er kort) eller en forkortet tittel, før sidetallet: 
 
-> Barrow fant at ... (137-141).
+> (Faingold, _Child language_ 95-97).
 
-Hvis forfatterens navn ikke står i setningen, lag en parentes med forfatterens navn og sidetall, uten komma:
-
-> ... (Barrow 137-141).
-
-Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
-
-> … (Faingold, _Child language_ 95-97).
-
-**Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes.**
+Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, heller enn i parentes:
 
 > Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
 
 ### Flere forfattere samlet
 
-Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
-referansen forekommer i teksten
+Hvis en kilde har to eller tre forfattere, må du skrive alle navnene hver gang  
+referansen forekommer i teksten:
 
 > ... (Dewdney og Ross 322).  
 > Waugh, Greenberg og Olander fant ... (227)
@@ -70,11 +62,13 @@ En "beholder" er der du finner kilden, for eksempel en database eller en antolog
 ::: teksten
 Forfatter (eventuelt sidetall)
 
-
+... Rem ... (18)
 :::
 
 :::: ref
 Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
+
+Rem, Tore. _En Biografi Om Jens Bjørneboe_. Cappelen Damm, 2020.
 
 ::: details I EndNote
 
