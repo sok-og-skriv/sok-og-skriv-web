@@ -48,19 +48,18 @@ blabla
 
 
 
-
 ### E-bok
 
 ::: teksten
 (Forfatter årstall, eventuelt sidetall)
 
-Den økologiske vendingen har ikke endret grunnprinsippene for å oppnå kontroll med miljørisiko i petroliumssektoren (Andersen 2017, 601).
+Den økologiske vendingen har ikke endret grunnprinsippene for å oppnå kontroll med miljørisiko i petroleumssektoren (Andersen 2017, 601).
 :::
 
 :::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI eller URL
 
-Andersen, Gisle. 2017. _Parlamentets natur: Utvikling av norsk miljø- og petroliumspolitikk._ Oslo: Universitetsforlaget. https://doi.org/10.18261/9788215028132-2017
+Andersen, Gisle. 2017. _Parlamentets natur: Utvikling av norsk miljø- og petroleumspolitikk._ Oslo: Universitetsforlaget. https://doi.org/10.18261/9788215028132-2017
 
 ::: details I EndNote
 
