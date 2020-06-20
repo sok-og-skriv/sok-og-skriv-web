@@ -11,7 +11,7 @@ MLA står for Modern Language Association. Referansestilen er en **forfatter-sid
 
 Når du bruker forfatternavnet i setningen, skrives sidetallet i parentes der det kommer en naturlig pause, helst i slutten av setningen, slik: "Barrow fant at ... (137-141)." Hvis forfatterens navn ikke står i setningen, skal forfatternavn og sidetall i parentes: "... (Barrow 137-141)". Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97). Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
 
-### Flere forfattere samlet
+### Verk med flere forfattere 
 
 Hvis en kilde har to eller tre forfattere, må du skrive alle navnene hver gang  
 referansen forekommer i teksten:
@@ -19,11 +19,12 @@ referansen forekommer i teksten:
 > ... (Dewdney og Ross 322).  
 > Waugh, Greenberg og Olander fant ... (227)
 
-For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt av et al. (eller mfl.) og eventuelt sidetall. Det samme gjelder i referanselisten. 
+Bruk samme rekkefølge som på tittelbladet. For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt av et al. eller mfl. og eventuelt sidetall. Det samme gjelder i referanselisten. 
 
 > Smith et al. hevder at ... (42)
 > ... (Smith mfl. 42)
 
+Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
 
 ## Elementer i en referanse 
 
@@ -43,10 +44,9 @@ En "beholder" er der du finner kilden, for eksempel en database eller en antolog
 
 ## Referanselisten
 
-- Referanselisten ordnes alfabetisk etter forfatternes etternavn.
-- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatter, deretter andreforfatter osv.
-- Har en forfatter skrevet flere av verkene, skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
-- Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
+- Referanselisten ordnes alfabetisk etter etternavn.
+- Ved flere forfattere skal listen alfabetiseres ut fra førsteforfatter, deretter andreforfatter osv.
+- Har du flere verk av samme forfatter, ordnes de alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
 - Dersom en referanse går over flere linjer, skal alle linjene ha innrykk unntatt den første: såkalt hengende innrykk.
 
 ## Bøker
