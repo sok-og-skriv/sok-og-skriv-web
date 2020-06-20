@@ -162,7 +162,7 @@ blabla
 ::: teksten
 Forfatter (årstall)
 
-I sin masteroppgave analyserer kulturviteren Fredrik Langeland (2007) maskulinitetsframstillinger i sport og populærkultur.
+Fredrik Langeland (2007) analyserer maskulinitetsframstillinger i sport og populærkultur.
 :::
 
 :::: ref
