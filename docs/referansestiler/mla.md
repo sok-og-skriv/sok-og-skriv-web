@@ -143,7 +143,7 @@ Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig
 :::: ref
 Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
 
-Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.årgang. Nr. 1 (2009): 49-58.
+Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3. årgang. Nr. 1 (2009): 49-58.
 
 ::: details I EndNote
 
