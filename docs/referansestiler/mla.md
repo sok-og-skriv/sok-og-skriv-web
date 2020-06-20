@@ -49,14 +49,14 @@ En "beholder" er der du finner kilden, for eksempel en database eller en antolog
 - Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatter, deretter andreforfatter osv.
 - Har en forfatter skrevet flere av verkene, skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
 - Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
-- Dersom en referanse går over flere linjer, skal alle linjene ha innrykk unntatt den første.
+- Dersom en referanse går over flere linjer, skal alle linjene ha innrykk unntatt den første: såkalt hengende innrykk.
 
 ## Bøker
 
 ### Bok
 
 ::: teksten
-Forfatter (eventuelt sidetall)
+Forfatter (evt. sidetall)
 
 ... Rem ... (18).
 :::
@@ -78,7 +78,7 @@ blabla
 ::: teksten
 (Forfatter eventuelt sidetall).
 
-Å lære seg å skrive er å lære seg å lese sine egne ord med maksimal oppmerksomhet (Moi 19).
+"Å lære seg å skrive er å lære seg å lese sine egne ord med maksimal oppmerksomhet" (Moi 19).
 
 :::
 
