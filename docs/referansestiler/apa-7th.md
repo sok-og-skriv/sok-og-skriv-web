@@ -166,6 +166,20 @@ blabla
 ::: 
 :::: 
 
+### Oversatte bøker
+Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke originalverket. Oversetteren skal krediteres i referansen. Med oversatte verk skal vi ha med årstallet for både originalverket og oversettelsen på slutten av referansen: 
+
+::: ref
+Tolkien, J. R. R. (2004). Ringenes herre: Ringens brorskap (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954) 
+:::
+
+### Verk utgitt på nytt
+Et gjenutgitt verk menes her med et verk som har gått ut av trykk (eller ikke lenger er tilgjengelig) og siden har blitt publisert igjen, noe er som vanlig for eldre verk. Når du henviser til et gjenutgitt verk (f.eks. et verk gjenutgitt i form av en tekstsamling eller antologi), før opp informasjonen om den nye publikasjonen som du har brukt, etterfulgt av det opprinnelige utgivelsesåret i slutten av referansen
+
+:::ref
+<span class="ref">... (x/1960) ... (Opprinnelig utgitt 1916).</span>
+:::
+
 ## Artikler 
 
 ### Artikkel i tidsskrift
