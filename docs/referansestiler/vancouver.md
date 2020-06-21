@@ -110,6 +110,7 @@ Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 :::
 ::::
 
+## Artikler 
 
 ### Artikkel i tidsskrift
 
@@ -137,6 +138,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 :::
 ::::
 
+## Nettsider 
 
 ### Nettside uten forfatter eller hvor forfatter er en organisasjon
 
@@ -187,6 +189,8 @@ Legges inn som "Web Page".
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
 :::
 ::::
+
+## Offentlige kilder 
 
 ### Lover
 
@@ -297,6 +301,7 @@ tekst
 :::
 ::::
 
+## Annet 
 
 ### Preprint 
 
@@ -323,6 +328,8 @@ tekst
 
 ### Standarder 
 
+FINNE
+
 ::: teksten 
 
 Tekst (nummer)
@@ -345,6 +352,8 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet), Year, Title, P
  
 
 ### Patenter 
+
+FINNE 
 
 ::: teksten 
 
@@ -487,7 +496,7 @@ tekst
 Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler 
 
 
-## Sitater (flyttes til toppen?)
+## Sitater 
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
 
