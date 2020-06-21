@@ -127,6 +127,45 @@ blabla
 #### Merknader
 Dersom boken har DOI-nummer, foretrekkes dette. Er e-boken identisk med trykt utgave er URL/DOI valgfritt. Dersom boken ikke har DOI og e-bokversjonen kun er tilgjengelig via en betalingstjeneste, skal du referere til boken som trykt versjon. 
 
+### Religiøse og klassiske verk
+
+Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) får henvisning som for bøker. 
+
+Religiøse verk behandles som verk uten forfatter. Hvis du bruker en annotert (kommentarutgave) versjon, behandler du den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter. De vil være publisert i mange utgaver og du bruker årstallet for utgivelsen du bruker. Dersom det er oppgitt navn på oversetter, tar du dette med i referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
+
+Klassiske verk har ikke alltid et kjent eller eksakt publiseringstidspunkt. Verkene vil også som oftest være oversatt og/eller utgitt flere ganger. Det er den utgaven eller oversettelsen du har brukt, du skal vise til. Dersom vi står ovenfor et «klassisk» verk hvor publiseringstidspunkt er (eller anses å være) kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven eller oversettelsen som ligger til grunn for vår tekst.
+
+::: teksten
+.. «for det var ikke husrom for dem.» (Luk 2,7, Bibel 2011). 
+_Deretter kun henvisning til del, kapittel, vers(Luk 2,7)_
+
+(Koranen 1: 6–7)
+\[Ingen innførsel\]
+
+I Lukasevangeliet (Luk,1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
+\[Ingen innførsel\]
+
+I Ciceros «Om taleren» (1.47, overs. 1993)…
+\[Ingen innførsel\]
+
+I Iliaden (6.344–58) sier Helena at…
+\[Ingen innførsel\]
+
+… (Dante Alighieri, 1472/2005, s. 241)
+… (Homer,ca 800 f. Kr./1898)
+:::
+
+:::: ref
+<span class="ref">Dante Alighieri. (2005). Den guddommelege komedie (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
+
+<span class="ref">Homer (1898). The Iliad(S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html(Originalt verk publisert ca 800 f. Kr)</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
 ## Artikler 
 
 ### Artikkel i tidsskrift
@@ -398,51 +437,12 @@ I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta
 <span class="ref">Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan</span>
 :::
 
-### Andre kildetyper
-### Religiøse og klassiske verk
-
-Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) får henvisning som for bøker. 
-
-Religiøse verk behandles som verk uten forfatter. Hvis du bruker en annotert (kommentarutgave) versjon, behandler du den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter. De vil være publisert i mange utgaver og du bruker årstallet for utgivelsen du bruker. Dersom det er oppgitt navn på oversetter, tar du dette med i referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
-
-Klassiske verk har ikke alltid et kjent eller eksakt publiseringstidspunkt. Verkene vil også som oftest være oversatt og/eller utgitt flere ganger. Det er den utgaven eller oversettelsen du har brukt, du skal vise til. Dersom vi står ovenfor et «klassisk» verk hvor publiseringstidspunkt er (eller anses å være) kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven eller oversettelsen som ligger til grunn for vår tekst.
-
-::: teksten
-.. «for det var ikke husrom for dem.» (Luk 2,7, Bibel 2011). 
-_Deretter kun henvisning til del, kapittel, vers(Luk 2,7)_
-
-(Koranen 1: 6–7)
-\[Ingen innførsel\]
-
-I Lukasevangeliet (Luk,1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
-\[Ingen innførsel\]
-
-I Ciceros «Om taleren» (1.47, overs. 1993)…
-\[Ingen innførsel\]
-
-I Iliaden (6.344–58) sier Helena at…
-\[Ingen innførsel\]
-
-… (Dante Alighieri, 1472/2005, s. 241)
-… (Homer,ca 800 f. Kr./1898)
-:::
-
-:::: ref
-<span class="ref">Dante Alighieri. (2005). Den guddommelege komedie (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
-
-<span class="ref">Homer (1898). The Iliad(S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html(Originalt verk publisert ca 800 f. Kr)</span>
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
-
-
+## Andre kildetyper
 ### Kompendier
 
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverket (for eksempel tidsskriftet eller boka), ikke til kompendiet. Dette gjelder også sidehenvisninger.
-## Studentoppgaver og doktorgradsavhandlinger 
+
+### Studentoppgaver og doktorgradsavhandlinger 
 
 
 ::: teksten
