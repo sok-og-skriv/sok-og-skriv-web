@@ -194,38 +194,6 @@ blabla
 :::: 
 
 
-## Studentoppgaver og doktorgradsavhandlinger 
-
-
-::: teksten
-(Forfatter, årstall, eventuelt sidetall)
-
-... (Våpenstad, 2011, s. 59).
-
-Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
-:::
-
-:::: ref
-Trykt oppgave:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling/]. Institusjon.</span>
-
-Avhandling på nett:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel:Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/]. Navn på arkiv .</span>
-
-<span class="ref">Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ /[Doktorgradsavhandling/]. Universitetet i Bergen.</span>
-
-::: details I EndNote
-
-blabla i Endnote...
-::: 
-:::: 
-
-::: details Flere eksempler
-<span class="ref"> (Jerpseth, 2017, s. 40) </span>
-
-<span class=”ref”> Jerpseth, H. (2017). Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
-
-
 ## Nettsider
 
 ### Nettside fra organisasjon
@@ -430,6 +398,7 @@ I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta
 <span class="ref">Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan</span>
 :::
 
+### Andre kildetyper
 ### Religiøse og klassiske verk
 
 Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) får henvisning som for bøker. 
@@ -473,6 +442,100 @@ blabla
 ### Kompendier
 
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverket (for eksempel tidsskriftet eller boka), ikke til kompendiet. Dette gjelder også sidehenvisninger.
+## Studentoppgaver og doktorgradsavhandlinger 
+
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+... (Våpenstad, 2011, s. 59).
+
+Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
+:::
+
+:::: ref
+Trykt oppgave:  
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling/]. Institusjon.</span>
+
+Avhandling på nett:  
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel:Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/]. Navn på arkiv .</span>
+
+<span class="ref">Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ /[Doktorgradsavhandling/]. Universitetet i Bergen.</span>
+
+::: details I EndNote
+
+blabla i Endnote...
+::: 
+:::: 
+
+::: details Flere eksempler
+<span class="ref"> (Jerpseth, 2017, s. 40) </span>
+
+<span class="ref"> Jerpseth, H. (2017). Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
+:::
+
+### Statistikk og datasett
+For statistikker må du i teksten, redegjøre for hvilket søk du har gjort og hvordan du oppnådde resultatene etterfulgt av kildehenvisning. Det er anbefalt at man inkluderer en henvisning i teksten og innførsel i referanselista til et datasett når man enten (a) har gjennomført en ny analyse av åpent tilgjengelige data eller (b) har arkivert egne data som presenteres for første gang i det aktuelle verket.
+
+::: teksten
+... (Statistisk sentralbyrå, 2017) 
+... (Sundstøl, 2018)
+:::
+
+:::: ref
+<span class="ref">Statistisk sentralbyrå. (2017). 08145: Nye studenter i høyere utdanning i Norge. Kjønn og alder 2000 – 2016 [Statistikk]. https://www.ssb.no/statbank/table/08145</span>
+
+<span class="ref">Sundstøl, S. A. (2018). Soils at Haukeli, Imingfjell, and Lesja [Datasett].    USN ORA. https://doi.org/10.23642/usn.7454279.v1</span>
+
+::: details Endnote
+blablabla
+:::
+::::
+
+### Standarder
+Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentlige eller private institusjoner. Vanligvis har de en seriekode; denne oppgis i parentes etter tittelen. 
+
+::: teksten
+(forfatter/organisasjon, publiseringstidspunkt)
+
+... (Institute of Electrical and Electronics Engineers, 1987)
+:::
+
+:::: ref
+<span class="ref">Institute of Electrical and Electronics Engineers. (1987). IEEE guide for handling and disposal of transformer grade insulating liquids containing PCBs (ANSI/IEEE Std. 799-1987). https://doi.org/10.1109/IEEESTD.1987.81034</span>
+
+::: details Endnote
+blablabla
+:::
+::::
+
+::: Flere eksempler
+
+... tidligere utgitt som Retningslinjer for retningslinjer(Statens helsetilsyn, 2002)
+... (Helsedirektoratet, 2015)
+
+<span class="ref">Statens helsetilsyn. (2002).Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer (IK-2653). Statens helsetilsyn.</span>
+<span class="ref">Helsedirektoratet. (2015). Veileder om assistert befruktning med donorsæd (IS-2418). https://www.shorturl.at/akvB8</span>
+
+### Forelesningsmateriell og intranett-ressurser
+Noen publikasjoner er ikke tilgjengelig for alle, noe som påvirker hvordan de refereres til. Det kan være studenter som henter dokumenter fra læringsplattformer som for eksempel Canvas, eller tilsatte som henter dokumenter fra intranett på jobben. Disse verkene er kun tilgjengelig for undervisere og medstudenter, eller kollegaer. Dokumenter du henter fra en organisasjons intranett, kan kun brukes som vanlig referanse dersom alle som leser din tekst har tilgang til det samme intranettet. Dersom dette er dokumenter som bare du har tilgang til, kan du vurdere å ta dem med som vedlegg.  
+
+Om du er ansatt og skriver for kolleger, kan du følge malen for rapporter. Dersom du ikke kan vise til kilden må du referere til dokumentet i løpende tekst som personlig kommunikasjon. Om dem du skriver for har mulighet til å få tak i verkene du bruker, kan du følge malen for PowerPoint-presentasjoner, som vist nedenfor:
+
+::: teksten
+(forfatter, årstall, evt. lysark)
+...  (Coyle, u.å., lysark 65)
+:::
+
+:::: ref 
+Forfatter(e). (Publiseringstidspunkt). Tittel: Undertittel /[Lysarkpresentasjon/]. URL
+<span class="ref">Coyle, K. (u.å.). Bibliographic data: A new context[Lysarkpresentasjon]. Karen Coyle. http://www.kcoyle.net/presentations/oslo2011.pdf</span>
+
+:::details Endnote
+blablabla
+:::
+::::
+
 
 ### Reproduksjon av bilder, figurer og tabeller
 
@@ -506,6 +569,10 @@ Referer til boken:
 <span class="ref">Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ [https://doi.org/10.23865/noasp.32](https://doi.org/10.23865/noasp.32)</span>
 :::
 
+### Personlig kommunikasjon
+Det som er felles for kilder i kategorien personlig kommunikasjon, er at leserne mer eller mindre er utestengt fra å kunne konsultere kildene. Personlig kommunikasjon kan omfatte e-poster, tekstmeldinger, uttalelser eller sitater fra chattetjenester, personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater, telefonsamtaler osv. Bruk personligkommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige.
 
-
-
+::: teksten
+... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)...
+_Ingen innførsel på referanselisten_
+:::
