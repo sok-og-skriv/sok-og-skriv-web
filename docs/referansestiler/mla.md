@@ -81,6 +81,8 @@ blabla
 
 ### E-bok
 
+I [MLA] (https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Legg inn informasjon om dette foran utgiver. 
+
 ::: teksten
 Forfatter (evt. sidetall)
 
@@ -88,7 +90,9 @@ Forfatter (evt. sidetall)
 :::
 
 :::: ref
- ...
+Etternavn, Fornavn. _Tittel_. Utgiver, årstall. MER
+
+Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_. Oxford University Press, 2012. 
 
 ::: details I EndNote
 
