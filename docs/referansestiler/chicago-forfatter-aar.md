@@ -605,35 +605,17 @@ For flere eksempler kan du gå til den elektroniske utgaven av [Chicago manual o
 
 ### Sitat
 
-Et direkte sitat hentet fra en annen forfatter må være korrekt gjengitt og inneholde henvisning med forfatter, årstall og sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med anførselstegn.
-
-Willy Guneriussen understreker at: «De klassiske forestillingene om det moderne er selv en _del av den moderne kulturen._ De kan leses som "kilder" – som manifestasjoner av kulturelle tendenser eller tradisjoner" (1999, 14).
-
-Lengre sitater markeres med innrykk, gjerne fra begge sider, og evt. mindre fontstørrelse. Her brukes ikke anførselstegn.
-
-USAs historie er preget av innvandring. Når det gjelder religion og etnisk tilhørighet blant minoriteter i USA skriver Valerie Martinez-Ebers og Manochehr Dorraj at vi finner store variasjoner tross felles språk som blant latinamerikanske minoriteter:
-
-> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics – both characteristics are the result of their origin countries’ shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status). (Martinez-Ebers og Dorraj 2010, 5)_
+Et direkte sitat hentet fra en annen forfatter må være korrekt gjengitt og inneholde henvisning med forfatter, årstall og sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med anførselstegn. Lengre sitater markeres med innrykk, men ikke anførselstegn.
 
 Når du selv oversetter et sitat skal dette markeres i parentes etter sidehenvisningen. Hvis du ønsker å inkludere originalsitatet, bør det plasseres i en note, eller eventuelt til sist i parentesen.
 
-Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i alle fall to ’modus’, indikativ og konjunktiv \[…\]" (1988, 41, min oversettelse).1
-
-1 "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\].»
-
 ### Indirekte sitat
 
-Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt fram i kilden og å kontrollere fakta.
-
-Kari-Marie Kloster (2003, 10) snakker i sin hovedfagsoppgave om at singellivet som eksisterer i det senmoderne samfunnet er en konsekvens av demokratiseringen i den private sfæren.
+Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt fram i kilden.
 
 ### Sekundærkilder
 
-Dette er en referanse som du har lest om i et verk. I teksten skal du da vise til både verket som du har lest og den referansen du leste om i verket. For eksempel har du lest om Winnicott i boken til Solomon:
-
-Winnicott (1986) referert i Solomon (2001) viser til…
-
-I referanselisten setter du bare opp det verket du har lest, i dette tilfellet Solomon.
+Dette er en referanse som du har lest om i et verk. I teksten skal du da vise til både verket som du har lest og den referansen du leste om i verket. For eksempel har du lest om Winnicott i boken til Solomon: "Winnicott referert i Solomon (2001) viser til …". I referanselisten setter du bare opp det verket du har lest, i dette tilfellet Solomon.
 
 ### Forkortelser
 
