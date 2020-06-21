@@ -47,9 +47,9 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 + Nummer,
 + Utgiver,
 + Utgivelsesdato,
-+ Plass.
++ Plassering.
 
-En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plass" er ikke utgiversted, men plass i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
+En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
 
 ## Referanselisten
 
