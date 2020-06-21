@@ -56,11 +56,29 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: 
 :::: 
 
-::: details Flere eksempel
+::: details Flere eksempler
 De seks medisinske kjernespørsmålene (Nortvedt mfl., 2012, s. 35) bestemmer hvilken …
 
 Nortvedt, M.W. mfl. (2012) _Jobb kunnskapsbasert! En arbeidsbok._ 2. utg. Oslo: Akribe.
 :::
+
+### E-bok
+
+::: teksten
+
+
+
+:::
+
+:::: ref
+ ...
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
 
 ### Kapittel i redigert bok
 
