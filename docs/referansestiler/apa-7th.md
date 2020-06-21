@@ -194,4 +194,317 @@ blabla
 :::: 
 
 
+### Studentoppgaver og doktorgradsavhandlinger 
+
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+... (Våpenstad, 2011, s. 59).
+
+Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
+:::
+
+:::: ref
+Trykt oppgave:  
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling/]. Institusjon.</span>
+
+Avhandling på nett:  
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel:Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/]. Navn på arkiv .</span>
+
+<span class="ref">Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ /[Doktorgradsavhandling/]. Universitetet i Bergen.</span>
+
+::: details I EndNote
+
+blabla i Endnote...
+::: 
+:::: 
+
+::: details Flere eksempler
+<span class="ref"> (Jerpseth, 2017, s. 40) </span>
+
+<span class=”ref”> Jerpseth, H. (2017). Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
+
+
+## Nettsider
+
+### Nettside fra organisasjon
+
+::: teksten
+(Organisasjon, årstall)
+
+... nedgang i antibiotikabruken (Helsedirektoratet, 2018).
+:::
+
+:::: ref
+<span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel._ Nettstedets navn.  URL.</span>
+
+<span class="ref">Helsedirektoratet. (2018). Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder. https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+#### Merknad
+
+Dato brukes kun for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser), og utelates ellers. I tekst oppgis kun årstallet. Finnes ikke det ikke informasjon om publiseringstidspunkt oppgis u.å. (uten år) på årstallsstedet i referansen og i teksten.  
+
+Om nettsidens navn er det samme som organisasjonen, utelates nettstedets navn i referanselisten. 
+
+### Nettside med forfatter
+
+::: teksten
+(Forfatter, årstall)
+
+Skinnegående transport øker mest (Lund, 2018).
+:::
+
+:::: ref
+<span class="ref">Forfatter, A.A. (Årstall, dato). _Tittel._ Nettstedets navn. URL</span>
+
+<span class="ref">Lund, V. (2018, 26. september). _Åtte av ti reiser med bil._ SSB. https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil </span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+
+## Offentlige kilder
+
+### Lover
+
+::: teksten
+(Lovens kortnavn, årstall, paragraf)
+
+I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
+:::
+
+:::: ref
+<span class="ref">Lovens kortnavn. (Årstall). Lang tittel (datokode). Hentet fra https://...</span>
+
+<span class="ref">Folketrygdloven. (1997). Lov om folketrygd (LOV-1997-02-28-19). Hentet fra [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+::: details Flere eksempler
+Med endringslov til folketrygdloven (2018) endres finansieringen ...
+
+<span class="ref">Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2018-06-22-55). Hentet fra [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)</span>
+:::
+
+#### Merknader
+Det anbefales å gå direkte til Lovdata for lovene. Om du bruker lovene i f.eks bokformat henvises det til som bok. 
+
+### Forskrifter
+
+::: teksten
+(Forskriftens kortnavn, årstall, paragraf)
+
+Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier at ...
+:::
+
+:::: ref
+<span class="ref">Forskriftens kortform. (årstall). Lang tittel (datokode). Hentet fra https://...</span>
+
+<span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7 (FOR-2016-06-07-860). Hentet fra [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+### Dommer
+Som regel holder det å henvise til dommer kun i teksten. Ulike fagtradisjoner har ulike praksiser. Undersøk med faglærer eller veileder om du trenger mer hjelp
+
+::: teksten
+Problemstillingen er berørt i dommen (Rt 1993 s. 766).
+:::
+
+::: ref
+_ingen innførsel_
+:::
+
+### Meldinger og proposisjoner til Stortinget
+
+::: teksten
+(Meldingsnummer, år-år, eventuelt sidetall)
+
+Sammenslåingene ble begrunnet med noe de kalte «en kritisk vurdering av kvalitet» (Meld. St.20 (2009-2010), s. 49).
+:::
+
+:::: ref
+<span class="ref">Meldingsnummer (år-år). _Tittel: Undertittel_. Departement. URLspan>
+
+Dersom du henviser til trykt utgave, utgår url. 
+
+<span class="ref">Meld. St. 20 (2009-2010). _Omorganisering av ABM-utvikling_. Kulturdepartementet. https://www.regjeringen.no/no/dokumenter/Meld-St-20-20092010/id608202/</span>
+
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+::: details Flere eksempler
+De funksjonshemmedes stilling blir behandlet i handlingsplanen (St.Meld. nr.8(1998-1999)).
+
+
+<span class="ref"> St.meld. nr. 8 (1998–99). _Om handlingsplan for funksjonshemma 1998–2001: Deltaking og likestilling_. Sosial- og helsedepartementet.</span>
+
+… (Arbeids-og sosialkomiteen, 2016)
+
+<span class="ref">Innst. 49 S (2016–2017). Innstilling fra arbeids-og sosialkomiteen om Nav i en ny tid – for arbeid og aktivitet. Arbeids- og sosialkomiteen. https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2016-2017/inns-201617-049s/</span> 
+
+:::
+
+#### Merknader
+Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
+
+### Norges offentlige utredninger (NOU)
+
+::: teksten
+(NOU årstall: nummer, eventuelt sidetall)
+
+... i NOU 1999: 13 (s. 559) …
+:::
+
+:::: ref
+<span class="ref">NOU årstall: nummer. (Årstall for publisering). _Tittel_. Utgiversted: departement.</span>
+
+Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
+
+<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Oslo: Sosial- og helsedepartementet.</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+::: details  Flere eksempler
+... behandling av hjerteinfarkt (NOU 1999: 13, 1999, s. 559).
+
+<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra https://www.regjeringen.no/</span>
+:::
+
+### Ramme- og læreplaner
+
+::: teksten
+(Organisasjon, årstall, eventuelt sidetall)
+
+... (Kunnskapsdepartementet, 2017, s. 7).
+:::
+
+:::: ref
+<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Nettstedets navn. URL span>
+
+Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
+
+<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Regjeringen. https://www.regjeringen.no/</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+::: details Flere eksempler
+Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
+
+<span class="ref">Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05).[https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)</span>
+
+---
+
+I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
+
+<span class="ref">Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan</span>
+:::
+
+### Religiøse og klassiske verk
+
+Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) får henvisning som for bøker. 
+
+Religiøse verk behandles som verk uten forfatter. Hvis du bruker en annotert (kommentarutgave) versjon, behandler du den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter. De vil være publisert i mange utgaver og du bruker årstallet for utgivelsen du bruker. Dersom det er oppgitt navn på oversetter, tar du dette med i referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
+
+Klassiske verk har ikke alltid et kjent eller eksakt publiseringstidspunkt. Verkene vil også som oftest være oversatt og/eller utgitt flere ganger. Det er den utgaven eller oversettelsen du har brukt, du skal vise til. Dersom vi står ovenfor et «klassisk» verk hvor publiseringstidspunkt er (eller anses å være) kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven eller oversettelsen som ligger til grunn for vår tekst.
+
+::: teksten
+.. «for det var ikke husrom for dem.» (Luk 2,7, Bibel 2011). 
+_Deretter kun henvisning til del, kapittel, vers(Luk 2,7)_
+
+(Koranen 1: 6–7)
+\[Ingen innførsel\]
+
+I Lukasevangeliet (Luk,1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
+\[Ingen innførsel\]
+
+I Ciceros «Om taleren» (1.47, overs. 1993)…
+\[Ingen innførsel\]
+
+I Iliaden (6.344–58) sier Helena at…
+\[Ingen innførsel\]
+
+… (Dante Alighieri, 1472/2005, s. 241)
+… (Homer,ca 800 f. Kr./1898)
+
+:::: ref
+<span class="ref">Dante Alighieri. (2005). Den guddommelege komedie (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
+
+<span class="ref">Homer (1898). The Iliad(S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html(Originalt verk publisert ca 800 f. Kr)</span>
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+
+### Kompendier
+
+Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverket (for eksempel tidsskriftet eller boka), ikke til kompendiet. Dette gjelder også sidehenvisninger.
+
+### Reproduksjon av bilder, figurer og tabeller
+
+Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten, der det også skal opplyses om [eventuell rettighetsklarering eller lisensbetingelser](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/), eksempelvis Creative Commons-lisens eller om det er gjengitt med tillatelse. Her er det vertsdokumentet – boken, nettsiden eller artikkelen som bildet er hentet fra – som føres inn i referanselisten. Figurteksten skal innledes med en kort beskrivelse av bildet.
+
+::: tip Bilder du har tatt selv: 
+Inkluder beskrivelse, stedsangivelse og dato.  
+Figur 1. Utsikt fra Ulriken, Bergen 26. juli 2018.
+
+Ingen innførsel i referanselisten
+:::
+
+::: tip Bilde hentet fra nettside:  
+Figur 2. Breiflabb. Fra «Monkfish / Breiflabb», av A. Hansen, 2006 ([https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)). CC BY-NC-ND 2.0
+
+Referer til nettsiden:  
+<span class="ref">Hansen, A. (2006). Monkfish / Breiflabb. Hentet fra [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)</span>
+:::
+
+::: tip Tabell hentet fra tidsskriftartikkel:  
+Tabell 1. Sammenligning av mislykkethet. Fra «Unsuccessful treatments of “writer's block”: A meta-analysis,» av D. C. McLean & B. R. Thomas, 2014, _Psychological Reports, 115_, s. 277. Copyright 2014 Sage Publications. Gjengitt med tillatelse.
+
+Referer til artikkelen:  
+<span class="ref">McLean, D. C. & Thomas, B. R. (2014). Unsuccessful treatments of “writer's block”: A meta-analysis. _Psychological Reports, 115_(1), 276-278.  [https://doi.org/10.2466/28.PR0.115c12z0](https://doi.org/10.2466/28.PR0.115c12z0)</span>
+:::
+
+::: tip Bilde hentet fra bok  
+Figur 4. Relativ nettoflytting i kommunene. Fra _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ (s. 42), av K. Vareide, 2018, Oslo: Cappelen Damm Akademisk. CC BY 4.0.
+
+Referer til boken:  
+<span class="ref">Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ [https://doi.org/10.23865/noasp.32](https://doi.org/10.23865/noasp.32)</span>
+:::
+
+
+
 
