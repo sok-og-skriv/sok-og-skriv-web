@@ -71,7 +71,7 @@ Nortvedt, M.W. mfl. (2012) _Jobb kunnskapsbasert! En arbeidsbok._ 2. utg. Oslo: 
 :::
 
 :::: ref
- ...
+Se https://libguides.ioe.ac.uk/c.php?g=482485&p=3299779 
 
 ::: details I EndNote
 
