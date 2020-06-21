@@ -32,6 +32,7 @@ module.exports = {
   '/referansestiler/': [
     '',
     'apa-6th',
+    'apa-7th',
     'chicago-forfatter-aar',
     'chicago-fotnoter',
     'harvard',
