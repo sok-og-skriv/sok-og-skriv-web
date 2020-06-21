@@ -5,79 +5,94 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Referansestilen er en typisk **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide." The Purdue OWL, Purdue U Writing Lab. Accessed [hva sier vi på norsk?] 6. april 2020. I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere versjoner. I stedet for detaljerte instrukser beskrives oppsett av elementene. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike, nyere formater. 
+MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
 
-## Siteringer i teksten 
+## Sitering i teksten 
 
-Forfatternavn og sidetall til slutt i setningen, slik ... 
+Hvis forfatternavnet brukes i teksten oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: 
+> "Barrow fant at ... (137-141)". 
 
-Bruker du forfatternavnet i setningen, skriv sidetall i en parentes der det kommer en naturlig pause, helst i slutten av setningen.
+Hvis forfatternavnet ikke er del av setningen, skal det stå inne i parentesen: 
+> "... (Barrow 137-141)". 
 
-> Barrow fant at \[…\] (137-141).
+Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97). Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
 
-Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens navn og sidetall, uten komma:
+Sitater må være eksakt gjengitt med kildehenvisning. Sitater som er kortere enn tre linjer inkluderes i teksten med anførselstegn. Lengre sitater markeres med kolon og innrykk, men ikke anførselstegn.
 
-> … (Barrow 137-141).
 
-Hvis du har flere arbeider av en forfatter i litteraturlista, legg til komma og tittelen (hvis den er kort) eller en forkortet tittel, før sidetallet.
+### Verk med flere forfattere 
 
-> … _(Faingold_, Child language _95-97)_
+Hvis en kilde har to eller tre forfattere, må du skrive alle navnene hver gang  
+referansen forekommer i teksten:
 
-Hvis du refererer til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og evt. tittel i selve teksten, heller enn i parentes.
+> ... (Dewdney og Ross 322).  
+> Waugh, Greenberg og Olander fant ... (227)
 
-> Fukuyamas_ Our Posthuman Future _har mange eksempler på dette.
+Bruk samme rekkefølge som på tittelbladet. For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt av et al. eller mfl. og eventuelt sidetall. Det samme gjelder i referanselisten. 
 
-### Flere forfattere samlet
+> Smith et al. hevder at ... (42)
+> ... (Smith mfl. 42)
 
-Hvis en kilde har to eller tre forfattere må du skrive alle navnene hver gang  
-referansen forekommer i teksten
-
-> …(Dewdney og Ross 322).  
-> Waugh, Greenberg og Olander fant \[…\] (227)
-
-For kilder med mer enn tre forfattere, bruk samme form som i referanselisten; enten første forfatters etternavn fulgt av et al., eller alle forfatternes etternavn. Deretter skriver du sidetallet.
-
-> … (Smith, Rubick, Jones, and Malcolm 42)  
-> Smith et al. hevder at \[…\] (42)  
-> … (Smith et al. 42)
-
+Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
 
 ## Elementer i en referanse 
 
-Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. Legg merke til tegnsettingen:
+Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. **Legg merke til tegnsettingen:**
 
 + Forfatter.
 + Kildens tittel.
-+ Mediets tittel,
++ Beholderens tittel,
 + Andre bidragsytere,
 + Versjon,
 + Nummer,
 + Utgiver,
 + Utgivelsesdato,
-+ Sted.
++ Plass.
 
-Dette oppsettet brukes på alle typer kilder; se eksempler lenger ned. 
+En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plass" er ikke utgiversted, men plass i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
 
 ## Referanselisten
 
-- Referanselisten ordnes alfabetisk etter forfatternes etternavn.
-- Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatter.
-- Har en forfatter skrevet flere av verkene, skal de ordnes alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
-- Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
-- Dersom en referanse går over flere linjer, skal alle linjene ha innrykk unntatt den første.
+- Referanselisten ordnes alfabetisk etter etternavn.
+- Ved flere forfattere skal listen alfabetiseres ut fra førsteforfatter, deretter andreforfatter osv.
+- Har du flere verk av samme forfatter, ordnes de alfabetisk etter tittel. Navnet gjentas ikke, men erstattes av tre bindestreker (---).
+- Dersom en referanse går over flere linjer, skal alle linjene ha innrykk unntatt den første: såkalt hengende innrykk.
 
 ## Bøker
 
 ### Bok
 
 ::: teksten
-Forfatter (eventuelt sidetall)
+Forfatter (evt. sidetall)
+
+... Rem ... (18).
+:::
+
+:::: ref
+Etternavn, Fornavn. _Tittel_. Utgiver, årstall.
+
+Rem, Tore. _En biografi om Jens Bjørneboe_. Cappelen Damm, 2020.
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
+### E-bok
+
+I [MLA] (https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Legg inn informasjon om dette foran utgiver. 
+
+::: teksten
+Forfatter (evt. sidetall)
 
 
 :::
 
 :::: ref
-Etternavn, Fornavn, og Fornavn Etternavn. _Tittel_. Utgiver, årstall.
+Etternavn, Fornavn. _Tittel_. Utgiver, årstall. MER
+
+Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_. Oxford University Press, 2012. 
 
 ::: details I EndNote
 
@@ -86,16 +101,20 @@ blabla
 :::: 
 
 
+
 ### Bokkapittel
 
 ::: teksten
-(Forfatter eventuelt sidetall).
+... (Forfatter sidetall).
 
+"Å lære seg å skrive er å lære seg å lese sine egne ord med maksimal oppmerksomhet" (Moi 19).
 
 :::
 
 :::: ref
-Etternavn, Fornavn. "Kapitteltittel." _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
+Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_, redigert av Fornavn Etternavn, Utgiver, årstall, ss. xx-xx. 
+
+Moi, Toril. "Å skrive er å tenke." _Min metode. Om sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad. Cappelen Damm, 2019, ss. 15-23. 
 
 ::: details I EndNote
 
@@ -132,6 +151,9 @@ blabla
 
 ### Artikkel i tidsskrift
 
+REDIGERE, nytt eksempel: Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
+If an issue of a scholarly journal is dated with a month or season, the month or season is now always cited along with the year (45).
+
 ::: teksten
 Forfatter tekst (eventuelt sidetall)
 
@@ -141,7 +163,7 @@ Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig
 :::: ref
 Etternavn, Fornavn. "Artikkeltittel." _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
 
-Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.årgang. Nr. 1 (2009): 49-58.
+Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3. årgang. Nr. 1 (2009): 49-58.
 
 ::: details I EndNote
 
@@ -150,7 +172,7 @@ blabla
 :::: 
 
 
-### Artikkel i nettavis
+### Artikkel i nettavis SE PÅ
 
 ::: teksten
 Forfatter tekst "Artikkel"
@@ -170,7 +192,7 @@ blabla
 :::: 
 
 
-### Artikkel i trykt avis
+### Artikkel i trykt avis SE PÅ
 
 ::: teksten
 Tekst forfatter (eventuelt sidetall)
@@ -190,7 +212,7 @@ blabla
 :::: 
 
 
-### Nettside fra organisasjon
+### Nettside fra organisasjon SE PÅ
 
 ::: teksten
 "Artikkel"
@@ -210,7 +232,7 @@ blabla
 :::: 
 
 
-### Nettside med forfatter
+### Nettside med forfatter SE PÅ
 
 ::: teksten
 Forfatter (nettsted)
@@ -230,7 +252,7 @@ blabla
 :::: 
 
 
-### Artikkel i elektronisk leksikon (uten forfatter)
+### Artikkel i elektronisk leksikon (uten forfatter) SE PÅ
 
 ::: teksten
 Tittel på elektronisk leksikon
@@ -250,7 +272,7 @@ blabla
 :::: 
 
 
-### Artikkel i trykt leksikon (med forfatter)
+### Artikkel i trykt leksikon (med forfatter) SE PÅ
 
 ::: teksten
 Forfatter (eventuelt sidetall)
@@ -269,7 +291,7 @@ blabla
 ::: 
 :::: 
 
-## Offentlige kilder
+## Offentlige kilder SE PÅ
 
 ### Lover
 
@@ -296,7 +318,7 @@ blabla
 ::: teksten
 Departement _Tittel på melding_*
 
-Nyere eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
+NYERE eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
 :::
 
 :::: ref
@@ -313,9 +335,9 @@ blabla
 Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
 
 
-### Klassiske og hellige tekster
+### Klassiske og hellige tekster DOBBELSJEKKE
 
-Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles inn i nummererte kapittel, vers eller surer. Denne inndelingen er den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen, og eldre greske og romerske tekster. Når du refererer til hellige skrifter gjør du det underveis i teksten, ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger du som regel ikke å føre opp i referanselista.
+Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles i stedet inn i nummererte kapittel, vers eller surer som vil være den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen og eldre greske og romerske tekster. Henvisning til hellige skrifter gjøres underveis i teksten ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger som regel ikke å føres i referanselisten.
 
 ::: teksten
 (Tekststed)
@@ -335,12 +357,12 @@ blabla
 :::: 
 
 
-### Upublisert materiale
+### Upublisert materiale DOBBELSJEKK
 
 ::: teksten
-Forfatter tekst (_Tittel_)
+... forfatter ... (_Tittel_)
 
-Utaker ser her på bruk av bilder i filosofi knyttet til menneskets forståelse og persepsjon av seg selv. (_Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_).
+**Eksempel:** Utaker ser her på bruk av bilder i filosofi knyttet til menneskets forståelse og persepsjon av seg selv. (_Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_).
 :::
 
 :::: ref
@@ -355,7 +377,7 @@ blabla
 :::: 
 
 
-### Manuskript under publisering, antatt (in press)
+### Manuskript under publisering, antatt (in press) SJEKKE
 
 ::: teksten
 (Forfatter Tittel)
@@ -375,7 +397,7 @@ blabla
 :::: 
 
 
-### Bilde
+### Bilde SJEKKE
 
 ::: teksten
 Navn på fotograf. _Billedtittel_. År. Navn på institusjon som eier bildet. Inventarnummer.
@@ -395,33 +417,16 @@ blabla
 
 ### Kompendier
 
-Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
+Dersom man skal referere til tekster fra et kompendium, viser man til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
 
 
 ### Forkortelser
 
 Dersom et dokument er utgitt av en offentlig instans, organisasjon eller forening skrives navnet vanligvis fullt ut i alle siteringene. Forkortelse kan brukes dersom den er lett gjenkjennelig. I så fall må du ved første gangs sitering skrive hele navnet og forkortelsen.
 
-> _(Norges rikskringkasting \[NRK\],_ Dagsnytt _1999)_
+> _(Norsk rikskringkasting \[NRK\],_ Dagsnytt _1999)_
 
 Ved annen gangs sitering og senere:
 
 > _(NRK,_ Dagsnytt _1999)_
 
-### Sekundærkilder
-
-Dette er en referanse som du har lest om i et verk. Du skal da vise til både verket som du har lest og den referansen som du leste om i verket. For eksempel har du lest om verket til Moldaschl og Brödner i boken til Tiller.
-
-> _I følge Moldaschl og Brödner er idealene til aksjonsforskeren \[…\] (sitert i Tiller 125)_
-
-### Sitat
-
-Et sitat fra en annen forsker/forfatter må være eksakt gjengitt og inneholde kildehenvisning. Hvis forfatternavnet brukes i teksten oppgis bare sidetallet i parentes. Sitater som er mindre enn fire linjer inkluderes i teksten og markeres med "anførselstegn":
-
-Myrvoll sier om lokalitet at "Forsamlingen er viktig for folk, og fungerer som sentrum for identifisering og bekreftelse av mange grunnleggender feller verdier, holdninger og atferd(1)".
-
-Sitater som er lengre enn tre linjer markeres med kolon etter løpende tekst og en centimeter innrykk. Her er det ikke nødvendig med anførselstegn.
-
-I kjønnsforskning ser vi at språk og identitet må knyttes til kontekst. Swann hevder at:
-
-> _Recent preoccupations in language and gender research have to do with diversity(differences amongst women and amongst men), context (seeing language/meaning as context-dependent, and gender as a contextualised social practice) and uncertainty/ ambiguity (in terms of the meanings of what speakers say and do).The respects in which this is a shift from a more fixed view of language and gender can be exemplified by considering research on classroom language (44)._

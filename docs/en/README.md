@@ -3,7 +3,7 @@ home: true
 # heroImage: /home.png
 # actionText:  Let's begin →
 # actionLink: /en/searching/
-footer: Search and write ...
+footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 ---
 
 <div class="cards">

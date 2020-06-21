@@ -18,7 +18,7 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 - Når du har flere verk av samme forfatter etter hverandre, erstattes forfatterens navn med en lang tankestrek —.
 - Når du har flere verk av samme forfatter skal de ordnes etter publikasjonsår, i stigende rekkefølge (det eldste først).
 - Har en forfatter utgitt flere arbeider i samme år ordnes de alfabetisk, og merkes med a, b, c etc. etter årstall både i teksten og i referanselisten.
-- Ved flere enn 3 forfattere nevnes kun førsteforfatter, etterfulgt av et al. (et alia = lat. _og andre_) i løpende tekst. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første 7, etterfulgt av et al.
+- Ved flere enn tre forfattere nevnes kun førsteforfatter, etterfulgt av et al. (et alia = lat. _og andre_) i løpende tekst. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første sju, etterfulgt av et al.
 - Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn (se eksempler under).
 
 ## Bøker
@@ -26,19 +26,16 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 ### Bok
 
 ::: teksten
-(Forfatter årstall)  
-eller
-(Forfatter årstall, eventuelt sidetall)  
-eller  
-Forfatter (årstall, eventuelt sidetall)
+(Forfatter årstall, evt. sidetall) eller Forfatter (årstall, evt. sidetall)
 
-Morton Klass definerer myte som «...» (1995, 125).
+"Å skrive med stil er å drive med noe i retning av høytskriving", ifølge Johansen (2003, 43). 
+
 :::
 
 :::: ref
 Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag.
 
-Klass, Morton. 1995. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview Press.
+Johansen, Anders. 2003. _Samtalens tynne tråd: Skriveerfaringer_. Oslo: Spartacus. 
 
 ::: details I EndNote
 
@@ -48,19 +45,18 @@ blabla
 
 
 
-
 ### E-bok
 
 ::: teksten
-(Forfatter årstall, eventuelt sidetall)
+(Forfatter årstall, evt. sidetall)
 
-Den økologiske vendingen har ikke endret grunnprinsippene for å oppnå kontroll med miljørisiko i petroliumssektoren (Andersen 2017, 601).
+
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI eller URL
+Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. **DOI eller URL?**
 
-Andersen, Gisle. 2017. _Parlamentets natur: Utvikling av norsk miljø- og petroliumspolitikk._ Oslo: Universitetsforlaget. https://doi.org/10.18261/9788215028132-2017
+Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press.
 
 ::: details I EndNote
 
@@ -79,13 +75,13 @@ Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/ki
 
 Se også retningslinjer for flere forfattere øverst på denne siden under _Referanselisten_
 
-Forfatterne viser til at studenter ofte vegrer seg for å omarbeide tekstutkast utover å rette opp spesifikke feil veileder påpeker (Øyen og Solheim 2013, 9).
+Studenter vegrer seg ofte for å omarbeide tekstutkast utover å rette opp spesifikke feil (Øyen og Solheim 2013, 9).
 :::
 
 :::: ref
 Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Utgiversted: Forlag.
 
-Øyen, Simen A. og Birger Solheim. 2013. _Akademisk skriving: En skriveveiledning_. Oslo: Cappelen Damm Akademisk.
+Øyen, Simen A. og Birger Solheim. 2013. _Akademisk skriving: En skriveveiledning_. Oslo: Cappelen Damm.
 
 ::: details I EndNote
 
@@ -115,15 +111,20 @@ blabla
 ### Kapittel/artikkel i redigert bok
 
 ::: teksten
-(Forfatter årstall, eventuelt sidetall)
+(Forfatter årstall, evt. sidetall)
 
-… i følge interpretasjonen av kjønnsrollen i hennes levetid (Åsebø 2008, 272).
+«Det er derfor gode forfattere også er gode lesere» (Moi 2019, 19).
 :::
+
+:::: ref
+
+Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
+
 
 :::: ref
 Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag.
 
-Åsebø, Sigrun. 2008. «Griselda Pollock.» I _Kjønnsteori_, redigert av Ellen Mortensen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson, 272–278. Oslo: Gyldendal akademisk.
+Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm.
 
 ::: details I EndNote
 
@@ -157,7 +158,7 @@ blabla
 ::: teksten
 Forfatter (årstall)
 
-I sin masteroppgave analyserer kulturviteren Fredrik Langeland (2007) maskulinitetsframstillinger i sport og populærkultur.
+Fredrik Langeland (2007) analyserer maskulinitetsframstillinger i sport og populærkultur.
 :::
 
 :::: ref
@@ -173,18 +174,18 @@ blabla
 
 ## Artikler
 
-### Artikkel i trykt tidsskrift
+### Artikler i tidsskrift (trykt og elektronisk)
 
 ::: teksten
 (Forfatter årstall, eventuelt sidetall)
 
-… og stå ansvarlig for tap (Tjøtta 2016, 17).
+… som Hagen påpeker (2011, 38).
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): Sidetall.
+Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): Sidespenn for kapitlet. Eventuelt URL/DOI.
 
-Tjøtta, Sigve. 2016. «Kunnskapsproblemet i skolen.» _Samfunnsøkonomen_ 130 (4): 10–18.
+Hagen, Erik Bjerck. 2011. «Litteraturvitenskap som litteraturkritikk.» _Norsk litteraturvitenskapelig tidsskrift_ 14 (1): 34–41. https://www.idunn.no/ts/nlvt/2011/01/art03.
 
 ::: details I EndNote
 
@@ -192,18 +193,8 @@ blabla
 ::: 
 :::: 
 
-### Artikkel i elektronisk tidsskrift
 
-::: teksten
-Forfatter (årstall, eventuelt sidetall)
 
-… som Hagen påpeker (2011, 38).
-:::
-
-:::: ref
-Etternavn, Fornavn. Årstall. «Tittel.» _Tidsskrifttittel_ Årgang (Nummer): Sidetall. URL/DOI.  
-
-Hagen, Erik Bjerck. 2011. «Litteraturvitenskap som litteraturkritikk.» _Norsk litteraturvitenskapelig tidsskrift_ 14 (1): 34–41. https://www.idunn.no/ts/nlvt/2011/01/art03.
 
 ::: details I EndNote
 
@@ -333,7 +324,7 @@ blabla
 :::: 
 
 
-### Visuelle kilder
+## Visuelle kilder
 
 For å bruke et bilde eller et kunstverk som illustrasjon i teksten din må du normalt hente inn tillatelse fra opphavsrettshaver eller eier. For en del ting som ligger fritt tilgjengelig på nettet holder det å oppgi eier og hvor du har hentet det fra.
 

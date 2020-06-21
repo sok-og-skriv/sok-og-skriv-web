@@ -6,6 +6,7 @@ title: "Referansestiler"
 
 <div class="tags">
     <span class="tag is-large"><a href="/referansestiler/apa-6th">APA 6th</a></span>
+    <span class="tag is-large"><a href="/referansestiler/apa-7th">APA 7th</a></span>
     <span class="tag is-large"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
     <span class="tag is-large"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
     <span class="tag is-large"><a href="/referansestiler/harvard">Harvard</a></span>
@@ -19,7 +20,7 @@ Det finnes mange ulike stiler for hvordan man henviser fra tekst til litteraturl
 
 Følgende stiler er brukt innenfor de akademiske miljøene.
 
-- **American Psychological Association (APA6th)** – forfatter-årstallstil, vanlig innenfor psykologi, økonomi, pedagogikk og helsefag
+- **American Psychological Association (APA7th)** – forfatter-årstallstil, vanlig innenfor psykologi, økonomi, pedagogikk og helsefag
 - **Chicago 16 A** – fotnotestil vanlig innenfor humaniora
 - **Chicago 17 B** – forfatter-årstallstil, generell stil brukt innenfor humaniora og samfunnsfag.
 - **Harvard** - forfatter-årstallstil, generell stil brukt innenfor mange fagområder (vi bruker Harvard i eksemplene du finner i Søk & Skriv).
