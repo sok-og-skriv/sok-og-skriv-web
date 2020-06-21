@@ -46,6 +46,7 @@ blabla
 
 
 ### E-bok
+Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for ebøker, så sant ikke år for publisering mangler.
 
 ::: teksten
 (Forfatter årstall, evt. sidetall)
@@ -54,7 +55,7 @@ blabla
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. **DOI eller URL?**
+Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. **DOI eller URL**
 
 Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press.
 
@@ -64,9 +65,7 @@ blabla
 ::: 
 :::: 
 
-#### Merknad
 
-Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for ebøker, så sant ikke år for publisering mangler.
 
 ### Bok med flere forfattere
 
@@ -118,11 +117,7 @@ blabla
 
 :::: ref
 
-Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
-
-
-:::: ref
-Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidetall for kapittel. Utgiversted: Forlag.
+Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag. 
 
 Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm.
 
@@ -193,14 +188,6 @@ blabla
 ::: 
 :::: 
 
-
-
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
 
 ::: details Flere eksempler
 Turgåing ble viktig i nasjonalromatiske bevegelser (Ween og Abram, 156).
