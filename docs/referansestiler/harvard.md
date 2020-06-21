@@ -31,7 +31,7 @@ I eksempelsamlingen nedenfor brukes norske [forkortelser](/kildebruk-og-referans
 
 ::: teksten
 Bok med en til tre forfattere:  
-(Etternavn og etternavn, årstall, eventuelt sidetall)  
+(Etternavn og Etternavn, Årstall, eventuelt sidetall)  
 
 Bok med fire eller flere forfattere:  
 (Første forfatters etternavn mfl., årstall, eventuelt sidetall)
