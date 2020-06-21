@@ -91,7 +91,7 @@ blabla
 
 Piketty, T. (2014). _Capital in the twenty-first century_ \[Kindle\]. Cambridge, MA: Belknap Press. Hentet fra https://www.amazon.com \*Kindle har ikke sidetall, men har egne «location»-nummer. Disse vil ikke fungere på andre enheter, så henvis heller til kapittel og avsnitt.
 
-Dersom boken har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](https://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra https://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
+Dersom boken har DOI-nummer, brukes dette. APA-stilen tillater flere måter å oppgi DOI, men [anbefaler lenkeformatet https://doi.org/10.xxx](https://blog.apastyle.org/apastyle/2017/03/doi-display-guidelines-update-march-2017.html) – uten «Hentet fra» foran. Dersom DOI mangler, brukes nettadresse: Hentet fra https://URL. Om nettadressen ikke inneholder navn på forlag, bør sted og utgiver oppgis som for trykte bøker.
 
 ### Kapittel i redigert bok
 
