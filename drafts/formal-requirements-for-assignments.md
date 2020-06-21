@@ -121,7 +121,7 @@ Start early, make adequate notes as you go and find a functional system for keep
 
 ### Create a document for your references
 
-If you expect to use only a few references, you can create a document, name it “reference list” and copy the references you want to keep in the document. Keeping the references in one place helps you keep them in order even if you do not use all references in your paper. It is smart to include the keywords used and the search history of earlier searches in the same document.
+If you expect to use only a few references, you can create a document, name it "reference list" and copy the references you want to keep in the document. Keeping the references in one place helps you keep them in order even if you do not use all references in your paper. It is smart to include the keywords used and the search history of earlier searches in the same document.
 
 ### Export references from a database
 

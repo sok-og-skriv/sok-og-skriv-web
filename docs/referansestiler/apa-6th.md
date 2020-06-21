@@ -182,7 +182,7 @@ Dersom artikkelen har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvali
 ::: details Flere eksempler
 Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov & Straume, 2003, s. 93).
 
-<span class="ref">Dyregrov, A. & Straume, M. (2003). Kollektiv ivaretakelse etter katastrofer: Erfaringer fra ”Sleipnerulykken”. _Tidsskrift for norsk psykologforening_, _40_, 92–101.</span>
+<span class="ref">Dyregrov, A. & Straume, M. (2003). Kollektiv ivaretakelse etter katastrofer: Erfaringer fra "Sleipnerulykken". _Tidsskrift for norsk psykologforening_, _40_, 92–101.</span>
 
 ---
 
@@ -704,10 +704,10 @@ Referer til nettsiden:
 :::
 
 ::: tip Tabell hentet fra tidsskriftartikkel:  
-Tabell 1. Sammenligning av mislykkethet. Fra «Unsuccessful treatments of “writer's block”: A meta-analysis,» av D. C. McLean & B. R. Thomas, 2014, _Psychological Reports, 115_, s. 277. Copyright 2014 Sage Publications. Gjengitt med tillatelse.
+Tabell 1. Sammenligning av mislykkethet. Fra «Unsuccessful treatments of "writer's block": A meta-analysis,» av D. C. McLean & B. R. Thomas, 2014, _Psychological Reports, 115_, s. 277. Copyright 2014 Sage Publications. Gjengitt med tillatelse.
 
 Referer til artikkelen:  
-<span class="ref">McLean, D. C. & Thomas, B. R. (2014). Unsuccessful treatments of “writer's block”: A meta-analysis. _Psychological Reports, 115_(1), 276-278.  [https://doi.org/10.2466/28.PR0.115c12z0](https://doi.org/10.2466/28.PR0.115c12z0)</span>
+<span class="ref">McLean, D. C. & Thomas, B. R. (2014). Unsuccessful treatments of "writer's block": A meta-analysis. _Psychological Reports, 115_(1), 276-278.  [https://doi.org/10.2466/28.PR0.115c12z0](https://doi.org/10.2466/28.PR0.115c12z0)</span>
 :::
 
 ::: tip Bilde hentet fra bok  

@@ -14,7 +14,7 @@ Finn ut om hvordan du [siterer](#sitat) og [henviser i teksten](#henvisninger_
 ## Referanselisten
 
 - Referanselisten ordnes numerisk.
-- Skriv de første seks forfatterne etterfulgt av ”et al.” hvis det er flere enn seks forfattere.
+- Skriv de første seks forfatterne etterfulgt av "et al." hvis det er flere enn seks forfattere.
 - Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i [PubMed Journals database](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
 
 ## Referansetyper

@@ -31,9 +31,9 @@ Kombiner søkeordene dine.
 
 EKSEMPEL
 
-Vi har følgende problemstilling som utgangspunkt: Israel som demokrati. Kan frivillige organisasjonar ( NGO’ar) vere pådrivarar for ei demokratisk utvikling av staten Israel?
+Vi har følgende problemstilling som utgangspunkt: Israel som demokrati. Kan frivillige organisasjonar ( NGO'ar) vere pådrivarar for ei demokratisk utvikling av staten Israel?
 
-Idémyldring: Relevante ord for problemstillingen er: Israel, fredsprosessar, NGO’ar, frivillige, organisasjoner, menneskerettigheter, nasjonal identitet, religiøs identitet, konflikt, ungdom, kvinner, fred, fredsarbeid, demokrati, politikk...
+Idémyldring: Relevante ord for problemstillingen er: Israel, fredsprosessar, NGO'ar, frivillige, organisasjoner, menneskerettigheter, nasjonal identitet, religiøs identitet, konflikt, ungdom, kvinner, fred, fredsarbeid, demokrati, politikk...
 
 Disse ordene kan vi bruke som søkeord. Her er Israel et bredt emneord og et overordnet tema. For å få god oversikt kan vi her kombinere Israel med ett og ett av de andre ordene: Israel og fredsprosesser, Israel og konflikt.
 
@@ -63,7 +63,7 @@ Er det noen ord i problemstillingen som utmerker seg? Bruk disse for å konkreti
 
 EKSEMPEL: Problemstilling og søk
 
-Skal du skrive en oppgave innenfor økonomi kan en mulig oppgave være: ”Hva vil fremtidig inntjening være for Godt Brød, og hva vil verdien være på selskapet i dag basert på fremtidig inntjening?”  Her kan mulige søkeord være:
+Skal du skrive en oppgave innenfor økonomi kan en mulig oppgave være: "Hva vil fremtidig inntjening være for Godt Brød, og hva vil verdien være på selskapet i dag basert på fremtidig inntjening?"  Her kan mulige søkeord være:
 
 Søkeord på norsk            Synonymer på norsk     Søkeord på engelsk       Synonymer på engelsk
 

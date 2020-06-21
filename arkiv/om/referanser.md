@@ -9,7 +9,7 @@ American Psychological Association (2010) _Publication manual of the American Ps
 
 Aveyard, H. (2007) _Doing a literature review in health and social care: a practical guide._ Maidenhead: Open University Press.
 
-Bean, J.C. (1996) _Engaging ideas: the professor’s guide to integrating writing, critical thinking, and active learning in the classroom_. San Francisco, California: Jossey-Bass.
+Bean, J.C. (1996) _Engaging ideas: the professor's guide to integrating writing, critical thinking, and active learning in the classroom_. San Francisco, California: Jossey-Bass.
 
 Benum, E. (2003) Universiteter, akademisk integritet og kommersialisering. _Nytt Norsk Tidsskrift_, 20 (1), s. 54-72.
 

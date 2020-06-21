@@ -53,11 +53,11 @@ Swales, John M., og Christine B. Feak. _Academic writing for graduate students. 
 
 (Forfatter eventuelt sidetall).
 
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidetall.
+Etternavn, Fornavn. "Kapitteltittel." _Boktittel_. Red. Fornavn Etternavn. Sted: Utgiver, årstall. Sidetall.
 
 Her innleder forfatteren med at IKT har fått et større innpass også i høyere utdanning (Ludvigsen 215).
 
-Ludvigsen, Sten R. “IKT i høyere utdanning. Forventinger og resultater”. _Når læring er det viktigste, Undervisning i høyere utdanning_. Red. Helge I. Strømsø, Kirsten Hofgaard Lycke og Per Lauvås. Oslo: Cappelen Akademisk Forlag, 2006. 215-231.
+Ludvigsen, Sten R. "IKT i høyere utdanning. Forventinger og resultater". _Når læring er det viktigste, Undervisning i høyere utdanning_. Red. Helge I. Strømsø, Kirsten Hofgaard Lycke og Per Lauvås. Oslo: Cappelen Akademisk Forlag, 2006. 215-231.
 
 ### Oversatt bok
 
@@ -114,7 +114,7 @@ Nordisk institutt, Universitetet i Bergen, 2001.
 
 Forfatter tekst (eventuelt sidetall)
 
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidetall. Eventuelt DOI-nummer
+Etternavn, Fornavn. "Artikkeltittel." _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidetall. Eventuelt DOI-nummer
 
 Syse vil i sin artikkel se om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
 
@@ -220,7 +220,7 @@ Tittel på elektronisk leksikon
 
 Encyclopaedia Britannica definerer feminisme som "the belief in the social, economic, and political equality of the sexes".
 
-”Feminism”. _Encyclopædia Britannica Online_. Encyclopædia Britannica Online Inc., 2013. Internett. 10. januar 2013.
+"Feminism". _Encyclopædia Britannica Online_. Encyclopædia Britannica Online Inc., 2013. Internett. 10. januar 2013.
 
 ### Artikkel i trykt leksikon (med forfatter)
 

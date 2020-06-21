@@ -182,7 +182,7 @@ I noten og referanseliste
 
 Etternavn, Fornavn. _Tittel_. Avhandlingstype. Institusjon. Årstall.
 
-”Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^9^
+"Landskaper har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning."^9^
 
 ^9^ Åsebø, _Femininitetens rom_, 327.
 
@@ -190,7 +190,7 @@ Etternavn, Fornavn. _Tittel_. Avhandlingstype. Institusjon. Årstall.
 
 ### Upublisert materiale
 
-Upubliserte avhandlinger (det gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
+Upubliserte avhandlinger (det gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som "upublisert". Type dokument/avhandling oppgis, samt sted og institusjon.
 
 ::: teksten
 
@@ -201,9 +201,9 @@ I noten og referanseliste
 
 ^x^
 
-^x^ Etternavn, ”Korttittel”, sidetall.
+^x^ Etternavn, "Korttittel", sidetall.
 
-Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
+Etternavn, Fornavn. "Tittel". Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
 
 I sin hovedoppgave diskuterer kunsthistorikeren Espen Stange bruken av begrepet "brutalisme".^10^Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^11^
 
@@ -335,9 +335,9 @@ I noten og referanseliste
 
 ^x^
 
-^x^ Etternavn, ”Artikkeltittel.”
+^x^ Etternavn, "Artikkeltittel."
 
-Etternavn, Fornavn. ”Artikkeltittel,” Navn på nettsted/blogg. Dato (publisert/sist oppdatert eller lest). URL/DOI
+Etternavn, Fornavn. "Artikkeltittel," Navn på nettsted/blogg. Dato (publisert/sist oppdatert eller lest). URL/DOI
 
 …ifølge Kristian Tetens omtale av en utstilling om søppel på the Wellcome Collection, London…^18^
 
@@ -398,7 +398,7 @@ I noten og referanseliste
 
 Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
 
-Alderdom er definert som ”…”^20^
+Alderdom er definert som "…"^20^
 
 ^20^ _Kulturhistorisk leksikon_, s.v. "alderdom."
 
@@ -415,15 +415,15 @@ I noten og referanseliste
 
 ^x^
 
-^x^ Etternavn, ”Korttittel artikkel.”
+^x^ Etternavn, "Korttittel artikkel."
 
-Etternavn, Fornavn. ”Artikkeltittel”, i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
+Etternavn, Fornavn. "Artikkeltittel", i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
 
 …ifølge Dag Sveen^21^
 
-^21^ Sveen, ”Kritisk realisme”.
+^21^ Sveen, "Kritisk realisme".
 
-Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax forlag, 1979.
+Sveen, Dag. "Kritisk realisme." I _Pax Leksikon_. Oslo: Pax forlag, 1979.
 
 ### Visuelle kilder
 
@@ -488,7 +488,7 @@ Se Chicago-manualen for flere eksempler på henvisning til multimediale kilder o
 
 ### Musikk/ Auditive kilder
 
-Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Chicago-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver eller annen person som er hovedansvarlig for innholdet, _Verktittel_/”Verktittel”, navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen vil avhenge av konteksten det opptrer i. Er opptaket hentet fra nettet, skal referansen inneholde dato samt URL eller DOI.
+Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Chicago-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver eller annen person som er hovedansvarlig for innholdet, _Verktittel_/"Verktittel", navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen vil avhenge av konteksten det opptrer i. Er opptaket hentet fra nettet, skal referansen inneholde dato samt URL eller DOI.
 
 Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
@@ -652,19 +652,19 @@ I noten og referanseliste
 
 ^x^
 
-^x^ Etternavn, _”Korttittel”_, sidetall.
+^x^ Etternavn, _"Korttittel"_, sidetall.
 
-Etternavn, Fornavn. _”Tittel”_. Utgiversted: Utgiver, innsendt for publisering.
+Etternavn, Fornavn. _"Tittel"_. Utgiversted: Utgiver, innsendt for publisering.
 
 Nyere forskning^29^ peker i retning av (…)
 
-^29^ Trille, _”Stort og smått”_.
+^29^ Trille, _"Stort og smått"_.
 
-Trille, Lille. _”Stort og smått i eggbransjen”_. Norsk tidsskrift for fiktive figurer fra rim og regler, innsendt for publisering.
+Trille, Lille. _"Stort og smått i eggbransjen"_. Norsk tidsskrift for fiktive figurer fra rim og regler, innsendt for publisering.
 
 ### Manuskript under publisering, antatt (in press/forthcoming)
 
-Dersom det er en artikkel eller kapittel i en bok, oppgi sidetall hvis tilgjengelig. Dersom publikasjonstidspunkt er kjent, kan dette antydes, markert med forventet publisering (for eksempel høsten 2020) i stedet for publiseringsdato. Ellers skriver du bare ”under publisering.” For øvrig følges retningslinjene for den aktuelle referansetypen, ta med for eksempel årgang og nummer for tidsskrift hvis dette er kjent.
+Dersom det er en artikkel eller kapittel i en bok, oppgi sidetall hvis tilgjengelig. Dersom publikasjonstidspunkt er kjent, kan dette antydes, markert med forventet publisering (for eksempel høsten 2020) i stedet for publiseringsdato. Ellers skriver du bare "under publisering." For øvrig følges retningslinjene for den aktuelle referansetypen, ta med for eksempel årgang og nummer for tidsskrift hvis dette er kjent.
 
 ::: teksten
 
@@ -696,7 +696,7 @@ Personlig kommunikasjon kan være direkte tale, e-post og liknende. Forbokstaver
 
 I noten
 
-”For øvrig mener jeg at Karthago bør ødelegges.” ^31^
+"For øvrig mener jeg at Karthago bør ødelegges." ^31^
 
 ^31^ Personlig kommunikasjon i e-post fra Cato den eldre, 01.02.20.
 
@@ -738,9 +738,9 @@ I noten og referanseliste
 
 ^x^
 
-^x^ Etternavn/gruppe/institusjon, ”Sitat (inntil 160 tegn).”
+^x^ Etternavn/gruppe/institusjon, "Sitat (inntil 160 tegn)."
 
-Fornavn Etternavn/gruppe/institusjon, ”Sitat, (inntil 160 tegn)” Navn på sosialt medium, publiseringsdato, URL
+Fornavn Etternavn/gruppe/institusjon, "Sitat, (inntil 160 tegn)" Navn på sosialt medium, publiseringsdato, URL
 
 …som mottok fattighjelp, ble forhindret fra å stemme ved kommunevalget i 1916.^18^
 
@@ -772,7 +772,7 @@ Sitater som er lengre enn tre linjer markeres med kolon etter løpende tekst og 
 
 USAs historie er preget av innvandring. Når det gjelder religion og etnisk tilhørighet blant minoriteter i USA skriver Valerie Martinez-Ebers og Manochehr Dorraj at vi finner store variasjoner tross felles språk som blant latinamerikanske minoriteter:
 
-> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics - both characteristics are the result of their origin countries’ shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status).^2^_
+> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics - both characteristics are the result of their origin countries' shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status).^2^_
 
 Note:  
 ^2^ Martinez-Ebers og Dorraj, _Perspectives on Race, Ethnicity, and Religion,_ 5.
@@ -784,17 +784,17 @@ Når du oversetter sitat kan du enten oppgi originalsitatet i teksten og overset
 
 _Enten:_
 
-Victor Turner hevder at "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]."^3^
+Victor Turner hevder at "Culture, like verbs in many if not all languages, has at least two 'moods', indicative and subjunctive\[…\]."^3^
 
 Note:  
-^3^ "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]" (Min oversettelse). Turner, _The Anthropology of Performance_, 41.
+^3^ "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to 'modus', indikativ og konjunktiv \[…\]" (Min oversettelse). Turner, _The Anthropology of Performance_, 41.
 
 _Eller:_
 
-Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to ’modus’, indikativ og konjunktiv \[…\]"^4^
+Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i all fall to 'modus', indikativ og konjunktiv \[…\]"^4^
 
 Note:  
-^4^ (Min oversettelse) "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\]." Turner, _The Anthropology of Performance_, 41.
+^4^ (Min oversettelse) "Culture, like verbs in many if not all languages, has at least two 'moods', indicative and subjunctive\[…\]." Turner, _The Anthropology of Performance_, 41.
 
 Innførsel i referanselisten:  
 Turner, Victor. _The Anthropology of Performance_. New York: PAJ, 1988.
@@ -806,7 +806,7 @@ Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord
 Kari-Marie Kloster snakker i sin hovedfagsoppgave om at singellivet som eksisterer i det senmoderne samfunnet er en konsekvens av demokratiseringen i den private sfæren.^5^
 
 Note:  
-^5^ Kloster, ”Singelliv”, 10.
+^5^ Kloster, "Singelliv", 10.
 
 Innførsel i referanselisten:  
-Kloster, Kari-Marie. ”Singelliv: i grenselandet mellom enslighet og parforhold.” Hovedfagsoppgave, Institutt for kulturstudier og kunsthistorie, Universitetet i Bergen, 2003.
+Kloster, Kari-Marie. "Singelliv: i grenselandet mellom enslighet og parforhold." Hovedfagsoppgave, Institutt for kulturstudier og kunsthistorie, Universitetet i Bergen, 2003.

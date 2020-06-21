@@ -23,7 +23,7 @@ Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM st
 ## Referanselisten
 
 - Referanselisten ordnes numerisk.
-- Skriv de første seks forfatterne etterfulgt av ”et al.” hvis det er flere enn seks forfattere.
+- Skriv de første seks forfatterne etterfulgt av "et al." hvis det er flere enn seks forfattere.
 - Bruk offisielle forkortelser for tidsskrifttittel. Offisielle forkortelser finnes for eksempel i [PubMed Journals database](https://www.ncbi.nlm.nih.gov/sites/entrez?db=journals)
 
 

@@ -7,15 +7,15 @@ Your information requirements will be linked to the claims in your research ques
 
 ## Refining  your search
 
-One search technique involves beginning with a general search. To get better results refining your search by using various database functions. Most databases let you limit your search based on publication date, language, document type and more specialised topics. It is a good idea to use specialist subject terms from the database’s hierarchical subject index (thesaurus). Some databases also let you search by research method, context and subject area, as well as target audience. Different databases have different functions, and you should find out what the possibilities are when planning your search.
+One search technique involves beginning with a general search. To get better results refining your search by using various database functions. Most databases let you limit your search based on publication date, language, document type and more specialised topics. It is a good idea to use specialist subject terms from the database's hierarchical subject index (thesaurus). Some databases also let you search by research method, context and subject area, as well as target audience. Different databases have different functions, and you should find out what the possibilities are when planning your search.
 
 EXAMPLE: Imagine that you are planning to write about the political and religious situation before and during the Norwegian Reformation. You could go about your search as follows:
 
-Search for “Reformation”. Thereafter restrict your search to articles concerning history and religion to exclude subjects that are less relevant to your topic. Now narrow your search by specifying the country: Norway. You could also exclude all languages except, for example, Norwegian and English. This technique will generate far fewer hits, giving you a more manageable amount of information to deal with.
+Search for "Reformation". Thereafter restrict your search to articles concerning history and religion to exclude subjects that are less relevant to your topic. Now narrow your search by specifying the country: Norway. You could also exclude all languages except, for example, Norwegian and English. This technique will generate far fewer hits, giving you a more manageable amount of information to deal with.
 
 ## Citation searching
 
-Look at the references in the literature you have found and see if there’s anything interesting there. Has a text you have read been cited by other authors? Use the “cited by” function in databases such as ISI Web of Knowledge and Google Scholar in order to find out who has referred to it. Could these texts also be relevant for your project?
+Look at the references in the literature you have found and see if there's anything interesting there. Has a text you have read been cited by other authors? Use the "cited by" function in databases such as ISI Web of Knowledge and Google Scholar in order to find out who has referred to it. Could these texts also be relevant for your project?
 
 Citation searching may reveal the extent to which other texts are influenced by the text you have found, and also which sources influenced the author. For example, search for the Norwegian book _Små steder, store spørsmål_ by Thomas Hylland Eriksen in Google Scholar. You will see that this book has been cited in 103 other publications, which indicates that the book has been influential within its field.
 
@@ -51,7 +51,7 @@ Question 1: _Do children with diabetes cope better with their disease when treat
 
 ![pico1 eng](../images/pico1-eng1.png)
 
-In this example, we are interested in the effect of the decision “home-based treatment” (**I**) in contrast to the effect of “hospital-based treatment” (**C**). We are interested in finding studies that compare the effect of these two decisions. The outcome we want to measure (**O**) is how these patient groups are coping with their disease.It is not always necessary to use all four elements of the PICO-form. Sometimes the research question may not have a clear intervention (**I**) part, or it may also lack the element of comparison (**C**), or there may not be any clearly formulated outcome (**O**). Question 2 below is an illustration of a research question that contains only **P** and **O**.
+In this example, we are interested in the effect of the decision "home-based treatment" (**I**) in contrast to the effect of "hospital-based treatment" (**C**). We are interested in finding studies that compare the effect of these two decisions. The outcome we want to measure (**O**) is how these patient groups are coping with their disease.It is not always necessary to use all four elements of the PICO-form. Sometimes the research question may not have a clear intervention (**I**) part, or it may also lack the element of comparison (**C**), or there may not be any clearly formulated outcome (**O**). Question 2 below is an illustration of a research question that contains only **P** and **O**.
 
 Question 2: _How do diabetic children and adolescents who use insulin pumps perceive their quality of life?_
 
@@ -196,7 +196,7 @@ The backslash (/) indicates that the query terms are taken from the terms glossa
 
 _Exp:_ indicates that subordinate terms are included in MeSH.
 
-_Tw_: indicates that the query is based on a text term taken from an article’s title or summary (not from MeSH).
+_Tw_: indicates that the query is based on a text term taken from an article's title or summary (not from MeSH).
 
 _Adj:_ indicates that the search terms will be composed as a phrase, that is right next to each other in the specified order.
 

@@ -95,7 +95,7 @@ blabla
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Kapitteltittel.” _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
+Etternavn, Fornavn. "Kapitteltittel." _Boktittel_. Red. Fornavn Etternavn. Utgiver, årstall. Sidespenn.
 
 ::: details I EndNote
 
@@ -139,7 +139,7 @@ Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
+Etternavn, Fornavn. "Artikkeltittel." _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
 
 Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.årgang. Nr. 1 (2009): 49-58.
 
@@ -221,7 +221,7 @@ Thoring (_Framtiden i våre hender_) skriver at økologisk jordbruk er det mest 
 :::: ref
 Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ Publiseringsdato. År. Red. hvis det oppgis. Organisasjon. Internett.\<URL\> Lesedato.
 
-Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden i våre hender. Internett. <[https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
+Thoring, Liv. "Økologisk best i India". _Framtiden.no._ 07.01.2013. Framtiden i våre hender. Internett. <[https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
 
 ::: details I EndNote
 
@@ -241,7 +241,7 @@ Encyclopaedia Britannica definerer feminisme som "the belief in the social, econ
 :::: ref
 "Oppslagsord". _Tittel på oppslagsverk._ Organisasjon, år. Internett. Lesedato.
 
-”Feminism”. _Encyclopædia Britannica Online_. Encyclopædia Britannica Online Inc., 2013. Internett. 10. januar 2013.
+"Feminism". _Encyclopædia Britannica Online_. Encyclopædia Britannica Online Inc., 2013. Internett. 10. januar 2013.
 
 ::: details I EndNote
 
@@ -346,7 +346,7 @@ Utaker ser her på bruk av bilder i filosofi knyttet til menneskets forståelse 
 :::: ref
 Etternavn, Fornavn. _Tittel._ Årstall. Upublisert manuskript. Institusjonstilhørighet.
 
-Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
+Utaker, Arild. _Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
 
 ::: details I EndNote
 

@@ -91,7 +91,7 @@ Etternavn, N.N. & Etternavn, N.N. (Årstall) Artikkeltittel. _Tidsskrifttittel_,
 
 Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov & Straume, 2003).
 
-Dyregrov, A. & Straume, M. (2003) Kollektiv ivaretakelse etter katastrofer: erfaringer fra ”Sleipnerulykken”. _Tidsskrift for norsk psykologforening_, 40 (2), s. 92-101.
+Dyregrov, A. & Straume, M. (2003) Kollektiv ivaretakelse etter katastrofer: erfaringer fra "Sleipnerulykken". _Tidsskrift for norsk psykologforening_, 40 (2), s. 92-101.
 
 ### Artikkel i elektronisk tidsskrift
 
@@ -261,7 +261,7 @@ Komponist, A.A. (Årstall) _Tittel på komposisjon_, utøver(e). Plateselskap. \
 
 I sangen Stella vil Gud gi Stella hele verden om hun bare blir hos han, gir han varme og holder han tett inntil seg (Ida Maria, 2008).
 
-Ida Maria (2008) _Fortress ’round my heart_, Ida Maria Sivertsen. Waterfall records. \[Lydopptak CD\].
+Ida Maria (2008) _Fortress 'round my heart_, Ida Maria Sivertsen. Waterfall records. \[Lydopptak CD\].
 
 ### Lover
 
@@ -441,7 +441,7 @@ Hvis en kilde har til og med tre forfattere må du skrive alle navnene hver gang
 > _…(Gilhus, Seim & Vidén, 2009, s. 45).  
 > Gilhus, Seim og Vidén (2009, s. 45) viser at… _
 
-For kilder med fire eller flere forfattere skal du skrive førsteforfatter og ”et al.”. Deretter skriver du årstallet.
+For kilder med fire eller flere forfattere skal du skrive førsteforfatter og "et al.". Deretter skriver du årstallet.
 
 > _Kvale et al. (2009, s. 100) peker på at…_  
 > _… (Kvale et al., 2009, s. 100)._

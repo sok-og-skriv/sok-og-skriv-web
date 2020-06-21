@@ -35,11 +35,11 @@ Tip:
 - Use images and symbols.
 - Write in lower case. Lower-case text is easier to read and remember than text written in CAPITALS.
 
-Source: [“Learning Support Services. Skills for Learning. CD-rom version “, 2004](http://hvalross.hib.no/sokskriv/skriving/skriving-er-en-prosess/oppgavestart/teknikker/index.php?action=static&id=68)
+Source: ["Learning Support Services. Skills for Learning. CD-rom version ", 2004](http://hvalross.hib.no/sokskriv/skriving/skriving-er-en-prosess/oppgavestart/teknikker/index.php?action=static&id=68)
 
 ## Freewriting
 
-Freewriting (literally, “think text” in Norwegian) aims to produce a personal and creative text that can help you get started with your writing process. Freewriting means writing to learn, to generate ideas, and to kindle your interest. By writing without thinking about the final product you may discover new possibilities in your chosen theme.
+Freewriting (literally, "think text" in Norwegian) aims to produce a personal and creative text that can help you get started with your writing process. Freewriting means writing to learn, to generate ideas, and to kindle your interest. By writing without thinking about the final product you may discover new possibilities in your chosen theme.
 
 - Write down everything you know about the topic in a single more-or-less continuous piece of text.
 - Focus on the content of your text.

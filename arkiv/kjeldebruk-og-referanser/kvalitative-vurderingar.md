@@ -37,7 +37,7 @@ Kilden bør vurderes i lys av hvem den er skrevet for. All tekst er skrevet med 
 
 ### Lærebok
 
-En lærebok er en type tekst skrevet for studenter som skal innlemmes i en faglig diskurs og et nytt fag. Læreboka refererer teorier og faghistorikk, der målet er å inkludere studenter i et faglig akademisk fellesskap. En læreboktekst tar ikke stilling til hva som er ”det viktigste” i faget, men de teoriene forfatteren legger mest vekt på er ofte de som ligger ham selv nærmest.
+En lærebok er en type tekst skrevet for studenter som skal innlemmes i en faglig diskurs og et nytt fag. Læreboka refererer teorier og faghistorikk, der målet er å inkludere studenter i et faglig akademisk fellesskap. En læreboktekst tar ikke stilling til hva som er "det viktigste" i faget, men de teoriene forfatteren legger mest vekt på er ofte de som ligger ham selv nærmest.
 
 ### Avhandling
 
@@ -119,7 +119,7 @@ Et tidsskrifts impact factor er et mål for hvor hyppig en gjennomsnittsartikkel
 
 Impact factor fungerer dermed som et kvantitativt verktøy til å rangere tidsskrift. Faktoren er basert på en formel utviklet av Institute for Scientific Information (ISI) nå Thomson Reuters, og utgis årlig i _Journal Citation Report_.
 
-Slik beregnes ’impact factor’ for 2004 for tidsskriftet GLOBAL BIOGEOCHEMICAL CYCLES:  
+Slik beregnes 'impact factor' for 2004 for tidsskriftet GLOBAL BIOGEOCHEMICAL CYCLES:  
 
 $$\text{Antall siteringer i 2004 til artikler fra 2003 + Antall siteringer i 2004 til artikler fra 2002} \over \text{Antall artikler publisert i 2003 + Antall artikler publisert i 2002}$$
 
@@ -131,7 +131,7 @@ Tidsskriftets impact factor i 2004 er altså lik 2.864.
 
 Det vil si at en artikkel fra dette tidsskriftet i gjennomsnitt er sitert 2-3 ganger i løpet av 2004. I realiteten er det imidlertid slik at noen av artiklene er sitert langt oftere og andre kanskje ikke i det hele tatt.
 
-Mer om denne faktoren og andre måter å beregne tidsskrifters gjennomslagskraft på, slik som 'Immediacy Index’, ’Cited Half-Life’, ’Citing Half-Life’ finner du i ISI – Journal Citation Report.
+Mer om denne faktoren og andre måter å beregne tidsskrifters gjennomslagskraft på, slik som 'Immediacy Index', 'Cited Half-Life', 'Citing Half-Life' finner du i ISI – Journal Citation Report.
 
 ### Bruken av impact factor:
 

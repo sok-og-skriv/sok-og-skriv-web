@@ -24,10 +24,10 @@ Får du få eller ingen treff, prøv å utvide søket ved å:
 - Lage mer generelle nøkkelord og prøv alternative synonymer.
 - Bruke spesifikke emneord for databasen ved å se om databasen bruker tesaurus.
 - Bruke trunkering for å inkludere flertallsformen eller sammensatte ord.
-- Bruke maskering for å inkludere flere former av ordet for eksempel ”wom?n” for å få med ”woman” og ”women”.
+- Bruke maskering for å inkludere flere former av ordet for eksempel "wom?n" for å få med "woman" og "women".
 - Bruke klassifikasjonssystem som utgangspunkt.
 
-Fremdels ikke noe? Kan temaet ditt være et ”ikke-tema” innenfor eksisterende paradigmer? Kontakt veileder!
+Fremdels ikke noe? Kan temaet ditt være et "ikke-tema" innenfor eksisterende paradigmer? Kontakt veileder!
 
 ### Ny litteratur
 

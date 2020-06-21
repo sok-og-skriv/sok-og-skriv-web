@@ -415,7 +415,7 @@ Komponistens Etternavn, Fornavn. Årstall. "Tittel på komposisjon". Fornavn Ett
 
 ...i en moderne jazzversjon av "Seterjentens Søndag" (Bull, spilt av Dag Arnesen trio 2007).
 
-Bull, Ole. 2007. ”Sæterjentens søndag”. Dag Arnesen trio: Dag Arnesen, klaver, Terje Gewelt, kontrabass, Pål Thowsen, slagverk, perkusjon. _Norwegian song_. Resonant Music. CD.
+Bull, Ole. 2007. "Sæterjentens søndag". Dag Arnesen trio: Dag Arnesen, klaver, Terje Gewelt, kontrabass, Pål Thowsen, slagverk, perkusjon. _Norwegian song_. Resonant Music. CD.
 
 ### Lover
 
@@ -617,13 +617,13 @@ Lengre sitater markeres med innrykk, gjerne fra begge sider, og evt. mindre font
 
 USAs historie er preget av innvandring. Når det gjelder religion og etnisk tilhørighet blant minoriteter i USA skriver Valerie Martinez-Ebers og Manochehr Dorraj at vi finner store variasjoner tross felles språk som blant latinamerikanske minoriteter:
 
-> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics – both characteristics are the result of their origin countries’ shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status). (Martinez-Ebers og Dorraj 2010, 5)_
+> _Aside from these commonalities associated with subordinate status, minority groups are usually quite different from one another. Within a particular group, there is also like to be variations. For example, Latinos are members of an ethnic minority group with national origins from 22 countries. Aside from their common language of Spanish and the high number who are catholics – both characteristics are the result of their origin countries' shared experience of Spanish conquest – the Hispanic national origin groups have different social, political, and migratory histories and different levels of human capital or resources (i.e education, income, social networks, and citizenship status). (Martinez-Ebers og Dorraj 2010, 5)_
 
 Når du selv oversetter et sitat skal dette markeres i parentes etter sidehenvisningen. Hvis du ønsker å inkludere originalsitatet, bør det plasseres i en note, eller eventuelt til sist i parentesen.
 
-Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i alle fall to ’modus’, indikativ og konjunktiv \[…\]" (1988, 41, min oversettelse).1
+Victor Turner hevder at "\[K\]ultur, som verb i mange om ikke alle språk, har i alle fall to 'modus', indikativ og konjunktiv \[…\]" (1988, 41, min oversettelse).1
 
-1 "Culture, like verbs in many if not all languages, has at least two ’moods’, indicative and subjunctive\[…\].»
+1 "Culture, like verbs in many if not all languages, has at least two 'moods', indicative and subjunctive\[…\].»
 
 ### Indirekte sitat
 

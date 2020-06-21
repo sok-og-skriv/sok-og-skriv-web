@@ -72,7 +72,7 @@ Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en proble
 
 - Bruk spørreord: hvordan, hvorfor, hvilke (faktorer, forhold) osv.
 - Noen spørsmål er lukkende og gir konkrete/avgrensete svar. Andre egner seg til drøfting av ulike tolkninger etc.  
-    "Hva ...?" er mer lukkende enn "hvordan ... " og "på hvilken måte".  
+    "Hva ...?" er mer lukkende enn "hvordan ..." og "på hvilken måte".  
     "Hvorfor" innebærer at du ser etter årsaksforklaringer (kausalitet). Dette stiller strenge krav til design og metode.
 - Velg gjerne spørreord som åpner opp problemstillingen slik at du kan belyse temaet, for eksempel "På hvilken måte … ?"  
     "Hvordan kan vi forstå \[et fenomen\]?"
@@ -99,7 +99,7 @@ Ikke alle oppgaver har en egen teoridel. I [IMRaD-](?p=1226)modellen er det tid
 
 I en forskningsartikkel er avsnittet om metode ofte det viktigste. Det samme gjelder metodekapitlet i en empirisk oppgave. Dette kan også være et vanskelig kapittel å skrive, fordi det ikke alltid er klart hvilken "jobb" det skal gjøre. Et metodekapittel skal **ikke** gjengi innholdet i fagets metodebøker. Dersom du har brukt intervju er det for eksempel ikke nødvendig å liste opp forskjellige typer forskningsintervju. Du trenger heller ikke redegjøre for forskjellene mellom kvantitative og kvalitative metoder, eller liste opp ulike typer validitet og reliabilitet.
 
-Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner seg til å belyse/besvare ditt forskningsspørsmål, og hvilke vurderinger du har foretatt mht validitet (gyldighet) og reliabilitet (pålitelighet).’_Show, don’t tell’_ – vis leseren hva du gjorde, og forklar hvorfor. Da vil metodekapitlet sette de ulike delene av oppgaven i sammenheng, og det blir spennende å lese. I praksis betyr dette å demonstrere at du har forstått den praktiske betydningen av begrepene.
+Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner seg til å belyse/besvare ditt forskningsspørsmål, og hvilke vurderinger du har foretatt mht validitet (gyldighet) og reliabilitet (pålitelighet).'_Show, don't tell'_ – vis leseren hva du gjorde, og forklar hvorfor. Da vil metodekapitlet sette de ulike delene av oppgaven i sammenheng, og det blir spennende å lese. I praksis betyr dette å demonstrere at du har forstått den praktiske betydningen av begrepene.
 
 - Et godt metodekapittel forteller hva du har gjort i din undersøkelse, og forklarer hvorfor. Hvordan samlet du inn data? Hva kan man forvente å finne ved å gjøre det på denne måten?
 - Hva var rammene? Hvilke avveininger måtte tas? Hva oppnår du ved å bruke denne metoden?

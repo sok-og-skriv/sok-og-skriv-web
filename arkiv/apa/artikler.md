@@ -27,7 +27,7 @@ Huang, L. & Mossige, S. (2012). Academic achievement in Norwegian secondary scho
 
 Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov & Straume, 2003, s. 93).
 
-Dyregrov, A. & Straume, M. (2003). Kollektiv ivaretakelse etter katastrofer: Erfaringer fra ”Sleipnerulykken”. _Tidsskrift for norsk psykologforening_, _40_, 92–101.
+Dyregrov, A. & Straume, M. (2003). Kollektiv ivaretakelse etter katastrofer: Erfaringer fra "Sleipnerulykken". _Tidsskrift for norsk psykologforening_, _40_, 92–101.
 
 Ifølge Andersen (2012, s. 271) .....
 

@@ -32,8 +32,8 @@ Firstly, textual analysis is primarily concerned with establishing what it was t
 - How does the author attempt to convince you that her or his perspective is worthwhile?
 - If relevant, how does she or he convince you to ignore other perspectives or weaknesses in her or his presentation?
 - What devices does the author use to hold you attention?
-- How does the author arouse the reader’s interest? Which examples does the author choose to expand upon? Are they amusing? Disturbing? Informative?
-- What is the author’s attitude to the material she or he is presenting? How does the author make the reader feel “included”? Is the author’s enthusiasm infectious? Is the tone didactic? Does the author give an authoritative impression?
+- How does the author arouse the reader's interest? Which examples does the author choose to expand upon? Are they amusing? Disturbing? Informative?
+- What is the author's attitude to the material she or he is presenting? How does the author make the reader feel "included"? Is the author's enthusiasm infectious? Is the tone didactic? Does the author give an authoritative impression?
 
 ## How does the text relate to other texts?
 

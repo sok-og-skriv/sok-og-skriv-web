@@ -356,7 +356,7 @@ I sangen Stella vil Gud gi Stella hele verden, om hun bare blir hos ham (Siverts
 :::: ref
 Komponist, N.N. / Artist, N.N. (Årstall) _Tittel på komposisjon_ \[Medium, evt. katalognummer\]. Utøver(e). Sted: Utgiver/plateselskap.
 
-Sivertsen, I.M. (2008) _Fortress ’round my heart_ \[CD\], Ida Maria. Oslo: Waterfall records.
+Sivertsen, I.M. (2008) _Fortress 'round my heart_ \[CD\], Ida Maria. Oslo: Waterfall records.
 
 ::: details I EndNote
 

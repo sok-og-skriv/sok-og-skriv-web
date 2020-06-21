@@ -6,7 +6,7 @@ next: "../sources-and-referencing/"
 
 # Disseminating your thesis
 
-Disseminating your results is a part of the academic process. You can do it by presenting papers at conferences or seminars, producing posters, and, of course, publishing in journals and books. You may choose to disseminate your masters' thesis by including it in your institution’s electronic archives (called self-archiving). In doing so, you make it available worldwide for free download to anyone who has access to the Internet.
+Disseminating your results is a part of the academic process. You can do it by presenting papers at conferences or seminars, producing posters, and, of course, publishing in journals and books. You may choose to disseminate your masters' thesis by including it in your institution's electronic archives (called self-archiving). In doing so, you make it available worldwide for free download to anyone who has access to the Internet.
 
 # Written presentations
 
@@ -100,7 +100,7 @@ During the presentation:
 
 ## Self-archiving
 
-Many university colleges and universities offer master’s students the opportunity to self-archive their theses electronically in the institutional archives.  
+Many university colleges and universities offer master's students the opportunity to self-archive their theses electronically in the institutional archives.  
 Some institutional archives in Norway:
 
 - [BORA – University of Bergen.](https://bora.uib.no/ "BORA University of Bergen (UIB)")
@@ -111,19 +111,19 @@ Some institutional archives in Norway:
 - [Information about the Brage archive](https://www.unit.no/en/node/521 "Brage")
 - A list of research archives worldwide is available at [OpenDoar](https://www.opendoar.org/countrylist.php "OpenDoar")
 
-All these archives make research carried out at the relevant institutions freely available on the Internet. Works can be retrieved using search engines such as Google Scholar. If you wish to make your master’s thesis available in this way, you must find out about your institution’s submission procedures. Some institutions allow you to self-archive your thesis at the same time that you submit it for examination. Other institutions will only allow self-archiving after the examination process has been completed. It is never too late to self-archive your work. Contact your institution if you decide later on that you wish to self-archive.
+All these archives make research carried out at the relevant institutions freely available on the Internet. Works can be retrieved using search engines such as Google Scholar. If you wish to make your master's thesis available in this way, you must find out about your institution's submission procedures. Some institutions allow you to self-archive your thesis at the same time that you submit it for examination. Other institutions will only allow self-archiving after the examination process has been completed. It is never too late to self-archive your work. Contact your institution if you decide later on that you wish to self-archive.
 
 ## Publication vs. self-archiving
 
-If you wish to have your master’s thesis published commercially as an article, chapter or book, it is important to check the publisher’s policy on self-archiving. Some publishers consider self-archiving as equivalent to publication and may reject your manuscript on this basis. The situation varies from publisher to publisher. Accordingly it is important to think carefully about how you wish to disseminate your text before you self-archive. Otherwise you may find that you have inadvertently limited your options. If you have signed a contract with a publisher you can always self-archive in the future.
+If you wish to have your master's thesis published commercially as an article, chapter or book, it is important to check the publisher's policy on self-archiving. Some publishers consider self-archiving as equivalent to publication and may reject your manuscript on this basis. The situation varies from publisher to publisher. Accordingly it is important to think carefully about how you wish to disseminate your text before you self-archive. Otherwise you may find that you have inadvertently limited your options. If you have signed a contract with a publisher you can always self-archive in the future.
 
-If you have published an article, you can self-archive it if your publishing contract allows this. In Norway, the publishers’ and authors’ associations have collaborated to produce a [standard contract for publication in journals](https://www.nffo.no/viewfile.aspx?id=143 "NFF standard contract for publication in scholarly journals"), which permits self-archiving.
+If you have published an article, you can self-archive it if your publishing contract allows this. In Norway, the publishers' and authors' associations have collaborated to produce a [standard contract for publication in journals](https://www.nffo.no/viewfile.aspx?id=143 "NFF standard contract for publication in scholarly journals"), which permits self-archiving.
 
 Under this contract, the publisher has non-exclusive rights regarding the digital publication, duplication and publication of the work. The author may include the work on her or his own website or that of her of his employer.
 
-With regard to international journals, consult the [Sherpa/Romeo database](https://www.sherpa.ac.uk/romeo/ "Sherpa Romeo database"). This database contains information about most publishers’ and journals’ policies on self-archiving.
+With regard to international journals, consult the [Sherpa/Romeo database](https://www.sherpa.ac.uk/romeo/ "Sherpa Romeo database"). This database contains information about most publishers' and journals' policies on self-archiving.
 
-Contact your institution’s library if you have questions about copyright, self-archiving and the dissemination of articles in different versions. For more information about Open Access publishing and self-archiving in Norway, e.g., about Norwegian publishers’ practices, see the Norwegian website [openaccess.no](https://www.openaccess.no/ "Openaccess.no").
+Contact your institution's library if you have questions about copyright, self-archiving and the dissemination of articles in different versions. For more information about Open Access publishing and self-archiving in Norway, e.g., about Norwegian publishers' practices, see the Norwegian website [openaccess.no](https://www.openaccess.no/ "Openaccess.no").
 
 Sources:
 

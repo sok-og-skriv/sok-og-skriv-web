@@ -33,7 +33,7 @@ Empirien i en empirisk oppgave må analyseres, det vil si _kodes, tolkes_ og eve
 
 I en teoretisk oppgave er [argumentasjon](/studieteknikk/argumentasjon-i-tekst/) og drøfting sentralt. Du kan enten drøfte ideene og begrepene underveis, eller skille ut drøftingen i egne kapitler. Pass uansett på at du ikke redegjør og drøfter i én og samme vending.
 
-I en empirisk oppgave kommer drøftingen etter redegjørelsen, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRoD-modellen](/skriving/imrod-modellen/).
+I en empirisk oppgave kommer drøftingen etter redegjørelsen, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske "discussion"). Se mer om diskusjon under [IMRoD-modellen](/skriving/imrod-modellen/).
 
 Hvordan kan du gjenkjenne drøftingen i en tekst? Se etter signalord som viser at det er snakk om argumentasjon (til forskjell fra redegjørelse). Noen slike ord er: Hvis ... så ... dersom ... kan det hevdes at ... På den ene siden ... på den andre ... derfor ...
 

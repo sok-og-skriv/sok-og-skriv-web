@@ -4,14 +4,14 @@ Mange av de tekstene du leser er argumenterende tekster. De argumenterer for noe
 
 ::: eksempel Eksempel fra en litteraturvitenskapelig artikkel 
 
-"I min lesning av diktet ‘Död amazon’ vil jeg argumentere for at diktspråket rommer en kompleks og fortettet temporalitet som vanskelig lar seg forene med den mimesislogikk som vi vanligvis møter i poetikken. (Ellen Mortensen, “En ubestemmelig død: Mimesis og temporalitet i Hjalmar Gullbergs ‘Död amazon’”, _Agora. Journal for metafysisk spekulasjon_, 4/00-01, 140-154; s. 140.)
+"I min lesning av diktet 'Död amazon' vil jeg argumentere for at diktspråket rommer en kompleks og fortettet temporalitet som vanskelig lar seg forene med den mimesislogikk som vi vanligvis møter i poetikken. (Ellen Mortensen, "En ubestemmelig død: Mimesis og temporalitet i Hjalmar Gullbergs 'Död amazon'", _Agora. Journal for metafysisk spekulasjon_, 4/00-01, 140-154; s. 140.)
 :::
 
 Vi legger merke til følgende:
 
 ### 1 Synspunktet
 
-Forfatteren sier «vil jeg argumentere for». Det som følger er da det synspunktet eller den påstanden det skal argumenteres for, her «at diktspråket \[i diktet ‘Död amazon’\] rommer en kompleks og fortettet temporalitet (osv.)». Andre måter å markere hva som er hovedsynspunktet eller hovedpåstanden på, er «Tesen i denne artikkelen er … », «Jeg vil hevde at», «Min påstand i det følgende er at … ». Det kan sies på mange måter. Dessuten blir det ikke alltid sagt rett ut. Ofte må vi slutte oss til hva det blir argumentert for ut fra det vi leser, uten at vi får direkte hjelp av slike formuleringer.
+Forfatteren sier «vil jeg argumentere for». Det som følger er da det synspunktet eller den påstanden det skal argumenteres for, her «at diktspråket \[i diktet 'Död amazon'\] rommer en kompleks og fortettet temporalitet (osv.)». Andre måter å markere hva som er hovedsynspunktet eller hovedpåstanden på, er «Tesen i denne artikkelen er … », «Jeg vil hevde at», «Min påstand i det følgende er at … ». Det kan sies på mange måter. Dessuten blir det ikke alltid sagt rett ut. Ofte må vi slutte oss til hva det blir argumentert for ut fra det vi leser, uten at vi får direkte hjelp av slike formuleringer.
 
 For det andre: Selv om forfatteren sier hva det er hun/han argumenterer for, er det ikke sikkert vi dermed fullt ut forstår hva hun mener. Hva betyr «den mimesislogikk som vi vanligvis møter i poetikken»? Hvis vi har studert litteraturvitenskap, har vi kanskje en idé om hva det kan bety. Men selv da må vi gjerne lese videre, for å få en mer presis oppfatning av hva det er snakk om i sammenhengen. I den artikkelen vi har sitert, utdyper forfatteren hva som ligger i begrepene allerede i de neste setningene i innledningen. Etter innledningen heter det første hovedavsnittet «Mimesis og temporalitet», og her får vi utdypet det enda mer, med henvisning til forskjellige teoretikere, med bruk av flere begreper, og gjennom eksempler.
 

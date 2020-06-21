@@ -442,10 +442,10 @@ Referer til nettsiden:
 Hansen, A. (2006). Monkfish / Breiflabb. Hentet fra [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)
 
 Tabell hentet fra tidsskriftartikkel:  
-Tabell 1. Sammenligning av mislykkethet. Fra «Unsuccessful treatments of “writer's block”: A meta-analysis,» av D. C. McLean & B. R. Thomas, 2014, _Psychological Reports, 115_, s. 277. Copyright 2014 Sage Publications. Gjengitt med tillatelse.
+Tabell 1. Sammenligning av mislykkethet. Fra «Unsuccessful treatments of "writer's block": A meta-analysis,» av D. C. McLean & B. R. Thomas, 2014, _Psychological Reports, 115_, s. 277. Copyright 2014 Sage Publications. Gjengitt med tillatelse.
 
 Referer til artikkelen:  
-McLean, D. C. & Thomas, B. R. (2014). Unsuccessful treatments of “writer's block”: A meta-analysis. _Psychological Reports, 115_(1), 276-278.  [https://doi.org/10.2466/28.PR0.115c12z0](https://doi.org/10.2466/28.PR0.115c12z0)
+McLean, D. C. & Thomas, B. R. (2014). Unsuccessful treatments of "writer's block": A meta-analysis. _Psychological Reports, 115_(1), 276-278.  [https://doi.org/10.2466/28.PR0.115c12z0](https://doi.org/10.2466/28.PR0.115c12z0)
 
 Bilde hentet fra bok  
 Figur 4. Relativ nettoflytting i kommunene. Fra _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ (s. 42), av K. Vareide, 2018, Oslo: Cappelen Damm Akademisk. CC BY 4.0.

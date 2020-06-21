@@ -46,7 +46,7 @@ Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen 
 
 ## Lærebok
 
-Ei lærebok er ein type tekst skrive for studentar som skal innlemmast i ein fagleg diskurs og eit nytt fag. Læreboka refererar teoriar og faghistorikk, der målet er å inkludere studentar i eit fagleg akademisk fellesskap. Ein læreboktekst tek ikkje stilling til kva som er ”det viktigaste” i faget, men dei teoriene forfatteren legg mest vekt på er ofte dei som ligg han eller ho sjølve nærast som fagperson.
+Ei lærebok er ein type tekst skrive for studentar som skal innlemmast i ein fagleg diskurs og eit nytt fag. Læreboka refererar teoriar og faghistorikk, der målet er å inkludere studentar i eit fagleg akademisk fellesskap. Ein læreboktekst tek ikkje stilling til kva som er "det viktigaste" i faget, men dei teoriene forfatteren legg mest vekt på er ofte dei som ligg han eller ho sjølve nærast som fagperson.
 
 ## Avhandling
 

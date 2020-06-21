@@ -26,7 +26,7 @@ Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette e
 **Samme setning i aktiv form:** Instituttet foretar stadig nye undersøkelser på dette området. Eller: Instituttets forskere gjør stadig nye undersøkelser på dette området.
 Eller enda enklere: Instituttet forsker stadig på dette området.
 
-Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. Dette er vanlig å gjøre i beskrivelsen av forskningsmetoder der resultatene skal kunne reproduseres uavhengig av hvem som gjør undersøkelsen. Det er imidlertid en vanlig misforståelse å tro at en setning i passiv form er mer objektiv fordi man unngår ordet "jeg" eller "vi". Her, som ellers, er det fornuftig å variere. For mye passiv form blir tunglest, byråkratisk og ”mystifiserende”, men for mye aktiv form kan også bli slitsomt. Det er ikke alltid vi trenger å minnes om forskernes personer gjennom bruk av ”jeg” eller ”vi”.
+Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. Dette er vanlig å gjøre i beskrivelsen av forskningsmetoder der resultatene skal kunne reproduseres uavhengig av hvem som gjør undersøkelsen. Det er imidlertid en vanlig misforståelse å tro at en setning i passiv form er mer objektiv fordi man unngår ordet "jeg" eller "vi". Her, som ellers, er det fornuftig å variere. For mye passiv form blir tunglest, byråkratisk og "mystifiserende", men for mye aktiv form kan også bli slitsomt. Det er ikke alltid vi trenger å minnes om forskernes personer gjennom bruk av "jeg" eller "vi".
 
 ::: oppgave Øvelse
 **Skriv om til mer direkte form:**
@@ -39,7 +39,7 @@ Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. 
 - Foreta en undersøkelse
 :::
 
-## Kan jeg skrive ”jeg”?
+## Kan jeg skrive "jeg"?
 
 I noen fag advares det sterkt mot å bruke ordet "jeg". Da kan du bli nødt til å skrive om, og bruke "man", "vi" eller passiv form. Men det er viktig å være klar over at det å bruke ordet "jeg" ikke er det samme som å være privat eller subjektiv. Her kan vi skille mellom et privat eller personlig "jeg" og det skrivende "jeg", altså forfatteren av teksten. Det å skrive "nå skal jeg redegjøre for ... " er _ikke_ et personlig utsagn. I de fleste fag vil det være uproblematisk å bruke forfatter-jeg'et i [leserveiledninger](/skriving/sprak-og-stil/a-skape-flyt/). Dette virker mindre stivt enn å bruke ordet "man" om seg selv.
 

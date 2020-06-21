@@ -22,6 +22,6 @@ Fasene endrer seg fra det tidspunktet man har en forholdsvis vag ide om oppgaven
 
 I ulike faser vil du ha flere grunner for ditt faglige informasjonsbehov. Du vil ha bruk for forskjellige typer kilder og du vil kanskje også ha ulike kriterier for å vurdere informasjon. I kurset Søk & Skriv vil du finne gode vurderingskriterier for kildene du tar for deg.
 
-Som eksempler på utfordringer studenter kan møte underveis i skriveprosessen treffer du i Søk & Skriv jordmorstudenten [Oda](index.php?action=blog&id=1 "Oda"), økononistudenten [Christian](index.php?action=blog&id=2&postid=136 "Chrisitan") og Midtøstenstudenten [Sofie](index.php?action=blog&id=4 "Sofie"). Disse tre studentene går gjennom ulike faser ”alle” kjenner til, og ”må” gjennom når de skal skrive en større akademisk tekst og finne aktuell og relevant informasjon.
+Som eksempler på utfordringer studenter kan møte underveis i skriveprosessen treffer du i Søk & Skriv jordmorstudenten [Oda](index.php?action=blog&id=1 "Oda"), økononistudenten [Christian](index.php?action=blog&id=2&postid=136 "Chrisitan") og Midtøstenstudenten [Sofie](index.php?action=blog&id=4 "Sofie"). Disse tre studentene går gjennom ulike faser "alle" kjenner til, og "må" gjennom når de skal skrive en større akademisk tekst og finne aktuell og relevant informasjon.
 
 Søk & Skriv, oktober 2009.

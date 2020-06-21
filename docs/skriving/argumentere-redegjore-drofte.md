@@ -85,9 +85,9 @@ Argument(er) kan være basert på empirisk **dokumentasjon**, henvisninger til f
 
 Hva er argumentene i teksten din? Hvordan underbygger du synspunktet ditt? Hva er det du argumenterer _med_?
 
-#### 3. Undersøkelsesmetode(r)
+#### 3. Undersøkelsesmetode\(r\)
 
-Undersøkelsesmetode(r) er analytiske metoder og grep som er hensiktsmessige å bruke på påstander og argumentene du setter fram. Pass på at det er sammenheng mellom valg av teori, metode og empiri.
+Undersøkelsesmetode\(r\) er analytiske metoder og grep som er hensiktsmessige å bruke på påstander og argumentene du setter fram. Pass på at det er sammenheng mellom valg av teori, metode og empiri.
 
 Hvilken undersøkelsemetode vil du bruke for å prøve ut problemstillingen og påstanden din? Hvilket teoretisk perspektiv vil du bruke i din oppgave?
 
