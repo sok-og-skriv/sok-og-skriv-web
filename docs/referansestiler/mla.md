@@ -10,16 +10,14 @@ MLA står for Modern Language Association. Referansestilen er en **forfatter-sid
 ## Sitering i teksten 
 
 Hvis forfatternavnet brukes i teksten oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: 
-
 > "Barrow fant at ... (137-141)". 
 
-Hvis forfatternavnet ikke er del av setningen, skal det også stå i parentesen, slik: 
-
+Hvis forfatternavnet ikke er del av setningen, skal det stå inne i parentesen: 
 > "... (Barrow 137-141)". 
 
 Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. Eksempel: (Faingold, _Child language_ 95-97). Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik: "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
 
-Sitater må være eksakt gjengitt med kildehenvisning. Sitater som er kortere enn tre linjer inkluderes i teksten og markeres med anførselstegn. Lengre sitater markeres med kolon og innrykk, men ikke anførselstegn.
+Sitater må være eksakt gjengitt med kildehenvisning. Sitater som er kortere enn tre linjer inkluderes i teksten med anførselstegn. Lengre sitater markeres med kolon og innrykk, men ikke anførselstegn.
 
 
 ### Verk med flere forfattere 
@@ -80,6 +78,28 @@ Rem, Tore. _En biografi om Jens Bjørneboe_. Cappelen Damm, 2020.
 blabla 
 ::: 
 :::: 
+
+### E-bok
+
+I [MLA] (https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Legg inn informasjon om dette foran utgiver. 
+
+::: teksten
+Forfatter (evt. sidetall)
+
+
+:::
+
+:::: ref
+Etternavn, Fornavn. _Tittel_. Utgiver, årstall. MER
+
+Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_. Oxford University Press, 2012. 
+
+::: details I EndNote
+
+blabla 
+::: 
+:::: 
+
 
 
 ### Bokkapittel
@@ -143,7 +163,7 @@ Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig
 :::: ref
 Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
 
-Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3.årgang. Nr. 1 (2009): 49-58.
+Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3. årgang. Nr. 1 (2009): 49-58.
 
 ::: details I EndNote
 

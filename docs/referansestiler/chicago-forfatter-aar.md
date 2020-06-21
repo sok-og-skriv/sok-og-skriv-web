@@ -50,13 +50,13 @@ blabla
 ::: teksten
 (Forfatter årstall, evt. sidetall)
 
-NYTT EKSEMPEL TRENGS. SAmme som Vancouver og Harvard, evt også Chicago a?
+
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI eller URL
+Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. **DOI eller URL?**
 
-EKSEMPEL
+Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press.
 
 ::: details I EndNote
 
