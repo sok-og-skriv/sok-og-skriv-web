@@ -194,7 +194,7 @@ blabla
 :::: 
 
 
-### Studentoppgaver og doktorgradsavhandlinger 
+## Studentoppgaver og doktorgradsavhandlinger 
 
 
 ::: teksten
@@ -456,6 +456,7 @@ I Iliaden (6.344–58) sier Helena at…
 
 … (Dante Alighieri, 1472/2005, s. 241)
 … (Homer,ca 800 f. Kr./1898)
+:::
 
 :::: ref
 <span class="ref">Dante Alighieri. (2005). Den guddommelege komedie (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
