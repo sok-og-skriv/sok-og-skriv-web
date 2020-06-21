@@ -5,12 +5,10 @@ date: "2012-09-18"
 
 # Harvard
 
-Harvard-stiler er fellesbetegnelse for referanser hvor forfatter og årstall plasseres i parentes i teksten. Det finnes ingen offisiell manual for Harvard-stil, men ulike varianter er brukt innenfor mange fagområder.
-
-Søk & Skrivs norske versjon fra 2019 bygger på manualen  
+Harvard-stil er en fellesbetegnelse for referanser hvor forfatter og årstall plasseres i parentes i teksten. Det finnes ingen offisiell manual for Harvard-stil, men ulike varianter er brukt innenfor mange fagområder. Søk & Skrivs norske versjon fra 2019 bygger på manualen  
 Pears, R. og Shields, G. (2019) _Cite them right_. 11. utg. London: Red Globe Press.
 
-Enkelte fag, som for eksempel biologi, inkluderer sidetall kun ved direkte sitat og ikke etter parafrasering. Det er derfor viktig å undersøke refereringspraksis for ditt fag. For andre varianter av parentesreferanser se [APA](/kildebruk-og-referanser/referansestiler/apa-6th/), [Chicago](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/), [MLA](/kildebruk-og-referanser/referansestiler/mla/).
+Enkelte fag, som for eksempel biologi, inkluderer sidetall kun ved direkte sitat og ikke etter parafrasering. Det er derfor viktig å undersøke refereringspraksis for ditt fag. For andre varianter av parentesreferanser se [APA](/kildebruk-og-referanser/referansestiler/apa-6th/), [Chicago](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/) og [MLA](/kildebruk-og-referanser/referansestiler/mla/).
 
 Les mer om [siteringer](/kildebruk-og-referanser/hvordan-referere/#sitater) og [henvisninger](/kildebruk-og-referanser/referansestiler/harvard/#henvisning).
 
@@ -36,6 +34,7 @@ Bok med en til tre forfattere:
 Bok med fire eller flere forfattere:  
 (Første forfatters etternavn mfl., årstall, eventuelt sidetall)
 
+**Eksempel**
 Eriksen og Nielsen (2013, s. 14) hevder at …
 :::
 
@@ -44,8 +43,9 @@ Bok med en til tre forfattere:
 Etternavn, N.N, Etternavn, N.N. og Etternavn, N.N. (Årstall) _Tittel_. Utgivelsessted: Utgiver. 
 
 Bok med fire eller flere forfattere:  
-Etternavn, N.N. mfl. (årstall) _Tittel_. Utgivelsessted: Utgiver
+Etternavn, N.N. mfl. (årstall) _Tittel_. Utgivelsessted: Utgiver.
 
+**Eksempel** 
 Eriksen, T.H. og Nielsen, F.S. (2013) _A history of anthropology._ 2. utg. London: Pluto Press.
 
 ::: details I EndNote
@@ -64,6 +64,8 @@ Nortvedt, M.W. mfl. (2012) _Jobb kunnskapsbasert! En arbeidsbok._ 2. utg. Oslo: 
 
 ### E-bok
 
+E-bøker som er elektroniske kopier av trykte bøker, kan føres opp på samme måte som trykt bok. 
+
 ::: teksten
 
 
@@ -71,8 +73,10 @@ Nortvedt, M.W. mfl. (2012) _Jobb kunnskapsbasert! En arbeidsbok._ 2. utg. Oslo: 
 :::
 
 :::: ref
-Se https://libguides.ioe.ac.uk/c.php?g=482485&p=3299779 
 
+Etternavn, N.N., (Årstall) _Tittel._ Utgivelsessted: Utgiver. URL/DOI/plattform (lesedato).
+
+Allen, J. (2019) _The Productive Graduate Student Writer: How to Manage Your Time, Process, and Energy to Write Your Research Proposal, Thesis, and Dissertation and Get Published._ Sterling, Virginia: Stylus Publishing. Hentet fra: http://search.ebscohost.com.ezproxy.uio.no/login.aspx?direct=true&db=nlebk&AN=2182551&site=ehost-live (Lest 21 June 2020). 
 ::: details I EndNote
 
 blabla 
@@ -198,6 +202,16 @@ Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober, del 2, s. 12.
 :::
 
 ### Nettside
+
+SLETTE? 
+### Nettsider/elektroniske dokumenter
+
+- Nettsider med forfatter refereres til med forfatternavn og årstall.
+- Ved nettsider uten forfatter, hvor artikkelen er en del av et større nettsted, oppgis navnet til nettstedet/organisasjonen som forfatter.
+- Dersom nettsiden ikke har oppgitt forfatter eller ansvarlig organisasjon, skal teksthenvisningen oppgi noen ord av tittelen på siden for å vise leseren hvor den kan gjenfinnes i referanselisten.
+- Dersom nettadressen til et dokument er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres.
+- Når man omtaler et helt nettsted, og ikke et spesifikt dokument på nettsiden, oppgis hele adressen til siden i teksten, men man trenger ikka ta med denne i referanselisten:
+
 
 ::: teksten
 (Forfatter/Redaktør/Organisasjon, Årstall)
@@ -678,47 +692,6 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
 
 
-## Henvisninger i teksten
-
-### Sidetall
-
-Bruk sidetall i henvisningen etter årstall når du referer til et sted i en bok eller lengre artikkel. Dette er viktig for å sette leseren i stand til å gjenfinne kilden og etterprøve påstanden. Om henvisningen dreier seg om et helt verk, holder det med forfatter og årstall.
-
-### Forfatternavn
-
-Bruker du forfatternavnet i setningen, skriv årstall i parentes etter forfatteren:
-
-> _Barrow (1974, s. 19) fant …_
-
-Hvis forfatterens navn ikke står i setningen, skriv i en parentes forfatterens navn og årstall:
-
-> _... (Barrow, 1974, s. 19)._
-
-Hvis en kilde har en til tre forfattere, skrives alle navnene hver gang referansen forekommer i teksten:
-
-> _… (Mekki og Tollefsen, 2000, s. 45).  
-> Mekki og Tollefsen (2000, s. 45) viser at… _
-
-For kilder med fire eller flere forfattere, skriv første forfatter og mfl. etterfulgt av årstallet:
-
-> _Kvale mfl. (2009, s. 100) peker på at …_  
-> _… (Kvale mfl., 2009, s. 100)._
-
-Dersom man henviser til flere forfattere med samme etternavn og som har publisert i samme år skal initialer brukes:
-
-> _R.D. Luce (1986, s. 14) og P.A. Luce (1986, s. 22) fant …_
-
-Når man henviser til flere forfattere samtidig i egen tekst skal forfatterne nevnes i kronologisk rekkefølge. I parentesen skal forfatterne skilles med semikolon:
-
-> _Hansen (1965, s. 4), Olsen (1978, s. 99) og Jacobsen (2001, s. 33) demonstrerer alle at ...  
-> Som vist i forskningen kan man (Hansen, 1965, s. 4; Olsen, 1978, s. 99; Jacobsen, 2001, s. 33) ... _
-
-### Årstall
-
-Hvis en forfatter har publisert flere arbeider samme år skilles de med at man tilføyer a, b, c og så videre etter årstallet:
-
-> _… (Faingold, 1996c, s. 53)._
-
 ### Forkortelser
 
 Dersom et dokument er utgitt av en offentlig instans, organisasjon eller forening skrives hele navnet i alle siteringer. Forkortelse kan brukes om den er lett gjenkjennelig. Ved første gangs sitering skriver du hele navnet og forkortelsen i hakeparentes:
@@ -733,38 +706,10 @@ Deretter:
 
 Begrepet sekundærkilder brukes om en kilde man har lest, men som viser til et annet verk. Det man har lest er en forfatters sitering eller gjenfortelling av et faglig innhold som kommer fra en annen. Det beste er å bruke originalkilden i størst mulig grad. Om du likevel bruker sekundærkilden, så vær oppmerksom på at det bare er denne som skal oppgis i referanselisten på slutten av oppgaven. Originalkilden skal oppgis i henvisningen på følgende måter:
 
-> _... ifølge Miller referert i Nortvedt (2008, s. 40). _
+> ... ifølge Miller referert i Nortvedt (2008, s. 40). 
 
 Det blir det samme om du setter hele henvisningen inne i parentesen:
 
-> _...ifølge ham (Miller, referert i Nortvedt, 2008, s. 40)._
+> ... ifølge ham (Miller, referert i Nortvedt, 2008, s. 40).
 
-### Direkte sitat
 
-Et direkte sitat fra en annen forsker/forfatter må være korrekt gjengitt og inneholde henvisning med forfatter, år og sidetall. I henhold til norsk praksis i akademisk skriving skal sitater som er tre linjer eller kortere skrives direkte inn i teksten og fremheves med hermetegn. Sitater som går over tre linjer skal skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn. Hvis du utelater deler av sitatet skal det erstattes av ... \[tre prikker\] for å vise at ikke hele teksten er tatt med:
-
-> _The similarity between demonstratives and articles, both synchronically and diachronically, is not coincidental but due to grammaticalization processes whereby old forms acquire new functions (Faingold, 2003, s. 53)._
-
-Eller:
-
-> _Faingold hevdet at "... due to grammaticalization processes whereby old forms acquire new functions" (2003, s. 53) blir ..._
-
-### Indirekte sitat
-
-Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden og å kontrollere fakta.
-
-> _Kloster (2003, s. 10)  hevder i sin hovedfagsoppgave at singellivet er en konsekvens av demokratiseringen i den private sfæren._
-
-Eller:
-
-> _... konsekvens av demokratiseringen i den private sfæren (Kloster, 2003, s. 10)._
-
-### Nettsider/elektroniske dokumenter
-
-- Nettsider med forfatter refereres til med forfatternavn og årstall.
-- Ved nettsider uten forfatter, hvor artikkelen er en del av et større nettsted, oppgis navnet til nettstedet/organisasjonen som forfatter.
-- Dersom nettsiden ikke har oppgitt forfatter eller ansvarlig organisasjon, skal teksthenvisningen oppgi noen ord av tittelen på siden for å vise leseren hvor den kan gjenfinnes i referanselisten.
-- Dersom nettadressen til et dokument er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres.
-- Når man omtaler et helt nettsted, og ikke et spesifikt dokument på nettsiden, oppgis hele adressen til siden i teksten, men man trenger ikka ta med denne i referanselisten:
-
-> _Arbeidstilsynet er en nettside som inneholder denne type informasjon ([https://www.arbeidstilsynet.no/](https://www.arbeidstilsynet.no/)).)._
