@@ -71,7 +71,9 @@ _Alle forfattere nevnes_
 :::
 ::: details I EndNote
 
-blabla 
+Legges inn som "Book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher, Edition (hvis aktuelt) Translator (hvis aktuelt)
 ::: 
 :::: 
 
@@ -97,7 +99,9 @@ En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Book Section".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Editor (trykk "enter" mellom hvert navn hvis flere), Book Title, Publisher, Pages, Edition (hvis aktuelt). 
 ::: 
 :::: 
 
@@ -120,7 +124,13 @@ blabla
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Electronic Book".
+
+E-bok med DOI: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, DOI.
+
+E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
+
+(Bruk feltet Type of Medium dersom e-boka er begrenset til lesing på et spesielt lesebrett). 
 ::: 
 :::: 
 
@@ -162,7 +172,9 @@ I Iliaden (6.344–58) sier Helena at…
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Book".
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn maunelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+
 ::: 
 :::: 
 
@@ -197,7 +209,13 @@ Et gjenutgitt verk menes her med et verk som har gått ut av trykk (eller ikke l
 
 ::: details I EndNote
 
-blabla 
+Trykt tidsskrift: Legges inn som "Journal Article". 
+
+Elektronisk tidsskrift: Legges inn som "Electronic Article" eller "Journal Article".
+
+Trykt tidsskrift: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue (hvis aktuelt), Pages.
+
+Elektronisk tidsskrift: Fyll ut feltene Author, Year, Title, Journal, Volume, Issue (hvis aktuelt), Pages, DOI (eller URL dersom DOI mangler).
 ::: 
 :::: 
 
@@ -220,7 +238,9 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Newspaper Article".
+
+Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date.
 ::: 
 :::: 
 
@@ -242,7 +262,9 @@ Ta med avisens seksjon dersom det er nødvendig for å skille ulike utgaver elle
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Newspaper Article".
+
+Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date,URL.
 ::: 
 :::: 
 
@@ -264,7 +286,11 @@ blabla
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Web Page".
+
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjonsnavnet), Year, Title, Publisher (Nettstedets navn) Last Update Date (hvis publiseringsdato er oppgitt i tillegg til publiseringsår), URL.
+
+(Fyll også ut Access Year og Access Date hvis lesedato skal med). 
 ::: 
 :::: 
 
@@ -289,7 +315,21 @@ Skinnegående transport øker mest (Lund, 2018).
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Web Page".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher (Nettstedets navn) Last Update Date (hvis publiseringsdato er oppgitt i tillegg til publiseringsår), URL.
+
+
+Eksempel på referanseliste i APA
+Beizer, J. L. & Timiras, M. L. (1994). Pharmacology and drug management in the elderly. I P. S. Timiras (Red.), Physiological basis of aging and geriatrics (2. utg., s. 279-284). Boca Raton, FL: CRC Press.
+Dybvig, D. D. & Dybvig, M. (2003). Det tenkende mennesket: Filosofi- og vitenskapshistorie med vitenskapsteori (2. utg.). Trondheim: Tapir akademisk.
+Kwan, I. & Mapstone, J. (2004). Visibility aids for pedestrians and cyclists: A systematic review of randomised controlled trials. Accident Analysis & Prevention, 36, 305-312. https://doi.org/10.1016/S0001-4575(03)00008-3
+ 
+
+Kontakt
+For mer veiledning kontakt ditt lokale bibliotek.
+
+Meld feil og forbedringsforslag 
 ::: 
 :::: 
 
@@ -311,7 +351,11 @@ I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 
 ::: details I EndNote
 
-blabla 
+(tilpasset EndNote-stil for norsk APA)
+
+Legges inn som "Legal Rule or Regulation".
+
+Fyll ut feltene: Author (korttittelen til loven), Year, Title (full tittel), Rule Number (datokode), URL.
 ::: 
 :::: 
 
@@ -339,7 +383,8 @@ Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier a
 
 ::: details I EndNote
 
-blabla 
+
+Fyll ut feltene: Author (Forskriftens kortform), Year, Title (full tittel), Rule Number (datokode), URL.
 ::: 
 :::: 
 
@@ -372,7 +417,9 @@ Dersom du henviser til trykt utgave, utgår url.
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Report" eller "Government Document".
+
+Fyll ut feltene: Author (med et komma etter departementsnavnet), Year, Title, Report Number, URL.
 ::: 
 :::: 
 
@@ -408,7 +455,13 @@ Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du vi
 
 ::: details I EndNote
 
-blabla 
+Trykt utgave: Legges inn som "Book".
+
+Elektronisk utgave: Legges inn som "Electronic Book".
+
+Trykt utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, Place Published, Publisher.
+
+Elektronisk utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, URL.
 ::: 
 :::: 
 
@@ -435,7 +488,9 @@ Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede 
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Report" eller "Government Document".
+
+Fyll ut feltene: Author, Year, Title, Report Number (plankode), URL. 
 ::: 
 :::: 
 
@@ -478,7 +533,12 @@ Avhandling på nett:
 
 ::: details I EndNote
 
-blabla i Endnote...
+LLegges inn som "Thesis".
+
+Trykt avhandling: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, University, Thesis Type.
+
+Avhandling på Internett: Fyll ut feltene Author, Year, Title, Thesis Type (ta med institusjon), URL.
+
 ::: 
 :::: 
 
@@ -502,7 +562,8 @@ For statistikker må du i teksten, redegjøre for hvilket søk du har gjort og h
 <span class="ref">Sundstøl, S. A. (2018). Soils at Haukeli, Imingfjell, and Lesja [Datasett].    USN ORA. https://doi.org/10.23642/usn.7454279.v1</span>
 
 ::: details Endnote
-blablabla
+Legges inn som "Dataset".
+Fyll ut feltene: Investigators, Year, Title, Distributor, Type of Work, URL.
 :::
 ::::
 
@@ -519,7 +580,9 @@ Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentl
 <span class="ref">Institute of Electrical and Electronics Engineers. (1987). IEEE guide for handling and disposal of transformer grade insulating liquids containing PCBs (ANSI/IEEE Std. 799-1987). https://doi.org/10.1109/IEEESTD.1987.81034</span>
 
 ::: details Endnote
-blablabla
+Legges inn som "Report".
+
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjonsnavnet), Year, Title, Report Number, URL.
 :::
 ::::
 
@@ -546,7 +609,8 @@ Forfatter(e). (Publiseringstidspunkt). Tittel: Undertittel /[Lysarkpresentasjon/
 <span class="ref">Coyle, K. (u.å.). Bibliographic data: A new context[Lysarkpresentasjon]. Karen Coyle. http://www.kcoyle.net/presentations/oslo2011.pdf</span>
 
 :::details Endnote
-blablabla
+Legges innsom "Book"
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Type og Work, Publisher, URL
 :::
 ::::
 
