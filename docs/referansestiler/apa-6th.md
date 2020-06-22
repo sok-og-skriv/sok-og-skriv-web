@@ -63,10 +63,7 @@ _Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
 
 <span class="ref">Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i praksis_ (2. utg.). Oslo: Universitetsforlaget.</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### E-Bok
@@ -85,10 +82,7 @@ blabla
 
 <span class="ref">Watkins, M. (2012). _Discipline and learn: Bodies, pedagogy and writing._ https://doi.org/10.1007/978-94-6091-699-1</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 #### Merknader
@@ -110,10 +104,7 @@ En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Amsterdam: Elsevier.</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### Avhandling - doktor/master
@@ -138,10 +129,7 @@ Avhandling på nett:
 _Når stedsnavn  er en del av institusjonens navn, gjentas ikke dette._
 
 
-::: details I EndNote
 
-blabla i Endnote...
-::: 
 :::: 
 
 
@@ -166,10 +154,7 @@ Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) tre
 
 <span class="ref">Huang, L. & Mossige, S. (2012). Academic achievement in Norwegian secondary schools: The impact of violence during childhood. _Social Psychology of Education_, _15_, 147–164. https://doi.org/10.1007/s11218-011-9174-y</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 Dersom artikkelen har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), skal dette være med i referansen. Om DOI mangler, kan lenke til tidsskriftet oppgis isteden.
@@ -199,10 +184,7 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
 
 <span class="ref">Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende, del 2_, s. 12.</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### Artikkel i nettavis
@@ -218,10 +200,7 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
 
 <span class="ref">Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_. Hentet fra https://www.bt.no/</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### Artikkel i trykt leksikon (med forfatter)
@@ -239,10 +218,7 @@ blabla
 
 _Dersom artikkelen ikke har oppgitt forfatter, ta utgangspunkt i malen i eksempelet under._
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
@@ -258,10 +234,7 @@ Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
 
 <span class="ref">Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ::: details Flere eksempler
@@ -285,10 +258,7 @@ For oppslagsverk som Wikipedia, der innholdet oppdateres ofte, bør hentet dato 
 
 <span class="ref">Fanta, C. H. (2017). Diagnosis of asthma in adolescents and adults. I H. Hollingsworth (Red.), _UpToDate_. Hentet 16. mars 2018 fra [https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults](https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ## Nettsider
@@ -308,10 +278,7 @@ Med årstall/dato, menes her publiseringstidspunkt, eller dato for siste oppdate
 
 <span class="ref">Helsedirektoratet. (2018, 21. juni). Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder. Hentet fra [https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader](https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 #### Merknad
@@ -331,10 +298,7 @@ Skinnegående transport øker mest (Lund, 2018).
 
 <span class="ref">Lund, V. (2018, 26. september). Åtte av ti reiser med bil. Hentet fra [https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil](https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -351,10 +315,7 @@ Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
 
 <span class="ref">Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ::: details Flere eksempler
@@ -376,10 +337,7 @@ blabla
 
 <span class="ref">Fanta, C. H. (2017). Diagnosis of asthma in adolescents and adults. I H. Hollingsworth (Red.), _UpToDate_. Hentet 16. mars 2018 fra [https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults](https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ## Offentlige kilder
@@ -403,10 +361,7 @@ I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 
 <span class="ref">Folketrygdloven. (1997). Lov om folketrygd (LOV-1997-02-28-19). Hentet fra [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ::: details Flere eksempler
@@ -428,10 +383,7 @@ Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier 
 
 <span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7 (FOR-2016-06-07-860). Hentet fra [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### Meldinger og proposisjoner til Stortinget
@@ -478,10 +430,7 @@ Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du vi
 
 <span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Oslo: Sosial- og helsedepartementet.</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ::: details  Flere eksempler
@@ -505,10 +454,7 @@ Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede 
 
 <span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hentet fra https://www.regjeringen.no/</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ::: details Flere eksempler
@@ -538,10 +484,7 @@ I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta
 
 Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ::: details Flere eksempler
@@ -565,10 +508,7 @@ Omtale av kjente kunstverk som Skrik og Mona Lisa krever ingen innførsel i refe
 
 <span class="ref">Knudsen, K. (1865). _Børsen i Bergen_ \[Fotografi\]. Hentet fra https://marcus.uib.no/instance/photograph/ubb-kk-m-110.html</span>
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 ::: details Flere eksempler
@@ -607,10 +547,7 @@ I skuespillet Hamlet (4. akt, 2. scene) viser Shakespeare…
 :::: ref
 <span class="ref">Shakespeare, W. (2002). _Hamlet: Prins av Danmark_ (Ø. Berg, overs.). Oslo: Kolon forlag.</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### Upublisert materiale
@@ -626,10 +563,7 @@ Med modernismen reverseres forholdet mellom persepsjon og representasjon (Utaker
 
 <span class="ref">Utaker, A. (2010). _Det perseptuelles antropologi: Persepsjon og bilder som filosofisk problem_. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -646,10 +580,7 @@ Det varierer i hvilken grad forskjellige befolkningsgrupper oppsøker hjelp i fo
 
 <span class="ref">Ting, J. Y., Florsheim, P. & Huang, W. (2008). _Mental health help-seeking in ethnic minority populations_. Sendt utgiver, under vurdering.</span>
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ### Manuskript under utgivelse, antatt (in press)
@@ -669,10 +600,7 @@ Bok:
 
 <span class="ref">Briscoe, R. (under utgivelse). Egocentric spatial representation in action and perception. _Philosophy and Phenomenological Research._</span>
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 ### Kompendier
