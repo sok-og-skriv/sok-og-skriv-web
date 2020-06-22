@@ -26,7 +26,7 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 ### Bok
 
 ::: teksten
-(Forfatter årstall, evt. sidetall) eller Forfatter (årstall, evt. sidetall)
+(Forfatter årstall, evt. sidetall) eller Forfatter (årstall, sidetall)
 
 "Å skrive med stil er å drive med noe i retning av høytskriving", ifølge Johansen (2003, 43). 
 
@@ -39,25 +39,27 @@ Johansen, Anders. 2003. _Samtalens tynne tråd: Skriveerfaringer_. Oslo: Spartac
 
 ::: details I EndNote
 
-blabla 
+SE: 
+https://www.ntnu.no/viko/chicago-eksempler 
 ::: 
 :::: 
 
 
 
 ### E-bok
-Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for ebøker, så sant ikke år for publisering mangler.
+Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for e-bøker med mindre publiseringsår mangler.
 
 ::: teksten
 (Forfatter årstall, evt. sidetall)
 
+God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (Schimel 2012) 
 
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. **DOI eller URL**
+Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI, URL eller plattform. SJEKK DETTE
 
-Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press.
+Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press. EBSCOhost e-books. 
 
 ::: details I EndNote
 
