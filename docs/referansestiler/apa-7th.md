@@ -5,16 +5,14 @@ date: "2020-06-17"
 
 # APA 7th
 
-APA står for American Psychological Association. Foreningen har utviklet en referansestil som er en typisk forfatter-årstallstil. Den er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av:
+APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av American Psychological Association. (2020). _Publication manual of the American Psychological
+Association_ (7. utg.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000) 
 
-American Psychological Association. (2020). Publication manual of the American Psychological
-Association (7. utg.). https://doi.org/10.1037/0000165-000 
-
-Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke A[APA manualen](https://doi.org/10.1037/0000165-000) og/eller [APA bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
+Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual,  oppfordrer vi deg til å bruke [APA-manualen](https://doi.org/10.1037/0000165-000) og/eller [APA bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
 
 ## Referanselisten
 
-Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th grovt sett av fire deler i fast rekkefølge: forfatter, publiseringstidspunkt, verk tittel og verkets kilde. Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ verket kan finnes.
+Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: forfatter, publiseringstidspunkt, verktittel og verkets kilde. Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
 
 <Figure
   src="/images/apa-ref.png"
@@ -27,7 +25,7 @@ Formatet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rappor
 
 Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller LP-plater, kan ha en hakeparentes samme sted som angir verkets format.
 
-For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsessted og utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
+For selvstendige dokumenter vil referansens _hvor_ være utgivelsessted og utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
 
 - Referanselisten skal ordnes alfabetisk på forfatternes etternavn.
 - Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
@@ -40,13 +38,13 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 
 ::: teksten
 **Bok med en til tre forfattere:**  
-(Etternavn & etternavn, årstall, eventuelt sidetall)  
+(Etternavn & Etternavn, årstall, evt. sidetall)  
 
 **Bok med fire til 20 forfattere:**  
-(Første forfatters etternavn, et. al., årstall, eventuelt sidetall)
+(Første forfatters etternavn, et al., årstall, evt. sidetall)
 
 **Bok med 21 forfattere eller flere:**
-(Første forfatters etternavn, et. al., årstall, eventuelt sidetall)
+(Første forfatters etternavn, et al., årstall, evt. sidetall)
 
 (Gullestad & Killingmo, 2013, s. 35)
 
@@ -57,14 +55,14 @@ For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsess
 _Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
   
 **Bok med en til tre forfattere:**
-<span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
+<span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
 **Bok med fire til 21 forfattere:**  
-<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
+<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 _Alle forfattere nevnes_
 
 **Bok med flere enn 21 forfattere:** 
-<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D.,...Forfatter, Ø.Ø. (publiseringstidspunkt). Tittel: Undertittel (evt. utgave). Forlag. </span>
+<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D.,...Forfatter, Ø.Ø. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
 <span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Oslo: Gyldendal.</span>
 
@@ -73,12 +71,12 @@ _Alle forfattere nevnes_
 
 Legges inn som "Book".
 
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher, Edition (hvis aktuelt) Translator (hvis aktuelt)
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher, Edition (hvis aktuelt) og Translator (hvis aktuelt).
 ::: 
 :::: 
 
-::: details Flere eksempel
-De seks medisinske kjernespørsmålene (Nortvedt et. al., 2012, s. 35) bestemmer hvilken …
+::: details Flere eksempler
+De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken …
 
 <span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe.</span>
 ::: 
@@ -87,13 +85,13 @@ De seks medisinske kjernespørsmålene (Nortvedt et. al., 2012, s. 35) bestemmer
 ### Kapittel i redigert bok
 
 ::: teksten
-(Forfatter, årstall, eventuelt sidetall)
+(Forfatter, årstall, evt. sidetall)
 
 En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx).  Forlag.</span>
+<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx).  Sted: Forlag.</span>
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Amsterdam: Elsevier.</span>
 
@@ -113,7 +111,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 #### Eksempler: 
 
 1. ... (Vareide, 2018, s. 166).
-2. Vareide (2018) hevder at ... (s. 166).
+2. Vareide (2018, s. 166) hevder at ...
 
 :::
 
@@ -135,19 +133,19 @@ E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
 :::: 
 
 #### Merknader
-Dersom boken har DOI-nummer, foretrekkes dette. Er e-boken identisk med trykt utgave er URL/DOI valgfritt. Dersom boken ikke har DOI og e-bokversjonen kun er tilgjengelig via en betalingstjeneste, skal du referere til boken som trykt versjon. 
+Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken identisk med trykt utgave, er URL/DOI valgfritt. Dersom boken ikke har DOI, og e-bokversjonen kun er tilgjengelig via en betalingstjeneste, skal du referere til boken som trykt versjon. 
 
 ### Religiøse og klassiske verk
 
-Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) får henvisning som for bøker. 
+Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. 
 
-Religiøse verk behandles som verk uten forfatter. Hvis du bruker en annotert (kommentarutgave) versjon, behandler du den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter. De vil være publisert i mange utgaver og du bruker årstallet for utgivelsen du bruker. Dersom det er oppgitt navn på oversetter, tar du dette med i referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
+Religiøse verk behandles som verk uten forfatter, men hvis du bruker en annotert versjon (kommentarutgave) behandles den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter siden disse er publisert i mange utgaver. Bruk årstallet for den aktuelle utgivelsen. Dersom det er oppgitt navn på oversetter, tas dette med i referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
 
-Klassiske verk har ikke alltid et kjent eller eksakt publiseringstidspunkt. Verkene vil også som oftest være oversatt og/eller utgitt flere ganger. Det er den utgaven eller oversettelsen du har brukt, du skal vise til. Dersom vi står ovenfor et «klassisk» verk hvor publiseringstidspunkt er (eller anses å være) kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven eller oversettelsen som ligger til grunn for vår tekst.
+Klassiske verk har ikke alltid et kjent eller eksakt publiseringstidspunkt. Verkene vil også som oftest være oversatt og utgitt flere ganger. Det er den utgaven eller oversettelsen du har brukt, du skal vise til. Dersom vi står ovenfor et «klassisk» verk hvor publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven eller oversettelsen du har brukt.
 
 ::: teksten
-.. «for det var ikke husrom for dem.» (Luk 2,7, Bibel 2011). 
-_Deretter kun henvisning til del, kapittel, vers(Luk 2,7)_
+.. «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
+_Deretter kun henvisning til del, kapittel, vers (Luk 2,7)_
 
 (Koranen 1: 6–7)
 \[Ingen innførsel\]
