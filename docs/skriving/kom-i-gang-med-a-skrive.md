@@ -13,7 +13,7 @@ Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord p�
 Uerfarne skribenter tror gjerne at de ikke kan begynne skrive før de har skaffet seg fullstendig klarhet og oversikt. De har kanskje en forestilling om at gode tekster oppstår ved at man plasserer perfekte setninger etter hverandre. En slik tilnærming fører til at det tar altfor lang tid å komme i gang. I virkeligheten må de aller fleste skrive teksten sin om igjen - opptil flere ganger. Å skrive godt, er ofte å skrive om.
 ::: 
 
-Som student drives du ofte fram av et "hvorfor?". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre. Hun utforsker et fenomen, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.
+Som student drives du ofte fram av et "hvorfor-spørsmål". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre. Hun utforsker fenomener, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.
 
 <Video id="FOwhrXNnHNI" />
 
