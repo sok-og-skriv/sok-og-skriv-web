@@ -383,17 +383,19 @@ Kliniske retningslinjer publiseres i ulike formater. Velger derfor referansetype
 
 #### Retningslinje publisert på nett:
 
-Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC/ Organisasjonsnavn. Tittel: undertittel. Utgiver: Utgiversted; Publiseringsdato. [Oppdateringsdato. Lesedato]. Tilgjengelig fra: URL
-Helsedirektoratet. Forebygging av hjerte- og karsykdom: nasjonal faglig retningslinje. Oslo: Helsedirektoratet; 2017 [Oppdatert: 05. mars 2018. Lest 22. april. 2020]. Tilgjengelig fra: https://www.helsedirektoratet.no/retningslinjer/forebygging-av-hjerte-og-karsykdom 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC ELLER Organisasjonsnavn. Tittel: undertittel. Utgiver: Utgiversted; Publiseringsdato. [Oppdateringsdato. Lesedato]. Tilgjengelig fra: URL
 
-#### Retningslinje publisert som rapport. 
+Helsedirektoratet. Forebygging av hjerte- og karsykdom: nasjonal faglig retningslinje. Oslo: Helsedirektoratet; 2017 [Oppdatert: 05. mars 2018. Hentet 22. april. 2020]. Tilgjengelig fra: https://www.helsedirektoratet.no/retningslinjer/forebygging-av-hjerte-og-karsykdom 
 
-Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC/ Organisasjonsnavn. Tittel. Utgave. Utgivelsessted. Utgiver; Publiseringsdato. Rapportnummer.  
+#### Retningslinje publisert som rapport 
+
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC / Organisasjonsnavn. Tittel. Utgave. Utgivelsessted. Utgiver; Publiseringsdato. Rapportnummer.
+
 Helsedirektoratet. Nasjonale faglige retningslinjer for forebygging og behandling av underernæring. Rapport. Helsedirektoratet: Oslo; 2010 [Oppdatert 2013]. IS-1580.
 
 #### Retningslinje publisert som artikkel 
 
-Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer. 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer. 
 
 Helsingen LM, Vandvik PO, Jodal HC, Agoritsas T, Lytvyn L, Anderson JC, et al. Colorectal cancer screening with faecal immunochemical testing, sigmoidoscopy or colonoscopy: a clinical practice guideline. BMJ. 2019;367:l5515.
 
@@ -459,11 +461,11 @@ Tekst (nummer)
 ::: 
 
 :::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klinisk oppslagsverk [database]. Utgivelsessted: Utgiver. [oppdatert Årstall-Måned-Dag; lest Årstall-Måned-Dag].
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klinisk oppslagsverk [database]. Utgivelsessted: Utgiver. [oppdatert Årstall-Måned-Dag; hentet Årstall-Måned-Dag].
 
-15. Bartlett JG. Diagnostic approach to community-acquired pneumonia in adults. UpToDate [database]. Waltham, MA: UpToDate, Inc. [oppdatert 2019-12-02; lest 2020-03-30].
+15. Bartlett JG. Diagnostic approach to community-acquired pneumonia in adults. UpToDate [database]. Waltham, MA: UpToDate, Inc. [oppdatert 2019-12-02; hentet 2020-03-30].
 
-15. Penaloza RS, Tanaka DJ, Druck J. Assessment of neck pain. BMJ Best Practice [database]. London: BMJ Publishing group. [oppdatert 2020-mars; lest 2020-03-30].
+15. Penaloza RS, Tanaka DJ, Druck J. Assessment of neck pain. BMJ Best Practice [database]. London: BMJ Publishing group. [oppdatert 2020-mars; hentet 2020-03-30].
 
 ::: details I EndNote
 
