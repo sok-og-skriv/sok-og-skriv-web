@@ -57,7 +57,7 @@ God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (S
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI, URL eller plattform. 
+Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI, URL eller plattform. SJEKK DETTE
 
 Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press. EBSCOhost e-books. 
 
