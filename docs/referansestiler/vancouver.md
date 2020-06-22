@@ -8,7 +8,7 @@ date: "2012-09-18"
 Vancouverstilen er en numerisk stil som er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 ::: eksempel Kilde
-Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: http://www.nlm.nih.gov/citingmedicine. 
+Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: [http://www.nlm.nih.gov/citingmedicine](http://www.nlm.nih.gov/citingmedicine). 
 ::: 
 
 
