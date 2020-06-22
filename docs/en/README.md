@@ -111,3 +111,17 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
     </div>
   </div>
 </div>
+
+---
+
+<div class="container two-column footer-links">
+  <div class="align-right">
+    <div><a href="/om/">Om Søk og skriv</a></div>
+    <div><a href="/om/kontaktinformasjon/">Kontaktinformasjon</a></div>
+    <div><a href="/om/sok-og-skriv-i-undervisning/">Søk og skriv i undervisning</a></div>
+  </div>
+  <div class="align-left">
+    <div><a href="/en/about/">About Search and write</a></div>
+    <div><a href="/en/about/contact-information/">Contact</a></div>
+  </div>
+</div>
