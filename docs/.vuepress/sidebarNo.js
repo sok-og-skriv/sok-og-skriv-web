@@ -81,6 +81,12 @@ module.exports = {
     'offentlige-kilder',
     'annet'
   ], */
+  '/video/': [
+    'soking',
+    'lesing',
+    'skriving',
+    'kjeldebruk'
+  ],
   '/om/brukertest/': [
     '',
     'eksempel2',
