@@ -319,18 +319,7 @@ Legges inn som "Web Page".
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher (Nettstedets navn) Last Update Date (hvis publiseringsdato er oppgitt i tillegg til publiseringsår), URL.
 
-
-Eksempel på referanseliste i APA
-Beizer, J. L. & Timiras, M. L. (1994). Pharmacology and drug management in the elderly. I P. S. Timiras (Red.), Physiological basis of aging and geriatrics (2. utg., s. 279-284). Boca Raton, FL: CRC Press.
-Dybvig, D. D. & Dybvig, M. (2003). Det tenkende mennesket: Filosofi- og vitenskapshistorie med vitenskapsteori (2. utg.). Trondheim: Tapir akademisk.
-Kwan, I. & Mapstone, J. (2004). Visibility aids for pedestrians and cyclists: A systematic review of randomised controlled trials. Accident Analysis & Prevention, 36, 305-312. https://doi.org/10.1016/S0001-4575(03)00008-3
- 
-
-Kontakt
-For mer veiledning kontakt ditt lokale bibliotek.
-
-Meld feil og forbedringsforslag 
-::: 
+:::
 :::: 
 
 
