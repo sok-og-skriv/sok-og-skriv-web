@@ -264,6 +264,8 @@ Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med e
 
 * Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
 
+## Annet
+
 ### Rapporter 
 
 ::: teksten 
@@ -306,7 +308,6 @@ tekst
 :::
 ::::
 
-## Annet 
 
 ### Preprint 
 
@@ -373,6 +374,29 @@ Tekst (nummer)
 tekst 
 :::
 ::::
+
+### Kliniske retningslinjer
+
+Kliniske retningslinjer publiseres i ulike formater. Velger derfor referansetype på bakgrunn av hvilken type dokument som brukes, ikke på bakgrunn av at det er en retningslinje. Sjekk også hvem som er forfatter, noen retningslinjer har organisasjoner, forvaltning eller foreninger som forfattere, andre ganger er det personer som føres som forfattere. 
+
+### Noen eksempler:
+
+#### Retningslinje publisert på nett:
+
+Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC/ Organisasjonsnavn. Tittel: undertittel. Utgiver: Utgiversted; Publiseringsdato. [Oppdateringsdato. Lesedato]. Tilgjengelig fra: URL
+Helsedirektoratet. Forebygging av hjerte- og karsykdom: nasjonal faglig retningslinje. Oslo: Helsedirektoratet; 2017 [Oppdatert: 05. mars 2018. Lest 22. april. 2020]. Tilgjengelig fra: https://www.helsedirektoratet.no/retningslinjer/forebygging-av-hjerte-og-karsykdom 
+
+#### Retningslinje publisert som rapport. 
+
+Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC/ Organisasjonsnavn. Tittel. Utgave. Utgivelsessted. Utgiver; Publiseringsdato. Rapportnummer.  
+Helsedirektoratet. Nasjonale faglige retningslinjer for forebygging og behandling av underernæring. Rapport. Helsedirektoratet: Oslo; 2010 [Oppdatert 2013]. IS-1580.
+
+#### Retningslinje publisert som artikkel 
+
+Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer. 
+
+Helsingen LM, Vandvik PO, Jodal HC, Agoritsas T, Lytvyn L, Anderson JC, et al. Colorectal cancer screening with faecal immunochemical testing, sigmoidoscopy or colonoscopy: a clinical practice guideline. BMJ. 2019;367:l5515.
+
 
 
 ### Oppslagsverk, artikkel med forfatter  
