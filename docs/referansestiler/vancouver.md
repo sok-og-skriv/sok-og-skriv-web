@@ -29,6 +29,8 @@ Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM st
 
 ## Referansetyper
 
+## Bøker 
+
 ### Bok
 
 ::: teksten
@@ -179,7 +181,10 @@ Eksempeltekst (7).
 :::
 
 :::: ref
-Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
+Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Publiseringsdato \[Oppdatert: Oppdateringsdato. Lest: Lesedato\]. Tilgjengelig fra: URL
+
+7. Lund V. Åtte av ti reiser med bil. [Internett]. Oslo: Statistisk sentralbyrå; 26. september 2018 [oppdatert 26. 09. 2018; lest 31.03. 2020]. Tilgjengelig fra: https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil
+
 :::
 
 ::: details I EndNote 
@@ -259,6 +264,8 @@ Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med e
 
 * Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
 
+## Annet
+
 ### Rapporter 
 
 ::: teksten 
@@ -301,7 +308,6 @@ tekst
 :::
 ::::
 
-## Annet 
 
 ### Preprint 
 
@@ -369,47 +375,62 @@ tekst
 :::
 ::::
 
+### Kliniske retningslinjer
 
-### Elektronisk oppslagsverk, artikkel med forfatter  
+Kliniske retningslinjer publiseres i ulike formater. Velger derfor referansetype på bakgrunn av hvilken type dokument som brukes, ikke på bakgrunn av at det er en retningslinje. Sjekk også hvem som er forfatter, noen retningslinjer har organisasjoner, forvaltning eller foreninger som forfattere, andre ganger er det personer som føres som forfattere. 
+
+### Noen eksempler:
+
+#### Retningslinje publisert på nett:
+
+Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC/ Organisasjonsnavn. Tittel: undertittel. Utgiver: Utgiversted; Publiseringsdato. [Oppdateringsdato. Lesedato]. Tilgjengelig fra: URL
+Helsedirektoratet. Forebygging av hjerte- og karsykdom: nasjonal faglig retningslinje. Oslo: Helsedirektoratet; 2017 [Oppdatert: 05. mars 2018. Lest 22. april. 2020]. Tilgjengelig fra: https://www.helsedirektoratet.no/retningslinjer/forebygging-av-hjerte-og-karsykdom 
+
+#### Retningslinje publisert som rapport. 
+
+Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC/ Organisasjonsnavn. Tittel. Utgave. Utgivelsessted. Utgiver; Publiseringsdato. Rapportnummer.  
+Helsedirektoratet. Nasjonale faglige retningslinjer for forebygging og behandling av underernæring. Rapport. Helsedirektoratet: Oslo; 2010 [Oppdatert 2013]. IS-1580.
+
+#### Retningslinje publisert som artikkel 
+
+Referansenummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer. 
+
+Helsingen LM, Vandvik PO, Jodal HC, Agoritsas T, Lytvyn L, Anderson JC, et al. Colorectal cancer screening with faecal immunochemical testing, sigmoidoscopy or colonoscopy: a clinical practice guideline. BMJ. 2019;367:l5515.
+
+
+
+### Oppslagsverk, artikkel med forfatter  
 
 ::: teksten 
+
 Tekst (nummer)
 
 :::
 
-SNL - føres med forfatter? Spør Ivana. 
-
-Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs også redaktør. SNL som mal. 
 
 :::: ref
+
+Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. Tittel oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
+
+Eller: 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
+
+Klein J, Dalgard O, Jensen HLB. Koronavirus. Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+ 
 ::: details I EndNote 
-
-Trykt oppslagsverk: Legges inn som "Dictionary".
-
-Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
 
 Elektronisk oppslagsverk: Legges inn som "Web Page".
 
 Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
+
+Trykt oppslagsverk: Legges inn som "Dictionary".
+
+Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
 :::
 ::::
 
-### Oppslagsverk (trykt)
 
-::: teksten 
-
-Tekst (nummer)
-::: 
-
-:::: ref 
-Med forfatter: 
-
-**Her er det motstrid - se på:** 
-Fra VIKO
-Nummer. Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
-
-Fra Ivana 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
+Flere eksempler:  
 
 6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
 
@@ -499,8 +520,6 @@ Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler
 ## Sitater 
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
-
-
 
 
 
