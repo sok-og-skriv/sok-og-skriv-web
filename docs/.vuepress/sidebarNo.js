@@ -83,7 +83,7 @@ module.exports = {
   ], */
   '/video/': [
     'soking',
-    'lesing',
+    'studieteknikk',
     'skriving',
     'kjeldebruk'
   ],
