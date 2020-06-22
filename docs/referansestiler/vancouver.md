@@ -372,46 +372,38 @@ tekst
 ::::
 
 
-### Elektronisk oppslagsverk, artikkel med forfatter  
+### Oppslagsverk, artikkel med forfatter  
 
 ::: teksten 
+
 Tekst (nummer)
 
 :::
 
-SNL - føres med forfatter? Spør Ivana. 
-
-Lage merknad her? Med forfatter føres som bokkapittel, sier VIKO. Men da trengs også redaktør. SNL som mal. 
 
 :::: ref
+
+Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. Tittel oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
+
+Eller: 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
+
+Klein J, Dalgard O, Jensen HLB. Koronavirus. Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+ 
 ::: details I EndNote 
-
-Trykt oppslagsverk: Legges inn som "Dictionary".
-
-Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
 
 Elektronisk oppslagsverk: Legges inn som "Web Page".
 
 Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
+
+Trykt oppslagsverk: Legges inn som "Dictionary".
+
+Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
 :::
 ::::
 
-### Oppslagsverk (trykt)
 
-::: teksten 
-
-Tekst (nummer)
-::: 
-
-:::: ref 
-Med forfatter: 
-
-**Her er det motstrid - se på:** 
-Fra VIKO
-Nummer. Etternavn Initial(er). Tittel på oppslagsverk. Utgave – hvis tilgjengelig. Sted: Utgiver; År. Tittel på innførsel; sidetall fra-til.
-
-Fra Ivana 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
+Flere eksempler:  
 
 6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
 
@@ -501,8 +493,6 @@ Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler
 ## Sitater 
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
-
-
 
 
 
