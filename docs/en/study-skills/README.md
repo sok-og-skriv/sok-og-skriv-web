@@ -1,10 +1,10 @@
 ---
-title: "Reading"
+title: "Study skills"
 date: "2012-03-16"
 prev: "../searching/systematic-searching"
 ---
 
-# Reading
+# Study skills
 
 Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of _how_ as well as of _what_ you read.
 

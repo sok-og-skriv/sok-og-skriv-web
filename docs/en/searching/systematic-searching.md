@@ -1,7 +1,7 @@
 ---
 title: "Systematic searching"
 date: "2017-11-13"
-next: "../reading/"
+next: "../study-skills/"
 ---
 
 # Systematic searching

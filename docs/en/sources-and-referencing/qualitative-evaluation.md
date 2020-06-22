@@ -29,7 +29,7 @@ Have a look at the reference list of the text you are reading. It will show what
 - Who is referred to?
 - Are the results verifiable?
 
-Also read: [Argumentation in text](/en/reading/argumentation-in-text/ "Argumentation in text").
+Also read: [Argumentation in text](/en/study-skills/argumentation-in-text/ "Argumentation in text").
 
 ## Audience and genre
 

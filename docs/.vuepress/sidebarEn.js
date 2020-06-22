@@ -5,7 +5,7 @@ module.exports = {
     'searching-techniques',
     'systematic-searching',
   ],
-  '/en/reading/': [
+  '/en/study-skills/': [
     '',
     'ways-of-reading',
     'reading-and-writing',

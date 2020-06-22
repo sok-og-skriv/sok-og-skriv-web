@@ -27,7 +27,7 @@ There is no one-size-fits-all solution for getting the most out of a text. Reade
 - **_Read quickly through the text_.** The next step is to quickly read through the whole text. Do not take notes yet (although you may add some small symbols in the margin – dots, lines, exclamation marks – to mark particular points of interest). If you do not understand everything, keep reading. If you do not understand anything at all, keep reading. You will get more than one chance to return to the text later. If you are reading a book, apply this strategy to, for example, one chapter at a time. It often helps to deal with the text in smaller chunks when reading books or other long texts (such as theses or official reports).
 - **_Read the text closely_.** Immerse yourself in the text. You are now reading to understand the text to the best of your abilities. Get a pen and paper – or open your laptop. Take notes while reading. Print your computer notes once finished. Keep all your notes together in a file. Over the course of the semester you build an archive of notes on the reading list. This archive is worth its weight in gold when preparing for exams, writing your thesis, or recalling what you studied in a previous semester. In addition, your archive is already providing you with a motivation to keep reading – you need to expand your archive!
 
-Once completely familiar with the text, take a break. Make sure, however, that you [return to the text](/en/reading/reading-and-writing/#Re-reading) fairly soon – after a day or so, or perhaps a week – and give it another quick read. You will probably understand it differently. Also, it is always useful to discuss the texts you read with [other students](?p=215).
+Once completely familiar with the text, take a break. Make sure, however, that you [return to the text](/en/study-skills/reading-and-writing/) fairly soon – after a day or so, or perhaps a week – and give it another quick read. You will probably understand it differently. Also, it is always useful to discuss the texts you read with [other students](?p=215).
 
 ## Ask questions
 
@@ -56,8 +56,8 @@ The word “accordingly” suggests that information appears elsewhere in this a
 
 ## Looking for argumentation
 
-Many of the texts you read are _argumentative texts_: articles, theses, and scholarly monographs (books). Most of the texts (written assignments) that you write during your studies will also be argumentative. Accordingly it is important to understand what we mean when we describe a text as [argumentative](/en/reading/argumentation-in-text/ "Argumentation in text").
+Many of the texts you read are _argumentative texts_: articles, theses, and scholarly monographs (books). Most of the texts (written assignments) that you write during your studies will also be argumentative. Accordingly it is important to understand what we mean when we describe a text as [argumentative](/en/study-skills/argumentation-in-text/ "Argumentation in text").
 
 ## Notes, summaries, re-reading
 
-Taking notes, writing summaries and re-reading are all different ways of working with a text. We have already recommended taking notes from the texts you read during your studies in order to build up an archive of notes for later use. The archive will be even more useful if you write up your notes (or parts of them) into brief summaries. Read [more on taking notes](/en/reading/reading-and-writing/#Taking_notes), writing summaries and re-reading texts.
+Taking notes, writing summaries and re-reading are all different ways of working with a text. We have already recommended taking notes from the texts you read during your studies in order to build up an archive of notes for later use. The archive will be even more useful if you write up your notes (or parts of them) into brief summaries. Read [more on taking notes](/en/study-skills/reading-and-writing), writing summaries and re-reading texts.

@@ -66,7 +66,7 @@ After in-depth searches to find information for your thesis, use the above argum
 
 ## **Argumentative texts**
 
-Not all texts – or even all [scholarly texts](/en/reading/academic-genres/) – are argumentative. The primary purpose of an encyclopaedia article is to inform. It provides information about something rather than arguing in favour of a particular point of view.
+Not all texts – or even all [scholarly texts](/en/study-skills/academic-genres/) – are argumentative. The primary purpose of an encyclopaedia article is to inform. It provides information about something rather than arguing in favour of a particular point of view.
 
 Many of the texts you read will be argumentative texts. They argue in favour of something. Often authors will state clearly what it is that they are arguing.
 

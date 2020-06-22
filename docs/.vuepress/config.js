@@ -59,7 +59,7 @@ module.exports = {
         home: 'true',
         nav: [
           { text: 'Searching', link: '/en/searching/' },
-          { text: 'Reading', link: '/en/reading/' },
+          { text: 'Study skills', link: '/en/study-skills/' },
           { text: 'Writing', link: '/en/writing/' },
           { text: 'Sources and referencing', link: '/en/sources-and-referencing/' },
           { text: 'Videos', link: '/en/video/' },
