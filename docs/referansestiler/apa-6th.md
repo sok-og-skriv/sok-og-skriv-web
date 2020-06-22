@@ -400,11 +400,6 @@ Sammenslåingene ble begrunnet med noe de kalte «en kritisk vurdering av kvalit
 Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
 <span class="ref">Kunnskapsdepartementet. (2015). _Konsentrasjon for kvalitet: Strukturreform i universitets- og høyskolesektoren_ (Meld. St. 18 (2014–2015)). Hentet fra https://www.regjeringen.no/</span>
-
-::: details I EndNote
-
-blabla 
-::: 
 :::: 
 
 ::: details Flere eksempler
