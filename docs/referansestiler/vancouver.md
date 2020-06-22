@@ -412,12 +412,12 @@ Tekst (nummer)
 
 :::: ref
 
-Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. Tittel oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
+Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
 
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
-Klein J, Dalgard O, Jensen HLB. Koronavirus. Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
  
 ::: details I EndNote 
 
