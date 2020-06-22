@@ -26,7 +26,7 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 ### Bok
 
 ::: teksten
-(Forfatter årstall, evt. sidetall) eller Forfatter (årstall, evt. sidetall)
+(Forfatter årstall, evt. sidetall) eller Forfatter (årstall, sidetall)
 
 "Å skrive med stil er å drive med noe i retning av høytskriving", ifølge Johansen (2003, 43). 
 
@@ -39,7 +39,8 @@ Johansen, Anders. 2003. _Samtalens tynne tråd: Skriveerfaringer_. Oslo: Spartac
 
 ::: details I EndNote
 
-blabla 
+SE: 
+https://www.ntnu.no/viko/chicago-eksempler 
 ::: 
 :::: 
 
