@@ -29,6 +29,8 @@ Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM st
 
 ## Referansetyper
 
+## Bøker 
+
 ### Bok
 
 ::: teksten
