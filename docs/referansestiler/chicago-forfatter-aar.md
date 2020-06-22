@@ -47,18 +47,19 @@ https://www.ntnu.no/viko/chicago-eksempler
 
 
 ### E-bok
-Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for ebøker, så sant ikke år for publisering mangler.
+Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for e-bøker med mindre publiseringsår mangler.
 
 ::: teksten
 (Forfatter årstall, evt. sidetall)
 
+God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (Schimel 2012) 
 
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. **DOI eller URL**
+Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI, URL eller plattform. 
 
-Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press.
+Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press. EBSCOhost e-books. 
 
 ::: details I EndNote
 
