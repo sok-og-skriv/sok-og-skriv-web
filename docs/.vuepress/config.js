@@ -77,7 +77,10 @@ module.exports = {
     plugins: [
     ],
     extendMarkdown: md => {
-      // use more markdown-it plugins!
+      md.set({
+        typographer: true,
+        quotes: '«»’’'
+      }),
       md.use(require('markdown-it-video', { // <-- this use(package_name) is required
         youtube: { width: 640, height: 390 }
       }))
