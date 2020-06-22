@@ -105,6 +105,8 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ### E-Bok
 
+Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken identisk med trykt utgave, er URL/DOI valgfritt. Dersom boken ikke har DOI, og e-bokversjonen kun er tilgjengelig via en betalingstjeneste, refererer du til boken som trykt versjon. 
+
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
 
@@ -132,20 +134,18 @@ E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
 ::: 
 :::: 
 
-#### Merknader
-Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken identisk med trykt utgave, er URL/DOI valgfritt. Dersom boken ikke har DOI, og e-bokversjonen kun er tilgjengelig via en betalingstjeneste, skal du referere til boken som trykt versjon. 
 
 ### Religiøse og klassiske verk
 
 Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. 
 
-Religiøse verk behandles som verk uten forfatter, men hvis du bruker en annotert versjon (kommentarutgave) behandles den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter siden disse er publisert i mange utgaver. Bruk årstallet for den aktuelle utgivelsen. Dersom det er oppgitt navn på oversetter, tas dette med i referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
+Religiøse verk behandles som verk uten forfatter, men hvis du bruker en annotert versjon (kommentarutgave) behandles den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter siden disse er publisert i mange utgaver. Bruk årstallet for den aktuelle utgivelsen. Dersom det er oppgitt navn på oversetter, tas dette med i henvisningen og referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
 
 Klassiske verk har ikke alltid et kjent eller eksakt publiseringstidspunkt. Verkene vil også som oftest være oversatt og utgitt flere ganger. Det er den utgaven eller oversettelsen du har brukt, du skal vise til. Dersom vi står ovenfor et «klassisk» verk hvor publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven eller oversettelsen du har brukt.
 
 ::: teksten
 .. «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
-_Deretter kun henvisning til del, kapittel, vers (Luk 2,7)_
+Deretter kun henvisning til del, kapittel, vers, for eksempel (Luk 2,7).
 
 (Koranen 1: 6–7)
 \[Ingen innførsel\]
@@ -153,34 +153,35 @@ _Deretter kun henvisning til del, kapittel, vers (Luk 2,7)_
 I Lukasevangeliet (Luk,1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
 \[Ingen innførsel\]
 
-I Ciceros «Om taleren» (1.47, overs. 1993)…
+I Ciceros «Om taleren» (1.47, overs. 1993) …
 \[Ingen innførsel\]
 
-I Iliaden (6.344–58) sier Helena at…
+I _Iliaden_ (6.344–58) sier Helena at …
 \[Ingen innførsel\]
 
 … (Dante Alighieri, 1472/2005, s. 241)
-… (Homer,ca 800 f. Kr./1898)
+
+… (Homer,ca 800 f.Kr./1898)
 :::
 
 :::: ref
 <span class="ref">Dante Alighieri. (2005). Den guddommelege komedie (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
 
-<span class="ref">Homer (1898). The Iliad(S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html(Originalt verk publisert ca 800 f. Kr)</span>
+<span class="ref">Homer (1898). _The Iliad_ (S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html (Originalt verk publisert ca 800 f. Kr)</span>
 
 ::: details I EndNote
 
 Legges inn som "Book".
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn maunelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
 
 ::: 
 :::: 
 
 ### Oversatte bøker
-Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke originalverket. Oversetteren skal krediteres i referansen. Med oversatte verk skal vi ha med årstallet for både originalverket og oversettelsen på slutten av referansen: 
+Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke originalverket. Oversetteren skal krediteres i referansen. Årstallet for originalverket oppgis i slutten av referansen: 
 
 ::: ref
-Tolkien, J. R. R. (2004). Ringenes herre: Ringens brorskap (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954) 
+Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954). 
 :::
 
 ### Verk utgitt på nytt
@@ -197,7 +198,7 @@ Et gjenutgitt verk menes her med et verk som har gått ut av trykk (eller ikke l
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
 
-... langtidsvirkninger av vold … (Huang & Mossige, 2012, s. 150).
+... langtidsvirkninger av vold (Huang & Mossige, 2012, s. 150).
 :::
 
 :::: ref
@@ -217,8 +218,7 @@ Elektronisk tidsskrift: Fyll ut feltene Author, Year, Title, Journal, Volume, Is
 ::: 
 :::: 
 
-#### Merknader 
-Oppgi DOI dersom det er oppgitt. Om kildeinformasjon som årgang/volum, hefte/issue eller sidetall ikke er oppgitt, utelates disse fra referansen.
+Oppgi DOI dersom det er oppgitt. Hvis kildeinformasjon som årgang/volum, hefte/issue eller sidetall ikke er oppgitt, utelates disse fra referansen.
 
 
 ### Artikkel i trykt avis
@@ -243,7 +243,7 @@ Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Ti
 :::: 
 
 #### Merknader
-Ta med avisens seksjon dersom det er nødvendig for å skille ulike utgaver eller deler av avisen fra hverandre (F.eks. Aftenposten, kultur). 
+Ta med avisens seksjon dersom det er nødvendig for å skille ulike utgaver eller deler av avisen fra hverandre (F.eks. _Aftenposten_, kultur). 
 
 ### Artikkel i nettavis
 
@@ -294,7 +294,7 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 
 #### Merknad
 
-Dato brukes kun for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser), og utelates ellers. I tekst oppgis kun årstallet. Finnes ikke det ikke informasjon om publiseringstidspunkt oppgis u.å. (uten år) på årstallsstedet i referansen og i teksten.  
+Dato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes ikke det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  
 
 Om nettsidens navn er det samme som organisasjonen, utelates nettstedets navn i referanselisten. 
 
@@ -342,7 +342,7 @@ I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 
 Legges inn som "Legal Rule or Regulation".
 
-Fyll ut feltene: Author (korttittelen til loven), Year, Title (full tittel), Rule Number (datokode), URL.
+Fyll ut feltene: Author (lovens korttittel), Year, Title (full tittel), Rule Number (datokode), URL.
 ::: 
 :::: 
 
@@ -353,7 +353,7 @@ Med endringslov til folketrygdloven (2018) endres finansieringen ...
 :::
 
 #### Merknader
-Det anbefales å gå direkte til Lovdata for lovene. Om du bruker lovene i f.eks bokformat henvises det til som bok. 
+Det anbefales å gå direkte til Lovdata for lovene. Om du bruker lovene i f.eks bokformat henvises det som for bok. 
 
 ### Forskrifter
 
@@ -376,7 +376,7 @@ Fyll ut feltene: Author (Forskriftens kortform), Year, Title (full tittel), Rule
 :::: 
 
 ### Dommer
-Som regel holder det å henvise til dommer kun i teksten. Ulike fagtradisjoner har ulike praksiser. Undersøk med faglærer eller veileder om du trenger mer hjelp
+Som regel holder det å henvise til dommer kun i teksten. Ulike fagtradisjoner har ulike praksiser. Undersøk med faglærer eller veileder om du trenger mer hjelp.
 
 ::: teksten
 Problemstillingen er berørt i dommen (Rt 1993 s. 766).
@@ -430,11 +430,11 @@ Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.m
 ::: teksten
 (NOU årstall: nummer, eventuelt sidetall)
 
-... i NOU 1999: 13 (s. 559) …
+... i NOU 1999: 13 (s. 559).
 :::
 
 :::: ref
-<span class="ref">NOU årstall: nummer. (Årstall for publisering). _Tittel_. Utgiversted: departement.</span>
+<span class="ref">NOU årstall: nummer. (Utgivelsesår). _Tittel_. Utgiversted: departement.</span>
 
 Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
 
@@ -494,6 +494,7 @@ I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta
 :::
 
 ## Andre kildetyper
+
 ### Kompendier
 
 Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverket (for eksempel tidsskriftet eller boka), ikke til kompendiet. Dette gjelder også sidehenvisninger.
@@ -506,7 +507,7 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 
 ... (Våpenstad, 2011, s. 59).
 
-Kyrkjebø (2001) viser i sin doktoravhandling forskjellen mellom ... (s. 39)
+Kyrkjebø (2001) viser forskjellen mellom ... (s. 39)
 :::
 
 :::: ref
@@ -520,7 +521,7 @@ Avhandling på nett:
 
 ::: details I EndNote
 
-LLegges inn som "Thesis".
+Legges inn som "Thesis".
 
 Trykt avhandling: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, University, Thesis Type.
 
@@ -536,7 +537,8 @@ Avhandling på Internett: Fyll ut feltene Author, Year, Title, Thesis Type (ta m
 :::
 
 ### Statistikk og datasett
-For statistikker må du i teksten, redegjøre for hvilket søk du har gjort og hvordan du oppnådde resultatene etterfulgt av kildehenvisning. Det er anbefalt at man inkluderer en henvisning i teksten og innførsel i referanselista til et datasett når man enten (a) har gjennomført en ny analyse av åpent tilgjengelige data eller (b) har arkivert egne data som presenteres for første gang i det aktuelle verket.
+
+For statistikker må du redegjøre for hvilke søk du har gjort, og hvordan du oppnådde resultatene etterfulgt av kildehenvisning. Det er anbefalt at man inkluderer en henvisning i teksten og innførsel i referanselista til et datasett når man enten (a) har gjennomført en ny analyse av åpent tilgjengelige data eller (b) har arkivert egne data som presenteres for første gang.
 
 ::: teksten
 ... (Statistisk sentralbyrå, 2017) 
@@ -575,16 +577,17 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 
 ::: Flere eksempler
 
-... tidligere utgitt som Retningslinjer for retningslinjer(Statens helsetilsyn, 2002)
+... tidligere utgitt som Retningslinjer for retningslinjer (Statens helsetilsyn, 2002)
 ... (Helsedirektoratet, 2015)
 
 <span class="ref">Statens helsetilsyn. (2002).Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer (IK-2653). Statens helsetilsyn.</span>
 <span class="ref">Helsedirektoratet. (2015). Veileder om assistert befruktning med donorsæd (IS-2418). https://www.shorturl.at/akvB8</span>
 
 ### Forelesningsmateriell og intranett-ressurser
-Noen publikasjoner er ikke tilgjengelig for alle, noe som påvirker hvordan de refereres til. Det kan være studenter som henter dokumenter fra læringsplattformer som for eksempel Canvas, eller tilsatte som henter dokumenter fra intranett på jobben. Disse verkene er kun tilgjengelig for undervisere og medstudenter, eller kollegaer. Dokumenter du henter fra en organisasjons intranett, kan kun brukes som vanlig referanse dersom alle som leser din tekst har tilgang til det samme intranettet. Dersom dette er dokumenter som bare du har tilgang til, kan du vurdere å ta dem med som vedlegg.  
 
-Om du er ansatt og skriver for kolleger, kan du følge malen for rapporter. Dersom du ikke kan vise til kilden må du referere til dokumentet i løpende tekst som personlig kommunikasjon. Om dem du skriver for har mulighet til å få tak i verkene du bruker, kan du følge malen for PowerPoint-presentasjoner, som vist nedenfor:
+Noen publikasjoner er ikke tilgjengelig for alle, noe som påvirker hvordan de refereres til. Det kan være dokumenter fra læringsplattformer som Canvas, eller fra intranett på jobben. Disse verkene er kun tilgjengelig for undervisere og medstudenter eller kollegaer. Dersom dette er dokumenter som bare du har tilgang til, kan du vurdere å ta dem med som vedlegg.  
+
+Om du er ansatt og skriver for kolleger, kan du følge malen for rapporter. Dersom du ikke kan vise til kilden må du referere til dokumentet i løpende tekst som personlig kommunikasjon. Hvis de du skriver for har mulighet til å få tak i arbeidene du bruker, kan du følge malen for PowerPoint-presentasjoner, som vist nedenfor:
 
 ::: teksten
 (forfatter, årstall, evt. lysark)
@@ -614,7 +617,7 @@ Ingen innførsel i referanselisten
 :::
 
 ::: tip Bilde hentet fra nettside:  
-Figur 2. Breiflabb. Fra «Monkfish / Breiflabb», av A. Hansen, 2006 ([https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)). CC BY-NC-ND 2.0
+Figur 2. Breiflabb. Fra «Monkfish/Breiflabb», av A. Hansen, 2006 ([https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)). CC BY-NC-ND 2.0
 
 Referer til nettsiden:  
 <span class="ref">Hansen, A. (2006). Monkfish / Breiflabb. Hentet fra [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)</span>
@@ -639,5 +642,5 @@ Det som er felles for kilder i kategorien personlig kommunikasjon, er at leserne
 
 ::: teksten
 ... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)...
-_Ingen innførsel på referanselisten_
+_Ingen innførsel i referanselisten_
 :::
