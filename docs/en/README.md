@@ -20,6 +20,16 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
+      <a href="/en/study-skills/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Study skills"></a>
+    </div>
+    <div class="content">
+      <h2><a href="/en/study-skills/">Study skills</a></h2>
+      <p>Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="image">
       <a href="/en/writing/"><img src="/images/illustrasjoner_skriving_500x450.png" alt="Writing"></a>
     </div>
     <div class="content">
@@ -38,16 +48,6 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
     </div>
   </div>
 
-  <div class="card">
-    <div class="image">
-      <a href="/en/reading/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Reading"></a>
-    </div>
-    <div class="content">
-      <h2><a href="/en/reading/">Reading</a></h2>
-      <p>Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.</p>
-    </div>
-    
-  </div>
 </div>
 
 ## Latest videos

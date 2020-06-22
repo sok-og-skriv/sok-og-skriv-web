@@ -22,7 +22,7 @@ Text analysis firstly focuses on finding out _what_ the author wants to communic
 - What does the researcher find in their material?
 - Which material does the researcher base their work on? What type of empiricism is it based on?
 - Does the researcher have sufficient theoretical and empirical documentation for their claims?
-- Does the researcher draw conclusions in the material that are particularly important for the [arguments](/en/reading/argumentation-in-text/) they present?
+- Does the researcher draw conclusions in the material that are particularly important for the [arguments](/en/study-skills/argumentation-in-text/) they present?
 - What perspective is the researcher working from?
 - How can you use the results in your thesis?
 
