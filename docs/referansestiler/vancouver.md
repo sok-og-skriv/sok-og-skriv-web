@@ -181,7 +181,10 @@ Eksempeltekst (7).
 :::
 
 :::: ref
-Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
+Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Publiseringsdato \[Oppdatert: Oppdateringsdato. Lest: Lesedato\]. Tilgjengelig fra: URL
+
+7. Lund V. Åtte av ti reiser med bil. [Internett]. Oslo: Statistisk sentralbyrå; 26. september 2018 [oppdatert 26. 09. 2018; lest 31.03. 2020]. Tilgjengelig fra: https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil
+
 :::
 
 ::: details I EndNote 
