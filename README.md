@@ -16,3 +16,9 @@ npm run dev
 ## PWA asset generator
 
 Vi kan generere det vi trenger av iconer til Søk og skriv ved å bruke [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator). Se [PWA splash screen and icon generator](https://itnext.io/pwa-splash-screen-and-icon-generator-a74ebb8a130) for informasjon.
+
+## Interne ressurser
+
+* [https://sok-og-skriv.now.sh/om/markdown-demo/](Markdown eksempler for Søk & Skriv)
+* [https://sok-og-skriv.now.sh/om/gitlab-arbeidsflyt/](Gitlab-arbeidsflyt)
+* [https://sok-og-skriv.now.sh/om/brukertest/](Brukertest 2020)

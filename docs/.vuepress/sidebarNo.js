@@ -97,9 +97,6 @@ module.exports = {
   '/': [
     '/om/',
     '/om/kontaktinformasjon',
-    '/om/sok-og-skriv-i-undervisning',
-    '/om/markdown-demo',
-    '/om/gitlab-arbeidsflyt',
-    '/om/brukertest/'
+    '/om/sok-og-skriv-i-undervisning'
   ]
 }

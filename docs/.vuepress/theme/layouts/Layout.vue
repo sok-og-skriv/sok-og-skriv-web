@@ -90,14 +90,10 @@
               <div><a href="/om/">Om Søk og skriv</a></div>
               <div><a href="/om/kontaktinformasjon/">Kontaktinformasjon</a></div>
               <div><a href="/om/sok-og-skriv-i-undervisning/">Søk og skriv i undervisning</a></div>
-              <div>
-                <a href="/om/markdown-demo/">Markdown demo</a> | <a href="/om/gitlab-arbeidsflyt/">Gitlab-arbeidsflyt</a> | <a href="/om/brukertest/">Brukertest</a> 
-              </div>
             </div>
             <div class="align-left">
               <div><a href="/en/about/">About Search and write</a></div>
               <div><a href="/en/about/contact-information/">Contact</a></div>
-              <div><a href="/en/about/">Missing</a></div>
             </div>
           </div>
         </footer>
