@@ -19,6 +19,6 @@ Vi kan generere det vi trenger av iconer til Søk og skriv ved å bruke [pwa-ass
 
 ## Interne ressurser
 
-* [https://sok-og-skriv.now.sh/om/markdown-demo/](Markdown eksempler for Søk & Skriv)
-* [https://sok-og-skriv.now.sh/om/gitlab-arbeidsflyt/](Gitlab-arbeidsflyt)
-* [https://sok-og-skriv.now.sh/om/brukertest/](Brukertest 2020)
+* [Markdown guide for Søk & Skriv](https://sok-og-skriv.now.sh/om/markdown-demo/)
+* [Gitlab-arbeidsflyt](https://sok-og-skriv.now.sh/om/gitlab-arbeidsflyt/)
+* [Brukertest 2020](https://sok-og-skriv.now.sh/om/brukertest/)
