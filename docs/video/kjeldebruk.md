@@ -19,16 +19,16 @@ Odd Are Berkaak, professor i sosialantropologi ved Universitetet i Oslo, fortell
 <Video id="ktM1r1Ca5Tc" />
 
 
-## Kva er forskjellen på ei god og ei dårleg oppgåve?
+## Kva er skilnaden på ei god og ei dårleg oppgåve?
 
-Lars Nyre er professor ved Institutt for informasjons- og medievitskap ved UiB. Her fortel han om ei oppgåve han skreiv som ikkje blei like godt motteken som han hadde vona.
+Lars Nyre er professor ved Institutt for informasjons- og medievitskap ved UiB. Her fortel han om ei oppgåve han skreiv som ikkje blei like godt motteken som han hadde håpa.
 
 <Video id="GD1scK6R01A" />
 
 
 ## Kva kjenneteiknar god akademisk kjeldebruk?
 
-Ole Bjørn Rekdal, professor ved Avdeling for helse og sosialfag på Høgskolen i Bergen, fortel om viktigheiten av god akademisk kjeldebruk i akademisk skriving.
+Ole Bjørn Rekdal, professor ved Institutt for velferd og deltaking ved Høgskulen på Vestlandet, fortel om kor viktig det er med god kjeldebruk i akademisk skriving.
 
 <Video id="GPR0phJIsuk" />
 
