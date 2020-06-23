@@ -24,7 +24,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 - Listen ordnes alfabetisk etter forfatters etternavn. Verk med flere forfattere alfabetiseres etter førsteforfatter.
 - Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for mer informasjon.
 - Referanser uten forfatter alfabetiseres etter tittel.
-- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) og publiseringsdato eller dato for siste oppdatering. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
+- For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) samt publiseringsdato eller dato for siste oppdatering. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
 - DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
 - Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
 
@@ -125,7 +125,7 @@ blabla
 
 ### Bok med flere forfattere (eller redaktører)
 
-Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et aali = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alii = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
 
 
 ::: tip I noten
