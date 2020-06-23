@@ -89,7 +89,9 @@ Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Utgiversted: Forlag
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher 
 ::: 
 :::: 
 
@@ -128,7 +130,9 @@ Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Book Section".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Editor (trykk "enter" mellom hvert navn hvis flere), Book title, Place published, Publisher, Pages. 
 ::: 
 :::: 
 
