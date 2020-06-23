@@ -302,21 +302,14 @@ blabla
 
 
 
-### Nettside med forfatter / blogg
+### Nettside med forfatter/blogg
 
 ::: tip I noten 
-^nr^ Etternavn, ”Artikkeltittel.”
+^nr^ Etternavn, ”Artikkeltittel.” _Tittel på nettsted/blogg_. Dato. DOI/URL
 
-FINN NYTT EKSEMPEL
-
-^14^ 
+"Når man jobber med en kunstner som det eksisterer forholdsvis lite systematisk tilgjengelig informasjon om, er kildestudier en nødvendighet."^14^ 
+^14^ Følstad, Sverre og Lorentzen, Sandra, "JAkten på Mathilde Dietrichson", _Historieblogg_   (https://www.historieblogg.no/?p=5485)
 :::
-
-:::: ref
-
-Etternavn, Fornavn. ”Artikkeltittel,” Navn på nettsted/blogg. Dato (publisert/sist oppdatert eller lest). URL/DOI
-
-EKSEMPEL
 
 ::: details I EndNote
 
@@ -332,11 +325,11 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 ::: tip I noten  
 
-^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. URL/DOI
+^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. DOI/URL
 
 Håvamål betyr «den høyes tale».^15^
 
-^15^ _Wikipedia_, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+^15^ _Wikipedia_, s.v. "Håvamål". 06.01.2020. (https://no.wikipedia.org/wiki/Håvamål)[https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ]
 ::: 
 
 
