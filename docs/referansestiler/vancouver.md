@@ -539,7 +539,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::::
 
 
-Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler 
+Blogginnlegg? Se [VIKO](https://www.ntnu.no/viko/vancouver-eksempler)
 
 
 ## Sitater 
