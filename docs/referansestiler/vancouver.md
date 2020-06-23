@@ -89,7 +89,7 @@ Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, red. Boktit
 ::: details I EndNote
 
 Legges inn som "Edited Book".
-Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition (hvis aktuelt).
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Pages, Edition (hvis aktuelt).
 :::
 ::::
 
@@ -108,7 +108,7 @@ Nummer. Redaktør AA, Redaktør BB, red. Boktittel. Utgivelsessted: Utgiver; år
 3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 ::: details I EndNote
 Legges inn som "Edited Book".
-Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition hvis aktuelt.
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Pages, Edition hvis aktuelt.
 :::
 ::::
 
@@ -159,6 +159,8 @@ Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Ut
 6\. Kreftregisteret. Fakta om kreft \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
 
 ::: details I EndNote 
+
+Legges inn som "Web Page".
 
 Organisasjon: 
 Fyll ut feltene: Author (med et komma etter organisasjonsnavnet/institusjonsnavnet), Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
@@ -262,7 +264,7 @@ Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med e
 :::
 ::::
 
-* Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
+* Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld., Bruk betegnelsen St.meld. på meldinger som er lagt fram før oktober 2009, f.eks. St.meld. nr. 30 (2008-2009).
 
 ## Annet
 
@@ -304,7 +306,15 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstit
 
 ::: details I EndNote 
 
-tekst 
+Trykt tidsskrift: Legges inn som "Journal Article". 
+
+Elektronisk tidsskrift: Legges inn som "Electronic Article" eller "Journal Article".
+
+NB! I feltet for Year, skriv "in press" istedet for årstall. 
+
+Trykt tidsskrift: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages.
+
+Elektronisk tidsskrift: Fyll ut feltene Author, Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages, DOI (eller URL dersom DOI mangler).
 :::
 ::::
 
@@ -327,7 +337,15 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn 
 
 ::: details I EndNote 
 
-tekst 
+Trykt tidsskrift: Legges inn som "Journal Article". 
+
+Elektronisk tidsskrift: Legges inn som "Electronic Article" eller "Journal Article".
+
+NB! I feltet for Year, skriv "in press" istedet for årstall. 
+
+Trykt tidsskrift: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages.
+
+Elektronisk tidsskrift: Fyll ut feltene Author, Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages, DOI (eller URL dersom DOI mangler). 
 :::
 ::::
 
@@ -350,8 +368,9 @@ Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgive
 
 ::: details I EndNote 
 
-Legges inn som "Web Page".
-Fyll ut feltene: Author (med et komma etter organisasjonsnavnet), Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. 
+Legges inn som "Report".
+
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjonsnavnet), Year, Title, Report Number, URL.
 :::
 ::::
 
@@ -418,6 +437,8 @@ Eller:
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
 Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+
+Dorland's illustrated medical dictionary. 32. utg. Philadelphia: Elsevier; 2012. Filamin; s. 675.
  
 ::: details I EndNote 
 
@@ -511,12 +532,14 @@ Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årsta
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Thesis".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, University, Thesis Type.
 :::
 ::::
 
 
-Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler 
+Blogginnlegg? Se [VIKO](https://www.ntnu.no/viko/vancouver-eksempler)
 
 
 ## Sitater 
