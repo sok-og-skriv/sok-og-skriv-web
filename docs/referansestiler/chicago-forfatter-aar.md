@@ -172,7 +172,9 @@ Langeland, Fredrik. 2007. «Harde kropper: en kulturvitenskapelig analyse av mas
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Thesis".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, University, Degree (her legges også institusjonen inn). 
 ::: 
 :::: 
 
@@ -193,7 +195,11 @@ Hagen, Erik Bjerck. 2011. «Litteraturvitenskap som litteraturkritikk.» _Norsk
 
 ::: details I EndNote
 
-blabla 
+Artikkel fra trykt tidsskrift: Legges inn som "Journal article". 
+
+Artikkel hentet fra internett: Legges inn som "Electronic article".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages, Doi (eller evt URL hvis hentet fra internett, men DOI er å foretrekke). 
 ::: 
 :::: 
 
@@ -229,7 +235,13 @@ Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Newspaper article".
+
+Trykt artikkel:
+Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, og Issue date.
+
+Artikkel på nett:
+Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Issue date og URL.
 ::: 
 :::: 
 
@@ -250,7 +262,9 @@ Statistisk sentralbyrå. 2018. «Finansiering av politiske partier.» Oppdatert 
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: "Web page"
+
+Fyll ut feltene: Author (institusjonsnavnet med komma etter for å hindre invertering), Year, Title, Access Date, Access Year, URL. 
 ::: 
 :::: 
 
@@ -270,7 +284,9 @@ Grindheim, Jan Erik. 2019. «Hvorfor stemmer menn blått og kvinner rødt?,» C
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: "Web page"
+
+Fyll ut feltene: Author (trykk enter mellom hvert navn hvis flere, hvis institusjonsnavn skriv komma til slutt for å unngå invertering), Year, Title, Last Update Date, Access year, URL. 
 ::: 
 :::: 
 
