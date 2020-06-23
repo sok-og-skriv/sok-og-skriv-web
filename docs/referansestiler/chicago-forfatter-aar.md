@@ -53,7 +53,6 @@ Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/ki
 (Forfatter årstall, evt. sidetall)
 
 God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (Schimel 2012) 
-
 :::
 
 :::: ref
