@@ -23,7 +23,7 @@ module.exports = {
     'akademisk-sprak-og-stil',
     'formelle-krav-til-oppsett'
   ],
-  '/kjeldebruk-og-referanser/': [
+  '/kjeldebruk/': [
     '',
     'korleis-skal-ein-referere',
     'ulike-kjelder',

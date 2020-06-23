@@ -31,7 +31,7 @@ module.exports = {
           { text: 'Søking', link: '/soking/' },
           { text: 'Studieteknikk', link: '/studieteknikk/' },
           { text: 'Skriving', link: '/skriving/' },
-          { text: 'Kjeldebruk', link: '/kjeldebruk-og-referanser/' },
+          { text: 'Kjeldebruk', link: '/kjeldebruk/' },
           {
             text: 'Referansestiler', link: '/referansestiler/'
             /* ariaLabel: 'Referansestiler meny',

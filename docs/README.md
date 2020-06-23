@@ -39,10 +39,10 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/kjeldebruk-og-referanser"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kjeldebruk og referanser"></a>
+      <a href="/kjeldebruk"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kjeldebruk"></a>
     </div>
     <div class="content">
-      <h2><a href="/kjeldebruk-og-referanser">Kjeldebruk</a></h2>
+      <h2><a href="/kjeldebruk">Kjeldebruk</a></h2>
       <p>All forsking bygger på kjelder. Kva kjelder som er mest nyttige, vil variere frå fag til fag. </p>
     </div>
   </div>
