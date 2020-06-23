@@ -364,14 +364,21 @@ FINNE
 ::: teksten 
 
 Tekst (nummer)
+
+...the patent filed by Clarke et al. (35)
 :::
 
 :::: ref 
+(Nummer). Oppfinner(e). Organisasjon. Patent tittel. [Internett]. Land eller Region. Patent nummer. Dato og år [hentet dato]. Tilgjengelig fra: http://...
+
+(1) Clarke J, Pines A, McDermott RF, Trabesinger AH, inventors. University of California, assignee. SQUID detected NMR and MRI at ultralow fields. European Patent 1474707. 2004-11-10. [hentet dato]. Tilgjengelig fra: http://...
+
 ... 
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Web Page".
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet), Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. 
 :::
 ::::
 
@@ -417,7 +424,9 @@ Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel oppslagsverk. Utgi
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
-Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+5.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+
+6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
  
 ::: details I EndNote 
 
@@ -431,10 +440,6 @@ Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Page
 :::
 ::::
 
-
-Flere eksempler:  
-
-6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
 
 Uten forfatter:
 
@@ -489,6 +494,7 @@ Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i o
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel. Global Persistant Identifier/DOI/Handle Arkivets navn, Versjonen.
 
 5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
+
 ::: details I EndNote 
 ... 
 :::
