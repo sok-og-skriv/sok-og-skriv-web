@@ -39,8 +39,9 @@ Johansen, Anders. 2003. _Samtalens tynne tråd: Skriveerfaringer_. Oslo: Spartac
 
 ::: details I EndNote
 
-SE: 
-https://www.ntnu.no/viko/chicago-eksempler 
+Legges inn som "book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher
 ::: 
 :::: 
 
@@ -63,7 +64,9 @@ Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and 
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Electronic Book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, URL. 
 ::: 
 :::: 
 
