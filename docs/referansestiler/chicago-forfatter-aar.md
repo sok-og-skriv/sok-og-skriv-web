@@ -91,7 +91,7 @@ Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Utgiversted: Forlag
 
 Legges inn som "book".
 
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher 
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn), Year, Title, Place Published, Publisher 
 ::: 
 :::: 
 
