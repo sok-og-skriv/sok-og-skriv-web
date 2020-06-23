@@ -280,7 +280,7 @@ I gjennomsnitt har utdanningsnivået over tid blitt langt høyere for kvinner en
 :::: ref
 Etternavn, Fornavn. Årstall. «Artikkeltittel.» Nettsted. URL/DOI.
 
-Grindheim, Jan Erik. 2019. «Hvorfor stemmer menn blått og kvinner rødt?» Civita. [https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt](https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt).
+Grindheim, Jan Erik. 2019. «Hvorfor stemmer menn blått og kvinner rødt?.» Civita. [https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt](https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt).
 
 ::: details I EndNote
 
