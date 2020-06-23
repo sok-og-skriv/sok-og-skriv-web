@@ -126,7 +126,7 @@ blabla
 
 Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag. 
 
-Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm.
+Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15–23. Oslo: Cappelen Damm.
 
 ::: details I EndNote
 
@@ -199,7 +199,7 @@ Artikkel fra trykt tidsskrift: Legges inn som "Journal article".
 
 Artikkel hentet fra internett: Legges inn som "Electronic article".
 
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages, Doi (eller evt URL hvis hentet fra internett, men DOI er å foretrekke). 
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages, DOI (eller evt URL hvis hentet fra internett, men DOI er å foretrekke). 
 ::: 
 :::: 
 
@@ -221,7 +221,7 @@ Noen artikler oppgir ikke forfatter/journalist. Da setter du i stedet avisens na
 ::: teksten
 (Forfatter årstall, eventuelt eventuelt sidetall)
 
-… seks gonger så mange som i 2000 (Todal, 2019).
+… seks gonger så mange som i 2000 (Todal 2019).
 :::
 
 :::: ref
@@ -229,9 +229,7 @@ Etternavn, Fornavn. Årstall. «Artikkeltittel.» _Avistittel_, dato. URL.
 
 Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21. juni, 2019. https://www.dagogtid.no/samfunn/lokkemenn-i-norske-hamner-6.3.11560.aa1e742add.
 
-Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21. juni, 2019, Atekst.
-
-Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21. juni, 2019, 4-5.
+Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21. juni, 2019. Atekst.
 
 ::: details I EndNote
 
@@ -305,7 +303,7 @@ Generelle leksika og oppslagsverk som ordbøker blir ofte nevnt i en parentes i 
 :::: ref
 _Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato, URL/DOI.
 
-_The Internet Encyclopedia of Philosophy,_ s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
+_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
 
 ::: details I EndNote
 
