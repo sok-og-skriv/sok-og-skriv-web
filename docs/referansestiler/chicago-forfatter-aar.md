@@ -29,7 +29,6 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 (Forfatter årstall, evt. sidetall) eller Forfatter (årstall, sidetall)
 
 "Å skrive med stil er å drive med noe i retning av høytskriving", ifølge Johansen (2003, 43). 
-
 :::
 
 :::: ref
