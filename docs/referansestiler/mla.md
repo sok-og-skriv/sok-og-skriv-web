@@ -5,7 +5,7 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
+MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser, beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
 
 ## Sitering i teksten 
 
@@ -53,7 +53,7 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 + Utgivelsesdato,
 + Plassering.
 
-En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
+En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. **Dette oppsettet brukes på alle typer kilder**; se eksempler nedenfor. 
 
 ## Referanselisten
 
@@ -85,7 +85,7 @@ blabla
 
 ### E-bok
 
-I [MLA] (https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Legg inn informasjon om dette foran utgiver. 
+I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Legg inn informasjon om dette foran utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for e-bok. 
 
 ::: teksten
 Forfatter (evt. sidetall)
@@ -94,9 +94,9 @@ Forfatter (evt. sidetall)
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel_. Utgiver, årstall. MER
+Etternavn, Fornavn. _Tittel_, e-bok. Utgiver, årstall. MER
 
-Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_. Oxford University Press, 2012. 
+Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_, e-bok. Oxford University Press, 2012. 
 
 ::: details I EndNote
 
