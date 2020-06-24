@@ -149,19 +149,18 @@ blabla
 
 ### Artikkel i tidsskrift
 
-REDIGERE, nytt eksempel: Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
-If an issue of a scholarly journal is dated with a month or season, the month or season is now always cited along with the year (45).
+Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. 
 
 ::: teksten
-Forfatter tekst (eventuelt sidetall)
+... forfatter ... (sidetall)
 
-Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
+
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, eventuelt (årstall): sidespenn. Eventuelt DOI-nummer
 
-Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3. årgang. Nr. 1 (2009): 49-58.
+
 
 ::: details I EndNote
 
