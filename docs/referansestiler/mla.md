@@ -337,7 +337,7 @@ blabla
 :::: 
 
 
-### Upublisert materiale DOBBELSJEKK
+### Upublisert materiale DOBBELSJEKK. Skal det være kursiv på upublisert materiale?
 
 ::: teksten
 ... forfatter ... (_Tittel_)
@@ -357,7 +357,7 @@ blabla
 :::: 
 
 
-### Manuskript under publisering, antatt (in press) SJEKKE
+### Manuskript under publisering, antatt (in press) BYTTE Eksempel
 
 ::: teksten
 (Forfatter Tittel)
@@ -404,9 +404,9 @@ Dersom man skal referere til tekster fra et kompendium, viser man til originalve
 
 Dersom et dokument er utgitt av en offentlig instans, organisasjon eller forening skrives navnet vanligvis fullt ut i alle siteringene. Forkortelse kan brukes dersom den er lett gjenkjennelig. I så fall må du ved første gangs sitering skrive hele navnet og forkortelsen.
 
-> _(Norsk rikskringkasting \[NRK\],_ Dagsnytt _1999)_
+> (Norsk rikskringkasting \[NRK\], Dagsnytt 1999)
 
 Ved annen gangs sitering og senere:
 
-> _(NRK,_ Dagsnytt _1999)_
+> (NRK,_ Dagsnytt _1999)
 
