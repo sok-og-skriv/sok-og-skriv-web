@@ -337,7 +337,7 @@ blabla
 :::: 
 
 
-### Upublisert materiale DOBBELSJEKK
+### Upublisert materiale DOBBELSJEKK. Skal det være kursiv på upublisert materiale?
 
 ::: teksten
 ... forfatter ... (_Tittel_)
