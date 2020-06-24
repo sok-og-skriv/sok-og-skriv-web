@@ -40,8 +40,8 @@ Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Forn
 Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. **Legg merke til tegnsettingen:**
  
 + Forfatter.
-+ Kildens tittel.
-+ Kildens beholder,
++ "Kildens tittel".
++ _Kildens beholder_,
 + Andre bidragsytere,
 + Versjon/Utgave,
 + Nummer,
@@ -50,7 +50,7 @@ Her følger en liste over grunnelementer som skal med i en referanse. Elementene
 + Plassering.
  
 ::: ref
-Forfatter. Kildens tittel. Kildens beholder, Andre bidragsytere, Versjon/Utgave,  Nummer, Utgiver, Utgivelsesdato, Plassering.
+Forfatter. "Kildens tittel". _Kildens beholder_, Andre bidragsytere, Versjon/Utgave,  Nummer, Utgiver, Utgivelsesdato, Plassering.
 :::
  
 En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. **Dette oppsettet brukes på alle typer kilder**. Se eksempler nedenfor. For eksempler som ikke er listet opp nedenfor, følg listen over grunnelementene og legg inn riktig informasjon.
@@ -186,7 +186,7 @@ blabla
 
 
 
-### Nettside fra organisasjon (MÅ SJEKKES)
+### Nettside fra organisasjon
 
 Nettsider som forandrer seg bør ha med lesedato. 
 
@@ -198,9 +198,9 @@ The Online Writing Lab (OWL) fra Purdue University inneholder stort sett alt man
 
 :::: ref
 
-Tittel på nettside. Organisasjon eller nettsted. URL, lesedato. 
+"Tittel på nettside". Organisasjon eller nettsted. URL, lesedato. 
 
-Purdue Online Writing Lab. Purdue University. https://owl.purdue.edu/owl/purdue_owl.html, lest 24.06.2020
+"Purdue Online Writing Lab". Purdue University. https://owl.purdue.edu/owl/purdue_owl.html, lest 24.06.2020
 
 ::: details I EndNote
 
@@ -232,18 +232,18 @@ blabla
 :::: 
 
 
-### Artikkel i elektronisk leksikon (uten forfatter) SE PÅ
+### Artikkel i elektronisk leksikon (uten forfatter)
 
 ::: teksten
 Tittel på elektronisk leksikon
 
-Encyclopaedia Britannica definerer feminisme som "the belief in the social, economic, and political equality of the sexes".
+Hermetisk diktning brukes generelt om poesi som bruker okkult symbolisme (hermetisk diktning).
 :::
 
 :::: ref
-"Oppslagsord". _Tittel på oppslagsverk._ Organisasjon, år. Internett. Lesedato.
+"Oppslagsord". _Tittel på oppslagsverk._ år. URL. Lesedato.
 
-”Feminism”. _Encyclopædia Britannica Online_. Encyclopædia Britannica Online Inc., 2013. Internett. 10. januar 2013.
+"Hermetisk diktning". _ Store norske leksikon._ 9. mai 2019. https://snl.no/hermetisk_diktning. Lest 24 juni 2020. 
 
 ::: details I EndNote
 
@@ -252,10 +252,10 @@ blabla
 :::: 
 
 
-### Artikkel i trykt leksikon (med forfatter) SE PÅ
+### Artikkel i trykt leksikon (med forfatter)
 
 ::: teksten
-Forfatter (eventuelt sidetall)
+(Forfatter eventuelt sidetall)
 
 Tveite ser på historikeren Seips kritikk av Arbeiderpartiet der han hevder at etterkrigstidens Norge har blitt en ettpartistat (280).
 :::
@@ -296,15 +296,14 @@ blabla
 ### Meldinger og proposisjoner til Stortinget
 
 ::: teksten
-Departement _Tittel på melding_*
+(Departement _Tittel på melding_)
 
-NYERE eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
-:::
+ De nordiske landene er en sterk forskningsregion med tillit og åpenhet ... (Finansdepartementet, _Nordisk samarbeid_)
 
 :::: ref
 Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
 
-Arbeidsdepartementet. _Arbeidsinnvandring_ St.meld. nr 18 (2007-2008). Oslo: Arbeidsdepartementet, 2008.
+Finansdepartementet. _Nordisk samarbeid_ St.meld. nr 23 (2019-2020). Oslo: Finansdepartementet, 2020.
 
 ::: details I EndNote
 
@@ -337,7 +336,7 @@ blabla
 :::: 
 
 
-### Upublisert materiale DOBBELSJEKK. Skal det være kursiv på upublisert materiale?
+### Upublisert materiale DOBBELSJEKK
 
 ::: teksten
 ... forfatter ... (_Tittel_)
@@ -357,7 +356,7 @@ blabla
 :::: 
 
 
-### Manuskript under publisering, antatt (in press) BYTTE Eksempel
+### Manuskript under publisering, antatt (in press) SJEKKE
 
 ::: teksten
 (Forfatter Tittel)
@@ -404,9 +403,9 @@ Dersom man skal referere til tekster fra et kompendium, viser man til originalve
 
 Dersom et dokument er utgitt av en offentlig instans, organisasjon eller forening skrives navnet vanligvis fullt ut i alle siteringene. Forkortelse kan brukes dersom den er lett gjenkjennelig. I så fall må du ved første gangs sitering skrive hele navnet og forkortelsen.
 
-> (Norsk rikskringkasting \[NRK\], Dagsnytt 1999)
+> _(Norsk rikskringkasting \[NRK\],_ Dagsnytt _1999)_
 
 Ved annen gangs sitering og senere:
 
-> (NRK,_ Dagsnytt _1999)
+> _(NRK,_ Dagsnytt _1999)_
 
