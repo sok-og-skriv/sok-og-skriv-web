@@ -5,17 +5,17 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser, beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
+MLA står for Modern Language Association. Referansestilen legger vekt på forfatter og verktittel, og er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser, beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
 
 ## Sitering i teksten 
 
-Hvis forfatternavnet brukes i teksten oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: 
+Hvis forfatternavnet er del av setningen oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: 
 > "Barrow fant at ... (137-141)". 
 
-Hvis forfatternavnet ikke er del av setningen, skal det stå inne i parentesen: 
+Hvis forfatternavnet ikke inngår i setningen, skal det stå inne i parentesen: 
 > "... (Barrow 137-141)". 
 
-Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. 
+Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort) eller en forkortet tittel før sidetallet. 
 > Eksempel: (Faingold, _Child language_ 95-97). 
 
 Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik:
@@ -26,13 +26,7 @@ Sitater må være eksakt gjengitt med kildehenvisning. Sitater som er kortere en
 
 ### Verk med flere forfattere 
 
-Hvis en kilde har to eller tre forfattere, må du skrive alle navnene hver gang  
-referansen forekommer i teksten:
-
-> ... (Dewdney og Ross 322).  
-> Waugh, Greenberg og Olander fant ... (227)
-
-Bruk samme rekkefølge som på tittelbladet. For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt av et al. eller mfl. og eventuelt sidetall. Det samme gjelder i referanselisten. 
+Bruk samme rekkefølge som på tittelbladet. For tre eller flere forfattere brukes førsteforfatters etternavn fulgt av et al. eller mfl. og eventuelt sidetall. Det samme gjelder i referanselisten. 
 
 > Smith et al. hevder at ... (42)
 > ... (Smith mfl. 42)
@@ -94,7 +88,7 @@ Forfatter (evt. sidetall)
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel_, e-bok. Utgiver, årstall. MER
+Etternavn, Fornavn. _Tittel_, versjon. Utgiver, årstall. 
 
 Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_, e-bok. Oxford University Press, 2012. 
 
@@ -129,9 +123,9 @@ blabla
 ### Oversatt bok
 
 :::: ref
-Etternavn, Fornavn.  _Boktittel_. Overs. Fornavn Etternavn. Sted: Utgiver, årstall. Overs. av _Originaltittel_, Sted: Forlag, årstall.
+Etternavn, Fornavn.  _Boktittel_. Oversetter(e) Fornavn Etternavn, Utgiver, årstall. 
 
-Vargas Llosa, Mario. _Kelterens drøm._ Overs. Kari Risvik og Kjell Risvik. Oslo: Gyldendal, 2012. Overs. av _El sueño del celta_, Madrid: Alfaguara, 2010.
+Vargas Llosa, Mario. _Kelterens drøm._ Oversettere Kari Risvik og Kjell Risvik, Gyldendal, 2012. 
 
 ::: details I EndNote
 
@@ -143,9 +137,9 @@ blabla
 ### Avhandling - doktor/master
 
 :::: ref
-Etternavn, fornavn. _Tittel_. Akademisk avhandling. Institutt/fakultet, Universitet, årstall.
+Etternavn, fornavn. _Tittel_. Akademisk avhandling, Institutt/fakultet, Universitet, årstall.
 
-Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio._ Akademisk avhandling. Nordisk institutt, Universitetet i Bergen, 2001.
+Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio._ Akademisk avhandling, Nordisk institutt, Universitetet i Bergen, 2001.
 
 ::: details I EndNote
 
