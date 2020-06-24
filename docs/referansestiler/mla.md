@@ -147,9 +147,9 @@ blabla
 ::: 
 :::: 
 
-### Artikkel i tidsskrift
+### Artikkel i tidsskrift (trykt/elektronisk)
 
-Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. 
+Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI der det er tilgjengelig. 
 
 ::: teksten
 ... forfatter ... (sidetall)
@@ -159,7 +159,7 @@ Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivels
 :::: ref
 Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI-nummer.
 
-Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, idunn.no.
+Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, www.idunn.no.
 
 
 
@@ -170,44 +170,21 @@ blabla
 :::: 
 
 
-### Artikkel i nettavis SE PÅ
+### Artikkel i avis (trykt/elektronisk) 
 
-::: teksten
-Forfatter tekst "Artikkel"
-
-Skålid skriver i "Barn lærer å lese i mange aldre" at barns forforståelse av tekst påvirker hvordan de forstår teksten de skal lese.
-:::
+Lesedato er frivillig. 
 
 :::: ref
-Etternavn, fornavn. "Tittel på artikkel". _Tittel på nettavis_ Dato. Internett. Lesedato.
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettavis_, utgivelsesdato, URL. 
 
-Skålid, Jon Olav. "Barn lærer å lese i mange aldre." _forskning.no_. 08.januar 2013. Internett.  <[https://www.forskning.no/artikler/2012/juni/325176](https://www.forskning.no/artikler/2012/juni/325176)\>10.januar 2013.
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
-
-
-### Artikkel i trykt avis SE PÅ
-
-::: teksten
-Tekst forfatter (eventuelt sidetall)
-
-I debatten om bruk av hijab peker Gudbrandsen på at en må se hvem mennesket er som faktisk bærer hijab (3).
-:::
-
-:::: ref
-Etternavn, fornavn. "Tittel på artikkel". _Avistittel_ Dato.
-
-Gudbrandsen, Frøy. "Det er en kvinne inni". _Bergens Tidende_ 9.januar 2013.
+Guðmundsson, Halldór. "En engel i Reykholt". _Klassekampen_, 24. juni 2020, https://klassekampen.no/utgave/2020-06-24/en-engel-i-reykholt 
 
 ::: details I EndNote
 
 blabla 
 ::: 
 :::: 
+
 
 
 ### Nettside fra organisasjon SE PÅ
