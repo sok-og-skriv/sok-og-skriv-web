@@ -147,21 +147,21 @@ blabla
 ::: 
 :::: 
 
-### Artikkel i tidsskrift
+### Artikkel i tidsskrift (trykt/elektronisk)
 
-REDIGERE, nytt eksempel: Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
-If an issue of a scholarly journal is dated with a month or season, the month or season is now always cited along with the year (45).
+Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI der det er tilgjengelig. 
 
 ::: teksten
-Forfatter tekst (eventuelt sidetall)
+... forfatter ... (sidetall)
 
-Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI-nummer.
 
-Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3. årgang. Nr. 1 (2009): 49-58.
+Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, www.idunn.no.
+
+
 
 ::: details I EndNote
 
@@ -170,18 +170,14 @@ blabla
 :::: 
 
 
-### Artikkel i nettavis SE PÅ
+### Artikkel i avis (trykt/elektronisk) 
 
-::: teksten
-Forfatter tekst "Artikkel"
-
-Skålid skriver i "Barn lærer å lese i mange aldre" at barns forforståelse av tekst påvirker hvordan de forstår teksten de skal lese.
-:::
+Lesedato er frivillig. 
 
 :::: ref
-Etternavn, fornavn. "Tittel på artikkel". _Tittel på nettavis_ Dato. Internett. Lesedato.
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på avis_, utgivelsesdato, sidetall eller URL. 
 
-Skålid, Jon Olav. "Barn lærer å lese i mange aldre." _forskning.no_. 08.januar 2013. Internett.  <[https://www.forskning.no/artikler/2012/juni/325176](https://www.forskning.no/artikler/2012/juni/325176)\>10.januar 2013.
+Guðmundsson, Halldór. "En engel i Reykholt". _Klassekampen_, 24. juni 2020, https://klassekampen.no/utgave/2020-06-24/en-engel-i-reykholt 
 
 ::: details I EndNote
 
@@ -189,25 +185,6 @@ blabla
 ::: 
 :::: 
 
-
-### Artikkel i trykt avis SE PÅ
-
-::: teksten
-Tekst forfatter (eventuelt sidetall)
-
-I debatten om bruk av hijab peker Gudbrandsen på at en må se hvem mennesket er som faktisk bærer hijab (3).
-:::
-
-:::: ref
-Etternavn, fornavn. "Tittel på artikkel". _Avistittel_ Dato.
-
-Gudbrandsen, Frøy. "Det er en kvinne inni". _Bergens Tidende_ 9.januar 2013.
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
 
 
 ### Nettside fra organisasjon SE PÅ
