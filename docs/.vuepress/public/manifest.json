@@ -1,6 +1,6 @@
 {
-  "short_name": "Søk&Skriv",
-  "name": "Søk og skriv",
+  "short_name": "Søk & Skriv",
+  "name": "Søk & Skriv",
   "icons": [
     {
       "src": "/icons/manifest-icon-192.png",
