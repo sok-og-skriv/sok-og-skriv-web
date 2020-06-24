@@ -154,11 +154,12 @@ Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivels
 ::: teksten
 ... forfatter ... (sidetall)
 
-
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, eventuelt (årstall): sidespenn. Eventuelt DOI-nummer
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI-nummer.
+
+Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, idunn.no.
 
 
 
