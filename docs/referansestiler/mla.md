@@ -79,18 +79,17 @@ blabla
 
 ### E-bok
 
-I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Legg inn informasjon om dette foran utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for e-bok. 
+I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Informasjon om format leggs inn utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for "e-bok". 
 
 ::: teksten
-Forfatter (evt. sidetall)
-
+Joshua Schimel's _Writing Science_ tar for seg vitenskapelig skriving som historiefortelling med elementer som konflikt, dramatisk oppbygning og forløsning. 
 
 :::
 
 :::: ref
 Etternavn, Fornavn. _Tittel_, versjon. Utgiver, årstall. 
 
-Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_, e-bok. Oxford University Press, 2012. 
+Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_, e-bok. Oxford UP, 2012. 
 
 ::: details I EndNote
 
@@ -149,19 +148,12 @@ blabla
 
 ### Artikkel i tidsskrift (trykt/elektronisk)
 
-Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI der det er tilgjengelig. 
-
-::: teksten
-... forfatter ... (sidetall)
-
-:::
+Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI hvis dette er tilgjengelig. 
 
 :::: ref
 Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI-nummer.
 
 Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, www.idunn.no.
-
-
 
 ::: details I EndNote
 
@@ -187,18 +179,21 @@ blabla
 
 
 
-### Nettside fra organisasjon SE PÅ
+### Nettside fra organisasjon (MÅ SJEKKES)
+
+Nettsider som forandrer seg bør ha med lesedato. 
 
 ::: teksten
-"Artikkel"
+The Online Writing Lab (OWL) fra Purdue University inneholder stort sett alt man trenger for å skrive akademiske oppgaver på engelsk (Purdue Online Writing Lab).
 
-I artikkelen "Nær 8000 raskere tilbake", viser NAV sine tall at arbeidsledigheten i Norge synker.
 :::
 
-:::: ref
-"Artikkeltittel". _Tittel på nettstedet._ Nettstedets navn/Organisasjon. År. Oppdatert dato.\<URL\> Lesedato.  
 
-"Nær 8000 raskere tilbake" _NAV_. 2007. 31. desember 2007. <[https://www.nav.no/805371523.cms](https://www.nav.no/805371523.cms)\> 12.februar 2013.
+:::: ref
+
+Tittel på nettside. Organisasjon eller nettsted. URL, lesedato. 
+
+Purdue Online Writing Lab. Purdue University. https://owl.purdue.edu/owl/purdue_owl.html, lest 24.06.2020
 
 ::: details I EndNote
 
@@ -207,18 +202,21 @@ blabla
 :::: 
 
 
-### Nettside med forfatter SE PÅ
+### Nettside med forfatter 
+
+Nettsider som forandrer seg bør ha med lesedato.
 
 ::: teksten
 Forfatter (nettsted)
 
-Thoring (_Framtiden i våre hender_) skriver at økologisk jordbruk er det mest bærekraftige alternativet både for i-land og u-land.
+
+
 :::
 
 :::: ref
-Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ Publiseringsdato. År. Red. hvis det oppgis. Organisasjon. Internett.\<URL\> Lesedato.
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ URL. Lesedato.
 
-Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden i våre hender. Internett. <[https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
+
 
 ::: details I EndNote
 
