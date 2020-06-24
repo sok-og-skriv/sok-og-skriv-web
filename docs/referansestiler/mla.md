@@ -175,7 +175,7 @@ blabla
 Lesedato er frivillig. 
 
 :::: ref
-Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettavis_, utgivelsesdato, URL. 
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på avis_, utgivelsesdato, sidetall eller URL. 
 
 Guðmundsson, Halldór. "En engel i Reykholt". _Klassekampen_, 24. juni 2020, https://klassekampen.no/utgave/2020-06-24/en-engel-i-reykholt 
 
