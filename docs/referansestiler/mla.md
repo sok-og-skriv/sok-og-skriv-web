@@ -35,19 +35,26 @@ Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Forn
 
 ## Elementer i en referanse 
 
+# Elementer i referanse på referanselisten
+ 
 Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. **Legg merke til tegnsettingen:**
-
+ 
 + Forfatter.
 + Kildens tittel.
-+ Beholderens tittel,
++ Kildens beholder,
 + Andre bidragsytere,
-+ Versjon,
++ Versjon/Utgave,
 + Nummer,
 + Utgiver,
 + Utgivelsesdato,
 + Plassering.
-
-En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. **Dette oppsettet brukes på alle typer kilder**; se eksempler nedenfor. 
+ 
+::: ref
+Forfatter. Kildens tittel. Kildens beholder, Andre bidragsytere, Versjon/Utgave,  Nummer, Utgiver, Utgivelsesdato, Plassering.
+:::
+ 
+En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. **Dette oppsettet brukes på alle typer kilder**. Se eksempler nedenfor. For eksempler som ikke er listet opp nedenfor, følg listen over grunnelementene og legg inn riktig informasjon.
+ 
 
 ## Referanselisten
 
