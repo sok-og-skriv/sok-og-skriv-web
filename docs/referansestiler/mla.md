@@ -299,6 +299,7 @@ blabla
 (Departement _Tittel på melding_)
 
  De nordiske landene er en sterk forskningsregion med tillit og åpenhet ... (Finansdepartementet, _Nordisk samarbeid_)
+ :::
 
 :::: ref
 Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
