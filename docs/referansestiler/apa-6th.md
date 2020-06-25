@@ -6,14 +6,14 @@ date: "2012-09-18"
 # APA 6th
 
 ::: warning OBS! 
-APA 6th vil ikke blir oppdatert eller endret, grunnet oppgradert utgave ([APA 7th](referansestiler/apa-7th/)). På grunn av en gradvis overgang til APA 7th, vil APA 6th være tilgjengelig en stund framover
+APA 6th vil ikke blir oppdatert eller endret, grunnet oppgradert utgave ([APA 7th](referansestiler/apa-7th.html)). På grunn av en gradvis overgang til APA 7th, vil APA 6th være tilgjengelig en stund framover
 :::
 
 APA står for American Psychological Association. Foreningen har utviklet en referansestil som er en typisk forfatter-årstallstil. Den er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av:
 
 American Psychological Association. (2010). _Publication manual of the American Psychological Association_ (6. utg.). Washington, D.C.: Forfatter.
 
-Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den [originale manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio) og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
+Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/norsk-apa-referansestil/). Skriver du på engelsk, eller har fått krav om å bruke en engelsk manual,  oppfordrer vi deg til å bruke den originale manualen og/eller [guiden fra Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/).
 
 ## Referanselisten
 
@@ -157,7 +157,7 @@ Referanser til avhandlinger som er publisert i institusjonsarkiv (som Bora) tre
 
 :::: 
 
-Dersom artikkelen har [DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), skal dette være med i referansen. Om DOI mangler, kan lenke til tidsskriftet oppgis isteden.
+Dersom artikkelen har DOI-nummer, skal dette være med i referansen. Om DOI mangler, kan lenke til tidsskriftet oppgis isteden.
 
 ::: details Flere eksempler
 Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov & Straume, 2003, s. 93).
@@ -168,7 +168,7 @@ Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov & Straume, 2003, s. 9
 
 Ifølge Andersen (2012, s. 271) .....
 
-<span class="ref">Andersen, K.I. (2012). Prosessen som ingen kunne målbinde. _Fokus på familien, 4_, 270–272. Hentet fra https://www.idunn.no/ts/fokus/2012/04/prosessen\_som\_ingen\_kunne\_mlbinde</span>
+<span class="ref">Andersen, K.I. (2012). Prosessen som ingen kunne målbinde. _Fokus på familien, 4_, 270–272. Hentet fra [https://www.idunn.no/ts/fokus/2012/04/prosessen\_som\_ingen\_kunne\_mlbinde](https://www.idunn.no/ts/fokus/2012/04/prosessen\_som\_ingen\_kunne\_mlbinde)</span>
 :::
 
 ### Artikkel i trykt avis
@@ -448,7 +448,7 @@ Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du vi
 <span class="ref">Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra https://www.nova.no/</span>
 :::
 
-### Bilder
+## Bilder
 
 Omtale av kjente kunstverk som Skrik og Mona Lisa krever ingen innførsel i referanselisten. Andre refereres som følger:
 
@@ -472,7 +472,7 @@ Omtale av kjente kunstverk som Skrik og Mona Lisa krever ingen innførsel i refe
 <span class="ref">Kittelsen, T. (1900). _Langt langt borte saa han noget lyse og glitre_ \[Olje på lerret\]. Oslo: Nasjonalmuseet.</span>
 :::
 
-Bilder som _reproduseres_ skal også ha komplett henvisning i figurteksten. Se [Reproduksjon av bilder](#Reproduksjon_av_bilder_figurer_og_tabeller).
+Bilder som _reproduseres_ skal også ha komplett henvisning i figurteksten. Se [Reproduksjon av bilder](./#Reproduksjon_av_bilder_figurer_og_tabeller).
 
 ### Hellige skrifter og klassiske tekster
 
@@ -564,7 +564,7 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 
 ### Reproduksjon av bilder, figurer og tabeller
 
-Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten, der det også skal opplyses om [eventuell rettighetsklarering eller lisensbetingelser](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/), eksempelvis Creative Commons-lisens eller om det er gjengitt med tillatelse. Her er det vertsdokumentet – boken, nettsiden eller artikkelen som bildet er hentet fra – som føres inn i referanselisten. Figurteksten skal innledes med en kort beskrivelse av bildet.
+Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten, der det også skal opplyses om eventuell rettighetsklarering eller lisensbetingelser, eksempelvis Creative Commons-lisens eller om det er gjengitt med tillatelse. Her er det vertsdokumentet – boken, nettsiden eller artikkelen som bildet er hentet fra – som føres inn i referanselisten. Figurteksten skal innledes med en kort beskrivelse av bildet.
 
 ::: tip Bilder du har tatt selv: 
 Inkluder beskrivelse, stedsangivelse og dato.  
@@ -621,7 +621,7 @@ Dersom kilden har 3-5 forfattere, skal alle oppgis ved _første_ henvisning. Sen
 
 Dersom kilden har seks eller flere forfattere, skal du _kun_ oppgi førsteforfatter etterfulgt av **et al**.
 
-Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio).
+Tips: Se tabell 6.1 i manualen.
 
 > _Kvale et al. (2009, s. 100) peker på at…_
 
@@ -629,7 +629,7 @@ Dersom man har flere forfattere med samme etternavn skal initialer brukes.
 
 > _R. D. Luce (1959) og P. A. Luce (1986) fant…_
 
-Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
+Tips: Se tabell 6.1 i manualen!
 
 ### Årstall
 
@@ -659,7 +659,7 @@ Ved annen gangs sitering og senere:
 
 > _(NRK, 1999)_
 
-Tips: Se tabell 6.1 i [manualen](https://ask.bibsys.no/ask/action/show?pid=092422497&kid=biblio)!
+Tips: Se tabell 6.1 i manualen!
 
 ### Sekundærhenvisning
 

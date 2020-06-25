@@ -58,5 +58,3 @@ In this chapter you discuss the results of your study/project.
 **For your conclusion:** What answer(s) have you found to your research question? If you have a hypothesis, has it been strengthened, weakened or falisified? Do not introduce issues here that have not been mentioned earlier. If the results of your study do not allow you to draw any conclusions, you can end with a **summing up**.
 
 Articles based on the IMRaD format can be found in [Helsebiblioteket](https://www.helsebiblioteket.no/). For more reading about the IMRAD format, try searching in Bibsys. 
-
-References: [Aveyard, H. (2007) _Doing a literature review in health and social care. _Maidenhead : Open University Press.](/skriving/struktur/imrod-modellen/?p=263)

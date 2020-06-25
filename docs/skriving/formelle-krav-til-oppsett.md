@@ -7,7 +7,7 @@ date: "2012-06-08"
 
 Oppsettet av oppgaver ved universitet og høgskole følger bestemte formelle krav. Her finner du en generell beskrivelse, men ulike studiesteder og -programmer kan ha mer spesifikke krav til omfang, referansestil, forside og så videre. Sjekk emnesidene for faget ditt. 
 
-Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og [etisk bruk av kilder](/kildebruk-og-referanser/sitering-og-etikk/). En generell beskrivelse av innholdet i en større oppgave finner du under "[oppbygning av en oppgave](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/)".
+Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og etisk bruk av kilder. En generell beskrivelse av innholdet i en større oppgave finner du under "[oppbygning av en oppgave](/skriving/struktur.html)".
 
 ## Forside
 
@@ -22,7 +22,7 @@ Institusjonstilknytning (universitet/høgskole, fakultet, institutt, emne)
 Studiesemester eller årstall
 :::
 
-Her kan du laste ned logo til bruk på forside fra [UiB](https://kapd.h.uib.no/profilmanual/99LastNed/99a_lastned.html) og [forside fra UiO](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
+Her kan du laste ned logo til bruk på forside fra [UiB](https://manual.uib.no/profilmanual/) og [forside fra UiO](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
 
 ## Maler
 
@@ -125,13 +125,13 @@ Kortere sitater i teksten markeres med anførselstegn og kildehenvisning, men _i
 
 Det kan være nødvendig å redigere Word-malen for å fjerne unødvendig kursivering. Endre teksten slik du vil ha den, marker en del av teksten og høyreklikk på stilen du vil endre. Velg "Update Normal to Match Selection", eller tilsvarende på norsk.
 
-Les mer om sitering under "[hvordan referere](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/)".
+Les mer om sitering under "[hvordan referere](/kjeldebruk/korleis-skal-ein-referere.html)".
 
 ## Figurer og tabeller
 
 Dersom du bruker figurer og/eller tabeller i teksten, må disse kommenteres og forklares i teksten. De skal nummereres slik at henvisninger blir entydige. I lengre oppgaver nummereres de etter kapittel, eksempelvis slik at den første figuren i kapittel seks kalles Figur 6.1, og oppgis i en egen liste som kan genereres av tekstbehandlingsprogrammet. Figur- eller tabellteksten skal gi en kortfattet beskrivelse av hva figuren eller tabellen viser, og være informativ nok til at den utgjør en forståelig enhet.
 
-Vær oppmerksom på [opphavsrettslige forhold](https://sokogskriv.no/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) ved reproduksjon av andres bilder. Slik bruk er som regel ikke omfattet av sitatretten.
+Vær oppmerksom på opphavsrettslige forhold ved reproduksjon av andres bilder. Slik bruk er som regel ikke omfattet av sitatretten.
 
 
 ## Noter
@@ -144,7 +144,7 @@ En del materiale kan legges som vedlegg, for eksempel intervjuguide, samtykkeskj
 
 ## Referanseliste
 
-Alle kildene som er brukt, skal vanligvis oppgis i samme referanseliste og ordnes alfabetisk. Hvis det er flere innførsler med samme forfatter, og du bruker en forfatter-årstall-stil (som APA eller Harvard), ordnes de kronologisk i stigende rekkefølge (eldste først). Referanser med samme årstall markeres da med a, b, c osv. I de aller fleste fag ligger alle typer kilde i samme referanseliste, men det kan være aktuelt å skille mellom primær- og sekundærkilder i enkelte historiske emner. Les mer om referanselister under "[hvordan referere](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/#Referanselisten)".
+Alle kildene som er brukt, skal vanligvis oppgis i samme referanseliste og ordnes alfabetisk. Hvis det er flere innførsler med samme forfatter, og du bruker en forfatter-årstall-stil (som APA eller Harvard), ordnes de kronologisk i stigende rekkefølge (eldste først). Referanser med samme årstall markeres da med a, b, c osv. I de aller fleste fag ligger alle typer kilde i samme referanseliste, men det kan være aktuelt å skille mellom primær- og sekundærkilder i enkelte historiske emner.
 
 ::: tip Tips: 
 Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. 

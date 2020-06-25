@@ -7,7 +7,7 @@ date: "2012-06-08"
 
 Her finner du en generell beskrivelse av de viktigste elementene i større oppgaver på bachelor- og masternivå. Kapittelstrukturen tar utgangspunkt i empiriske oppgaver, men den har også relevans for deg som skal skrive teoretisk oppgave. Husk at ulike fag har forskjellige krav til oppsett; undersøk hva som gjelder i ditt fagmiljø.
 
-Når det gjelder innholdet i de ulike kapitlene, se også [argumentere, redegjøre og drøfte](/argumentere-redegjore-drofte)
+Når det gjelder innholdet i de ulike kapitlene, se også [argumentere, redegjøre og drøfte](/skriving/argumentere-redegjore-drofte.html)
 
 ## Sammendrag og forord
 
@@ -81,7 +81,7 @@ Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en proble
 
 ### Disposisjon
 
-En disposisjon er en oversikt over hovedpunktene i oppgaven. Den gjør strukturen tydelig og hjelper deg å jobbe målrettet med emnet. Disposisjonen kan gjerne brukes som grunnlag for veiledning, særlig i startfasen. Noen ganger finner man ut at oppgaven må omstruktureres. Da er det lurt å arbeide med disposisjonen. En god disposisjon viser hvordan de ulike delene av oppgaven henger sammen. Ikke minst er den til god hjelp for leseren. Se også [leserveiledninger.](/skriving/sprak-og-stil/a-skape-flyt/#leserveiledninger)
+En disposisjon er en oversikt over hovedpunktene i oppgaven. Den gjør strukturen tydelig og hjelper deg å jobbe målrettet med emnet. Disposisjonen kan gjerne brukes som grunnlag for veiledning, særlig i startfasen. Noen ganger finner man ut at oppgaven må omstruktureres. Da er det lurt å arbeide med disposisjonen. En god disposisjon viser hvordan de ulike delene av oppgaven henger sammen. Ikke minst er den til god hjelp for leseren.
 
 Disposisjonen over oppgaven kan gjerne komme på slutten av innledningen, men her er det ulike konvensjoner. Bruk skjønn: hva tror du er greiest for leseren? Informasjon bør komme i rett tid - ikke for tidlig og ikke for sent.
 
@@ -89,7 +89,7 @@ Disposisjonen over oppgaven kan gjerne komme på slutten av innledningen, men he
 
 Teorien i en empirisk oppgave skal belyse empirien på en spesiell - vitenskapelig - måte. Den skal få fram noe som hverdagsbetraktninger ikke gjør. Hovedhensikten med teori er å bruke den i analysen eller tolkningen av et datamateriale. Dette betyr at du _ikke_ må redegjøre for teori som du ikke skal bruke til noe. Dette skaper falske forventninger hos leseren, og gir inntrykk av at du ikke har kommet i havn.
 
-Ikke alle oppgaver har en egen teoridel. I [IMRaD-](?p=1226)modellen er det tidligere forskning som tar teoriens plass, som del av introduksjonen. 
+Ikke alle oppgaver har en egen teoridel. I [IMRaD-modellen](/skriving/imrad-modellen.html) er det tidligere forskning som tar teoriens plass, som del av introduksjonen. 
 
 **Hva slags teori bør du velge?** Siden teorien danner et grunnlag for å analysere dataene, kan det være nyttig å velge teori som gjør det mulig å skille og plassere fenomener i ulike kategorier. Men det finnes også teori som får fram flere nyanser ved et fenomen enn det vi får gjennom hverdagslige betraktninger. Du kan altså velge å enten redusere kompleksiteten i datamaterialet, eller å utvikle det som i utgangspunktet virker enkelt.
 
@@ -108,7 +108,7 @@ Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner s
 
 ## Analyse (resultater) 
 
-For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. I [IMRaD-modellen](?p=1226) kalles denne delen for resultater. 
+For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. I [IMRaD-modellen](/skriving/imrad-modellen.html) kalles denne delen for resultater. 
 
 Sammen med drøftingen er analysen oppgavens høydepunkt. Her redegjør du for funn, og behandler disse på en systematisk - metodisk - måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
 
@@ -126,7 +126,7 @@ Ikke alle oppgaver har et eget kapittel for analyse: det kan også være aktuelt
 
 ## Drøfting
 
-I mange oppgaver er [drøftingen (eller diskusjonen)](/skriving/argumentere-redegjore-drofte.html#drofting-se-etter-en-forskjell/) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Her har du anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
+I mange oppgaver er [drøftingen (eller diskusjonen)](/skriving/argumentere-redegjore-drofte.html#drofting-se-etter-en-forskjell) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Her har du anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
 
 I en drøfting undersøker vi et fenomen fra flere sider. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på formuleringer som signaliserer drøfting:
 

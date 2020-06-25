@@ -11,11 +11,11 @@ Pleasure reader get immersed in the story, and get to know the characters and wo
 
 ## Reading objectives
 
-- Suppose you are exploring a new field or topic. You begin by looking for general knowledge by reading [broadly](?p=32) rather than deeply. You study reading lists to get familiar with the specialist literature (books, articles, compendiums). What does the library have, and are there any relevant websites?
-- Reading broadly is useful in the initial phase of the writing process, both for a fixed assignment or to develop your own [research questions](/en/writing/structure/structuring-a-thesis/#Defining "Structuring a thesis").
+- Suppose you are exploring a new field or topic. You begin by looking for general knowledge by reading _broadly_ rather than deeply. You study reading lists to get familiar with the specialist literature (books, articles, compendiums). What does the library have, and are there any relevant websites?
+- Reading broadly is useful in the initial phase of the writing process, both for a fixed assignment or to develop your own research questions.
 - If you intend to write a thesis on the topic, you will eventually need to narrow your focus. Look for material that is directly relevant to your topic and your specific research questions. Ask yourself: can I use this in my text? You will also need to read the texts more carefully than in the earlier exploratory stages of reading.
 - Engage in dialogue with the texts you read. Studying involves not only gaining knowledge, but also learning to employ it in different manners and situations. All your reading is ultimately directed at writing something, be it a presentation for your study group, a semester assignment, a project report, an exam paper or a thesis.
-- Not all texts are of high quality and not all texts are equally relevant (see [Source evaluation](/en/sources-and-referencing/source-evaluation/ "Source evaluation")). Learn to evaluate your sources, critically and independently, regarding not only their content, or allegations, but also the text as such. For example: what makes a text so important that it becomes required reading for a course? What are the relations between the different texts on the reading list?
+- Not all texts are of high quality and not all texts are equally relevant (see [Reflecting on sources](/en/sources-and-referencing/reflecting-on-sources.html)). Learn to evaluate your sources, critically and independently, regarding not only their content, or allegations, but also the text as such. For example: what makes a text so important that it becomes required reading for a course? What are the relations between the different texts on the reading list?
 
 ## Reading a text in several different ways
 
@@ -27,7 +27,7 @@ There is no one-size-fits-all solution for getting the most out of a text. Reade
 - **_Read quickly through the text_.** The next step is to quickly read through the whole text. Do not take notes yet (although you may add some small symbols in the margin – dots, lines, exclamation marks – to mark particular points of interest). If you do not understand everything, keep reading. If you do not understand anything at all, keep reading. You will get more than one chance to return to the text later. If you are reading a book, apply this strategy to, for example, one chapter at a time. It often helps to deal with the text in smaller chunks when reading books or other long texts (such as theses or official reports).
 - **_Read the text closely_.** Immerse yourself in the text. You are now reading to understand the text to the best of your abilities. Get a pen and paper – or open your laptop. Take notes while reading. Print your computer notes once finished. Keep all your notes together in a file. Over the course of the semester you build an archive of notes on the reading list. This archive is worth its weight in gold when preparing for exams, writing your thesis, or recalling what you studied in a previous semester. In addition, your archive is already providing you with a motivation to keep reading – you need to expand your archive!
 
-Once completely familiar with the text, take a break. Make sure, however, that you [return to the text](/en/study-skills/reading-and-writing/) fairly soon – after a day or so, or perhaps a week – and give it another quick read. You will probably understand it differently. Also, it is always useful to discuss the texts you read with [other students](?p=215).
+Once completely familiar with the text, take a break. Make sure, however, that you [return to the text](/en/study-skills/ways-of-reading.html#reading-a-text-three-times) fairly soon – after a day or so, or perhaps a week – and give it another quick read. You will probably understand it differently. Also, it is always useful to discuss the texts you read with other students.
 
 ## Ask questions
 
@@ -56,8 +56,8 @@ The word “accordingly” suggests that information appears elsewhere in this a
 
 ## Looking for argumentation
 
-Many of the texts you read are _argumentative texts_: articles, theses, and scholarly monographs (books). Most of the texts (written assignments) that you write during your studies will also be argumentative. Accordingly it is important to understand what we mean when we describe a text as [argumentative](/en/study-skills/argumentation-in-text/ "Argumentation in text").
+Many of the texts you read are _argumentative texts_: articles, theses, and scholarly monographs (books). Most of the texts (written assignments) that you write during your studies will also be argumentative. Accordingly it is important to understand what we mean when we describe a text as [argumentative](/en/study-skills/argumentation-in-text.html "Argumentation in text").
 
 ## Notes, summaries, re-reading
 
-Taking notes, writing summaries and re-reading are all different ways of working with a text. We have already recommended taking notes from the texts you read during your studies in order to build up an archive of notes for later use. The archive will be even more useful if you write up your notes (or parts of them) into brief summaries. Read [more on taking notes](/en/study-skills/reading-and-writing), writing summaries and re-reading texts.
+Taking notes, writing summaries and re-reading are all different ways of working with a text. We have already recommended taking notes from the texts you read during your studies in order to build up an archive of notes for later use. The archive will be even more useful if you write up your notes (or parts of them) into brief summaries. Read [more on taking notes](/en/study-skills/reading-and-writing.html), writing summaries and re-reading texts.

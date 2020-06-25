@@ -5,7 +5,7 @@ date: "2020-04-28"
 # Kjelderefleksjonar
 Når du har funne ei kjelde må du vurdere om denne er god og relevant for ditt arbeid. For å vurdere om ei kjelde er god, må du ta omsyn til fleire faktorar: Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Andre spørsmål du bør stille deg er kven kjelda er produsert for, korleis kjelda refererer til andre og tidspunktet for publisering. For å vurdere i kva grad kjelda er relevant for deg, kan det vere nyttig å analysere teksten nærare: kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
 
-Sjå [Lesemåtar](/studieteknikk/lesemåter) for korleis du kan vurdere innhaldet i eit tekst. 
+Sjå [Lesemåtar](/studieteknikk/lesemater.html) for korleis du kan vurdere innhaldet i eit tekst. 
 
 ## Er kjelda truverdig?
 
@@ -94,13 +94,12 @@ Dette er ei sak frå nettmagasinet klikk.no publisert i 2019. Saka viser til for
 
 ::: oppgave Kjelde 3
 [**Fysisk aktivitet og psykisk helse - Hvordan kan sykepleiere fremme fysisk aktivitet for mennesker med depresjon?**]( https://hdl.handle.net/11250/2653415)
-
-Kva type kjelde er det? 
-Er kjelda truverdig? 
-Kven står som ansvarleg? 
-Kva er det teksten ønskjer å formidle? 
-Kva er bodskapen til kjelda?
-
+ 
+* Kva type kjelde er det? 
+* Er kjelda truverdig? 
+* Kven står som ansvarleg? 
+* Kva er det teksten ønskjer å formidle? 
+* Kva er bodskapen til kjelda?
 
 :::: details Vårt vurderingforslag
 Dette er ei bacheloroppgåve frå 2019. Dersom oppgåva er relevant for ditt tema, kan referanselista vere nyttig å sjå nærare på. Som ein hovudregel tilrår me ikkje studentoppgåver som kjelder, unntaket er om det kjem fram heilt ny informasjon. Sjekk ande kjelder først og vurder kritisk om du treng å vise til bacheloroppgåva. 

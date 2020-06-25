@@ -166,7 +166,9 @@ Du kan starte på et ønsket nummer:
 [lenketekst](url)
 
 *Interne lenker*  
-[skriving](/skriving)
+[skriving](/skriving/)
+
+[Kom i gang med å skrive](/skriving/kom-i-gang-med-a-skrive.html)
 
 *Eksterne lenker*  
 [kildekompasset](http://kildekompasset.no)
@@ -177,6 +179,8 @@ Du kan starte på et ønsket nummer:
 
 *Interne lenker*  
 [skriving](/skriving)
+
+[Kom i gang med å skrive](/skriving/kom-i-gang-med-a-skrive.html)
 
 *Eksterne lenker*  
 [kildekompasset](http://kildekompasset.no)

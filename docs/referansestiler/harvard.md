@@ -8,9 +8,9 @@ date: "2012-09-18"
 Harvard-stil er en fellesbetegnelse for referanser hvor forfatter og årstall plasseres i parentes i teksten. Det finnes ingen offisiell manual for Harvard-stil, men ulike varianter er brukt innenfor mange fagområder. Søk & Skrivs norske versjon fra 2019 bygger på manualen  
 Pears, R. og Shields, G. (2019) _Cite them right_. 11. utg. London: Red Globe Press.
 
-Enkelte fag, som for eksempel biologi, inkluderer sidetall kun ved direkte sitat og ikke etter parafrasering. Det er derfor viktig å undersøke refereringspraksis for ditt fag. For andre varianter av parentesreferanser se [APA](/kildebruk-og-referanser/referansestiler/apa-6th/), [Chicago](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/) og [MLA](/kildebruk-og-referanser/referansestiler/mla/).
+Enkelte fag, som for eksempel biologi, inkluderer sidetall kun ved direkte sitat og ikke etter parafrasering. Det er derfor viktig å undersøke refereringspraksis for ditt fag. For andre varianter av parentesreferanser se [APA](/referansestiler/apa-7th.html), [Chicago](/referansestiler/chicago-forfatter-aar.html) og [MLA](/referansestiler/mla.html).
 
-Les mer om [siteringer](/kildebruk-og-referanser/hvordan-referere/#sitater) og [henvisninger](/kildebruk-og-referanser/referansestiler/harvard/#henvisning).
+Les mer om [siteringer](/kjeldebruk/korleis-skal-ein-referere.html#sitet).
 
 ## Referanselisten
 
@@ -21,7 +21,7 @@ Les mer om [siteringer](/kildebruk-og-referanser/hvordan-referere/#sitater) og
 
 ## Forkortelser
 
-I eksempelsamlingen nedenfor brukes norske [forkortelser](/kildebruk-og-referanser/hvordan-referere/forkortelser/). Alternativt kan du velge latinske standardforkortelser, men vær konsekvent i ditt valg. Harvard støtter ikke bruk av ibid og op.cit.
+I eksempelsamlingen nedenfor brukes norske forkortelser. Alternativt kan du velge latinske standardforkortelser, men vær konsekvent i ditt valg. Harvard støtter ikke bruk av ibid og op.cit.
 
 ## Bøker
 
@@ -140,7 +140,7 @@ Hagenes, M. (2012) _Fysioterapi til MS-pasienter i palliativ fase: fra rehabili
 
 ### Tidsskriftartikkel
 
-[DOI-nummer](/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI) oppgis om artikkelen har det. Nettadresse/URL oppgis bare for artikler som kun er tilgjengelig på nett, og om DOI ikke finnes. Dersom nettadressen er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres. Ved bruk av DOI-nummer utelates hentet-dato.
+DOI-nummer oppgis om artikkelen har det. Nettadresse/URL oppgis bare for artikler som kun er tilgjengelig på nett, og om DOI ikke finnes. Dersom nettadressen er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres. Ved bruk av DOI-nummer utelates hentet-dato.
 
 
 ::: teksten

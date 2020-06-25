@@ -5,7 +5,7 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/ "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
+Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/referansestiler/chicago-forfatter-aar.html "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
 
 ## Henvisninger i notene
@@ -22,7 +22,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 
 - I referanselisten gis referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første), og publikasjonsdata (utgiversted, forlag).
 - Listen ordnes alfabetisk etter forfatters etternavn. Verk med flere forfattere alfabetiseres etter førsteforfatter.
-- Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec067.html) for mer informasjon.
+- Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se Chicago-manualen for mer informasjon.
 - Referanser uten forfatter alfabetiseres etter tittel.
 - For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) samt publiseringsdato eller dato for siste oppdatering. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
 - DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
@@ -31,8 +31,6 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 ## Bøker
 
 ### Bok
-
-
 
 ::: tip I noten 
 ^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), evt. sidetall.
@@ -752,7 +750,7 @@ Stortinget. "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 117
 :::: 
 
 
-Se også [Chicago-manualen](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec209.html) for andre eksempler på sosiale medier.
+Se også Chicago-manualen for andre eksempler på sosiale medier.
 
 ### Finner du ikke kilden?
 

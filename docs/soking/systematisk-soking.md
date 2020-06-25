@@ -10,7 +10,7 @@ I fag som er opptatt av kunnskapsbasert praksis, forventes det at du lærer deg 
 
 ## Problemstilling
 
-Før du kan foreta et systematisk søk, må du [arbeide grundig med problemstillingen](/skriving/struktur-og-argumentasjon/oppbygning-av-en-oppgave/#Avgrensning_og_problemstilling "Oppbygning av en oppgave"). Det er viktig å finne ut hva slags informasjon du er ute etter å finne. Ofte kan det være nyttig å formulere problemstillingen som et spørsmål. 
+Før du kan foreta et systematisk søk, må du [arbeide grundig med problemstillingen](/skriving/struktur.html "Oppbygning av en oppgave"). Det er viktig å finne ut hva slags informasjon du er ute etter å finne. Ofte kan det være nyttig å formulere problemstillingen som et spørsmål. 
 
 I denne fasen kan PICO-skjemaet være et hjelpemiddel til å strukturere spørsmålet og å skille ut de viktigste begrepene i problemstillingen slik at overgangen til søking blir enklere. PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
@@ -113,7 +113,7 @@ Livskvalitet
 
 ## Kombinasjon av søkeord
 
-Alle store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å [kombinere søkene](/soking/utdypende-sok/kombinasjon-av-sokeord/ "Kombinasjon av søkeord") med AND, OR eller NOT i søkehistorikken.
+Alle store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å [kombinere søkene](/soking/soketeknikker.html#kombiner-sokeord "Kombinasjon av søkeord") med AND, OR eller NOT i søkehistorikken.
 
 ::: details EKSEMPEL: Systematisk søk presentert via søkehistorikken.
 Her presenteres søkehistorikken til et søk på spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
@@ -163,7 +163,7 @@ De enkelte databasene tilbyr også muligheter for å avgrense/snevre inn en tref
 
 Husk at enhver avgrensing kan føre til at du går glipp av sentral informasjon.
 
-Til slutt må du [vurdere](/kildebruk-og-referanser/kildevurdering/ "Kildevurdering") den enkelte artikkels [kvalitet](/kildebruk-og-referanser/kvalitative-vurderinger/ "Kvalitative vurderinger") og [relevans](/kildebruk-og-referanser/vurdering-av-relevans/ "Vurdering av relevans") i forhold til problemstillingen din.
+Til slutt må du [vurdere](/kjeldebruk/kjelderefleksjonar.html "Kildevurdering") den enkelte artikkels [kvalitet](/kjeldebruk/kjelderefleksjonar.html) og [relevans](/kjeldebruk/kjelderefleksjonar.html#relevans) i forhold til problemstillingen din.
 
 ## Dokumentér søket
 

@@ -7,7 +7,7 @@ date: "2013-02-21"
 
 This section describes the main elements of a written thesis for the Norwegian bachelor’s and master’s degrees. Although the organising principles described here are most clearly relevant for empirical theses, much of the advice is also relevant for theoretical work. Please note that the formal requirements vary between different disciplines, and make sure to confer the guidelines that apply in your field.
 
-For the contents in the various sections you may also confer [Organising your writing.](/en/writing/language-and-style/writing-one-thing-at-a-time/)
+For the contents in the various sections you may also confer [Organising your writing](en/writing/organising-a-thesis.html/).
 
 ## Summary and foreword
 
@@ -76,7 +76,7 @@ How do you know that you have drafted a research question? Most importantly, a r
 
 ### 1.3 Outline
 
-The outline gives an overview of the main points of your thesis. It clarifies the structure of your thesis and helps you find the correct focus for your work. The outline can also be used in supervision sessions, especially in the beginning. You might find that you need to restructure your thesis. Working on your outline can then be a good way of making sense of the necessary changes. A good outline shows how the different parts relate to each other, and is a useful [guide for the reader](/en/writing/language-and-style/flow/).
+The outline gives an overview of the main points of your thesis. It clarifies the structure of your thesis and helps you find the correct focus for your work. The outline can also be used in supervision sessions, especially in the beginning. You might find that you need to restructure your thesis. Working on your outline can then be a good way of making sense of the necessary changes. A good outline shows how the different parts relate to each other, and is a useful guide for the reader.
 
 It often makes sense to put the outline at the end of the introduction, but this rule is not set in stone. Use discretion: What is most helpful for the reader? The information should come at the right point – not too early and not too late.
 
@@ -84,7 +84,7 @@ It often makes sense to put the outline at the end of the introduction, but this
 
 The theory used in an empirical study is meant to shed light on the data in a scholarly or scientific manner. It should give insights not achievable by ordinary, everyday reflections. The main purpose of using theory is to analyse and interpret your data. Therefore, you should _not_ present theoretical perspectives that are not being put to use. Doing so will create false expectations, and suggests that your work is incomplete.
 
-Not all theses have a separate theory section. In the [IMRaD format](/en/writing/structure/the-imrad-format/) the theory section is included in the introduction, and the second chapter covers the methods used.
+Not all theses have a separate theory section. In the [IMRaD format](/en/writing/the-imrad-format.html) the theory section is included in the introduction, and the second chapter covers the methods used.
 
 **What kind of theory should you choose?** Since the theory is the foundation for your data analysis it can be useful to select a theory that lets you distinguish between, and categorise different phenomena. Other theories let you develop the various nuances of a phenomenon. In other words, you have a choice of either reducing the complexity of your data or expanding upon something that initially looks simple.
 

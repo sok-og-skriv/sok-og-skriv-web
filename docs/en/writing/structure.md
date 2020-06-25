@@ -9,24 +9,16 @@ The structure of your assignment is the ‘skeleton’ that holds different part
 
 There are many ways in which you can structure an assignment. Earlier on in your studies, you will often encounter “explain and discuss”-style assignments. In the health and natural sciences, the [IMRAD model](/writing/the-imrad-format.html#introduction) (Introduction, Methods and Materials, Results and Discussion) is often used. In the humanities and social sciences, you usually have more freedom to decide how you want to structure your text. 
 
-::: example A good assignment is characterised by that: 
+::: example A good assignment is characterised by
 
-All questions that arise are answered or explored 
-
-Things are made clear for the reader 
-
-Everything that is introduced and explained has a function 
-
-Theory is used in order to analyse and interpret data (if relevant) 
-
-The methods chapter is clear and concrete 
-
-The findings are fully justified and explored 
-
-The discussion brings together the empirical data, theory and methods 
-
-The conclusion logically follows on from what has been written before 
-
+* All questions that arise are answered or explored 
+* Things are made clear for the reader 
+* Everything that is introduced and explained has a function 
+* Theory is used in order to analyse and interpret data (if relevant) 
+* The methods chapter is clear and concrete 
+* The findings are fully justified and explored 
+* The discussion brings together the empirical data, theory and methods 
+* The conclusion logically follows on from what has been written before 
 :::
 
  
@@ -84,7 +76,3 @@ Read five paragraphs in any introductory book from your reading list and see how
 ## How to create a good structure 
 
 It takes a lot of work to create a text with a clear structure. In this film you can listen to Professor Ingvild Sælid Gilhus explain how she revises a text. 
-
- 
-
- 

@@ -13,7 +13,7 @@ In order to find good search terms, use your research question as a starting poi
 
 - Use subject-related terminology. Many databases have a built-in thesaurus that includes recognized terms and their associated synonyms.
 - Note that terms which are useful in one database may be less useful in another.
-- Language: Most international databases require that you search in English. Even though [Oria](oria.no) provides search-results in both Norwegian and English, you might miss many relevant documents if you only choose Norwegian search terms. English language terms can be found in textbooks, articles and dictionaries. Read abstracts and look for the author’s own terminology.
+- Language: Most international databases require that you search in English. Even though [Oria](https://oria.no) provides search-results in both Norwegian and English, you might miss many relevant documents if you only choose Norwegian search terms. English language terms can be found in textbooks, articles and dictionaries. Read abstracts and look for the author’s own terminology.
 - **Be creative:** Find as many synonyms as possible for the concepts you are interested in.
 - Do not use too many different elements in a search; two or three are normally enough.
 - Make a chart and designate a column for every term that makes up your research question, and add synonyms for each term in its respective column (see example further below).
