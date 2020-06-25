@@ -5,11 +5,9 @@ date: "2012-03-19"
 
 # Om Søk & Skriv
 
-Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk, studieteknikk og akademisk skriving, uavhengig av studiested og -emne. 
+Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk, studieteknikk og akademisk skriving, uavhengig av studiested og -emne. Søk & Skriv er et samarbeid mellom bibliotekene ved Høgskulen på Vestlandet, Universitetet i Bergen og Universitetet i Oslo samt Institutt for filosofi og førstesemesterstudier ved Universitetet i Bergen. Norges Handelshøyskole har tidligere deltatt i samarbeidet. 
 
-Søk & Skriv er et samarbeid mellom bibliotekene ved Høgskolen på Vestlandet, Universitetet i Bergen og Universitetet i Oslo samt Institutt for filosofi og førstesemesterstudier ved Universitetet i Bergen. Norges Handelshøyskole har tidligere deltatt i samarbeidet. 
-
-Den første versjonen av Søk & Skriv ble publisert i 2009. Nettsidene har siden gjennomgått to større revisjoner. Revisjonen i 2012-14 ble gjennomført med prosjektmidler fra Nasjonalbiblioteket.
+Den første versjonen av Søk & Skriv ble publisert i 2007. Nettsidene har siden gjennomgått to større revisjoner. Revisjonen i 2012-13 ble gjennomført med prosjektmidler fra Nasjonalbiblioteket.
 
 I forbindelse med revisjonen fra 2020 vil Søk & Skriv-redaksjonen rette en stor takk til redaksjonen i VIKO for tillatelsen til å gjenbruke EndNote-informasjon fra www.ntnu.no/viko.
 
