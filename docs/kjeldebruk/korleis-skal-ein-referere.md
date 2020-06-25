@@ -4,7 +4,7 @@ date: "2012-05-15"
 ---
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av kva referansestil du skal nytte. Kva referansestil som er aktuell vil variere frå fag til fag. Nokon står fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil er det viktig at du følger denne konsekvent.
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av kva referansestil du nytter. Kva referansestil som er aktuell vil variere frå fag til fag. Nokon står fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil er det viktig at du følger denne konsekvent.
 
 
 På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th), [Chicago med fotnoter](/referansestiler/chicago-fotnoter), [Chicago, forfatter-år](/referansestiler/chcago-forfatter-aar), [Harvard](/referansestiler/harvard), [MLA](/referansestiler/mla) og [Vancouver](/referansestiler/vancouver).
@@ -33,19 +33,19 @@ Meir om forkortingar på [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skr
 ::::
 
 ## Sitat
-Somme tider kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Når du brukar tekst frå andre inn i eigen tekst er dette å sitere. Det kan vere eit godt grep og eit nyttig tilskot til teksten din, men det gjeld å ha tunga beint i munnen.
+Somme tider kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Når du brukar tekst frå andre inn i dein eigen er dette å sitere. Det kan vere eit godt grep og eit nyttig tilskot til teksten din, men det gjeld å ha tunga beint i munnen.
 
 ### Direkte sitat
 
-Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særleg gode formuleringar eller utsegn til vidare drøfting. Sitat som er har mindre enn 40 ord skrivast direkte inn i teksten og uthevast med hermeteikn. 
+Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særleg gode formuleringar eller utsegn til vidare drøfting. Sitat som er mindre enn 40 ord (eller tre linjer) skrivast direkte inn i teksten og uthevast med hermeteikn. 
 
 ::: eksempel
 «Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting_» (Førland, 1996, s. 11).
 
-Kjelde: Førland, Tor Egil. 1996. _Drøft! Lærebok i oppgaveskriving_, Oslo: Gyldendal.
+Kjelde: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Oslo: Gyldendal.
 :::
 
-Sitater som har meir enn 40 ord skal skrivast i eit eiget avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn. 
+Sitater som har meir enn 40 ord skal skrivast i eit eiget avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn.Det er også vanleg å introdusere sitat med innledning og/eller ein kommentar. 
 
 ### Ved endringar i sitatet 
 
@@ -85,7 +85,6 @@ Beck og Beck-Gemsheim referert i Kloster (2003, s. 4) snakker om tre stadier for
 
 Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet (Beck & Beck-Gemsheim i Kloster, 2003, s. 4).
 
-
 :::
 
 ## Notar / vedlegg
@@ -94,13 +93,12 @@ Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegels
 - Notar skal nyttast til tilleggsopplysningar som ikkje er ein naturleg del av teksten. 
 - Du kan velje om du vil nytte fotnotar nedst på sida eller som sluttnotar bak i kapitlet/oppgåva. Vel du å plassere notane som fotnotar er det vanleg å ha ein mindre skrifttype for å skilje notane frå hovudteksten.
 - Pass på at du ikkje blandar tilvisingar til ei referanseeliste og tilvisingar til notar.
-- Nøyaktig korleis notetilvisinga gjerast er ofte avhenging av kva referansestil du nyttar. Det er for eksempel ikkje føremålsteneleg å nytte nummererte notar dersom du nytter ein nummerert referansestil.
-- Vedlegg er lister over tabellar og figurar som er med i oppgåva, spørreskjema, observasjonsskjema, intervjuguide og liknande. Vedlegg skal nummerast og plasserast etter litteraturlista.
-
+- Nøyaktig korleis notetilvisinga gjerast er ofte avhenging av kva referansestil du nytter. Det er for eksempel ikkje føremålsteneleg å nytte nummererte notar dersom du nytter ein nummerert referansestil.
+- Vedlegg er lister over tabellar og figurar som er med i oppgåva, spørreskjema, observasjonsskjema, intervjuguide og liknande. Vedlegg skal nummerast og plasserast etter referanselista.
 
 
 ## Verktøy for å handtere referanser
 
 For større oppgåver som bacheloroppgåver og masteroppgåver kan du effektivisere arbeidet med referansane dine ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
-Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengeleg for alle.
+Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengelege for alle.
 
