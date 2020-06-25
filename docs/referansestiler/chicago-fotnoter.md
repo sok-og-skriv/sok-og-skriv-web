@@ -52,7 +52,9 @@ Morton Klass definerer myte som "..."^1^
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book».
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher 
 ::: 
 :::: 
 
@@ -71,7 +73,9 @@ blabla
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Electronic Book».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, URL. 
 ::: 
 :::: 
 
@@ -118,14 +122,16 @@ Moi, Toril. "Å skrive er å tenke". I _Min Metode: Om Sakprosaskriving_, redige
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book Section».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Editor (trykk «enter» mellom hvert navn hvis flere), Book title, Place published, Publisher, Pages. 
 ::: 
 :::: 
 
 
 ### Bok med flere forfattere (eller redaktører)
 
-Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alii = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alia = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
 
 
 ::: tip I noten
@@ -143,7 +149,9 @@ Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jeger
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn), Year, Title, Place Published, Publisher 
 ::: 
 :::: 
 
@@ -194,7 +202,9 @@ Etternavn, Fornavn. _Tittel_. Avhandlingstype. Institusjon. Årstall.
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Thesis».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Place Published, University, Degree (her legges også institusjonen inn). 
 ::: 
 :::: 
 
@@ -247,7 +257,11 @@ Kalyvas, Andreas. "Whose Crisis? Which Democracy? Notes on the Current Political
 
 ::: details I EndNote
 
-blabla 
+Artikkel fra trykt tidsskrift: Legges inn som «Journal article».
+
+Artikkel hentet fra internett: Legges inn som «Electronic article».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages, DOI (eller evt URL hvis hentet fra internett, men DOI er å foretrekke). 
 ::: 
 :::: 
 
@@ -270,7 +284,11 @@ Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [http
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Newspaper article».
+
+Trykt artikkel: Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, og Issue date.
+
+Artikkel på nett: Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Issue date og URL. 
 ::: 
 :::: 
 
@@ -296,7 +314,9 @@ Nettsted. "Artikkeltittel." Dato. URL/DOI
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: «Web page»
+
+Fyll ut feltene: Author (institusjonsnavnet med komma etter for å hindre invertering), Year, Title, Access Date, Access Year, URL. 
 ::: 
 :::: 
 
@@ -313,7 +333,9 @@ blabla
 
 ::: details I EndNote
 
-blabla 
+Legges inn som: «Web page»
+
+Fyll ut feltene: Author (trykk enter mellom hvert navn hvis flere, hvis institusjonsnavn skriv komma til slutt for å unngå invertering), Year, Title, Last Update Date, Access year, URL. 
 ::: 
 :::: 
 
