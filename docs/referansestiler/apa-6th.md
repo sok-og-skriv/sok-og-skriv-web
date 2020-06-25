@@ -298,46 +298,6 @@ Skinnegående transport øker mest (Lund, 2018).
 
 <span class="ref">Lund, V. (2018, 26. september). Åtte av ti reiser med bil. Hentet fra [https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil](https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil)</span>
 
-
-:::: 
-
-
-### Artikkel i elektronisk leksikon (uten forfatter)
-
-::: teksten
-(«Artikkeltittel», årstall)
-
-Freud blir regnet som psykoanalysens opphavsmann («Psychoanalysis», 2010).
-:::
-
-:::: ref
-<span class="ref">Artikkeltittel (Årstall). I _oppslagsverk_. Hentet fra URL</span>
-
-<span class="ref">Psychoanalysis. (2010). I _Encyclopædia Britannica_. Hentet fra [https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis](https://global.britannica.com/bps/additionalcontent/14/117886/psychoanalysis)</span>
-
-
-:::: 
-
-::: details Flere eksempler
-... smykker av menneskehår («Hårarbeid», u.å.)
-
-<span class="ref">Hårarbeid. (u.å.). I _Wikipedia_. Hentet 26. juni 2018 fra [https://no.wikipedia.org/wiki/Hårarbeid](https://no.wikipedia.org/wiki/H%C3%A5rarbeid)\*For oppslagsverk som Wikipedia, der innholdet oppdateres ofte, bør hentet dato være med i referansen.</span>
-:::
-
-### Artikkel i elektronisk leksikon (med forfatter)
-
-::: teksten
-(Forfatter, årstall, eventuelt sidetall)
-
-... bronkiell hyperreaktivitet, og en underliggende inflammasjon (Fanta, 2017).
-:::
-
-:::: ref
-<span class="ref">Forfatter (Årstall). Artikkeltittel. I Redaktør (Red. – om oppgitt), _oppslagsverk_. Hentet fra URL</span>
-
-<span class="ref">Fanta, C. H. (2017). Diagnosis of asthma in adolescents and adults. I H. Hollingsworth (Red.), _UpToDate_. Hentet 16. mars 2018 fra [https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults](https://www.uptodate.com/contents/diagnosis-of-asthma-in-adolescents-and-adults)</span>
-
-
 :::: 
 
 ## Offentlige kilder
