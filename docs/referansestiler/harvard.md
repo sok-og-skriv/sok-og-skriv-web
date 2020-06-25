@@ -201,10 +201,8 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
 Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober, del 2, s. 12.
 :::
 
-### Nettside
 
-SLETTE? 
-### Nettsider/elektroniske dokumenter
+### Nettsider / elektroniske dokumenter
 
 - Nettsider med forfatter refereres til med forfatternavn og årstall.
 - Ved nettsider uten forfatter, hvor artikkelen er en del av et større nettsted, oppgis navnet til nettstedet/organisasjonen som forfatter.
@@ -441,7 +439,7 @@ Utdanningen skal kvalifisere for forskningsbasert yrkesutøvelse (Forskrift om p
 :::: ref
 Forskriftens kortnavn. _Forskriftens fulle navn_.
 
-Forskrift om plan for grunnskolelærerutdanning. _Forskrift 1. mars 2010 nr. 295 om rammeplan for grunnskolelærerutdanningen for 1.-7. og 5.-10. trinn. _
+Forskrift om plan for grunnskolelærerutdanning. _Forskrift 1. mars 2010 nr. 295 om rammeplan for grunnskolelærerutdanningen for 1.-7. og 5.-10. trinn_.
 
 ::: details I EndNote
 
@@ -671,7 +669,7 @@ Ifølge Ole Olsen, professor i semantikk ved Universitetet i Bergen (personlig d
 ::: teksten
 (Etternavn, Årstall)
 
-Furuseth og Kjøs, og Rashidi (2020) snakker om at unge sliter med...
+Furuseth og Kjøs, og Rashidi (2020) snakker om at unge sliter med ...
 :::
 
 :::: ref
