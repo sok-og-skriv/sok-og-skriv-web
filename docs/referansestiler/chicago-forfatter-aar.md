@@ -38,7 +38,7 @@ Johansen, Anders. 2003. _Samtalens tynne tråd: Skriveerfaringer_. Oslo: Spartac
 
 ::: details I EndNote
 
-Legges inn som "book".
+Legges inn som "Book".
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher
 ::: 
@@ -87,7 +87,7 @@ Etternavn, Fornavn og Fornavn Etternavn. Årstall. _Tittel_. Utgiversted: Forlag
 
 ::: details I EndNote
 
-Legges inn som "book".
+Legges inn som "Book".
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn), Year, Title, Place Published, Publisher 
 ::: 
@@ -352,10 +352,7 @@ Etternavn, Fornavn. _Tittel_. Årstall. Medium. Inventarnummer. Eieren av bildet
 
 Olsen, Olai Schumann. _St. Hans Strædet_. Ca. 1920. Foto. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434.
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
@@ -372,10 +369,7 @@ Etternavn, Fornavn. _Tittel_. Årstall. Medium. Størrelse. Inventarnummer. Eier
 
 Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.00939. Nasjonalmuseet for kunst, arkitektur og design. 2. februar 2013. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939).
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
@@ -392,10 +386,7 @@ Opphavsperson Etternavn, Fornavn (evt. navn på produksjonsselskap e.l.). «Titt
 
 ArkikonAS. «Bergen anno 1350. ver.1.» Video. Work in progress. 6:04. 31. august 2011. [https://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related](https://www.youtube.com/watch?v=pT2N7PqkPb8&feature=related).
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -416,10 +407,7 @@ Komponistens Etternavn, Fornavn. Årstall. "Tittel på komposisjon". Fornavn Ett
 
 Bull, Ole. 2007. ”Sæterjentens søndag”. Dag Arnesen trio: Dag Arnesen, klaver, Terje Gewelt, kontrabass, Pål Thowsen, slagverk, perkusjon. _Norwegian song_. Resonant Music. CD.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ## Offentlige kilder
@@ -439,10 +427,7 @@ Lovens korttittel. _Lovens fulle tittel av dato nr_. Evt. nettadresse.
 
 Introduksjonsloven. _Lov om introduksjonsordning og norskopplæring for nyankomne innvandrere av 4. juli 2003 nr.80._ [https://www.lovdata.no/all/nl-20030704-080.html](https://www.lovdata.no/all/nl-20030704-080.html).
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -459,10 +444,7 @@ Forskriftens kortittel. _Forskriftens fulle tittel._ Fastsatt ved kgl. res. dato
 
 Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehabilitering, individuell plan og koordinator._ Fastsatt ved kgl. res. 16.desember 2011. [https://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html](https://www.lovdata.no/ltavd1/filer/sf-20111216-1256.html).
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -479,10 +461,7 @@ Departement. «Tittel på stortingsmelding.» St. meld. nr. (sesjon dvs. årstal
 
 Arbeids- og inkluderingsdepartementet. «Arbeidsinnvandring.» St. meld. nr. 18 (2007–2008). Oslo: Arbeids- og inkluderingsdepartementet, 2008. [https://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?id=507744](https://www.regjeringen.no/nb/dep/ad/dok/regpubl/stmeld/2007-2008/stmeld-nr-18-2007-2008-.html?showdetailedtableofcontents=true&id=507744).
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -499,10 +478,7 @@ NOU årstall: nr. _Tittel._ Utgiversted: Utgiver. Eventuelt nedlastningsinformas
 
 NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [https://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064](https://www.regjeringen.no/nb/dep/bld/dok/nouer/2011/nou-2011-18.html?id=663064).
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 ## Annet
@@ -531,10 +507,7 @@ Etternavn, Fornavn. «Tittel». Upublisert manuskript, dato år. Filtype.
 
 Trille, Lille. «Stort og smått i eggebransjen». Upublisert manuskript, sist endret 10. november 2012. Microsoft Word-fil.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -553,10 +526,7 @@ Etternavn, Fornavn. Under publisering. «Tittel.» Utgiversted: _Tidsskrift_.
 
 Trille, Lille. Under publisering. «Stort og smått i eggebransjen.» Andeby: _Norsk tidsskrift for fiktive figurer fra rim og regler_
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -584,10 +554,7 @@ Institusjon. Kilde, opphavsperson, kildetype, evt. sideanvisning / andre opplysn
 
 Statsarkivet i Bergen. Pantebok I, Byfogd og byskriver i Bergen, Pantebok 1. 1680–1684).
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
