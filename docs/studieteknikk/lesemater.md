@@ -22,7 +22,7 @@ Det er uansett viktig å forholde seg aktivt til tekstene du leser. Å studere d
 Ikke alle tekster er like gode, og ikke alle tekster er relevante for deg. Mer om dette finner du under [kildevurdering](/kildebruk-og-referanser/kildevurdering/ "kildevurdering"). En viktig del av studiene dreier seg om å øve seg i å forholde seg _kritisk_ og _selvstendig,_ ikke bare til det teksten handler om, men også til teksten selv. Når du leser pensum, kan det være nyttig å spørre seg: Hvorfor har vi denne teksten på pensum? Hva er det som er viktig med denne teksten, siden den er havnet på pensumlisten? Hva er forbindelsen mellom denne teksten, emnebeskrivelsen og resten av pensumlitteraturen?
 
 ::: tip Varier lesingen 
-Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst, og lesere er forskjellige. Men generelle råd fins: Øv deg i å bli en aktiv leser ved å variere måten du leser på. En anbefalt fremgangsmåte er å lese samme tekst i flere omganger, på ulike måter. Å være en god leser innebærer i tillegg at du blir bedre til å skrive. Det er nærmest umulig å skrive en akademisk tekst om du aldri har lest en!
+Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst, og lesere er forskjellige. Men generelle råd fins: Øv deg i å bli en aktiv leser ved å variere måten du leser på. En anbefalt fremgangsmåte er å lese samme tekst i flere omganger, på ulike måter. 
 ::: 
 
 ## Å lese en tekst i flere omganger
@@ -63,6 +63,6 @@ Du leser et avsnitt der det står:
 
 Ordet «altså» tyder på at det forut for dette avsnittet er sagt noe om både «inversjonsritual i Gluckmanns forstand» og «heterotop i Foucaults forstand» - og kanskje det som er sagt er nok for å forstå hva det snakkes om i dette avsnittet. Likevel: Hvem er Gluckmann og hvem er Foucault? Det er ikke sikkert det er sagt så mye om dem. Kanskje de er berømte forskere, som det hører med til fagkompetansen å kjenne til? Og hva betyr «inversjonsritual» og «heterotop»? Kanskje forfatteren forklarer det greit, men sannsynligheten er stor for at det ikke er bortkastet å søke hjelp også andre steder.
 
-Det vi leser i akademisk sammenheng skal altså brukes til noe, og derfor må vi lese med en annen oppmerksomhet enn når vi leser for underholdningens skyld.
+Det vi leser i akademisk sammenheng skal altså brukes til noe, og derfor må vi lese med en annen oppmerksomhet enn når vi leser for underholdningens skyld. Å være en god leser innebærer også at du blir bedre til å skrive. Når du leser andres akademiske tekster, lærer du mye av å se på struktur, setningsoppbygging og argumentasjon. Det er nærmest umulig å skrive en akademisk tekst om du aldri har lest en!
 
 
