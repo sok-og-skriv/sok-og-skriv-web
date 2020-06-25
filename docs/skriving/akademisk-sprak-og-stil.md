@@ -9,7 +9,7 @@ Akademisk språk er klart, entydig, nøkternt og objektivt. Idealet om objektivi
 
 Når man er uerfaren kan det være fristende å pynte på språket ved å bruke kompliserte uttrykksformer og fremmedord, men som regel er det bedre å unngå fremmedord når vanlige ord er like presise. Tenkere som har blitt klassikere, har gjerne en enkel og likefram stil. Nettopp derfor blir de lest av mange, uavhengig av tidens konvensjoner.
 
-En del akademiske tekster er likevel - nødvendigvis - krevende å lese; dels fordi de presenterer spesialisert kunnskap og dels fordi påstander må belegges, blant annet med [kildehenvisninger](/kildebruk-og-referanser/hvordan-referere/). For å få god lesbarhet må forfatteren derfor ofte legge en del arbeid i den språklige framstillingen.
+En del akademiske tekster er likevel - nødvendigvis - krevende å lese; dels fordi de presenterer spesialisert kunnskap og dels fordi påstander må belegges, blant annet med [kildehenvisninger](/kjeldebruk/korleis-skal-ein-referere.html). For å få god lesbarhet må forfatteren derfor ofte legge en del arbeid i den språklige framstillingen.
 
 ## Stilnivå: Hvem skriver du for?
 
@@ -41,7 +41,7 @@ Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. 
 
 ## Kan jeg skrive ”jeg”?
 
-I noen fag advares det sterkt mot å bruke ordet "jeg". Da kan du bli nødt til å skrive om, og bruke "man", "vi" eller passiv form. Men det er viktig å være klar over at det å bruke ordet "jeg" ikke er det samme som å være privat eller subjektiv. Her kan vi skille mellom et privat eller personlig "jeg" og det skrivende "jeg", altså forfatteren av teksten. Det å skrive "nå skal jeg redegjøre for ... " er _ikke_ et personlig utsagn. I de fleste fag vil det være uproblematisk å bruke forfatter-jeg'et i [leserveiledninger](/skriving/sprak-og-stil/a-skape-flyt/). Dette virker mindre stivt enn å bruke ordet "man" om seg selv.
+I noen fag advares det sterkt mot å bruke ordet "jeg". Da kan du bli nødt til å skrive om, og bruke "man", "vi" eller passiv form. Men det er viktig å være klar over at det å bruke ordet "jeg" ikke er det samme som å være privat eller subjektiv. Her kan vi skille mellom et privat eller personlig "jeg" og det skrivende "jeg", altså forfatteren av teksten. Det å skrive "nå skal jeg redegjøre for ... " er _ikke_ et personlig utsagn. I de fleste fag vil det være uproblematisk å bruke forfatter-jeg'et i [leserveiledninger](/skriving/akademisk-sprak-og-stil.html). Dette virker mindre stivt enn å bruke ordet "man" om seg selv.
 
 I de fleste vitenskapelige tekster er det også et forsker-jeg: personen(e) som har gjennomført studier og framskaffet resultatene. Når man skal redegjøre for forskningsprosessen er det i våre dager vanlig å bruke pronomenene "jeg" eller "vi".
 

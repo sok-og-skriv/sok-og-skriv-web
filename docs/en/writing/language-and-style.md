@@ -38,7 +38,7 @@ Use of the passive voice tends to conceal who is doing the action. In a methods 
 
 In some fields, writing in the first person (i.e., using the words “I”, “me” and “my”) is strongly discouraged. If this is the case in your field, you may have to write your text using words such as “one” or “we” or using the passive voice. It is important to be clear, however, that using the word “I” is not the same as being personal or subjective.
 
-We should distinguish between the private or personal “I” and the “I” as the author of the text. For example, when you write “I will now explain …”, this is _not_ a personal statement. In most disciplines the use of the authorial “I” is fine in, e.g. [pointers for the reader](/en/writing/language-and-style/flow/). Writing in the first person will make the text less “stiff” than using the word "one" when referring to yourself.
+We should distinguish between the private or personal “I” and the “I” as the author of the text. For example, when you write “I will now explain …”, this is _not_ a personal statement. In most disciplines the use of the authorial “I” is fine in, e.g. [pointers for the reader](/en/writing/language-and-style.html). Writing in the first person will make the text less “stiff” than using the word "one" when referring to yourself.
 
 The personal “I”, however, has no place in an academic text. This does not mean that you cannot put your own personal stamp on the text. It simply means that you should do this by using the means that the various academic genres put at your disposal. For example, by choosing to discuss interesting and important research questions, by presenting convincing reasoning, and by using good examples.
 
@@ -51,5 +51,4 @@ Read several pages of a student dissertation and highlight the word “I”. Ide
 **Note**: Remember that there may be good reasons for the use of “I” in a student dissertation. These reasons may not be relevant in the case of a research article.
 :::
 
-Recommended reading:  
-[https://writingcenter.unc.edu/handouts/passive-voice/](https://writingcenter.unc.edu/handouts/passive-voice/)
+Recommended reading: [Passive-voice](https://writingcenter.unc.edu/handouts/passive-voice/)

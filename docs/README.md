@@ -78,7 +78,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   </div>
 </div>
 
-[Se flere](/video/)
+[Se flere](/video/soking.html)
 
 ## Partnere
 

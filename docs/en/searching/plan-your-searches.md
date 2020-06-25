@@ -27,12 +27,12 @@ Through your library's websites you have access to databases covering a wide ran
 
 Below you will some interdisciplinary databases that can be used as a starting point for searching before moving on to the field-specific databases:
 
-- [Oria](oria.no) is the research library's search tool. Here you will find, among other things, textbooks, master theses, dissertations and journal articles.
-- [Google Scholar](scholar.google.no) is the academic version of Google. It indexes scientific literature from reputable publishers and research-based databases.
+- [Oria](https://oria.no) is the research library's search tool. Here you will find, among other things, textbooks, master theses, dissertations and journal articles.
+- [Google Scholar](https://scholar.google.no) is the academic version of Google. It indexes scientific literature from reputable publishers and research-based databases.
 - The article database [Norart](https://www.nb.no/baser/norart/) provides an overview of Norwegian and a selection of Nordic journal articles. The archive covers both popular science periodicals and scientific journals, so you need to make a critical assessment yourself.
 - [Idunn](https://www.idunn.no/) covers journal articles from journals published at the university publishing house. It is available in most libraries in Norway.
 - The publishing archive [NORA](https://nora.openaccess.no/) and databases such as [Cristin](https://www.cristin.no/) (Current Research Information System in Norway) gives you an overview of research activities in the health and institute sector and the university and college sector.
 
 ## Devising a search strategy
 
-During the process of searching, you will encounter an exciting world of knowledge. However, to avoid random and unsystematic searches, you may want to devise a plan for your searching. This can save time and ensure that all the important elements of the research question are included. A good search strategy should describe which search terms you have used and how these are combined. See more under [searching techniques.](/en/searching/searching-techniques/)
+During the process of searching, you will encounter an exciting world of knowledge. However, to avoid random and unsystematic searches, you may want to devise a plan for your searching. This can save time and ensure that all the important elements of the research question are included. A good search strategy should describe which search terms you have used and how these are combined. See more under [searching techniques.](/en/searching/searching-techniques.html)

@@ -8,7 +8,7 @@ next: "../study-skills/"
 
 ## Research question
 
-Before conducting a systematic search, you need to [develop a clear research question](/en/writing/the-writing-process/from-topic-to-research-question/ "From topic to research question"). This allows a precise expression of your information needs and makes searching easier.
+Before conducting a systematic search, you need to [develop a clear research question](/en/writing/getting-started.html "From topic to research question"). This allows a precise expression of your information needs and makes searching easier.
 
 The PICO form can be used to structure your research question and identify its most important elements.  The acronym stands for central elements of a research question in the medical sciences.
 

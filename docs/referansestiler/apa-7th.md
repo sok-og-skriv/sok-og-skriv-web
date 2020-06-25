@@ -607,7 +607,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ### Reproduksjon av bilder, figurer og tabeller
 
-Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten, der det også skal opplyses om [eventuell rettighetsklarering eller lisensbetingelser](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/), eksempelvis Creative Commons-lisens eller om det er gjengitt med tillatelse. Her er det vertsdokumentet – boken, nettsiden eller artikkelen som bildet er hentet fra – som føres inn i referanselisten. Figurteksten skal innledes med en kort beskrivelse av bildet.
+Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten, der det også skal opplyses om eventuell rettighetsklarering eller lisensbetingelser, eksempelvis Creative Commons-lisens eller om det er gjengitt med tillatelse. Her er det vertsdokumentet – boken, nettsiden eller artikkelen som bildet er hentet fra – som føres inn i referanselisten. Figurteksten skal innledes med en kort beskrivelse av bildet.
 
 ::: tip Bilder du har tatt selv: 
 Inkluder beskrivelse, stedsangivelse og dato.  

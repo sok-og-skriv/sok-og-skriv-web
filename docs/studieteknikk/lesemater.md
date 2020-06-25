@@ -19,7 +19,7 @@ Hvis målet er å bruke det du leser for å skrive en oppgave, må du lese mer f
 Det er uansett viktig å forholde seg aktivt til tekstene du leser. Å studere dreier seg både om å tilegne seg kunnskap og å anvende den.
 ::: 
 
-Ikke alle tekster er like gode, og ikke alle tekster er relevante for deg. Mer om dette finner du under [kildevurdering](/kildebruk-og-referanser/kildevurdering/ "kildevurdering"). En viktig del av studiene dreier seg om å øve seg i å forholde seg _kritisk_ og _selvstendig,_ ikke bare til det teksten handler om, men også til teksten selv. Når du leser pensum, kan det være nyttig å spørre seg: Hvorfor har vi denne teksten på pensum? Hva er det som er viktig med denne teksten, siden den er havnet på pensumlisten? Hva er forbindelsen mellom denne teksten, emnebeskrivelsen og resten av pensumlitteraturen?
+Ikke alle tekster er like gode, og ikke alle tekster er relevante for deg. Mer om dette finner du under [kildevurdering](kjeldebruk/kjelderefleksjonar.html). En viktig del av studiene dreier seg om å øve seg i å forholde seg _kritisk_ og _selvstendig,_ ikke bare til det teksten handler om, men også til teksten selv. Når du leser pensum, kan det være nyttig å spørre seg: Hvorfor har vi denne teksten på pensum? Hva er det som er viktig med denne teksten, siden den er havnet på pensumlisten? Hva er forbindelsen mellom denne teksten, emnebeskrivelsen og resten av pensumlitteraturen?
 
 ::: tip Varier lesingen 
 Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst, og lesere er forskjellige. Men generelle råd fins: Øv deg i å bli en aktiv leser ved å variere måten du leser på. En anbefalt fremgangsmåte er å lese samme tekst i flere omganger, på ulike måter. 

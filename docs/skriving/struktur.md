@@ -7,24 +7,18 @@ date: "2012-05-04"
 
 Strukturen er «skjelettet» som holder de ulike oppgavedelene sammen i riktig forhold til hverandre. For å lage god sammenheng og flyt, er det viktig å forstå hvilken _funksjon_ de ulike kapitlene har i forhold til hverandre. Alt du skriver i oppgaven, skal nemlig fylle en hensikt. Her får du råd om hva de ulike kapitlene i en oppgave bør inneholde, med vekt på deres funksjon.
 
-Det er mange måter å strukturere en oppgave på. Tidlig i studiet er det vanlig med [«redegjør og drøft»-oppgaver](skriving/argumentere-redegjore-drofte.html#redegjor-og-droft). I helsefag og naturvitenskapelige fag brukes modellen [IMRaD](?p=1226) (Introduction, Methods, Results and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
+Det er mange måter å strukturere en oppgave på. Tidlig i studiet er det vanlig med [«redegjør og drøft»-oppgaver](/skriving/argumentere-redegjore-drofte.html). I helsefag og naturvitenskapelige fag brukes modellen [IMRaD](/skriving/imrad-modellen.html) (Introduction, Methods, Results and Discussion). I samfunnsvitenskapelige og humanistiske fag står man mer fritt.
 
-::: eksempel En god oppgave kjennetegnes av at:
-Alle spørsmål som reises, er besvart eller belyst
+::: eksempel En god oppgave kjennetegnes av at
 
-Leseren forstår hvor forfatteren vil til enhver tid
-
-Alt som er redegjort for, har en funksjon
-
-Teorien brukes til å analysere/tolke data (hvis relevant)
-
-Metodekapitlet er konkret
-
-Funnene kommer til sin rett
-
-Drøftingen bringer sammen empiri, teori og metode
-
-Konklusjonen følger av det som er sagt
+* Alle spørsmål som reises, er besvart eller belyst
+* Leseren forstår hvor forfatteren vil til enhver tid
+* Alt som er redegjort for, har en funksjon
+* Teorien brukes til å analysere/tolke data (hvis relevant)
+* Metodekapitlet er konkret
+* Funnene kommer til sin rett
+* Drøftingen bringer sammen empiri, teori og metode
+* Konklusjonen følger av det som er sagt
 :::
 
 
@@ -32,7 +26,7 @@ Konklusjonen følger av det som er sagt
 
 For å kunne skrive effektivt og strukturert er det viktig å skille mellom ulike typer skrivehandlinger som _redegjørelse_, _tolkning_, _analyse_ og _drøfting_ eller diskusjon. Ta for deg én ting om gangen, og unngå å blande sammen redegjørelse og drøfting i samme utsagn. På denne måten får du en mer ryddig tekst.
 
-I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte/) og drøfting sentralt. Du kan enten drøfte ideer og begreper underveis, eller skille ut drøftingen (diskusjonen) i et eget kapittel. Det siste er vanligst i empiriske oppgaver. Pass uansett på at du ikke redegjør og drøfter i én og samme vending. 
+I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte.html) og drøfting sentralt. Du kan enten drøfte ideer og begreper underveis, eller skille ut drøftingen (diskusjonen) i et eget kapittel. Det siste er vanligst i empiriske oppgaver. Pass uansett på at du ikke redegjør og drøfter i én og samme vending. 
 
 Det er også viktig å signalisere hva som er gjengivelse av andres ideer og hva som er din _egen_ tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
 
@@ -42,7 +36,7 @@ Hvis du lurer på om teksten din har en tydelig struktur, kan du "tagge" avsnitt
 Deretter kan du se på sammenhengen. Står poengene i riktig rekkefølge? Er det noe som må flyttes på? Bruk Post-it-lappene og prøv deg fram. 
 :::
 
-I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen/).
+I en empirisk oppgave kommer drøfting normalt etter redegjørelse, og bringer sammen det som er sagt (bakgrunn, teori, metode og funn). Noen ganger kalles drøfting for diskusjon (fra det engelske ”discussion”). Se mer om diskusjon under [IMRaD-modellen](/skriving/imrad-modellen.html).
 
 På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slutning). Slutninger må være gyldige, det vil si at de må følge logisk av det de bygger på. I empiriske, kvantitative oppgaver snakker vi da om validitet.
 

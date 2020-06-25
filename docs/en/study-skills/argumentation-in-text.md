@@ -51,7 +51,7 @@ What types of **qualifiers** are used by the authors when presenting the claim? 
 
 ::: oppgave EXERCISE
 
-Gather the questions above and use them as a method to ask questions to the texts you are reading (the method is called [the Toulmin model on argumentation](https://folk.uib.no/st10938/toulmin-otherstext/argument.html)).  
+Gather the questions above and use them as a method to ask questions to the texts you are reading (the method is called the Toulmin model on argumentation).  
 Ask:
 
 1. What does the author **claim**?
@@ -66,7 +66,7 @@ After in-depth searches to find information for your thesis, use the above argum
 
 ## **Argumentative texts**
 
-Not all texts – or even all [scholarly texts](/en/study-skills/academic-genres/) – are argumentative. The primary purpose of an encyclopaedia article is to inform. It provides information about something rather than arguing in favour of a particular point of view.
+Not all texts – or even all [scholarly texts](/en/study-skills/academic-genres.html) – are argumentative. The primary purpose of an encyclopaedia article is to inform. It provides information about something rather than arguing in favour of a particular point of view.
 
 Many of the texts you read will be argumentative texts. They argue in favour of something. Often authors will state clearly what it is that they are arguing.
 
@@ -107,4 +107,4 @@ If we propose that one of the warrants in the analysis of the layers of time and
 
 Through analysing the text above you were able to detect _what_ the author aimed to express and pass on to you as a reader. You should also analyse _how_ the author disseminates the results. Your text analysis allows you to look at the wider context the author has developed the text within. How does the text relate to other texts?
 
-How does the author [disseminate](/en/sources-and-referencing/source-evaluation/assessing-relevance/text-analysis/) the results, and why is the text of relevance to your thesis?
+How does the author disseminate the results, and why is the text of relevance to your thesis?

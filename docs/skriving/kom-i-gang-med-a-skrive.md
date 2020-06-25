@@ -22,7 +22,7 @@ Som student drives du ofte fram av et "hvorfor-spørsmål". Dette er også utgan
 
 Det er viktigere å komme i gang med å skrive enn å ha full kontroll på produktet. Det finnes ulike skriveteknikker du kan bruke for å utvikle dine første ideer om et emne. Prøv for eksempel idémyldring, tankekart, tenketest og hurtigskriving som er beskrevet nedenfor. Når du begynner å skrive, vil du trolig oppleve at prosjektet blir mye klarere for deg.
 
-Begynn gjerne å skrive om det du syns er gøy. Skriv gjerne bare litt om gangen. Hvis du tar pauser FØR du har skrevet deg helt tom, er det lettere å ta opp igjen tråden. Presenter gjerne teksten din for andre, for eksempel i [skrivegrupper](/skriving/skriving-er-en-prosess/skrivegrupper/), og be om tilbakemeldinger selv om du ikke er helt fornøyd enda. Gode forfattere bruker tid på å revidere, og må ofte restrukturere tekstene sine flere ganger.
+Begynn gjerne å skrive om det du syns er gøy. Skriv gjerne bare litt om gangen. Hvis du tar pauser FØR du har skrevet deg helt tom, er det lettere å ta opp igjen tråden. Presenter gjerne teksten din for andre, for eksempel i skrivegrupper, og be om tilbakemeldinger selv om du ikke er helt fornøyd enda. Gode forfattere bruker tid på å revidere, og må ofte restrukturere tekstene sine flere ganger.
 
 Det er (minst) to strategier for å produsere tekst:
 
@@ -117,7 +117,7 @@ Arbeidet med å forme et problem eller spørsmål kan gjerne starte med idémyld
 Fortsett øvelsen til du har en problemformulering som virkelig *sitter*, og som lar seg besvare. 
 ::: 
 
-Se mer om problemformulering under [Oppbygning av en oppgave](/oppbygning-av-en-oppgave/)
+Se mer om problemformulering under [Oppbygning av en oppgave](/skriving/oppbygning-av-en-oppgave.html)
 
 
 ### Hold skriveprosessen i gang
