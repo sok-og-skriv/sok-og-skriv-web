@@ -314,6 +314,8 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 :::: 
 
 
+## Audiovisuelle kilder
+
 ### Bilder/kunst/fotografi
 
 Bilder tilgjengeliggjøres på mange ulike måter. Omtaler du et bilde i en bok, refererer du til boken, og henviser til bildet med sidetall. Eksemplene nedenfor er for frittstående bilder i arkiver eller utstillinger.
