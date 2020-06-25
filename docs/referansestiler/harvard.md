@@ -673,9 +673,9 @@ Furuseth og Kjøs, og Rashidi (2020) snakker om at unge sliter med...
 :::
 
 :::: ref
-Etternavn,N.N. (Årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato)._
+Etternavn,N.N. (Årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato).
 
-Furuseth,C.K, Kjøs, P. og Rashidi, K. (2020). Hva er lykke? [podcast] God bedring. Tilgjengelig fra:https://radio.nrk.no/podkast/god_bedring/l_e9bb24dd-4744-48e5-bb24-dd474488e524 (Hentet: 15. juni 2020)_.
+Furuseth,C.K, Kjøs, P. og Rashidi, K. (2020). Hva er lykke? [podcast] God bedring. Tilgjengelig fra: https://radio.nrk.no/podkast/god_bedring/ (Hentet: 15. juni 2020).
 
 ::: details I EndNote
 
