@@ -666,22 +666,22 @@ Ifølge Ole Olsen, professor i semantikk ved Universitetet i Bergen (personlig d
 
 ### Podcast
 
-:: teksten
+::: teksten
 (Etternavn, Årstall)
 
 Furuseth og Kjøs, og Rashidi (2020) snakker om at unge sliter med...
 :::
 
 :::: ref
-Etternavn,N.N. (Årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato)._
+Etternavn,N.N. (Årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato).
 
-Briscoe, R. (2009)_.
+Furuseth,C.K, Kjøs, P. og Rashidi, K. (2020). Hva er lykke? [podcast] God bedring. Tilgjengelig fra: https://radio.nrk.no/podkast/god_bedring/ (Hentet: 15. juni 2020).
 
 ::: details I EndNote
 
-Legges inn som: Electronic Article
+Legges inn som: Podcast
 
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Periodical Title, Type of Work (Antatt)
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title of Podcast, Title of show, Type, URL, Access Date, 
  
 ::: 
 :::: 

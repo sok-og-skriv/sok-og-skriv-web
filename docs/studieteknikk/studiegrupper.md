@@ -5,7 +5,7 @@ date: "2012-12-07"
 
 # Studiegrupper 
 
-Å diskutere tekster med andre er en god måte få et aktivt forhold til in0nholdet på. Du leser mer oppmerksomt, og husker bedre, hvis du etterpå skal diskutere det du har lest. Gjennom å diskutere øver du deg i å bruke begreper og i å argumentere. Ved universitetet brukes gjerne uttrykket kollokviegrupper, fra det latinske ordet for samtale, _colloquium_. 
+Å diskutere tekster med andre er en god måte få et aktivt forhold til innholdet på. Du leser mer oppmerksomt, og husker bedre, hvis du etterpå skal diskutere det du har lest. Gjennom å diskutere øver du deg i å bruke begreper og i å argumentere. Ved universitetet brukes gjerne uttrykket kollokviegrupper, fra det latinske ordet for samtale, _colloquium_. 
 
 For at gruppearbeidet skal være effektivt er det viktig å planlegge: Bli enige om hva dere skal diskutere og fordel ansvar på forhånd. Når deltakerne i en gruppe bytter på å legge fram tekster, får alle trening i å forklare og kommentere fagstoff muntlig. Selv om det også går an å diskutere "på sparket", vil en kollokviegruppe uten planlegging og forberedelse ofte henfalle til retningsløst "prat". Det går fint en gang eller to, men på sikt er det lite tilfredsstillende.
 
@@ -45,7 +45,7 @@ God tilbakemelding er konkret, konstruktiv og vennlig.
 
 ::: oppgave Når du mottar tilbakemelding:
 
-- Be om tilbakemeldinger som passer for det stadiet du er (idéfase, argumentasjon eller finpuss). 
+- Be om tilbakemeldinger som passer for det stadiet du er på (idéfase, argumentasjon eller finpuss). 
 - Vær åpen for kommentarene de andre medlemmene av skrivegruppa gir. Husk at de har lagt arbeid i å forstå teksten din.
 - Lytt, og skriv ned kommentarene i stedet for å argumentere eller forsvare deg. Selv om du ikke er enig i kommentarene, gjenspeiler de en leseropplevelse som du kan ta hensyn til i det videre arbeidet. Det nye utkastet blir ditt svar.
 - En tekst kan alltid bli bedre. Når teksten din blir lest av andre, får du et større perspektiv på muligheter i teksten din.

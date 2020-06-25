@@ -48,8 +48,7 @@ Sammendrag er et veldig godt verktøy for å sette seg inn i og forstå et stoff
 
 Når du skriver en oppgave, er det viktig å lese gjennom den flere ganger. Vær kritisk, og still de samme spørsmålene til din egen tekst som du stiller til andres: Hva vil jeg fram til her? Gjør jeg klart rede for problemstillingen? Besvarer jeg den i løpet av oppgaven?
 
-Akkurat som med andre tekster, er det lurt å legge den fra seg en stund for så å komme tilbake og se på den med friske øyne. Er noe uklart? Kommer det tydelig fram hva jeg vil undersøke, hva jeg vil demonstrere eller argumentere for, hva som er mine poenger og hva som er andres?
-
+Akkurat som med andre tekster, er det lurt å legge den fra seg en stund for så å komme tilbake og se på den med friske øyne. Er noe uklart? Kommer det tydelig fram hva jeg vil undersøke, hva jeg vil demonstrere eller argumentere for, hva som er mine poenger og hva som er andres? 
 ::: oppgave Les teksten din høyt for deg selv 
 Dette er en god måte å oppdage eventuelle problemer som dine lesere vil kunne støte på. Er setningene for lange? Er det mange gjentakelser? Det er lett å se seg blind på sin egen tekst, men du kan ofte _høre_ at noe kan bli bedre.
 :::

@@ -11,7 +11,7 @@ Når du leser en roman som underholdning, lever du deg inn i fortellingen, blir
 
 ## Hva er målet for lesingen?
 
-Hvis målet ditt er å skaffe deg generell kunnskap om et nytt fag eller tema, så leser du i bredden mer enn i dybden. Du begynner kanskje med å google, studere Wikipedia, orientere deg i referanselister eller siteringer og gå på biblioteket.
+Hvis målet ditt er å skaffe deg generell kunnskap om et nytt fag eller tema, så leser du i bredden mer enn i dybden. Du begynner kanskje med å google, studere _Wikipedia_, orientere deg i referanselister eller siteringer og gå på biblioteket.
 
 Hvis målet er å bruke det du leser for å skrive en oppgave, må du lese mer fokusert. Du ser etter stoff som har  direkte relevans for oppgavens tema og problemstilling. Du spør: Kan jeg bruke det jeg leser nå, til å skrive denne oppgaven? Du leser i dybden med en bevisst hensikt, og går i aktiv dialog med det du leser.
 
@@ -22,7 +22,7 @@ Det er uansett viktig å forholde seg aktivt til tekstene du leser. Å studere d
 Ikke alle tekster er like gode, og ikke alle tekster er relevante for deg. Mer om dette finner du under [kildevurdering](/kildebruk-og-referanser/kildevurdering/ "kildevurdering"). En viktig del av studiene dreier seg om å øve seg i å forholde seg _kritisk_ og _selvstendig,_ ikke bare til det teksten handler om, men også til teksten selv. Når du leser pensum, kan det være nyttig å spørre seg: Hvorfor har vi denne teksten på pensum? Hva er det som er viktig med denne teksten, siden den er havnet på pensumlisten? Hva er forbindelsen mellom denne teksten, emnebeskrivelsen og resten av pensumlitteraturen?
 
 ::: tip Varier lesingen 
-Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst, og lesere er forskjellige. Men generelle råd fins: Øv deg i å bli en aktiv leser ved å variere måten du leser på. En anbefalt fremgangsmåte er å lese samme tekst i flere omganger, på ulike måter.
+Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst, og lesere er forskjellige. Men generelle råd fins: Øv deg i å bli en aktiv leser ved å variere måten du leser på. En anbefalt fremgangsmåte er å lese samme tekst i flere omganger, på ulike måter. 
 ::: 
 
 ## Å lese en tekst i flere omganger
@@ -33,7 +33,7 @@ Det fins ingen fasit for hvordan en får best mulig utbytte av en tekst, og lese
 
 Hvis det er noe du ikke forstår: Les videre. Hvis du ikke synes du forstår noe som helst: Les likevel. Du kommer tilbake til det både én og to ganger.
 
-- **_Les teksten grundig_**. Denne gangen leser du for å forstå mest mulig. Fordyp deg i teksten. Bruk penn og papir eller elektronisk notatverktøy, og ta notater mens du leser. I løpet av semesteret kan du bygge deg opp et "notat- eller "pensumarkiv". Et slikt arkiv er gull verdt når du skal repetere før eksamen eller skrive oppgaver. 
+- **_Les teksten grundig_**. Denne gangen leser du for å forstå mest mulig. Fordyp deg i teksten. Bruk penn og papir eller elektronisk notatverktøy, og ta notater mens du leser. I løpet av semesteret kan du bygge deg opp et «notat»- eller «pensumarkiv». Et slikt arkiv er gull verdt når du skal repetere før eksamen eller skrive oppgaver. 
 
 Når du har orientert deg i teksten, lest raskt gjennom, og deretter jobbet grundig med å lese og notere, kan du legge teksten til side. Når du så vender tilbake til teksten, for eksempel uka etter, kan du lese gjennom den **raskt**. Antakelig vil oppfatte teksten litt annerledes nå. 
 
@@ -61,6 +61,8 @@ Du leser et avsnitt der det står:
 «Syden kan altså klart sies å være et inversjonsritual i Gluckmanns forstand og en heterotop i Foucaults forstand … » (Runar Døving, «Stedet Syden», _Norsk Antropologisk Tidsskrift_ 1/2011, s. 25).
 :::
 
-Ordet «altså» tyder på at det forut for dette avsnittet er sagt noe om både «inversjonsritual i Gluckmanns forstand» og «heterotop i Foucaults forstand» - og kanskje det som er sagt er nok for å forstå hva det snakkes om i dette avsnittet. Likevel: Hvem er Gluckmann og hvem er Foucault? Det er ikke sikkert det er sagt så mye om dem. Kanskje de er berømte forskere, som det hører med til fagkompetansen å kjenne til? Og hva betyr "inversjonsritual" og "heterotop"? Kanskje forfatteren forklarer det greit, men sannsynligheten er stor for at det ikke er bortkastet å søke hjelp også andre steder.
+Ordet «altså» tyder på at det forut for dette avsnittet er sagt noe om både «inversjonsritual i Gluckmanns forstand» og «heterotop i Foucaults forstand» - og kanskje det som er sagt er nok for å forstå hva det snakkes om i dette avsnittet. Likevel: Hvem er Gluckmann og hvem er Foucault? Det er ikke sikkert det er sagt så mye om dem. Kanskje de er berømte forskere, som det hører med til fagkompetansen å kjenne til? Og hva betyr «inversjonsritual» og «heterotop»? Kanskje forfatteren forklarer det greit, men sannsynligheten er stor for at det ikke er bortkastet å søke hjelp også andre steder.
 
-NOTIS: denne siden er under bearbeiding. Siden trenger en avslutning. Eksemplet kan kanskje erstattes av noe annet?
+Det vi leser i akademisk sammenheng skal altså brukes til noe, og derfor må vi lese med en annen oppmerksomhet enn når vi leser for underholdningens skyld. Å være en god leser innebærer også at du blir bedre til å skrive. Når du leser andres akademiske tekster, lærer du mye av å se på struktur, setningsoppbygging og argumentasjon. Det er nærmest umulig å skrive en akademisk tekst om du aldri har lest en!
+
+
