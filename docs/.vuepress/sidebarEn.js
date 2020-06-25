@@ -17,8 +17,8 @@ module.exports = {
     '',
     'getting-started',
     'structure',
-    'organising-a-thesis',
     'argue-explain-discuss',
+    'organising-a-thesis',
     'the-imrad-format',
     'language-and-style',
     'formal-requirements'
