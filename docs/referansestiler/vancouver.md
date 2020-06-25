@@ -56,14 +56,14 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ::: teksten
 Tekst (nummer, eventuelt sidetall)
-EKSEMPEL TRENGS!
 
-... 
+...disse sykdommene er vanlige (2, s.53) 
 :::
 
 :::: ref
-Nummer. 
-... 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider. [hentet dato]. Tilgjengelig fra: http://...
+
+2\. Bick J. 101 thing you need to know about Internet law [Internett]. New York: Three Rivers Press; 2000 [hentet 30. mars 2004]. Tilgjengelig fra: http://site.ebrary.com/lib/ntnu/
 
 ::: details I EndNote 
 Legges inn som "Electronic Book".
@@ -89,7 +89,7 @@ Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, red. Boktit
 ::: details I EndNote
 
 Legges inn som "Edited Book".
-Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition (hvis aktuelt).
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Pages, Edition (hvis aktuelt).
 :::
 ::::
 
@@ -108,7 +108,7 @@ Nummer. Redaktør AA, Redaktør BB, red. Boktittel. Utgivelsessted: Utgiver; år
 3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 ::: details I EndNote
 Legges inn som "Edited Book".
-Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Edition hvis aktuelt.
+Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Pages, Edition hvis aktuelt.
 :::
 ::::
 
@@ -160,6 +160,8 @@ Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Ut
 
 ::: details I EndNote 
 
+Legges inn som "Web Page".
+
 Organisasjon: 
 Fyll ut feltene: Author (med et komma etter organisasjonsnavnet/institusjonsnavnet), Year, Title, Place Published, Publisher, Last Update Date, Type of Medium, Year Cited, Date Cited, URL.
 
@@ -177,7 +179,7 @@ Fyll ut feltene: Year, Title, Place Published, Publisher, Last Update Date, Type
 ::: teksten
 Tekst (nummer)
 
-Eksempeltekst (7).
+De fleste reisende bruker bil (7) når de skal...
 :::
 
 :::: ref
@@ -230,7 +232,7 @@ Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utva
 :::
 
 :::: ref
-NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
+Nummer. NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
 9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
 
@@ -246,13 +248,13 @@ Fyll ut feltene: Author (legg inn NOU år: nummer som forfatter med et komma til
 ::: teksten 
 Tekst (nummer)
 
-setning (10).
+...i Regjeringens klimastrategi (10) legges det opp til at...
 ::: 
 
 :::: ref 
-Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
+Nummer. Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
 
-Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
+10\. Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
 
 ::: details I EndNote 
 
@@ -262,7 +264,7 @@ Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med e
 :::
 ::::
 
-* Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld.  
+* Merknad: Fram til oktober 2009 het det Stortingsmeldinger, forkortet St.meld., Bruk betegnelsen St.meld. på meldinger som er lagt fram før oktober 2009, f.eks. St.meld. nr. 30 (2008-2009).
 
 ## Annet
 
@@ -271,10 +273,14 @@ Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med e
 ::: teksten 
 Tekst (nummer)
 
-Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
+...når bygningsmassen blir gammel gjelder andre regler (11)
 :::
 
 :::: ref 
+
+Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
+
+11\. Holm A. Nye standarder i gamle bygg. Oslo: By- og regionforskningsinstituttet NIBR; 2016. NIBR-rapport 2016:14.
 
 ::: details I EndNote 
 
@@ -304,7 +310,15 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstit
 
 ::: details I EndNote 
 
-tekst 
+Trykt tidsskrift: Legges inn som "Journal Article". 
+
+Elektronisk tidsskrift: Legges inn som "Electronic Article" eller "Journal Article".
+
+NB! I feltet for Year, skriv "in press" istedet for årstall. 
+
+Trykt tidsskrift: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages.
+
+Elektronisk tidsskrift: Fyll ut feltene Author, Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages, DOI (eller URL dersom DOI mangler).
 :::
 ::::
 
@@ -314,7 +328,7 @@ tekst
 ::: teksten 
 Tekst (nummer)
 
-i en setning (11)
+...som foreslått av Miller et al. (11) bør vaksinen...
 ::: 
 
 :::: ref 
@@ -323,11 +337,19 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn 
 
 11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
 
-11. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
+12. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
 
 ::: details I EndNote 
 
-tekst 
+Trykt tidsskrift: Legges inn som "Journal Article". 
+
+Elektronisk tidsskrift: Legges inn som "Electronic Article" eller "Journal Article".
+
+NB! I feltet for Year, skriv "in press" istedet for årstall. 
+
+Trykt tidsskrift: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages.
+
+Elektronisk tidsskrift: Fyll ut feltene Author, Year (skriv in press), Title, Journal, Volume, Issue (hvis aktuelt), Pages, DOI (eller URL dersom DOI mangler). 
 :::
 ::::
 
@@ -350,8 +372,9 @@ Nummer. Organisasjon. Standard nr. Tittel på standard [Internett]. Sted: Utgive
 
 ::: details I EndNote 
 
-Legges inn som "Web Page".
-Fyll ut feltene: Author (med et komma etter organisasjonsnavnet), Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. 
+Legges inn som "Report".
+
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjonsnavnet), Year, Title, Report Number, URL.
 :::
 ::::
 
@@ -419,7 +442,9 @@ Tekst (nummer)
 
 :::: ref
 
-Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
+Med forfatter:
+
+Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel på oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
 
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
@@ -440,21 +465,26 @@ Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Page
 :::
 ::::
 
+6\. Johnson A & Jackson, B. Fertilization age. I: Dorland's illustrated medical dictionary. 32. utg. Bind 3. Philadelphia: Elsevier; 2012. ; s. 675-676.
 
 Uten forfatter:
 
 Nummer. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. Innførselstittel; s. xxx-x. 
 
-7. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
-
-::: 
-
-:::: ref
+8\. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
+ 
 ::: details I EndNote 
 
-tekst 
+Elektronisk oppslagsverk: Legges inn som "Web Page".
+
+Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
+
+Trykt oppslagsverk: Legges inn som "Encyclopedia".
+
+Fyll ut feltene: Year, Title, Dictionary Title, Volume, Place Published, Publisher, Edition - hvis aktuelt, Term, Pages.
 :::
-::::
+
+
 
 ### Kliniske oppslagsverk (Point of care-verktøy)  
 
@@ -463,6 +493,8 @@ tekst
 Tekst (nummer)
 
 ... tekst (15).
+
+...lungebetennelse hos innbyggere i Oslo bør behandles med polyvalente vaksiner (15)... 
 ::: 
 
 :::: ref 
@@ -474,7 +506,9 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klini
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Online database" 
+
+Fyll ut feltene: Author , Year, Title, Name of Database, Place published, Database provider, URL, Date published, Date accessed
 ::: 
 :::: 
 
@@ -496,7 +530,10 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel. Glo
 5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
 
 ::: details I EndNote 
-... 
+
+Legges inn som "dataset" 
+
+Fyll ut feltene: Investigators, Year, Title, Name of Database, Place published, URL, Distributor, Version. 
 :::
 :::: 
 
@@ -517,12 +554,14 @@ Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årsta
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Thesis".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, University, Thesis Type.
 :::
 ::::
 
 
-Blogginnlegg? Se VIKO https://www.ntnu.no/viko/vancouver-eksempler 
+Blogginnlegg? Se [VIKO](https://www.ntnu.no/viko/vancouver-eksempler)
 
 
 ## Sitater 

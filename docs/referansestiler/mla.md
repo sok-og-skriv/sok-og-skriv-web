@@ -5,17 +5,17 @@ date: "2012-09-18"
 
 # MLA
 
-MLA står for Modern Language Association. Referansestilen er en **forfatter-sidetallstil** som er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
+MLA står for Modern Language Association. Referansestilen legger vekt på forfatter og verktittel, og er vanlig innenfor språk, litteratur og områdestudier. Framstillingen her er basert på den åttende utgaven av "MLA Formatting and Style Guide" og [The MLA Style Center](https://style.mla.org/works-cited-a-quick-guide/). I denne versjonen er det gjort en del forenklinger sammenlignet med tidligere. I stedet for detaljerte instrukser, beskriver stilen et sett av grunnelementer. Med utgangspunkt i disse elementene kan du tilpasse referansene til ulike nyere kildeformater. 
 
 ## Sitering i teksten 
 
-Hvis forfatternavnet brukes i teksten oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: 
+Hvis forfatternavnet er del av setningen oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: 
 > "Barrow fant at ... (137-141)". 
 
-Hvis forfatternavnet ikke er del av setningen, skal det stå inne i parentesen: 
+Hvis forfatternavnet ikke inngår i setningen, skal det stå inne i parentesen: 
 > "... (Barrow 137-141)". 
 
-Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort), eller en forkortet tittel, før sidetallet. 
+Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis den er kort) eller en forkortet tittel før sidetallet. 
 > Eksempel: (Faingold, _Child language_ 95-97). 
 
 Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik:
@@ -26,13 +26,7 @@ Sitater må være eksakt gjengitt med kildehenvisning. Sitater som er kortere en
 
 ### Verk med flere forfattere 
 
-Hvis en kilde har to eller tre forfattere, må du skrive alle navnene hver gang  
-referansen forekommer i teksten:
-
-> ... (Dewdney og Ross 322).  
-> Waugh, Greenberg og Olander fant ... (227)
-
-Bruk samme rekkefølge som på tittelbladet. For kilder med mer enn tre forfattere brukes førsteforfatters etternavn fulgt av et al. eller mfl. og eventuelt sidetall. Det samme gjelder i referanselisten. 
+Bruk samme rekkefølge som på tittelbladet. For tre eller flere forfattere brukes førsteforfatters etternavn fulgt av et al. eller mfl. og eventuelt sidetall. Det samme gjelder i referanselisten. 
 
 > Smith et al. hevder at ... (42)
 > ... (Smith mfl. 42)
@@ -41,19 +35,26 @@ Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Forn
 
 ## Elementer i en referanse 
 
+# Elementer i referanse på referanselisten
+ 
 Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. **Legg merke til tegnsettingen:**
-
+ 
 + Forfatter.
-+ Kildens tittel.
-+ Beholderens tittel,
++ "Kildens tittel".
++ _Kildens beholder_,
 + Andre bidragsytere,
-+ Versjon,
++ Versjon/Utgave,
 + Nummer,
 + Utgiver,
 + Utgivelsesdato,
 + Plassering.
-
-En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. Dette oppsettet brukes på alle typer kilder; se eksempler nedenfor. 
+ 
+::: ref
+Forfatter. "Kildens tittel". _Kildens beholder_, Andre bidragsytere, Versjon/Utgave,  Nummer, Utgiver, Utgivelsesdato, Plassering.
+:::
+ 
+En "beholder" er der du finner kilden, for eksempel en database eller en antologi. Hvis du viser til en novelle publisert i en antologi, er novellen kilden og antologien beholderen. "Plassering" viser til plassering i verket, for eksempel sidespenn. **Dette oppsettet brukes på alle typer kilder**. Se eksempler nedenfor. For eksempler som ikke er listet opp nedenfor, følg listen over grunnelementene og legg inn riktig informasjon.
+ 
 
 ## Referanselisten
 
@@ -85,18 +86,17 @@ blabla
 
 ### E-bok
 
-I [MLA] (https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Legg inn informasjon om dette foran utgiver. 
+I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Informasjon om format leggs inn utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for "e-bok". 
 
 ::: teksten
-Forfatter (evt. sidetall)
-
+Joshua Schimel's _Writing Science_ tar for seg vitenskapelig skriving som historiefortelling med elementer som konflikt, dramatisk oppbygning og forløsning. 
 
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel_. Utgiver, årstall. MER
+Etternavn, Fornavn. _Tittel_, versjon. Utgiver, årstall. 
 
-Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_. Oxford University Press, 2012. 
+Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded_, e-bok. Oxford UP, 2012. 
 
 ::: details I EndNote
 
@@ -129,9 +129,9 @@ blabla
 ### Oversatt bok
 
 :::: ref
-Etternavn, Fornavn.  _Boktittel_. Overs. Fornavn Etternavn. Sted: Utgiver, årstall. Overs. av _Originaltittel_, Sted: Forlag, årstall.
+Etternavn, Fornavn.  _Boktittel_. Oversetter(e) Fornavn Etternavn, Utgiver, årstall. 
 
-Vargas Llosa, Mario. _Kelterens drøm._ Overs. Kari Risvik og Kjell Risvik. Oslo: Gyldendal, 2012. Overs. av _El sueño del celta_, Madrid: Alfaguara, 2010.
+Vargas Llosa, Mario. _Kelterens drøm._ Oversettere Kari Risvik og Kjell Risvik, Gyldendal, 2012. 
 
 ::: details I EndNote
 
@@ -143,9 +143,9 @@ blabla
 ### Avhandling - doktor/master
 
 :::: ref
-Etternavn, fornavn. _Tittel_. Akademisk avhandling. Institutt/fakultet, Universitet, årstall.
+Etternavn, fornavn. _Tittel_. Akademisk avhandling, Institutt/fakultet, Universitet, årstall.
 
-Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio._ Akademisk avhandling. Nordisk institutt, Universitetet i Bergen, 2001.
+Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio._ Akademisk avhandling, Nordisk institutt, Universitetet i Bergen, 2001.
 
 ::: details I EndNote
 
@@ -153,21 +153,14 @@ blabla
 ::: 
 :::: 
 
-### Artikkel i tidsskrift
+### Artikkel i tidsskrift (trykt/elektronisk)
 
-REDIGERE, nytt eksempel: Issues of scholarly journals are now identified with, for instance, “vol. 64, no. 1” rather than “64.1” (39–40).
-If an issue of a scholarly journal is dated with a month or season, the month or season is now always cited along with the year (45).
-
-::: teksten
-Forfatter tekst (eventuelt sidetall)
-
-Syse undersøker om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
-:::
+Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI hvis dette er tilgjengelig. 
 
 :::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidespenn. Eventuelt DOI-nummer
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI-nummer.
 
-Syse, Henrik. "Religious ethics, Christianity, and war." _Etikk i praksis_ 3. årgang. Nr. 1 (2009): 49-58.
+Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, www.idunn.no.
 
 ::: details I EndNote
 
@@ -176,18 +169,14 @@ blabla
 :::: 
 
 
-### Artikkel i nettavis SE PÅ
+### Artikkel i avis (trykt/elektronisk) 
 
-::: teksten
-Forfatter tekst "Artikkel"
-
-Skålid skriver i "Barn lærer å lese i mange aldre" at barns forforståelse av tekst påvirker hvordan de forstår teksten de skal lese.
-:::
+Lesedato er frivillig. 
 
 :::: ref
-Etternavn, fornavn. "Tittel på artikkel". _Tittel på nettavis_ Dato. Internett. Lesedato.
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på avis_, utgivelsesdato, sidetall eller URL. 
 
-Skålid, Jon Olav. "Barn lærer å lese i mange aldre." _forskning.no_. 08.januar 2013. Internett.  <[https://www.forskning.no/artikler/2012/juni/325176](https://www.forskning.no/artikler/2012/juni/325176)\>10.januar 2013.
+Guðmundsson, Halldór. "En engel i Reykholt". _Klassekampen_, 24. juni 2020, https://klassekampen.no/utgave/2020-06-24/en-engel-i-reykholt 
 
 ::: details I EndNote
 
@@ -196,18 +185,22 @@ blabla
 :::: 
 
 
-### Artikkel i trykt avis SE PÅ
+
+### Nettside fra organisasjon
+
+Nettsider som forandrer seg bør ha med lesedato. 
 
 ::: teksten
-Tekst forfatter (eventuelt sidetall)
+The Online Writing Lab (OWL) fra Purdue University inneholder stort sett alt man trenger for å skrive akademiske oppgaver på engelsk (Purdue Online Writing Lab).
 
-I debatten om bruk av hijab peker Gudbrandsen på at en må se hvem mennesket er som faktisk bærer hijab (3).
 :::
 
-:::: ref
-Etternavn, fornavn. "Tittel på artikkel". _Avistittel_ Dato.
 
-Gudbrandsen, Frøy. "Det er en kvinne inni". _Bergens Tidende_ 9.januar 2013.
+:::: ref
+
+"Tittel på nettside". Organisasjon eller nettsted. URL, lesedato. 
+
+"Purdue Online Writing Lab". Purdue University. https://owl.purdue.edu/owl/purdue_owl.html, lest 24.06.2020
 
 ::: details I EndNote
 
@@ -216,38 +209,21 @@ blabla
 :::: 
 
 
-### Nettside fra organisasjon SE PÅ
+### Nettside med forfatter 
 
-::: teksten
-"Artikkel"
-
-I artikkelen "Nær 8000 raskere tilbake", viser NAV sine tall at arbeidsledigheten i Norge synker.
-:::
-
-:::: ref
-"Artikkeltittel". _Tittel på nettstedet._ Nettstedets navn/Organisasjon. År. Oppdatert dato.\<URL\> Lesedato.  
-
-"Nær 8000 raskere tilbake" _NAV_. 2007. 31. desember 2007. <[https://www.nav.no/805371523.cms](https://www.nav.no/805371523.cms)\> 12.februar 2013.
-
-::: details I EndNote
-
-blabla 
-::: 
-:::: 
-
-
-### Nettside med forfatter SE PÅ
+Nettsider som forandrer seg bør ha med lesedato.
 
 ::: teksten
 Forfatter (nettsted)
 
-Thoring (_Framtiden i våre hender_) skriver at økologisk jordbruk er det mest bærekraftige alternativet både for i-land og u-land.
+
+
 :::
 
 :::: ref
-Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ Publiseringsdato. År. Red. hvis det oppgis. Organisasjon. Internett.\<URL\> Lesedato.
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ URL. Lesedato.
 
-Thoring, Liv. "Økologisk best i India". _Framtiden.no. _07.01.2013. Framtiden i våre hender. Internett. <[https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html](https://www.framtiden.no/201301075960/aktuelt/mat/okologisk-best-i-india.html)\>10. januar 2013.
+
 
 ::: details I EndNote
 
@@ -256,18 +232,18 @@ blabla
 :::: 
 
 
-### Artikkel i elektronisk leksikon (uten forfatter) SE PÅ
+### Artikkel i elektronisk leksikon (uten forfatter)
 
 ::: teksten
 Tittel på elektronisk leksikon
 
-Encyclopaedia Britannica definerer feminisme som "the belief in the social, economic, and political equality of the sexes".
+Hermetisk diktning brukes generelt om poesi som bruker okkult symbolisme (hermetisk diktning).
 :::
 
 :::: ref
-"Oppslagsord". _Tittel på oppslagsverk._ Organisasjon, år. Internett. Lesedato.
+"Oppslagsord". _Tittel på oppslagsverk._ år. URL. Lesedato.
 
-”Feminism”. _Encyclopædia Britannica Online_. Encyclopædia Britannica Online Inc., 2013. Internett. 10. januar 2013.
+"Hermetisk diktning". _ Store norske leksikon._ 9. mai 2019. https://snl.no/hermetisk_diktning. Lest 24 juni 2020. 
 
 ::: details I EndNote
 
@@ -276,10 +252,10 @@ blabla
 :::: 
 
 
-### Artikkel i trykt leksikon (med forfatter) SE PÅ
+### Artikkel i trykt leksikon (med forfatter)
 
 ::: teksten
-Forfatter (eventuelt sidetall)
+(Forfatter eventuelt sidetall)
 
 Tveite ser på historikeren Seips kritikk av Arbeiderpartiet der han hevder at etterkrigstidens Norge har blitt en ettpartistat (280).
 :::
@@ -320,15 +296,15 @@ blabla
 ### Meldinger og proposisjoner til Stortinget
 
 ::: teksten
-Departement _Tittel på melding_*
+(Departement _Tittel på melding_)
 
-NYERE eksempel her. Arbeidsdepartementet redegjør for dette i Stortingsmeldingen _Arbeidsinnvandring._
-:::
+ De nordiske landene er en sterk forskningsregion med tillit og åpenhet ... (Finansdepartementet, _Nordisk samarbeid_)
+ :::
 
 :::: ref
 Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
 
-Arbeidsdepartementet. _Arbeidsinnvandring_ St.meld. nr 18 (2007-2008). Oslo: Arbeidsdepartementet, 2008.
+Finansdepartementet. _Nordisk samarbeid_ St.meld. nr 23 (2019-2020). Oslo: Finansdepartementet, 2020.
 
 ::: details I EndNote
 

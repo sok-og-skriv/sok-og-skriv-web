@@ -14,7 +14,7 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 
 - I referanselisten presenteres referansen i fullstendig form.
 - Referanselisten skal skrives med forfatterne alfabetisk ordnet.
-- Ved flere medforfattere skal arbeidet alfabetiseres ut fra førsteforfatter.
+- Ved flere medforfattere skal arbeidet alfabetiseres ut fra førsteforfatter. Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
 - Når du har flere verk av samme forfatter etter hverandre, erstattes forfatterens navn med en lang tankestrek —.
 - Når du har flere verk av samme forfatter skal de ordnes etter publikasjonsår, i stigende rekkefølge (det eldste først).
 - Har en forfatter utgitt flere arbeider i samme år ordnes de alfabetisk, og merkes med a, b, c etc. etter årstall både i teksten og i referanselisten.
@@ -29,7 +29,6 @@ Finn ut om hvordan du siterer og [henviser i teksten](#henvisninger), lager refe
 (Forfatter årstall, evt. sidetall) eller Forfatter (årstall, sidetall)
 
 "Å skrive med stil er å drive med noe i retning av høytskriving", ifølge Johansen (2003, 43). 
-
 :::
 
 :::: ref
@@ -54,7 +53,6 @@ Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/ki
 (Forfatter årstall, evt. sidetall)
 
 God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (Schimel 2012) 
-
 :::
 
 :::: ref
@@ -126,7 +124,7 @@ blabla
 
 Etternavn, Fornavn. Årstall. «Kapitteltittel.» I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag. 
 
-Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm.
+Moi, Toril. 2019. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15–23. Oslo: Cappelen Damm.
 
 ::: details I EndNote
 
@@ -199,7 +197,7 @@ Artikkel fra trykt tidsskrift: Legges inn som "Journal article".
 
 Artikkel hentet fra internett: Legges inn som "Electronic article".
 
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages, Doi (eller evt URL hvis hentet fra internett, men DOI er å foretrekke). 
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages, DOI (eller evt URL hvis hentet fra internett, men DOI er å foretrekke). 
 ::: 
 :::: 
 
@@ -221,17 +219,15 @@ Noen artikler oppgir ikke forfatter/journalist. Da setter du i stedet avisens na
 ::: teksten
 (Forfatter årstall, eventuelt eventuelt sidetall)
 
-… seks gonger så mange som i 2000 (Todal, 2019).
+… seks gonger så mange som i 2000 (Todal 2019).
 :::
 
 :::: ref
 Etternavn, Fornavn. Årstall. «Artikkeltittel.» _Avistittel_, dato. URL.
 
-Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 2019. https://www.dagogtid.no/samfunn/lokkemenn-i-norske-hamner-6.3.11560.aa1e742add.
+Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21. juni, 2019. https://www.dagogtid.no/samfunn/lokkemenn-i-norske-hamner-6.3.11560.aa1e742add.
 
-Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 2019, Atekst.
-
-Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21.juni, 2019, 4-5.
+Todal, Per Anders. 2019. «Lokkemenn i norske hamner.» _Dag og Tid_, 21. juni, 2019. Atekst.
 
 ::: details I EndNote
 
@@ -258,7 +254,7 @@ De politiske partiene i Norge mottok i 2017 nærmere en halv milliard kroner i o
 :::: ref
 Tittel på nettsted. Årstall. «Artikkeltittel.» Oppdatert dato. URL/DOI.
 
-Statistisk sentralbyrå. 2018. «Finansiering av politiske partier.» Oppdatert 13.september, 2018. https://www.ssb.no/valg/statistikker/partifin.
+Statistisk sentralbyrå. 2018. «Finansiering av politiske partier.» Oppdatert 13. september, 2018. https://www.ssb.no/valg/statistikker/partifin.
 
 ::: details I EndNote
 
@@ -280,7 +276,7 @@ I gjennomsnitt har utdanningsnivået over tid blitt langt høyere for kvinner en
 :::: ref
 Etternavn, Fornavn. Årstall. «Artikkeltittel.» Nettsted. URL/DOI.
 
-Grindheim, Jan Erik. 2019. «Hvorfor stemmer menn blått og kvinner rødt?,» Civita_._ [https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt](https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt).
+Grindheim, Jan Erik. 2019. «Hvorfor stemmer menn blått og kvinner rødt?.» Civita. [https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt](https://www.civita.no/2019/07/25/hvorfor-stemmer-menn-blatt-og-kvinner-rodt).
 
 ::: details I EndNote
 
@@ -299,13 +295,13 @@ Generelle leksika og oppslagsverk som ordbøker blir ofte nevnt i en parentes i 
 ::: teksten
 (_Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato)
 
-… og det er påvist at Locke arbeidet med toleranseproblemet i en årrekke (_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19.august, 2019).
+… og det er påvist at Locke arbeidet med toleranseproblemet i en årrekke (_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august, 2019).
 :::
 
 :::: ref
 _Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato, URL/DOI.
 
-_The Internet Encyclopedia of Philosophy,_ s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
+_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
 
 ::: details I EndNote
 
@@ -352,9 +348,9 @@ Billedtekst, for eksempel: Passepike i Bergen i mellomkrigstiden: _St. Hans Str�
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel._ Årstall. Medium. Inventarnummer. Eieren av bildet. URL.
+Etternavn, Fornavn. _Tittel_. Årstall. Medium. Inventarnummer. Eieren av bildet. URL.
 
-Olsen, Olai Schumann. _St. Hans Strædet. _Ca. 1920.Foto. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434.
+Olsen, Olai Schumann. _St. Hans Strædet_. Ca. 1920. Foto. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434.
 
 ::: details I EndNote
 
@@ -372,9 +368,9 @@ Billedtekst, for eksempel: Edvard Munchs maleri «Skrik» fra 1893. Gjengitt med
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel._ Årstall. Medium. Størrelse. Inventarnummer. Eieren av kunstverket. Evt. fotografert av Fornavn Etternavn. Evt. dato for nedlasting og URL.
+Etternavn, Fornavn. _Tittel_. Årstall. Medium. Størrelse. Inventarnummer. Eieren av kunstverket. Evt. fotografert av Fornavn Etternavn. Evt. dato for nedlasting og URL.
 
-Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.00939. Nasjonalmuseet for kunst, arkitektur og design. 2. Februar 2013. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939).
+Munch, Edvard. _Skrik._ 1893.Tempera og fettstift på papp. 91 x 73,5 cm. NG.M.00939. Nasjonalmuseet for kunst, arkitektur og design. 2. februar 2013. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939).
 
 ::: details I EndNote
 

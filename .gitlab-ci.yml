@@ -1,17 +1,49 @@
-image: node:latest
-
+image: node:12
+stages:
+- pages
+- radisson-test
+- radisson
 pages:
+  stage: pages
   cache:
     paths:
     - node_modules/
-
   script:
-  - npm install
+  - npm ci
   #- npm run export
   #- mv site.pdf public sokogskriv.pdf
   - npm run build
   artifacts:
     paths:
     - public
-  only:
+  tags:
+  - R7
+  
+radisson-test:
+  image: oyvindlg/gitlab-ci-library:node
+  stage: radisson-test
+  before_script:
+  - eval $(ssh-agent -s)
+  - 'echo "$WORKER_RSA" | base64 --decode | ssh-add -'
+  script:
+  - rsync -r --delete -e "ssh -o StrictHostKeyChecking=no" ./public/ "$SOK_USER"@"$SOK_SERVER":"$SOK_TEST_PATH"
+  except: 
   - master
+  tags:
+  - R7
+ #  only: 
+#  - master # bytt med radisson ved prod
+
+radisson:
+  image: oyvindlg/gitlab-ci-library:node
+  stage: radisson
+  before_script:
+  - eval $(ssh-agent -s)
+  - 'echo "$WORKER_RSA" | base64 --decode | ssh-add -'
+  script:
+  - rsync -r --delete -e "ssh -o StrictHostKeyChecking=no" ./public/ "$SOK_USER"@"$SOK_SERVER":"$SOK_PATH"
+  tags:
+  - R7
+  only:
+   - master
+ 

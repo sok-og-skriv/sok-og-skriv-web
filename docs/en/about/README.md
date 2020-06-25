@@ -9,7 +9,7 @@ Search & Write (Søk & Skriv) is designed for all students who want to improve t
 
 Search & Write is a collaboration between the libraries at Western Norway University of Applied Sciences, the University of Bergen and University of Oslo, and Academic Writing at the Department of Philosophy, University of Bergen. The Norwegian School of Economics (NHH) was formerly a partner in the project. 
 
-The first version of Search & Write was published in 2009. The webpages have since been through two major revisions. The revision in 2012-14 was partly funded by the Norwegian National Library.
+The first version of Search & Write was published in 2007. The webpages have since been through two major revisions. The revision in 2012-13 was partly funded by the Norwegian National Library.
 
 
 # Copyright for Search & Write

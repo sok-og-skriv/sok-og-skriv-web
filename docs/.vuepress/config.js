@@ -117,7 +117,7 @@ module.exports = {
     ],
     'vuepress-plugin-export',
     'vuepress-plugin-glossary',
-    /* 'alias', */
+    ['@vuepress/html-redirect', { duration: 0 }],
     ['@vuepress/back-to-top', true],
     ['@vuepress/last-updated', {
       transformer:
