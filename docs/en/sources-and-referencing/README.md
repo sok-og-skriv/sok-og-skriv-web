@@ -4,9 +4,10 @@ date: "2012-03-16"
 prev: "../writing/formal-requirements"
 ---
 
-# Sources and referencing
+# Sources and referencing  
 
-All research is based on sources. The relevance of different types of sources varies from subject to subject. Examples of sources include books, official reports, journal articles, images, maps, music, interviews, doctoral theses, newspapers and online documents.
+All research uses the work of others as its starting point – what we call ‘sources’. Good academic work is characterized by a conscious use of relevant, scientific sources and builds further on existing knowledge. Without referring to existing research, knowledge and disciplinary information, your assignment will lack substance. Any references you use will help to lay the foundations for the assessment of your text.
+
 
 <Figure
   src="/images/illustrasjoner_kildehenvisning_500x450.png"
@@ -15,8 +16,16 @@ All research is based on sources. The relevance of different types of sources va
   type="right"
 />
 
-The theme of your thesis, or more specifically your research question, is the starting point for selecting what sources to use. When you have sought and found relevant sources for your writing, you must ensure that they are reliable and live up to good academic standards.
+In order to produce a successful assignment, it is important that you are aware of the sources you are using. Making use of central, scientific sources which are relevant for your assignment is a crucial part of the writing process. The best sources to use will vary from subject to subject, and from assignment to assignment. Relevant sources can be found everywhere: books, articles, websites, news articles and maps. Use your problem statement to familiarize yourself with relevant, current sources. Ask your tutors, fellow students and researchers within your field to help you to find sources which are appropriate for your discipline.
 
-Evaluate the sources for your thesis carefully. Take a stand on the sources you have chosen and explain why you rely on these particular sources.
+***Why refer to the work of others?***
+To help your reader easily locate your sources, you should use in-text-citations throughout your text and collect all the references you have cited in a list at the end. The reason for this is both to make it possible for a reader to check the sources you are using, and so they can read more about your topic if they wish.
 
-To enable the reader to retrieve your sources, use in-text citations. All sources that have been cited in the text are listed at the end of your thesis. By doing this you enable readers to look up the information you have used, and control it or read more.
+Careful documentation of sources enables the reader to quickly:
+•	look up the sources themselves
+•	check facts and the accuracy of your results
+•	find further information about the topic
+
+Another important reason for having proper references is to avoid plagiarism. Plagiarism is the use of others’ results, thoughts and ideas as if they were your own. This is considered intellectual theft according to intellectual property laws.
+
+Extensive and/or deliberate plagiarism is considered cheating. According to universitets- og høyskoleloven (Norwegian University and College Law) §§ 4-7 and 4-8, this can lead to failing the assignment and expulsion from your module. This can affect the progression of your studies and can lead to problems with being granted loans or residence permits, according to the regulations of Lånekassen and Utdanningsdirektoratet (The Norwegian Directorate for Education and Training). All educational institutions are aware of problems related to cheating and use specific software to detect plagiarism. 

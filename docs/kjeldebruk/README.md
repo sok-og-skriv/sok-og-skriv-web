@@ -10,9 +10,7 @@ God forsking bygger vidare på eksisterande kunnskap, det er dette me kallar kje
 
 <Video id="GPR0phJIsuk" />
 
-Å nytte relevante vitskaplege kjelder er ein sentral del av skriveprosessen. 
-
-Kva kjelder som er best å nytte vil varie frå fag til fag, og frå oppgåve til oppgåve. Aktuelle kjelder kan vere alt frå bøker og artiklar til ulike nettsider, nyhende og kart. Bruk problemstillinga til å orientere deg. Snakk gjerne med rettleiar, medstudentar og andre fagfolk for å finne ut kva kjelder som er gode innnan ditt fagfelt. 
+Å nytte relevante vitskaplege kjelder er ein sentral del av skriveprosessen. Kva kjelder som er best å nytte vil varie frå fag til fag, og frå oppgåve til oppgåve. Aktuelle kjelder kan vere alt frå bøker og artiklar til ulike nettsider, nyhende og kart. Bruk problemstillinga til å orientere deg. Snakk gjerne med rettleiar, medstudentar og andre fagfolk for å finne ut kva kjelder som er gode innnan ditt fagfelt. 
 
 # Kvifor skal ein referere til andre sitt arbeid? 
 
