@@ -13,7 +13,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
       <a href="/en/searching/"><img src="/images/illustrasjoner_sok_500x450.png" alt="Searching"></a>
     </div>
     <div class="content">
-      <h2><a href="/en/searching">Searching</a></h2>
+      <h2><a href="/en/searching/">Searching</a></h2>
       <p>Searching for information can help you get started with your thesis and define the theme and scope of your project.</p>
     </div>
   </div>
@@ -117,11 +117,11 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 <div class="container two-column footer-links">
   <div class="align-right">
     <div><a href="/om/">Om Søk og skriv</a></div>
-    <div><a href="/om/kontaktinformasjon/">Kontaktinformasjon</a></div>
-    <div><a href="/om/sok-og-skriv-i-undervisning/">Søk og skriv i undervisning</a></div>
+    <div><a href="/om/kontaktinformasjon.html">Kontaktinformasjon</a></div>
+    <div><a href="/om/sok-og-skriv-i-undervisning.html">Søk og skriv i undervisning</a></div>
   </div>
   <div class="align-left">
     <div><a href="/en/about/">About Search and write</a></div>
-    <div><a href="/en/about/contact-information/">Contact</a></div>
+    <div><a href="/en/about/contact-information.html">Contact</a></div>
   </div>
 </div>

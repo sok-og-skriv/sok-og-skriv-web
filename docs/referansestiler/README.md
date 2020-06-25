@@ -5,13 +5,13 @@ title: "Referansestiler"
 # Referansestiler
 
 <div class="tags">
-    <span class="tag is-large"><a href="/referansestiler/apa-6th">APA 6th</a></span>
-    <span class="tag is-large"><a href="/referansestiler/apa-7th">APA 7th</a></span>
-    <span class="tag is-large"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
-    <span class="tag is-large"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
-    <span class="tag is-large"><a href="/referansestiler/harvard">Harvard</a></span>
-    <span class="tag is-large"><a href="/referansestiler/mla">MLA</a></span>
-    <span class="tag is-large"><a href="/referansestiler/vancouver">Vancouver</a></span>
+    <span class="tag is-large"><a href="/referansestiler/apa-6th.html">APA 6th</a></span>
+    <span class="tag is-large"><a href="/referansestiler/apa-7th.html">APA 7th</a></span>
+    <span class="tag is-large"><a href="/referansestiler/chicago-forfatter-aar.html">Chicago forfatter-år</a></span>
+    <span class="tag is-large"><a href="/referansestiler/chicago-fotnoter.html">Chicago fotnoter</a></span>
+    <span class="tag is-large"><a href="/referansestiler/harvard.html">Harvard</a></span>
+    <span class="tag is-large"><a href="/referansestiler/mla.html">MLA</a></span>
+    <span class="tag is-large"><a href="/referansestiler/vancouver.html">Vancouver</a></span>
 </div>
 
 En referansestil er et standardisert oppsett for hvordan du skal presentere informasjon om kildene du bruker. Typisk beskriver en stil hvordan du gjengir informasjon om forfatter, årstall, tittel og sidetall.
