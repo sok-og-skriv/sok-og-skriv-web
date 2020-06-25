@@ -26,18 +26,8 @@ module.exports = {
   '/en/sources-and-referencing/': [
     '',
     'how-to-cite',
-    'what-to-cite',
-    'abbreviations',
-    'why-cite-sources',
-    'ethical-guidelines-for-academia',
-    'intellectual-property-rights',
-    'reference-styles',
-    'source-evaluation',
-    'qualitative-evaluation',
-    'websites',
-    'assessing-relevance',
-    'comparing-sources',
-    'text-analysis'
+    'different-sources',
+    'reflecting-on-sources'
   ],
   '/en/': [
     '/en/about/',
