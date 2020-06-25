@@ -386,21 +386,22 @@ FINNE
 
 ::: teksten 
 
-Tekst (nummer, evnt. sidetall)
+Tekst (nummer)
 
-...som ble utviklet av forskere ved University of California (12)...
+...the patent filed by Clarke et al. (35)
 :::
 
 :::: ref 
-Nummer. Oppfinner AA, Oppfinner BB, Oppfinner CC. Patent-tittel. Registrert sted. Patentnummer. Årstall.
+(Nummer). Oppfinner(e). Organisasjon. Patent tittel. [Internett]. Land eller Region. Patent nummer. Dato og år [hentet dato]. Tilgjengelig fra: http://...
 
-12\. Clarke J, Pines A, McDermott RF, Trabesinger AH, inventors. University of California, assignee. SQUID detected NMR and MRI at ultralow fields. European Patent 1474707. 2004-11-10.
+(1) Clarke J, Pines A, McDermott RF, Trabesinger AH, inventors. University of California, assignee. SQUID detected NMR and MRI at ultralow fields. European Patent 1474707. 2004-11-10. [hentet dato]. Tilgjengelig fra: http://...
+
+... 
 
 ::: details I EndNote 
 
-Legges inn som "Patent".
-
-Fyll ut feltene: Inventor, Year, Title, Country,Patent Number,  URL.
+Legges inn som "Web Page".
+Fyll ut feltene: Author (med et komma etter organisasjonsnavnet), Year, Title, Place Published, Publisher, Type of Medium, Year Cited, Date Cited, URL. 
 :::
 ::::
 
@@ -448,11 +449,23 @@ Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel på oppslagsverk. 
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
-5\. Klein J, Dalgard O, Jensen HLB. Koronavirus. I : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+5.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+
+6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
+ 
+::: details I EndNote 
+
+Elektronisk oppslagsverk: Legges inn som "Web Page".
+
+Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
+
+Trykt oppslagsverk: Legges inn som "Dictionary".
+
+Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
+:::
+::::
 
 6\. Johnson A & Jackson, B. Fertilization age. I: Dorland's illustrated medical dictionary. 32. utg. Bind 3. Philadelphia: Elsevier; 2012. ; s. 675-676.
-
-7\. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
 
 Uten forfatter:
 
