@@ -6,25 +6,25 @@ sidebar: false
 # Videos
 
 
-## Hvordan søke med emneord
+## How to search with keywords
 
 <Video id="_yKr4R3k5Pg" />
 
 
 
-## Søke med AND og OR
+## Search with AND / OR
 
 <Video id="V20SCScsECE" />
 
 
 
-## Hvor finner du forskningslitteratur?
+## Where to find research literature
 
 <Video id="3YUAb9G8uUg" />
 
 
 
-## Kajsa’s & Sandhya’s Writing Club – Short version
+## Kajsa’s & Sandhya’s Writing Club
 
 University of Bergen PhD students Kajsa Parding and Sandhya Tiwari talk about their writing club, and how it has helped them with their thesis work.
 
