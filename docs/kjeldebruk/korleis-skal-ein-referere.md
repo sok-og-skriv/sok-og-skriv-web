@@ -49,7 +49,7 @@ Sitater som har meir enn 40 ord skal (i APA) skrivast i eit eiget avsnitt med in
 
 ### Ved endringar i sitatet 
 
-På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gjere endringar på sitatet. Det kan vere å ta vekk delar av sitatet, eller å legge til ord for å få lesaren til å forstå samanhengen. Om du har eit lengre sitat med ein del irrelevante passasjar kan det vere aktuelt å **utelate** delar av sitatet. Dette må markerast tydeleg og med tre prikkar i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ) Om du utelét eitt eller to ord kan det markerast med ... (tre prikkar). Dersom du utelét fleire ord, kan du nytta parentes.
+På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gjere endringar på sitatet. Det kan vere å ta vekk delar av sitatet, eller å legge til ord for å få lesaren til å forstå samanhengen. Om du har eit lengre sitat med ein del irrelevante passasjar kan det vere aktuelt å **utelate** delar av sitatet. Dette må markerast tydeleg og med tre prikkar i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ). Om du utelét eitt eller to ord kan det markerast med ... (tre prikkar). Dersom du utelét fleire ord, kan du nytta parentes.
 
 
 ::: eksempel EKSEMPEL  
@@ -87,13 +87,12 @@ Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegels
 
 :::
 
-## Notar / vedlegg
+## Notar og vedlegg
 
 - Avgrens bruk av notar.
 - Notar skal nyttast til tilleggsopplysningar som ikkje er ein naturleg del av teksten. 
 - Du kan velje om du vil nytte fotnotar nedst på sida eller som sluttnotar bak i kapitlet/oppgåva. Vel du å plassere notane som fotnotar er det vanleg å ha ein mindre skrifttype for å skilje notane frå hovudteksten.
-- Pass på at du ikkje blandar tilvisingar til ei referanseeliste og tilvisingar til notar.
-- Nøyaktig korleis notetilvisinga gjerast er ofte avhenging av kva referansestil du nytter. Det er for eksempel ikkje føremålsteneleg å nytte nummererte notar dersom du nytter ein nummerert referansestil.
+- Nøyaktig korleis notetilvisinga gjerast er ofte avhenging av kva referansestil du nytter. Det er for eksempel ikkje føremålsteneleg å nytte nummererte notar dersom du nytter ein nummerert referansestil som Vancouver. 
 - Vedlegg er lister over tabellar og figurar som er med i oppgåva, spørreskjema, observasjonsskjema, intervjuguide og liknande. Vedlegg skal nummerast og plasserast etter referanselista.
 
 

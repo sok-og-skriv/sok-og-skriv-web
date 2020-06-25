@@ -43,9 +43,9 @@ When you take an excerpt from a text and use it in your text, this is called quo
 ### Direct quotations 
 In a proper/direct quotation you type exactly (word for word, including emphasis etc.) what another author has written. Excerpts consisting of less than 40 words (or three lines) are typed directly into your text and indicated by quotation marks (“...”).
 
-::: eksempel Example 
+::: eksempel EXAMPLE 
 
-“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is _discussion_,” (Førland, 1996, p.11).
+“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is _discussion_,” (Førland, 1996, p.11, our translation).
 
 Source: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Oslo: Gyldendal.
 ::: 
@@ -56,68 +56,54 @@ Quotations of more than 40 words (in the APA style) should be written in their o
 
 When you want to cite another author, you may wish to reformulate their ideas using your own words. This "indirect quotation" can help to create a better flow in your text. When you paraphrase, you are rephrasing what another author has written. You should change both the words and word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing their ideas in any way, and that the meaning of the original text is retained. 
 
-::: eksempel Example 
+::: eksempel EXAMPLE 
 
-Førland (1996) claims that all students within social sciences and humanities must lean the academic genre, which is characterized by discussion (p. 11). 
+Førland (1996, p. 11) claims that all students within social sciences and humanities must learn the academic genre, which is characterized by discussion. 
 
-The academic genre is characterized by discussion, and all students with the social sciences and humanities must learn to use it (Førland, 1996, p. 11).
+The academic genre is characterized by discussion, and all students with the social sciences and humanities must learn to use it according to Førland (1996, p. 11).
 
 ### Making changes to a quotation 
 
-Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts of the citation that are not necessary to the assignment or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be highlighted. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
+Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts that are unnecessary for your argument or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be highlighted. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
 
-EKSEMPEL
-"Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting" _(Førland, 1996, s.11).
-EXAMPLE
-“Students ... must write within an academic genre. The distinctive feature of this genre is discussion,” (Førland, 1996, p. 11).
-Dersom du ønsker å tilføye eller erstatte noko i eit sitat, markeres dette ved å nytte klammeparenteser.
+::: eksempel EXAMPLE
+“Students ... must write within an academic genre. The distinctive feature of this genre is discussion” (Førland, 1996, p. 11, our translation).
+
 If you want to add or replace something in a citation, this should be highlighted by using brackets.
-EKSEMPEL
-"Studenter (og forskere) innenfor [de akademiske disipliner] må skrive innenfor en akademisk sjanger"(Førland, 1996, s.11).
-EXAMPLE
-“Students (and researchers) within [the academic disciplines] must write within an academic genre,” (Førland, 1996, p.11). 
-Det kan også vere aktuelt å fjerne eller legge til kursiv i eit lengre sitat. Dette markerast i henvisningen.
+
+::: eksempel EXAMPLE
+“Students (and researchers) within [the academic disciplines] must write within an academic genre” (Førland, 1996, p.11, our translation). 
+::: 
+
 It can also be appropriate to remove or add italics to a longer citation. This should be highlighted within the reference.
-EKSEMPEL
-"Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er drøfting" (Førland, 1996, s.11, utheving fjerna).
-Dersom du skal legge til kursiv for å framheve eit poeng, skriver du "forfatterens utheving" eller "utheving tillagt" etter kildehenvisningen, slik: (Førland, 1996, s. 11, utheving tillagt).
-EXAMPLE
-“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion,” (Førland, 1996, p.11, emphasis removed).
-If you add italics in order to highlight a point, you should write either “author’s emphasis” or “emphasis added” after the reference: (Førland, 1996, p.11, emphasis added).
-Sekundærreferanser
-Som hovedregel skal du kun sitere fra verk du har lest. Om originalkilden ikkje er tilgjengeleg, eller er på språk du ikkje forstår, kan du henvise til andre sin omtale av den:
-Secondary references
+
+::: eksempel EKSEMPEL
+
+“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion,” (Førland, 1996, p.11, our translation, emphasis removed).
+::: 
+
+If you add italics in order to highlight a point, you should write either “author’s emphasis”, "my emphasis" or “emphasis added” after the reference: (Førland, 1996, p.11, our translation, emphasis added).
+
+### Secondary references
 As a rule, you should only cite from works that you have read. However, if the original source is not available, or is written in a language that you don’t understand, you can refer to others’ use of it:
-EKSEMPEL
-Beck og Beck-Gemsheim referert i Kloster (2003, s. 4) snakker om tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet.
-Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet (Beck & Beck-Gemsheim 2000 I: Kloster, 2003, s. 4).
-EXAMPLE
+
+::: eksempel EXAMPLE
+
 Beck and Beck-Gemsheim referenced in Kloster (2003, p.4) talk about three stages that women and men have gone through in the move from a traditional to a modern society.
-There are three stages that the relationship between women and men have gone through in the move from a traditional to a modern society (Beck & Beck-Gemsheim, 2000, in: Kloster, 2003, p.4).
-Noter/vedlegg
-•	Begrens bruk av noter.
-•	Noter skal nyttes til tilleggsopplysninger som ikkje er ein naturlig del av teksten. Det vil seie informasjon som ikkje er essensielt for å forstå innhaldet.
-•	Du kan velje om du vil nytte fotnoter nedst på sida eller som sluttnoter bak i kapitlet/oppgåva. Vel du å plassere notene som fotnoter er det vanleg å nytte ein mindre skrifttype på desse for å skilje notene frå hovudteksten.
-•	Pass på at du ikkje blander henvisninger til ein litteraturliste og henvisninger til noter.
-•	Nøyaktig korleis henvisningen til noter gjerast er ofte avhenging av kva referansestil ein nytter. Det er for eksempel ikkje hensiktsmessig å bruke nummererte noter dersom man nytter en nummermetode i referansene.
-•	Vedlegg er lister over tabeller og figurer som er med i oppgaven, spørreskjema, observasjonsskjema, intervjuguider og liknande. Vedlegga skal nummerast og plasserast etter litteraturlista.
-Notes/appendices
-•	Limit use of notes
-•	Notes should be used for additional information that doesn’t fit naturally in with the rest of your text. It often provides information that is not essential for understanding the main content.
-•	You can choose whether to use footnotes at the bottom of a page or use endnotes at the back of the chapter/assignment. If you want to use footnotes, it is common to use a smaller font size in order to separate the notes from the main text.
-•	Make sure that you don’t mix up the references to your literature list with the references that point to your footnotes
-•	Exactly how you make references to notes will depend on what referencing style you are using. For example, it is not appropriate to use numbered notes if you are also using a numbered method of referencing. Isn’t this allowed with Chicago?
-•	Appendices can be tables or figures which are included in the assignment, questionnaires, observation forms, interview guides and other such additions which are not included in the main body of your text. Appendices must be numbered and included after the reference list.
-Verktøy for å håndtere referanser
-For større oppgåver som bacheloroppgaver og masteroppgaver kan du effektivisere arbeidet med referansene dine ved å nytte referansehåndteringsverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. Når du nytter Word samman med EndNote, vil Word automatisk opprette ein referanseliste for henvisningene i teksten. Du vil også lett kunne bytte referansestil, dersom det er aktuelt.
-Undersøk med studiestaden din kva referansehåndteringsverktøy du har tilgong til. Zotero og Mendeley er gratis tilgjengeleg for alle.
-Tools for managing references
-For longer assignments such as a bachelor or master thesis, you may be able to manage your references more effectively with the use of a reference management system such as EndNote, ReferenceManager, Zotero or Mendeley. When you use Word together with EndNote, Word will automatically create a reference list for the references in your text. You can also easily change your choice of referencing style, if it is appropriate.
-Check with student services what reference management systems you have access to. Zotero and Mendeley are free and available for anyone.
-Eksporter referansene dine frå databasen
-I staden for å kopiere referansene, kan du eksportere dei frå databasen du søkte i. De fleste databaser ein eksportfunksjon. Nytter du denne blir skrivearbeidet forenkla og du unngår feil i referansene.
-Exporting your references from a database
-Instead of copying references directly, you can often export them directly from the database where you found them. Most databases have an export function. This will simplify the writing process and minimize errors in your referencing. 
+There are three stages that the relationship between women and men have gone through in the move from a traditional to a modern society (Beck & Beck-Gemsheim in Kloster, 2003, p.4).
+
+### Notes and appendices
+- Limit use of notes.
+- Notes can be used for additional information that does not fit naturally in with the rest of your text. They provide information that is not essential for understanding the main content.
+- You can choose between footnotes at the bottom of a page and endnotes at the back of the chapter/assignment. Notes are normally set in a smaller font size than the main text.
+- Exactly how you make references to notes will depend on what referencing style you are using. 
+- Appendices can be tables or figures which are included in the assignment, questionnaires, observation forms, interview guides and other such additions which are not included in the main body of your text. Appendices must be numbered and included after the reference list.
+
+### Tools for managing references
+For longer assignments such as a bachelor or master thesis, you may be able to manage your references more effectively with the use of a reference management system such as EndNote, ReferenceManager, Zotero or Mendeley. When you use Word together with EndNote, Word will automatically create a reference list for the references in your text. You can also easily change your choice of referencing style if needed. Check with student services what reference management systems you have access to. Zotero and Mendeley are free and available for anyone.
+
+***Exporting your references from a database***
+Instead of copying references, you can often export them directly from the database where you found them. This will simplify the writing process and minimize errors in your referencing. 
 
 
 ## Direct quotations
