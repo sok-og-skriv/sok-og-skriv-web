@@ -15,17 +15,11 @@ module.exports = {
   ],
   '/en/writing/': [
     '',
-    'structure-and-argumentation',
+    'structure',
     'organising-a-thesis',
-    'crafting-an-argument',
+    'argue-explain-discuss',
     'the-imrad-format',
     'language-and-style',
-    'writing-one-thing-at-a-time',
-    'flow',
-    'non-academic-language',
-    'the-writing-process',
-    'start-writing',
-    'writing-groups',
     'formal-requirements'
   ],
   '/en/sources-and-referencing/': [
