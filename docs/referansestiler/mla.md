@@ -82,7 +82,7 @@ Rem, Tore. _En biografi om Jens Bjørneboe_. Cappelen Damm, 2020.
 
 Legges inn som «Book».
 
-Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher,
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher.
 ::: 
 :::: 
 
@@ -161,7 +161,7 @@ Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Tit
 
 ::: 
 :::: 
-
+## Artikler
 ### Artikkel i tidsskrift (trykt/elektronisk)
 
 Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI hvis dette er tilgjengelig. 
@@ -216,7 +216,12 @@ The Online Writing Lab (OWL) fra Purdue University inneholder stort sett alt man
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Web Page".
+
+Fyll ut feltene: Title, Publisher (Nettstedets/ Organisasjonens navn) URL.
+
+(Fyll også ut Date Accessed hvis lesedato skal med). 
+
 ::: 
 :::: 
 
@@ -239,7 +244,12 @@ Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ URL. Lesedat
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Electronic Book"
+
+fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere) Title, Publisher (Nettstedets/ Organisasjonens navn) URL.
+
+(Fyll også ut Date Accessed hvis lesedato skal med). 
+
 ::: 
 :::: 
 
@@ -259,7 +269,12 @@ Hermetisk diktning brukes generelt om poesi som bruker okkult symbolisme (hermet
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Electronic Book"
+
+fyll ut feltene: Author (Oppslagsord) Title, Publisher (Nettstedets/ Organisasjonens navn) URL.
+
+(Fyll også ut Date Accessed hvis lesedato skal med).
+
 ::: 
 :::: 
 
@@ -273,13 +288,15 @@ Tveite ser på historikeren Seips kritikk av Arbeiderpartiet der han hevder at e
 :::
 
 :::: ref
-Etternavn, Fornavn. "Artikkeltittel". _Tittel på oppslagsverk._ Red. Fornavn Etternavn og Fornavn Etternavn. Bind nr. Sted: Utgiver, årstall.
+Etternavn, Fornavn. "Artikkeltittel". _Tittel på oppslagsverk._ Red. Fornavn Etternavn og Fornavn Etternavn. Bind nr. Utgiver, årstall, Sidetall
 
-Tveite, Tonje. "'Politikk er ikke idyll': Jens Arup Seip som samtidsforfatter". _Norsk litteraturhistorie: Sakprosa fra 1750 til 1995_. Red. Egil Børre Johnsen og Trond Berg Eriksen. Bind 2. Oslo: Universitetsforlaget, 1998.
+Tveite, Tonje. "'Politikk er ikke idyll': Jens Arup Seip som samtidsforfatter". _Norsk litteraturhistorie: Sakprosa fra 1750 til 1995_. Red. Egil Børre Johnsen og Trond Berg Eriksen. Bind 2. Universitetsforlaget, 1998, s. 20-25
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Encyclopedia».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Editor, Encyclopedia Title, Publisher, Volume, Pages
 ::: 
 :::: 
 
@@ -300,7 +317,8 @@ Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Electronic Book"
+Fyll inn feltene Author (Lovens navn), Title (Fullstendig navn med vedtektsdato og nummer), Date Accessed (Hvis aktuelt), URL (Hvis aktuelt)
 ::: 
 :::: 
 
@@ -316,11 +334,13 @@ blabla
 :::: ref
 Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
 
-Finansdepartementet. _Nordisk samarbeid_ St.meld. nr 23 (2019-2020). Oslo: Finansdepartementet, 2020.
+Finansdepartementet. _Nordisk samarbeid_ St.meld. nr 23 (2019-2020). Finansdepartementet, 2020.
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Electronic Book"
+Fyll inn feltene Author, Year, Title, Publisher, Series Title, URL (Hvis aktuelt)
+
 ::: 
 :::: 
 
@@ -344,7 +364,7 @@ Shakespeare, William. _Romeo and Juliet._ Red. Roma Gill. Oxford University Pres
 
 ::: details I EndNote
 
-blabla 
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher, Editor.
 ::: 
 :::: 
 
@@ -363,8 +383,8 @@ Etternavn, Fornavn. _Tittel._ Årstall. Upublisert manuskript. Institusjonstilh
 Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
 
 ::: details I EndNote
-
-blabla 
+Legges inn som "Book"
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher. (Skriv "Upublisert maunskript" før institusjonstilhørighet avskilt med komma)
 ::: 
 :::: 
 
@@ -378,13 +398,14 @@ Staksruds forskningsarbeid i _Children in the online world_ avdekker faktisk net
 :::
 
 :::: ref
-Etternavn, fornavn. _Tittel_. Sted: Utgiver (manuskript, antatt, under publisering)
+Etternavn, fornavn. _Tittel_. Utgiver (manuskript, antatt, under publisering)
 
 Staksrud, Elisabeth. _Children in the online world: Risk, Regulation and Rights._ Ashgate (manuskript, antatt, under publisering)
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Book"
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher (Skriv "manuskript, antatt, under publisering" i parentes etter utgiver)
 ::: 
 :::: 
 
@@ -400,10 +421,6 @@ Legger du bildene inn i teksen din skal referansen komme umiddelbart etterbildet
 Fig. 1. Man exercising from: Green, Annie. "Yoga: Stretching Out." Sports Digest, 8 May 2006, p. 22. 
 Fig. 2. Annakiki skjørt fra: Cheung, Pauline. "Short Skirt S/S/ 15 China Womenswear Commercial Update." WGSN.
 
-::: details I EndNote
-
-blabla 
-::: 
 :::: 
 
 
