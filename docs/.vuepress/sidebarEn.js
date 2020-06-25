@@ -15,6 +15,7 @@ module.exports = {
   ],
   '/en/writing/': [
     '',
+    'getting-started',
     'structure',
     'organising-a-thesis',
     'argue-explain-discuss',
