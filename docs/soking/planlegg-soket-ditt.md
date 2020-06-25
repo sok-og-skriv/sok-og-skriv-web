@@ -11,11 +11,11 @@ I en tidlig fase kan det være nødvendig å orientere seg bredt for å avklare 
 
 ## Finn bakgrunnsinformasjon
 
-*	Generelle oppslagsverk som Wikipedia og _Store norske leksikon_ dekker et vidt spekter av emner og gir pekere til mer dyptgående kilder.
+*	Generelle oppslagsverk som _Wikipedia_ og _Store norske leksikon_ dekker et vidt spekter av emner og gir pekere til mer dyptgående kilder.
 *	Fagspesifikke oppslagsverk (for eksempel _International Encyclopedia of the Social & Behavioral Sciences_) gir grundige innføringer. Forfatterne er eksperter på sine felt og har kartlagt den sentrale litteraturen i oversiktsartikler.
 *	Lærebøker fra pensum- og ressurslister gir innføring i og henvisninger til kilder som går mer i dybden.
-*	Gjennom nyhetsarkivet Atekst og Nasjonalbibliotekets digitale avistjeneste får du tilgang til den norske samfunnsdebatten. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
-*	Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet, se for eksempel www.regjeringen.no, Statistisk sentralbyrå,  Verdensbanken og OECD.
+*	Gjennom nyhetsarkivet _Atekst_ og Nasjonalbibliotekets digitale avistjeneste får du tilgang til den norske samfunnsdebatten. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
+*	Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet, se for eksempel www.regjeringen.no, _Statistisk sentralbyrå_,  _Verdensbanken_ og OECD.
 
 
 ## Finn faglitteratur
@@ -29,9 +29,9 @@ Gjennom bibliotekenes nettsider (UiO, UiB, HVL) får du tilgang til databaser so
 Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen databaser dekker alt; de overlapper og utfyller hverandre. Derfor er det viktig å bruke flere databaser for å få oversikt.
 Nedenfor finner du et utvalg tverrfaglige databaser som kan være et godt utgangspunkt for søk før du går videre til de fagspesifikke databasene:
 *	Oria er forskningsbibliotekenes søkeverktøy. Her finner du blant annet fagbøker, masteroppgaver, avhandlinger og tidsskriftsartikler.
-*	Google Scholar er den akademiske versjonen av Google. Den søker etter vitenskapelig litteratur fra anerkjente forlag og forskningsdatabaser.
+*	_Google Scholar_ er den akademiske versjonen av _Google_. Den søker etter vitenskapelig litteratur fra anerkjente forlag og forskningsdatabaser.
 *	Artikkelbasen Norart gir oversikt over norske og et utvalg nordiske tidsskriftsartikler. Basen dekker både populærvitenskapelige og vitenskapelige tidsskrifter, så her må du selv foreta en kritisk vurdering.
-*	Idunn dekker tidsskrifter som er utgitt på Universitetsforlaget. Tilgjengelig i de fleste bibliotek i Norge.
+*	_Idunn_ dekker tidsskrifter som er utgitt på Universitetsforlaget. Tilgjengelig i de fleste bibliotek i Norge.
 *	Publiseringsarkivet NORA gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren. Søk i NORA eller eget institusjonsarkiv (BORA, DUO, HVL Open) for å finne  masteroppgaver og doktoravhandlinger. 
 
 
