@@ -115,7 +115,7 @@ Radio or TV programs can also be a good place to get fresh angles for your assig
 ::: warning NB 
 
 If you want to use radio or TV programs as a source, shorter clips can be used without special permission, but for longer clips you must contact the filmmaker or producer to avoid misinterpretations of meaning. 
-::
+:::
 
 ## Pictures from the Internet, photography, illustrations, picture-art  
 
