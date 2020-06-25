@@ -37,33 +37,35 @@ Below you will find some examples of direct and indirect citations using the APA
 
 ## Quotations 
 
-When you take an excerpt from a text and use it in your assignment, this is called quotation. There are several ways to do this. The examples below are using the referencing style APA 7th edition.
-
+When you take an excerpt from a text and use it in your text, this is called quotation. There are several ways to do this. The examples below are based on the referencing style APA 7th edition.
 
 
 ### Direct quotations 
-In a proper quotations, you are writing exactly (word for word) what another author has written. Excerpts with less than 40 words (or three lines) are typed directly into your text and are indicated by using quotation marks (“...”).
+In a proper/direct quotation you type exactly (word for word, including emphasis etc.) what another author has written. Excerpts consisting of less than 40 words (or three lines) are typed directly into your text and indicated by quotation marks (“...”).
 
-EKSEMPEL
-«Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er drøfting» (Førland, 1996, s. 11).
-EXAMPLE
-“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion,” (Førland, 1996, p.11).
-Sitater som har meir enn 40 ord skal skrivast i eit eiget avsnitt med innrykk. Her brukes det ikke anførselstegn.
-Citations with more than 40 words should be written in their own indented paragraph. In this case, quotation marks are not used.
-Indirekte sitat
-Når du har sitat, kan det i fleire tilfeller vere lurt å omformulere det ein anna har skrive. Det kan skape ein betre flyt i teksten. Dette kaller vi for å parafrasere. Når du parafaserar, omformulerar du det ein anna forfatter har skrive. Du bør bytte ut både ord og ordstilling, og skrive det om til ditt eige språk. Pass på at det opprinnlege innhaldet er likt.
-Indirect citations
-When you want to cite another author, in some cases you may wish to reformulate their ideas using your own words. This can create a better flow in your text and is what we call ‘paraphrasing’. When you paraphrase, you are rephrasing what another author has written. You should change both the words and word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing their ideas in any way, and that the meaning of the original text is retained. 
-EKSEMPEL
-Førland (1996) hevder at alle studenter innenfor samfunnsfag og humaniora må lære seg den akademiske sjangeren, som kjennetegnes av drøfting (s. 11).
-Den akademiske sjangeren kjennetegnes av drøfing og alle studenter innenfor samfunnsfag og humaniora må lære seg den (Førland, 1996, s.11).
-EXAMPLE
+::: eksempel Example 
+
+“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is _discussion_,” (Førland, 1996, p.11).
+
+Source: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Oslo: Gyldendal.
+::: 
+
+Quotations of more than 40 words (in the APA style) should be written in their own indented paragraph. In this case, quotation marks are not used.
+
+### Paraphrasing 
+
+When you want to cite another author, you may wish to reformulate their ideas using your own words. This "indirect quotation" can help to create a better flow in your text. When you paraphrase, you are rephrasing what another author has written. You should change both the words and word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing their ideas in any way, and that the meaning of the original text is retained. 
+
+::: eksempel Example 
+
 Førland (1996) claims that all students within social sciences and humanities must lean the academic genre, which is characterized by discussion (p. 11). 
-The academic genre is characterized by discussion and all students with the social sciences and humanities must learn to use it (Førland, 1996, p. 11).
-Ved endringar i sitatet
-På samme måte som med indirekte sitater, kan det nokre gonger vere aktuelt å gjere visse endringar på sitatet. Det kan vere å ta vekk deler av sitatet som ikkje er naudsynt for oppgåva, eller å legge til ord for å få lesaren til å forstå samanhengen. Hovedprinsippet er at alle tilleggingar eller utelatelingar skal markerast. Om du har eit lengre sitat med ein del irrelevante passasjer kan det vere aktuelt å utelate deler av sitatet. Dette må markerast tydleg, for eksempel med tre prikker i skarpe klammer [ ... ] eller vanlege parentesar ( ... ). Utelatingar av eitt eller to ord kan markerast med ... (tre prikker), og parentesane nyttes for lengre utelatelingar.
-Making changes to a citation
-Just as with an indirect citation, sometimes it might be necessary to make certain changes to a direct citation (quotation). Examples of such changes might be removing parts of the citation that are not necessary to the assignment or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be highlighted. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
+
+The academic genre is characterized by discussion, and all students with the social sciences and humanities must learn to use it (Førland, 1996, p. 11).
+
+### Making changes to a quotation 
+
+Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts of the citation that are not necessary to the assignment or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be highlighted. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
+
 EKSEMPEL
 "Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting" _(Førland, 1996, s.11).
 EXAMPLE
