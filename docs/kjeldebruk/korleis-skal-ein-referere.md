@@ -17,17 +17,17 @@ Det blir nytta ein del standardforkortingar ved utforming av referanseliste og k
 - **b.** bind. 
 - **anon.** Anonym. Denne nyttes når forfatteren er ukjend. 
 - **ca.** Cirka. Nyttes for omtrentlege tidspunkt. For eksempel ca. 1978. 
-- **et al.** et ali/og andre/med fleire. Nyttes for å forkorte forfatterlista. 
+- **et al.** et alii/og andre/med fleire. Nyttes for å forkorte forfatterlista. 
 - **Kap.** Kapittel
-- **red.** Redaktør(er 
-- **rev. utg.** Revidert utgåve. Nyttes når ein bok har ein revidert utgåve.  
-- **s.** side(r)  
-- **Suppl.** supplement. Nyttes for eksempel ved ekstra hefte av tidsskrift
-- **u.d.** Uten dato. Nyttes ved henvisning til kjelder uten publiseringsdato.
-  Utg. Utgåve
+- **red.** Redaktør(er) 
+- **rev. utg.** Revidert utgåve. Nyttes når ein bok er ein revidert utgåve.  
+- **s.** eller *ss.** Side(r)  
+- **Suppl.** supplement. Nyttes for eksempel ved ekstra hefte av tidsskrift.
+- **u.d.** Utan dato. Nyttes ved henvisning til kjelder utan publiseringsdato.
+- **Utg.** Utgåve
 
 :::
-Meir om forkortingar på [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/).
+Meir om forkortingar på [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/)
 :::
 
 ::::
@@ -52,10 +52,11 @@ Sitater som har meir enn 40 ord skal skrivast i eit eiget avsnitt med innrykk. N
 På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gjere endringar på sitatet. Det kan vere å ta vekk delar av sitatet, eller å legge til ord for å få lesaren til å forstå samanhengen. Om du har eit lengre sitat med ein del irrelevante passasjar kan det vere aktuelt å **utelate** delar av sitatet. Dette må markerast tydeleg og med tre prikkar i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ) Om du utelét eitt eller to ord kan det markerast med ... (tre prikkar). Dersom du utelét fleire ord, kan du nytta parentes.
 
 
-
 ::: eksempel EKSEMPEL  
 
-"Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting" _.
+"Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting_" (Førland, 1996, s. 11).
+
+Kjelde: Førland, Tor Egil. 1996. _Drøft! Lærebok i oppgaveskriving_, Oslo: Gyldendal.
 
 :::
 
@@ -63,7 +64,7 @@ Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markerast
 
 ::: eksempel EKSEMPEL
 
-"Studenter (og forskere) innenfor \[de akademiske disipliner\] må skrive innenfor en akademisk sjanger".
+"Studenter (og forskere) innenfor \[de akademiske disipliner\] må skrive innenfor en akademisk sjanger" (Førland, 1996, s. 11).
 
 :::
 
@@ -72,9 +73,9 @@ Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markerast
 Indirekte sitat, også kalla parafrase, syner til dei tilfella der du gjev att innhaldet med dine eigne ord. Indirekte sitat kan bidra til å skape flyt i teksten og kan synleggjere at du har ei god forståing for kjelda. Pass på at innhaldet blir gjeve att korrekt og at meininga framleis er den same.
 
 ::: eksempel EKSEMPEL  
-X hevder at alle studenter innenfor samfunnsfag og humaniora må lære seg den akademiske sjangeren, som kjennetegnes av drøfting.
+Førland (1996, s. 11) hevder at alle studenter innenfor samfunnsfag og humaniora må lære seg den akademiske sjangeren, som kjennetegnes av drøfting.
 
-Den akademiske sjangeren kjennetegnes av drøfing og alle studenter innenfor samfunnsfag og humaniora må lære seg den.  
+Den akademiske sjangeren kjennetegnes av drøfting, og alle studenter innenfor samfunnsfag og humaniora må lære seg den (Førland, 1996, s. 11)
 :::
 
 ### Sekundærreferansar

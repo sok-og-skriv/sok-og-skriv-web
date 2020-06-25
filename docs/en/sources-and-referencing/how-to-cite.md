@@ -5,13 +5,11 @@ date: "2013-02-22"
 
 # How to cite
 
-The proper way to cite and reference sources depends on the reference style you are using. This varies between subjects and disciplines. Some student writers are free to chose, while other are expected to follow a specific style. Check you course pages, ask your lecturer or observe other students' assignments. Once you have picked a style, follow it consistently. 
+The proper way to cite and refer to sources depends on the reference style you are using. This varies between subjects and disciplines. Some student writers are free to chose, while other are expected to follow a specific style. Check you course pages, ask your lecturer or observe other students' assignments. Once you have picked a style, follow it consistently. 
 
-You refer correctly by indicating the source in the text and giving complete information about the source in the reference list. Your sources should be given in such a way as to let the reader retrieve them easily. To follow correct referencing practice you need to mention the source in the text and provide complete information about the source in a reference list (sometimes called a literature list or a bibliography). Proper use of references allows the readers to locate your sources, either to read them or to evaluate your interpretation. If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using pagenumbers. The different styles of referencing may have varying practices concerning the use of pagenumbers, you should adhere to the usage in your field.
+You refer correctly by indicating the source in the text and giving complete information about the source in the reference list (sometimes called a literature list or a bibliography). If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using page numbers etc. The different styles of referencing may have varying practices concerning the use of page numbers. 
 
-You don't need to give references to absolutely everything. Read more under [What to cite?](/en/sources-and-referencing/how-to-cite/what-to-cite/ "What to cite?")
-
-Find out what [reference style](/en/sources-and-referencing/reference-styles/ "Reference Styles") is generally used in your field and use it consistently throughout your thesis. A reference style is a standardised way of presenting information about your sources.
+You don't need to give references to absolutely everything, such as common knowledge and your own reflections. 
 
 ::: tip TIP! 
 Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications such as newspapers.
@@ -110,23 +108,16 @@ Instead of copying and pasting your references, you can usually export them from
 
 Even when you are quoting a text correctly (citing the source/indicating the presence of a quotation), be careful not to take the quotation out of its original context. Apart from ethical considerations, you will risk violating the [Copyright Act](https://lovdata.no/lov/2018-06-15-40), as Section 25 of the Act provides, among other things, that the character of a work must not be changed or degraded. Be careful not to distort the original meanings of texts when you are assembling arguments put forward by different authors. For example, be careful when shortening quotations and do not omit references to conflicting data or arguments.
 
-::: oppave EXERCISE
 
-Read and compare the text in the boxes
+## Abbreviations 
 
-- Reflect on how the citation which is done conflicts with discipline methodology and the Intellectual Property Act.
-
-_Bittersøtt_ (Bittersweet) by Willy Pedersen is based on a qualitative research project containing interview materials on youth’s views on smoking hashish:
-
-> _– How do you experience smoking hashish?_  
-> _– It is fucking good. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the fits of laughter_._  
-> _– You also seem a bit sceptical to smoking hashish?_  
-> _– Problem is that you get a fucking bad emotional life from being on the road. You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: What the hell?_
-
-In the chapter "På kjøret" in _Historien om Norge V_ (The history of Norway V) by Karsten Alnes, this content is represented like this:
-
-> _– Why did they smoke hashish?_
-> « _It is fucking good_. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the _fits of laughter_. … _You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: ’What the hell?_’»
-
-For a more elaborate analysis, see Rognstad, Nagel, Laupsa & Tønnesson (2006) God skikk - Om bruk av litteratur og kilder i allmene, historiske framstillinger (p. 120). (In Norwegian only.)
-:::
+There are some standard abbreviations that are used when citing sources. Below is a list of some of the most common abbreviations. Remember that all abbreviations should have a period/full stop after them.
+- v. Volume 
+- anon. Anonymous. Unknown author
+- c. Circa. Used when approximating a date, for example c.1978
+- et al. And others. Used to shorten a list of authors e.g. Smith et al.
+- ch. Chapter 
+- ed(s). Editor(s)
+- Revised Edition?
+- p. Page or pp. Pages
+- n.d. No date. Used for sources without a given publication date
