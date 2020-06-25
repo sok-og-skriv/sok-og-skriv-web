@@ -37,12 +37,12 @@ Somme tider kan det vere aktuelt å hente informasjon eller tekst frå andre inn
 
 ### Direkte sitat
 
-Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særleg gode formuleringar eller utsegn til vidare drøfting. 
-
-Sitat som er har mindre enn 40 ord skrivast direkte inn i teksten og uthevast med hermeteikn.
+Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særleg gode formuleringar eller utsegn til vidare drøfting. Sitat som er har mindre enn 40 ord skrivast direkte inn i teksten og uthevast med hermeteikn. 
 
 ::: eksempel
-«Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er drøfting»
+«Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting_» (Førland, 1996, s. 11).
+
+Kjelde: Førland, Tor Egil. 1996. _Drøft! Lærebok i oppgaveskriving_, Oslo: Gyldendal.
 :::
 
 Sitater som har meir enn 40 ord skal skrivast i eit eiget avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn. 
@@ -55,8 +55,6 @@ På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gje
 ::: eksempel EKSEMPEL  
 
 "Studenter ... må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting_" (Førland, 1996, s. 11).
-
-Kjelde: Førland, Tor Egil. 1996. _Drøft! Lærebok i oppgaveskriving_, Oslo: Gyldendal.
 
 :::
 
@@ -80,12 +78,12 @@ Den akademiske sjangeren kjennetegnes av drøfting, og alle studenter innenfor s
 
 ### Sekundærreferansar
 
-Hovudregelen er at du kun skal vise til verk du har lese. Om originalkjelda ikkje er tilgjengeleg, eller er på språk du ikkje forstår,kan du vise til andre si omtale av kjelda:
+Hovudregelen er at du kun skal vise til verk du har lese. Om originalkjelda ikkje er tilgjengeleg, eller er på språk du ikkje forstår, kan du vise til andre si omtale av kjelda:
 
 ::: eksempel EKSEMPEL  
 Beck og Beck-Gemsheim referert i Kloster (2003, s. 4) snakker om tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet.
 
-Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet (Beck & Beck-Gemsheim 2000 I: Kloster, 2003, s. 4).
+Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet (Beck & Beck-Gemsheim i Kloster, 2003, s. 4).
 
 
 :::
