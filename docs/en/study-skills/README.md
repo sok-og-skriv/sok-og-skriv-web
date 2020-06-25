@@ -15,7 +15,7 @@ Reading and writing are closely related activities in all types of academic work
   type="right"
 />
 
-The most important thing about reading is to actually _read_. People who read a lot on a regular basis will usually develop good reading and writing skills. Our number one advice to get started with your studies is simply this: Get reading! There is no other way to become a good reader.
+The most important thing you can do to improve your reading is to actually _read_. People who read a lot on a regular basis will usually develop good reading and writing skills. Our number one advice to get started with your studies is simply this: Get reading! There is no other way to become a good student.
 
 Learning a subject involves getting familiar with texts that communicate scholarly insights, methods and areas of debate. Of course, reading is not the only way to learn about a subject: You will also attend lectures, discuss and debate at seminars and study groups, and write papers.
 

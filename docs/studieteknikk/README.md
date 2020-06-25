@@ -10,7 +10,7 @@ I det akademiske håndverket er lesing og skriving tett forbundet. For å kunne 
 
 <Video id="JchpFI50UDk" />
 
-Det viktigste med å lese er kanskje _at_ man leser. Den som leser mye og jevnlig, vil som oftest utvikle gode leseferdigheter av seg selv. Råd nummer én til den som skal lese i forbindelse med studier, er derfor: Les! Bare slik kan du bli en god leser.
+Det viktigste med å lese er kanskje _at_ man leser. Den som leser mye og jevnlig, vil som oftest utvikle gode leseferdigheter av seg selv. Råd nummer én til den som skal lese i forbindelse med studier, er derfor: Les! Bare slik kan du bli en god leser og skriver.
 
 Å lære seg et fag innebærer også å gjøre seg kjent med tekster som formidler fagets innsikter, metoder og debatter. Du blir kjent med og lærer deg faget også på andre måter enn gjennom lesing: ved å følge forelesninger, delta i samtaler og diskusjoner, på seminarer og i kollokviegrupper, og ved å skrive oppgaver.
 
