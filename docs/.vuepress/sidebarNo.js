@@ -39,48 +39,6 @@ module.exports = {
     'mla',
     'vancouver'
   ],
-  /* '/referansestiler/apa/': [
-    '',
-    'boeker',
-    'artikler',
-    'offentlige-kilder',
-    'annet'
-  ],
-  '/referansestiler/chicago-forfatter-aar/': [
-    '',
-    'boeker',
-    'artikler',
-    'offentlige-kilder',
-    'annet'
-  ],
-  '/referansestiler/chicago-fotnoter/': [
-    '',
-    'boeker',
-    'artikler',
-    'offentlige-kilder',
-    'annet'
-  ],
-  '/referansestiler/harvard/': [
-    '',
-    'boeker',
-    'artikler',
-    'offentlige-kilder',
-    'annet'
-  ],
-  '/referansestiler/mla/': [
-    '',
-    'boeker',
-    'artikler',
-    'offentlige-kilder',
-    'annet'
-  ],
-  '/referansestiler/vancouver/': [
-    '',
-    'boeker',
-    'artikler',
-    'offentlige-kilder',
-    'annet'
-  ], */
   '/video/': [
     'soking',
     'studieteknikk',
