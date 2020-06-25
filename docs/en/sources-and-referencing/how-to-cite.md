@@ -9,7 +9,7 @@ The proper way to cite and refer to sources depends on the reference style you a
 
 You refer correctly by citing the source in the text and giving complete information about the source in the list of references (sometimes called a literature list or a bibliography). If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using page numbers etc. The different styles of referencing may have varying practices concerning the use of page numbers. 
 
-You don't need to provide references for absolutely everything, such as common knowledge and your own reflections. 
+It is not necessary to provide references for absolutely everything, such as common knowledge and your own reflections. 
 
 ::: tip TIP! 
 Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications such as newspapers.
