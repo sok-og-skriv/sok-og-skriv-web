@@ -5,7 +5,7 @@ title: "Referansestiler"
 # Referansestiler
 
 <div class="tags">
-    <span class="tag is-large"><a href="/referansestiler/apa-6th.md">APA 6th</a></span>
+    <span class="tag is-large"><a href="/referansestiler/apa-6th">APA 6th</a></span>
     <span class="tag is-large"><a href="/referansestiler/apa-7th">APA 7th</a></span>
     <span class="tag is-large"><a href="/referansestiler/chicago-forfatter-aar">Chicago forfatter-år</a></span>
     <span class="tag is-large"><a href="/referansestiler/chicago-fotnoter">Chicago fotnoter</a></span>
