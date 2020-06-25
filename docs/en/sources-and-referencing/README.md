@@ -6,7 +6,7 @@ prev: "../writing/formal-requirements"
 
 # Sources and referencing  
 
-All research uses the work of others as its starting point – what we call ‘sources’. Good academic work is characterized by use of relevant, scientific sources and builds on existing knowledge. Without referring to existing research, disciplinary knowledge and relevant information, your assignment will be detached from the scholarly community. Any references you use will help to lay the foundations for the assessment of your text.
+All research uses the work of others as its starting point – what we call ‘sources’. Good academic work is characterized by use of relevant, scientific sources and builds on existing knowledge. Without references to existing research, disciplinary knowledge and relevant information your assignment will be detached from the scholarly community. Any sources you use will help to lay the foundations for the assessment of your text.
 
 
 <Figure
@@ -16,7 +16,7 @@ All research uses the work of others as its starting point – what we call ‘s
   type="right"
 />
 
-The best sources to use will vary from subject to subject, and from assignment to assignment. Relevant sources can be found everywhere: books, articles, websites, news articles and maps. Use your problem statement as a guide to relevant sources. Ask your tutors, fellow students and researchers within your field to help you to find sources which are appropriate for your discipline.
+The best sources to use will vary from subject to subject, and from assignment to assignment. Relevant sources can be found everywhere: in books, articles, websites, news articles and maps. Use your problem statement as a guide, and ask your tutors, fellow students and researchers within your field to help you find sources that are appropriate for your discipline. 
 
 # Why refer to the work of others?
 
