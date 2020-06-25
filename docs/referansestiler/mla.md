@@ -283,7 +283,7 @@ blabla
 ::: 
 :::: 
 
-## Offentlige kilder SE PÅ
+## Offentlige kilder
 
 ### Lover
 
@@ -327,7 +327,7 @@ blabla
 Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
 
 
-### Klassiske og hellige tekster DOBBELSJEKKE
+### Klassiske og hellige tekster 
 
 Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles i stedet inn i nummererte kapittel, vers eller surer som vil være den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen og eldre greske og romerske tekster. Henvisning til hellige skrifter gjøres underveis i teksten ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger som regel ikke å føres i referanselisten.
 
@@ -349,7 +349,7 @@ blabla
 :::: 
 
 
-### Upublisert materiale DOBBELSJEKK
+### Upublisert materiale
 
 ::: teksten
 ... forfatter ... (_Tittel_)
@@ -369,7 +369,7 @@ blabla
 :::: 
 
 
-### Manuskript under publisering, antatt (in press) SJEKKE
+### Manuskript under publisering, antatt (in press) 
 
 ::: teksten
 (Forfatter Tittel)
@@ -389,16 +389,16 @@ blabla
 :::: 
 
 
-### Bilde SJEKKE
+### Bilde
+Refererer du til bilder uten å legge de inn i teksten din, **skal referansemalen for hvor du fant bildet følges**. 
+Viser du til et bilde funnet på nettet, skal referansemalen for nettsider følges. Viser du til et bilde funnet i en avis, skal referansemalen for avis følges.
 
-::: teksten
-Navn på fotograf. _Billedtittel_. År. Navn på institusjon som eier bildet. Inventarnummer.
-
-Bildet Passepiken fra 1920 av Olai Schumann Olsen er et eksempel på hvordan gatelivet i Bergen var preget av barn...
-:::
+Legger du bildene inn i teksen din skal referansen komme umiddelbart etterbildet som en figurtekst. 
 
 :::: ref
-Olsen, Olai Schumann. _St.Hans Strædet (Passepike_). 1920. Universitetsbiblioteket i Bergen. UBB-SO-0434.
+
+Fig. 1. Man exercising from: Green, Annie. "Yoga: Stretching Out." Sports Digest, 8 May 2006, p. 22. 
+Fig. 2. Annakiki skjørt fra: Cheung, Pauline. "Short Skirt S/S/ 15 China Womenswear Commercial Update." WGSN.
 
 ::: details I EndNote
 
