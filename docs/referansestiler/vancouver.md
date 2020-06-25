@@ -216,9 +216,11 @@ Lovens kortnavn. Årstall. Lovens fullstendige navn med vedtaksdato og nummer.
 
 Fra trykte kilder: Legges inn som "Government Document".
 
-Fyll ut feltene: Year, Title, Place Published, Publisher.
+Fyll ut feltene: Year, Short title, Title, Place Published, Publisher.
 
 Fra internett: Legges inn som "Web Page". 
+
+Fyll ut feltene: Short title, Year, Title, URL.
 :::
 ::::
 
@@ -449,23 +451,11 @@ Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel på oppslagsverk. 
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
-5.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+5\.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
 
-6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
+6\. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
  
-::: details I EndNote 
-
-Elektronisk oppslagsverk: Legges inn som "Web Page".
-
-Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
-
-Trykt oppslagsverk: Legges inn som "Dictionary".
-
-Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
-:::
-::::
-
-6\. Johnson A & Jackson, B. Fertilization age. I: Dorland's illustrated medical dictionary. 32. utg. Bind 3. Philadelphia: Elsevier; 2012. ; s. 675-676.
+7\. Johnson A & Jackson, B. Fertilization age. I: Dorland's illustrated medical dictionary. 32. utg. Bind 3. Philadelphia: Elsevier; 2012. ; s. 675-676.
 
 Uten forfatter:
 
@@ -475,15 +465,16 @@ Nummer. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel på oppsla
  
 ::: details I EndNote 
 
+Trykt oppslagsverk: Legges inn som "Encyclopedia".
+
+Fyll ut feltene: Year, Title, Dictionary Title, Volume, Place Published, Publisher, Edition - hvis aktuelt, Term, Pages.
+
 Elektronisk oppslagsverk: Legges inn som "Web Page".
 
 Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
 
-Trykt oppslagsverk: Legges inn som "Encyclopedia".
-
-Fyll ut feltene: Year, Title, Dictionary Title, Volume, Place Published, Publisher, Edition - hvis aktuelt, Term, Pages.
 :::
-
+::::
 
 
 ### Kliniske oppslagsverk (Point of care-verktøy)  
