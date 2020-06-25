@@ -98,7 +98,9 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book».
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Translator, Place Published, Publisher  
 ::: 
 :::: 
 
@@ -176,7 +178,9 @@ Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, red
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn), Year, Title, Volume, Place Published, Publisher  
 ::: 
 :::: 
 
@@ -228,7 +232,12 @@ Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institus
 
 Stange, Espen. "Inspirert av The New Brutalism? Arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
 
+::: details I EndNote
 
+Legges inn som «Thesis».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year Her legges også teksten "unpublished", Title, Place Published, University, Degree (her legges også institusjonen inn). 
+::: 
 :::: 
 
 
@@ -295,7 +304,7 @@ Artikkel på nett: Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Iss
 
 ### Nettside uten forfatter
 
-.::: tip I noten 
+::: tip I noten 
 ^nr^ Nettstedets navn, "Artikkeltittel."
 
 .., jfr data fra Statistisk sentralbyrå.^13^
@@ -327,6 +336,8 @@ Fyll ut feltene: Author (institusjonsnavnet med komma etter for å hindre invert
 "Når man jobber med en kunstner som det eksisterer forholdsvis lite systematisk tilgjengelig informasjon om, er kildestudier en nødvendighet."^14^ 
 ^14^ Følstad, Sverre og Lorentzen, Sandra, "JAkten på Mathilde Dietrichson", _Historieblogg_   (https://www.historieblogg.no/?p=5485)
 :::
+:::: ref
+^14^ Følstad, Sverre og Lorentzen, Sandra, "JAkten på Mathilde Dietrichson", _Historieblogg_   (https://www.historieblogg.no/?p=5485)
 
 ::: details I EndNote
 
@@ -351,6 +362,20 @@ Håvamål betyr «den høyes tale».^15^
 ^15^ _Wikipedia_, s.v. "Håvamål". 06.01.2020. (https://no.wikipedia.org/wiki/Håvamål)[https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ]
 ::: 
 
+:::: ref
+
+Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
+
+Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
+
+::: details I EndNote
+
+Legges inn som "Encyclopedia"
+
+Fyll inn feltene: Year, Encyclopedia Title, Title, Place published, Publisher, URL.
+:::
+
+::::
 
 
 ### Artikkel i elektronisk leksikon (med forfatter)
@@ -363,6 +388,20 @@ Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk o
 ^16^ _Store norske leksikon_, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 :::
 
+:::: ref
+
+Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
+
+Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
+
+::: details I EndNote
+
+Legges inn som "Encyclopedia"
+
+Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publisher.
+:::
+
+::::
 
 ### Artikkel i trykt leksikon/oppslagsverk
 
@@ -385,7 +424,9 @@ Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vik
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Encyclopedia"
+
+Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publisher. 
 ::: 
 :::: 
 
@@ -408,7 +449,9 @@ Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax, 1979.
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Encyclopedia"
+
+Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publisher. 
 ::: 
 :::: 
 
@@ -484,6 +527,9 @@ Etternavn, Fornavn. _Tittel_. Fornavn Etternavn på utøver(e). Årstall. Plates
 
 Berlioz, Hector. "Rex tremendæ" fra _Grande messe des morts, op.5, h75_. Bror Magnus Tødenes, tenor, Choir of Collegiûm Mûsicûm, Edvard Grieg kor, Royal Northern College of Music Chorus, Bergen Philharmonic Choir, Håkon Matti Skrede, chorus master, Eikanger-Bjørsvik musikklag, musicians from Bergen philharmonic youth orchestra and Crescendo, Bergen philharmonic orchestra, David Stewart, leader, Edward Gardner, conductor. 2018. Chandos. CD.
 
+Legges inn som "Audiovisual Material"
+
+Fyll inn feltene: Author (for komponist), Year, Title, Album name, Performers, Publisher (plateselskap), Type (medium, f. eks LP, CD, etc.).
 
 :::: 
 
