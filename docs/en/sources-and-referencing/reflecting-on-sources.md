@@ -9,9 +9,7 @@ When considering which source to use, there are several things to consider. You 
 
 Assessing and reflecting sources can often be much the same as assessing the content of an article. See Reading Modes for how help with evaluating the content of a article.
 
-Based on your assessments, you can decide whether the source is useful and rightfor what youre working on. On the previous page, we considered the type of source that was best for
-
-which purpose, here we are going to consider the contents of the source. There are several steps that can help you to evaluate the source.
+Based on your assessments, you can decide whether the source is useful and rightfor what youre working on. On the previous page, we considered the type of source that was best for which purpose, here we are going to consider the contents of the source. There are several steps that can help you to evaluate the source.
 
 ## The Author
 
