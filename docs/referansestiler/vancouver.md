@@ -56,14 +56,14 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ::: teksten
 Tekst (nummer, eventuelt sidetall)
-EKSEMPEL TRENGS!
 
-... 
+...disse sykdommene er vanlige (2, s.53) 
 :::
 
 :::: ref
-Nummer. 
-... 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider. [hentet dato]. Tilgjengelig fra: http://...
+
+2\. Bick J. 101 thing you need to know about Internet law [Internett]. New York: Three Rivers Press; 2000 [hentet 30. mars 2004]. Tilgjengelig fra: http://site.ebrary.com/lib/ntnu/
 
 ::: details I EndNote 
 Legges inn som "Electronic Book".
@@ -179,7 +179,7 @@ Fyll ut feltene: Year, Title, Place Published, Publisher, Last Update Date, Type
 ::: teksten
 Tekst (nummer)
 
-Eksempeltekst (7).
+De fleste reisende bruker bil (7) når de skal...
 :::
 
 :::: ref
@@ -232,7 +232,7 @@ Når det gjelder organisering og styring av spesialisthelsetjenesten, viser utva
 :::
 
 :::: ref
-NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
+Nummer. NOU Årstall: Nummer. Tittel. Sted: Utgiver; år.
 
 9\. NOU 2016: 25. Organisering og styring av spesialisthelsetjenesten — Hvordan bør statens eierskap innrettes framover? Oslo: Departementenes sikkerhets- og serviceorganisasjon, Informasjonsforvaltning; 2016.
 
@@ -248,13 +248,13 @@ Fyll ut feltene: Author (legg inn NOU år: nummer som forfatter med et komma til
 ::: teksten 
 Tekst (nummer)
 
-setning (10).
+...i Regjeringens klimastrategi (10) legges det opp til at...
 ::: 
 
 :::: ref 
-Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
+Nummer. Meld. St. nummer (sesjon). Tittel. Sted: Utgiver; År.
 
-Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
+10\. Meld. St. 41 (2016–2017). Klimastrategi for 2030 – norsk omstilling i europeisk samarbeid. Oslo: Klima- og miljødepartementet; 2017.
 
 ::: details I EndNote 
 
@@ -264,7 +264,7 @@ Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med e
 :::
 ::::
 
-* Merknad: Fram til oktober 2009 (sjekk) het det Stortingsmeldinger, forkortet St.meld., Bruk betegnelsen St.meld. på meldinger som er lagt fram før oktober 2009, f.eks. St.meld. nr. 30 (2008-2009).
+* Merknad: Fram til oktober 2009 het det Stortingsmeldinger, forkortet St.meld., Bruk betegnelsen St.meld. på meldinger som er lagt fram før oktober 2009, f.eks. St.meld. nr. 30 (2008-2009).
 
 ## Annet
 
@@ -273,10 +273,14 @@ Fyll ut feltene: Author (legg inn betegnelse nummer (sesjon) som forfatter med e
 ::: teksten 
 Tekst (nummer)
 
-Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
+...når bygningsmassen blir gammel gjelder andre regler (11)
 :::
 
 :::: ref 
+
+Nummer. Forfatter AA. Tittel.Sted: Utgiver; år. Rapport nr.
+
+11\. Holm A. Nye standarder i gamle bygg. Oslo: By- og regionforskningsinstituttet NIBR; 2016. NIBR-rapport 2016:14.
 
 ::: details I EndNote 
 
@@ -324,7 +328,7 @@ Elektronisk tidsskrift: Fyll ut feltene Author, Year (skriv in press), Title, Jo
 ::: teksten 
 Tekst (nummer)
 
-i en setning (11)
+...som foreslått av Miller et al. (11) bør vaksinen...
 ::: 
 
 :::: ref 
@@ -333,7 +337,7 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn 
 
 11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
 
-11. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
+12. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
 
 ::: details I EndNote 
 
@@ -382,15 +386,21 @@ FINNE
 
 ::: teksten 
 
-Tekst (nummer)
+Tekst (nummer, evnt. sidetall)
+
+...som ble utviklet av forskere ved University of California (12)...
 :::
 
 :::: ref 
-... 
+Nummer. Oppfinner AA, Oppfinner BB, Oppfinner CC. Patent-tittel. Registrert sted. Patentnummer. Årstall.
+
+12\. Clarke J, Pines A, McDermott RF, Trabesinger AH, inventors. University of California, assignee. SQUID detected NMR and MRI at ultralow fields. European Patent 1474707. 2004-11-10.
 
 ::: details I EndNote 
 
-tekst 
+Legges inn som "Patent".
+
+Fyll ut feltene: Inventor, Year, Title, Country,Patent Number,  URL.
 :::
 ::::
 
@@ -431,14 +441,24 @@ Tekst (nummer)
 
 :::: ref
 
-Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
+Med forfatter:
+
+Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel på oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
 
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
-Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+5\. Klein J, Dalgard O, Jensen HLB. Koronavirus. I : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
 
-Dorland's illustrated medical dictionary. 32. utg. Philadelphia: Elsevier; 2012. Filamin; s. 675.
+6\. Johnson A & Jackson, B. Fertilization age. I: Dorland's illustrated medical dictionary. 32. utg. Bind 3. Philadelphia: Elsevier; 2012. ; s. 675-676.
+
+7\. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
+
+Uten forfatter:
+
+Nummer. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. Innførselstittel; s. xxx-x. 
+
+8\. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
  
 ::: details I EndNote 
 
@@ -446,31 +466,12 @@ Elektronisk oppslagsverk: Legges inn som "Web Page".
 
 Fyll ut feltene: Year, Title, Place Published, Publisher, Type of Medium, Edition - hvis aktuelt, Year Cited, Date Cited, URL. (Tilpasning: Bruk feltet Year til: År. Tittel på innførsel; sidetall) 
 
-Trykt oppslagsverk: Legges inn som "Dictionary".
+Trykt oppslagsverk: Legges inn som "Encyclopedia".
 
-Fyll ut feltene: Year, Title, Dictionary Title, Place Published, Publisher, Pages, Edition - hvis aktuelt.
+Fyll ut feltene: Year, Title, Dictionary Title, Volume, Place Published, Publisher, Edition - hvis aktuelt, Term, Pages.
 :::
-::::
 
 
-Flere eksempler:  
-
-6. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
-
-Uten forfatter:
-
-Nummer. Redaktør AA, Redaktør BB, Redaktør CC, redaktører. Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. Innførselstittel; s. xxx-x. 
-
-7. Nylenna M, redaktør. Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. Trypanosoma; s. 129-30.
-
-::: 
-
-:::: ref
-::: details I EndNote 
-
-tekst 
-:::
-::::
 
 ### Kliniske oppslagsverk (Point of care-verktøy)  
 
@@ -479,6 +480,8 @@ tekst
 Tekst (nummer)
 
 ... tekst (15).
+
+...lungebetennelse hos innbyggere i Oslo bør behandles med polyvalente vaksiner (15)... 
 ::: 
 
 :::: ref 
@@ -490,7 +493,9 @@ Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klini
 
 ::: details I EndNote
 
-blabla 
+Legges inn som "Online database" 
+
+Fyll ut feltene: Author , Year, Title, Name of Database, Place published, Database provider, URL, Date published, Date accessed
 ::: 
 :::: 
 
@@ -510,8 +515,12 @@ Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i o
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel. Global Persistant Identifier/DOI/Handle Arkivets navn, Versjonen.
 
 5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
+
 ::: details I EndNote 
-... 
+
+Legges inn som "dataset" 
+
+Fyll ut feltene: Investigators, Year, Title, Name of Database, Place published, URL, Distributor, Version. 
 :::
 :::: 
 
