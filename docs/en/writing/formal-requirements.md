@@ -1,7 +1,7 @@
 ---
 title: "Formal requirements"
 date: "2013-02-21"
-next: "../sources-and-referencing"
+next: "../sources-and-referencing/"
 ---
 
 # Formal requirements
