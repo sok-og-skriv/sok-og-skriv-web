@@ -5,11 +5,11 @@ date: "2013-02-22"
 
 # How to cite
 
-You refer correctly by indicating the source in the text and giving complete information about the source in the reference list. Your sources should be given in such a way as to let the reader retrieve them easily. To follow correct referencing practice you need to mention the source in the text and provide complete information about the source in a reference list (sometimes called a literature list or a bibliography). Proper use of references allows the readers to locate your sources, either to read them or to evaluate your interpretation. If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using pagenumbers. The different styles of referencing may have varying practices concerning the use of pagenumbers, you should adhere to the usage in your field.
+The proper way to cite and refer to sources depends on the reference style you are using. This varies between subjects and disciplines. Some student writers are free to chose, while other are expected to follow a specific style. Check you course pages, ask your lecturer or observe other students' assignments. Once you have picked a style, follow it consistently. 
 
-You don't need to give references to absolutely everything. Read more under [What to cite?](/en/sources-and-referencing/how-to-cite/what-to-cite/ "What to cite?")
+You refer correctly by indicating (citing) the source in the text and giving complete information about the source in the list of references (sometimes called a literature list or a bibliography). If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using page numbers etc. The different styles of referencing may have varying practices concerning the use of page numbers. 
 
-Find out what [reference style](/en/sources-and-referencing/reference-styles/ "Reference Styles") is generally used in your field and use it consistently throughout your thesis. A reference style is a standardised way of presenting information about your sources.
+You don't need to provide references for absolutely everything, such as common knowledge and your own reflections. 
 
 ::: tip TIP! 
 Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications such as newspapers.
@@ -17,14 +17,103 @@ Look at scholarly or scientific articles to see how referencing works in practic
 
 # References and quotations
 
-Academic publications have formal rules for citation and referencing that vary between different fields, journals, etc. There are for example standard [abbreviations](/en/sources-and-referencing/how-to-cite/abbreviations/ "Abbreviations") that are commonly used in citations. Below you will find some examples of direct and indirect citations using the Harvard style.
+Academic publications have formal rules for citation and referencing that vary between different fields, journals, etc. There are for example standard abbreviatons that are commonly used in citations. 
+
+::: details Abbreviations 
+
+There are some standard abbreviations that are used when citing sources. Below is a list of some of the most common abbreviations. Remember that all abbreviations should have a period/full stop after them.
+- v. Volume 
+- anon. Anonymous. Unknown author
+- c. Circa. Used when approximating a date, for example c.1978
+- et al. And others. Used to shorten a list of authors e.g. Smith et al.
+- ch. Chapter 
+- ed(s). Editor(s)
+- Revised Edition?
+- p. Page or pp. Pages
+- n.d. No date. Used for sources without a given publication date
+::: 
+
+Below you will find some examples of direct and indirect citations using the APA style.
+
+## Quotations 
+
+When you take an excerpt from a text and use it in your text, this is called quotation. There are several ways to do this. The examples below are based on the referencing style APA 7th edition.
+
+
+### Direct quotations 
+In a proper/direct quotation you type exactly (word for word, including emphasis etc.) what another author has written. Excerpts consisting of less than 40 words (or three lines) are typed directly into your text and indicated by quotation marks (“...”).
+
+::: eksempel EXAMPLE 
+
+“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is _discussion_,” (Førland, 1996, p.11, our translation).
+
+Source: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Oslo: Gyldendal.
+::: 
+
+Quotations of more than 40 words (in the APA style) should be written in their own indented paragraph. In this case, quotation marks are not used.
+
+### Paraphrasing 
+
+When you want to cite another author, you may wish to reformulate their ideas using your own words. This "indirect quotation" can help to create a better flow in your text. When you paraphrase, you are rephrasing what another author has written. You should change both the words and word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing their ideas in any way, and that the meaning of the original text is retained. 
+
+::: eksempel EXAMPLE 
+
+Førland (1996, p. 11) claims that all students within social sciences and humanities must learn the academic genre, which is characterized by discussion. 
+
+The academic genre is characterized by discussion, and all students with the social sciences and humanities must learn to use it according to Førland (1996, p. 11).
+
+### Making changes to a quotation 
+
+Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts that are unnecessary for your argument or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be highlighted. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
+
+::: eksempel EXAMPLE
+“Students ... must write within an academic genre. The distinctive feature of this genre is discussion” (Førland, 1996, p. 11, our translation).
+
+If you want to add or replace something in a citation, this should be highlighted by using brackets.
+
+::: eksempel EXAMPLE
+“Students (and researchers) within [the academic disciplines] must write within an academic genre” (Førland, 1996, p.11, our translation). 
+::: 
+
+It can also be appropriate to remove or add italics to a longer citation. This should be highlighted within the reference.
+
+::: eksempel EKSEMPEL
+
+“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion,” (Førland, 1996, p.11, our translation, emphasis removed).
+::: 
+
+If you add italics in order to highlight a point, you should write either “author’s emphasis”, "my emphasis" or “emphasis added” after the reference: (Førland, 1996, p.11, our translation, emphasis added).
+
+### Secondary references
+As a rule, you should only cite from works that you have read. However, if the original source is not available, or is written in a language that you don’t understand, you can refer to others’ use of it:
+
+::: eksempel EXAMPLE
+
+Beck and Beck-Gemsheim referenced in Kloster (2003, p.4) talk about three stages that women and men have gone through in the move from a traditional to a modern society.
+There are three stages that the relationship between women and men have gone through in the move from a traditional to a modern society (Beck & Beck-Gemsheim in Kloster, 2003, p.4).
+
+### Notes and appendices
+- Limit use of notes.
+- Notes can be used for additional information that does not fit naturally in with the rest of your text. They provide information that is not essential for understanding the main content.
+- You can choose between footnotes at the bottom of a page and endnotes at the back of the chapter/assignment. Notes are normally set in a smaller font size than the main text.
+- Exactly how you make references to notes will depend on what referencing style you are using. 
+- Appendices can be tables or figures which are included in the assignment, questionnaires, observation forms, interview guides and other such additions which are not included in the main body of your text. Appendices must be numbered and included after the reference list.
+
+### Tools for managing references
+For longer assignments such as a bachelor or master thesis, you may be able to manage your references more effectively with the use of a reference management system such as EndNote, ReferenceManager, Zotero or Mendeley. When you use Word together with EndNote, Word will automatically create a reference list for the references in your text. You can also easily change your choice of referencing style if needed. Check with student services what reference management systems you have access to. Zotero and Mendeley are free and available for anyone.
+
+***Exporting your references from a database***
+Instead of copying references, you can often export them directly from the database where you found them. This will simplify the writing process and minimize errors in your referencing. 
+
 
 ## Direct quotations
 
 A direct quotation reproduces someone else’s words exactly as they were written or spoken. Remember that direct quotations must either be enclosed within quotation marks or indented (depending on their length).
 
 ::: eksempel EXAMPLE 
-"The single life that exists in late modern society may be perceived as forming part of such a democratic culture. One may say that it is an effect of the democratisation of the private sphere" (Kloster, 2003, p. 10).
+
+
+
 :::
 
 ### Mark changes in citations
@@ -32,12 +121,12 @@ A direct quotation reproduces someone else’s words exactly as they were writte
 Different styles have different rules, but the main principle is that all additions or exclusions in a quotation shall be marked in one way or another. If you have a long quotation including some irrelevant parts it might make sense to **exclude** some parts. This has to be marked clearly with for example three dots in square brackets \[...\] or regular parenthesis (...). A one- or two-word exclusion can be marked with ... (ellipsis), whereas parenthesis is used for longer exclusions.
 
 ::: eksempel EXAMPLE 
-"The single life ... may be perceived as forming part of such a democratic culture" (Kloster, 2003, p. 10).
+
 :::
 
 If you want to **add** or **replace** something in a quotation, you mark this by using square brackets. Example: "The single life that exists in late modern \[western\] society may be perceived as forming part of such a democratic culture" (Kloster, 2003, p. 10).
 
-It might also be relevant to remove or add italics in a longer quotation. This should be mentioned in the reference. Example: "The single life that exists in late modern society may be _perceived as_ forming part of such a democratic culture" (Kloster, 2003, p. 10, emphasis added).
+It might also be relevant to remove or add italics in a longer quotation. This should be mentioned in the reference. Example: xxx
 
 In the case of typos in the original, this can be marked by the Latin \[_sic_\], which means "thus was it written". _Sic._ can also mean that the quotation is unusual, but correctly reproduced.
 
@@ -108,23 +197,4 @@ Instead of copying and pasting your references, you can usually export them from
 
 Even when you are quoting a text correctly (citing the source/indicating the presence of a quotation), be careful not to take the quotation out of its original context. Apart from ethical considerations, you will risk violating the [Copyright Act](https://lovdata.no/lov/2018-06-15-40), as Section 25 of the Act provides, among other things, that the character of a work must not be changed or degraded. Be careful not to distort the original meanings of texts when you are assembling arguments put forward by different authors. For example, be careful when shortening quotations and do not omit references to conflicting data or arguments.
 
-::: oppave EXERCISE
 
-Read and compare the text in the boxes
-
-- Reflect on how the citation which is done conflicts with discipline methodology and the Intellectual Property Act.
-
-_Bittersøtt_ (Bittersweet) by Willy Pedersen is based on a qualitative research project containing interview materials on youth’s views on smoking hashish:
-
-> _– How do you experience smoking hashish?_  
-> _– It is fucking good. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the fits of laughter_._  
-> _– You also seem a bit sceptical to smoking hashish?_  
-> _– Problem is that you get a fucking bad emotional life from being on the road. You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: What the hell?_
-
-In the chapter "På kjøret" in _Historien om Norge V_ (The history of Norway V) by Karsten Alnes, this content is represented like this:
-
-> _– Why did they smoke hashish?_
-> « _It is fucking good_. Fun. You enter yourself and become one with everything. Everything is cool. Fantasy, dreams and all sorts of interesting stuff. You get fucking hungry. Eating kick. And the _fits of laughter_. … _You never cry. You almost never feel sad. If you are with a girl and she dumps you, you think: ’What the hell?_’»
-
-For a more elaborate analysis, see Rognstad, Nagel, Laupsa & Tønnesson (2006) God skikk - Om bruk av litteratur og kilder i allmene, historiske framstillinger (p. 120). (In Norwegian only.)
-:::
