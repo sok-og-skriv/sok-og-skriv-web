@@ -4,10 +4,10 @@ date: "2012-05-15"
 ---
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av kva referansestil du skal nytte. Kva referansestil som er aktuell vil variere frå fag til fag. Nokon står fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Det er viktig at du tek utgangspunkt i *ein* referansestil og føl denne konsekvent.
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av kva referansestil du skal nytte. Kva referansestil som er aktuell vil variere frå fag til fag. Nokon står fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil er det viktig at du følger denne konsekvent.
 
 
-På Søk & Skriv viser vi stilane [APA, 7 utgåve](/referansestiler/apa-7th), [Chicago med fotnoter](/referansestiler/chicago-fotnoter), [Chicago, forfatter-år](/referansestiler/chcago-forfatter-aar), [Harvard](/referansestiler/harvard), [MLA](/referansestiler/mla) og [Vancouver](/referansestiler/vancouver).
+På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th), [Chicago med fotnoter](/referansestiler/chicago-fotnoter), [Chicago, forfatter-år](/referansestiler/chcago-forfatter-aar), [Harvard](/referansestiler/harvard), [MLA](/referansestiler/mla) og [Vancouver](/referansestiler/vancouver).
 
 
 :::: details Forkortingar

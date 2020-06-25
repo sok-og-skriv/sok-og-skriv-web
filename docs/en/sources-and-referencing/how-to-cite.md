@@ -5,6 +5,8 @@ date: "2013-02-22"
 
 # How to cite
 
+The proper way to cite and reference sources depends on the reference style you are using. This varies between subjects and disciplines. Some student writers are free to chose, while other are expected to follow a specific style. Check you course pages, ask your lecturer or observe other students' assignments. Once you have picked a style, follow it consistently. 
+
 You refer correctly by indicating the source in the text and giving complete information about the source in the reference list. Your sources should be given in such a way as to let the reader retrieve them easily. To follow correct referencing practice you need to mention the source in the text and provide complete information about the source in a reference list (sometimes called a literature list or a bibliography). Proper use of references allows the readers to locate your sources, either to read them or to evaluate your interpretation. If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using pagenumbers. The different styles of referencing may have varying practices concerning the use of pagenumbers, you should adhere to the usage in your field.
 
 You don't need to give references to absolutely everything. Read more under [What to cite?](/en/sources-and-referencing/how-to-cite/what-to-cite/ "What to cite?")
