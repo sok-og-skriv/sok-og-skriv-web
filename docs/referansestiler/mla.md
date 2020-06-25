@@ -80,13 +80,15 @@ Rem, Tore. _En biografi om Jens Bjørneboe_. Cappelen Damm, 2020.
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher,
 ::: 
 :::: 
 
 ### E-bok
 
-I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Informasjon om format leggs inn utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for "e-bok". 
+I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Informasjon om format leggs inn som utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for "e-bok". 
 
 ::: teksten
 Joshua Schimel's _Writing Science_ tar for seg vitenskapelig skriving som historiefortelling med elementer som konflikt, dramatisk oppbygning og forløsning. 
@@ -100,7 +102,9 @@ Schimel, Joshua. _Writing Science: How to Write Papers That Get Cited and Propos
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Electronic Book».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher (Skriv versjon før forlag i Publisher-feltet: e-bok.Oxford UP)
 ::: 
 :::: 
 
@@ -122,7 +126,9 @@ Moi, Toril. "Å skrive er å tenke." _Min metode. Om sakprosaskriving_, redigert
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book Section».
+
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Editor (trykk «enter» mellom hvert navn hvis flere), Book Title, Publisher, Pages.
 ::: 
 :::: 
 
@@ -135,7 +141,7 @@ Vargas Llosa, Mario. _Kelterens drøm._ Oversettere Kari Risvik og Kjell Risvik,
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book». Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher, Translator.
 ::: 
 :::: 
 
@@ -149,7 +155,10 @@ Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Thesis».
+Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, University (Institutt/fakultet, Institusjon) Thesis Type (Akademisk avhandling).
+
+
 ::: 
 :::: 
 
@@ -163,8 +172,9 @@ Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenumm
 Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, www.idunn.no.
 
 ::: details I EndNote
+Legges inn som «Journal Article».
 
-blabla 
+Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages (hvis aktuelt) DOI/URL (Hvis aktuelt)
 ::: 
 :::: 
 
@@ -180,7 +190,9 @@ Guðmundsson, Halldór. "En engel i Reykholt". _Klassekampen_, 24. juni 2020, ht
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Newspaper Article».
+
+Fyll ut feltene: Reporter (trykk «enter» mellom hvert navn hvis flere), Title, Newspaper, Pages, (Hvis aktuelt) Issue Date, URL (Hvis aktuelt).
 ::: 
 :::: 
 
