@@ -4,4 +4,7 @@ blog_index: true
 
 # Videoer
 
-<VideoIndex />
+* [📺 Søking](/videoer/soking)
+* [📺 Studieteknikk](/videoer/studieteknikk)
+* [📺 Skriving](/videoer/skriving)
+* [📺 Kjeldebruk](/videoer/kjeldebruk)
