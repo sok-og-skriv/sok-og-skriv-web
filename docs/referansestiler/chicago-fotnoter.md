@@ -228,10 +228,7 @@ Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institus
 
 Stange, Espen. "Inspirert av The New Brutalism? Arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -461,10 +458,7 @@ EKSEMPEL
 
 Se Chicago-manualen for flere eksempler på henvisning til multimediale kilder og apper.
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
@@ -490,10 +484,7 @@ Etternavn, Fornavn. _Tittel_. Fornavn Etternavn på utøver(e). Årstall. Plates
 
 Berlioz, Hector. "Rex tremendæ" fra _Grande messe des morts, op.5, h75_. Bror Magnus Tødenes, tenor, Choir of Collegiûm Mûsicûm, Edvard Grieg kor, Royal Northern College of Music Chorus, Bergen Philharmonic Choir, Håkon Matti Skrede, chorus master, Eikanger-Bjørsvik musikklag, musicians from Bergen philharmonic youth orchestra and Crescendo, Bergen philharmonic orchestra, David Stewart, leader, Edward Gardner, conductor. 2018. Chandos. CD.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -547,10 +538,7 @@ St.meld. nr. 18 (2007-2008). _Arbeidsinnvandring._ Oslo: Arbeidsdepartementet. 
 
 Pagineringen kan være ulik mellom trykt og elektronisk versjon av offentlige dokumenter. Det er derfor viktig å henvise til rett versjon.
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
@@ -570,10 +558,7 @@ Regjeringen foreslo i forbindelse med revidert statsbudsjett å fjerne avgift p
 Prop. nr. (sesjon dvs. årstall). _Tittel._ Utgiversted: Departement. Eventuelt URL
 Prop. 125 LS (2009-2010). _Endringer i skatte- og avgiftsreglane mv._ Oslo: Finansdepartementet. [https://www.regjeringen.no/no/dokumenter/Prop-126-LS-2009-2010/id604532/sec1](https://www.regjeringen.no/no/dokumenter/Prop-126-LS-2009-2010/id604532/sec1)
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -600,10 +585,7 @@ NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Eventuelt URL
 
 NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/](https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/)
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -643,10 +625,7 @@ Nyere forskning peker i retning av (…)^24^
 
 Trille, Lille. ”Stort og smått i eggbransjen”. _Norsk tidsskrift for fiktive figurer fra rim og regler_, innsendt for publisering.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -665,10 +644,7 @@ Ifølge Ola Nordmann er det en sannsynlig sammenheng mellom disse faktorene.^25^
 
 Nordmann, Ola. _Håp og Tro: En studie av religiøse forestillinger_. Oslo: Fiktivt Forlag. Forventet publisering 2020.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -701,10 +677,7 @@ Institusjon, Kilde, opphavsperson, kildetype, sideanvisning, ev. andre opplysnin
 
 Statsarkivet i Bergen, Pantebok I, Byfogd og byskriver i Bergen. Pantebok 1. 1680–1684.
 
-::: details I EndNote
 
-blabla 
-::: 
 :::: 
 
 
@@ -729,10 +702,7 @@ Fornavn Etternavn/gruppe/institusjon, ”Sitat, (inntil 160 tegn)” Navn på so
 
 Stortinget. "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp," Facebook, 3.12.2019, [https://www.facebook.com/stortinget/posts/2555777227987301](https://www.facebook.com/stortinget/posts/2555777227987301)
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
