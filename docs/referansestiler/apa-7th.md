@@ -257,16 +257,22 @@ Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Ti
 
 Om artikkelen ikke har forfatter:
 ("artikkelens tittel")
+
 ... ("Lindeberg stasjon", 2017).
 :::
 
+
 :::: ref
-Forfatter. (oppdaterings- eller publiseringstidspunkt). _Tittel: Undertittel_. Nettstedets navn. https://xxxxx
-<span class="ref">Fossheim, H. (2018, 25 desember). _Aristoteles_. Store Norske Leksikon. https://snl.no/Aristoteles</span>
+Forfatter. (oppdaterings- eller publiseringstidspunkt). _Tittel: Undertittel_. 
+    Nettstedets navn. https://xxxxx
+
+<span class="ref">Fossheim, H. (2018, 25 desember). _Aristoteles_. 
+    Store Norske Leksikon. https://snl.no/Aristoteles</span>
 
 Om artikkelen ikke har forfatter: 
 
-<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. 
+    https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
 
 ::: details I Endnote
 
