@@ -27,7 +27,8 @@ module.exports = {
     '',
     'how-to-cite',
     'different-sources',
-    'source-assessment'
+    'source-assessment',
+    'reference-styles'
   ],
   '/en/': [
     '/en/about/',
