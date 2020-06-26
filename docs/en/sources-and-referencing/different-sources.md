@@ -46,33 +46,27 @@ A textbook is an introduction for students into a subject and its surrounding di
 
 ### Thesis 
 
-A thesis is a longer work that is limited to a topic or idea within a subject normally a master's thesis or a doctoral dissertation. There are specific requirements for these papers which concern adding to a previous body of research as such the academic community has strict expectations. 
+A thesis is a longer work around a topic or idea within a subject area, normally a master's thesis or a doctoral dissertation. Specific requirements apply to methods and use of theories, and for a PhD thesis the research community expects new results or perspectives.  
 
-Bachelor theses and other smaller student papers are often sources you should only use for inspiration rather than what you can write about yourself, to obtain an overview of relevant literature or to see what layout and structure you want to have. 
+Bachelor theses and other smaller student papers should only be used for inspiration. You may for example use them to find relevant literature, and as examples for organising your own assignment. 
 
 
-## Online resources  
+### Online resources  
 
-There are many different relevant websites that can be used as sources and to find information on a given topic. Google is a good place to quickly find information you need. News sites offer  the latest news and it can be helpful to see how your topic is covered in the media. You can also find great quotes on different sites relevant to your field. By using the internet as a source of knowledge you can equip yourself with a variety of sources.  The internet is a very important source to consider, and you can find relevant reputable information.  However, there is a lot of information online and many sites wont be ideal academic sources. 
+There are many different websites that can be used to find relevant information on a given topic. News sites offer  the latest news, and it can be helpful to see how your topic is covered in the media. You can also find great quotes on different sites relevant to your field. However, there is a lot of information online, and many sites are less than ideal as sources in an academic context. 
 
 ### Encyclopedia vs Wikipedia 
 
 Encyclopedias contain trustworthy, reputable information and background material on a variety of topics. The articles are compiled by subject editors and experts across a range of subjects and utilize reference lists. Encyclopedias are available in printed and electronic editions. 
 
-Wikipedia is an online encyclopedia that is created and edited by anyone who chooses to. Feel free to use Wikipedia as a starting point to get an overview of a topic, to check what sources they use, or to read up on the topic. The basic rule is that you should never use Wikipedia as your sole source, but you can use it a place to compare perspectives against other pages. You should make sure to check what you find in Wikipedia against reputable academic sources. 
+Wikipedia is an online encyclopedia that is created and edited by anyone who chooses to. Feel free to use Wikipedia as a starting point to get an overview of a topic and to look up the sources used there. The basic rule is that you should never use Wikipedia as your sole source, but you can use it to compare perspectives against other pages. Make sure to check what you find in Wikipedia against reputable academic sources. 
 
-
-::: tip Handy tip! 
-There are now subject-specific encyclopedias such as the Large Medical Encyclopedia which are offer detailed information within a specific field. 
-  
-Encyclopedias are good sources to use when defining phrases, words and phrases. Or to look up a short, common topic. For example, they can be useful to search for definitions on nursing, technology or business economics. 
-
-:::
+Encyclopedias are good sources to use when defining words and concepts or to look up a topic. 
 
 
 ### Blogs 
 
-A blog can be an easy way to check out discussions in different forums. You can subscribe to blogs like RSS feeds. Be aware that the style of a blog can often be in diary form and discuss the writer´s personal experiences or opinions. They are not always based on verifiable and scientifically documented claims.   
+A blog can be an easy way to check out discussions in different forums. You can subscribe to blogs with, e.g., RSS feeds. Be aware that the style of a blog can often be in diary form and discuss the writer´s personal experiences or opinions. They are not always based on verifiable and scientifically documented claims.   
 
 ::: tip Handy tip! 
 
@@ -82,30 +76,25 @@ Check to see if there are any professional blogs in the area you're researching.
 
 ### Op-eds 
 
-An op-ed is a relatively short text about an enlightening or reasoning character, usually in a newspaper. Op-eds are often used by researchers to bring research-based knowledge into the public. Op-eds, just like encyclopedias and Wikipedia, can be a good place to start to get an overview of a given topic and can help to give you a better understanding of the topic. 
+An op-ed is a relatively short text with an enlightening or reasoning character, usually in a newspaper. Op-eds are often used by researchers to bring research-based knowledge into the public. Op-eds, just like encyclopedias and Wikipedia, can be a good place to start to get an overview of a given topic and can help to give you a better understanding of the topic. 
 
 ### News
 
-News broadcasters and other sites that report the latest news may be useful for getting a perspective on how their topic is addressed. Note that, in the same way as chronicles, popular science and essays, news reports are not academic papers and should be avoided as part of argumentation and discussion. 
+News broadcasters and other sites that report the latest news may be useful for getting a perspective on how topics are addressed. Note that, in the same way as op-eds, popular science and essays, news reports are not academic and should be avoided as part of argumentation and discussion. 
 
-
-## Other Sources 
-
-There are many sources other than those mentioned above that can be helpful. 
- 
 
 ### Radio and TV programs 
 
-Radio or TV programs can also be a good place to get fresh angles for your assignment. If you are going to write about psychiatry but are unsure of what angle you want, it may be helpful to listen to the podcast "LEGG INN" or to watch the documentary series "LEGG INN" Or if you are writing about other topics within society, health or the environment, there are plenty of Norwegian and international programs that can help you get ideas and inspiration. 
+Radio or TV programs can also be a good place to get fresh angles for your assignment. If you are going to write about psychiatry, but are unsure how to approach it, a documentary or semi-documentary can be a good source of inspiration. 
 
 ::: warning NB 
 
-If you want to use radio or TV programs as a source, shorter clips can be used without special permission, but for longer clips you must contact the filmmaker or producer to avoid misinterpretations of meaning. 
+If you want to use radio or TV programs as a source, shorter clips can be used without special permission, but for longer clips you must contact the filmmaker or producer for permission. 
 :::
 
 ### Pictures from the Internet, photography, illustrations, picture-art  
 
-Pictures, illustrations and picture-art all might be useful for the task you are working with.  This might be true for both professional and more personal tasks as well.  For example, you may have a friend or family member who is an artist and has made a painting or drawing that helps to illustrate a topic or concept from your assignment.  Or you may write about how art can be used in a pedagogical approach or as a form of expression in psychiatry.  Here it may be useful to include pictures to support a point you are making in your text.  It is important to remember that many pictures, photographers, and illustrations are not always available to use in your task without paying for them or having received permission.  The ones you can freely use are usually found in Creative Commons. 
+Pictures, illustrations and picture-art all might be useful for the task you are working with. As a general rule you cannot use other peoples' pictures without permission. The ones you can freely use are usually found in Creative Commons. 
 
 
 ### Fieldwork and other observational studies 
@@ -116,7 +105,7 @@ In different fields and subjects where participant observation is useful as a me
 <Video id="ktM1r1Ca5Tc" />
 
 
-## Exercise: What website do you want to use? 
+## Exercise: Which websites do you want to use? 
 
 ::: oppgave Exercise 1 
 
