@@ -10,7 +10,7 @@ Sjå [Lesemåtar](/studieteknikk/lesemater.html) for korleis du kan vurdere innh
 ## Er kjelda truverdig?
 
 ### Forfattar 
-Når du skal vurdere ei kjelde, kan ein god start vere å sjå nærare  på forfattaren. Blir forfattaren tydeleg presentert? Er det ein forfattar, eller er det fleire? Er det ein person, eller kanskje ein organisasjon? Kan du finne ut meir om bakgrunn og fagområde? Eit søk på forfattarnamn i [Oria](https://oria.no "Oria")eller Google kan gje nyttig informasjon.
+Når du skal vurdere ei kjelde, kan ein god start vere å sjå nærare  på forfattaren. Blir forfattaren tydeleg presentert? Er det ein forfattar, eller er det fleire? Er det ein person, eller kanskje ein organisasjon? Kan du finne ut meir om bakgrunn og fagområde? Eit søk på forfattarnamn i [Oria](https://oria.no «Oria») eller Google kan gje nyttig informasjon.
 
 ### Utgjevar/ansvarleg
 
