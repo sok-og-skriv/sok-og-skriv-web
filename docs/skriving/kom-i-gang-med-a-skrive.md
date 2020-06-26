@@ -40,7 +40,7 @@ Det er (minst) to strategier for å produsere tekst:
 - Disposisjonen justeres underveis
 :::
 
-Skriveprosessen kan ha ulike former. Det er viktig å finne ut hvordan _du_ fungerer best. Pleier du å gå og "ruge" i lang tid, for så å produsere en mer eller mindre ferdig tekst? Eller trenger du å skrive for å komme i gang, selv om du ikke vet hvor det fører hen, og deretter bruke tiden til å strukturere, skrive om og bygge ut utkastet ditt? Vær trygg på arbeidsmåten din!
+Skriveprosessen kan ha ulike former. Det er viktig å finne ut hvordan _du_ fungerer best. Pleier du å gå og "ruge" i lang tid, for så å produsere en mer eller mindre ferdig tekst? Eller trenger du å skrive for å komme i gang, selv om du ikke vet hvor det fører hen, og deretter bruke tiden til å strukturere, skrive om og bygge ut utkastet ditt? Prøv gjerne ulike metoder, så blir du trygg på arbeidsmåten din!
 
 ## Oppstartsteknikker
 
@@ -58,7 +58,7 @@ Ideer kan dukke opp når som helst – ha alltid penn og papir tilgjengelig!
 Idémyldring er en privat tekst, som skal gi skrivelyst.
 
 ::: tip Tips:
-Mangler du penn og papir, har du kanskje en mobil for hånden. Skriv ideen du fikk som en tekstmelding, eller les den inn på taleopptak.
+Mangler du penn og papir, har du kanskje en mobil for hånden. Skriv ideen du fikk som tekstmelding eller notat, eller les den inn på taleopptak.
 :::
 
 ### Tankekart
