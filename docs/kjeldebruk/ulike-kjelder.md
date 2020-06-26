@@ -6,12 +6,12 @@ date: "2020-04-28"
 Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap frå ein person med god kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
 
 ## Kva er formålet med kjelda?
-Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar, og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html)som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelder du treng vil avhenge av kva skriv om og kva du ønskjer å poengtere. [Å skrive akademisk](/skriving/akademisk-sprak-og-stil.html) krev at du vurderer informasjon om temaet opp mot kva type kjelde oppgåva di treng. 
+Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html)som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelder du treng vil avhenge av kva du skriv om og kva du ønskjer å poengtere. [Å skrive akademisk](/skriving/akademisk-sprak-og-stil.html) krev at du vurderer informasjon om temaet opp mot kva type kjelde oppgåva di treng. 
 
 ## Artiklar
 Me skil mellom ulike typar artiklar. Når me skriv om artiklar i denne samanhengen viser me først og fremst til artiklar publisert vitskapelege tidsskrift. Det kan også vere relevant å bruke såkalla fagartiklar, det vil seie artiklar som er skrivne av fagfolk og publisert i seriøse kanalar, men som ikkje oppfyller krava til ein vitskapeleg publikasjon. Avisartiklar og tekst skrive for ulike nettsider kjem ikkje inn under denne kategorien.
 
-Ein vitskapeleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn vitskapelege artiklar om ditt tema vil det kunne styrke oppgåva di. Pass på at du alltid [vurdere kjeldene dine fagleg](/kjeldebruk/kjelderefleksjonar.html).
+Ein vitskapeleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn vitskapelege artiklar om ditt tema vil det kunne styrke oppgåva di. Pass på at du alltid [vurderer kjeldene dine fagleg](/kjeldebruk/kjelderefleksjonar.html).
   
 
 ### Vitskapleg artikkel
@@ -20,15 +20,15 @@ Ein vitskapleg artikkel er ein tekst der forfattaren greier ut om eit emne eller
 
 ### Oversiktsartikkel / review-artikkel
 
-Ein oversiktsartikkel er ein forskingsartikkel som gir eit overblikk over eit fagleg spørsmål på bakgrunn av eit utval av forskingslitteraturen på området. Artikkelen presenterar ein samanfatta analyse og konklusjon om ei problemstilling, og skal gjere det lettare for forskare innan fagområdet å orientere seg om dei store linjene i forskninga.
+Ein oversiktsartikkel er ein forskingsartikkel som gir overblikk over eit fagleg spørsmål på bakgrunn av eit større antall studier. Artikkelen presenterar ein samanfattande analyse av kunnskapsstatus på feltet som skal gjere det lettare for forskarar å orientere seg om dei store linjene i forskinga.
 
 ### Fag- eller forskingsartikkel? 
 
-Det er vanleg å skilje mellom fag- og forskingsartikkel, og det blir forventa at du klarer skilje mellom når du nytter den eine og når du nytter den andre typen artikkel. 
+Det er vanleg å skilje mellom fag- og forskingsartikkel, og det blir forventa at du klarer å skilje mellom når du nytter den eine og når du nytter den andre typen artikkel. 
 
 Ifølgje [Sykepleien.no](https://sykepleien.no/forskning/2012/02/forskningsartikkel-eller-fagartikkel) har ein forskingsartikkel som føremål å presentere ny forsking, medan fagartiklar oppsummerar kunnskap som allereie er kjend. På grunn av forskningsartikkelen sitt krav om at resultata skal kunne kontrollerast og etterprøvast skal denne type artikkel derfor innehalde nøyaktig informasjon om korleis forskarane har gått fram for å undersøke problemstillinga. 
 
-I mange tilfelle er artiklane merka med kva type artikkel dei er, for eksempel "research article", "review" også vidare. Sjå om artikkelen er merka, om ikkje må du sjølve vurdere om det er ein fag- eller forskingsartikkel. Vurder om artikkelen presenterer ny kunnskap eller om han tek utgongspunkt i kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å sjå om dei har skrive metoden dei nytter så grundig at du kunne ha gjort nøyaktig det same. 
+I mange tilfelle er artiklane merka med kva type artikkel dei er, for eksempel "research article", "review" også vidare. Viss artikkelen ikkje er merka må du sjølv vurdere om det er ein fag- eller forskingsartikkel. Vurder om artikkelen presenterer ny kunnskap eller om han tek utgongspunkt i kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å om metoden er beskrive så grundig at du kunne ha gjort meir eller mindre nøyaktig det same. 
 
 ### Fagfellevurdering (peer review)
 
