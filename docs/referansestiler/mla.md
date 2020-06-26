@@ -247,7 +247,7 @@ fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere) Title, Pu
 
 ## Oppslagsverk 
 
-### Artikkel i leksikon (uten forfatter)
+### Artikkel i elektronisk leksikon (uten forfatter)
 
 ::: teksten
 ... oppslagsordet ... 
