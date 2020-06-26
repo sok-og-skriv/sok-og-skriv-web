@@ -1,9 +1,9 @@
 ---
-title: "Reflecting on sources"
+title: "Source assessment"
 date: "2020-06-25"
 ---
 
-# Reflecting on sources
+# Source assessment
 
 When considering which source to use, there are several things to consider. You should consider the source type, credibility and authority. Questions about the quality of the source can be decided on the basis of questions of what the content was produced for, what references the source uses, the origin of the source, and when the source was published. Source assessment means that the source is evaluated by type, authenticity, credibility and authority. You can also figure out the quality of the source by asking questions about what the content was produced for, what references it used, its origin and publication date
 
