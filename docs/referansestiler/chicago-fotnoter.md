@@ -332,10 +332,10 @@ Fyll ut feltene: Author (institusjonsnavnet med komma etter for å hindre invert
 ^nr^ Etternavn, ”Artikkeltittel.” _Tittel på nettsted/blogg_. Dato. DOI/URL
 
 "Når man jobber med en kunstner som det eksisterer forholdsvis lite systematisk tilgjengelig informasjon om, er kildestudier en nødvendighet."^14^ 
-^14^ Følstad, Sverre og Lorentzen, Sandra, "JAkten på Mathilde Dietrichson", _Historieblogg_   (https://www.historieblogg.no/?p=5485)
+^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
 :::
 :::: ref
-^14^ Følstad, Sverre og Lorentzen, Sandra, "JAkten på Mathilde Dietrichson", _Historieblogg_   (https://www.historieblogg.no/?p=5485)
+^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
 
 ::: details I EndNote
 
