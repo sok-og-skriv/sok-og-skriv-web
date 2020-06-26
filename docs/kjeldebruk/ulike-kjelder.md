@@ -11,7 +11,7 @@ Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bl
 ## Artiklar
 Me skil mellom ulike typar artiklar. Når me skriv om artiklar i denne samanhengen viser me først og fremst til artiklar publisert vitskapelege tidsskrift. Det kan også vere relevant å bruke såkalla fagartiklar, det vil seie artiklar som er skrivne av fagfolk og publisert i seriøse kanalar, men som ikkje oppfyller krava til ein vitskapeleg publikasjon. Avisartiklar og tekst skrive for ulike nettsider kjem ikkje inn under denne kategorien.
 
-Ein vitskapeleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn vitskapelege artiklar om ditt tema vil det kunne styrke oppgåva di. Pass på at du alltid [vurderer kjeldene dine fagleg](/kjeldebruk/kjelderefleksjonar.html).
+Ein vitskapeleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn vitskapelege artiklar om ditt tema vil det kunne styrke oppgåva di. Pass på at du alltid [vurderer kjeldene dine fagleg](/kjeldebruk/kjeldevurdering.html).
   
 
 ### Vitskapleg artikkel
@@ -55,7 +55,7 @@ Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne inna
 Bacheloroppgåver og andre mindre studentoppgåver kan nyttast som inspirasjon. Du kan få nyttige tips om tema for oppgåva di, gode lesetips i kjeldelister, oppsett og struktur. Me tilrår ikkje at du bruker slike oppgåver som faglege kjelder.  
 
 ## Nettstader
-Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du kan nytte Google til raskt å finne informasjon, lese nettaviser for å finne siste nytt, eller sjå korleis emnet ditt blir dekka i media. Eit googlesøk kan gi deg treff på alt frå fagfellevurderte forskingsartiklar til hardkokte konspirasjonsteoriar. Ved å nytte internett som kunnskapskjelde blir du stilt ovanfor eit hav av informasjon. Det er såleis særs viktig at du [vurderer](/kjeldebruk/kjelderefleksjonar.html) det du finn kritisk med tanke på innhald, kontekst og opphav. 
+Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du kan nytte Google til raskt å finne informasjon, lese nettaviser for å finne siste nytt, eller sjå korleis emnet ditt blir dekka i media. Eit googlesøk kan gi deg treff på alt frå fagfellevurderte forskingsartiklar til hardkokte konspirasjonsteoriar. Ved å nytte internett som kunnskapskjelde blir du stilt ovanfor eit hav av informasjon. Det er såleis særs viktig at du [vurderer](/kjeldebruk/kjeldevurdering.html) det du finn kritisk med tanke på innhald, kontekst og opphav. 
 
 ### Leksikon
 Leksika inneheld fagleg, kvalitetssikra informasjon og bakgrunnsstoff om ein mengde emner. Artiklene er samla av eigne emneredaktørar innanfor ulike fagområder og har gode referanselister. Dei finnast både i trykte og elektroniske utgåver. 
