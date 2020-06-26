@@ -3,7 +3,7 @@
   "title": "What type of reference is this?",
   "questions": [
     {
-      "text": "Unicef (10 August 2012). Quality of education and child-friendly schooling [Internet], Unicef. Available from: http://www.unicef.org/education/bege_61667.html [Accessed 02 April 2013].",
+      "text": "Unicef (2012, 10 august). Quality of education and child-friendly schooling. <i>Unicef</i>. http://www.unicef.org/education/bege_61667.html [Accessed 02 April 2013].",
       "responses": [
         {
           "text": "Book"
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "text": "Morgan, D. (2012) The Embodied Eye: Religious Visual Culture and the Social Life of Feeling. Berkeley and Los Angeles, University of California Press.",
+      "text": "Morgan, D. (2012). <i>The Embodied Eye: Religious Visual Culture and the Social Life of Feeling</i>. University of California.",
       "responses": [
         {
           "text": "Book",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "text": "Orsi, R. A. (2009) Abundant History: Marian Apparitions as Alternative Modernity. In: Hermkens, A.-K., Jansen, W. & Notermans, C. ed. Moved by Mary: The Power of Pilgrimage in the Modern World. Farnham and Burlington, Ashgate, p. 215-238.",
+      "text": "Orsi, R. A. (2009). Abundant History: Marian Apparitions as Alternative Modernity. In: Hermkens, A.-K., Jansen, W. & Notermans, C. (ed.) <i>Moved by Mary: The Power of Pilgrimage in the Modern World</i> (p. 215-238). Ashgate",
       "responses": [
         {
           "text": "Book"
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "text": "Minten, B., Sander, K. & Stifel, D. (2013) Forest management and economic rents: Evidence from the charcoal trade in Madagascar. Energy for Sustainable Development [Internet], 17 (2) April, p. 106-115. Available from: http://www.sciencedirect.com/science/article/pii/S0973082612000543 [Accessed 03 April 2013].",
+      "text": "Minten, B., Sander, K. & Stifel, D. (2013). <i>Forest management and economic rents: Evidence from the charcoal trade in Madagascar. Energy for Sustainable Development</i>. http://www.sciencedirect.com/science/article/pii/S0973082612000543 [Accessed 03 April 2013].",
       "responses": [
         {
           "text": "Book"
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "text": "Langdale, A. (1998) Aspects of the Critical Reception and Intellectual History of Baxandall´s Concept of the Period Eye. Art History, 21 (4), p. 479-497.",
+      "text": "Langdale, A. (1998). Aspects of the Critical Reception and Intellectual History of Baxandall´s Concept of the Period Eye. <i>Art History, 21</i>(4), p. 479-497.",
       "responses": [
         {
           "text": "Book"
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "text": "Pope, B. C. (1987) Immaculate and Powerful: The Marian Revival in the Nineteenth Century. In: Buchanan, C. H., Atkinson, C. W. & Miles, M. R. ed. Immaculate and Powerful. London, Crucible, p. 173-199.",
+      "text": "Pope, B. C. (1987). Immaculate and Powerful: The Marian Revival in the Nineteenth Century. In: Buchanan, C. H., Atkinson, C. W. & Miles, M. R. (ed.). <i>Immaculate and Powerful</i>(p. 173-199). Crucible.",
       "responses": [
         {
           "text": "Book"
