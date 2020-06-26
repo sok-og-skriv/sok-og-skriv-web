@@ -108,7 +108,8 @@ Vargas Llosa, Mario. 2012. _Kelterens drøm_. Oversatt av Kari Risvik og Kjell R
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book».
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Translator
 ::: 
 :::: 
 
@@ -150,7 +151,9 @@ Imsen, Steinar og Jørn Sandnes. 1995. _Avfolkning og union: 1319–448_. Bind 4
 
 ::: details I EndNote
 
-blabla 
+Legges inn som «Book».
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Place Published, Publisher
+Volume, Editor / Series Editor, Series Title
 ::: 
 :::: 
 
@@ -303,10 +306,7 @@ _Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato, URL/DOI.
 
 _The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
@@ -325,10 +325,7 @@ Etternavn, Fornavn. «Artikkeltittel». _Tittel på oppslagsverk_, utg., bd., ut
 
 Pentikäinen, Juha. «Finnish Religions.» _Encyclopedia of Religion_, 2. utg., bd. 5, Detroit, 2005.
 
-::: details I EndNote
-
-blabla 
-::: 
+ 
 :::: 
 
 
