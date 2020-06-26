@@ -101,3 +101,8 @@ Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegels
 For større oppgåver som bacheloroppgåver og masteroppgåver kan du effektivisere arbeidet med referansane dine ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
 Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengelege for alle.
 
+
+## QUIZ: Kva type kjelde er dette?
+
+<QuizEn v-bind:quizNum=1 />
+
