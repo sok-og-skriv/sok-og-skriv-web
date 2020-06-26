@@ -109,7 +109,6 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 :::: 
 
 
-
 ### Bokkapittel
 
 ::: teksten
@@ -162,6 +161,7 @@ Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Tit
 ::: 
 :::: 
 ## Artikler
+
 ### Artikkel i tidsskrift (trykt/elektronisk)
 
 Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI hvis dette er tilgjengelig. 
@@ -196,7 +196,7 @@ Fyll ut feltene: Reporter (trykk «enter» mellom hvert navn hvis flere), Title,
 ::: 
 :::: 
 
-
+## Nettsider 
 
 ### Nettside fra organisasjon
 
@@ -253,6 +253,7 @@ fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere) Title, Pu
 ::: 
 :::: 
 
+## Oppslagsverk 
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
@@ -346,6 +347,7 @@ Fyll inn feltene Author, Year, Title, Publisher, Series Title, URL (Hvis aktuelt
 
 Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
 
+## Annet 
 
 ### Klassiske og hellige tekster 
 
