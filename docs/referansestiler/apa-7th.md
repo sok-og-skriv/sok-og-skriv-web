@@ -32,6 +32,11 @@ For selvstendige dokumenter vil referansens _hvor_ være utgivelsessted og utgiv
 - Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første.
 
+
+::: warning
+For andre eksempler enn de listet opp nedenfor, sjekk [APA manualen](https://www.unit.no/tjenester/norsk-apa-referansestil)
+:::
+
 ## Bøker
 
 ### Bok
@@ -40,10 +45,7 @@ For selvstendige dokumenter vil referansens _hvor_ være utgivelsessted og utgiv
 **Bok med en til tre forfattere:**  
 (Etternavn & Etternavn, årstall, evt. sidetall)  
 
-**Bok med fire til 20 forfattere:**  
-(Første forfatters etternavn, et al., årstall, evt. sidetall)
-
-**Bok med 21 forfattere eller flere:**
+**Bok med fire eller flere forfattere:**
 (Første forfatters etternavn, et al., årstall, evt. sidetall)
 
 (Gullestad & Killingmo, 2013, s. 35)
@@ -221,40 +223,20 @@ Elektronisk tidsskrift: Fyll ut feltene Author, Year, Title, Journal, Volume, Is
 Oppgi DOI dersom det er oppgitt. Hvis kildeinformasjon som årgang/volum, hefte/issue eller sidetall ikke er oppgitt, utelates disse fra referansen.
 
 
-### Artikkel i trykt avis
+### Artikkel i avis (trykt og elektronisk)
 
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
 
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
-:::
-
-:::: ref
-<span class="ref">Forfatter. (Årstall, dato). Tittel på artikkel: undetittel. _Avisens tittel_, side.</span>
-
-<span class="ref">Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_, s. 12.</span>
-
-::: details I EndNote
-
-Legges inn som "Newspaper Article".
-
-Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date.
-::: 
-:::: 
-
-#### Merknader
-Ta med avisens seksjon dersom det er nødvendig for å skille ulike utgaver eller deler av avisen fra hverandre (F.eks. _Aftenposten_, kultur). 
-
-### Artikkel i nettavis
-
-::: teksten
-(Forfatter, årstall)
 
 (Knapstad, 2018).
 :::
 
 :::: ref
-<span class="ref">Forfatter. (Årstall, dato). Tittel på artikkel: Undertittel. _Avisens tittel_. URL.</span>
+<span class="ref">Forfatter. (Årstall, dato). Tittel på artikkel: undetittel. _Avisens tittel_, side. URL om du leser avisartikkelen elektronisk. </span>
+
+<span class="ref">Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_, s. 12.</span>
 
 <span class="ref">Knapstad, M. L. (2018, 9 mai). En jafs av Bergen. Aftenposten, A-magasinet. https://www.aftenposten.no/a-magasinet/i/ngJron/en-jafs-av-bergen?</span>
 
@@ -262,9 +244,34 @@ Ta med avisens seksjon dersom det er nødvendig for å skille ulike utgaver elle
 
 Legges inn som "Newspaper Article".
 
-Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date,URL.
+Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date og url om du les avisartikkelen elektronisk
 ::: 
 :::: 
+
+### Artikler fra leksikon 
+
+::: teksten 
+(forfatter, år)
+
+(Fossheim, 2018).
+
+Om artikkelen ikke har forfatter:
+("artikkelens tittel")
+... ("Lindeberg stasjon", 2017).
+:::
+
+::: ref
+Forfatter. (oppdaterings- eller publiseringstidspunkt). _Tittel: Undertittel_. Nettstedets navn. https://xxxxx
+<span class="ref">Fossheim, H. (2018, 25 desember). _Aristoteles_. Store Norske Leksikon. https://snl.no/Aristoteles</span>
+
+Om artikkelen ikke har forfatter: 
+
+<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+
+:::: details I Endnote
+
+:::
+::::
 
 
 ## Nettsider
