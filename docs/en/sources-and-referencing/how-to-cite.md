@@ -108,5 +108,6 @@ For longer assignments such as a bachelor or master thesis, you may be able to m
 ***Exporting your references from a database***
 Instead of copying references, you can often export them directly from the database where you found them. This will simplify the writing process and minimize errors in your referencing. 
 
+## QUIZ: What type of reference is this?
 
-
+<QuizEn v-bind:quizNum=2 />
