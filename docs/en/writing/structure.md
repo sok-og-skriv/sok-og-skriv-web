@@ -7,7 +7,7 @@ date: "2020-06-23"
 
 The structure of your assignment is the ‘skeleton’ that holds different parts of your text together. In order to ensure that your assignment is coherent and flows well, it is important to understand what function your different chapters or sections have in relation to each other. Everything you write in your assignment must fulfil a purpose. Here you can find advice on what the different chapters/sections in an assignment should contain, focusing on their different functions. 
 
-There are many ways in which you can structure an assignment. Earlier on in your studies, you will often encounter “explain and discuss”-style assignments. In the health and natural sciences, the [IMRAD model](/writing/the-imrad-format.html#introduction) (Introduction, Methods and Materials, Results and Discussion) is often used. In the humanities and social sciences, you usually have more freedom to decide how you want to structure your text. 
+There are many ways in which you can structure an assignment. Earlier on in your studies, you will often encounter “explain and discuss”-style assignments. In the health and natural sciences, the [IMRAD model](/en/writing/the-imrad-format.html#introduction) (Introduction, Methods and Materials, Results and Discussion) is often used. In the humanities and social sciences, you usually have more freedom to decide how you want to structure your text. 
 
 ::: example A good assignment is characterised by
 

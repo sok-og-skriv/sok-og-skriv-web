@@ -6,7 +6,7 @@ date: "2012-09-18"
 # APA 6th
 
 ::: warning OBS! 
-APA 6th vil ikke blir oppdatert eller endret, grunnet oppgradert utgave ([APA 7th](referansestiler/apa-7th.html)). På grunn av en gradvis overgang til APA 7th, vil APA 6th være tilgjengelig en stund framover
+APA 6th vil ikke blir oppdatert eller endret, grunnet oppgradert utgave ([APA 7th](/referansestiler/apa-7th.html)). På grunn av en gradvis overgang til APA 7th, vil APA 6th være tilgjengelig en stund framover
 :::
 
 APA står for American Psychological Association. Foreningen har utviklet en referansestil som er en typisk forfatter-årstallstil. Den er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av:

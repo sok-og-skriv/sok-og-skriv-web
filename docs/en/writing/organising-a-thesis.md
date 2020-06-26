@@ -7,8 +7,6 @@ date: "2013-02-21"
 
 This section describes the main elements of a written thesis for the Norwegian bachelor’s and master’s degrees. Although the organising principles described here are most clearly relevant for empirical theses, much of the advice is also relevant for theoretical work. Please note that the formal requirements vary between different disciplines, and make sure to confer the guidelines that apply in your field.
 
-For the contents in the various sections you may also confer [Organising your writing](en/writing/organising-a-thesis.html/).
-
 ## Summary and foreword
 
 Most readers will turn first to the summary (or abstract). Use it as an opportunity to spur the reader’s interest. The summary should highlight the main points from your work, especially the thesis statement, methods (if applicable), findings and conclusion. However, the summary does not need to cover every aspect of your work. The main objective is to give the reader a good idea of what the thesis is about.
