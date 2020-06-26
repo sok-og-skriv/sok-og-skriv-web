@@ -1,6 +1,7 @@
 ---
 title: "Formelle krav til oppsett"
 date: "2012-06-08"
+next: "../kjeldebruk/"
 ---
 
 # Formelle krav til oppsett
