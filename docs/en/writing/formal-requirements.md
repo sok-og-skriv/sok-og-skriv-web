@@ -139,7 +139,7 @@ Some material can be included in your paper as an appendix, such as interview gu
 
 Most reference styles recommend to list all sources together, arranged in alphabetical order. If using an author-date style (APA or Harvard), entries by the same author should be listed in chronological order In the event of multiple entries by the same author with same date of publication, mark each with a, b, c, etc.
 
-In most fields, different source types are included in the same reference list, but in some historical subjects it can be the case that primary and secondary sources are listed separately. Read more about referencing at “[Why Cite Sources?]([/en/sources-and-referencing/why-cite-sources/](/en/sources-and-referencing/#why-refer-to-the-work-of-others))”
+In most fields, different source types are included in the same reference list, but in some historical subjects it can be the case that primary and secondary sources are listed separately. Read more about referencing at “[Different sources](/en/sources-and-referencing/different-sources.html)”
 
 ::: tip Tip:
 If you choose to use reference management software like EndNote, your data skills ought to be relatively good. It is completely possible to write a paper or article without such a program. References can easily be copied from Oria or Google Scholar, but be sure to check that they are complete.
