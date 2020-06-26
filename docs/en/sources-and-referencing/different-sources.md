@@ -128,8 +128,3 @@ You are just starting on a task, and have decided on an overall theme.  You are 
 You have begun your discussion section and are looking for a source that helps to build up some of your arguments.  What kind of source makes your reasoning stronger?   
 :::
  
-
-
-## QUIZ: What type of reference is this?
-
-<QuizEn v-bind:quizNum=2 />
