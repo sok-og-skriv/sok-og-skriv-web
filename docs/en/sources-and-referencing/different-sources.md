@@ -7,7 +7,7 @@ date: "2020-06-25"
 
 ## What is the purpose of sources? 
 
-When you are looking up information for your assignment you will encounter information that is presented in many different ways and in different formats.  Writing an assignment is partially about knowing which sources and information will be the most useful for your assignment.  Each source has its own purpose and role.  In many cases the types of sources we use will be those that follow our academic genre and help build up our reasoning and overall strength of the assignment.  Other times sources will be laws that we are referencing, or definitions from encyclopedias.  What source you use will depend on the information you need for your assignment, and what are the points you are trying to make.  To write an academic text it is necessary to think about types of sources are needed for the assignment.   
+Information can be presented in many different ways and in different formats. Writing an assignment is partially about knowing which sources and information will be the most useful for your needs. Each source has its own purpose and role. In many cases the types of sources we use will be those that help build up our reasoning and overall strength of the thesis. Other sources are used for definitions or documentation, such as encyclopedias. The type of sources you use will depend on the information you need for your assignment, and the points you are trying to make. 
 
 ## Articles 
 
