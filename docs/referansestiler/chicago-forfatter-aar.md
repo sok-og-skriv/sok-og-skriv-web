@@ -47,7 +47,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 
 ### E-bok
-Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for e-bøker med mindre publiseringsår mangler.
+Dersom boken har DOI-nummer, brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for e-bøker med mindre publiseringsår mangler.
 
 ::: teksten
 (Forfatter årstall, evt. sidetall)
