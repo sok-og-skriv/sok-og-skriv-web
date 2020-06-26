@@ -1,8 +1,9 @@
 ---
-title: "Kjelderefleksjonar"
+title: "Kjeldevurdering"
 date: "2020-04-28"
+next: "../referansestiler/"
 ---
-# Kjelderefleksjonar
+# Kjeldevurdering
 Når du har funne ei kjelde må du vurdere om denne er god og relevant for ditt arbeid. For å vurdere om ei kjelde er god, må du ta omsyn til fleire faktorar: Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Andre spørsmål du bør stille deg er kven kjelda er produsert for, korleis ho refererer til andre og tidspunktet for publisering. For å vurdere i kva grad kjelda er relevant for deg, kan det vere nyttig å analysere teksten nærare: Kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
 
 Sjå [Lesemåtar](/studieteknikk/lesemater.html) for korleis du kan vurdere innhaldet i eit tekst. 

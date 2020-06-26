@@ -163,7 +163,7 @@ De enkelte databasene tilbyr også muligheter for å avgrense/snevre inn en tref
 
 Husk at enhver avgrensing kan føre til at du går glipp av sentral informasjon.
 
-Til slutt må du [vurdere](/kjeldebruk/kjelderefleksjonar.html "Kildevurdering") den enkelte artikkels [kvalitet](/kjeldebruk/kjelderefleksjonar.html) og [relevans](/kjeldebruk/kjelderefleksjonar.html#relevans) i forhold til problemstillingen din.
+Til slutt må du [vurdere](/kjeldebruk/kjeldevurdering.html "Kildevurdering") den enkelte artikkels [kvalitet](/kjeldebruk/kjeldevurdering.html) og [relevans](/kjeldebruk/kjeldevurdering.html#relevans) i forhold til problemstillingen din.
 
 ## Dokumentér søket
 

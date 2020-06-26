@@ -33,7 +33,7 @@ Formålet med populærvitenskapelige framstillinger, i enten bøker eller artik
 
 Formålet med en leksikonartikkel er å presentere etablert kunnskap på en nøytral, kortfattet og oversiktlig måte. Målgruppen er gjerne den alminnelige leser så vel som fagfolk. Det finnes imidlertid også vitenskapelige leksika og andre oppslagsverker som forutsetter fagkunnskaper hos leseren. Leksikonartikkelen tar uansett normalt ikke sikte på å overbevise noen om noe ved å argumentere for det. Den forklarer og instruerer heller ikke slik som en lærebok gjør det. Leksikonartikkelen er først og fremst informativ og deskriptiv. Den gir opplysninger, definerer ord og begreper og beskriver saksforhold.
 
-Se også [kildevurderinger](/kjeldebruk/kjelderefleksjonar.html) og [målgruppe og sjanger](/kjeldebruk/kjelderefleksjonar.html#malgruppe-og-sjanger).
+Se også [kildevurderinger](/kjeldebruk/kjeldevurdering.html) og [målgruppe og sjanger](/kjeldebruk/kjeldevurdering.html#malgruppe-og-sjanger).
 
 ## Sjanger og språklige handlinger 
 
