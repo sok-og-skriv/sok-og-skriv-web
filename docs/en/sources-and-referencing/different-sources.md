@@ -11,7 +11,7 @@ Information can be presented in many different ways and in different formats. Wr
 
 ## Articles 
 
-An article has a variety of formats, and could be an article in a journal,or one that is published in a newspaper or online, including on NRK, VG, etc.  Always assess what type of article it is that you have in front of you.  For example, if it is an article published in a journal, you will see the name of the journal (journal of.. For example) and a DOI number (an article’s unique URL).  Many articles (especially those which are published in journals and that don’t have popular science content) have a high level of quality content that help make your arguments stronger.  Feel free to base your assignment on articles after you have reviewed them thoroughly.  Even if you read the articles on the internet, they will still always be referenced to their journal that they come from. 
+Articles come in a variety of formats, e.g. in a journal, printed newspapers or online. Always assess what type of article it is that you have in front of you. For example, if it is an article published in a journal, you will see the name of the journal (journal of.. For example) and a DOI number (an article’s unique URL).  Many articles (especially those which are published in journals and that don’t have popular science content) have a high level of quality content that help make your arguments stronger.  Feel free to base your assignment on articles after you have reviewed them thoroughly.  Even if you read the articles on the internet, they will still always be referenced to their journal that they come from. 
 
 
 ## Scientific article  
