@@ -32,23 +32,23 @@ I mange tilfelle er artiklane merka med kva type artikkel dei er, for eksempel "
 
 ### Fagfellevurdering (peer review)
 
-Fagfellevurdering inneber at ein artikkel blir vurt av minst to fagpersonar innan same forskningsfelt før han blir akseptert for publisering. Artikkelforfattar får tilbakemelding på tekst og får konkrete forslag til forbetringar som må utførast før artikkelen eventuelt kan bli publisert. På denne måten blir artikkelen kvalitetsikra. Dette skal bidra til at artikkelen følgjer akademiske og vitskaplege normer som er gjeldane innanfor faget. Endringar må utførast før artikkelen eventuelt kan bli publisert. 
+Fagfellevurdering inneber at ein artikkel blir vurt av minst to fagpersonar innan same forskningsfelt før han blir akseptert for publisering. Artikkelforfattar får tilbakemelding på tekst og får konkrete forslag til forbetringar som må utførast før artikkelen eventuelt kan bli publisert. På denne måten blir artikkelen kvalitetssikra. Dette skal bidra til at artikkelen følgjer akademiske og vitskaplege normer som er gjeldane innanfor faget.  
 
 Artiklar som ikkje er fagfellevurderte kan også vere relevante og gode. Vurder alltid kjelda både for fagfellevurderte artiklar, og artiklar publisert i andre tidsskrift.
 
 ### Essay
 
-Essayet er ein personleg forma artikkel. Det er tydeleg prega av forfatteren, av forfattaren sine eigne meningar og haldninger. Forfatteren kan ta i bruk personlege opplevingar, anekdotar eller metaforar som illustrerande eksempel. Det er ofte skrive for å underhalde og kan førast i eit assosiativt språk. Essayet er ein sjanger som ligg mellom fagtekst og prosatekst.
+Essayet er ein personleg forma artikkel. Det er tydeleg prega av forfatteren, av forfattaren sine eigne meningar og haldninger. Forfatteren kan ta i bruk personlege opplevingar, anekdotar eller metaforar som illustrerande eksempel. Det er ofte skrivne for å underhalde og kan førast i eit assosiativt språk. Essayet er ein sjanger som ligg mellom fagtekst og prosatekst.
 
 ### Populærvitskapleg artikkel
 
-Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen formidle ny innsikt og forskingsbasert kunnskap. Her er det imidlertid ei målsetting å kommunisere ny kunnskap utover det vitskaplege forskningsfellesskapet. Målet er å formidle kunnskap til eit "breiare lag av folket". Populærevitskaplege artiklar har ofte ei journalistisk språkdrakt. Du finn desse på nettstader som for eksempel Illustrert Vitenskap. Kravet til etterprøvbarheit er noko svakare enn i den vitskaplege artikkelen. Ein lemper på krav til belegg og empiri, og som i essay er bruk av metafor vanleg.
+Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen formidle ny innsikt og forskingsbasert kunnskap. Her er det imidlertid ei målsetting å kommunisere ny kunnskap utover det vitskaplege forskningsfellesskapet til eit "breiare lag av folket". Populærvitskaplege artiklar har ofte ei journalistisk språkdrakt. Du finn desse på nettstader som for eksempel Illustrert Vitenskap. Kravet til etterprøvbarheit er svakare enn i den vitskaplege artikkelen. Ein lemper på krav til belegg og empiri, og som i essay er bruk av metafor vanleg.
 
-## Lærebok
+### Lærebok
 
-Ei lærebok er ein type tekst skrive for studentar som skal innlemmast i ein fagleg diskurs og eit nytt fag. Læreboka refererar teoriar og faghistorikk, der målet er å inkludere studentar i eit fagleg akademisk fellesskap. Ein læreboktekst tek ikkje stilling til kva som er ”det viktigaste” i faget, men dei teoriene forfatteren legg mest vekt på er ofte dei som ligg han eller ho sjølve nærast som fagperson.
+Ei lærebok er ein type tekst skrive for studentar som skal introduserast til eit nytt fag eller emne. Læreboka refererar teoriar og faghistorikk, der målet er å inkludere studentar i eit akademisk fellesskap med sin særeigne diskurs. Ein læreboktekst tek ikkje stilling til kva som er ”det rette svaret” i faget, men dei teoriene forfatteren legg mest vekt på er ofte dei som ligg han eller ho sjølve nærast som fagperson.
 
-## Avhandling
+### Avhandling
 
 Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne innanfor faget. Her meinast det anten masteroppgåve eller doktorgradsavhandlingar. Her har ein strenge krav til teoriar og metodar der fagmiljøet forventer nye forskingsresultat. 
 

@@ -11,37 +11,37 @@ Information can be presented in many different ways and in different formats. Wr
 
 ## Articles 
 
-Articles come in a variety of formats, e.g. in a journal, printed newspapers or online. Always assess what type of article it is that you have in front of you. For example, if it is an article published in a journal, you will see the name of the journal (journal of.. For example) and a DOI number (an article’s unique URL).  Many articles (especially those which are published in journals and that don’t have popular science content) have a high level of quality content that help make your arguments stronger.  Feel free to base your assignment on articles after you have reviewed them thoroughly.  Even if you read the articles on the internet, they will still always be referenced to their journal that they come from. 
+Articles come in a variety of formats, e.g. in a journal, printed newspapers and online. Always assess the type of article you have in front of you. Many articles (especially those which are published in scientific journals) have a high level of quality content that can help make your arguments stronger.
+
+### The scientific article  
+
+A scientific article is a text where an author writes about a specific subject or case. The article must present new insights or support existing knowledge in a verifiable form. The scientific article is used to disseminate research results within and across the scientific community. 
+
+### Review Article  
+
+An review article provides an overview of a research topic based on a range of studies. The review offers a summary, analysis, knowledge status and sometimes conclusion to a research question. The review article is a good place to start as a general orientation in the field of research.   
 
 
-## Scientific article  
+### Professional Peer Review 
 
-A scientific article is a text where an author writes about a specific subject or case.  The author will provide a judgment on a specific case or will make an argument about a specific point of view.  The article must present new insights, and be verifiable or useful for new research.  The scientific article is used by researchers to disseminate research results with and across the scientific community. 
+Professional peer review means that an article has been reviewed by at least two professionals within a field of research before being accepted for publication. The author(s) of the article receive feedback and suggestions for improvements that must be made before the article can be published. This helps to ensure that articles meet a certain level of quality. This also helps to ensure that the articles follows the academic and scientific guidelines of their specific field.  
 
-
-## Overview / Review Article  
-
-An overview article is a research article that provides an overview and background of a research topic by presenting relevant research literature.  The article provides a summary, analysis, and conclusion on a research questions, and is intended to help researchers gain and understanding and orient themselves within the field of research.   
+Always consider the source both for peer-reviewed articles and articles published in other journals. Articles that are not peer reviewed can still be relevant and good.  
 
 
-## Professional Peer Review 
-
-Professional peer review means that an article has been reviewed by at least two professionals within the same field of research before being accepted for publication.  The authors of the article receive feedback and suggestions for improvements that must be made before the article can be published.  This helps to ensure that articles meet a certain level of quality.  This also helps to ensure that the articles follows the academic and scientific guidelines of their specific field.  Edits must be applied before the article can be published.   
-
-Always consider the source both for peer-reviewed articles and articles published in other journals. Articles that are not peer reviewed can still be relevant and good.   
-
-### Popular science article  
-
-The popular science article, like the scientific article, conveys insights and findings from new research.  What is different here is that the popular science article’s goal is to communicate this information beyond the scientific research community.  The goal is to convey the findings to a “more general audience”.  Popular science articles often use language that is similar to that in journalism.  You can find examples of this on the website illustrated science.  The level of verifiability is slightly less than you would find in a scientific article.  This eases the requirement of stating your empirics and other in-depth aspects of your methods.  Similar to the essay, the use of metaphors are common in popular science articles.   
-
-
-## Essay 
+### Essay 
 
 The essay is a personalized form of an article.  It is clearly shaped by the authors, and often contains their opinions and attitudes.  The author can use personal experiences, anecdotes, or methaphors as illustrative examples.  It is often written with the intention to entertain and can be presented in a more approachable language.  The essay falls into a genre of writing between subject or prose based writing.   
 
-## Textbook 
 
-A textbook is a reference book for students to be to give an overview of a subject and the current discourse surrounding it. A textbook often includes current theories as well as a short history of the subject. The aim of a textbook is often to include students in the academic community. Importantly, a textbook does not necessarily discuss “The most important” topics in the subject, but rather represent the theories that the author decides are most important to them as the expert.  
+### Popular science article  
+
+The popular science article, like the scientific article, conveys insights and findings from new research. What is different here is that the popular science article’s goal is to communicate this information outside of the scientific research community to a “more general audience”. Popular science articles often use journalistic language. The level of verifiability, documentation and description of methods is slightly lighter than you would find in a scientific article. Similar to the essay, the use of metaphor is common in the popular science article.   
+
+
+### Textbook 
+
+A textbook is an introduction for students into a subject and its surrounding discourse. A textbook often includes current theories as well as a short history of the subject. The aim of a textbook is to include students in the academic community. Importantly, a textbook does not necessarily decide what is "the correct knowledge" in a subject area, but rather represents the theories that the author considers to be the most important depending on their experience.  
 
 
 ### Thesis 
