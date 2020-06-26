@@ -357,7 +357,7 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Håvamål betyr «den høyes tale».^15^
 
-^15^ _Wikipedia_, s.v. "Håvamål". 06.01.2020. (https://no.wikipedia.org/wiki/Håvamål)[https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ]
+^15^ _Wikipedia_, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 ::: 
 
 :::: ref
@@ -469,7 +469,7 @@ Etternavn, Fornavn. _Tittel_. Årstall. Medium. Inventarnummer. Eieren av bildet
 
 Billedtekst, for eksempel: Passepike i Bergen i mellomkrigstiden (utsnitt). Foto: Olai Schumann Olsen. Gjengitt med tillatelse fra Universitetsbiblioteket i Bergen.
 
-Olsen, Olai Schumann. _St. Hans Strædet i Bergen_. Foto. Ca. 1920. UBB-SO-0434. Universitetsbiblioteket i Bergen. https://marcus.uib.no/instance/photograph/ubb-so-0434 
+Olsen, Olai Schumann. _St. Hans Strædet i Bergen_. Foto. Ca. 1920. UBB-SO-0434. Universitetsbiblioteket i Bergen. [https://marcus.uib.no/instance/photograph/ubb-so-0434 ](https://marcus.uib.no/instance/photograph/ubb-so-0434 )
 
 ::: 
 
@@ -562,7 +562,7 @@ Korttittelen kan brukes i den målformen den er vedtatt, selv om oppgaven er på
 
 Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse omsettes i apotekene.^22^
 
-^22^ Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) https://lovdata.no/forskrift/2009-12-18-1839
+^22^ Forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) [https://marcus.uib.no/instance/photograph/ubb-so-0434 ](https://lovdata.no/forskrift/2009-12-18-1839)
 :::
 
 Forskrifter føres vanligvis ikke inn i referanselisten.
