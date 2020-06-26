@@ -3,7 +3,7 @@
   "title": "What type of reference is this?",
   "questions": [
     {
-      "text": "Unicef (2012, 10 august). Quality of education and child-friendly schooling. <i>Unicef</i>. http://www.unicef.org/education/bege_61667.html [Accessed 02 April 2013].",
+      "text": "Unicef (2012, 10 august). Quality of education and child-friendly schooling. <i>Unicef</i>. http://www.unicef.org/education/bege_61667.html",
       "responses": [
         {
           "text": "Book"
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "text": "Orsi, R. A. (2009). Abundant History: Marian Apparitions as Alternative Modernity. In: Hermkens, A.-K., Jansen, W. & Notermans, C. (ed.) <i>Moved by Mary: The Power of Pilgrimage in the Modern World</i> (p. 215-238). Ashgate",
+      "text": "Orsi, R. A. (2009). Abundant History: Marian Apparitions as Alternative Modernity. In: Hermkens, A.-K., Jansen, W. & Notermans, C. (ed.), <i>Moved by Mary: The Power of Pilgrimage in the Modern World</i> (p. 215-238). Ashgate.",
       "responses": [
         {
           "text": "Book"
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "text": "Pope, B. C. (1987). Immaculate and Powerful: The Marian Revival in the Nineteenth Century. In: Buchanan, C. H., Atkinson, C. W. & Miles, M. R. (ed.). <i>Immaculate and Powerful</i>(p. 173-199). Crucible.",
+      "text": "Pope, B. C. (1987). Immaculate and Powerful: The Marian Revival in the Nineteenth Century. In: Buchanan, C. H., Atkinson, C. W. & Miles, M. R. (ed.), <i>Immaculate and Powerful</i>(p. 173-199). Crucible.",
       "responses": [
         {
           "text": "Book"
