@@ -35,8 +35,6 @@ Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Forn
 
 ## Elementer i en referanse 
 
-# Elementer i referanse på referanselisten
- 
 Her følger en liste over grunnelementer som skal med i en referanse. Elementene skal settes opp i den samme rekkefølgen uavhengig av kildetype. **Legg merke til tegnsettingen:**
  
 + Forfatter.
@@ -230,16 +228,10 @@ Fyll ut feltene: Title, Publisher (Nettstedets/ Organisasjonens navn) URL.
 
 Nettsider som forandrer seg bør ha med lesedato.
 
-::: teksten
-Forfatter (nettsted)
-
-
-
-:::
 
 :::: ref
-Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ URL. Lesedato.
 
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ URL. Lesedato.
 
 
 ::: details I EndNote
@@ -258,15 +250,15 @@ fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere) Title, Pu
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
 ::: teksten
-Tittel på elektronisk leksikon
+... oppslagsordet ... 
 
-Hermetisk diktning brukes generelt om poesi som bruker okkult symbolisme (hermetisk diktning).
+"Hermetisk diktning" brukes generelt om poesi som inneholder okkult symbolisme (hermetisk diktning).
 :::
 
 :::: ref
 "Oppslagsord". _Tittel på oppslagsverk._ år. URL. Lesedato.
 
-"Hermetisk diktning". _ Store norske leksikon._ 9. mai 2019. https://snl.no/hermetisk_diktning. Lest 24 juni 2020. 
+"Hermetisk diktning". _Store norske leksikon._ 9. mai 2019. https://snl.no/hermetisk_diktning. Lest 24. juni 2020. 
 
 ::: details I EndNote
 
