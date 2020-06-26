@@ -268,7 +268,7 @@ Om artikkelen ikke har forfatter:
 
 <span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
 
-:::: details I Endnote
+::: details I Endnote
 
 Legges inn som "Encyclopedia".
 
