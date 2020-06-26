@@ -105,7 +105,7 @@ In different fields and subjects where participant observation is useful as a me
 <Video id="ktM1r1Ca5Tc" />
 
 
-## Exercise: Which websites do you want to use? 
+## Exercise: Which websites would you want to use? 
 
 ::: oppgave Exercise 1 
 
