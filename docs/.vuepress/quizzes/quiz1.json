@@ -3,7 +3,7 @@
   "title": "Hvilken type referanse er dette?",
   "questions": [
     {
-      "text": "Berg, M. A., Børresen, B. & Nustad, P. E. (2008) <I>Religion, livssyn og etikk</I>. Cappelen.",
+      "text": "Berg, M. A., Børresen, B. & Nustad, P. E. (2008). <I>Religion, livssyn og etikk</I>. Cappelen.",
       "responses": [
         {
           "text": "Bok med forfatter",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "text": "Norad (11. oktober 2011). <I>Rettighetsbasert utvikling</I>. Norad. http://www.norad.no/no/tema/menneskerettigheter/rettighetsbasert-utvikling [Lest 26.september 2012].",
+      "text": "Norad (11. oktober 2011). <I>Rettighetsbasert utvikling</I>. Norad. http://www.norad.no/no/tema/menneskerettigheter/rettighetsbasert-utvikling",
       "responses": [
         {
           "text": "Bok med forfatter"
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "text": "Rong, M. (2011) Gud i liturgien. I: Sæther, K.-W. & Rise, S. (red.) <I>En Bok om Gud : gudstanken i brytningen mellom det moderne og det postmoderne</I> (s. 79-96). Tapir akademisk forlag.",
+      "text": "Rong, M. (2011). Gud i liturgien. I: Sæther, K.-W. & Rise, S. (red.), <I>En Bok om Gud : gudstanken i brytningen mellom det moderne og det postmoderne</I> (s. 79-96). Tapir akademisk forlag.",
       "responses": [
         {
           "text": "Bok med forfatter"
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "text": "Haug, P. (2011) God opplæring for alle - eit felles ansvar. <I>Norsk pedagogisk tidsskrift, 95</I> (2), s. 129-139.",
+      "text": "Haug, P. (2011). God opplæring for alle - eit felles ansvar. <I>Norsk pedagogisk tidsskrift, 95</I> (2), s. 129-139.",
       "responses": [
         {
           "text": "Bok med forfatter"
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "text": "Berge, K. L. (2012) Retorisk dannelse som grunnlag for demokratisk medborgerskap i skolen : om de grunnleggende ferdighetene skriving og muntlighet i Kunnskapsløftet. I: Berge, K. L. & Stray, J. H. red. <I>Demokratisk medborgerskap i skolen</I>(s. 79-101). Fagbokforlaget.",
+      "text": "Berge, K. L. (2012). Retorisk dannelse som grunnlag for demokratisk medborgerskap i skolen : om de grunnleggende ferdighetene skriving og muntlighet i Kunnskapsløftet. I: Berge, K. L. & Stray, J. H. (red.), <I>Demokratisk medborgerskap i skolen</I>(s. 79-101). Fagbokforlaget.",
       "responses": [
         {
           "text": "Bok med forfatter"
