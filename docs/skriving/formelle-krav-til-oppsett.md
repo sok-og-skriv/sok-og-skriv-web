@@ -8,7 +8,7 @@ next: "../kjeldebruk/"
 
 Oppsettet av oppgaver ved universitet og høgskole følger bestemte formelle krav. Her finner du en generell beskrivelse, men ulike studiesteder og -programmer kan ha mer spesifikke krav til omfang, referansestil, forside og så videre. Sjekk emnesidene for faget ditt. 
 
-Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og etisk bruk av kilder. En generell beskrivelse av innholdet i en større oppgave finner du under "[oppbygning av en oppgave](/skriving/struktur.html)".
+Felles for alle akademiske oppgaver er at det stilles strenge krav til sitering, referanselister og etisk bruk av kilder. En generell beskrivelse av innholdet i en større oppgave finner du under «[oppbygning av en oppgave](/skriving/struktur.html)».
 
 ## Forside
 
@@ -43,7 +43,7 @@ Marker området med den nye formateringen, og høyreklikk nivået du vil endre (
 />
 
 ::: warning Formateringsproblemer 
-Dersom du limer inn tekst fra andre dokumenter eller plattformer, er det best å velge "lim inn som ren tekst" for å unngå å få med uønsket formatering. Hvis du har fått problemer med layout og formatering, kan du klikke på ikonet for "vis usynlige", som ser slik ut: **¶**. Da vil du kunne oppdage usynlige funksjoner som mellomrom, linjeskift, sideskift og så videre.
+Dersom du limer inn tekst fra andre dokumenter eller plattformer, er det best å velge "lim inn som ren tekst" for å unngå å få med uønsket formatering. Hvis du har fått problemer med layout og formatering, kan du klikke på ikonet for «vis usynlige», som ser slik ut: **¶**. Da vil du kunne oppdage usynlige funksjoner som mellomrom, linjeskift, sideskift og så videre.
 :::
 
 ##  Innholdsfortegnelse
@@ -126,7 +126,7 @@ Kortere sitater i teksten markeres med anførselstegn og kildehenvisning, men _i
 
 Det kan være nødvendig å redigere Word-malen for å fjerne unødvendig kursivering. Endre teksten slik du vil ha den, marker en del av teksten og høyreklikk på stilen du vil endre. Velg "Update Normal to Match Selection", eller tilsvarende på norsk.
 
-Les mer om sitering under "[hvordan referere](/kjeldebruk/korleis-skal-ein-referere.html)".
+Les mer om sitering under «[hvordan referere](/kjeldebruk/korleis-skal-ein-referere.html)».
 
 ## Figurer og tabeller
 
