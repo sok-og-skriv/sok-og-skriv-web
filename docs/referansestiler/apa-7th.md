@@ -260,7 +260,7 @@ Om artikkelen ikke har forfatter:
 ... ("Lindeberg stasjon", 2017).
 :::
 
-::: ref
+:::: ref
 Forfatter. (oppdaterings- eller publiseringstidspunkt). _Tittel: Undertittel_. Nettstedets navn. https://xxxxx
 <span class="ref">Fossheim, H. (2018, 25 desember). _Aristoteles_. Store Norske Leksikon. https://snl.no/Aristoteles</span>
 
