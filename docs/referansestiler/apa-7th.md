@@ -270,6 +270,11 @@ Om artikkelen ikke har forfatter:
 
 :::: details I Endnote
 
+Legges inn som "Encyclopedia".
+
+Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (hvis aktuelt), Encyclopedia Title, Edition (hvis aktuelt), Pages (hvis aktuelt), Date (hvis publiseringsdato er oppgitt i tillegg til publiseringsår), URL.
+
+(Fyll også ut feltet Access Date hvis lesedato skal med).
 :::
 ::::
 
