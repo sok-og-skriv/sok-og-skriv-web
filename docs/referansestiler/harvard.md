@@ -29,7 +29,7 @@ I eksempelsamlingen nedenfor brukes norske forkortelser. Alternativt kan du vel
 
 ::: teksten
 Bok med en til tre forfattere:  
-(Etternavn og Etternavn, Årstall, eventuelt sidetall)  
+(Etternavn og Etternavn, årstall, eventuelt sidetall)  
 
 Bok med fire eller flere forfattere:  
 (Første forfatters etternavn mfl., årstall, eventuelt sidetall)
@@ -40,7 +40,7 @@ Eriksen og Nielsen (2013, s. 14) hevder at …
 
 :::: ref
 Bok med en til tre forfattere:  
-Etternavn, N.N, Etternavn, N.N. og Etternavn, N.N. (Årstall) _Tittel_. Utgivelsessted: Utgiver. 
+Etternavn, N.N, Etternavn, N.N. og Etternavn, N.N. (årstall) _Tittel_. Utgivelsessted: Utgiver. 
 
 Bok med fire eller flere forfattere:  
 Etternavn, N.N. mfl. (årstall) _Tittel_. Utgivelsessted: Utgiver.
@@ -74,7 +74,7 @@ E-bøker som er elektroniske kopier av trykte bøker, kan føres opp på samme m
 
 :::: ref
 
-Etternavn, N.N., (Årstall) _Tittel._ Utgivelsessted: Utgiver. URL/DOI/plattform (lesedato).
+Etternavn, N.N., (årstall) _Tittel._ Utgivelsessted: Utgiver. URL/DOI/plattform (lesedato).
 
 Allen, J. (2019) _The Productive Graduate Student Writer: How to Manage Your Time, Process, and Energy to Write Your Research Proposal, Thesis, and Dissertation and Get Published._ Sterling, Virginia: Stylus Publishing. Hentet fra: http://search.ebscohost.com.ezproxy.uio.no/login.aspx?direct=true&db=nlebk&AN=2182551&site=ehost-live (Lest 21 June 2020). 
 ::: details I EndNote
@@ -87,13 +87,13 @@ blabla
 ### Kapittel i redigert bok
 
 ::: teksten
-(Etternavn, Årstall, eventuelt sidetall)
+(Etternavn, årstall, eventuelt sidetall)
 
 Skolen kan sees på som et prisme (Engen, 2010, s. 122).
 :::
 
 :::: ref
-Etternavn, N.N. (Årstall) Kapitteltittel, i Redaktør, N.N. og Redaktør, N.N. (red.) _Boktittel_. Utgivelsessted: Utgiver, sidetall for kapittelet.
+Etternavn, N.N. (årstall) Kapitteltittel, i Redaktør, N.N. og Redaktør, N.N. (red.) _Boktittel_. Utgivelsessted: Utgiver, sidetall for kapittelet.
 
 Engen, T.O. (2010) Enhetsskolen og minoritetene, i Lund, A.C.B. og Moen, B.B. (red.) _Nasjonale minoriteter i det flerkulturelle Norge_. Trondheim: Tapir akademisk forlag, s. 121–139.
 
@@ -110,13 +110,13 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 Utgivelsessted tas med dersom det ikke er en del av universitetets eller høgskolens navn.
 
 ::: teksten
-(Etternavn, Årstall, eventuelt sidetall)
+(Etternavn, årstall, eventuelt sidetall)
 
 Sætre (2009, s. 21) viser i sin avhandling …
 :::
 
 :::: ref
-Etternavn, N.N. (Årstall) _Tittel_. Type akademisk avhandling. Sted: Universitet/Høgskole.
+Etternavn, N.N. (årstall) _Tittel_. Type akademisk avhandling. Sted: Universitet/Høgskole.
 
 For elektronisk utgave legges til: Tilgjengelig fra: https://URL (Hentet: dato).
 
@@ -150,7 +150,7 @@ Rutinene er lagt om etter erfaringer fra ulykker (Dyregrov og Straume, 2003, s.
 :::
 
 :::: ref
-Etternavn, N.N. og Etternavn, N.N. (Årstall) Artikkeltittel, _Tidsskriftets tittel_, årgang(hefte, måned eller årstid) (hvis det er oppgitt), sidetall.
+Etternavn, N.N. og Etternavn, N.N. (årstall) Artikkeltittel, _Tidsskriftets tittel_, årgang(hefte, måned eller årstid) (hvis det er oppgitt), sidetall.
 
 Dyregrov, A. og Straume, M. (2003) Kollektiv ivaretakelse etter katastrofer: erfaringer fra «Sleipnerulykken». _Tidsskrift for norsk psykologforening_, 40(2), s. 92–101.
 
@@ -173,17 +173,17 @@ Strømsø, H.I., Grøttum, P. og Lycke, K.H. (2007) Content and processes in p
 ### Avisartikkel
 
 ::: teksten
-(Forfatter/redaktør, Årstall)
+(Forfatter/redaktør, årstall)
 
 Man må se mer nyansert på utroskap og monogami (Thuen, 2006).
 :::
 
 :::: ref
 Elektronisk avis:  
-Etternavn, N.N. (Årstall) Artikkeltittel, _Avis_, dato. Tilgjengelig fra: https://url (Hentet: dato).
+Etternavn, N.N. (årstall) Artikkeltittel, _Avis_, dato. Tilgjengelig fra: https://url (Hentet: dato).
 
 Papiravis:  
-Etternavn, N.N. (Årstall) Artikkeltittel, _Avis_, dato, eventuelt del, sidetall.
+Etternavn, N.N. (årstall) Artikkeltittel, _Avis_, dato, eventuelt del, sidetall.
 
 Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober. Tilgjengelig fra: https://www.bt.no/meninger/kronikk/Utroskapens-pris-1819069.html (Hentet: 17. januar 2015).
 
@@ -212,13 +212,13 @@ Thuen, F. (2006) Utroskapens pris, _Bergens Tidende_, 12. oktober, del 2, s. 12.
 
 
 ::: teksten
-(Forfatter/Redaktør/Organisasjon, Årstall)
+(Forfatter/Redaktør/Organisasjon, årstall)
 
 … (Espeland og Tuv, 2019).
 :::
 
 :::: ref
-Forfatter/redaktør/organisasjon (Årstall) _Tittel_. Tilgjengelig fra: https://url (Hentet: dato).
+Forfatter/redaktør/organisasjon (årstall) _Tittel_. Tilgjengelig fra: https://url (Hentet: dato).
 
 Espeland, J. og Tuv, N. (2019) _Slik måler SSB ulikhet_. Tilgjengelig fra: https://www.ssb.no/inntekt-og-forbruk/artikler-og-publikasjoner/slik-maler-ssb-ulikhet (Hentet: 10. mai 2019).
 
@@ -245,13 +245,13 @@ Røde Kors (u.å.) _Opplevelsessenteret Den hvite bussen_. Tilgjengelig fra: 
 Dersom nettadressen til oppslaget er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres.
 
 ::: teksten
-(Etternavn, Årstall)
+(Etternavn, årstall)
 
 (Heflin, 2015)
 :::
 
 :::: ref
-Etternavn, N.N. (Årstall for siste oppdatering) Oppslagets tittel, i _Oppslagsverk_. Tilgjengelig fra: https://url (Hentet: dato).
+Etternavn, N.N. (årstall for siste oppdatering) Oppslagets tittel, i _Oppslagsverk_. Tilgjengelig fra: https://url (Hentet: dato).
 
 Heflin, M.T. (2015) Geriatric health maintenance, i _UpToDate_. Tilgjengelig fra: https://www.uptodate.com/ (Hentet: 20. september 2015).
 
@@ -268,7 +268,7 @@ Fyll ut feltene: Author, Year, Title, Book Title, URL og Access Date.
 Dersom nettadressen til oppslaget er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der oppslaget er publisert kan identifiseres.
 
 ::: teksten
-(Artikkeltittel, Årstall)
+(Artikkeltittel, årstall)
 
 I begrepet universell utforming ligger flere prinsipper (Universell utforming, 2015).
 :::
@@ -290,16 +290,16 @@ Fyll ut feltene: Author (artikkeltittel), Year, Title (navn på oppslagsverket),
 ### Artikkel i trykt leksikon med forfatter
 
 ::: teksten
-(Etternavn, Årstall, eventuelt sidetall)
+(Etternavn, årstall, eventuelt sidetall)
 
 ... ble født i 1860 (Risa, 2003, s. 405).
 :::
 
 :::: ref
-Etternavn, N.N. (Årstall) Tittel på artikkel, i _Tittel på leksikon: Volumtittel_. Utgave. Utgivelsessted: Forlag, sidetall.
+Etternavn, N.N. (årstall) Tittel på artikkel, i _Tittel på leksikon: Volumtittel_. Utgave. Utgivelsessted: Forlag, sidetall.
 
 Alternativt:  
-Etternavn, N.N. (Årstall) Tittel på artikkel, i _Tittel på leksikon_ (volumnummer). Utgave. Utgivelsessted: Forlag.
+Etternavn, N.N. (årstall) Tittel på artikkel, i _Tittel på leksikon_ (volumnummer). Utgave. Utgivelsessted: Forlag.
 
 Risa, G. (2003) Munthe, Margrethe, i_ _Norsk biografisk leksikon:_ Bind 6 Lassen–Nitter_. Oslo: Kunnskapsforlaget, s. 405.
 
@@ -319,7 +319,7 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 Bilder tilgjengeliggjøres på mange ulike måter. Omtaler du et bilde i en bok, refererer du til boken, og henviser til bildet med sidetall. Eksemplene nedenfor er for frittstående bilder i arkiver eller utstillinger.
 
 ::: teksten
-(Etternavn, Årstall)
+(Etternavn, årstall)
 
 Eldre fotografi av Børsen i Bergen (Knudsen, 1865).
 :::
@@ -343,19 +343,19 @@ Fyll ut feltene: Artist, Year, Title, Description (her legges all info om museum
 Oppgi navn på fotograf/kunstner hvis informasjonen er gitt. Bruk tittel på bilde som referanse dersom fotograf/kunstner ikke er gitt. Hvis årstall for bildet mangler, skriv (u.å.) som forkortelse for uten år.  
 
 ::: teksten
-(Etternavn, Årstall)
+(Etternavn, årstall)
 
 (Huyn, u.å.)
 
-(_Tittel_, Årstall)
+(_Tittel_, årstall)
 
 (_Northern lights (aurora borealis) over Tromso, Troms, Northern Norway_, u.å.) …
 :::
 
 :::: ref
-Etternavn, N_._ (Årstall) _Tittel på bilde_ \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
+Etternavn, N_._ (årstall) _Tittel på bilde_ \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
 
-_Tittel på bilde_ (Årstall) \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
+_Tittel på bilde_ (årstall) \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
 
 Huyn, T. (u.å.) _Streetlife_ \[Fotografi\]. Tilgjengelig fra: https://tommyimages.com/Stock\_Photos/Caribbean/Cuba/Life\_in\_Havana/slides/Cuba\_01\_E\_8\_19-Street\_Life.html (Hentet 18. desember 2013).
 
@@ -380,13 +380,13 @@ Munch, E. (1926) _Fire kvinner i hagen_ \[Olje på lerret\]. Tilgjengelig fra: h
 Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Harvard-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver(e) eller annen person som er hovedansvarlig for innholdet, _Verktittel_, navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato, eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen, vil avhenge av konteksten det opptrer i. Er opptaket lastet ned eller strømmet fra web, skal referansen inneholde URL og nedlastingsdato. Hvis opptaket har DOI-nummer, brukes dette, og da kan dato utelates. Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
 ::: teksten
-(Komponist/artist, Årstall)
+(Komponist/artist, årstall)
 
 I sangen Stella vil Gud gi Stella hele verden, om hun bare blir hos ham (Sivertsen, 2008).
 :::
 
 :::: ref
-Komponist, N.N. / Artist, N.N. (Årstall) _Tittel på komposisjon_ \[Medium, evt. katalognummer\]. Utøver(e). Sted: Utgiver/plateselskap.
+Komponist, N.N. / Artist, N.N. (årstall) _Tittel på komposisjon_ \[Medium, evt. katalognummer\]. Utøver(e). Sted: Utgiver/plateselskap.
 
 Sivertsen, I.M. (2008) _Fortress ’round my heart_ \[CD\], Ida Maria. Oslo: Waterfall records.
 
@@ -527,13 +527,13 @@ Fyll ut feltene: Author (NOU-nummerering med komma til slutt for å unngå inver
 De forskjellige dokumentene kan ha ulik tegnsetting for angivelse av nummer. Velg samme betegnelse som er brukt på den publikasjonen du skal henvise til. Ved henvisning til et elektronisk dokument, tas nettadressen med. Dersom nettadressen  er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet der dokumentet er publisert kan identifiseres.
 
 ::: teksten
-(Forfatter, Årstall, eventuelt sidetall)
+(Forfatter, årstall, eventuelt sidetall)
 
 (Folkehelseinstituttet, 2006, s. 8)
 :::
 
 :::: ref
-Forfatter (Årstall) _Tittel_. Rapport nr. /serie nr. / retningslinje nr. Sted: Utgiver.
+Forfatter (årstall) _Tittel_. Rapport nr. /serie nr. / retningslinje nr. Sted: Utgiver.
 
 Folkehelseinstituttet (2006) _Rettleiar til forskrift om smittevern i helsetenesta_. Smittevern 15. Oslo: Folkehelseinstituttet.
 
@@ -560,7 +560,7 @@ Hellige skrifter og klassiske tekster finnes i mange forskjellige utgaver. Noen 
 ::: teksten
 I Lukasevangeliet (Luk 1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
 
-I Shakespeares skuespill Hamlet (2002, 4. akt, 2. scene) …
+I Shakespeares skuespill _Hamlet_ (2002, 4. akt, 2. scene) …
 :::
 
 :::: ref
@@ -590,13 +590,13 @@ Homer (1994) _Iliaden._ Oversatt av P. Østbye. 3. utg. Oslo: Aschehoug.
 ### Upublisert materiale
 
 ::: teksten
-(Forfatter, Årstall)
+(Forfatter, årstall)
 
 Med modernismen reverseres forholdet mellom persepsjon og representasjon (Utaker, 2010).
 :::
 
 :::: ref
-Forfatter, N.N. (Årstall) _Tittel_. Institusjon, Sted (hvis tilgjengelig). Upublisert.
+Forfatter, N.N. (årstall) _Tittel_. Institusjon, Sted (hvis tilgjengelig). Upublisert.
 
 Utaker, A. (2010) _Det perseptuelles antropologi: persepsjon og bilder som filosofisk problem_. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen. Upublisert.
 
@@ -612,7 +612,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Seri
 ### Manuskript under vurdering, men ikke antatt (submitted)
 
 ::: teksten
-(Etternavn, Årstall)
+(Etternavn, årstall)
 
 Det varierer i hvilken grad forskjellige befolkningsgrupper oppsøker hjelp i forbindelse med helseplager (Ting, Florsheim og Huang, 2008).
 :::
@@ -634,7 +634,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ### Manuskript under publisering, antatt (in press)
 
 ::: teksten
-(Etternavn, Årstall)
+(Etternavn, årstall)
 
 Ifølge Briscoe (2009), så er det slik at …
 :::
@@ -667,13 +667,13 @@ Ifølge Ole Olsen, professor i semantikk ved Universitetet i Bergen (personlig d
 ### Podcast
 
 ::: teksten
-(Etternavn, Årstall)
+(Etternavn, årstall)
 
 Furuseth og Kjøs, og Rashidi (2020) snakker om at unge sliter med ...
 :::
 
 :::: ref
-Etternavn,N.N. (Årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato).
+Etternavn,N.N. (årstall). Tittel. [podcast] Tittel podcastserie. Tilgjengelig fra: http://url (Hentet: dato).
 
 Furuseth,C.K, Kjøs, P. og Rashidi, K. (2020). Hva er lykke? [podcast] God bedring. Tilgjengelig fra: https://radio.nrk.no/podkast/god_bedring/ (Hentet: 15. juni 2020).
 
