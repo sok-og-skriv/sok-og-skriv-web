@@ -12,7 +12,7 @@ Search & Write is a collaboration between the libraries at Western Norway Univer
 The first version of Search & Write was published in 2007. The webpages have since been through two major revisions. The revision in 2012-13 was partly funded by the Norwegian National Library.
 
 
-# Copyright for Search & Write
+## Copyright for Search & Write
 
 The following institutions own the copyright to the product Search & Write: University of Bergen, University of Oslo and Western Norway University of Applied Sciences. 
 
