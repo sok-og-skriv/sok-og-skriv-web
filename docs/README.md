@@ -43,7 +43,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/kjeldebruk/">Kjeldebruk</a></h2>
-      <p>All forsking bygger på kjelder. Det finst fleire kriterier for å vurdere relevans og kvalitet.</p>
+      <p>All forsking bygger på kjelder. Det finst fleire vilkår for å vurdere relevans og kvalitet.</p>
     </div>
   </div>
 </div>
