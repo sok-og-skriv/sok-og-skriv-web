@@ -358,7 +358,6 @@ Elektronisk tidsskrift: Fyll ut feltene Author, Year (skriv in press), Title, Jo
 
 ### Standarder 
 
-FINNE
 
 ::: teksten 
 
@@ -384,7 +383,6 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 
 ### Patenter 
 
-FINNE 
 
 ::: teksten 
 
