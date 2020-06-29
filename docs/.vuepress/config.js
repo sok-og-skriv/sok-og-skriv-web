@@ -244,6 +244,12 @@ module.exports = {
         },
       },
     ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-74198226-1'
+      }
+    ]
   ],
   head: [
     /* ['link', { rel: 'icon', href: `/sokogskriv2013.png` }], */
