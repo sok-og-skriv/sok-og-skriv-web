@@ -24,7 +24,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
     </div>
     <div class="content">
       <h2><a href="/en/study-skills/">Study skills</a></h2>
-      <p>Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.</p>
+      <p>Reading and writing are closely related in academic work. In order to write a good thesis, you need to be conscious of how and what you read.</p>
     </div>
   </div>
 
