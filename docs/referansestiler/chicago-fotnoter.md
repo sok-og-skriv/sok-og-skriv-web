@@ -5,7 +5,7 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/referansestiler/chicago-forfatter-aar.html "Chicago forfatter-år"). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir "avbrutt" av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
+Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/referansestiler/chicago-forfatter-aar.html «Chicago forfatter-år»). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir «avbrutt» av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
 
 ## Henvisninger i notene
@@ -15,8 +15,8 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 - I notene skriver du den fulle referansen første gang du bruker den. Etter det gir du referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang. Her vises begge alternativer. 
 - Hvis du siterer fra eller viser til bestemte steder i en tekst, skal du også ha med sidetall.
 - Når du henviser til den samme referansen to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (bruk av _ibid_, latin for 'samme sted', frarådes i Chicago 17. utgave).
-- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i "anførselstegn", se de ulike referansetypene under.
-- Ved referanser til e-bøker kan det elektroniske formatet listes, for eksempel "Kindle" eller "iBooks".
+- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i «anførselstegn», se de ulike referansetypene under.
+- Ved referanser til e-bøker kan det elektroniske formatet listes, for eksempel «Kindle» eller «iBooks».
 
 ## Referanselisten
 
@@ -37,7 +37,7 @@ Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [fo
 
 **Eksempel**
 
-Morton Klass definerer myte som "..."^1^
+Morton Klass definerer myte som «...»^1^
 
 ^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995), 125.
 :::
@@ -107,18 +107,18 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 
 ::: tip I noten
-^nr^ Etternavn, "Kortittel", evt. sidetall.
+^nr^ Etternavn, «Kortittel», evt. sidetall.
 
-"Det er derfor gode forfattere også er gode lesere."^3^
+«Det er derfor gode forfattere også er gode lesere.»^3^
 
-^3^ Moi, "Å skrive er å tenke", 19. 
+^3^ Moi, «Å skrive er å tenke», 19. 
 :::
 
 :::: ref
 
-Etternavn, Fornavn. "Kapitteltittel". I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
+Etternavn, Fornavn. «Kapitteltittel». I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
-Moi, Toril. "Å skrive er å tenke". I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm, 2019.
+Moi, Toril. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm, 2019.
 
 ::: details I EndNote
 
@@ -131,7 +131,7 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ### Bok med flere forfattere (eller redaktører)
 
-Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alia = latin for "og andre") i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alia = latin for "og andre») i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
 
 
 ::: tip I noten
@@ -191,7 +191,7 @@ Doktoravhandlinger behandles som bøker. Den eneste forskjellen er at utgiverste
 ::: tip I noten
 ^nr^ Etternavn, _Korttittel_, eventuelt sidetall.
 
-”Landskap har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.”^6^
+«Landskap har i kunsthistorisk sammenheng vært lite eksponert for feministisk lesning.»^6^
 
 ^6^ Åsebø, _Femininitetens rom_, 327.
 :::
@@ -213,28 +213,28 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ### Upublisert materiale
 
-Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som ”upublisert”. Type dokument/avhandling oppgis, samt sted og institusjon.
+Upubliserte avhandlinger (gjelder mange ikke-norske), masteroppgaver, rapporter og lignende har tittel i anførselstegn, ikke i kursiv, og markeres som «upublisert». Type dokument/avhandling oppgis, samt sted og institusjon.
 
 
 ::: tip I noten
-^nr^ Etternavn, ”Korttittel”, evt. sidetall.
+^nr^ Etternavn, «Korttittel», evt. sidetall.
 
-I sin hovedoppgave diskuterer kunsthistoriker Espen Stange bruken av begrepet "brutalisme".^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
+I sin hovedoppgave diskuterer kunsthistoriker Espen Stange bruken av begrepet «brutalisme».^7^ Stange argumenterer for at begrepet ofte blir tillagt en annen betydning enn det opprinnelig hadde hos Alison og Peter Smithson.^8^
 
-^7^ Stange, "Inspirert av The New Brutalism?", 23.
+^7^ Stange, «Inspirert av The New Brutalism?», 23.
 :::
 
 :::: ref
 
-Etternavn, Fornavn. ”Tittel”. Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
+Etternavn, Fornavn. «Tittel». Upublisert avhandlings-/dokumenttype. Institusjon. Årstall.
 
-Stange, Espen. "Inspirert av The New Brutalism? Arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier". Upublisert hovedoppgave. Universitetet i Bergen. 2001.
+Stange, Espen. «Inspirert av The New Brutalism? Arkitektureksempler fra Bergen sett i lys av Alison og Peter Smithsons teorier». Upublisert hovedoppgave. Universitetet i Bergen. 2001.
 
 ::: details I EndNote
 
 Legges inn som «Thesis».
 
-Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year Her legges også teksten "unpublished", Title, Place Published, University, Degree (her legges også institusjonen inn). 
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year Her legges også teksten «unpublished», Title, Place Published, University, Degree (her legges også institusjonen inn). 
 ::: 
 :::: 
 
@@ -248,16 +248,16 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year Her
 Trykte og elektroniske artikler følger samme oppsett. For elektroniske artikler inkluderes gjerne publiseringsmåned sammen med årstall, samt DOI eller hvis dette ikke er tilgjengelig, URL.  
 
 ::: tip I noten 
-^nr^ Etternavn, "Korttittel", evt. sidetall.
+^nr^ Etternavn, «Korttittel», evt. sidetall.
 
-^9^ Kalyvas, "Whose Crisis? Which Democracy?", 385.
+^9^ Kalyvas, «Whose Crisis? Which Democracy?», 385.
 ::: 
 
 :::: ref
 
-Etternavn, Fornavn. "Artikkeltittel". _Tidsskrifttittel_ Årgang, Nummer (Utgivelsesdato): sidespenn. Evt. DOI/URL. 
+Etternavn, Fornavn. «Artikkeltittel». _Tidsskrifttittel_ Årgang, Nummer (Utgivelsesdato): sidespenn. Evt. DOI/URL. 
 
-Kalyvas, Andreas. "Whose Crisis? Which Democracy? Notes on the Current Political Conjuncture." _Constellations_ 26, no. 3 (September 2019): 384-90. DOI: 10.1111/1467-8675.12438. 
+Kalyvas, Andreas. «Whose Crisis? Which Democracy? Notes on the Current Political Conjuncture.» _Constellations_ 26, no. 3 (September 2019): 384-90. DOI: 10.1111/1467-8675.12438. 
 
 ::: details I EndNote
 
@@ -275,16 +275,16 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 Ofte er det tilstrekkelig å vise til avisartikler i noten, og det er ikke strengt nødvendig å liste dem opp i referanselisten. Hvis det likevel ønskes gjort, se eksempel nedenfor.
 
 ::: tip I noten
-^nr^ Etternavn, "Artikkeltittel".
+^nr^ Etternavn, «Artikkeltittel».
 
-^11^ Røyrane, "Hanseatene kommer tilbake".
+^11^ Røyrane, «Hanseatene kommer tilbake».
 :::
 
 :::: ref
 
-Etternavn, Fornavn. "Artikkeltittel." _Avistittel_. Dato. Eventuelt URL/DOI
+Etternavn, Fornavn. «Artikkeltittel.» _Avistittel_. Dato. Eventuelt URL/DOI
 
-Røyrane, Eva. "Hanseatene kommer tilbake." _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
+Røyrane, Eva. «Hanseatene kommer tilbake.» _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
 
 ::: details I EndNote
 
@@ -304,11 +304,11 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 ::: tip I noten  
 
-^nr^ Tittel på leksikon/nettsted, s.v. "oppslagsord." Dato. DOI/URL
+^nr^ Tittel på leksikon/nettsted, s.v. «oppslagsord.» Dato. DOI/URL
 
 Håvamål betyr «den høyes tale».^15^
 
-^15^ _Wikipedia_, s.v. "Håvamål". 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+^15^ _Wikipedia_, s.v. «Håvamål». 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
 ::: 
 
 :::: ref
@@ -319,7 +319,7 @@ Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vik
 
 ::: details I EndNote
 
-Legges inn som "Encyclopedia"
+Legges inn som «Encyclopedia»
 
 Fyll inn feltene: Year, Encyclopedia Title, Title, Place published, Publisher, URL.
 :::
@@ -330,11 +330,11 @@ Fyll inn feltene: Year, Encyclopedia Title, Title, Place published, Publisher, U
 ### Artikkel i elektronisk leksikon (med forfatter)
 
 ::: tip I noten 
-^nr^ _Tittel på leksikon/nettsted_, s.v. "oppslagsord," av Fornavn Etternavn, lesedato. URL/DOI
+^nr^ _Tittel på leksikon/nettsted_, s.v. «oppslagsord,» av Fornavn Etternavn, lesedato. URL/DOI
 
 Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-^16^ _Store norske leksikon_, s.v. "Dialekter i Bergen," av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
+^16^ _Store norske leksikon_, s.v. «Dialekter i Bergen,» av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 :::
 
 :::: ref
@@ -345,7 +345,7 @@ Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vik
 
 ::: details I EndNote
 
-Legges inn som "Encyclopedia"
+Legges inn som «Encyclopedia»
 
 Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publisher.
 :::
@@ -358,11 +358,11 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 
 ::: tip I noten 
-^nr^ _Tittel på leksikon/oppslagsverk_, utg., s.v. "oppslagsord".
+^nr^ _Tittel på leksikon/oppslagsverk_, utg., s.v. «oppslagsord».
 
-Alderdom kan defineres som ”…”^17^
+Alderdom kan defineres som «…»^17^
 
-^17^_Kulturhistorisk leksikon_, s.v. "alderdom."
+^17^_Kulturhistorisk leksikon_, s.v. «alderdom.»
 ::: 
 
 :::: ref
@@ -373,7 +373,7 @@ Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vik
 
 ::: details I EndNote
 
-Legges inn som "Encyclopedia"
+Legges inn som «Encyclopedia»
 
 Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publisher. 
 ::: 
@@ -383,21 +383,21 @@ Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publ
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
 ::: tip I noten 
-^nr^ Etternavn, ”Korttittel artikkel.” 
+^nr^ Etternavn, «Korttittel artikkel.» 
 
 … ifølge Dag Sveen.^18^
 
-^18^ Sveen, ”Kritisk realisme”.
+^18^ Sveen, «Kritisk realisme».
 :::
 
 :::: ref 
-Etternavn, Fornavn. ”Artikkeltittel”, i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
+Etternavn, Fornavn. «Artikkeltittel», i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
 
-Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax, 1979.
+Sveen, Dag. «Kritisk realisme.» I _Pax Leksikon_. Oslo: Pax, 1979.
 
 ::: details I EndNote
 
-Legges inn som "Encyclopedia"
+Legges inn som «Encyclopedia»
 
 Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publisher. 
 ::: 
@@ -409,18 +409,18 @@ Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publ
 ### Nettside uten forfatter
 
 ::: tip I noten 
-^nr^ Nettstedets navn, "Artikkeltittel."
+^nr^ Nettstedets navn, «Artikkeltittel.»
 
 .., jfr data fra Statistisk sentralbyrå.^13^
 
-^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
+^13^ Statistisk sentralbyrå, «Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn.»
 ::: 
 
 :::: ref
 
-Nettsted. "Artikkeltittel." Dato. URL/DOI
+Nettsted. "Artikkeltittel.» Dato. URL/DOI
 
-^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
+^13^ Statistisk sentralbyrå, «Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
 
 ::: details I EndNote
 
@@ -435,13 +435,13 @@ Fyll ut feltene: Author (institusjonsnavnet med komma etter for å hindre invert
 ### Nettside med forfatter/blogg
 
 ::: tip I noten 
-^nr^ Etternavn, ”Artikkeltittel.” _Tittel på nettsted/blogg_. Dato. DOI/URL
+^nr^ Etternavn, «Artikkeltittel.» _Tittel på nettsted/blogg_. Dato. DOI/URL
 
-"Når man jobber med en kunstner som det eksisterer forholdsvis lite systematisk tilgjengelig informasjon om, er kildestudier en nødvendighet."^14^ 
-^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
+«Når man jobber med en kunstner som det eksisterer forholdsvis lite systematisk tilgjengelig informasjon om, er kildestudier en nødvendighet.»^14^ 
+^14^ Følstad, Sverre og Lorentzen, Sandra, «Jakten på Mathilde Dietrichson», _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
 :::
 :::: ref
-^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
+^14^ Følstad, Sverre og Lorentzen, Sandra, «Jakten på Mathilde Dietrichson», _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
 
 ::: details I EndNote
 
@@ -504,26 +504,26 @@ Se Chicago-manualen for flere eksempler på henvisning til multimediale kilder o
 
 ### Musikk/ Auditive kilder
 
-Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Chicago-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver eller annen person som er hovedansvarlig for innholdet, _Verktittel_/”Verktittel”, navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen vil avhenge av konteksten det opptrer i. Er opptaket hentet fra nettet, skal referansen inneholde dato samt URL eller DOI.
+Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Chicago-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver eller annen person som er hovedansvarlig for innholdet, _Verktittel_/«Verktittel», navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen vil avhenge av konteksten det opptrer i. Er opptaket hentet fra nettet, skal referansen inneholde dato samt URL eller DOI.
 
 Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
 
 ::: tip I noten 
-^nr^ Etternavn komponist, "Tittelspor" fra _Platetittel_, Etternavn på utøver(e), årstall.
+^nr^ Etternavn komponist, «Tittelspor» fra _Platetittel_, Etternavn på utøver(e), årstall.
 
 ... slik satsen ble tolket i framføringen under festspillene i Bergen, våren 2018^20^
 
-^20^ Berlioz, "Rex tremendæ" fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
+^20^ Berlioz, «Rex tremendæ» fra _Grande messe des morts,_ Gardner, Tødenes, Bergen philharmonic orchestra and choirs, 2018.
 :::
 
 :::: ref
 
 Etternavn, Fornavn. _Tittel_. Fornavn Etternavn på utøver(e). Årstall. Plateselskap. Lydformat.
 
-Berlioz, Hector. "Rex tremendæ" fra _Grande messe des morts, op.5, h75_. Bror Magnus Tødenes, tenor, Choir of Collegiûm Mûsicûm, Edvard Grieg kor, Royal Northern College of Music Chorus, Bergen Philharmonic Choir, Håkon Matti Skrede, chorus master, Eikanger-Bjørsvik musikklag, musicians from Bergen philharmonic youth orchestra and Crescendo, Bergen philharmonic orchestra, David Stewart, leader, Edward Gardner, conductor. 2018. Chandos. CD.
+Berlioz, Hector. «Rex tremendæ» fra _Grande messe des morts, op.5, h75_. Bror Magnus Tødenes, tenor, Choir of Collegiûm Mûsicûm, Edvard Grieg kor, Royal Northern College of Music Chorus, Bergen Philharmonic Choir, Håkon Matti Skrede, chorus master, Eikanger-Bjørsvik musikklag, musicians from Bergen philharmonic youth orchestra and Crescendo, Bergen philharmonic orchestra, David Stewart, leader, Edward Gardner, conductor. 2018. Chandos. CD.
 
-Legges inn som "Audiovisual Material"
+Legges inn som «Audiovisual Material»
 
 Fyll inn feltene: Author (for komponist), Year, Title, Album name, Performers, Publisher (plateselskap), Type (medium, f. eks LP, CD, etc.).
 
@@ -651,17 +651,17 @@ For bokmanuskripter som er under vurdering, skal tittel stå i anførselstegn, i
 
 ::: tip I noten
 
-^nr^ Etternavn, ”Korttittel”.
+^nr^ Etternavn, «Korttittel».
 :::
 
 :::: ref
-Etternavn, Fornavn. ”Tittel”. Utgiversted: Utgiver, innsendt for publisering.
+Etternavn, Fornavn. «Tittel». Utgiversted: Utgiver, innsendt for publisering.
 
 Nyere forskning peker i retning av (…)^24^
 
-^24^ Trille, ”Stort og smått”.
+^24^ Trille, «Stort og smått».
 
-Trille, Lille. ”Stort og smått i eggbransjen”. _Norsk tidsskrift for fiktive figurer fra rim og regler_, innsendt for publisering.
+Trille, Lille. «Stort og smått i eggbransjen». _Norsk tidsskrift for fiktive figurer fra rim og regler_, innsendt for publisering.
 
 
 :::: 
@@ -669,7 +669,7 @@ Trille, Lille. ”Stort og smått i eggbransjen”. _Norsk tidsskrift for fiktiv
 
 ### Manuskript under publisering, antatt (in press/forthcoming)
 
-Dersom det er en artikkel eller kapittel i en bok, oppgi sidetall hvis tilgjengelig. Dersom publiseringstidspunkt er kjent, kan dette antydes, markert med forventet publisering (for eksempel høsten 2020) i stedet for publiseringsdato. Ellers skriver du bare ”under publisering.” For øvrig følges retningslinjene for den aktuelle referansetypen, ta med for eksempel årgang og nummer for tidsskrift hvis dette er kjent.
+Dersom det er en artikkel eller kapittel i en bok, oppgi sidetall hvis tilgjengelig. Dersom publiseringstidspunkt er kjent, kan dette antydes, markert med forventet publisering (for eksempel høsten 2020) i stedet for publiseringsdato. Ellers skriver du bare «under publisering.» For øvrig følges retningslinjene for den aktuelle referansetypen, ta med for eksempel årgang og nummer for tidsskrift hvis dette er kjent.
 
 :::: ref
 ^nr^ Etternavn, _Korttittel_, sidetall hvis tilgjengelig.
@@ -693,7 +693,7 @@ Personlig kommunikasjon kan være direkte tale, e-post og liknende. Forbokstaver
 
 ::: tip I noten
 
-”For øvrig mener jeg at Karthago bør ødelegges.” ^26^
+«For øvrig mener jeg at Karthago bør ødelegges.» ^26^
 
 ^26^ Personlig kommunikasjon i e-post fra Cato den eldre, 01.02.20.
 :::
@@ -727,15 +727,15 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 ### Sosiale medier
 
 ::: tip I noten
-^nr^ Etternavn/gruppe/institusjon, ”Sitat (inntil 160 tegn).”
+^nr^ Etternavn/gruppe/institusjon, «Sitat (inntil 160 tegn).»
 
 … som mottok fattighjelp, ble forhindret fra å stemme ved kommunevalget i 1916.^18^
 
-^18^ Stortinget, "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp."
+^18^ Stortinget, «Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp.»
 :::
 
 :::: ref
-Fornavn Etternavn/gruppe/institusjon, ”Sitat, (inntil 160 tegn)” Navn på sosialt medium, publiseringsdato, URL
+Fornavn Etternavn/gruppe/institusjon, «Sitat, (inntil 160 tegn)» Navn på sosialt medium, publiseringsdato, URL
 
 
 Stortinget. "Ved kommunevalget i Kristiania 4. desember 1916 ble 520 menn og 1176 kvinner forhindret fra å stemme fordi de hadde mottatt fattighjelp," Facebook, 3.12.2019, [https://www.facebook.com/stortinget/posts/2555777227987301](https://www.facebook.com/stortinget/posts/2555777227987301)
