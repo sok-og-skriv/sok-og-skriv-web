@@ -9,10 +9,10 @@ pages:
     paths:
     - node_modules/
   script:
-  - npm ci
+  - yarn install --frozen-lockfile
   #- npm run export
   #- mv site.pdf public sokogskriv.pdf
-  - npm run build
+  - yarn build
   artifacts:
     paths:
     - public
