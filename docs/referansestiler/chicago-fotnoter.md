@@ -297,55 +297,6 @@ Artikkel på nett: Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Iss
 :::: 
 
 
-
-## Nettsider
-
-### Nettside uten forfatter
-
-::: tip I noten 
-^nr^ Nettstedets navn, "Artikkeltittel."
-
-.., jfr data fra Statistisk sentralbyrå.^13^
-
-^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
-::: 
-
-:::: ref
-
-Nettsted. "Artikkeltittel." Dato. URL/DOI
-
-^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
-
-::: details I EndNote
-
-Legges inn som: «Web page»
-
-Fyll ut feltene: Author (institusjonsnavnet med komma etter for å hindre invertering), Year, Title, Access Date, Access Year, URL. 
-::: 
-:::: 
-
-
-
-### Nettside med forfatter/blogg
-
-::: tip I noten 
-^nr^ Etternavn, ”Artikkeltittel.” _Tittel på nettsted/blogg_. Dato. DOI/URL
-
-"Når man jobber med en kunstner som det eksisterer forholdsvis lite systematisk tilgjengelig informasjon om, er kildestudier en nødvendighet."^14^ 
-^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
-:::
-:::: ref
-^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
-
-::: details I EndNote
-
-Legges inn som: «Web page»
-
-Fyll ut feltene: Author (trykk enter mellom hvert navn hvis flere, hvis institusjonsnavn skriv komma til slutt for å unngå invertering), Year, Title, Last Update Date, Access year, URL. 
-::: 
-:::: 
-
-
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
 Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet).
@@ -431,7 +382,6 @@ Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publ
 
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
-
 ::: tip I noten 
 ^nr^ Etternavn, ”Korttittel artikkel.” 
 
@@ -450,6 +400,54 @@ Sveen, Dag. ”Kritisk realisme.” I _Pax Leksikon_. Oslo: Pax, 1979.
 Legges inn som "Encyclopedia"
 
 Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publisher. 
+::: 
+:::: 
+
+
+## Nettsider
+
+### Nettside uten forfatter
+
+::: tip I noten 
+^nr^ Nettstedets navn, "Artikkeltittel."
+
+.., jfr data fra Statistisk sentralbyrå.^13^
+
+^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn."
+::: 
+
+:::: ref
+
+Nettsted. "Artikkeltittel." Dato. URL/DOI
+
+^13^ Statistisk sentralbyrå, "Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
+
+::: details I EndNote
+
+Legges inn som: «Web page»
+
+Fyll ut feltene: Author (institusjonsnavnet med komma etter for å hindre invertering), Year, Title, Access Date, Access Year, URL. 
+::: 
+:::: 
+
+
+
+### Nettside med forfatter/blogg
+
+::: tip I noten 
+^nr^ Etternavn, ”Artikkeltittel.” _Tittel på nettsted/blogg_. Dato. DOI/URL
+
+"Når man jobber med en kunstner som det eksisterer forholdsvis lite systematisk tilgjengelig informasjon om, er kildestudier en nødvendighet."^14^ 
+^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
+:::
+:::: ref
+^14^ Følstad, Sverre og Lorentzen, Sandra, "Jakten på Mathilde Dietrichson", _Historieblogg_   [https://www.historieblogg.no/?p=5485](https://www.historieblogg.no/?p=5485)
+
+::: details I EndNote
+
+Legges inn som: «Web page»
+
+Fyll ut feltene: Author (trykk enter mellom hvert navn hvis flere, hvis institusjonsnavn skriv komma til slutt for å unngå invertering), Year, Title, Last Update Date, Access year, URL. 
 ::: 
 :::: 
 
@@ -615,20 +613,16 @@ SJEKK om dette er rett satt opp
 x NOU årstall: nr., eventuelt sidetall.
 
 I NOU _Struktur for likestilling_^28^ hevdes det at …
-
+:::
 
 
 :::: ref
 
-
 NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Eventuelt URL
-
-
 
 ^28^ NOU 2011: 18, 25.
 
 NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/](https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/)
-
 
 :::: 
 
