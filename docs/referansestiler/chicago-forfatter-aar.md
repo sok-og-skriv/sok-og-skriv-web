@@ -244,6 +244,44 @@ Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Issue date og URL.
 ::: 
 :::: 
 
+### Artikkel i elektronisk leksikon (uten forfatter)
+
+Generelle leksika og oppslagsverk som ordbøker blir ofte nevnt i en parentes i teksten uten at det gis fullstendig referanse i referanselisten. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet) og oppgi publiseringsdato, evt dato for nedlasting. Hvis du ønsker å gi full referanse, se eksempel under.
+
+::: teksten
+(_Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato)
+
+… og det er påvist at Locke arbeidet med toleranseproblemet i en årrekke (_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august, 2019).
+:::
+
+:::: ref
+_Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato, URL/DOI.
+
+_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
+
+ 
+:::: 
+
+
+### Artikkel i trykt leksikon
+
+Generelle oppslagsverk blir ofte bare nevnt i teksten uten at det gis fullstendig referanse i referanselisten. Hvis du har konsultert en utgave som ikke er den første, bør du oppgi hvilken. For oppslagsverker som i mindre grad er allment kjent eller utbredt (og ved tvil) bør du oppgi fullstendig referanse med publiseringsdata. For artikler uten oppgitt forfatter, henvis til oppslagsordet markert med s.v. (sub verbo, latin for under ordet). For artikkel med oppgitt forfatter, se eksempel under.
+
+::: teksten
+Forfatter («Artikkeltittel»)
+
+Som Pentikäinen viser («Finnish Religions»).
+:::
+
+:::: ref
+Etternavn, Fornavn. «Artikkeltittel». _Tittel på oppslagsverk_, utg., bd., utgiversted, årstall.
+
+Pentikäinen, Juha. «Finnish Religions.» _Encyclopedia of Religion_, 2. utg., bd. 5, Detroit, 2005.
+ 
+:::: 
+
+
+
 ## Nettsider
 
 ### Nettside uten forfatter
@@ -291,42 +329,6 @@ Fyll ut feltene: Author (trykk enter mellom hvert navn hvis flere, hvis institus
 
 Chicago-stilen krever ikke lesedato for nettsider når publiseringstidpunkt er oppgitt. Hvis du likevel vil legge til denne opplysningen, plasseres den rett før URL.
 
-### Artikkel i elektronisk leksikon (uten forfatter)
-
-Generelle leksika og oppslagsverk som ordbøker blir ofte nevnt i en parentes i teksten uten at det gis fullstendig referanse i referanselisten. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet) og oppgi publiseringsdato, evt dato for nedlasting. Hvis du ønsker å gi full referanse, se eksempel under.
-
-::: teksten
-(_Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato)
-
-… og det er påvist at Locke arbeidet med toleranseproblemet i en årrekke (_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august, 2019).
-:::
-
-:::: ref
-_Tittel på oppslagsverk_, s.v. «Artikkeltittel,» lest dato, URL/DOI.
-
-_The Internet Encyclopedia of Philosophy_, s.v. «John Locke (1632–1749),» lest 19. august 2019, [https://www.iep.utm.edu/locke/](https://www.iep.utm.edu/locke/).
-
- 
-:::: 
-
-
-### Artikkel i trykt leksikon
-
-Generelle oppslagsverk blir ofte bare nevnt i teksten uten at det gis fullstendig referanse i referanselisten. Hvis du har konsultert en utgave som ikke er den første, bør du oppgi hvilken. For oppslagsverker som i mindre grad er allment kjent eller utbredt (og ved tvil) bør du oppgi fullstendig referanse med publiseringsdata. For artikler uten oppgitt forfatter, henvis til oppslagsordet markert med s.v. (sub verbo, latin for under ordet). For artikkel med oppgitt forfatter, se eksempel under.
-
-::: teksten
-Forfatter («Artikkeltittel»)
-
-Som Pentikäinen viser («Finnish Religions»).
-:::
-
-:::: ref
-Etternavn, Fornavn. «Artikkeltittel». _Tittel på oppslagsverk_, utg., bd., utgiversted, årstall.
-
-Pentikäinen, Juha. «Finnish Religions.» _Encyclopedia of Religion_, 2. utg., bd. 5, Detroit, 2005.
-
- 
-:::: 
 
 
 ## Visuelle kilder
@@ -336,7 +338,6 @@ For å bruke et bilde eller et kunstverk som illustrasjon i teksten din må du n
 Denne kildeinformasjonen kan vanligvis gis i selve teksten fremfor i referanselisten. Ta i alle tilfelle med så mye av den følgende informasjonen som er tilgjengelig: navn på opphavsperson/kunstner og/eller fotograf, tittel, dato eller år for verket og/eller når reproduksjonen av det ble laget, medium (for eksempel foto, olje på lerret, silketrykk), (for kunstverker:) størrelse, inventarnummer, eier,  eventuell nedlastingsinformasjon.
 
 ### Foto
-
 
 ::: teksten
 Oppgi en billedtekst under verket med henvisning til kunstner og rettighetshaver.
