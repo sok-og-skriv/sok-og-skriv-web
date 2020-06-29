@@ -24,7 +24,7 @@ Forordet har ingen spesielle konvensjoner, men det er vanlig å takke veiledere,
 Innledningen skal både gi oversikt over oppgaven som helhet og være en appetittvekker for leseren. Det kan være lurt å gå gjennom innledningen helt til slutt, slik at det blir god sammenheng mellom den og avslutningen (konklusjonen).
 
 ::: tip Tips
-En elegant vri er å bruke samme stilgrep på innledning og konklusjon, for eksempel et "bilde" som presenteres på én måte i innledningen, og som vender tilbake til i avslutningen, men denne gang med et annet - rikere eller annerledes - perspektiv.
+En elegant vri er å bruke samme stilgrep på innledning og konklusjon, for eksempel et «bilde» som presenteres på én måte i innledningen, og som vender tilbake til i avslutningen, men denne gang med et annet - rikere eller annerledes - perspektiv.
 :::
 
 Innledningen inneholder gjerne:
@@ -72,10 +72,10 @@ Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en proble
 
 - Bruk spørreord: hvordan, hvorfor, hvilke (faktorer, forhold) osv.
 - Noen spørsmål er lukkende og gir konkrete/avgrensete svar. Andre egner seg til drøfting av ulike tolkninger etc.  
-    "Hva ...?" er mer lukkende enn "hvordan ... " og "på hvilken måte".  
-    "Hvorfor" innebærer at du ser etter årsaksforklaringer (kausalitet). Dette stiller strenge krav til design og metode.
+    «Hva ...?» er mer lukkende enn «hvordan ... » og «på hvilken måte".  
+    «Hvorfor» innebærer at du ser etter årsaksforklaringer (kausalitet). Dette stiller strenge krav til design og metode.
 - Velg gjerne spørreord som åpner opp problemstillingen slik at du kan belyse temaet, for eksempel "På hvilken måte … ?"  
-    "Hvordan kan vi forstå \[et fenomen\]?"
+    «Hvordan kan vi forstå \[et fenomen\]?»
 - Prøv å sammenfatte problemstillingen i ett hovedspørsmål og eventuelle underspørsmål (to eller tre er som regel tilstrekkelig).
 :::
 
@@ -97,7 +97,7 @@ Ikke alle oppgaver har en egen teoridel. I [IMRaD-modellen](/skriving/imrad-mode
 
 ## Metodekapittel
 
-I en forskningsartikkel er avsnittet om metode ofte det viktigste. Det samme gjelder metodekapitlet i en empirisk oppgave. Dette kan også være et vanskelig kapittel å skrive, fordi det ikke alltid er klart hvilken "jobb" det skal gjøre. Et metodekapittel skal **ikke** gjengi innholdet i fagets metodebøker. Dersom du har brukt intervju er det for eksempel ikke nødvendig å liste opp forskjellige typer forskningsintervju. Du trenger heller ikke redegjøre for forskjellene mellom kvantitative og kvalitative metoder, eller liste opp ulike typer validitet og reliabilitet.
+I en forskningsartikkel er avsnittet om metode ofte det viktigste. Det samme gjelder metodekapitlet i en empirisk oppgave. Dette kan også være et vanskelig kapittel å skrive, fordi det ikke alltid er klart hvilken «jobb» det skal gjøre. Et metodekapittel skal **ikke** gjengi innholdet i fagets metodebøker. Dersom du har brukt intervju er det for eksempel ikke nødvendig å liste opp forskjellige typer forskningsintervju. Du trenger heller ikke redegjøre for forskjellene mellom kvantitative og kvalitative metoder, eller liste opp ulike typer validitet og reliabilitet.
 
 Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner seg til å belyse/besvare ditt forskningsspørsmål, og hvilke vurderinger du har foretatt mht validitet (gyldighet) og reliabilitet (pålitelighet).’_Show, don’t tell’_ – vis leseren hva du gjorde, og forklar hvorfor. Da vil metodekapitlet sette de ulike delene av oppgaven i sammenheng, og det blir spennende å lese. I praksis betyr dette å demonstrere at du har forstått den praktiske betydningen av begrepene.
 
