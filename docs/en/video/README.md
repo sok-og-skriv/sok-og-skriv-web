@@ -8,13 +8,13 @@ sidebar: false
 
 ## How to search with keywords
 
-<Video id="_yKr4R3k5Pg" />
+<Video id="J2LCsJlOEsI" />
 
 
 
 ## Search with AND / OR
 
-<Video id="V20SCScsECE" />
+<Video id="lEo96kOKGmA" />
 
 
 
