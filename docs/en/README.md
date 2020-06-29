@@ -24,7 +24,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
     </div>
     <div class="content">
       <h2><a href="/en/study-skills/">Study skills</a></h2>
-      <p>Reading and writing are closely related skills that form the core of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of how as well as of what you read.</p>
+      <p>Reading and writing are closely related activities in academic work. In order to write a good thesis, you need to be conscious of how and what you read.</p>
     </div>
   </div>
 
@@ -34,7 +34,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
     </div>
     <div class="content">
       <h2><a href="/en/writing/">Writing</a></h2>
-      <p>Academic writing has certain formal requirements, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis.</p>
+      <p>In academic writing there are certain formal requirements regarding form and contents, language and style.</p>
     </div>
   </div>
 
@@ -44,7 +44,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
     </div>
     <div class="content">
       <h2><a href="/en/sources-and-referencing/">Sources</a></h2>
-      <p>All research is based on sources. The relevance of different types of sources varies from subject to subject.</p>
+      <p>All research is based on sources. There are various criteria for assessing their relevance and quality.</p>
     </div>
   </div>
 
