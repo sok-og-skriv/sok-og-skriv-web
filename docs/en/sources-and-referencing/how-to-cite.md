@@ -22,26 +22,25 @@ Academic publications have formal rules for citation and referencing that vary b
 ::: details Abbreviations 
 
 There are some standard abbreviations that are used when citing sources. Below is a list of some of the most common abbreviations. Remember that all abbreviations should have a period/full stop after them.
-- v. Volume 
-- anon. Anonymous. Unknown author
-- c. Circa. Used when approximating a date, for example c.1978
-- et al. And others. Used to shorten a list of authors e.g. Smith et al.
-- ch. Chapter 
-- ed(s). Editor(s)
-- Revised Edition?
-- p. Page or pp. Pages
-- n.d. No date. Used for sources without a given publication date
+- **v.** Volume 
+- **anon.** Anonymous. Unknown author
+- **c.** Circa. Used when approximating a date, for example c.1978
+- **et al.** And others. Used to shorten a list of authors e.g. Smith et al.
+- **ch.** Chapter 
+- **ed(s).** Editor(s)
+- **p.** Page or pp. Pages
+- **n.d.** No date. Used for sources without a given publication date
 ::: 
 
 Below you will find some examples of direct and indirect citations using the APA style.
 
 ## Quotations 
 
-When you take an excerpt from a text and use it in your text, this is called quotation. There are several ways to do this. The examples below are based on the referencing style APA 7th edition.
+When you use an excerpt from a text in your own text, it is called a quotation. There are several ways to do this. The examples below are based on the referencing style APA 7th edition.
 
 
 ### Direct quotations 
-In a proper/direct quotation you type exactly (word for word, including emphasis etc.) what another author has written. Excerpts consisting of less than 40 words (or three lines) are typed directly into your text and indicated by quotation marks (“...”).
+In a proper/direct quotation you reproduce exactly (word for word, including emphasis etc.) what another author has written. Excerpts consisting of less than 40 words (or three lines) are typed directly into your text and indicated by quotation marks (“...”).
 
 ::: eksempel Example
 
@@ -50,11 +49,11 @@ In a proper/direct quotation you type exactly (word for word, including emphasis
 Source: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Oslo: Gyldendal.
 ::: 
 
-Quotations of more than 40 words (in the APA style) should be written in their own indented paragraph. In this case, quotation marks are not used.
+Quotations of more than 40 words (in the APA style) should be placed in their own indented paragraph. In this case, quotation marks are not used.
 
 ### Paraphrasing 
 
-When you want to cite another author, you may wish to reformulate their ideas using your own words. This "indirect quotation" can help to create a better flow in your text. When you paraphrase, you are rephrasing what another author has written. You should change both the words and word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing their ideas in any way, and that the meaning of the original text is retained. 
+When citing another author, you may wish to reformulate their ideas using your own words. This form of indirect quotation can help create a better flow in your text. When you paraphrase, you are rephrasing what another author has written. You should change both the words and the word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing the underlying ideas in any way, and that the meaning of the original text is retained. 
 
 ::: eksempel Example 
 
@@ -65,7 +64,7 @@ The academic genre is characterized by discussion, and all students with the hum
 
 ### Making changes to a quotation 
 
-Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts that are unnecessary for your argument or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be highlighted. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
+Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts that are unnecessary for your argument or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be emphasised. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
 
 ::: eksempel Example
 “Students ... must write within an academic genre. The distinctive feature of this genre is _discussion_” (Førland, 1996, p. 11).
@@ -77,33 +76,35 @@ If you want to add or replace something in a citation, this should be highlighte
 “Students (and researchers) [in the human sciences] must write within an academic genre” (Førland, 1996, p.11). 
 ::: 
 
-If you addor remove italics in the quotation, add “emphasis added” or "emphasis removed" after the page number. 
+If you add or remove italics in the quotation, add “emphasis added” or "emphasis removed" after the page number. 
 
 ::: eksempel Example 
 
 “Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion” (Førland, 1996, p.11, emphasis removed).
 ::: 
 
-In the case of typos in the original, this can be marked by the Latin \[_sic_\], which means "thus was it written". _Sic._ can also mean that the quotation is unusual, but correctly reproduced.
+In case of errata in the original, this can be marked by the Latin \[_sic_\], which means "thus was it written". _Sic._ can also mean that the quotation is unusual, but correctly reproduced.
 
 
 ### Secondary references
-As a rule, you should only cite from works that you have read. However, if the original source is not available, or is written in a language that you don’t understand, you can refer to others’ use of it:
+As a rule, you should only cite from works that you have read. However, if the original source is not available, or is written in a language that you do not understand, you can refer to others’ use of it:
 
 ::: eksempel EXAMPLE
 
 Beck and Beck-Gemsheim referenced in Kloster (2003, p.4) talk about three stages that women and men have gone through in the move from a traditional to a modern society.
 There are three stages that the relationship between women and men have gone through in the move from a traditional to a modern society (Beck & Beck-Gemsheim in Kloster, 2003, p.4).
 
+:::
+
 ### Notes and appendices
 - Limit use of notes.
-- Notes can be used for additional information that does not fit naturally in with the rest of your text. They provide information that is not essential for understanding the main content.
-- You can choose between footnotes at the bottom of a page and endnotes at the back of the chapter/assignment. Notes are normally set in a smaller font size than the main text.
+- Notes can be used for additional information that does not fit naturally with the rest of your text. They provide information that is not essential for understanding the main content.
+- You can choose between footnotes at the bottom of a page or endnotes at the back of the chapter/assignment. Notes are normally set in a smaller font size than the main text.
 - Exactly how you make references to notes will depend on what referencing style you are using. 
 - Appendices can be tables or figures which are included in the assignment, questionnaires, observation forms, interview guides and other such additions which are not included in the main body of your text. Appendices must be numbered and included after the reference list.
 
 ### Tools for managing references
-For longer assignments such as a bachelor or master thesis, you may be able to manage your references more effectively with the use of a reference management system such as EndNote, ReferenceManager, Zotero or Mendeley. When you use Word together with EndNote, Word will automatically create a reference list for the references in your text. You can also easily change your choice of referencing style if needed. Check with student services what reference management systems you have access to. Zotero and Mendeley are free and available for anyone.
+For longer assignments such as a bachelor or master thesis, you may be able to manage your references more effectively with the use of a reference management system such as EndNote, ReferenceManager, Zotero or Mendeley. The reference tool will automatically create a reference list for the references in your text. You can also easily change your choice of referencing style if needed. Check with student services what reference management systems you have access to in your institution. Zotero and Mendeley are free and available to anyone.
 
 ***Exporting your references from a database***
 Instead of copying references, you can often export them directly from the database where you found them. This will simplify the writing process and minimize errors in your referencing. 
