@@ -148,7 +148,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 Tekst (nummer)
 
-På nettstedet til Kreftregisteret (6) belyses temaet …
+På  …
 
 :::
 
@@ -156,7 +156,7 @@ På nettstedet til Kreftregisteret (6) belyses temaet …
 
 Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
-6\. Kreftregisteret. Fakta om kreft \[Internett\]. Oslo: Kreftregisteret; 2016 \[hentet 2016-06-25\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/](https://www.kreftregisteret.no/Generelt/Fakta-om-kreft/)
+6
 
 ::: details I EndNote 
 
