@@ -56,7 +56,7 @@ God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (S
 :::
 
 :::: ref
-Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI, URL eller plattform. SJEKK DETTE
+Etternavn, Fornavn. Årstall. _Tittel_. Utgiversted: Forlag. DOI, URL eller plattform.
 
 Schimel, Joshua. 2012. _Writing science: How to write papers that get cited and proposals that get funded_, Oxford: Oxford University Press. EBSCOhost e-books. 
 
@@ -163,7 +163,7 @@ Volume, Editor / Series Editor, Series Title
 ::: teksten
 Forfatter (årstall)
 
-Fredrik Langeland (2007) analyserer maskulinitetsframstillinger i sport og populærkultur.
+Langeland (2007) analyserer maskulinitetsframstillinger i sport og populærkultur.
 :::
 
 :::: ref
@@ -522,7 +522,7 @@ Hvis en bok eller en artikkel er antatt, kan kommentaren "under publisering" ers
 :::: ref
 Etternavn, Fornavn. Under publisering. «Tittel.» Utgiversted: _Tidsskrift_.
 
-Trille, Lille. Under publisering. «Stort og smått i eggebransjen.» Andeby: _Norsk tidsskrift for fiktive figurer fra rim og regler_
+Trille, Lille. Under publisering. «Stort og smått i eggebransjen.» Andeby: _Norsk tidsskrift for fiktive figurer fra rim og regler._
 
 
 :::: 
