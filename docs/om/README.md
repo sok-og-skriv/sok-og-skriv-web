@@ -1,6 +1,9 @@
 ---
 title: "Om Søk & Skriv"
 date: "2012-03-19"
+tags: 
+  - rettigheter
+  - "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
 ---
 
 # Om Søk & Skriv

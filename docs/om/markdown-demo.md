@@ -7,6 +7,21 @@ date: "2020-02-12"
 
 Søk og skriv dokumentasjon på bruk av Markdown. Se også [Markdown-it](https://markdown-it.github.io/) for flere muligheter.
 
+## Tags for søk
+
+Markdown filene har en metablokk eller "frontmatter" som det heter i markdownsk. Her har vi tittel og eventuelt dato for når siden ble opprettet. Her kan vi også legge inn **søkeord**. Se eksempelet nedenfor og vær oppmerksom på at `Creative Commons` må ha anførselstegn, mens enkelt ord ikke trenger det.
+
+```yaml
+---
+title: "En side"
+date: "2020-01-01"
+tags: 
+  - søking
+  - referansestil
+  - "en test kategori"
+---
+```
+
 ## Avsnitt
 
 ::: eksempel
