@@ -357,7 +357,7 @@ Fyll inn feltene Author, Year, Title, Publisher, Series Title, URL (Hvis aktuelt
 Klassiske skrifter og hellige tekster finnes i mange forskjellige utgaver. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Tekstene deles i stedet inn i nummererte kapittel, vers eller surer som vil være den samme i alle utgaver. Dette gjelder for eksempel klassiske skuespill og dikt, Koranen, Bibelen og eldre greske og romerske tekster. Henvisning til hellige skrifter gjøres underveis i teksten ved å oppgi tekststed i parentes. Hellige tekster som Bibelen og Koranen trenger som regel ikke å føres i referanselisten.
 
 ::: teksten
-(Tekststed)
+... (Tekststed).
 
 Romeo viser her sin sanne og intense kjærlighet til sin elskede Julie (Akt 2, scene 5, vers 55).
 :::
@@ -377,19 +377,19 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 ### Upublisert materiale
 
 ::: teksten
-... forfatter ... (_Tittel_)
+... forfatter ... (Tittel).
 
-**Eksempel:** Utaker ser på bruk av bilder i filosofi knyttet til menneskets forståelse og persepsjon av seg selv (_Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_).
+**Eksempel:** Utaker ser på bruk av bilder i filosofi knyttet til menneskets forståelse og persepsjon av seg selv (Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem).
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel._ Årstall, upublisert manuskript, Institusjonstilhørighet.
+Etternavn, Fornavn. Tittel. Årstall, upublisert manuskript, Institusjonstilhørighet.
 
-Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010, upublisert manuskript, Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
+Utaker, Arild. Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem. 2010, upublisert manuskript, Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
 
 ::: details I EndNote
 Legges inn som "Book"
-Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher. (Skriv "Upublisert maunskript" før institusjonstilhørighet avskilt med komma)
+Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher. (Skriv "upublisert maunskript" før institusjonstilhørighet avskilt med komma)
 ::: 
 :::: 
 
