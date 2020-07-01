@@ -9,7 +9,7 @@ MLA står for Modern Language Association. Referansestilen legger vekt på forfa
 
 ## Sitering i teksten 
 
-Hvis forfatternavnet er del av setningen oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen, slik: 
+Hvis forfatternavnet er del av setningen oppgis bare sidetallet i parentes. Sett parentesen der det kommer en naturlig pause, helst i slutten av setningen: 
 > "Barrow fant at ... (137-141)". 
 
 Hvis forfatternavnet ikke inngår i setningen, skal det stå inne i parentesen: 
@@ -19,7 +19,7 @@ Hvis du bruker flere arbeider av samme forfatter, legg til komma og tittel (hvis
 > Eksempel: (Faingold, _Child language_ 95-97). 
 
 Hvis du henviser til hele boka, eller til et verk uten sidetall, er det ofte best å inkludere forfatternavn og/eller tittel i selve teksten, slik:
-> "Fukuyamas _Our Posthuman Future_ har mange eksempler på dette."
+> Fukuyamas _Our Posthuman Future_ har mange eksempler på dette.
 
 Sitater må være eksakt gjengitt med kildehenvisning. Sitater som er kortere enn tre linjer inkluderes i teksten med anførselstegn. Lengre sitater markeres med kolon og innrykk, men ikke anførselstegn.
 
@@ -86,7 +86,7 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ### E-bok
 
-I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Informasjon om format leggs inn som utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for "e-bok". 
+I [MLA](https://style.mla.org/citing-an-e-book/) regnes e-bok som en "versjon" av boka. Informasjon om format legges inn foran utgiver. Hvis du vet hvilket format e-boka er i (for eksempel Kindle, EPUB), skriver du dette i stedet for "e-bok". 
 
 ::: teksten
 Joshua Schimel's _Writing Science_ tar for seg vitenskapelig skriving som historiefortelling med elementer som konflikt, dramatisk oppbygning og forløsning. 
@@ -153,7 +153,7 @@ Kyrkjebø, Rune. _Heimskringla I etter Jofraskinna: karakteristikk av tekstvitna
 ::: details I EndNote
 
 Legges inn som «Thesis».
-Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, University (Institutt/fakultet, Institusjon) Thesis Type (Akademisk avhandling).
+Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, University (Institutt/fakultet, Institusjon) og Thesis Type (Akademisk avhandling).
 
 
 ::: 
@@ -167,12 +167,12 @@ Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivels
 :::: ref
 Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI-nummer.
 
-Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, no. 2, 2019, ss. 99–156, www.idunn.no.
+Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, vol. 35, no. 2, 2019, ss. 99–156, www.idunn.no.
 
 ::: details I EndNote
 Legges inn som «Journal Article».
 
-Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages (hvis aktuelt) DOI/URL (Hvis aktuelt)
+Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue, Pages (hvis aktuelt) DOI/URL (hvis aktuelt).
 ::: 
 :::: 
 
@@ -184,7 +184,7 @@ Lesedato er frivillig.
 :::: ref
 Etternavn, Fornavn. "Tittel på artikkel". _Tittel på avis_, utgivelsesdato, sidetall eller URL. 
 
-Guðmundsson, Halldór. "En engel i Reykholt". _Klassekampen_, 24. juni 2020, https://klassekampen.no/utgave/2020-06-24/en-engel-i-reykholt 
+Guðmundsson, Halldór. "En engel i Reykholt". _Klassekampen_, 24. juni 2020, https://klassekampen.no/utgave/2020-06-24/en-engel-i-reykholt. 
 
 ::: details I EndNote
 
@@ -198,25 +198,28 @@ Fyll ut feltene: Reporter (trykk «enter» mellom hvert navn hvis flere), Title,
 
 ### Nettside fra organisasjon
 
-Nettsider som forandrer seg bør ha med lesedato. 
+Nettsider som forandrer seg, bør oppføres med lesedato. 
 
 ::: teksten
-The Online Writing Lab (OWL) fra Purdue University inneholder stort sett alt man trenger for å skrive akademiske oppgaver på engelsk (Purdue Online Writing Lab).
+
+Bruk de første ordene av nettsidetittelen i henvisningen i teksten.
+
+Eksempel: Nettsidene fra Purdue University inneholder stort sett alt man trenger for å skrive akademiske oppgaver på engelsk (Purdue Online Writing Lab).
 
 :::
 
 
 :::: ref
 
-"Tittel på nettside". Organisasjon eller nettsted. URL, lesedato. 
+"Tittel på nettside". Organisasjon eller nettsted, URL, lesedato. 
 
-"Purdue Online Writing Lab". Purdue University. https://owl.purdue.edu/owl/purdue_owl.html, lest 24.06.2020
+"Purdue Online Writing Lab". Purdue University, https://owl.purdue.edu/owl/purdue_owl.html, lest 24. juni 2020
 
 ::: details I EndNote
 
 Legges inn som "Web Page".
 
-Fyll ut feltene: Title, Publisher (Nettstedets/ Organisasjonens navn) URL.
+Fyll ut feltene: Title, Publisher (Nettstedets/ Organisasjonens navn) og URL.
 
 (Fyll også ut Date Accessed hvis lesedato skal med). 
 
@@ -226,13 +229,18 @@ Fyll ut feltene: Title, Publisher (Nettstedets/ Organisasjonens navn) URL.
 
 ### Nettside med forfatter 
 
-Nettsider som forandrer seg bør ha med lesedato.
+Nettsider som forandrer seg, bør ha med lesedato.
+
+::: teksten 
+
+"Knapt noen generasjon har opplevd så gode tider som vår" (Harald 5).
 
 
 :::: ref
 
-Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet._ URL. Lesedato.
+Etternavn, Fornavn. "Tittel på artikkel". _Tittel på nettstedet,_ URL, Lesedato.
 
+Harald 5. "De små, lyse øyeblikk". _Virksomme ord. Norske politiske taler_, http://virksommeord.no/tale/6715/, lest 1. juli 2020. 
 
 ::: details I EndNote
 
@@ -256,9 +264,9 @@ fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere) Title, Pu
 :::
 
 :::: ref
-"Oppslagsord". _Tittel på oppslagsverk._ år. URL. Lesedato.
+"Oppslagsord". _Tittel på oppslagsverk_, år. URL. Lesedato.
 
-"Hermetisk diktning". _Store norske leksikon._ 9. mai 2019. https://snl.no/hermetisk_diktning. Lest 24. juni 2020. 
+"Hermetisk diktning". _Store norske leksikon_, 9. mai 2019. https://snl.no/hermetisk_diktning. Lest 24. juni 2020. 
 
 ::: details I EndNote
 
@@ -275,15 +283,16 @@ fyll ut feltene: Author (Oppslagsord) Title, Publisher (Nettstedets/ Organisasjo
 ### Artikkel i trykt leksikon (med forfatter)
 
 ::: teksten
-(Forfatter eventuelt sidetall)
 
-Tveite ser på historikeren Seips kritikk av Arbeiderpartiet der han hevder at etterkrigstidens Norge har blitt en ettpartistat (280).
+... (sidetall).
+
+Tveite tar for seg Jens Arup Seips tese om at Norge i etterkrigstiden var en ettpartistat (280).
 :::
 
 :::: ref
-Etternavn, Fornavn. "Artikkeltittel". _Tittel på oppslagsverk._ Red. Fornavn Etternavn og Fornavn Etternavn. Bind nr. Utgiver, årstall, Sidetall
+Etternavn, Fornavn. "Artikkeltittel". _Tittel på oppslagsverk_, redigert av Fornavn Etternavn og Fornavn Etternavn, Bind nr, Utgiver, årstall, Sidetall.
 
-Tveite, Tonje. "'Politikk er ikke idyll': Jens Arup Seip som samtidsforfatter". _Norsk litteraturhistorie: Sakprosa fra 1750 til 1995_. Red. Egil Børre Johnsen og Trond Berg Eriksen. Bind 2. Universitetsforlaget, 1998, s. 20-25
+Tveite, Tonje. "'Politikk er ikke idyll': Jens Arup Seip som samtidsforfatter". _Norsk litteraturhistorie: Sakprosa fra 1750 til 1995_, redigert av Egil Børre Johnsen og Trond Berg Eriksen, Bind 2, Universitetsforlaget, 1998, s. 20-25.
 
 ::: details I EndNote
 
@@ -306,28 +315,31 @@ Helsepersonellovens §6, 1999 skal sørge for at helsehjelpen ikke påfører pas
 :::: ref
 Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiver eller departement oppgis ikke, fordi alle norske lover vedtas av Stortinget. Eventuelt \<URL\> og lesedato.
 
-Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02.februar 2013.
+Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02. februar 2013.
 
 ::: details I EndNote
 
 Legges inn som "Electronic Book"
-Fyll inn feltene Author (Lovens navn), Title (Fullstendig navn med vedtektsdato og nummer), Date Accessed (Hvis aktuelt), URL (Hvis aktuelt)
+Fyll inn feltene Author (Lovens navn), Title (Fullstendig navn med vedtektsdato og nummer), Date Accessed (hvis aktuelt), URL (hvis aktuelt)
 ::: 
 :::: 
 
 
 ### Meldinger og proposisjoner til Stortinget
 
+Fram til oktober 2009 var betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
+
 ::: teksten
+
 (Departement _Tittel på melding_)
 
- De nordiske landene er en sterk forskningsregion med tillit og åpenhet ... (Finansdepartementet, _Nordisk samarbeid_)
- :::
+:::
 
 :::: ref
-Departement._Tittel på stortingsmelding_. St.meld. nr (sesjon dvs. årstall). Utgiver. Årstall. Eventuelt nedlastingsinformasjon.
 
-Finansdepartementet. _Nordisk samarbeid_ St.meld. nr 23 (2019-2020). Finansdepartementet, 2020.
+Departement. _Tittel på stortingsmelding_. Meld. St. nr (sesjon dvs. årstall), Utgiver, Årstall, Eventuelt nedlastingsinformasjon.
+
+Finansdepartementet._Nordisk samarbeid_ Meld, St. nr 23 (2019-2020), Finansdepartementet, 2020.
 
 ::: details I EndNote
 
@@ -337,7 +349,6 @@ Fyll inn feltene Author, Year, Title, Publisher, Series Title, URL (Hvis aktuelt
 ::: 
 :::: 
 
-Merknad: *Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.meld., mens nyere meldinger heter Melding til Stortinget, forkortet Meld. St.
 
 ## Annet 
 
@@ -352,9 +363,9 @@ Romeo viser her sin sanne og intense kjærlighet til sin elskede Julie (Akt 2, s
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel på skuespill_. Red. Fornavn Etternavn. Utgiver. Årstall.
+Etternavn, Fornavn. _Tittel på skuespill_, redigert av Fornavn Etternavn, Utgiver, Årstall.
 
-Shakespeare, William. _Romeo and Juliet._ Red. Roma Gill. Oxford University Press. 1982.
+Shakespeare, William. _Romeo and Juliet,_ redigert av Roma Gill, Oxford University Press, 1982.
 
 ::: details I EndNote
 
@@ -368,13 +379,13 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 ::: teksten
 ... forfatter ... (_Tittel_)
 
-**Eksempel:** Utaker ser her på bruk av bilder i filosofi knyttet til menneskets forståelse og persepsjon av seg selv. (_Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_).
+**Eksempel:** Utaker ser på bruk av bilder i filosofi knyttet til menneskets forståelse og persepsjon av seg selv (_Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_).
 :::
 
 :::: ref
-Etternavn, Fornavn. _Tittel._ Årstall. Upublisert manuskript. Institusjonstilhørighet.
+Etternavn, Fornavn. _Tittel._ Årstall, upublisert manuskript, Institusjonstilhørighet.
 
-Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010. Upublisert manuskript. Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
+Utaker, Arild. _ Det perseptuelles antropologi; persepsjon og bilder som filosofisk problem_. 2010, upublisert manuskript, Institutt for førstesemesterstudier og filosofi, Universitetet i Bergen.
 
 ::: details I EndNote
 Legges inn som "Book"
@@ -383,32 +394,12 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 :::: 
 
 
-### Manuskript under publisering, antatt (in press) 
-
-::: teksten
-(Forfatter Tittel)
-
-Staksruds forskningsarbeid i _Children in the online world_ avdekker faktisk nettbruk blant europeiske barn og deres familier.
-:::
-
-:::: ref
-Etternavn, fornavn. _Tittel_. Utgiver (manuskript, antatt, under publisering)
-
-Staksrud, Elisabeth. _Children in the online world: Risk, Regulation and Rights._ Ashgate (manuskript, antatt, under publisering)
-
-::: details I EndNote
-
-Legges inn som "Book"
-Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher (Skriv "manuskript, antatt, under publisering" i parentes etter utgiver)
-::: 
-:::: 
-
 
 ### Bilde
-Refererer du til bilder uten å legge de inn i teksten din, **skal referansemalen for hvor du fant bildet følges**. 
+Refererer du til bilder uten å legge dem inn i teksten din, skal du vise til hvor du fant bildet. 
 Viser du til et bilde funnet på nettet, skal referansemalen for nettsider følges. Viser du til et bilde funnet i en avis, skal referansemalen for avis følges.
 
-Legger du bildene inn i teksen din skal referansen komme umiddelbart etterbildet som en figurtekst. 
+Legger du bildene inn i teksten din, skal referansen komme umiddelbart ette rbildet som en figurtekst. 
 
 :::: ref
 
@@ -420,12 +411,16 @@ Fig. 2. Annakiki skjørt fra: Cheung, Pauline. "Short Skirt S/S/ 15 China Womens
 
 ### Kompendier
 
-Dersom man skal referere til tekster fra et kompendium, viser man til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
+Dersom du skal referere til tekster fra et kompendium, vises det til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
+
+### Flere kilder 
+
+The University of Western Australia har en rikholdig eksempelsamling på [https://guides.library.uwa.edu.au/mla/8th-ed#Other](https://guides.library.uwa.edu.au/mla/8th-ed#Other).
 
 
 ### Forkortelser
 
-Dersom et dokument er utgitt av en offentlig instans, organisasjon eller forening skrives navnet vanligvis fullt ut i alle siteringene. Forkortelse kan brukes dersom den er lett gjenkjennelig. I så fall må du ved første gangs sitering skrive hele navnet og forkortelsen.
+Dersom et dokument er utgitt av en offentlig instans, organisasjon eller forening skrives navnet vanligvis fullt ut i alle henvisningene. Forkortelse kan brukes dersom den er lett gjenkjennelig. I så fall må du første gang skrive hele navnet og forkortelsen.
 
 > _(Norsk rikskringkasting \[NRK\],_ Dagsnytt _1999)_
 
