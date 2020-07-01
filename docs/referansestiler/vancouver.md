@@ -57,13 +57,13 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: teksten
 Tekst (nummer, eventuelt sidetall)
 
-...disse sykdommene er vanlige (2, s.53) 
+... der disse sykdommene er vanlige (2, s. 53). 
 :::
 
 :::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider. [hentet dato]. Tilgjengelig fra: http://...
 
-2\. Bick J. 101 thing you need to know about Internet law [Internett]. New York: Three Rivers Press; 2000 [hentet 30. mars 2004]. Tilgjengelig fra: http://site.ebrary.com/lib/ntnu/
+2\. Bick J. 101 things you need to know about Internet law [Internett]. New York: Three Rivers Press; 2000 [hentet 30. mars 2004]. Tilgjengelig fra: http://site.ebrary.com/lib/ntnu/
 
 ::: details I EndNote 
 Legges inn som "Electronic Book".
@@ -78,13 +78,13 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: teksten
 Tekst (nummer).
 
-Retrovirus hos katter har vist seg ... (2).
+Retrovirus hos katter har vist seg ... (3).
 :::
 
 :::: ref
 Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, red. Boktittel. Utgivelsessted: Utgiver; årstall. s. fra-til.
 
-2\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
+3\. Rojko JL, Hardy WD. Feline leukemia virus and other retroviruses. I: Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. s. 229-332.
 
 ::: details I EndNote
 
@@ -99,13 +99,13 @@ Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: teksten
 Tekst (nummer)
 
-... slik som framstilt i boken (3).
+... slik som framstilt i boken (4).
 :::
 
 :::: ref
 Nummer. Redaktør AA, Redaktør BB, red. Boktittel. Utgivelsessted: Utgiver; årstall. Antall s.
 
-3\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
+4\. Sherding RG, red. The cat: diseases and clinical management; vol. 1. New York: Churchill Livingstone; 1989. 874 s.
 ::: details I EndNote
 Legges inn som "Edited Book".
 Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Pages, Edition hvis aktuelt.
@@ -148,7 +148,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 Tekst (nummer)
 
-På  …
+I henhold til Kreftregisterets oversikt (6). 
 
 :::
 
@@ -156,7 +156,7 @@ På  …
 
 Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
 
-6
+6\. Kreftregisteret. Kreft i Norge \[Internett\]. Dato \[hentet 2020-07-01\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/](https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/).
 
 ::: details I EndNote 
 
