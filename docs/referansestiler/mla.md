@@ -413,6 +413,10 @@ Fig. 2. Annakiki skjørt fra: Cheung, Pauline. "Short Skirt S/S/ 15 China Womens
 
 Dersom du skal referere til tekster fra et kompendium, vises det til originalverkene (for eksempel tidsskriftet eller boka), ikke til kompendiet. Det gjelder også sidehenvisninger.
 
+### Flere kilder 
+
+The University of Western Australia har en rikholdig eksempelsamling på [https://guides.library.uwa.edu.au/mla/8th-ed#Other](https://guides.library.uwa.edu.au/mla/8th-ed#Other).
+
 
 ### Forkortelser
 
