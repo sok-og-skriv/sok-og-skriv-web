@@ -23,6 +23,6 @@ pwa-asset-generator sos-logo.svg --background white -i ./index.html -m ./manifes
 
 ## Interne ressurser
 
-* [Markdown guide for Søk & Skriv](https://sok-og-skriv.now.sh/om/markdown-demo/)
-* [Gitlab-arbeidsflyt](https://sok-og-skriv.now.sh/om/gitlab-arbeidsflyt/)
-* [Brukertest 2020](https://sok-og-skriv.now.sh/om/brukertest/)
+* [Markdown guide for Søk & Skriv](https://sokogskriv.no/om/markdown-demo/)
+* [Gitlab-arbeidsflyt](https://sokogskriv.no/om/gitlab-arbeidsflyt/)
+* [Brukertest 2020](https://sokogskriv.no/om/brukertest/)
