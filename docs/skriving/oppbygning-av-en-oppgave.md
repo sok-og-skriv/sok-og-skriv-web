@@ -4,7 +4,7 @@ date: "2012-06-08"
 tags: 
   - struktur 
   - "akademisk oppgave"
-   - problemformulering 
+  - problemformulering 
 ---
 
 # Oppbygning av en oppgave
