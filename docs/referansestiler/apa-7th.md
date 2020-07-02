@@ -24,8 +24,8 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
 
 
-::: warning 
-For andre eksempler enn de listet opp nedenfor, sjekk [APA manualen](https://www.unit.no/tjenester/norsk-apa-referansestil)
+::: warning Flere eksempler
+For andre eksempler enn de listet opp nedenfor, sjekk [APA-manualen](https://www.unit.no/tjenester/norsk-apa-referansestil)
 :::
 
 ## Bøker
@@ -36,26 +36,26 @@ For andre eksempler enn de listet opp nedenfor, sjekk [APA manualen](https://www
 **Bok med en til tre forfattere:**  
 (Etternavn & Etternavn, årstall, evt. sidetall)  
 
+(Gullestad & Killingmo, 2013, s. 35)
+
 **Bok med fire eller flere forfattere:**
 (Første forfatters etternavn, et al., årstall, evt. sidetall)
-
-(Gullestad & Killingmo, 2013, s. 35)
 
 :::
 
 :::: ref
 <span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (evt. utg.). Forlag.</span>
 _Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
+
   
 **Bok med en til tre forfattere:**
 <span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
+<span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Gyldendal.</span>
+
 **Bok med fire eller flere forfattere:**  
 <span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
-<span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Gyldendal.</span>
-
-:::
 ::: details I EndNote
 
 Legges inn som "Book".
@@ -65,7 +65,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 :::: 
 
 ::: details Flere eksempler
-De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken …
+De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken ... 
 
 <span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe.</span>
 ::: 
@@ -76,7 +76,7 @@ De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer 
 ::: teksten
 (Forfatter, årstall, evt. sidetall)
 
-En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
+En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 :::
 
 :::: ref
