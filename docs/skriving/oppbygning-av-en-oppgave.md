@@ -1,6 +1,10 @@
 ---
 title: "Oppbygning av en oppgave"
 date: "2012-06-08"
+tags: 
+  - struktur 
+  - "akademisk oppgave"
+   - problemformulering 
 ---
 
 # Oppbygning av en oppgave
