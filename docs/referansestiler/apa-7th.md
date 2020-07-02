@@ -14,14 +14,7 @@ Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenes
 
 Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: forfatter, publiseringstidspunkt, verktittel og verkets kilde. Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
 
-<Figure
-  src="/images/apa-ref.png"
-  alt="Grafisk fremstilling av en referanses deler og hva de gir svar på"
-  caption=""
-  type=""
-/>
-
-Formatet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler, tidsskriftartikler og nettsider, ikke skal ha det.
+Formatet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler og tidsskriftartikler ikke skal ha det.
 
 Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller LP-plater, kan ha en hakeparentes samme sted som angir verkets format.
 
@@ -59,12 +52,8 @@ _Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
 **Bok med en til tre forfattere:**
 <span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
-**Bok med fire til 21 forfattere:**  
+**Bok med fire eller flere forfattere:**  
 <span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
-_Alle forfattere nevnes_
-
-**Bok med flere enn 21 forfattere:** 
-<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D.,...Forfatter, Ø.Ø. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
 <span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Gyldendal.</span>
 
@@ -139,12 +128,10 @@ E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
 
 ### Religiøse og klassiske verk
 
-Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. 
-
-Religiøse verk behandles som verk uten forfatter, men hvis du bruker en annotert versjon (kommentarutgave) behandles den som redigert bok. Religiøse skrifter er publisert i mange utgaver; bruk årstallet for den aktuelle utgivelsen. Dersom publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg. Siden sidetall vil variere fra utgave til utgave, brukes nummererte kapittel, vers eller surer i henvisningen.
+Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. Religiøse verk behandles som verk uten forfatter, mens annoterte versjoner (kommentarutgaver) behandles som redigert bok. Religiøse skrifter er publisert i mange utgaver; bruk årstallet for den aktuelle utgivelsen. Dersom publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven du har brukt. Siden sidetall vil variere fra utgave til utgave, brukes nummererte kapittel, vers eller surer i henvisningen.
 
 ::: teksten
-.. «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
+... «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
 Deretter kun henvisning til del, kapittel, vers, for eksempel (Luk 2,7).
 
 (Koranen 1: 6–7)
@@ -153,15 +140,15 @@ Deretter kun henvisning til del, kapittel, vers, for eksempel (Luk 2,7).
 I Lukasevangeliet (Luk,1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
 \[Ingen innførsel\]
 
-I Ciceros «Om taleren» (1.47, overs. 1993) …
+I Ciceros «Om taleren» (1.47, overs. 1993) ...
 \[Ingen innførsel\]
 
-I _Iliaden_ (6.344–58) sier Helena at …
+I _Iliaden_ (6.344–58) sier Helena at ...
 \[Ingen innførsel\]
 
-… (Dante Alighieri, 1472/2005, s. 241)
+... (Dante Alighieri, 1472/2005, s. 241).
 
-… (Homer,ca 800 fvt./1898)
+... (Homer,ca 800 fvt./1898).
 :::
 
 :::: ref
@@ -193,7 +180,7 @@ Et gjenutgitt verk er et verk som har gått ut av trykk (eller ikke lenger er ti
 
 ## Artikler 
 
-### Artikkel i tidsskrift
+### Artikkel i tidsskrift (trykt og elektronisk)
 
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
@@ -218,8 +205,11 @@ Elektronisk tidsskrift: Fyll ut feltene Author, Year, Title, Journal, Volume, Is
 ::: 
 :::: 
 
-Oppgi DOI dersom det er oppgitt. Hvis kildeinformasjon som årgang/volum, hefte/issue eller sidetall ikke er oppgitt, utelates disse fra referansen.
+Oppgi DOI dersom det foreligger. Hvis kildeinformasjon som årgang/volum, hefte/issue eller sidetall ikke er oppgitt, utelates disse fra referansen. 
 
+### Artikler med mange forfattere 
+
+For artikler med inntil 21 forfattere oppgis alle forfatternavn. For artikler med flere enn 21 forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø.Ø.
 
 ### Artikkel i avis (trykt og elektronisk)
 
@@ -294,9 +284,9 @@ Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (
 :::
 
 :::: ref
-<span class="ref">Organisasjon. (Årstall, dag, måned). Tittel. Nettstedets navn.  URL.</span>
+<span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel_. Nettstedets navn.  URL.</span>
 
-<span class="ref">Helsedirektoratet. (2018). Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder. https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)</span>
+<span class="ref">Helsedirektoratet. (2018). _Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder_. https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)</span>
 
 ::: details I EndNote
 
@@ -308,11 +298,11 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 ::: 
 :::: 
 
+### Merknader 
 Nettstedets navn utgår dersom det er det samme som forfatter/organisasjonen. 
 
 Publiseringsdato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes ikke det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  
 
-Om nettsidens navn er det samme som organisasjonen, utelates nettstedets navn i referanselisten. 
 
 ### Nettside med forfatter
 
@@ -432,7 +422,7 @@ De funksjonshemmedes stilling blir behandlet i handlingsplanen (St.Meld. nr.8(19
 
 <span class="ref"> St.meld. nr. 8 (1998–99). _Om handlingsplan for funksjonshemma 1998–2001: Deltaking og likestilling_. Sosial- og helsedepartementet.</span>
 
-… (Arbeids-og sosialkomiteen, 2016)
+... (Arbeids-og sosialkomiteen, 2016)
 
 <span class="ref">Innst. 49 S (2016–2017). Innstilling fra arbeids-og sosialkomiteen om Nav i en ny tid – for arbeid og aktivitet. Arbeids- og sosialkomiteen. https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2016-2017/inns-201617-049s/</span> 
 
@@ -517,13 +507,12 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 
 ### Studentoppgaver og doktorgradsavhandlinger 
 
-
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
 
 ... (Våpenstad, 2011, s. 59).
 
-Kyrkjebø (2001) viser forskjellen mellom ... (s. 39)
+Kyrkjebø (2001) viser forskjellen mellom ... (s. 39).
 :::
 
 :::: ref
@@ -654,7 +643,7 @@ Referer til boken:
 :::
 
 ### Personlig kommunikasjon
-Det som er felles for kilder i kategorien personlig kommunikasjon, er at leserne mer eller mindre er utestengt fra å kunne konsultere kildene. Personlig kommunikasjon kan omfatte e-poster, tekstmeldinger, uttalelser eller sitater fra chattetjenester, personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater, telefonsamtaler osv. Bruk personligkommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige.
+Det som er felles for kilder i kategorien personlig kommunikasjon, er at leserne mer eller mindre er utestengt fra å kunne konsultere kildene. Personlig kommunikasjon kan omfatte e-poster, tekstmeldinger, uttalelser eller sitater fra chattetjenester, personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater, telefonsamtaler osv. Bruk personlig kommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige.
 
 ::: teksten
 ... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)...
