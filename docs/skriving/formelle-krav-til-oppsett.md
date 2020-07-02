@@ -2,6 +2,11 @@
 title: "Formelle krav til oppsett"
 date: "2012-06-08"
 next: "../kjeldebruk/"
+tags: 
+  - oppgaveskriving 
+  - formatering 
+  - forside
+
 ---
 
 # Formelle krav til oppsett
