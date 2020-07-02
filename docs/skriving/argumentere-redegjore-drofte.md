@@ -5,6 +5,7 @@ tags:
   - argumentasjon 
   - redegjørelse 
   - drøfting 
+  - diskusjon
 
 ---
 
