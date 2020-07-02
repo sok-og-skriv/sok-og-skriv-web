@@ -8,7 +8,7 @@ date: "2020-06-17"
 APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av American Psychological Association. (2020). _Publication manual of the American Psychological
 Association_ (7. utg.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000) 
 
-Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual,  oppfordrer vi deg til å bruke [APA-manualen](https://doi.org/10.1037/0000165-000) og/eller [APA bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
+Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual,  oppfordrer vi deg til å bruke [APA-manualen](https://doi.org/10.1037/0000165-000) og/eller [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
 
 ## Referanselisten
 
@@ -66,7 +66,7 @@ _Alle forfattere nevnes_
 **Bok med flere enn 21 forfattere:** 
 <span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D.,...Forfatter, Ø.Ø. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
-<span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Oslo: Gyldendal.</span>
+<span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Gyldendal.</span>
 
 :::
 ::: details I EndNote
@@ -93,9 +93,9 @@ En større undersøkelse i Australia viste at … (Trickett, 2001, s. 9646).
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx).  Sted: Forlag.</span>
+<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx).  Forlag.</span>
 
-<span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Amsterdam: Elsevier.</span>
+<span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
 
 ::: details I EndNote
 
@@ -141,9 +141,7 @@ E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
 
 Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. 
 
-Religiøse verk behandles som verk uten forfatter, men hvis du bruker en annotert versjon (kommentarutgave) behandles den som redigert bok. Det kan være vanskelig å oppgi opprinnelig utgivelsesår for religiøse skrifter siden disse er publisert i mange utgaver. Bruk årstallet for den aktuelle utgivelsen. Dersom det er oppgitt navn på oversetter, tas dette med i henvisningen og referansen. Sidetall vil variere fra utgave til utgave og blir derfor utelatt. Noen tekster deles inn i nummererte kapittel, vers eller surer. 
-
-Klassiske verk har ikke alltid et kjent eller eksakt publiseringstidspunkt. Verkene vil også som oftest være oversatt og utgitt flere ganger. Det er den utgaven eller oversettelsen du har brukt, du skal vise til. Dersom vi står ovenfor et «klassisk» verk hvor publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven eller oversettelsen du har brukt.
+Religiøse verk behandles som verk uten forfatter, men hvis du bruker en annotert versjon (kommentarutgave) behandles den som redigert bok. Religiøse skrifter er publisert i mange utgaver; bruk årstallet for den aktuelle utgivelsen. Dersom publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg. Siden sidetall vil variere fra utgave til utgave, brukes nummererte kapittel, vers eller surer i henvisningen.
 
 ::: teksten
 .. «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
@@ -163,13 +161,13 @@ I _Iliaden_ (6.344–58) sier Helena at …
 
 … (Dante Alighieri, 1472/2005, s. 241)
 
-… (Homer,ca 800 f.Kr./1898)
+… (Homer,ca 800 fvt./1898)
 :::
 
 :::: ref
-<span class="ref">Dante Alighieri. (2005). Den guddommelege komedie (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
+<span class="ref">Dante Alighieri. (2005). _Den guddommelege komedie_ (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
 
-<span class="ref">Homer (1898). _The Iliad_ (S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html (Originalt verk publisert ca 800 f. Kr)</span>
+<span class="ref">Homer (1898). _The Iliad_ (S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html (Originalt verk publisert ca. 800 fvt.)</span>
 
 ::: details I EndNote
 
@@ -187,7 +185,7 @@ Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, 
 :::
 
 ### Verk utgitt på nytt
-Et gjenutgitt verk menes her med et verk som har gått ut av trykk (eller ikke lenger er tilgjengelig) og siden har blitt publisert igjen, noe er som vanlig for eldre verk. Når du henviser til et gjenutgitt verk (f.eks. et verk gjenutgitt i form av en tekstsamling eller antologi), før opp informasjonen om den nye publikasjonen som du har brukt, etterfulgt av det opprinnelige utgivelsesåret i slutten av referansen
+Et gjenutgitt verk er et verk som har gått ut av trykk (eller ikke lenger er tilgjengelig) og siden publisert på nytt, noe er som vanlig for eldre verk. Når du henviser til et gjenutgitt verk (f.eks. et verk gjenutgitt i form av en tekstsamling eller antologi), før opp informasjonen om den nye publikasjonen som du har brukt, etterfulgt av det opprinnelige utgivelsesåret i slutten av referansen
 
 :::ref
 <span class="ref">... (x/1960) ... (Opprinnelig utgitt 1916).</span>
@@ -204,7 +202,7 @@ Et gjenutgitt verk menes her med et verk som har gått ut av trykk (eller ikke l
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (Årstall). Artikkeltittel. _Tidsskrifttittel_, _årgang/volum_(hefte/issue), sidetall.</span>
+<span class="ref">Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (Årstall). Artikkeltittel. _Tidsskrifttittel_, _årgang/volum_(hefte/issue), sidespenn.</span>
 
 <span class="ref">Huang, L. & Mossige, S. (2012). Academic achievement in Norwegian secondary schools: The impact of violence during childhood. _Social Psychology of Education_, _15_(2), 147–164. https://doi.org/10.1007/s11218-011-9174-y</span>
 
@@ -238,7 +236,7 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
 
 <span class="ref">Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_, s. 12.</span>
 
-<span class="ref">Knapstad, M. L. (2018, 9 mai). En jafs av Bergen. Aftenposten, A-magasinet. https://www.aftenposten.no/a-magasinet/i/ngJron/en-jafs-av-bergen?</span>
+<span class="ref">Knapstad, M. L. (2018, 9. mai). En jafs av Bergen. Aftenposten, A-magasinet. https://www.aftenposten.no/a-magasinet/i/ngJron/en-jafs-av-bergen?</span>
 
 ::: details I EndNote
 
@@ -266,7 +264,7 @@ Om artikkelen ikke har forfatter:
 Forfatter. (oppdaterings- eller publiseringstidspunkt). _Tittel: Undertittel_. 
     Nettstedets navn. https://xxxxx
 
-<span class="ref">Fossheim, H. (2018, 25 desember). _Aristoteles_. 
+<span class="ref">Fossheim, H. (2018, 25. desember). _Aristoteles_. 
     Store Norske Leksikon. https://snl.no/Aristoteles</span>
 
 Om artikkelen ikke har forfatter: 
@@ -296,7 +294,7 @@ Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (
 :::
 
 :::: ref
-<span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel._ Nettstedets navn.  URL.</span>
+<span class="ref">Organisasjon. (Årstall, dag, måned). Tittel. Nettstedets navn.  URL.</span>
 
 <span class="ref">Helsedirektoratet. (2018). Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder. https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)</span>
 
@@ -310,9 +308,9 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 ::: 
 :::: 
 
-#### Merknad
+Nettstedets navn utgår dersom det er det samme som forfatter/organisasjonen. 
 
-Dato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes ikke det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  
+Publiseringsdato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes ikke det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  
 
 Om nettsidens navn er det samme som organisasjonen, utelates nettstedets navn i referanselisten. 
 
@@ -325,9 +323,9 @@ Skinnegående transport øker mest (Lund, 2018).
 :::
 
 :::: ref
-<span class="ref">Forfatter, A.A. (Årstall, dato). _Tittel._ Nettstedets navn. URL</span>
+<span class="ref">Forfatter, A.A. (Årstall, dato). _Tittel_. Nettstedets navn. URL</span>
 
-<span class="ref">Lund, V. (2018, 26. september). _Åtte av ti reiser med bil._ SSB. https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil </span>
+<span class="ref">Lund, V. (2018, 26. september). _Åtte av ti reiser med bil_. SSB. https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil </span>
 
 ::: details I EndNote
 
