@@ -1,6 +1,12 @@
 ---
 title: "Struktur"
 date: "2012-05-04"
+tags: 
+  - reversdisponering 
+  - "reverse outline"
+  - "TUR-modellen"
+  - avsnitt 
+  - flyt
 ---
 
 # Struktur
