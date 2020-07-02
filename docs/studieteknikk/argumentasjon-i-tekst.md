@@ -1,6 +1,11 @@
 ---
 title: "Argumentasjon i tekst"
 date: "2012-12-07"
+tabs: 
+  - argumentere 
+  - ryggdekning 
+  - styrkemarkør 
+  - relevans
 ---
 
 # Argumentasjon i tekst

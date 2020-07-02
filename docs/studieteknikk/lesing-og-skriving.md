@@ -1,6 +1,10 @@
 ---
 title: "Lesing og skriving"
 date: "2012-12-07"
+tabs:
+  - oppgaveskriving
+  - gjenbruk
+  - stikkord
 ---
 
 # Lesing og skriving
@@ -10,7 +14,7 @@ Oppgaveskriving i høyere utdanning går ut på å bruke det du har lest og lær
 Gjennom lesingen plukker du opp og samler inn momenter du kan bruke i skrivingen. Husk at du da endrer på den opprinnelige sammenhengen for det materialet du bruker. Når du viser til eller siterer fra en annen tekst, bruker du den til å forme egne resonnementer. Alt som skjer i din tekst er det du som gjør. Samtidig kan du ikke bare overta det andre har tenkt og skrevet som om det var deg selv som hadde tenkt og skrevet det. Du må skille klart mellom egne resonnementer, fortolkninger, parafrasering (indirekte sitater), og direkte sitater. Du må altså beherske grunnleggende [sitat- og referanseteknikk](/kjeldebruk/korleis-skal-ein-referere.html).
 
 ::: eksempel Hvordan kan jeg skrive selvstendig? 
-Hør filosof og skrivementor Åsne Grøgaard gi en innføring i hva det vil si å "ta stilling" til noe du har lest. 
+Hør filosof og skrivementor Åsne Grøgaard gi en innføring i hva det vil si å «ta stilling» til noe du har lest. 
 
 <Video id="FJKg3G-JRpg" />
 ::: 
@@ -50,6 +54,7 @@ Sammendrag er et veldig godt verktøy for å sette seg inn i og forstå et stoff
 Når du skriver en oppgave, er det viktig å lese gjennom den flere ganger. Vær kritisk, og still de samme spørsmålene til din egen tekst som du stiller til andres: Hva vil jeg fram til her? Gjør jeg klart rede for problemstillingen? Besvarer jeg den i løpet av oppgaven?
 
 Akkurat som med andre tekster, er det lurt å legge den fra seg en stund for så å komme tilbake og se på den med friske øyne. Er noe uklart? Kommer det tydelig fram hva jeg vil undersøke, hva jeg vil demonstrere eller argumentere for, hva som er mine poenger og hva som er andres? 
+
 ::: oppgave Les teksten din høyt for deg selv 
 Dette er en god måte å oppdage eventuelle problemer som dine lesere vil kunne støte på. Er setningene for lange? Er det mange gjentakelser? Det er lett å se seg blind på sin egen tekst, men du kan ofte _høre_ at noe kan bli bedre.
 :::

@@ -2,6 +2,8 @@
 title: "Studieteknikk"
 date: "2012-03-15"
 prev: "../soking/systematisk-soking"
+tabs:
+  - lesing
 ---
 
 # ![](/images/illustrasjoner_lesing_500x450.png) Studieteknikk
