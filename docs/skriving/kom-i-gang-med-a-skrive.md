@@ -1,16 +1,27 @@
 ---
 title: "Kom i gang med å skrive"
 date: "2012-05-16"
+tags: 
+  - oppgaveskriving 
+  - skriveprosess 
+  - tenkeskriving 
+  - tankeskriving 
+  - tenketekst 
+  - problemformulering 
+  - oppstartsteknikker 
+  - tankekart 
+  - hurtigskriving 
+  - idémyldring 
 ---
 
 # Kom i gang med å skrive
 
 Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser der flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
 
-Kanskje vil du også oppleve en uro - et ubehag det er vanskelig å sette ord på - ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene begynner å falle på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
+Kanskje vil du også oppleve en uro – et ubehag det er vanskelig å sette ord på – ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene begynner å falle på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
 
 ::: tip Når kan jeg begynne å skrive? 
-Uerfarne skribenter tror gjerne at de ikke kan begynne skrive før de har skaffet seg fullstendig klarhet og oversikt. De har kanskje en forestilling om at gode tekster oppstår ved at man plasserer perfekte setninger etter hverandre. En slik tilnærming fører til at det tar altfor lang tid å komme i gang. I virkeligheten må de aller fleste skrive teksten sin om igjen - opptil flere ganger. Å skrive godt, er ofte å skrive om.
+Uerfarne skribenter tror gjerne at de ikke kan begynne skrive før de har skaffet seg fullstendig klarhet og oversikt. De har kanskje en forestilling om at gode tekster oppstår ved at man plasserer perfekte setninger etter hverandre. En slik tilnærming fører til at det tar altfor lang tid å komme i gang. I virkeligheten må de aller fleste skrive teksten sin om igjen – opptil flere ganger. Å skrive godt, er ofte å skrive om.
 ::: 
 
 Som student drives du ofte fram av et "hvorfor-spørsmål". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre. Hun utforsker fenomener, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.

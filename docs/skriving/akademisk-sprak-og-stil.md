@@ -1,6 +1,12 @@
 ---
 title: "Akademisk språk og stil"
 date: "2012-05-04"
+tags: 
+  - "akademisk språk"
+  - tekstbinding
+  - "personlig pronomen"
+  - "passiv form"
+  
 ---
 
 # Akademisk språk og stil
@@ -9,7 +15,7 @@ Akademisk språk er klart, entydig, nøkternt og objektivt. Idealet om objektivi
 
 Når man er uerfaren kan det være fristende å pynte på språket ved å bruke kompliserte uttrykksformer og fremmedord, men som regel er det bedre å unngå fremmedord når vanlige ord er like presise. Tenkere som har blitt klassikere, har gjerne en enkel og likefram stil. Nettopp derfor blir de lest av mange, uavhengig av tidens konvensjoner.
 
-En del akademiske tekster er likevel - nødvendigvis - krevende å lese; dels fordi de presenterer spesialisert kunnskap og dels fordi påstander må belegges, blant annet med [kildehenvisninger](/kjeldebruk/korleis-skal-ein-referere.html). For å få god lesbarhet må forfatteren derfor ofte legge en del arbeid i den språklige framstillingen.
+En del akademiske tekster er likevel – nødvendigvis – krevende å lese; dels fordi de presenterer spesialisert kunnskap og dels fordi påstander må belegges, blant annet med [kildehenvisninger](/kjeldebruk/korleis-skal-ein-referere.html). For å få god lesbarhet må forfatteren derfor ofte legge en del arbeid i den språklige framstillingen.
 
 ## Stilnivå: Hvem skriver du for?
 
@@ -19,7 +25,7 @@ Et vanlig råd er å legge seg et sted midt imellom, og skrive til en medstudent
 
 ## Aktiv – passiv
 
-Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette er noen ganger nødvendig, men for mye passiv gjør teksten tung å lese. Dessuten trekker passivkonstruksjoner ofte med seg andre problemer, for eksempel lange rekker av preposisjonsuttrykk, som her: "… undersøkelse av spørsmål om reduksjon i forekomsten av ..."
+Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette er noen ganger nødvendig, men for mye passiv gjør teksten tung å lese. Dessuten trekker passivkonstruksjoner ofte med seg andre problemer, for eksempel lange rekker av preposisjonsuttrykk, som her: "... undersøkelse av spørsmål om reduksjon i forekomsten av ..."
 
 **Eksempel på passivkonstruksjon:** Det foretas stadig nye undersøkelser ved instituttet på dette området.
 
@@ -79,7 +85,7 @@ For å skape distanse til det du har skrevet, finnes det ulike knep. For eksempe
 
 
 ## Akademisk ordbruk 
-::: warning Tips - og noen vanlige feil 
+::: warning Tips – og noen vanlige feil 
 Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. For å få en ryddigere tekst kan det også hjelpe å kutte ut ord som ikke tilfører noe til resonnementet, for eksempel adjektiver, adverb og småord.
 
 En god regel er å bruke vanlige ord som du er sikker på at du forstår. Unngå fremmedord dersom du kan bruke vanlige, norske ord som betyr det samme. Selv om en sensor ofte kan gjette seg fram til hva studenten ønsker å si, er det best å uttrykke seg presist.

@@ -1,6 +1,12 @@
 ---
 title: "Argumentere, redegjøre, drøfte"
 date: "2017-08-07"
+tags: 
+  - argumentasjon 
+  - redegjørelse 
+  - drøfting 
+  - diskusjon
+
 ---
 
 # Argumentere, redegjøre og drøfte

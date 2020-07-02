@@ -1,11 +1,16 @@
 ---
 title: "IMRaD-modellen"
 date: "2012-09-05"
+tags: 
+  - IMROD
+  - oppgaveskriving 
+  - struktur 
+  - "vitenskapelig skriving"
 ---
 
 # IMRaD-modellen
 
-IMRaD står for _Introduction - Method - Results - and - Discussion_. På norsk kan vi si _Introduksjon - Metode - Resultater - og - Diskusjon_ (IMRoD).
+IMRaD står for _Introduction – Method – Results – and – Discussion_. På norsk kan vi si _Introduksjon – Metode – Resultater – og – Diskusjon_ (IMRoD).
 
 IMRaD-modellen er en mal for hvordan man bygger opp en vitenskapelig artikkel. Den brukes spesielt i helsefag og naturvitenskapene. Til forskjell fra en samfunnsvitenskapelig modell, har IMRaD ikke et eget teorikapittel.
 
