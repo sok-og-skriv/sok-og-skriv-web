@@ -14,16 +14,14 @@ Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenes
 
 Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: forfatter, publiseringstidspunkt, verktittel og verkets kilde. Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
 
-Formatet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler og tidsskriftartikler ikke skal ha det.
+Oppsettet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler og tidsskriftartikler ikke skal ha det. Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller LP-plater, kan ha en hakeparentes samme sted som angir verkets format.
 
-Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller LP-plater, kan ha en hakeparentes samme sted som angir verkets format.
-
-For selvstendige dokumenter vil referansens _hvor_ være utgivelsessted og utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
+For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
 
 - Referanselisten skal ordnes alfabetisk på forfatternes etternavn.
 - Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
 - Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
-- Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første.
+- Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
 
 
 ::: warning Flere eksempler
