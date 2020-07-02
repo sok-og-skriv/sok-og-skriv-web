@@ -2,6 +2,9 @@
 title: "Skriving"
 date: "2012-03-15"
 prev: "../studieteknikk/akademiske-sjangrer"
+tags: 
+- oppgaveskriving 
+- "akademisk skriving"
 ---
 
 
