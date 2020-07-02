@@ -1,6 +1,11 @@
 ---
 title: "Lesemåter"
 date: "2012-09-14"
+tabs: 
+  - lesing
+  - lesetips
+  - notater 
+  - analyse
 ---
 
 # Lesemåter
@@ -50,7 +55,7 @@ Ta for deg en tekst du har på pensum, og spør: Hva er temaet? Hva er problemst
 
 Å se etter sammenhengen teksten inngår i, kan hjelpe deg til å få et bedre grep om teksten og føre deg videre inn i faget. Kontekstualiserende lesing kan sammenlignes med orienterende lesing; forskjellen er at du nå ikke bare orienterer deg i selve teksten, men også i tekstens «omland». Du ser etter slike ting som:
 
-- **Forfatteren** av teksten. Hvem er det? Et søk på forfatternavn vil i de fleste tilfeller gi napp. Du finner hjemmesider, leksikonartikler eller andre publikasjoner. Tilhører forfatteren\[e\] en bestemt **teoretisk retning**? Kan du i så fall finne ut noe mer om hva som kjennetegner den?
+- **Forfatteren** av teksten. Hvem er det? Et søk på forfatternavn vil i de fleste tilfeller gi napp. Du finner nettsider, leksikonartikler eller andre publikasjoner. Tilhører forfatteren\[e\] en bestemt **teoretisk retning**? Kan du i så fall finne ut noe mer om hva som kjennetegner den?
 - Forfattere viser til **andre forskere**. Hva kan du finne ut om dem?
 - Hva er sentrale **begreper** i teksten?
 - Er teksten omtalt eller referert til andre steder, for eksempel i andre **bøker og artikler**? Kanskje det finnes **anmeldelser**?
@@ -58,7 +63,7 @@ Ta for deg en tekst du har på pensum, og spør: Hva er temaet? Hva er problemst
 ::: eksempel EKSEMPEL  
 Du leser et avsnitt der det står:
 
-«Syden kan altså klart sies å være et inversjonsritual i Gluckmanns forstand og en heterotop i Foucaults forstand … » (Runar Døving, «Stedet Syden», _Norsk Antropologisk Tidsskrift_ 1/2011, s. 25).
+«Syden kan altså klart sies å være et inversjonsritual i Gluckmanns forstand og en heterotop i Foucaults forstand ... » (Runar Døving, «Stedet Syden», _Norsk Antropologisk Tidsskrift_ 1/2011, s. 25).
 :::
 
 Ordet «altså» tyder på at det forut for dette avsnittet er sagt noe om både «inversjonsritual i Gluckmanns forstand» og «heterotop i Foucaults forstand» - og kanskje det som er sagt er nok for å forstå hva det snakkes om i dette avsnittet. Likevel: Hvem er Gluckmann og hvem er Foucault? Det er ikke sikkert det er sagt så mye om dem. Kanskje de er berømte forskere, som det hører med til fagkompetansen å kjenne til? Og hva betyr «inversjonsritual» og «heterotop»? Kanskje forfatteren forklarer det greit, men sannsynligheten er stor for at det ikke er bortkastet å søke hjelp også andre steder.

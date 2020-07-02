@@ -1,13 +1,19 @@
 ---
 title: "Studiegrupper"
 date: "2012-12-07"
+tabs:
+  - gruppearbeid
+  - respons 
+  - tilbakemeldinger
+  - kollokvie
+  - diskusjon
 ---
 
 # Studiegrupper 
 
 Å diskutere tekster med andre er en god måte få et aktivt forhold til innholdet på. Du leser mer oppmerksomt, og husker bedre, hvis du etterpå skal diskutere det du har lest. Gjennom å diskutere øver du deg i å bruke begreper og i å argumentere. Ved universitetet brukes gjerne uttrykket kollokviegrupper, fra det latinske ordet for samtale, _colloquium_. 
 
-For at gruppearbeidet skal være effektivt er det viktig å planlegge: Bli enige om hva dere skal diskutere og fordel ansvar på forhånd. Når deltakerne i en gruppe bytter på å legge fram tekster, får alle trening i å forklare og kommentere fagstoff muntlig. Selv om det også går an å diskutere "på sparket", vil en kollokviegruppe uten planlegging og forberedelse ofte henfalle til retningsløst "prat". Det går fint en gang eller to, men på sikt er det lite tilfredsstillende.
+For at gruppearbeidet skal være effektivt er det viktig å planlegge: Bli enige om hva dere skal diskutere og fordel ansvar på forhånd. Når deltakerne i en gruppe bytter på å legge fram tekster, får alle trening i å forklare og kommentere fagstoff muntlig. Selv om det også går an å diskutere «på sparket», vil en kollokviegruppe uten planlegging og forberedelse ofte henfalle til retningsløst «prat». Det går fint en gang eller to, men på sikt er det lite tilfredsstillende.
 
 Jo tidligere i studiet dere lager en kollokviegruppe, jo bedre. Begynn som en lese- og diskusjonsgruppe. Når dere etterhvert skal i gang med å [skrive oppgaver](?p=1216), kan dere bruke hverandre som lesere. Få ting er nyttigere enn å få kommentarer av medstudenter.
 

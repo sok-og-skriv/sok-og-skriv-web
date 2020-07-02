@@ -2,6 +2,9 @@
 title: "Akademiske sjangrer"
 date: "2012-06-19"
 next: "../skriving/"
+tabs: 
+  - sjanger
+  - kildetyper 
 ---
 
 # Akademiske sjangrer
