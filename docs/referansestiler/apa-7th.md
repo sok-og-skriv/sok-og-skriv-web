@@ -166,7 +166,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke originalverket. Oversetteren skal krediteres i referansen. Årstallet for originalverket oppgis i slutten av referansen: 
 
 ::: ref
-Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954). 
+<span class="ref">Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954).</span>
 :::
 
 ### Verk utgitt på nytt
@@ -399,7 +399,7 @@ Sammenslåingene ble begrunnet med noe de kalte «en kritisk vurdering av kvalit
 :::
 
 :::: ref
-<span class="ref">Meldingsnummer (år-år). _Tittel: Undertittel_. Departement. URLspan>
+<span class="ref">Meldingsnummer (år-år). _Tittel: Undertittel_. Departement. URL</span>
 
 Dersom du henviser til trykt utgave, utgår url. 
 
@@ -471,7 +471,7 @@ Elektronisk utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatt
 :::
 
 :::: ref
-<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Nettstedets navn. URL span>
+<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Nettstedets navn. URL </span>
 
 Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 

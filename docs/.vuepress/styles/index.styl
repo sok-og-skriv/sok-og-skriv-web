@@ -155,9 +155,17 @@ figcaption {
     font-weight bold
 
 .ref
-  display: inline-block
-  padding: 0 0 0.5em 0.5in
+  display: block
+  padding: 0 0 0 0.5in
   text-indent: -0.5in
+  overflow-wrap: break-word
+  word-wrap: break-word
+  word-break: break-word
+
+a, p
+  overflow-wrap: break-word
+  word-wrap: break-word
+  word-break: break-word
 
 .custom-block table {
   background-color: white;
