@@ -234,7 +234,7 @@ Nettsider som forandrer seg, bør ha med lesedato.
 ::: teksten 
 
 "Knapt noen generasjon har opplevd så gode tider som vår" (Harald 5).
-
+:::
 
 :::: ref
 
@@ -258,9 +258,10 @@ fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere) Title, Pu
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
 ::: teksten
-... oppslagsordet ... 
 
-"Hermetisk diktning" brukes generelt om poesi som inneholder okkult symbolisme (hermetisk diktning).
+... («oppslagsordet»). 
+
+«Hermetisk diktning» brukes generelt om poesi som inneholder okkult symbolisme («hermetisk diktning»).
 :::
 
 :::: ref
@@ -368,6 +369,7 @@ Etternavn, Fornavn. _Tittel på skuespill_, redigert av Fornavn Etternavn, Utgi
 Shakespeare, William. _Romeo and Juliet,_ redigert av Roma Gill, Oxford University Press, 1982.
 
 ::: details I EndNote
+Legges inn som "Book". 
 
 Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Title, Publisher, Editor.
 ::: 
