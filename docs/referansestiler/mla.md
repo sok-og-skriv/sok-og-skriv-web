@@ -261,7 +261,7 @@ fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere) Title, Pu
 
 ... («oppslagsordet»). 
 
-«Hermetisk diktning» brukes generelt om poesi som inneholder okkult symbolisme («hermetisk diktning»).
+Betegnelsen «hermetisk diktning» brukes generelt om poesi som inneholder okkult symbolisme («Hermetisk diktning»).
 :::
 
 :::: ref
