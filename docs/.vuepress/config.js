@@ -96,7 +96,7 @@ module.exports = {
   plugins: [
     [
       'sitemap', {
-        hostname: 'https://sok-og-skriv.now.sh/',
+        hostname: 'https://sokogskriv.no/',
         dateFormatter: (time) => {
           var dayjs = require('dayjs')
           var customParseFormat = require('dayjs/plugin/customParseFormat')
