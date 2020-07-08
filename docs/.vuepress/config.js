@@ -105,7 +105,7 @@ module.exports = {
           require('dayjs/locale/nb')
 
           if (time.match(/^\d/)) {
-            let date = dayjs(time, 'D. MMMM yyyy', 'nb', true).format('YYYY-MM-DDThh:mm:ssTZD')
+            let date = dayjs(time, 'D. MMMM YYYY', 'nb', true).format('YYYY-MM-DDThh:mm:ssTZD')
             return date
           }
           else {
