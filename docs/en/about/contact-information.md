@@ -5,7 +5,7 @@ date: "2013-04-16"
 
 # Contact information
 
-Contact the editorial board for any questions regarding the _Search & write website_. Please mention "search&write" in subject field.
+You are welcome to contact the editors for any questions regarding the _Search & Write website_. Please mention "search & write" in the subject field.
 
 Questions regarding use of references should be addressed to your academic library.
 

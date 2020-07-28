@@ -71,38 +71,37 @@ Problemformuleringen leder deg framover i oppgaveskrivingen. Den kan gjerne form
 
 Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling – på samme måte som et forskningsspørsmål – noe som kan _besvares_. Hvis den ikke kan besvares, er det trolig snakk om et tema eller et felt.
 
-::: tip Hva er en god problemformulering? 
+::: tip Hva gjør en problemformulering god? 
 
 - Bruk spørreord: hvordan, hvorfor, hvilke (faktorer, forhold) osv.
 - Noen spørsmål er lukkende og gir konkrete/avgrensete svar. Andre egner seg til drøfting av ulike tolkninger etc.  
     «Hva ...?» er mer lukkende enn «hvordan ... ».  
     «Hvorfor» innebærer at du ser etter årsaksforklaringer (kausalitet). Dette stiller strenge krav til design og metode.
-- Velg gjerne spørreord som åpner problemstillingen slik at du kan _belyse_ temaet, for eksempel «På hvilken måte … ?», eller 
-    «Hvordan kan vi forstå \[et fenomen\]?»
-- Prøv gjerne å sammenfatte problemstillingen i ett hovedspørsmål og eventuelle underspørsmål (to eller tre er som regel tilstrekkelig).
+- Velg gjerne spørreord som åpner problemstillingen slik at du kan _belyse_ temaet, for eksempel «På hvilken måte», «hva kjennetegner», eller «hvordan ...».
+- Prøv å sammenfatte problemstillingen i ett hovedspørsmål og eventuelle underspørsmål (to eller tre er som regel tilstrekkelig).
 :::
 
 ### Disposisjon
 
-En disposisjon er en oversikt over hovedpunktene i oppgaven. Den gjør strukturen tydelig og hjelper deg å jobbe målrettet med emnet. Disposisjonen kan gjerne brukes som grunnlag for veiledning, særlig i startfasen. Noen ganger finner man ut at oppgaven må omstruktureres. Da er det lurt å arbeide med disposisjonen. En god disposisjon viser hvordan de ulike delene av oppgaven henger sammen. Ikke minst er den til god hjelp for leseren.
+En disposisjon er en oversikt over hovedpunktene i oppgaven. Den gjør strukturen tydelig, og hjelper deg å jobbe målrettet med emnet. Disposisjonen kan gjerne brukes som grunnlag for veiledning, særlig i startfasen. Noen ganger finner man ut at oppgaven må omstruktureres. Da er det lurt å arbeide med disposisjonen. En god disposisjon viser hvordan de ulike delene av oppgaven henger sammen. Ikke minst er den til god hjelp for leseren.
 
-Disposisjonen over oppgaven kan gjerne komme på slutten av innledningen, men her er det ulike konvensjoner. Bruk skjønn: hva tror du er greiest for leseren? Informasjon bør komme i rett tid - ikke for tidlig og ikke for sent.
+Disposisjonen over oppgaven kan gjerne komme på slutten av innledningen, men her er det ulike konvensjoner. Bruk skjønn: Hva tror du er greiest for leseren? Informasjon bør komme i rett tid – ikke for tidlig og ikke for sent.
 
 ## Teorikapittel
 
-Teorien i en empirisk oppgave skal belyse empirien på en spesiell - vitenskapelig - måte. Den skal få fram noe som hverdagsbetraktninger ikke gjør. Hovedhensikten med teori er å bruke den i analysen eller tolkningen av et datamateriale. Dette betyr at du _ikke_ må redegjøre for teori som du ikke skal bruke til noe. Dette skaper falske forventninger hos leseren, og gir inntrykk av at du ikke har kommet i havn.
+Teorien i en empirisk oppgave skal belyse empirien på en spesiell – vitenskapelig – måte. Den skal få fram noe som hverdagsbetraktninger ikke gjør. Hovedhensikten med å presentere teori er å bruke den i analysen eller tolkningen av et datamateriale. Dette betyr at du _ikke_ må redegjøre for teori som du ikke skal bruke til noe. Dette skaper falske forventninger hos leseren, og gir inntrykk av at du ikke har kommet i havn.
 
 Ikke alle oppgaver har en egen teoridel. I [IMRaD-modellen](/skriving/imrad-modellen.html) er det tidligere forskning som tar teoriens plass, som del av introduksjonen. 
 
 **Hva slags teori bør du velge?** Siden teorien danner et grunnlag for å analysere dataene, kan det være nyttig å velge teori som gjør det mulig å skille og plassere fenomener i ulike kategorier. Men det finnes også teori som får fram flere nyanser ved et fenomen enn det vi får gjennom hverdagslige betraktninger. Du kan altså velge å enten redusere kompleksiteten i datamaterialet, eller å utvikle det som i utgangspunktet virker enkelt.
 
-**Hvor mye tid og plass skal du bruke på teorikapitlet?** Dette er et vanskelig spørsmål. Noen oppgaver bruker for mye plass på teori, og kommer ikke til hovedsaken: analysen og drøftingen. Men det er også viktig å ha lest nok teori til å kunne vite hva du skal se etter når du samler inn data. Svaret må derfor bli at det er undersøkelsesområdet (dataene) som avgjør. Noen undersøkelser krever lite teori, men legger kanskje desto mer vekt på metode, mens andre krever en del teori for å kunne foreta en spennende drøfting.
+**Hvor mye tid og plass skal du bruke på teorikapitlet?** Dette er et vanskelig spørsmål. Noen oppgaver bruker for mye plass på teori, og kommer ikke til hovedsaken: analysen og/eller drøftingen. Men det er også viktig å ha lest nok teori til å kunne vite hva du skal se etter når du samler inn data. Svaret må derfor bli at det er undersøkelsesområdet (datagrunnlaget) som avgjør. Noen undersøkelser krever lite teori, men legger desto mer vekt på metode, mens andre krever en del teori for å kunne foreta en spennende drøfting.
 
 ## Metodekapittel
 
-I en forskningsartikkel er avsnittet om metode ofte det viktigste. Det samme gjelder metodekapitlet i en empirisk oppgave. Dette kan også være et vanskelig kapittel å skrive, fordi det ikke alltid er klart hvilken «jobb» det skal gjøre. Et metodekapittel skal **ikke** gjengi innholdet i fagets metodebøker. Dersom du har brukt intervju er det for eksempel ikke nødvendig å liste opp forskjellige typer forskningsintervju. Du trenger heller ikke redegjøre for forskjellene mellom kvantitative og kvalitative metoder, eller liste opp ulike typer validitet og reliabilitet.
+I mange forskningsartikler er metodedelen noe av det viktigste for å vurdere kvalitet og relevans. Det samme gjelder metodekapitlet i en empirisk oppgave. Dette kan også være et vanskelig kapittel å skrive, fordi det ikke alltid er klart hvilken «jobb» det skal gjøre. Et metodekapittel skal for eksempel **ikke** gjengi innholdet i fagets metodebøker. Dersom du har brukt intervju er det for eksempel ikke nødvendig å liste opp mange forskjellige typer forskningsintervju. Du trenger heller ikke redegjøre for forskjellene mellom kvantitative og kvalitative metoder, eller liste opp ulike typer validitet og reliabilitet.
 
-Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner seg til å belyse/besvare ditt forskningsspørsmål, og hvilke vurderinger du har foretatt mht validitet (gyldighet) og reliabilitet (pålitelighet).’_Show, don’t tell’_ – vis leseren hva du gjorde, og forklar hvorfor. Da vil metodekapitlet sette de ulike delene av oppgaven i sammenheng, og det blir spennende å lese. I praksis betyr dette å demonstrere at du har forstått den praktiske betydningen av begrepene.
+Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner seg til å belyse/besvare ditt forskningsspørsmål, og hvilke vurderinger du har foretatt mht validitet (gyldighet) og reliabilitet (pålitelighet). ’_Show, don’t tell’_ – vis leseren hva du gjorde, og forklar hvorfor. Da vil metodekapitlet sette de ulike delene av oppgaven i sammenheng, og det blir spennende å lese. I praksis betyr dette å demonstrere at du har forstått den praktiske betydningen av begrepene.
 
 - Et godt metodekapittel forteller hva du har gjort i din undersøkelse, og forklarer hvorfor. Hvordan samlet du inn data? Hva kan man forvente å finne ved å gjøre det på denne måten?
 - Hva var rammene? Hvilke avveininger måtte tas? Hva oppnår du ved å bruke denne metoden?
