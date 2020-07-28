@@ -5,6 +5,7 @@ tags:
   - struktur 
   - "akademisk oppgave"
   - problemformulering 
+  - forskningsspørsmål 
 ---
 
 # Oppbygning av en oppgave
@@ -17,7 +18,7 @@ Når det gjelder innholdet i de ulike kapitlene, se også [argumentere, redegjø
 
 Sammendraget er ofte det første som blir lest. Her kan du vekke leserens interesse. Sammendraget skal gi et overblikk over hovedinnholdet, som hva du har undersøkt, forskningsspørsmål, funn og konklusjon, men det trenger ikke dekke alle aspekter ved oppgaven. Hovedsaken er å gi en god idé om hva oppgaven handler om.
 
-Sammendraget skrives gjerne til slutt, når du vet hva du faktisk har skrevet. Det er likevel greit å ha et utkast å arbeide med underveis. Sammendrag kan være krevende å skrive, fordi du bare kan ta med hovedpoengene i arbeidet ditt. Nettopp derfor er det veldig nyttig å arbeide med sammendraget - da tvinges du til å finne ut hva du egentlig holder på med.
+Sammendraget skrives gjerne til slutt, når du vet hva du faktisk har skrevet. Det er likevel greit å ha et utkast å arbeide med underveis. Sammendrag kan være krevende å skrive, fordi du bare kan ta med hovedpoengene i arbeidet ditt. Nettopp derfor er det veldig nyttig å arbeide med sammendraget – da tvinges du til å finne ut hva du egentlig holder på med.
 
 Forordet har ingen spesielle konvensjoner, men det er vanlig å takke veiledere, informanter og andre som har vært til hjelp og støtte under arbeidet. Dersom du har fått stipender eller hatt forskningsopphold skal disse instansene også takkes.
 
@@ -27,8 +28,8 @@ Forordet har ingen spesielle konvensjoner, men det er vanlig å takke veiledere,
 
 Innledningen skal både gi oversikt over oppgaven som helhet og være en appetittvekker for leseren. Det kan være lurt å gå gjennom innledningen helt til slutt, slik at det blir god sammenheng mellom den og avslutningen (konklusjonen).
 
-::: tip Tips
-En elegant vri er å bruke samme stilgrep på innledning og konklusjon, for eksempel et «bilde» som presenteres på én måte i innledningen, og som vender tilbake til i avslutningen, men denne gang med et annet - rikere eller annerledes - perspektiv.
+::: tip Tips:
+En elegant vri er å bruke samme stilgrep på innledning og konklusjon, for eksempel et «bilde» som presenteres på én måte i innledningen, og som vender tilbake til i avslutningen, men denne gang med et annet – rikere eller annerledes – perspektiv.
 :::
 
 Innledningen inneholder gjerne:
@@ -54,33 +55,31 @@ Hva som er en relevant bakgrunn avhenger av faget og dets tradisjoner. Det kan d
 Hvis faget tillater at du trekker inn egne interesser og erfaringer (som praktiker) er dette stedet å gjøre det. I resten av oppgaven bør du være forsiktig med å trekke inn egne erfaringer, særlig hvis de ikke er innsamlet på en systematisk måte.
 
 ::: tip Tips:
-Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med hovedteksten!
+Ikke bruk for mye tid på bakgrunn og åpning før du er kommet godt i gang med hovedteksten! Det er helt greit å jobbe med flere deler samtidig. 
 :::
 
 
 ### Avgrensning og problemstilling
 
-Noe av det første man må gjøre som forsker er å avgrense undersøkelsens **område** (tema, felt) og **omfang** (mengden informasjon). Ofte kan det ta lang tid å få avgrenset nok. Det kan virke merkelig at jo mer man avgrenser, jo mer spennende blir gjerne problemstillingen. Jo smalere du definerer undersøkelsens område, jo dypere kan du gå, mens en mer omfattende problemstilling bare tillater en overflatisk behandling av temaet. 
+Noe av det første man må gjøre som forsker er å avgrense undersøkelsens **område** (tema, felt) og **omfang** (mengden informasjon). Ofte kan det ta lang tid å få avgrenset nok. Det kan virke merkelig at jo mer man avgrenser, jo mer spennende blir gjerne problemstillingen. Dette er fordi et smalere undersøkelsesområde gjør det mulig å gå mer i dybden, mens en svært omfattende problemstilling bare tillater en overflatisk behandling av temaet. 
 
 ::: tip Tips: 
-Ta for deg det minste - eller smaleste - problemet som _fortsatt er interessant_. Du kan alltids utvide undersøkelsen hvis det blir nødvendig. Det motsatte - å begrense et prosjekt som begynte for vidt - er mye mer krevende. 
+Ta for deg det minste eller smaleste problemet som _fortsatt er interessant_. Du kan alltids utvide undersøkelsen hvis det blir nødvendig. Det motsatte – å begrense et prosjekt som har startet for vidt – er mye mer krevende. 
 ::: 
 
-Problemstillingen kan gjerne formuleres som ett hovedspørsmål som konkretiseres i flere forskningsspørsmål, eller en hypotese som skal testes. En annen variant er en tese/hovedpåstand som senere underbygges ved hjelp av lesninger og argumentasjon (vanlig i litteratur- og kulturfag). 
+Problemformuleringen leder deg framover i oppgaveskrivingen. Den kan gjerne formuleres som ett hovedspørsmål som konkretiseres i flere forskningsspørsmål, eller en hypotese som skal testes. En annen variant er å forme en tese/hovedpåstand som underbygges ved hjelp av lesninger og argumentasjon (vanlig i litteratur- og kulturfag). Dersom du arbeider i et frittstående prosjekt, kan du endre problemformulering underveis.
 
-Problemformuleringen leder deg framover i oppgaveskrivingen. Dersom du arbeider i et frittstående prosjekt, kan du også endre den underveis.
+Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling – på samme måte som et forskningsspørsmål – noe som kan _besvares_. Hvis den ikke kan besvares, er det trolig snakk om et tema eller et felt.
 
-Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling - på samme måte som et forskningsspørsmål - noe som kan _besvares_. Hvis den ikke kan besvares, er det snakk om et tema eller et felt.
-
-::: tip Tips:
+::: tip Hva er en god problemformulering? 
 
 - Bruk spørreord: hvordan, hvorfor, hvilke (faktorer, forhold) osv.
 - Noen spørsmål er lukkende og gir konkrete/avgrensete svar. Andre egner seg til drøfting av ulike tolkninger etc.  
-    «Hva ...?» er mer lukkende enn «hvordan ... » og «på hvilken måte".  
+    «Hva ...?» er mer lukkende enn «hvordan ... ».  
     «Hvorfor» innebærer at du ser etter årsaksforklaringer (kausalitet). Dette stiller strenge krav til design og metode.
-- Velg gjerne spørreord som åpner opp problemstillingen slik at du kan belyse temaet, for eksempel "På hvilken måte … ?"  
+- Velg gjerne spørreord som åpner problemstillingen slik at du kan _belyse_ temaet, for eksempel «På hvilken måte … ?», eller 
     «Hvordan kan vi forstå \[et fenomen\]?»
-- Prøv å sammenfatte problemstillingen i ett hovedspørsmål og eventuelle underspørsmål (to eller tre er som regel tilstrekkelig).
+- Prøv gjerne å sammenfatte problemstillingen i ett hovedspørsmål og eventuelle underspørsmål (to eller tre er som regel tilstrekkelig).
 :::
 
 ### Disposisjon
