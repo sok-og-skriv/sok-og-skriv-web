@@ -101,49 +101,52 @@ Ikke alle oppgaver har en egen teoridel. I [IMRaD-modellen](/skriving/imrad-mode
 
 I mange forskningsartikler er metodedelen noe av det viktigste for å vurdere kvalitet og relevans. Det samme gjelder metodekapitlet i en empirisk oppgave. Dette kan også være et vanskelig kapittel å skrive, fordi det ikke alltid er klart hvilken «jobb» det skal gjøre. Et metodekapittel skal for eksempel **ikke** gjengi innholdet i fagets metodebøker. Dersom du har brukt intervju er det for eksempel ikke nødvendig å liste opp mange forskjellige typer forskningsintervju. Du trenger heller ikke redegjøre for forskjellene mellom kvantitative og kvalitative metoder, eller liste opp ulike typer validitet og reliabilitet.
 
-Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner seg til å belyse/besvare ditt forskningsspørsmål, og hvilke vurderinger du har foretatt mht validitet (gyldighet) og reliabilitet (pålitelighet). ’_Show, don’t tell’_ – vis leseren hva du gjorde, og forklar hvorfor. Da vil metodekapitlet sette de ulike delene av oppgaven i sammenheng, og det blir spennende å lese. I praksis betyr dette å demonstrere at du har forstått den praktiske betydningen av begrepene.
+Det du **skal** gjøre, er å vise hvordan dine valg av design og metode egner seg til å belyse/besvare ditt forskningsspørsmål, og hvilke vurderinger du har foretatt med hensyn til validitet (gyldighet) og reliabilitet (pålitelighet). ’_Show, don’t tell’_ – vis leseren hva du gjorde, og forklar hvordan og hvorfor. Da vil metodekapitlet sette de ulike delene av oppgaven i sammenheng, og det blir spennende å lese. I praksis betyr dette å demonstrere at du har forstått den praktiske betydningen av begrepene.
 
-- Et godt metodekapittel forteller hva du har gjort i din undersøkelse, og forklarer hvorfor. Hvordan samlet du inn data? Hva kan man forvente å finne ved å gjøre det på denne måten?
+- Et godt metodekapittel forteller hva du har gjort i din undersøkelse, og forklarer valgene du har gjort. Hvordan samlet du inn data? Hva kan man forvente å finne ved å gjøre det på denne måten? 
 - Hva var rammene? Hvilke avveininger måtte tas? Hva oppnår du ved å bruke denne metoden?
-- Vis hva du har gjort for å øke **validiteten**. Hva kan du si om reliabiliteten (påliteligheten) i datainnsamlingen? Hvordan vet du at du har undersøkt det du ønsket å undersøke? Hvilke slutninger kan trekkes på dette grunnlaget? Hvilke slutninger er sikre, og hvilke er mer tentative? Hvilken overføringsverdi har resultatene? Kan du generalisere – hvorfor, hvorfor ikke?
-- Svakheter og styrker ved metoden skal beskrives. Den ekstra gode oppgaven utmerker seg ved å forsvare sine valg og samtidig kritisere dem.
+- Vis _hva_ du har gjort for å øke **validiteten**. Hva kan du si om reliabiliteten (påliteligheten) i datainnsamlingen? Hvordan vet du at du har undersøkt det du ønsket å undersøke? Hvilke slutninger kan trekkes på dette grunnlaget? Hvilke tolkninger er sikre, og hvilke er mer tentative? Hvilken overføringsverdi har resultatene? Kan du generalisere – hvorfor, hvorfor ikke?
+- Hvordan har du analysert dataene? Hvordan konstruerte du eventuelle kategorier eller temaer? 
+- Svakheter og styrker ved metoden skal beskrives. Den ekstra gode oppgaven utmerker seg ved å kritisere sine valg og samtidig forsvare dem.
 
 ## Analyse (resultater) 
 
-For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en redegjørelse, eller redegjørelse og analyse kan være integrert. I [IMRaD-modellen](/skriving/imrad-modellen.html) kalles denne delen for resultater. 
+For at dataene i en empirisk oppgave skal bli til funn og resultater, må de analyseres, det vil si _tolkes, kategoriseres_ og/eller _kodes_. Det er mange måter å gjøre dette på; konsulter metodelitteraturen i faget ditt. Analysen kan enten komme etter en presentasjon av datamateriale, eller presentasjon og analyse kan være integrert. I [IMRaD-modellen](/skriving/imrad-modellen.html) kalles denne delen for resultater. 
 
-Sammen med drøftingen er analysen oppgavens høydepunkt. Her redegjør du for funn, og behandler disse på en systematisk - metodisk - måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
+Sammen med drøftingen er analysen oppgavens høydepunkt. Her redegjør du for funn, og behandler disse på en systematisk – metodisk – måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
 
-Å analysere betyr å skille mellom ulike elementer eller dimensjoner i et materiale - å skjelne likt fra ulikt. Ved å skille mellom fenomener, setter du teorien i arbeid. Men akkurat _hvordan_ selve analysen skal se ut, er et metodespørsmål og hva som passer for ditt materiale. Det kan ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. 
+Å analysere betyr å skille mellom ulike elementer eller dimensjoner i et materiale – å skjelne likt fra ulikt. Når du skiller mellom fenomener, setter du teorien i arbeid. Men akkurat _hvordan_ selve analysen skal se ut, er et kreativt arbeid ,ed utgangspunkt i et gitt materiale. Det kan derfor ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. 
 
 ::: oppgave Hvordan skal analysen se ut? 
 Les gjerne andres oppgaver for eksempler på analyse. Godkjente masteroppgaver finner du i institusjonelle arkiver ved universiteter og høyskoler. 
 :::
 
-Dersom du analyserer menneskelige handlinger, settes kanskje leserens følelser i sving. Da er det viktig å velge de analysekategoriene som stemmer overens med teorien du bruker. Samtidig med at følelsene engasjeres skal det kastes lys over fenomenet slik at man forstår det på en ny (og bedre) måte.
+Det er viktig å velge analysekategorier som stemmer overens med teorien du bruker. Dersom du analyserer menneskelige handlinger, settes kanskje leserens følelser i sving. Samtidig med at følelsene engasjeres, skal analysen også kaste lys over det mer allmenne fenomenet slik at man forstår det på en ny (og bedre) måte.
 
 ::: tip NB
-Ikke alle oppgaver har et eget kapittel for analyse: det kan også være aktuelt å tolke og/eller analysere underveis.
+Ikke alle oppgaver har et eget kapittel for analyse: Det kan også være aktuelt å tolke og/eller analysere underveis.
 :::
 
 ## Drøfting
 
-I mange oppgaver er [drøftingen (eller diskusjonen)](/skriving/argumentere-redegjore-drofte.html#drofting-se-etter-en-forskjell) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Her har du anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
+I mange oppgaver er drøftingen (eller diskusjonen) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Dette er din anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
 
-I en drøfting undersøker vi et fenomen fra flere sider. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på formuleringer som signaliserer drøfting:
+I en drøfting undersøker vi et fenomen fra flere perspektiver. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på formuleringer som signaliserer drøfting:
 
-- På den ene siden .. og på den andre
+- På den ene siden ... og på den andre
 - Men er det virkelig slik at ... eller kan det også ... ?
 - Dersom x er tilfelle, vil det også kunne ... 
 - I lys av x, kan det se ut til at ... 
 - En annen mulig forklaring kan være ...
 - I motsetning til tidligere studier, ser det ut til at ... 
 
+Les mer om [drøfting her](/skriving/argumentere-redegjore-drofte.html#drofting-se-etter-en-forskjell).
+
 ## Avslutning
 
 ### Konklusjon eller oppsummering?
 
-Avslutningen på en oppgave kan være av forskjellige slag. Noen oppgaver krever en konklusjon, mens andre kan greie seg med en oppsummering. Problemstillingen og forskningsspørsmålene er avgjørende.
+Avslutningen på en oppgave kan være av forskjellige slag: Noen oppgaver krever en konklusjon, mens andre kan greie seg med en oppsummering. Problemstillingen og forskningsspørsmålene er avgjørende.
 
 Et forskningsspørsmål som er åpent stilt, kan ikke alltid besvares, men hvis spørsmålet kan besvares i bestemt form, _må_ du konkludere. Konklusjonen skal altså svare på problemstillingen, men husk at en negativ konklusjon også er gyldig.
 
@@ -162,4 +165,4 @@ Under arbeidet med oppgaven kan det ha det dukket opp nye problemstillinger og i
 
 Det skal være god sammenheng mellom innledningen og avslutningen, slik at temaer og spørsmål som reises i innledningen kan gjenfinnes i avslutningen. Dersom det viser seg at oppgaven likevel ikke har berørt et tema som du skrev om i innledningen, må det heller strykes. En elegant måte å strukturere teksten på er å bruke samme bilde, case eller fortelling i begynnelsen og slutten. Når dette bildet vender tilbake i avslutningen, har det fått en ny betydning gjennom innsiktene og erkjennelsen som har oppstått i løpet av skrivearbeidet.
 
-Lykke til! 
+**Lykke til!** 
