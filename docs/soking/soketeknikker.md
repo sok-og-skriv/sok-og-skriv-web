@@ -171,7 +171,7 @@ Skill
 
 ### Trunkering
 
-Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (/*/). Barn/*/ gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
+Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (\*\). _Barn_\*\ gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
 
 ### Lagring av søk
 
