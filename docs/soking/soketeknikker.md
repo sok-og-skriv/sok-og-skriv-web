@@ -17,7 +17,7 @@ Selv om Oria gir treff både på norsk og engelsk, kan du gå glipp av svært ma
 
 ::: tip Valg av søkeord 
 *	Vær kreativ: Finn flest mulig synonymer til dine søkeord.
-*	Ikke bruk for mange ulike søkeord - to til tre er vanligvis nok. 
+*	Ikke bruk for mange ulike søkeord – to til tre er vanligvis nok. 
 * Merk at for hvert søkeord (eller -term) kan du ha mange synonymer.
 ::: 
 
@@ -103,7 +103,7 @@ Tabellen nedenfor har tre kolonner, en for hvert av de tre begrepene i problemst
 
 Denne framgangsmåten kan brukes på de aller fleste prosjekter.
 
-Problemstilling: "Lønner det seg for bedrifter å markedsføre seg som bærekraftig?" 
+Problemstilling: «Lønner det seg for bedrifter å markedsføre seg som bærekraftig?» 
 
 :::: søketabell 
 ::: tabell
@@ -171,7 +171,7 @@ Skill
 
 ### Trunkering
 
-Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (*). Barn* gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
+Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (/*/). Barn/*/ gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
 
 ### Lagring av søk
 
