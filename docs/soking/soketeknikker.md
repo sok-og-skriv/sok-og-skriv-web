@@ -97,6 +97,11 @@ Eksempel: Søk på **Diabetes NOT Insulinpumpe** gir treff på diabetes mens det
     type="not" />
 </ClientOnly>
 
+### Trunkering
+
+Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (\*\). _Barn_\*\ gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
+
+
 ## Bruk av søketabell
 
 Tabellen nedenfor har tre kolonner, en for hvert av de tre begrepene i problemstillingen. Først kombineres de synonyme søkeordene i hver kolonne med ELLER, så kombineres alle treffene i de tre kolonnene med OG.
@@ -107,11 +112,11 @@ Problemstilling: «Lønner det seg for bedrifter å markedsføre seg som bærekr
 
 :::: søketabell 
 ::: tabell
-Verdivudering
+Verdivurdering
 
 **OR**
 
-Verdisettelse
+Verdisett\*\
 
 **OR**
 
@@ -139,7 +144,7 @@ Ecological
 
 **OR**
 
-Sustainable
+Sustainab\*\
 :::
 
 ::: kombinator
@@ -169,9 +174,6 @@ Skill
 
 [Vil du prøve selv? Trykk her og fyll inn med dine egne søkeord.](/docs/soketabell.docx)
 
-### Trunkering
-
-Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (\*\). _Barn_\*\ gir treff på barnet, barna, barneskole, barneskule, barnehage osv. 
 
 ### Lagring av søk
 
