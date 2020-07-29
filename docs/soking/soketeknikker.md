@@ -17,7 +17,7 @@ Selv om Oria gir treff både på norsk og engelsk, kan du gå glipp av svært ma
 
 ::: tip Valg av søkeord 
 *	Vær kreativ: Finn flest mulig synonymer til dine søkeord.
-*	Ikke bruk for mange ulike søkeord - to til tre er vanligvis nok. 
+*	Ikke bruk for mange ulike søkeord – to til tre er vanligvis nok. 
 * Merk at for hvert søkeord (eller -term) kan du ha mange synonymer.
 ::: 
 
@@ -103,7 +103,7 @@ Tabellen nedenfor har tre kolonner, en for hvert av de tre begrepene i problemst
 
 Denne framgangsmåten kan brukes på de aller fleste prosjekter.
 
-Problemstilling: "Lønner det seg for bedrifter å markedsføre seg som bærekraftig?" 
+Problemstilling: «Lønner det seg for bedrifter å markedsføre seg som bærekraftig?» 
 
 :::: søketabell 
 ::: tabell
