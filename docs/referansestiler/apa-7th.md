@@ -5,10 +5,7 @@ date: "2020-06-17"
 
 # APA 7th
 
-APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Det som presenteres her er en  norsk bearbeiding av American Psychological Association. (2020). _Publication manual of the American Psychological
-Association_ (7. utg.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000) 
-
-Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual,  oppfordrer vi deg til å bruke [APA-manualen](https://doi.org/10.1037/0000165-000) og/eller [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
+APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual, anbefaler vi å sjekke [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
 
 ## Referanselisten
 
@@ -25,7 +22,7 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 
 
 ::: warning Flere eksempler
-For andre eksempler enn de listet opp nedenfor, sjekk [APA-manualen](https://www.unit.no/tjenester/norsk-apa-referansestil)
+For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn på [denne sida]](https://www.unit.no/tjenester/norsk-apa-referansestil).
 :::
 
 ## Bøker
