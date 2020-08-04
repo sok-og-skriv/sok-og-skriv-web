@@ -22,7 +22,7 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 
 
 ::: warning Flere eksempler
-For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn på [denne sida]](https://www.unit.no/tjenester/norsk-apa-referansestil).
+For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
 :::
 
 ## Bøker
