@@ -11,9 +11,9 @@ APA står for American Psychological Association. Foreningen har utviklet en typ
 
 I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. 
 
-::: eksempel Eksempel 
+::: tip Henvisning til flere kilder  
 
-Begrepet «bærekraftig utvikling» har vært tillagt mange ulike betydninger (Hume & Barry, 2015; Lafferty & Langhelle, 1995). 
+Uttrykket «bærekraftig utvikling» har vært brukt med mange ulike betydninger (Hume & Barry, 2015; Lafferty & Langhelle, 1995; Sterling, 2009). 
 
 ::: 
 
@@ -42,6 +42,11 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 ### Bok
 
 ::: teksten
+
+** Bok med én forfatter:** 
+
+... (Etternavn, årstall, evt. sidetall).
+
 **Bok med to forfattere:**  
 (Etternavn & Etternavn, årstall, evt. sidetall)  
 
