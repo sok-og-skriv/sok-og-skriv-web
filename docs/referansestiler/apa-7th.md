@@ -45,12 +45,12 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 _Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
 
   
-**Bok med en til tre forfattere:**
+**Bok med en eller to forfattere:**
 <span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
 <span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Gyldendal.</span>
 
-**Bok med fire eller flere forfattere:**  
+**Bok med tre eller flere forfattere:**  
 <span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
 ::: details I EndNote
@@ -204,7 +204,7 @@ Oppgi DOI dersom det foreligger. Hvis kildeinformasjon som årgang/volum, hefte/
 
 ### Artikler med mange forfattere 
 
-For artikler med inntil 21 forfattere oppgis alle forfatternavn. For artikler med flere enn 21 forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø.Ø.
+For artikler med inntil 21 forfattere oppgis alle forfatternavn i referanselisten. For artikler med flere enn 21 forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø.Ø.
 
 ### Artikkel i avis (trykt og elektronisk)
 
