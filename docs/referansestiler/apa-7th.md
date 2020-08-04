@@ -9,7 +9,7 @@ APA står for American Psychological Association. Foreningen har utviklet en typ
 
 ## Henvisninger i teksten 
 
-I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. 
+I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Merk at &-tegnet kun brukes i parenteser og referanseliste. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. 
 
 ::: tip Eksempel med flere kilder  
 
@@ -18,6 +18,10 @@ Uttrykket «bærekraftig utvikling» har vært brukt med mange ulike betydninger
 ::: 
 
 Se flere eksempler nedenfor. 
+
+## Sitat 
+
+Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes _foran_ henvisningen i slutten av sitatet. 
 
 ## Referanselisten
 
@@ -47,15 +51,17 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 
 ... (Etternavn, årstall, evt. sidetall)
 
+(Sterling, 2009).
+
 **To forfattere:**  
-(Etternavn & Etternavn, årstall, evt. sidetall)  
+... (Etternavn & Etternavn, årstall, evt. sidetall)  
 
 (Gullestad & Killingmo, 2013, s. 35)
 
 **Tre eller flere forfattere:**
 (Første forfatters etternavn et al., årstall, evt. sidetall)
 
-... (Retterstøl et al, 2002).
+... (Retterstøl et al., 2002).
 
 :::
 
