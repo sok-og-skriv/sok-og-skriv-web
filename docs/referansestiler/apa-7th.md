@@ -11,7 +11,7 @@ APA står for American Psychological Association. Foreningen har utviklet en typ
 
 I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. 
 
-::: tip Henvisning til flere kilder  
+::: tip Eksempel med flere kilder  
 
 Uttrykket «bærekraftig utvikling» har vært brukt med mange ulike betydninger (Hume & Barry, 2015; Lafferty & Langhelle, 1995; Sterling, 2009). 
 
@@ -43,16 +43,16 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 
 ::: teksten
 
-** Bok med én forfatter:** 
+**Bok med én forfatter:** 
 
-... (Etternavn, årstall, evt. sidetall).
+... (Etternavn, årstall, evt. sidetall)
 
-**Bok med to forfattere:**  
+**To forfattere:**  
 (Etternavn & Etternavn, årstall, evt. sidetall)  
 
 (Gullestad & Killingmo, 2013, s. 35)
 
-**Bok med tre eller flere forfattere:**
+**Tre eller flere forfattere:**
 (Første forfatters etternavn et al., årstall, evt. sidetall)
 
 ... (Retterstøl et al, 2002).
@@ -81,6 +81,8 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken ... 
 
 <span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe.</span>
+
+For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 ::: 
 
 
@@ -220,7 +222,7 @@ Oppgi DOI dersom det foreligger. Hvis kildeinformasjon som årgang/volum, hefte/
 
 ### Artikler med mange forfattere 
 
-For artikler med inntil 21 forfattere oppgis alle forfatternavn i referanselisten. For artikler med flere enn 21 forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø.Ø.
+For artikler med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For artikler med 21 eller flere forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 
 ### Artikkel i avis (trykt og elektronisk)
 
