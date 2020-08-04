@@ -53,22 +53,21 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 (Gullestad & Killingmo, 2013, s. 35)
 
 **Bok med tre eller flere forfattere:**
-(Første forfatters etternavn, et al., årstall, evt. sidetall)
+(Første forfatters etternavn et al., årstall, evt. sidetall)
+
+... (Retterstøl et al, 2002).
 
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel_ (evt. utg.). Forlag.</span>
-_Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
 
   
-**Bok med en eller to forfattere:**
 <span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
 <span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Gyldendal.</span>
 
-**Bok med tre eller flere forfattere:**  
-<span class="ref">Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D. & Forfatter, E. E. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
+_Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
+
 
 ::: details I EndNote
 
