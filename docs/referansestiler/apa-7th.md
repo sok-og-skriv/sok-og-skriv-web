@@ -5,7 +5,19 @@ date: "2020-06-17"
 
 # APA 7th
 
-APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Anbefalingene er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual, anbefaler vi å sjekke [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
+APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Anbefalingene som gis her er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual, anbefaler vi å sjekke [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
+
+## Henvisninger i teksten 
+
+I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. 
+
+::: eksempel Eksempel 
+
+Begrepet «bærekraftig utvikling» har vært tillagt mange ulike betydninger (Hume & Barry, 2015; Lafferty & Langhelle, 1995). 
+
+::: 
+
+Se flere eksempler nedenfor. 
 
 ## Referanselisten
 
