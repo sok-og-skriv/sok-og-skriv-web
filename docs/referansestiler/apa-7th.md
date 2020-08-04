@@ -30,12 +30,12 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 ### Bok
 
 ::: teksten
-**Bok med en til tre forfattere:**  
+**Bok med to forfattere:**  
 (Etternavn & Etternavn, årstall, evt. sidetall)  
 
 (Gullestad & Killingmo, 2013, s. 35)
 
-**Bok med fire eller flere forfattere:**
+**Bok med tre eller flere forfattere:**
 (Første forfatters etternavn, et al., årstall, evt. sidetall)
 
 :::
