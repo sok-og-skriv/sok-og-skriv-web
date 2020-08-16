@@ -452,7 +452,7 @@ Fyll ut feltene: Author (trykk enter mellom hvert navn hvis flere, hvis institus
 :::: 
 
 
-## Visuelle kilder
+## Audiovisuelle kilder
 
 For å bruke et bilde eller et kunstverk som illustrasjon, må du normalt hente inn tillatelse fra opphavsrettshaver eller eier. For kilder som ligger fritt tilgjengelig på nett holder det å oppgi eier og hvor du har hentet det fra. Informasjon om kunstverk presenteres snarere i teksten enn i note eller referanseliste. Ta i alle tilfelle med så mye av følgende informasjonen som er tilgjengelig: navn på opphavsperson/kunstner, tittel i kursiv,  dato og/eller år for verket og/eller når reproduksjonen av det ble laget, medium (for eksempel foto/olje på lerret/silketrykk),og plassering, størrelse. Hvis referansliste er påkrevd, gjentas samme informasjon her.
 
@@ -502,7 +502,7 @@ Se Chicago-manualen for flere eksempler på henvisning til multimediale kilder o
 
 
 
-### Musikk/ Auditive kilder
+### Musikk / auditive kilder
 
 Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Chicago-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver eller annen person som er hovedansvarlig for innholdet, _Verktittel_/«Verktittel», navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen vil avhenge av konteksten det opptrer i. Er opptaket hentet fra nettet, skal referansen inneholde dato samt URL eller DOI.
 
