@@ -118,7 +118,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 Etternavn, Fornavn. «Kapitteltittel». I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
-Moi, Toril. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15-23. Oslo: Cappelen Damm, 2019.
+Moi, Toril. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15–23. Oslo: Cappelen Damm, 2019.
 
 ::: details I EndNote
 
@@ -131,7 +131,7 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ### Bok med flere forfattere (eller redaktører)
 
-Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alia = latin for "og andre») i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alia = latin for «og andre») i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
 
 
 ::: tip I noten
@@ -257,7 +257,7 @@ Trykte og elektroniske artikler følger samme oppsett. For elektroniske artikler
 
 Etternavn, Fornavn. «Artikkeltittel». _Tidsskrifttittel_ Årgang, Nummer (Utgivelsesdato): sidespenn. Evt. DOI/URL. 
 
-Kalyvas, Andreas. «Whose Crisis? Which Democracy? Notes on the Current Political Conjuncture.» _Constellations_ 26, no. 3 (September 2019): 384-90. DOI: 10.1111/1467-8675.12438. 
+Kalyvas, Andreas. «Whose Crisis? Which Democracy? Notes on the Current Political Conjuncture.» _Constellations_ 26, no. 3 (September 2019): 384–90. DOI: 10.1111/1467-8675.12438. 
 
 ::: details I EndNote
 
@@ -418,9 +418,9 @@ Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publ
 
 :::: ref
 
-Nettsted. "Artikkeltittel.» Dato. URL/DOI
+Nettsted. «Artikkeltittel.» Dato. URL/DOI
 
-^13^ Statistisk sentralbyrå, «Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn." Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
+^13^ Statistisk sentralbyrå, «Trus- og livssynssamfunn utanfor Den norske kyrkja, per 1. januar 2012: Ein halv million i trus- og livssynssamfunn.» Frigitt 04.12.2012. [https://www.ssb.no/trosamf/](https://www.ssb.no/trosamf/)
 
 ::: details I EndNote
 
