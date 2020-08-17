@@ -13,7 +13,7 @@ I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Merk at &
 
 ::: tip Eksempel med flere kilder  
 
-Uttrykket «bærekraftig utvikling» har vært brukt med mange ulike betydninger (Hume & Barry, 2015; Lafferty & Langhelle, 1995; Sterling, 2009). 
+Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barry, 2015; Lafferty & Langhelle, 1995; Sterling, 2009). 
 
 ::: 
 
@@ -49,20 +49,20 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 
 **Bok med én forfatter:** 
 
-... (Etternavn, årstall, evt. sidetall)
+(Etternavn, årstall, evt. sidetall)
 
 _Eksempel_
-(Sterling, 2009, s. 10)
+... (Sterling, 2009, s. 10)
 
 **To forfattere:**  
-... (Etternavn & Etternavn, årstall, evt. sidetall)  
+(Etternavn & Etternavn, årstall, evt. sidetall)  
 
-(Gullestad & Killingmo, 2013, s. 35)
+... (Gullestad & Killingmo, 2013, s. 35)
 
 **Tre eller flere forfattere:**
 (Første forfatters etternavn et al., årstall, evt. sidetall)
 
-... (Retterstøl et al., 2002).
+... (Retterstøl et al., 2002)
 
 :::
 
