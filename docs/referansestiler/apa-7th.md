@@ -51,7 +51,8 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn p
 
 ... (Etternavn, årstall, evt. sidetall)
 
-(Sterling, 2009).
+_Eksempel_
+(Sterling, 2009, s. 10)
 
 **To forfattere:**  
 ... (Etternavn & Etternavn, årstall, evt. sidetall)  
