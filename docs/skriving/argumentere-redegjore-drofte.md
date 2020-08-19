@@ -20,7 +20,7 @@ En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**.
 
 ## Redegjør og drøft 
 
-Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) mot hverandre. I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen eller det kan være to ulike teorier/begreper som drøftes mot hverandre.
+Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) mot hverandre. I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen, eller det kan være to ulike teorier/begreper som drøftes mot hverandre.
 
 Men hva betyr det å redegjøre, og hva er egentlig drøfting?
 
