@@ -9,7 +9,7 @@ APA står for American Psychological Association. Foreningen har utviklet en typ
 
 ## Henvisninger i teksten 
 
-I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Merk at &-tegnet kun brukes i parenteser og referanseliste. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. 
+I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. Merk at &-tegnet kun brukes i parenteser og referanseliste. I teksten brukes «og».
 
 ::: tip Eksempel med flere kilder  
 
@@ -21,7 +21,7 @@ Se flere eksempler nedenfor.
 
 ## Sitat 
 
-Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes _foran_ henvisningen i slutten av sitatet. 
+Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. 
 
 ## Referanselisten
 
@@ -38,7 +38,7 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 
 
 ::: warning Flere eksempler
-For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finn på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
+For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
 :::
 
 ## Bøker
@@ -271,11 +271,11 @@ Om artikkelen ikke har forfatter:
 
 
 :::: ref
-Forfatter. (oppdaterings- eller publiseringstidspunkt). _Tittel: Undertittel_. 
+Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undertittel. 
     Nettstedets navn. https://xxxxx
 
-<span class="ref">Fossheim, H. (2018, 25. desember). _Aristoteles_. 
-    Store Norske Leksikon. https://snl.no/Aristoteles</span>
+<span class="ref">Fossheim, H. (2018, 25. desember). Aristoteles. 
+   I _Store Norske Leksikon_. https://snl.no/Aristoteles</span>
 
 Om artikkelen ikke har forfatter: 
 
