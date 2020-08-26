@@ -5,7 +5,7 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/referansestiler/chicago-forfatter-aar.html). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir «avbrutt» av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
+Chicago-stilen finnes i to varianter: _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/referansestiler/chicago-forfatter-aar.html). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir «avbrutt» av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
 
 ## Henvisninger i notene
@@ -163,16 +163,16 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn), Year, Title, Place 
 ::: tip I noten
 ^nr^ Etternavn, _Korttittel_, bindnummer, _Serietittel,_ eventuelt sidetall.
 
-... dokumentert på grunnlag av kildematerialet ….^5^
+... dokumentert på grunnlag av kildematerialet ...^5^
 
 ^5^ Imsen og Sandnes, _Avfolking og union_, bind 4, _Norges historie,_ 247–296.
 ::: 
 
 :::: ref
 
-Etternavn, Fornavn, _Tittel_, bindnummer, redigert av Fornavn Etternavn, _Serietittel_. Utgiversted: Forlag, årstall.
+Etternavn, Fornavn, _Tittel_, bindnummer, _Serietittel_,redigert av Fornavn Etternavn. Utgiversted: Forlag, årstall.
 
-Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, redigert av Knut Mykland, _Norges historie_. Oslo: Cappelen, 1995.
+Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, _Norges historie_, redigert av Knut Mykland . Oslo: Cappelen, 1995.
 
 ::: details I EndNote
 
