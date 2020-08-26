@@ -170,9 +170,9 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn), Year, Title, Place 
 
 :::: ref
 
-Etternavn, Fornavn, _Tittel_, bindnummer, _Serietittel_,redigert av Fornavn Etternavn. Utgiversted: Forlag, årstall.
+Etternavn, Fornavn, _Tittel_, bind nummer av _Serietittel_,redigert av Fornavn Etternavn. Utgiversted: Forlag, årstall.
 
-Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, _Norges historie_, redigert av Knut Mykland . Oslo: Cappelen, 1995.
+Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4 av _Norges historie_, redigert av Knut Mykland . Oslo: Cappelen, 1995.
 
 ::: details I EndNote
 
