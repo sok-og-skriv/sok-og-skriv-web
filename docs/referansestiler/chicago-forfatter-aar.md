@@ -5,21 +5,21 @@ date: "2012-09-18"
 
 # Chicago forfatter-år
 
-Chicago-stilen finnes i to varianter, _forfatter-årstallsstil_, som vi presenterer her (også kalt _Chicago B_), og [fotnotestil](/referansestiler/chicago-fotnoter.html "Chicago fotnoter").  
-Denne framstillingen er basert på [_The Chicago Manual of Style_. 17. utg](https://www.chicagomanualofstyle.org/book/ed17/part3/ch15/toc.html).
+Chicago-stilen finnes i to varianter, som _forfatter-årstallsstil_, som vi presenterer her (også kalt _Chicago B_), og som [fotnotestil](/referansestiler/chicago-fotnoter.html). Denne framstillingen er basert på [_The Chicago Manual of Style_. 17. utg](https://www.chicagomanualofstyle.org/book/ed17/part3/ch15/toc.html).
 
-Finn ut om hvordan du siterer og [henviser i teksten](./#henvisninger), lager referanseliste og behandler forskjellige referansetyper.
+## Henvisning i teksten 
+
+I teksten vises det til kildens forfatter, utgivelsesår og eventuelt sidetall i parentes. Stilen kan være hensiktsmessig i for eksempel samfunnsvitenskapelige arbeider. Se eksempler nedenfor. 
 
 ## Referanselisten
 
 - I referanselisten presenteres referansen i fullstendig form.
-- Referanselisten skal skrives med forfatterne alfabetisk ordnet.
+- Referanselisten ordnes alfabetisk etter forfatternavn, eller tittel der forfatter ikke finnes.
 - Ved flere medforfattere skal arbeidet alfabetiseres ut fra førsteforfatter. Navnet til førsteforfatter skal skrives invertert, det vil si Etternavn, Fornavn. De andre forfatterne skrives Fornavn Etternavn.
-- Når du har flere verk av samme forfatter etter hverandre, erstattes forfatterens navn med en lang tankestrek —.
 - Når du har flere verk av samme forfatter skal de ordnes etter publikasjonsår, i stigende rekkefølge (det eldste først).
 - Har en forfatter utgitt flere arbeider i samme år ordnes de alfabetisk, og merkes med a, b, c etc. etter årstall både i teksten og i referanselisten.
-- Ved flere enn tre forfattere nevnes kun førsteforfatter, etterfulgt av et al. (et alia = lat. _og andre_) i løpende tekst. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første sju, etterfulgt av et al.
-- Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn (se eksempler under).
+- Ved flere enn tre forfattere nevnes kun førsteforfatter, etterfulgt av mfl. (= med flere) i kildehenvisningen. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn 10 listes bare de første sju, etterfulgt av mfl.
+- Bruk gjerne hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn (se eksempler under).
 
 ## Bøker
 
@@ -28,7 +28,7 @@ Finn ut om hvordan du siterer og [henviser i teksten](./#henvisninger), lager re
 ::: teksten
 (Forfatter årstall, evt. sidetall) eller Forfatter (årstall, sidetall)
 
-"Å skrive med stil er å drive med noe i retning av høytskriving", ifølge Johansen (2003, 43). 
+«Å skrive med stil er å drive med noe i retning av høytskriving», ifølge Anders Johansen (2003, 43). 
 :::
 
 :::: ref
@@ -52,7 +52,7 @@ Dersom boken har DOI-nummer, brukes dette fremfor URL. Chicago-stilen krever i
 ::: teksten
 (Forfatter årstall, evt. sidetall)
 
-God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (Schimel 2012) 
+God, vitenskapelig skriving følger vanlige prinsipper for historiefortelling (Schimel 2012). 
 :::
 
 :::: ref
@@ -98,7 +98,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn), Year, Title, Place Pu
 ::: teksten
 (Forfatter årstall)
 
-… skildret i romanen _Kelterens drøm_ (Vargas Llosa 2012).
+... skildret i romanen _Kelterens drøm_ (Vargas Llosa 2012).
 :::
 
 :::: ref
@@ -141,7 +141,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: teksten
 (Forfatter årstall, eventuelt sidetall)
 
-… dokumentert på grunnlag av kildevalget … (Imsen og Sandnes 1995, 249).
+... dokumentert på grunnlag av kildevalget ... (Imsen og Sandnes 1995, 249).
 :::
 
 :::: ref
@@ -186,7 +186,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: teksten
 (Forfatter årstall, eventuelt sidetall)
 
-… som Hagen påpeker (2011, 38).
+... som Hagen påpeker (2011, 38).
 :::
 
 :::: ref
