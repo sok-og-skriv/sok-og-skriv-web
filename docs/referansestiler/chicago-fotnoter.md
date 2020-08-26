@@ -5,24 +5,24 @@ date: "2012-09-19"
 
 # Chicago fotnoter
 
-Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/referansestiler/chicago-forfatter-aar.html «Chicago forfatter-år»). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir «avbrutt» av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
+Chicago-stilen finnes i to varianter, _fotnotestil_, som presenteres her, og [forfatter-årstallsstil](/referansestiler/chicago-forfatter-aar.html). Fotnotestilen kalles også _Chicago A_. Denne stilen er mest brukt innen humaniora, der hensikten er å unngå at teksten blir «avbrutt» av bibliografiske opplysninger. Henvisningene legges inn som fotnoter eller sluttnoter. Denne framstillingen er basert på: [_The Chicago Manual of Style,_](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html) 17th ed. Chicago: University of Chicago Press, 2017.
 
 
 ## Henvisninger i notene
 
-- Fotnoter nummereres fortløpende 1, 2, 3 og så videre.
-- Ved bruk av sluttnoter plasserer du alle notene til slutt i teksten, foran referanselisten.
-- I notene skriver du den fulle referansen første gang du bruker den. Etter det gir du referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang. Her vises begge alternativer. 
+- Fotnoter og sluttnoter nummereres fortløpende 1, 2, 3 og så videre.
+- Ved bruk av sluttnoter plasseres alle notene bakerst i teksten, foran referanselisten.
+- I notene skriver du den fulle referansen første gang du bruker den. Etter det oppgis referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang. Her vises begge alternativer. 
 - Hvis du siterer fra eller viser til bestemte steder i en tekst, skal du også ha med sidetall.
-- Når du henviser til den samme referansen to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (bruk av _ibid_, latin for 'samme sted', frarådes i Chicago 17. utgave).
-- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i «anførselstegn», se de ulike referansetypene under.
-- Ved referanser til e-bøker kan det elektroniske formatet listes, for eksempel «Kindle» eller «iBooks».
+- Når du henviser til den samme kilden to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (merk at bruk av _ibid_, latin for 'samme sted', frarådes i Chicago 17. utgave).
+- Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i «anførselstegn»; se de ulike referansetypene under.
+- Ved henvisning til e-bøker kan det elektroniske formatet oppgis, for eksempel «Kindle» eller «iBooks».
 
 ## Referanselisten
 
-- I referanselisten gis referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første), og publikasjonsdata (utgiversted, forlag).
+- I referanselisten gis referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første) og publikasjonsdata (utgiversted, forlag).
 - Listen ordnes alfabetisk etter forfatters etternavn. Verk med flere forfattere alfabetiseres etter førsteforfatter.
-- Hvis du har med flere verk av samme forfatter, ordnes de alfabetisk på verkets tittel eller kronologisk på år. På norsk erstattes ikke forfatterens navn med den lange tankestreken (_3-em dash_) som brukes på engelsk. Se Chicago-manualen for mer informasjon.
+- Hvis du har med flere verk av samme forfatter, ordnes de kronologisk (fra eldste til nyeste utgivelse).  
 - Referanser uten forfatter alfabetiseres etter tittel.
 - For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) samt publiseringsdato eller dato for siste oppdatering. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
 - DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
@@ -53,7 +53,7 @@ Morton Klass definerer myte som «...»^1^
 Legges inn som «Book».
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher 
-::: 
+.::: 
 :::: 
 
 ### E-bok
@@ -131,13 +131,13 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ### Bok med flere forfattere (eller redaktører)
 
-Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av et al. (et alia = latin for «og andre») i noten. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av et al.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av mfl. (= med flere). I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av mfl.
 
 
 ::: tip I noten
-^nr^ Etternavn et al., _Boktittel_, eventuelt sidetall. 
+^nr^ Etternavn mfl., _Boktittel_, eventuelt sidetall. 
 
-^4^ Mortensen et al., _Kjønnsteori_, 11.
+^4^ Mortensen mfl., _Kjønnsteori_, 11.
 ::: 
 
 :::: ref 
@@ -170,9 +170,9 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn), Year, Title, Place 
 
 :::: ref
 
-Etternavn, Fornavn, _Tittel_, bindnummer, red. Fornavn Etternavn, _Serietittel_. Utgiversted: Forlag, årstall.
+Etternavn, Fornavn, _Tittel_, bindnummer, redigert av Fornavn Etternavn, _Serietittel_. Utgiversted: Forlag, årstall.
 
-Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, red. Knut Mykland, _Norges historie_. Oslo: Cappelen, 1995.
+Imsen, Steinar og Jørn Sandnes. _Avfolkning og union: 1319–1448_, bind 4, redigert av Knut Mykland, _Norges historie_. Oslo: Cappelen, 1995.
 
 ::: details I EndNote
 
