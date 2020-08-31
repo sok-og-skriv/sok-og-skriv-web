@@ -19,6 +19,8 @@ Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM st
 - Dersom du viser til flere kilder på en gang, listes referansene med semikolon, uten mellomrom, slik: (1;3;7) 
 - eller med bindestrek: (1-4), der kilde 1, 2, 3 og 4 understøtter det samme poenget.  
 
+Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat) og/eller se eksemplene nedenfor.
+
 
 ## Referanselisten
 
