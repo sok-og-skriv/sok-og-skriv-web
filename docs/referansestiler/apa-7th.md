@@ -21,7 +21,7 @@ Se flere eksempler nedenfor.
 
 ## Sitat 
 
-Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. 
+Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat).
 
 ## Referanselisten
 
@@ -318,7 +318,7 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 ::: 
 :::: 
 
-### Merknader 
+#### Merknader 
 Nettstedets navn utgår dersom det er det samme som forfatter/organisasjonen. 
 
 Publiseringsdato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes ikke det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  

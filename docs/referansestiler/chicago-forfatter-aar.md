@@ -9,7 +9,7 @@ Chicago-stilen finnes i to varianter, som _forfatter-årstallsstil_, som vi pres
 
 ## Henvisning i teksten 
 
-I teksten vises det til kildens forfatter, utgivelsesår og eventuelt sidetall i parentes. Stilen kan være hensiktsmessig i for eksempel samfunnsvitenskapelige arbeider. Se eksempler nedenfor. 
+I teksten vises det til kildens forfatter, utgivelsesår og eventuelt sidetall i parentes. Stilen kan være hensiktsmessig i for eksempel samfunnsvitenskapelige arbeider. Les mer om [sitering og kildehenvisning](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat) og/eller se eksemplene nedenfor. 
 
 ## Referanselisten
 
@@ -28,6 +28,7 @@ I teksten vises det til kildens forfatter, utgivelsesår og eventuelt sidetall i
 ::: teksten
 (Forfatter årstall, evt. sidetall) eller Forfatter (årstall, sidetall)
 
+_Eksempel_
 «Å skrive med stil er å drive med noe i retning av høytskriving», ifølge Anders Johansen (2003, 43). 
 :::
 
