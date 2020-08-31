@@ -18,6 +18,10 @@ Chicago-stilen finnes i to varianter: _fotnotestil_, som presenteres her, og [fo
 - Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i «anførselstegn»; se de ulike referansetypene under.
 - Ved henvisning til e-bøker kan det elektroniske formatet oppgis, for eksempel «Kindle» eller «iBooks».
 
+::: tip 
+Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat) og/eller se eksemplene nedenfor.
+:::
+
 ## Referanselisten
 
 - I referanselisten gis referansen i fullstendig form med fullt forfatternavn, fullstendig tittel, utgave (hvis ikke første) og publikasjonsdata (utgiversted, forlag).
