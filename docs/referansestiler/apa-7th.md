@@ -21,7 +21,7 @@ Se flere eksempler nedenfor.
 
 ## Sitat 
 
-Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. 
+Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat).
 
 ## Referanselisten
 
