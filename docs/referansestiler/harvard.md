@@ -477,7 +477,7 @@ Meld. St. x (Sesjon). _Tittel på stortingsmelding_.
 
 ---
 
-St.meld. nr. 47 (2008–2009). _Samhandlingsreformen: rett behandling - på rett sted - til rett tid._
+St.meld. nr. 47 (2008–2009). _Samhandlingsreformen: rett behandling – på rett sted – til rett tid._
 :::
 
 ::: details Flere eksempler
