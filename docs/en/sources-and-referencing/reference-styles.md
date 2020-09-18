@@ -15,8 +15,8 @@ Some of the most commonly used reference styles in academic writing are:
 - The Chicago styles (see the free guide at [Purdue University](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/chicago_manual_of_style_17th_edition.html "Chicago 16 at Purdue OWL") or the licensed _[Quick guide](https://www.chicagomanualofstyle.org/tools_citationguide.html "Chicago-Style Citation Quick Guide")_):
     - Chicago 16 A – footnote system, commonly used in the humanities
     - Chicago 16 B – author-year
-- Harvard – author-year, a general reference system used in many disciplines (and used here at Søk & Skriv). See for example _[Quote, Unquote](https://www.scientific-journals.co.uk/web_documents/quote_unquote.pdf "Quote, Unquote")_.
-- Modern Language Association (MLA) – author -page number, widely used in linguistics and literature (see, e.g., the [description at Cornell University](https://www.library.cornell.edu/resrch/citmanage/mla)).
+- Harvard – author-year, a general reference system used in many disciplines. There is not one, authorised version of the Harvard style. 
+- Modern Language Association (MLA) – author -page number, widely used in linguistics and literature (see, e.g., the [description at The University of Western Australia](https://guides.library.uwa.edu.au/mla)).
 - [Vancouver](https://www.ncbi.nlm.nih.gov/books/NBK7256/ "Citing Medicine") – numbered system, commonly used in medicine, health sciences and natural sciences.
 - IEEE (Institue of Electrical and Electronics Engineers) - used in, e.g., engineering and computer science (cf. [the Citation Compass](http://kildekompasset.no/english)).
 
