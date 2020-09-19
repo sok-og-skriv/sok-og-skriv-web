@@ -12,7 +12,7 @@ Chicago-stilen finnes i to varianter: _fotnotestil_, som presenteres her, og [fo
 
 - Fotnoter og sluttnoter nummereres fortløpende 1, 2, 3 og så videre.
 - Ved bruk av sluttnoter plasseres alle notene bakerst i teksten, foran referanselisten.
-- I notene skriver du den fulle referansen første gang du bruker den. Etter det oppgis referansen i kortform, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang. Her vises begge alternativer. 
+- I notene skriver du den fulle referansen første gang du bruker den. Etter det oppgis referansen i **kortform**, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang. Her vises begge alternativer. 
 - Hvis du siterer fra eller viser til bestemte steder i en tekst, skal du også ha med sidetall.
 - Når du henviser til den samme kilden to eller flere ganger direkte etter hverandre, benyttes kortform av referansen fulgt av sidetall (merk at bruk av _ibid_, latin for 'samme sted', frarådes i Chicago 17. utgave).
 - Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i «anførselstegn»; se de ulike referansetypene under.
@@ -59,6 +59,7 @@ Legges inn som «Book».
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher 
 .::: 
 :::: 
+
 
 ### E-bok
 
