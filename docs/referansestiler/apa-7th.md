@@ -571,13 +571,13 @@ For statistikker må du redegjøre for hvilke søk du har gjort, og hvordan du o
 :::
 
 :::: ref
-<span class="ref">Statistisk sentralbyrå. (2017). 08145: Nye studenter i høyere utdanning i Norge. Kjønn og alder 2000 – 2016 [Statistikk]. https://www.ssb.no/statbank/table/08145</span>
+<span class="ref">Statistisk sentralbyrå. (2017). _08145: Nye studenter i høyere utdanning i Norge. Kjønn og alder 2000 – 2016_ [Statistikk]. https://www.ssb.no/statbank/table/08145</span>
 
-<span class="ref">Sundstøl, S. A. (2018). Soils at Haukeli, Imingfjell, and Lesja [Datasett].    USN ORA. https://doi.org/10.23642/usn.7454279.v1</span>
+<span class="ref">Sundstøl, S. A. (2018). _Soils at Haukeli, Imingfjell, and Lesja_ [Datasett].    USN ORA. https://doi.org/10.23642/usn.7454279.v1</span>
 
 ::: details Endnote
 Legges inn som "Dataset".
-Fyll ut feltene: Investigators, Year, Title, Distributor, Type of Work, URL.
+Fyll ut feltene: Investigators, Year, Title, Distributor, Datatype, URL.
 :::
 ::::
 
