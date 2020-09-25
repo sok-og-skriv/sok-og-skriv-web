@@ -358,9 +358,9 @@ I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 :::
 
 :::: ref
-<span class="ref">Lovens kortnavn. (Årstall). Lang tittel (datokode). Hentet fra https://...</span>
+<span class="ref">Lovens kortnavn. (Årstall). _Lang tittel_ (datokode). Hentet fra https://...</span>
 
-<span class="ref">Folketrygdloven. (1997). Lov om folketrygd (LOV-1997-02-28-19). Hentet fra [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
+<span class="ref">Folketrygdloven. (1997). _Lov om folketrygd_ (LOV-1997-02-28-19). Hentet fra [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
 
 ::: details I EndNote
 
@@ -591,7 +591,7 @@ Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentl
 :::
 
 :::: ref
-<span class="ref">Institute of Electrical and Electronics Engineers. (1987). IEEE guide for handling and disposal of transformer grade insulating liquids containing PCBs (ANSI/IEEE Std. 799-1987). https://doi.org/10.1109/IEEESTD.1987.81034</span>
+<span class="ref">Institute of Electrical and Electronics Engineers. (1987). _IEEE guide for handling and disposal of transformer grade insulating liquids containing PCBs_ (ANSI/IEEE Std. 799-1987). https://doi.org/10.1109/IEEESTD.1987.81034</span>
 
 ::: details Endnote
 Legges inn som "Report".
@@ -605,8 +605,8 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 ... tidligere utgitt som Retningslinjer for retningslinjer (Statens helsetilsyn, 2002)
 ... (Helsedirektoratet, 2015)
 
-<span class="ref">Statens helsetilsyn. (2002).Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer (IK-2653). Statens helsetilsyn.</span>
-<span class="ref">Helsedirektoratet. (2015). Veileder om assistert befruktning med donorsæd (IS-2418). https://www.shorturl.at/akvB8</span>
+<span class="ref">Statens helsetilsyn. (2002)._Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer_ (IK-2653). Statens helsetilsyn.</span>
+<span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). https://www.shorturl.at/akvB8</span>
 
 ### Forelesningsmateriell og intranett-ressurser
 
@@ -620,8 +620,8 @@ Om du er ansatt og skriver for kolleger, kan du følge malen for rapporter. Ders
 :::
 
 :::: ref 
-Forfatter(e). (Publiseringstidspunkt). Tittel: Undertittel /[Lysarkpresentasjon/]. URL
-<span class="ref">Coyle, K. (u.å.). Bibliographic data: A new context[Lysarkpresentasjon]. Karen Coyle. http://www.kcoyle.net/presentations/oslo2011.pdf</span>
+Forfatter(e). (Publiseringstidspunkt). _Tittel: Undertittel_ /[Lysarkpresentasjon/]. URL
+<span class="ref">Coyle, K. (u.å.). _Bibliographic data: A new context_[Lysarkpresentasjon]. Karen Coyle. http://www.kcoyle.net/presentations/oslo2011.pdf</span>
 
 :::details Endnote
 Legges innsom "Book"
@@ -645,7 +645,7 @@ Ingen innførsel i referanselisten
 Figur 2. Breiflabb. Fra «Monkfish/Breiflabb», av A. Hansen, 2006 ([https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)). CC BY-NC-ND 2.0
 
 Referer til nettsiden:  
-<span class="ref">Hansen, A. (2006). Monkfish / Breiflabb. Hentet fra [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)</span>
+<span class="ref">Hansen, A. (2006). _Monkfish / Breiflabb_. Hentet fra [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)</span>
 :::
 
 ::: tip Tabell hentet fra tidsskriftartikkel:  
