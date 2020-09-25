@@ -252,7 +252,7 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
 
 Legges inn som "Newspaper Article".
 
-Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date og url om du les avisartikkelen elektronisk
+Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date og url om du leser avisartikkelen elektronisk.
 ::: 
 :::: 
 
@@ -306,7 +306,7 @@ Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (
 :::: ref
 <span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel_. Nettstedets navn.  URL.</span>
 
-<span class="ref">Helsedirektoratet. (2018). _Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder_. https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader)</span>
+<span class="ref">Helsedirektoratet. (2018). _Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder_. https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader</span>
 
 ::: details I EndNote
 
@@ -432,7 +432,7 @@ Dersom du henviser til trykt utgave, utgår url.
 
 Legges inn som "Report" eller "Government Document".
 
-Fyll ut feltene: Author (med et komma etter departementsnavnet), Year, Title, Report Number, URL.
+Fyll ut feltene: Author (med et komma etter meldingsnummer), Year, Title, Report Number, URL.
 ::: 
 :::: 
 
@@ -460,11 +460,11 @@ Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.m
 :::
 
 :::: ref
-<span class="ref">NOU årstall: nummer. (Utgivelsesår). _Tittel_. Utgiversted: departement.</span>
+<span class="ref">NOU årstall: nummer. (Utgivelsesår). _Tittel_. departement.</span>
 
-Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med sted/utgiver, men ta med lenke.
+Dersom du henviser til trykt utgave skal utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med utgiver, men ta med lenke.
 
-<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Oslo: Sosial- og helsedepartementet.</span>
+<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_.Sosial- og helsedepartementet.</span>
 
 ::: details I EndNote
 
@@ -472,7 +472,7 @@ Trykt utgave: Legges inn som "Book".
 
 Elektronisk utgave: Legges inn som "Electronic Book".
 
-Trykt utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, Place Published, Publisher.
+Trykt utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, Publisher.
 
 Elektronisk utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, URL.
 ::: 
@@ -503,7 +503,7 @@ Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede 
 
 Legges inn som "Report" eller "Government Document".
 
-Fyll ut feltene: Author, Year, Title, Report Number (plankode), URL. 
+Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), URL. 
 ::: 
 :::: 
 
@@ -537,20 +537,20 @@ Kyrkjebø (2001) viser forskjellen mellom ... (s. 39).
 
 :::: ref
 Trykt oppgave:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling/]. Institusjon.</span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling/. Institusjon].</span>
 
 Avhandling på nett:  
 <span class="ref">Forfatter, A. A. (Årstall). _Tittel:Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/]. Navn på arkiv .</span>
 
-<span class="ref">Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ /[Doktorgradsavhandling/]. Universitetet i Bergen.</span>
+<span class="ref">Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ /[Doktorgradsavhandling, Universitetet i Bergen].</span>
 
 ::: details I EndNote
 
 Legges inn som "Thesis".
 
-Trykt avhandling: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, University, Thesis Type.
+Trykt avhandling: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, University, Thesis Type.
 
-Avhandling på Internett: Fyll ut feltene Author, Year, Title, Thesis Type (ta med institusjon), URL.
+Avhandling på Internett: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Thesis Type. University, Place Published (navn på arkiv), URL.
 
 ::: 
 :::: 
@@ -571,13 +571,13 @@ For statistikker må du redegjøre for hvilke søk du har gjort, og hvordan du o
 :::
 
 :::: ref
-<span class="ref">Statistisk sentralbyrå. (2017). 08145: Nye studenter i høyere utdanning i Norge. Kjønn og alder 2000 – 2016 [Statistikk]. https://www.ssb.no/statbank/table/08145</span>
+<span class="ref">Statistisk sentralbyrå. (2017). _08145: Nye studenter i høyere utdanning i Norge. Kjønn og alder 2000 – 2016_ [Statistikk]. https://www.ssb.no/statbank/table/08145</span>
 
-<span class="ref">Sundstøl, S. A. (2018). Soils at Haukeli, Imingfjell, and Lesja [Datasett].    USN ORA. https://doi.org/10.23642/usn.7454279.v1</span>
+<span class="ref">Sundstøl, S. A. (2018). _Soils at Haukeli, Imingfjell, and Lesja_ [Datasett].    USN ORA. https://doi.org/10.23642/usn.7454279.v1</span>
 
 ::: details Endnote
 Legges inn som "Dataset".
-Fyll ut feltene: Investigators, Year, Title, Distributor, Type of Work, URL.
+Fyll ut feltene: Investigators, Year, Title, Distributor, Datatype, URL.
 :::
 ::::
 
