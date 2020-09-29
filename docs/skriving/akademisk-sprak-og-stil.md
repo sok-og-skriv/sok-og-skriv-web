@@ -33,7 +33,7 @@ Mange studenter og forskere bruker passiv form av verbet i sine tekster. Dette e
 **Samme setning i aktiv form:** Instituttet foretar stadig nye undersøkelser på dette området. Eller: Instituttets forskere gjør stadig nye undersøkelser på dette området.
 Eller enda enklere: Instituttet forsker stadig på dette området.
 
-Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. Dette er vanlig å gjøre i beskrivelsen av forskningsmetoder der resultatene skal kunne reproduseres uavhengig av hvem som gjør undersøkelsen. Det er imidlertid en vanlig misforståelse å tro at en setning i passiv form er mer objektiv fordi man unngår ordet "jeg" eller "vi". Her, som ellers, er det fornuftig å variere. For mye passiv form blir tunglest, byråkratisk og ”mystifiserende”, men for mye aktiv form kan også bli slitsomt. Det er ikke alltid vi trenger å minnes om forskernes personer gjennom bruk av "jeg" eller "vi".
+Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. Dette er vanlig å gjøre i beskrivelsen av forskningsmetoder der resultatene skal kunne reproduseres uavhengig av hvem som gjør undersøkelsen. Det er imidlertid en vanlig misforståelse å tro at en setning i passiv form er mer objektiv fordi man unngår ordet "jeg" eller "vi". Her, som ellers, er det fornuftig å variere. For mye passiv form blir tunglest, byråkratisk og ”"mystifiserende", men for mye aktiv form kan også bli slitsomt. Det er ikke alltid vi trenger å minnes om forskernes personer gjennom bruk av "jeg" eller "vi".
 
 ::: oppgave Øvelse
 **Skriv om til mer direkte form:**
@@ -84,7 +84,11 @@ En god oppgave innfrir forventningene som skapes i starten, og svarer på proble
 For å skape distanse til det du har skrevet, finnes det ulike knep. For eksempel kan du gå gjennom teksten baklengs for å legge merke til hvilke ord og uttrykk du bruker litt for ofte. Når du leser teksten forfra, er det lett å gå inn i seg til selve resonnementet og innholdet. Lesing bakfra gjør det lettere å fokusere på ordvalg. 
 :::
 
-::: oppgave Forenklingsoppgave  
+
+
+Når vi reviderer tekst, kan vi både forkorte og forenkle: 
+
+::: eksempel Eksempel  
 
 "Den høye andelen midlertidige ansettelser kan utgjøre en fare for at den akademiske friheten svekkes" (NOU 2020: 3
 _Ny lov om universiteter og høyskoler_).
@@ -92,8 +96,14 @@ _Ny lov om universiteter og høyskoler_).
 "Den høye andelen midlertidige ansettelser kan føre til at den akademiske friheten svekkes."
 
 "Den høye andelen midlertidige ansettelser kan svekke den akademiske friheten."
+:::
 
 ## Akademisk ordbruk 
+
+::: tip Skriv nøkternt 
+Bruk adjektiver med måte, og vær forsiktig med metaforbruken. "Less is more" i akademisk skriving.  
+:::
+
 ::: warning Tips – og noen vanlige feil 
 Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. For å få en ryddigere tekst kan det også hjelpe å kutte ut ord som ikke tilfører noe til resonnementet, for eksempel adjektiver, adverb og småord.
 
