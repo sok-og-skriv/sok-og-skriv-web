@@ -460,11 +460,11 @@ Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.m
 :::
 
 :::: ref
-<span class="ref">NOU årstall: nummer. (Utgivelsesår). _Tittel_. departement.</span>
+<span class="ref">NOU årstall: nummer. (Utgivelsesår). _Tittel_. Departement.</span>
 
 Dersom du henviser til trykt utgave skal utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med utgiver, men ta med lenke.
 
-<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_.Sosial- og helsedepartementet.</span>
+<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Sosial- og helsedepartementet.</span>
 
 ::: details I EndNote
 
