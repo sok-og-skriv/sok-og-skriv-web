@@ -6,6 +6,7 @@ tags:
   - tekstbinding
   - "personlig pronomen"
   - "passiv form"
+  - "dårlig språk"
   
 ---
 
