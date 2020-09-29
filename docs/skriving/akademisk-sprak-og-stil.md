@@ -100,13 +100,19 @@ En god regel er å bruke vanlige ord som du er sikker på at du forstår. Unngå
 
 Det finnes også enkelte vanlige ord som ofte brukes feil. Noen ganger brukes ordene til å si det motsatte av det de faktisk betyr. Dette kan bli ufrivillig komisk. Her er noen vanlige feil:
 
-**Arte seg - Utarte**  
+**Utnytte eller benytte?**
+Å utnytte noe(n), er mer negativt ladet enn å benytte seg av noe. Hvis du mener bruke eller anvende, skriv benytte. Det er ikke riktig å si "utnytte seg av". 
+
+**Bokstavelig talt?** 
+"Bokstavelig talt" er det motsatte av "billedlig talt". Ofte brukes førstnevnte når man ønsker å si det siste. Billedlig talt betyr i overført betydning.  
+
+**Arte seg – Utarte**  
 At noe utarter, betyr at det går for langt; tar av og blir ustyrlig eller deformert. Vanligvis ønsker man å si at noe "arter seg". Det heter _ikke_ "utarte seg".
 
-**Definere - Utdefinere**
+**Definere – Utdefinere**
 Utdefinere betyr å definere noe "ut" av den relevante konteksten; det vil si å vise at noe er irrelevant, usaklig eller lignende. Det må altså _ikke_ brukes som synonym til "definere".
 
-**Tillegge - Tilegne (seg)**  
+**Tillegge – Tilegne (seg)**  
 Å tillegge betyr å tenke seg at noe har en egenskap (synonym: attribuere). Det er altså noe vi gjør mot andre.
 
 Å tilegne (seg) er noe vi gjør med oss selv, for eksempel når vi tilegner oss bestemte ferdigheter. Det går ikke an å "tilegne" andre noe.
@@ -116,11 +122,14 @@ Uttrykket brukes ofte feil, og blandes av og til sammen med det å "egne seg" ti
 
 **Avskrekkende** betyr å virke skremmende, noe som holder oss fra å gjøre noe. Avskrekkende betyr _ikke_ "betryggende" eller "beroligende".
 
-**Ikke nødvendigvis - nødvendigvis ikke**
-Disse uttrykkene blandes ofte sammen, men betydningen er nesten motsatt. "Ikke nødvendigvis" betyr at noe _kan_ være tilfelle, men det er ikke sikkert. "Nødvendigvis ikke" betyr at det som påstås, ikke kan være slik.
+**Ikke nødvendigvis – nødvendigvis ikke**
+Disse uttrykkene blandes ofte sammen, men betydningen er nesten motsatt. "Ikke nødvendigvis" betyr at noe _kan_ være tilfelle, men det er ikke sikkert. "Nødvendigvis ikke" betyr at det som påstås, ikke kan være slik som det hevdes.
 
 **I forhold til**  
 Dette uttrykket har fått en voldsom utbredelse de seneste årene, og erstatter snart de fleste preposisjoner. I forhold til betyr at man sammenligner noe med noe annet, altså at noe står i forhold til, sammenlignes med noe annet (som det ikke er). Overdreven bruk av "i forhold til" gjør meningen uklar og språket flatt. Prøv å variere med mer presise preposisjoner, som: med hensyn til, når det gjelder, sammenlignet med, i forbindelse med osv.
+
+**I følge eller ifølge**
+I følge brukes bare når noen for eksempel går i følge med noen andre. Når du gjengir påstander og utsagn fra andre, skal det være **ifølge**, i ett ord.  
 
 Se flere eksempler på vanlige feil hos [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriverad/Feil-bruk-av-ord-og-uttrykk)
 :::
