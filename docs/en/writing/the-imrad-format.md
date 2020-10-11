@@ -32,7 +32,7 @@ Use your method chapter to show that you arrived at your results by applying val
 
 **Your method chapter shows how you arrived at your results**
 
-**Results**
+## Results
 
 A relatively large part of your paper/thesis should be devoted to your results (findings, data, empirical evidence). In this section you should:
 
@@ -43,7 +43,7 @@ A relatively large part of your paper/thesis should be devoted to your results (
 
 **Your results = the essence of your paper.** The Introduction and Methods chapter should build up to your Results by showing how you arrived at your results (Methods) and their significance (Introduction).
 
-**Discussion**
+## Discussion
 
 In this chapter you discuss the results of your study/project.
 
