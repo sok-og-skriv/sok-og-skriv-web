@@ -122,7 +122,7 @@ The discussion will consist of argumentation. In other words, you investigate a 
 - ... it could also be argued that ...
 - ... another possible explanation may be ...
 
-**6. Conclusion - or summary?**
+## 6. Conclusion – or summary?
 
 The final section of your thesis may take one of several different forms. Some theses need a conclusion, while for others a summary will be appropriate. This depends on the nature of your thesis statement and/or research question(s).
 
