@@ -9,7 +9,7 @@ The structure of your assignment is the ‘skeleton’ that holds different part
 
 There are many ways in which you can structure an assignment. Earlier on in your studies, you will often encounter “explain and discuss”-style assignments. In the health and natural sciences, the [IMRAD model](/en/writing/the-imrad-format.html#introduction) (Introduction, Methods and Materials, Results and Discussion) is often used. In the humanities and social sciences, you usually have more freedom to decide how you want to structure your text. 
 
-::: example A good assignment is characterised by
+::: eksempel A good assignment is characterised by
 
 * All questions that arise are answered or explored 
 * Things are made clear for the reader 
