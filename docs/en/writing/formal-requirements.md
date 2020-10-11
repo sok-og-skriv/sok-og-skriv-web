@@ -81,7 +81,7 @@ The body of your paper should be written in “Normal” in your style manager. 
 <List 
   image="/images/line-height.svg"
   alt="Line spacing"
-  text="Line spacing is usually one and a half (1,5)"
+  text="Line spacing is usually one and a half (1.5)"
 />
 
 <List
@@ -93,7 +93,7 @@ The body of your paper should be written in “Normal” in your style manager. 
 <List
   image="/images/margins.svg"
   alt="Marger"
-  text="Header and footer margins should be at least 2,5 cm (or 1 in.)"
+  text="Header and footer margins should be at least 2.5 cm (or 1 in.)"
 />
 
 In tables, figures, footnotes and reference lists, you can use a smaller text size and single line spacing (as long as you preserve good readability).
@@ -101,7 +101,7 @@ In tables, figures, footnotes and reference lists, you can use a smaller text si
 <List
   image="/images/tabulator.svg"
   alt="Tabulator knapp"
-  text="Never use more than one space between words or symbols. For indentation, be sure to use the TAB key.
+  text="Never use more than one space between words or symbols. For indentation, be sure to use the TAB key."
 />
 
 
