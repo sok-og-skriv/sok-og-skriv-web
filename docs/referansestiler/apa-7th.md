@@ -191,12 +191,29 @@ Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke
 <span class="ref">Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954).</span>
 :::
 
+::: details I EndNote
+
+Legges inn som "Book".
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+
+::: 
+::::
+
 ### Verk utgitt på nytt
 Et gjenutgitt verk er et verk som har gått ut av trykk (eller ikke lenger er tilgjengelig) og siden publisert på nytt, noe er som vanlig for eldre verk. Når du henviser til et gjenutgitt verk (f.eks. et verk gjenutgitt i form av en tekstsamling eller antologi), før opp informasjonen om den nye publikasjonen som du har brukt, etterfulgt av det opprinnelige utgivelsesåret i slutten av referansen
 
 :::ref
 <span class="ref">... (x/1960) ... (Opprinnelig utgitt 1916).</span>
 :::
+
+::: details I EndNote
+
+
+Legges inn som "Book".
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+
+::: 
+::::
 
 ## Artikler 
 
