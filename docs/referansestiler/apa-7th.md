@@ -189,7 +189,7 @@ Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke
 
 ::: ref
 <span class="ref">Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954).</span>
-:::
+
 
 ::: details I EndNote
 
@@ -204,7 +204,7 @@ Et gjenutgitt verk er et verk som har gått ut av trykk (eller ikke lenger er ti
 
 :::ref
 <span class="ref">... (x/1960) ... (Opprinnelig utgitt 1916).</span>
-:::
+
 
 ::: details I EndNote
 
