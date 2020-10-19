@@ -46,7 +46,7 @@ Når du har orientert deg i teksten, lest raskt gjennom, og deretter jobbet grun
 
 Still spørsmål til teksten, og forsøk å «tvinge» den til å svare. Når du leser en tekst med tanke på å få den til å kaste lys over noe du lurer på eller ikke forstår, vil lesingen bli både lettere og mer interessant. Spørsmålene kan variere med lesingens formål: alt fra spørsmål om tekstens agenda og hovedbudskap, hvordan argumentasjonen fungerer, til spesifikke spørsmål om ord og begreper. Det er ikke teksten som skal tenke for deg, men du som skal tenke ved hjelp av teksten.
 
-::: oppgave OPPGAVE
+::: oppgave Oppgave
 
 Ta for deg en tekst du har på pensum, og spør: Hva er temaet? Hva er problemstillingen? Hva undersøker forfatteren, hva kommer hun fram til, og hvordan kommer hun fram til det? Kan du bruke noe av det i din oppgave, og i så fall, hvordan vil du selv bruke det?
 :::
@@ -60,7 +60,7 @@ Ta for deg en tekst du har på pensum, og spør: Hva er temaet? Hva er problemst
 - Hva er sentrale **begreper** i teksten?
 - Er teksten omtalt eller referert til andre steder, for eksempel i andre **bøker og artikler**? Kanskje det finnes **anmeldelser**?
 
-::: eksempel EKSEMPEL  
+::: eksempel Eksempel 
 Du leser et avsnitt der det står:
 
 «Syden kan altså klart sies å være et inversjonsritual i Gluckmanns forstand og en heterotop i Foucaults forstand ... » (Runar Døving, «Stedet Syden», _Norsk Antropologisk Tidsskrift_ 1/2011, s. 25).
