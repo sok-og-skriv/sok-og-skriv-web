@@ -197,7 +197,7 @@ Legges inn som "Book".
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
 
 ::: 
-::::
+:::
 
 ### Verk utgitt på nytt
 Et gjenutgitt verk er et verk som har gått ut av trykk (eller ikke lenger er tilgjengelig) og siden publisert på nytt, noe er som vanlig for eldre verk. Når du henviser til et gjenutgitt verk (f.eks. et verk gjenutgitt i form av en tekstsamling eller antologi), før opp informasjonen om den nye publikasjonen som du har brukt, etterfulgt av det opprinnelige utgivelsesåret i slutten av referansen
@@ -213,7 +213,7 @@ Legges inn som "Book".
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
 
 ::: 
-::::
+:::
 
 ## Artikler 
 
@@ -447,9 +447,9 @@ Dersom du henviser til trykt utgave, utgår url.
 
 ::: details I EndNote
 
-Legges inn som "Report" eller "Government Document".
+Legges inn som "Government Document".
 
-Fyll ut feltene: Author (med et komma etter meldingsnummer), Year, Title, Report Number, URL.
+Fyll ut feltene: Author (med et komma etter meldingsnummer), Year, Title, Department, URL.
 ::: 
 :::: 
 
@@ -479,7 +479,6 @@ Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.m
 :::: ref
 <span class="ref">NOU årstall: nummer. (Utgivelsesår). _Tittel_. Departement.</span>
 
-Dersom du henviser til trykt utgave skal utgiver være med. Dersom du viser til elektronisk utgave skal du ikke ta med utgiver, men ta med lenke.
 
 <span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Sosial- og helsedepartementet.</span>
 
@@ -492,13 +491,15 @@ Elektronisk utgave: Legges inn som "Electronic Book".
 Trykt utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, Publisher.
 
 Elektronisk utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, URL.
+
+OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rettes manuelt i EndNote via "Edit & Manage Citations". Velg Exclude year i nedtrekksmednyen for "Formatting".
 ::: 
 :::: 
 
 ::: details  Flere eksempler
 ... behandling av hjerteinfarkt (NOU 1999: 13, 1999, s. 559).
 
-<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra https://www.regjeringen.no/</span>
+<span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Sosial- og helsedepartementet. https://www.regjeringen.no/</span>
 :::
 
 ### Ramme- og læreplaner
