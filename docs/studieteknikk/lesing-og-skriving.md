@@ -25,7 +25,7 @@ Mens man leser en tekst, hender det at man tenker: «Det var interessant, det vi
 
 Å skrive stikkord, markere og streke under i teksten er en teknikk du kan bruke for å bli en mer aktiv leser. Men vær klar over at en tekst full av understrekninger kan gi et falskt inntrykk av at du har jobbet grundigere med teksten enn du faktisk har. Å streke under er lett; å trekke ut viktig informasjon og viktige poenger og ordne stoffet i egne notater er vanskeligere – men til gjengjeld gir det større utbytte. 
 
-::: tip Skriv notater til det du leser i et eget dokument. 
+::: tip Skriv notater til det du leser i et eget dokument
 Dette vil automatisk få deg til å skrive bedre og mer informative notater enn hvis du bare noterer i selve teksten. Lag gjerne korte sammendrag av det du leser.
 ::: 
 
