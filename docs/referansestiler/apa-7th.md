@@ -432,7 +432,7 @@ _ingen innførsel_
 ### Meldinger og proposisjoner til Stortinget
 
 ::: teksten
-(Meldingsnummer, år-år, eventuelt sidetall)
+(Meldingsnummer (år-år), eventuelt sidetall)
 
 Sammenslåingene ble begrunnet med noe de kalte «en kritisk vurdering av kvalitet» (Meld. St.20 (2009-2010), s. 49).
 :::
@@ -449,7 +449,10 @@ Dersom du henviser til trykt utgave, utgår url.
 
 Legges inn som "Government Document".
 
-Fyll ut feltene: Author (med et komma etter meldingsnummer), Year, Title, Department, URL.
+Fyll ut feltene: Author (Sett inn årstall i parentes etter meldingsnummer og avslutt med komma), Title, Department, URL.
+
+OBS: Author-feltet skal altså se slik ut: Meld.St. 20 (2009-2010),
+
 ::: 
 :::: 
 
