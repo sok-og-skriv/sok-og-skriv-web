@@ -492,7 +492,7 @@ Trykt utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med
 
 Elektronisk utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, URL.
 
-OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rettes manuelt i EndNote via "Edit & Manage Citations". Velg Exclude year i nedtrekksmednyen for "Formatting".
+OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rettes manuelt i EndNote via "Edit & Manage Citations". Velg Exclude year i nedtrekksmenyen for "Formatting".
 ::: 
 :::: 
 
