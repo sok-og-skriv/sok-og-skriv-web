@@ -78,7 +78,7 @@ I de fleste basene kreves det at du søker på engelsk. Hjelp til å finne engel
 Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten. Den brukes i flere helsefaglige databaser. For å være sikker på å finne alle relevante artikler, bør man søke på synonyme termer. Velger du å søke via emneordslisten i en av databasene, som MeSH, vil den automatisk inkludere en del synonymer i søket. Likevel er det nyttig å supplere med søk på tekstord, for eksempel forfatters emneord og sammendraget av artikkelen.
 
 
-::::: eksempel EKSEMPEL: PICO-skjema med forslag til synonymer
+::::: eksempel Eksempel: PICO-skjema med forslag til synonymer
 Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
 
 :::: picoskjema
@@ -115,7 +115,7 @@ Livskvalitet
 
 Alle store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å [kombinere søkene](/soking/soketeknikker.html#kombiner-sokeord "Kombinasjon av søkeord") med AND, OR eller NOT i søkehistorikken.
 
-::: details EKSEMPEL: Systematisk søk presentert via søkehistorikken.
+::: details Eksempel: Systematisk søk presentert via søkehistorikken.
 Her presenteres søkehistorikken til et søk på spørsmål 2: _Hvordan oppleves livskvaliteten til barn og unge som bruker insulinpumpe?_
 
 Søket er tatt i databasen Medline-Ovid 1996 og opp til i dag. Dato for søket: 04.04.14
@@ -165,7 +165,7 @@ Husk at enhver avgrensing kan føre til at du går glipp av sentral informasjon.
 
 Til slutt må du [vurdere](/kjeldebruk/kjeldevurdering.html "Kildevurdering") den enkelte artikkels [kvalitet](/kjeldebruk/kjeldevurdering.html) og [relevans](/kjeldebruk/kjeldevurdering.html#relevans) i forhold til problemstillingen din.
 
-## Dokumentér søket
+## Dokumenter søket
 
 I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Du bør si noe om:
 
@@ -177,6 +177,6 @@ I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, be
 
 [Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
 
-::: tip TIPS
+::: tip Tips
 Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
 :::
