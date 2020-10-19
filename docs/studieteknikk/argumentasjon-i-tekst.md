@@ -18,7 +18,7 @@ tabs:
 
 Utsagnet som binder sammen synspunkt og argument gjør at vi skjønner hvorfor argumentet fungerer. Utsagnet er et argument for at synspunkt og argument henger sammen.
 
-::: eksempel EKSEMPEL  
+::: eksempel Eksempel
 "Det er din tur til å lage middag i dag. Jeg laget middag i går."  
 Motargumentasjon: "Det er du som lager middag denne uken. Jeg har eksamen neste uke. Det avtalte vi jo."
 :::
