@@ -37,7 +37,7 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
 :::
 
-## Bøker
+## Eksempler
 
 ### Bok
 
@@ -52,12 +52,14 @@ _Eksempel_
 ... (Gullestad & Killingmo, 2013, s. 35)
 
 **Tre til 21 forfattere:**
+
 (Første forfatters etternavn et al., årstall, evt. sidetall)
 NB! I referanselisten skal alle forfatterene listes opp.
 
 ... (Retterstøl et al., 2002)
 
 **Flere enn 21 forfattere:**
+
 (Første forfatters etternavn et al., årstall, evt. sidetall)
 NB! I referanselisten tar du med de 19 første forfatterene etterfulgt av utelatelsetegn (...), og deretter siste forfatter.
 
@@ -271,7 +273,7 @@ Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Ti
 ::: 
 :::: 
 
-### Artikler fra leksikon 
+### Artikler fra leksikon/oppslagsverk 
 
 ::: teksten 
 (forfatter, år)
@@ -282,6 +284,7 @@ Om artikkelen ikke har forfatter:
 ("artikkelens tittel")
 
 ... ("Lindeberg stasjon", 2017).
+... (10.utg.; ICD-10; World Health Organization, 2020).
 :::
 
 
@@ -296,6 +299,8 @@ Om artikkelen ikke har forfatter:
 
 <span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. 
     https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+
+<span class="ref">World Health Organization. (2020). F40: Fobiske angstlidelser. I Den                      internasjonale statiske klassifikasjonen av sykdommer og beslektede sykdommer(10. utg.). Direktoratet for e-helse. https://finnkode.ehelse.no/#icd10/0/0/0/2599502</span>
 
 ::: details I Endnote
 
@@ -586,6 +591,7 @@ For statistikker må du redegjøre for hvilke søk du har gjort, og hvordan du o
 
 ::: teksten
 ... (Statistisk sentralbyrå, 2017) 
+
 ... (Sundstøl, 2018)
 :::
 
