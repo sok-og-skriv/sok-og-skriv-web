@@ -57,7 +57,7 @@ NB! I referanselisten skal alle forfatterene listes opp.
 
 ... (Retterstøl et al., 2002)
 
-** Flere enn 21 forfattere:**
+**Flere enn 21 forfattere:**
 (Første forfatters etternavn et al., årstall, evt. sidetall)
 NB! I referanselisten tar du med de 19 første forfatterene etterfulgt av utelatelsetegn (...), og deretter siste forfatter.
 
