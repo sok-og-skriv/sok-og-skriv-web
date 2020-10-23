@@ -54,6 +54,7 @@ _Eksempel_
 **Tre til 21 forfattere:**
 
 (Første forfatters etternavn et al., årstall, evt. sidetall)
+
 NB! I referanselisten skal alle forfatterene listes opp.
 
 ... (Retterstøl et al., 2002)
@@ -61,6 +62,7 @@ NB! I referanselisten skal alle forfatterene listes opp.
 **Flere enn 21 forfattere:**
 
 (Første forfatters etternavn et al., årstall, evt. sidetall)
+
 NB! I referanselisten tar du med de 19 første forfatterene etterfulgt av utelatelsetegn (...), og deretter siste forfatter.
 
 ... (Adam et al., 2017, s. 99)
@@ -284,6 +286,7 @@ Om artikkelen ikke har forfatter:
 ("artikkelens tittel")
 
 ... ("Lindeberg stasjon", 2017).
+
 ... (10.utg.; ICD-10; World Health Organization, 2020).
 :::
 
