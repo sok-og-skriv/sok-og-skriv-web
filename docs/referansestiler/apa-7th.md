@@ -9,19 +9,15 @@ APA står for American Psychological Association. Foreningen har utviklet en typ
 
 ## Henvisninger i teksten 
 
-I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Dersom det er tre eller flere forfattere oppgis  førsteforfatter et al. (= og andre). Henvisning til flere kilder i samme parentes skilles med semikolon. Merk at &-tegnet kun brukes i parenteser og referanseliste. I teksten brukes «og».
+I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Henvisning til flere kilder i samme parentes skilles med semikolon. Merk at &-tegnet kun brukes i parenteser og referanseliste. I teksten brukes «og».
+
+Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat).
 
 ::: tip Eksempel med flere kilder  
 
 Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barry, 2015; Lafferty & Langhelle, 1995; Sterling, 2009). 
 
 ::: 
-
-Se flere eksempler nedenfor. 
-
-## Sitat 
-
-Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat).
 
 ## Referanselisten
 
@@ -47,23 +43,25 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 
 ::: teksten
 
-**Bok med én forfatter:** 
+**Bok med én eller to forfatter(-e):** 
 
 (Etternavn, årstall, evt. sidetall)
 
 _Eksempel_
 ... (Sterling, 2009, s. 10)
-
-**To forfattere:**  
-(Etternavn & Etternavn, årstall, evt. sidetall)  
-
 ... (Gullestad & Killingmo, 2013, s. 35)
 
-**Tre eller flere forfattere:**
+**Tre til 21 forfattere:**
 (Første forfatters etternavn et al., årstall, evt. sidetall)
+NB! I referanselisten skal alle forfatterene listes opp.
 
 ... (Retterstøl et al., 2002)
 
+** Flere enn 21 forfattere:**
+(Første forfatters etternavn et al., årstall, evt. sidetall)
+NB! I referanselisten tar du med de 19 første forfatterene etterfulgt av utelatelsetegn (...), og deretter siste forfatter.
+
+... (Adam et al., 2017, s. 99)
 :::
 
 :::: ref
@@ -102,7 +100,7 @@ En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx).  Forlag.</span>
+<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
 
