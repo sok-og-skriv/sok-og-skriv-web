@@ -75,7 +75,7 @@ Medical Subject Headings (MeSH) is the most well-known subject-related wordlist 
 
 To make sure to find all relevant articles, one should include synonyms for each keyword in the searching. If you chose to search via a subject-related wordlist in a database (for example MeSH), it will automatically include some of the synonyms in the search. Nevertheless, it is useful to supplement the search with words picked out from the author's keywords or from the article’s abstract.
 
-::::: eksempel EXAMPLE: PICO-form with synonym suggestions
+::::: eksempel Example: PICO-form with synonym suggestions
 
 Below you can see a filled out PICO-form with synonym suggestions connected to question 2:
 

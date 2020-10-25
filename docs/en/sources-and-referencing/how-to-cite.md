@@ -89,7 +89,7 @@ In case of errata in the original, this can be marked by the Latin \[_sic_\], wh
 ### Secondary references
 As a rule, you should only cite from works that you have read. However, if the original source is not available, or is written in a language that you do not understand, you can refer to others’ use of it:
 
-::: eksempel EXAMPLE
+::: eksempel Example
 
 Beck and Beck-Gemsheim referenced in Kloster (2003, p.4) talk about three stages that women and men have gone through in the move from a traditional to a modern society.
 There are three stages that the relationship between women and men have gone through in the move from a traditional to a modern society (Beck & Beck-Gemsheim in Kloster, 2003, p.4).
