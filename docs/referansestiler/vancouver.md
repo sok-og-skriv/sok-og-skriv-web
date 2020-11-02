@@ -156,9 +156,9 @@ I henhold til Kreftregisterets oversikt (6).
 
 :::: ref
 
-Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[hentet år-måned-dag\].Tilgjengelig fra: URL
+Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[oppdatert år-måned-dag; hentet år-måned-dag\].Tilgjengelig fra: URL
 
-6\. Kreftregisteret. Kreft i Norge \[Internett\]. Dato \[hentet 2020-07-01\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/](https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/).
+6\. Kreftregisteret. Kreft i Norge \[Internett\]. \[oppdatert 2019-10-24; hentet 2020-07-01\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/](https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/).
 
 ::: details I EndNote 
 
@@ -185,9 +185,9 @@ De fleste reisende bruker bil (7) når de skal...
 :::
 
 :::: ref
-Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Publiseringsdato \[Oppdatert: Oppdateringsdato. Lest: Lesedato\]. Tilgjengelig fra: URL
+Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Publiseringsdato \[Oppdatert: Oppdateringsdato. Hentet: Lesedato\]. Tilgjengelig fra: URL
 
-7. Lund V. Åtte av ti reiser med bil. [Internett]. Oslo: Statistisk sentralbyrå; 26. september 2018 [oppdatert 26. 09. 2018; lest 31.03. 2020]. Tilgjengelig fra: https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil
+7. Lund V. Åtte av ti reiser med bil. [Internett]. Oslo: Statistisk sentralbyrå; 26. september 2018 [oppdatert 26. 09. 2018; hentet 31.03. 2020]. Tilgjengelig fra: https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil
 
 :::
 
@@ -446,12 +446,12 @@ Tekst (nummer)
 
 Med forfatter:
 
-Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel på oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Lest: Lesedato). Tilgjengelig fra: URL.
+Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel på oppslagsverk. Utgiversted: Utgiver; Publiseringsdato. (Oppdatert: Oppdateringsdato; Hentet: Lesedato). Tilgjengelig fra: URL.
 
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
-5\.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; lest 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+5\.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; hentet 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
 
 6\. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
  
