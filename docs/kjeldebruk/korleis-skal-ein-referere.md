@@ -81,10 +81,8 @@ Den akademiske sjangeren kjennetegnes av drøfting, og alle studenter innenfor s
 Hovudregelen er at du kun skal vise til verk du har lese. Om originalkjelda ikkje er tilgjengeleg, eller er på språk du ikkje forstår, kan du vise til andre si omtale av kjelda:
 
 ::: eksempel Eksempel
-Beck og Beck-Gemsheim (2001) referert i Kloster (2003, s. 4) snakker om tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet.
 
-Det er tre stadier forholdet mellom kvinner og menn har gått gjennom i bevegelsen fra det tradisjonelle til det moderne samfunnet (Beck & Beck-Gemsheim, 2001, i Kloster, 2003, s. 4).
-
+"Det er ikke tilfeldig at det moderne menneske skriver 'med' en maskin" (Martin Heidegger, i Johansen, 2003, s. 80).
 :::
 
 ## Notar og vedlegg
