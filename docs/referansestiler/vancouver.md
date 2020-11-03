@@ -8,7 +8,7 @@ date: "2012-09-18"
 Vancouverstilen er en numerisk stil som er vanlig innenfor medisin, helsefag og naturvitenskapelige fag.
 
 ::: eksempel Kilde
-Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2015-10-02; hentet 2020-03-25]. Tilgjengelig fra: [http://www.nlm.nih.gov/citingmedicine](http://www.nlm.nih.gov/citingmedicine). 
+Eksemplene under er i hovedsak basert på Patrias K. Citing medicine: the NLM style guide for authors, editors, and publishers [Internet]. 2nd ed. Wendling DL, technical editor. Bethesda (MD): National Library of Medicine (US); 2007 [oppdatert 2. feb 2015; hentet 25. mars 2020]. Tilgjengelig fra: [http://www.nlm.nih.gov/citingmedicine](http://www.nlm.nih.gov/citingmedicine). 
 ::: 
 
 
@@ -156,9 +156,9 @@ I henhold til Kreftregisterets oversikt (6).
 
 :::: ref
 
-Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[oppdatert år-måned-dag; hentet år-måned-dag\].Tilgjengelig fra: URL
+Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[oppdatert dag, måned årstall; hentet dag, måned årstall\].Tilgjengelig fra: URL
 
-6\. Kreftregisteret. Kreft i Norge \[Internett\]. \[oppdatert 2019-10-24; hentet 2020-07-01\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/](https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/).
+6\. Kreftregisteret. Kreft i Norge \[Internett\]. \[oppdatert 24. okt 2019; hentet 1. jan 2020\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/](https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/).
 
 ::: details I EndNote 
 
@@ -187,7 +187,7 @@ De fleste reisende bruker bil (7) når de skal...
 :::: ref
 Nummer. Forfatter AA. Tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Publiseringsdato \[Oppdatert: Oppdateringsdato. Hentet: Lesedato\]. Tilgjengelig fra: URL
 
-7. Lund V. Åtte av ti reiser med bil. [Internett]. Oslo: Statistisk sentralbyrå; 26. september 2018 [oppdatert 26. 09. 2018; hentet 31.03. 2020]. Tilgjengelig fra: https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil
+7. Lund V. Åtte av ti reiser med bil. [Internett]. Oslo: Statistisk sentralbyrå; 26. september 2018 [oppdatert 26. sep 2018; hentet 31. mars 2020]. Tilgjengelig fra: https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil
 
 :::
 
@@ -336,12 +336,12 @@ Tekst (nummer)
 ::: 
 
 :::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet Årstall-Måned-Dag]: [Antall sider]. Tilgjengelig fra: URL/DOI/Handle
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet dato]: [Antall sider]. Tilgjengelig fra: URL/DOI/Handle
 
 
-11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 2020-03-30]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
+11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 30. mar 2020]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
 
-12. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 2020-03-30]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
+12. Whittaker C, Slater H, Bousema T, Drakeley C, Ghani A, Okell L. Global & Temporal Patterns of Submicroscopic Plasmodium falciparum Malaria Infection. bioRxiv 554311 [Preprint]. 2020 [hentet 3. mar 2020]: [17 s.]. Tilgjengelig fra: doi: https://doi.org/10.1101/554311
 
 ::: details I EndNote 
 
@@ -396,7 +396,7 @@ Tekst (nummer)
 :::: ref 
 (Nummer). Oppfinner(e). Organisasjon. Patent tittel. [Internett]. Land eller Region. Patent nummer. Dato og år [hentet dato]. Tilgjengelig fra: http://...
 
-(1) Clarke J, Pines A, McDermott RF, Trabesinger AH, inventors. University of California, assignee. SQUID detected NMR and MRI at ultralow fields. European Patent 1474707. 2004-11-10. [hentet dato]. Tilgjengelig fra: http://...
+(1) Clarke J, Pines A, McDermott RF, Trabesinger AH, inventors. University of California, assignee. SQUID detected NMR and MRI at ultralow fields. European Patent 1474707. 10. nov 2004. [hentet dato]. Tilgjengelig fra: http://...
 
 ... 
 
@@ -417,7 +417,7 @@ Kliniske retningslinjer publiseres i ulike formater. Velger derfor referansetype
 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC ELLER Organisasjonsnavn. Tittel: undertittel. Utgiver: Utgiversted; Publiseringsdato. [Oppdateringsdato. Lesedato]. Tilgjengelig fra: URL
 
-Helsedirektoratet. Forebygging av hjerte- og karsykdom: nasjonal faglig retningslinje. Oslo: Helsedirektoratet; 2017 [Oppdatert: 05. mars 2018. Hentet 22. april. 2020]. Tilgjengelig fra: https://www.helsedirektoratet.no/retningslinjer/forebygging-av-hjerte-og-karsykdom 
+Helsedirektoratet. Forebygging av hjerte- og karsykdom: nasjonal faglig retningslinje. Oslo: Helsedirektoratet; 2017 [Oppdatert: 5. mar 2018. Hentet 22. april 2020]. Tilgjengelig fra: https://www.helsedirektoratet.no/retningslinjer/forebygging-av-hjerte-og-karsykdom 
 
 #### Retningslinje publisert som rapport 
 
@@ -451,7 +451,7 @@ Nummer. Forfatter AA, Forfatter BB. Artikkeltittel. I: Tittel på oppslagsverk. 
 Eller: 
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Innførselstittel. I: Tittel på oppslagsverk. Utgave (hvis relevant). Bindnummer. Utgivelsessted: Utgiver; Årstall. s. xxx-x.
 
-5\.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; hentet 2020 03-31]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
+5\.Klein J, Dalgard O, Jensen HLB. Koronavirus. : Store Norske Leksikon. Oslo: Store norske leksikon; 2020 [oppdatert 2020-03-20; hentet 31. mar 2020]. Tilgjengelig fra: https://sml.snl.no/koronavirus.
 
 6\. Sandvig, K. Syn. I: Store medisinske leksikon. Bind 5. Oslo: Kunnskapsforlaget; 1999. s. 54-8.
  
@@ -489,11 +489,11 @@ Tekst (nummer)
 ::: 
 
 :::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn til klinisk oppslagsverk [database]. Utgivelsessted: Utgiver. [oppdatert Årstall-Måned-Dag; hentet Årstall-Måned-Dag].
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Navn på klinisk oppslagsverk [database]. Utgivelsessted: Utgiver. [oppdatert dato; hentet dato].
 
-15. Bartlett JG. Diagnostic approach to community-acquired pneumonia in adults. UpToDate [database]. Waltham, MA: UpToDate, Inc. [oppdatert 2019-12-02; hentet 2020-03-30].
+15. Bartlett JG. Diagnostic approach to community-acquired pneumonia in adults. UpToDate [database]. Waltham, MA: UpToDate, Inc. [oppdatert 2. des 2019; hentet 30. mar 2020].
 
-15. Penaloza RS, Tanaka DJ, Druck J. Assessment of neck pain. BMJ Best Practice [database]. London: BMJ Publishing group. [oppdatert 2020-mars; hentet 2020-03-30].
+15. Penaloza RS, Tanaka DJ, Druck J. Assessment of neck pain. BMJ Best Practice [database]. London: BMJ Publishing group. [oppdatert mar 2020; hentet 30. mar 2020].
 
 ::: details I EndNote
 
@@ -558,6 +558,4 @@ Blogginnlegg? Se [VIKO](https://www.ntnu.no/viko/vancouver-eksempler)
 ## Sitater 
 
 Direkte sitater må være ordrett gjengitt og henvises med sidetall. Sitater som er tre linjer eller kortere skrives direkte inn i teksten og markeres med anførselstegn. Sitater lengre enn tre linjer skrives i et eget avsnitt med innrykk. Her brukes det ikke anførselstegn.
-
-
 
