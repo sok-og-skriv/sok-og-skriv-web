@@ -26,3 +26,49 @@ Redigeringen kan skje på mange måter, men for å gjøre det mindre sannsynlig 
 7. Du kan sjekke en forhåndsvisning ved å se etter en kommentar. Det kan ta litt tid før denne dukker opp.
 8. Ser det bra ut, kan du klikke `Resolve WIP status` og vente noen sekunder. Klikk "Merge" når den dukker opp.
 9. Etter noen minutter vil `sokogskriv.no` bli oppdatert. Om endringene ikke vises, mår du kanskje tvinge en innlasting av nettsiden på nytt. `Ctrl+Shift-F5` på Windows og `Ctrl+Shift-R` på Mac.
+
+## Hvordan lage nye sider
+
+### Ny fil i WebIDE
+
+<Figure
+  src="/images/sos-ny-side.png"
+  alt="Lage ny side"
+  caption="Start med å legge til en fil i den mappen/sporet den skal være."
+  type=""
+/>
+
+### Filnavn
+<Figure
+  src="/images/sos-gi-filnavn.png"
+  alt="Lag filnavn"
+  caption="Gi den et tipp-topp navn."
+  type=""
+/>
+
+### Nye fil, ny "frontmatter"
+
+<Figure
+  src="/images/sos-nyside-markup.png"
+  alt="Legg til nødvendig metadata"
+  caption='Legg til nødvendig markdown, kalt *frontmatter*, for at Vuepress skal vite hva den skal gjøre med siden. Merk at dersom man legger til en side og det er med "next" i toppen, må man gå igjennom de andre sidene slik at rekkefølge blir korrekt. "next" brukes til å lage lenken i bunnen av en side.'
+  type=""
+/>
+
+### Legg til i sidemeny
+
+<Figure
+  src="/images/sos-legg-i-sidebar.png"
+  alt="Legg siden i sidemenyen"
+  caption='Dersom siden skal inn i sidemenyen, må du legge den til i "docs/.vuepress/sidebarNO.js" eller "docs/.vuepress/sidebarEN.js".'
+  type=""
+/>
+
+### Endring av hoved-navigasjonsmeny
+
+<Figure
+  src="/images/sos-endre-nav.png"
+  alt="Endring i navigasjonsmenu"
+  caption='Skulle man trenge å endre i hoved-navigasjonsmenyen, kan det gjøres i "docs/.vuepress/config.js". Eller be webmaster gjøre det :-).'
+  type=""
+/>
