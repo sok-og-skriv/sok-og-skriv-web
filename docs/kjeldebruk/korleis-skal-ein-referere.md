@@ -4,18 +4,18 @@ date: "2012-05-15"
 ---
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av kva referansestil du nytter. I nokre fag står du fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil er det viktig at du følger denne konsekvent.
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nytter. I nokre fag står du fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil er det viktig at du følger denne konsekvent.
 
 
-På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago, forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
+På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
 
 ## Kva skal refererast?
 
-For alt fagleg innhald som ikkje bygger på eige materiale, eigne resonnement eller meiningar, skal kjelde oppgis i teksten og referanselista. Dette kan for eksempel være andres meiningar og vurderingar, argument, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabeller, lyd og bilde, og at bruk av slikt materiale har ei [opphavsrettslig](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) side.
+For alt fagleg innhald som ikkje bygger på eige materiale, eigne resonnement eller meiningar, skal kjelde oppgis i teksten og i referanselista. Dette kan for eksempel vere andres argument, meiningar og vurderingar, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabellar, lyd og bilete, og at bruk av slikt materiale har ei [opphavsrettslig](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) side.
 
 ### Allmenne sanningar
 
-Allmenne saningar treng ikkje referanse, som for eksempel:
+Allmenne sanningar treng ikkje referanse, som for eksempel:
 
 > Den 17. mai 1814 skreiv samtlige representantar på Eidsvoll under på ei ny grunnlov for den sjølvstendige staten Norge, og dei tok Christian Frederik til konge.
 
@@ -25,9 +25,9 @@ Det kan være vanskelig å vurdere kor langt dokumentasjonskravet skal gå. Ukon
 
 ### Forelesingar
 
-Dine eigne forelesningsnotat reknast ikkje som kjelde, og skal ikkje visast til i ei oppåave. Du kan sjølvsagt bruke forelesningsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjøre det til ditt eige.
+Dine eigne forelesningsnotat reknast ikkje som kjelde, og skal ikkje visast til i ei oppgåve. Du kan sjølvsagt bruke forelesningsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjere det til ditt eige.
 
-Hvis forelesaren har offentleggjort forelesningsnotater/handouts/powerpoint-presentasjoner elektronisk, kan du sitere disse og henvise til nettsiden du har lest på. Les nøye: har forelesaren oppgitt sine kjelder?
+Hvis forelesaren har offentleggjort forelesningsnotater/handouts/powerpoint-presentasjoner elektronisk, _kan_ du sitere disse og vise til nettstaden du har lese på. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har forelesaren oppgitt sine kjelder?
 
 
 
