@@ -72,7 +72,8 @@ Sjå på teksten i lys av andre tekstar. Still følgjande spørsmål:
 
 ::: tip Tips 
 I denne filmen kan du lære meir om kjeldevurdering og -kritikk
-📺  
+
+docs/video/KILDEKRITIKK.mp4 
 
 ::: 
 
