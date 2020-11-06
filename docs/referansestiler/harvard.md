@@ -10,7 +10,7 @@ Pears, R. og Shields, G. (2019) _Cite them right_. 11. utg. London: Red Globe Pr
 
 Enkelte fag, som for eksempel biologi, inkluderer sidetall kun ved direkte sitat og ikke etter parafrasering. Det er derfor viktig å undersøke refereringspraksis for ditt fag. For andre varianter av parentesreferanser se [APA](/referansestiler/apa-7th.html), [Chicago](/referansestiler/chicago-forfatter-aar.html) og [MLA](/referansestiler/mla.html).
 
-Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat) og/eller se eksemplene nedenfor.
+Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html) og/eller se eksemplene nedenfor.
 
 ## Referanselisten
 
