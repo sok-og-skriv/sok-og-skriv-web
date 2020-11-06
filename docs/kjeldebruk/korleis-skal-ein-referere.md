@@ -11,23 +11,23 @@ På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.htm
 
 ## Kva skal refererast?
 
-Alle faglige argumenter som ikkje bygger på eige materiale, egne resonnement og meiningar, skal refereres i teksten og visast til i referanselista. Dette kan for eksempel være andres meiningar og vurderingar, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabeller, lyd og bilde, og at bruk av slikt materiale har ei [opphavsrettslig](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) side.
+For alt fagleg innhald som ikkje bygger på eige materiale, eigne resonnement eller meiningar, skal kjelde oppgis i teksten og referanselista. Dette kan for eksempel være andres meiningar og vurderingar, argument, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabeller, lyd og bilde, og at bruk av slikt materiale har ei [opphavsrettslig](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) side.
 
 ### Allmenne sanningar
 
 Allmenne saningar treng ikkje referanse, som for eksempel:
 
-> Den 17. mai 1814 skreiv samtlige representantar på Eidsvoll under på ei ny grunnlov for den sjølvstendige staten Norge, og dei valgte Christian Frederik til konge.
+> Den 17. mai 1814 skreiv samtlige representantar på Eidsvoll under på ei ny grunnlov for den sjølvstendige staten Norge, og dei tok Christian Frederik til konge.
 
 Skriv du derimot om noko som ikkje er allment kjend, må du oppgi kvar du hentar opplysningane frå.
 
-Det kan være vanskelig å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstander som er del kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør din veileder. Da unngår du å bli mistenkt for [plagiering](/kildebruk-og-referanser/sitering-og-etikk/#Plagiering).
+Det kan være vanskelig å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er del kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør din veileder. Da unngår du å bli mistenkt for [plagiering](/kildebruk-og-referanser/sitering-og-etikk/#Plagiering).
 
 ### Forelesingar
 
-Dine eigne notater fra forelesninger rekes ikkje som kjelde, og skal ikke visast til i ei oppåave. Du kan sjølvsagt bruke forelesningsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjøre det til ditt eige.
+Dine eigne forelesningsnotat reknast ikkje som kjelde, og skal ikkje visast til i ei oppåave. Du kan sjølvsagt bruke forelesningsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjøre det til ditt eige.
 
-Hvis forelesaren har offentliggjort forelesningsnotater/handouts/powerpoint-presentasjoner elektronisk kan du sitere disse og henvise til nettsiden du har lest på. Les nøye: har forelesaren oppgitt sine kjelder?
+Hvis forelesaren har offentleggjort forelesningsnotater/handouts/powerpoint-presentasjoner elektronisk, kan du sitere disse og henvise til nettsiden du har lest på. Les nøye: har forelesaren oppgitt sine kjelder?
 
 
 
