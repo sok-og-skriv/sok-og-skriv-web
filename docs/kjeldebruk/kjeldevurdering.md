@@ -2,6 +2,10 @@
 title: "Kjeldevurdering"
 date: "2020-04-28"
 next: "../referansestiler/"
+tags: 
+  - "kildebruk"
+  - "kildevurdering"
+  - "kildekritikk"
 ---
 # Kjeldevurdering
 Når du har funne ei kjelde må du vurdere om denne er god og relevant for ditt arbeid. For å vurdere om ei kjelde er god, må du ta omsyn til fleire faktorar: Kva type kjelde er det? Er kjelda truverdig? Kven står som ansvarleg? Andre spørsmål du bør stille deg er kven kjelda er produsert for, korleis ho refererer til andre og tidspunktet for publisering. For å vurdere i kva grad kjelda er relevant for deg, kan det vere nyttig å analysere teksten nærare: Kva er det teksten ønskjer å formidle? Kva er bodskapen til kjelda?
@@ -59,12 +63,18 @@ Det dreier seg om å finne ut kva forfattaren ønskjer å formidle til deg som l
 - Korleis blir du som lesar vekka? Kva eksempel vel forfattaren å vise fram? Er de morosame? Urovekkjande eller opplysande?  
 - Kva haldning har forfattaren til stoffet som blir presentert? Korleis blir du som lesar inkludert? Er det eit engasjement som smitter over på lesaren? Korleis er tonen i teksten? 
 
-### Korleis forheld teksten seg til andre tekstar?
+### Korleis stiller teksten seg til andre tekstar?
 
 Sjå på teksten i lys av andre tekstar. Still følgjande spørsmål:
 
 - Kva er teksten eit svar på/ein utfordring til?
 - Er teksten prega av andre tekstar i samtida?
+
+::: tip Tips 
+I denne filmen kan du lære meir om kjeldevurdering og -kritikk
+📺  
+
+::: 
 
 
 # Øving: Er desse tre gode kjelder? 
