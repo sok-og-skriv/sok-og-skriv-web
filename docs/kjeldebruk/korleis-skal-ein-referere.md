@@ -6,12 +6,12 @@ date: "2012-05-15"
 
 Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nytter. I nokre fag står du fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil er det viktig at du følger denne konsekvent.
 
-
 På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
+
 
 ## Kva skal refererast?
 
-For alt fagleg innhald som ikkje bygger på eige materiale, eigne resonnement eller meiningar, skal kjelde oppgis i teksten og i referanselista. Dette kan for eksempel vere andres argument, meiningar og vurderingar, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabellar, lyd og bilete, og at bruk av slikt materiale har ei [opphavsrettslig](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) side.
+For alt fagleg innhald som ikkje bygger på eige materiale, eigne resonnement eller meiningar, skal kjelde oppgis i teksten og i referanselista. Dette kan for eksempel vere andres argument, meiningar og vurderingar, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabellar, lyd og bilete, og at bruk av slikt materiale er knytta til opphavsrett.
 
 ### Allmenne sanningar
 
