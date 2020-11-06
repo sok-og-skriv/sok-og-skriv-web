@@ -153,7 +153,7 @@ En del materiale kan legges som vedlegg, for eksempel intervjuguide, samtykkeskj
 Alle kildene som er brukt, skal vanligvis oppgis i samme referanseliste og ordnes alfabetisk. Hvis det er flere innførsler med samme forfatter, og du bruker en forfatter-årstall-stil (som APA eller Harvard), ordnes de kronologisk i stigende rekkefølge (eldste først). Referanser med samme årstall markeres da med a, b, c osv. I de aller fleste fag ligger alle typer kilde i samme referanseliste, men det kan være aktuelt å skille mellom primær- og sekundærkilder i enkelte historiske emner.
 
 ::: tip Tips: 
-Hvis du velger å bruke et referansehåndteringsverktøy som Endnote, bør du ha relativt gode dataferdigheter. Det er fullt mulig å skrive en oppgave eller artikkel uten. Referanser kan enkelt kopieres fra Oria eller Google Scholar, men pass da på å sjekke at de er fullstendige. 
+Det er fullt mulig å skrive en oppgave eller artikkel uten å bruke et referansehåndteringsverktøy. Referanser kan enkelt kopieres fra Oria, Google Scholar eller fra tidsskriftets hjemmeside. Pass på å sjekke at de er fullstendige og at eventuell kursiv følger med. Se etter anførselstegn:
 
 <List
   image="/images/scholar-cite.svg"
