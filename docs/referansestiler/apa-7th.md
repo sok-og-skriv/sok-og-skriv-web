@@ -222,6 +222,10 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ### Artikkel i tidsskrift (trykt og elektronisk)
 
 ::: teksten
+
+
+**Artikkel med én eller to forfatter(-e):** 
+
 (Forfatter, årstall, eventuelt sidetall)
 
 ... langtidsvirkninger av vold (Huang & Mossige, 2012, s. 150).
