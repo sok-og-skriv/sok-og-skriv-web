@@ -18,7 +18,7 @@ På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.htm
 
 For alt fagleg innhald som ikkje byggjer på eige materiale, eigne resonnement eller meiningar, skal ein oppgi kjelde i teksten og i referanselista. Dette kan for eksempel vere andre sine argument, meiningar og vurderingar, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabellar, lyd og bilete, og at bruk av slikt materiale er knytt til opphavsrett.
 
-### Allmenne sanningar
+**Allmenne sanningar**
 
 Allmenne sanningar treng ikkje referanse, som for eksempel:
 
@@ -28,16 +28,21 @@ Skriv du derimot om noko som ikkje er allment kjend, må du oppgi kvar du hentar
 
 Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er del kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å plagiere.
 
-### Førelesingar
+**Førelesingar**
 
 Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til i ei oppgåve. Du kan sjølvsagt bruke førelesingsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjere det til ditt eige.
 
 Dersom førelesaren har offentleggjort førelesningsnotat/handouts/powerpoint-presentasjonar elektronisk, _kan_ du sitere desse og vise til nettstaden du har lese på. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder?
 
-::: warning ### Korleis unngå å plagiere? 
+## Korleis unngå å plagiere? 
+
+::: danger 
 
 Det viktigaste er å **aldri klippe og lime utan å oppgi kjelde**. 
-Legg vekk kjelda mens du skriv, så unngår du å bli opphengd i forfattarens skrivemåte. Sjekk så at meiningsinnhaldet stemmer, og oppgi kjelde. Vips, så har du unngått å plagiere!
+
+Legg vekk kjelda mens du skriv, så unngår du å bli opphengd i forfattarens skrivemåte. 
+
+Sjekk så at meiningsinnhaldet stemmer, og oppgi kjelde. Vips, så har du unngått å plagiere!
   
 :::  
 
