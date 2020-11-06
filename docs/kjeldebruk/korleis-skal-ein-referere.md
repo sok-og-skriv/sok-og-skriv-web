@@ -9,11 +9,11 @@ Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av kva ref
 
 På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago, forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
 
-# Kva skal refererast?
+## Kva skal refererast?
 
 Alle faglige argumenter som ikkje bygger på eige materiale, egne resonnement og meiningar, skal refereres i teksten og visast til i referanselista. Dette kan for eksempel være andres meiningar og vurderingar, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabeller, lyd og bilde, og at bruk av slikt materiale har ei [opphavsrettslig](/kildebruk-og-referanser/sitering-og-etikk/opphavsrettslige-forhold/) side.
 
-## Allmenne sanningar
+### Allmenne sanningar
 
 Allmenne saningar treng ikkje referanse, som for eksempel:
 
@@ -23,7 +23,7 @@ Skriv du derimot om noko som ikkje er allment kjend, må du oppgi kvar du hentar
 
 Det kan være vanskelig å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstander som er del kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør din veileder. Da unngår du å bli mistenkt for [plagiering](/kildebruk-og-referanser/sitering-og-etikk/#Plagiering).
 
-## Forelesingar
+### Forelesingar
 
 Dine eigne notater fra forelesninger rekes ikkje som kjelde, og skal ikke visast til i ei oppåave. Du kan sjølvsagt bruke forelesningsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjøre det til ditt eige.
 
@@ -117,8 +117,8 @@ Hovudregelen er at du kun skal vise til verk du har lese. Om originalkjelda ikkj
 
 ## Verktøy for å handtere referanser
 
-For større oppgåver som bacheloroppgåver og masteroppgåver kan du effektivisere arbeidet med referansane dine ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
-Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengelege for alle.
+For større oppgåver som masteroppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
+Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengelege for alle. 
 
 
 ## QUIZ: Kva type kjelde er dette?
