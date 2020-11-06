@@ -225,6 +225,22 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 (Forfatter, årstall, eventuelt sidetall)
 
 ... langtidsvirkninger av vold (Huang & Mossige, 2012, s. 150).
+
+
+**Tre til 21 forfattere:**
+
+(Første forfatters etternavn et al., årstall, evt. sidetall)
+
+NB! I referanselisten skal alle forfatterene listes opp.
+
+
+
+**Flere enn 21 forfattere:**
+
+(Første forfatters etternavn et al., årstall, evt. sidetall)
+
+NB! I referanselisten tar du med de 19 første forfatterene etterfulgt av utelatelsetegn (...), og deretter siste forfatter.
+
 :::
 
 :::: ref
@@ -246,9 +262,7 @@ Elektronisk tidsskrift: Fyll ut feltene Author, Year, Title, Journal, Volume, Is
 
 Oppgi DOI dersom det foreligger. Hvis kildeinformasjon som årgang/volum, hefte/issue eller sidetall ikke er oppgitt, utelates disse fra referansen. 
 
-### Artikler med mange forfattere 
 
-For artikler med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For artikler med 21 eller flere forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 
 ### Artikkel i avis (trykt og elektronisk)
 
