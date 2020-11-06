@@ -18,7 +18,7 @@ God forsking bygger vidare på eksisterande kunnskap; det er dette me kallar kje
 
 # Kvifor skal ein referere til andre sitt arbeid? 
 
-Alle faglege argument som ikkje byggjer på eige materiale eller eigne resonnement, skal visast til i teksten og i referanselista. Dette kan for eksempel vere andre sine meningar, talmateriale, modellar, resultat eller konklusjonar
+Å skrive akademisk er å delta i ein samtale der kjelder viser til andre kjelder. Alle faglege argument som ikkje byggjer på eige materiale eller eigne resonnement, skal visast til i teksten og i referanselista. Dette kan for eksempel vere andre sine meningar, talmateriale, modellar, resultat eller konklusjonar.
 
 Undervegs i oppgåva di skal du nytte kjeldetilvisingar. Kjeldetilvisinga viser lesaren vidare til referanselista, der ein finn fullstendig informasjon om opphavsperson, årstal og utgjevar. Dette gjer det i sin tur mogeleg for lesaren å finne kjelda.
 
