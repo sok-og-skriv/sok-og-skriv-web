@@ -36,13 +36,13 @@ Dersom førelesaren har offentleggjort førelesningsnotat/handouts/powerpoint-pr
 
 ## Korleis unngå å plagiere? 
 
-::: danger 
+::: danger Korleis unngå å plagiere?
 
 Det viktigaste er å **aldri klippe og lime utan å oppgi kjelde**. 
 
-Legg vekk kjelda mens du skriv, så unngår du å bli opphengd i forfattarens skrivemåte. 
+Legg vekk kjelda mens du skriv, så unngår du å bli opphengd i forfattarens skrivemåte. Sjekk så at meiningsinnhaldet stemmer, og oppgi kjelde. 
 
-Sjekk så at meiningsinnhaldet stemmer, og oppgi kjelde. Vips, så har du unngått å plagiere!
+Vips, så har du unngått å plagiere!
   
 :::  
 
