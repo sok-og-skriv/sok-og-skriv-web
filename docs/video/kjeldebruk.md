@@ -1,5 +1,5 @@
 ---
-title: 📺 Kjeldebruk
+title: Kjeldebruk
 ---
 
 # Kjeldebruk
