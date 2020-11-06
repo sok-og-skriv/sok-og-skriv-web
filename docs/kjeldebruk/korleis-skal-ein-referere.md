@@ -1,10 +1,14 @@
 ---
 title: "Korleis skal ein referere?"
 date: "2012-05-15"
+tags: 
+  - "kildebruk"
+  - "henvisning"
+  
 ---
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nytter. I nokre fag står du fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplaner, få vite av faglærarar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil er det viktig at du følger denne konsekvent.
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nytter. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du følger denne konsekvent. Dette gjeld også for engelsk vs. norsk rettskriving og oppsett av dato. 
 
 På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
 
