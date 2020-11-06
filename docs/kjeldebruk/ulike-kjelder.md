@@ -3,7 +3,7 @@ title: "Ulike kjelder"
 date: "2020-04-28"
 ---
 # Ulike kjelder
-Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel frå ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
+Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
 
 ## Kva er formålet med kjelda?
 Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html)som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelder du treng vil avhenge av kva du skriv om og kva du ønskjer å poengtere. 

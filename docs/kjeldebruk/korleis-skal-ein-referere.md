@@ -25,7 +25,7 @@ Allmenne sanningar treng ikkje referanse, som for eksempel:
 
 Skriv du derimot om noko som ikkje er allment kjend, må du oppgi kvar du hentar opplysningane frå.
 
-Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er del kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for plagiering.
+Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er del kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å plagiere.
 
 ### Førelesingar
 
@@ -33,6 +33,7 @@ Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til 
 
 Dersom førelesaren har offentleggjort førelesningsnotat/handouts/powerpoint-presentasjonar elektronisk, _kan_ du sitere desse og vise til nettstaden du har lese på. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder?
 
+## Kva er plagiat? 
 
 
 :::: details Forkortingar
