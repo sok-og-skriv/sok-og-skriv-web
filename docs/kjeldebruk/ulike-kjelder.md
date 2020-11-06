@@ -3,13 +3,13 @@ title: "Ulike kjelder"
 date: "2020-04-28"
 ---
 # Ulike kjelder
-Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap frå ein person med god kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
+Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel frå ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
 
 ## Kva er formålet med kjelda?
-Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html)som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelder du treng vil avhenge av kva du skriv om og kva du ønskjer å poengtere. [Å skrive akademisk](/skriving/akademisk-sprak-og-stil.html) krev at du vurderer informasjon om temaet opp mot kva type kjelde oppgåva di treng. 
+Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html)som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelder du treng vil avhenge av kva du skriv om og kva du ønskjer å poengtere. 
 
 ## Artiklar
-Me skil mellom ulike typar artiklar. Når me skriv om artiklar i denne samanhengen viser me først og fremst til artiklar publisert vitskapelege tidsskrift. Det kan også vere relevant å bruke såkalla fagartiklar, det vil seie artiklar som er skrivne av fagfolk og publisert i seriøse kanalar, men som ikkje oppfyller krava til ein vitskapeleg publikasjon. Avisartiklar og tekst skrive for ulike nettsider kjem ikkje inn under denne kategorien.
+Me skil mellom ulike typar artiklar. Når me skriv om artiklar i denne samanhengen, viser me først og fremst til artiklar publisert i vitskapelege tidsskrift. Det kan også vere relevant å bruke såkalla fagartiklar, det vil seie artiklar som er skrivne av fagfolk og publisert i seriøse kanalar, men som ikkje oppfyller krava til ein vitskapeleg publikasjon. Avisartiklar og tekst skrive for ulike nettsider kjem ikkje inn under denne kategorien.
 
 Ein vitskapeleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn vitskapelege artiklar om ditt tema vil det kunne styrke oppgåva di. Pass på at du alltid [vurderer kjeldene dine fagleg](/kjeldebruk/kjeldevurdering.html).
   
