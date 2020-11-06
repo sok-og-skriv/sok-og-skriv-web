@@ -91,7 +91,7 @@ Vel du å nytte radio- eller TV program som kjelde kan kortare klipp nyttast uta
 ### Bilete frå internett, fotografi, illustrasjonar, biletkunst
 Bilete, illustrasjonar og biletkunst kan somme tider vere aktuelt å nytte. Det kan vere du vil bruke bilete som illustrasjon, eller at bilete i seg sjølv er ei kjelde. Ver merksam på kva reglar som gjeld for gjenbruk. Generelt skal du ikkje nytte andre sine bilete utan tillating frå opphavar. Les meir om kva reglar som [gjeld her](https://delrett.no/nb/artikler/bilder-og-kunst).
 
-### Feltarbeid og anna observasjonsstudiar
+### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 
 <Video id="ktM1r1Ca5Tc" />
