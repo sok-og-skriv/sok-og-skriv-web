@@ -59,13 +59,13 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: teksten
 Tekst (nummer, eventuelt sidetall)
 
-... der disse sykdommene er vanlige (2, s. 53). 
+... ved evaluering av boolske uttrykk (2, s. 54). 
 :::
 
 :::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider. [hentet dato]. Tilgjengelig fra: http://...
 
-2\. Bick J. 101 things you need to know about Internet law [Internett]. New York: Three Rivers Press; 2000 [hentet 30. mars 2004]. Tilgjengelig fra: http://site.ebrary.com/lib/ntnu/
+2\. Langtangen HP. A Primer on Scientific Programming with Python [Internett]. 5. utg. Berlin/Heidelberg: Springer; 2016. 914 s. [hentet 8. november 2020]. Tilgjengelig fra: https://link.springer.com/book/10.1007%2F978-3-662-49887-3
 
 ::: details I EndNote 
 Legges inn som "Electronic Book".
