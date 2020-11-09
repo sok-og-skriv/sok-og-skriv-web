@@ -18,9 +18,9 @@ En referansestil er et standardisert oppsett for hvordan du skal presentere info
 
 Det finnes mange ulike måter å henvise fra kilden brukt i teksten til referanselisten. Dette kan for eksempel være stiler som i teksten oppgir forfatter og årstall, fotnoter eller et nummer for referansen. Hvilken stil du skal bruke er avhengig av faget du studerer. Dette må du avklare med veileder eller faglærer. Hvis ditt fag ikke har en spesiell stil, kan du velge en stil og bruke den konsekvent. 
 
-:::: details Forkortingar ofte brukt på referanselisten
+:::: details Forkortelser ofte brukt på referanselisten
 
-Det blir nytta ein del standardforkortingar ved utforming av referanseliste og kjeldehenvisningar. Nedanfor nemner vi ein del av dei. Hugs at forkorta versjoner av ord alltid skal ha punktum etterpå. 
+Det blir brukt en del standardforkortelser ved utforming av referanseliste og kildehenvisningar. Nedenfor nevner vi en del av dei. Husk at forkortet versjoner av ord alltid skal ha punktum etterpå. 
 
 - **b.** bind. 
 - **anon.** Anonym. Denne nyttes når forfatteren er ukjend. 
