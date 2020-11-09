@@ -40,9 +40,9 @@ Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjo
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Legg vekk kjelda mendan du skriv, so unngår du å bli opphengd i forfattarens skrivemåte. Sjekk deretter at meiningsinnhaldet stemmer, og oppgje kjelde. 
+Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda. 
 
-Vips, so har du unngått å plagiere!
+Vips, så har du unngått å plagiere!
   
 :::  
 
