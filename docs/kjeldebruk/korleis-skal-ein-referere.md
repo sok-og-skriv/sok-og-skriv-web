@@ -22,52 +22,29 @@ For alt fagleg innhald som ikkje byggjer på eige materiale, eigne resonnement e
 
 Allmenne sanningar treng ikkje referanse, som for eksempel:
 
-> Den 17. mai 1814 skreiv samtlige representantar på Eidsvoll under på ei ny grunnlov for den sjølvstendige staten Norge, og dei tok Christian Frederik til konge.
+> Den 17. mai 1814 skreiv samtlege representantar på Eidsvoll under på ei ny grunnlov for den sjølvstendige staten Noreg, og dei tok Christian Frederik til konge.
 
-Skriv du derimot om noko som ikkje er allment kjend, må du oppgi kvar du hentar opplysningane frå.
+Skriv du derimot om noko som ikkje er allment kjend, må du oppgje kvar du hentar opplysningane frå.
 
-Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er del kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å plagiere.
+Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å plagiere.
 
 **Førelesingar**
 
 Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til i ei oppgåve. Du kan sjølvsagt bruke førelesingsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjere det til ditt eige.
 
-Dersom førelesaren har offentleggjort førelesningsnotat/handouts/powerpoint-presentasjonar elektronisk, _kan_ du sitere desse og vise til nettstaden du har lese på. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder?
+Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I so fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
 ## Korleis unngå å plagiere? 
 
 ::: danger Korleis unngå å plagiere?
 
-Det viktigaste er å **aldri klippe og lime utan å oppgi kjelde**. 
+Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Legg vekk kjelda mens du skriv, så unngår du å bli opphengd i forfattarens skrivemåte. Sjekk så at meiningsinnhaldet stemmer, og oppgi kjelde. 
+Legg vekk kjelda mendan du skriv, so unngår du å bli opphengd i forfattarens skrivemåte. Sjekk deretter at meiningsinnhaldet stemmer, og oppgje kjelde. 
 
-Vips, så har du unngått å plagiere!
+Vips, so har du unngått å plagiere!
   
 :::  
-
-
-:::: details Forkortingar
-
-Det blir nytta ein del standardforkortingar ved utforming av referanseliste og kjeldehenvisningar. Nedanfor nemner vi ein del av dei. Hugs at forkorta versjoner av ord alltid skal ha punktum etterpå. 
-
-- **b.** bind. 
-- **anon.** Anonym. Denne nyttes når forfatteren er ukjend. 
-- **ca.** Cirka. Nyttes for omtrentlege tidspunkt. For eksempel ca. 1978. 
-- **et al.** et alii/og andre/med fleire. Nyttes for å forkorte forfatterlista. 
-- **Kap.** Kapittel
-- **red.** Redaktør(er) 
-- **rev. utg.** Revidert utgåve. Nyttes når ein bok er ein revidert utgåve.  
-- **s.** eller *ss.** Side(r)  
-- **Suppl.** supplement. Nyttes for eksempel ved ekstra hefte av tidsskrift.
-- **u.d.** Utan dato. Nyttes ved henvisning til kjelder utan publiseringsdato.
-- **Utg.** Utgåve
-
-:::
-Meir om forkortingar på [Språkrådet](https://www.sprakradet.no/sprakhjelp/Skriveregler/Forkortinger/)
-:::
-
-::::
 
 ## Sitat
 Nokon gonger kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Når du brukar tekst frå andre inn i din eigen er dette å sitere. Det kan vere eit godt grep og eit nyttig tilskot til teksten din, men det gjeld å ha tunga beint i munnen.
