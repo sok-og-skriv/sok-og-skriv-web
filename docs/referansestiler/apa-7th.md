@@ -552,17 +552,6 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 ::: 
 :::: 
 
-::: details Flere eksempler
-Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
-
-<span class="ref">Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05).[https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)</span>
-
----
-
-I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
-
-<span class="ref">Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan</span>
-:::
 
 ## Andre kildetyper
 
