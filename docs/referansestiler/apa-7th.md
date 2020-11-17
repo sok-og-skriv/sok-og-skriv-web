@@ -565,7 +565,7 @@ Elektronisk:
 <span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). Tittel (seriekode/Rapportnavn og -nr).
 https://xxxxx
 
-:::: ref
+
 Trykt:
 <span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). Tittel (seriekode/Rapportnavn og -nr). Utgiver.</span>
 
@@ -590,6 +590,8 @@ Legges inn som "Report"
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Report number (Her skriver du inn hele serieopplysningen),Publisher, URL
 
 Merknad: Dersom du ikke har URL, erstattes den med Publisher.
+
+:::
 
 
 
