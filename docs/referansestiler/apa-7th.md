@@ -552,6 +552,47 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 ::: 
 :::: 
 
+### Rapporter
+
+::: teksten
+(Forfatter, årstall, eventuelt sidetall)
+
+(Nordisk ministerråd, 2009)
+:::
+
+:::: ref
+Elektronisk:
+<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). Tittel (seriekode/Rapportnavn og -nr).
+https://xxxxx
+
+:::: ref
+Trykt:
+<span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). Tittel (seriekode/Rapportnavn og -nr). Utgiver.</span>
+
+<span class="ref">Bergan, M. A. (2017). _Fiskebiologiske undersøkelser i
+Balsnesvassdraget på Ørland i 2017:
+Ungfisktellinger og problemkartlegging knyttet til
+fiskeforsterkende tiltak og sjøørret_ (NINA Rapport
+1392). http://hdl.handle.net/11250/2485755</span>
+
+:::: 
+
+::: details Flere eksempler
+...(Hansen & Slagsvold, 2013, s. 8)
+
+<span class="ref">Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra https://www.nova.no/</span>
+:::
+
+::: details I EndNote
+
+Legges inn som "Report"
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Report number (Her skriver du inn hele serieopplysningen),Publisher, URL
+
+Merknad: Dersom du ikke har URL, erstattes den med Publisher.
+
+
+
 
 ## Andre kildetyper
 
