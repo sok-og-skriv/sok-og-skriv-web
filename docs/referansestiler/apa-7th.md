@@ -562,12 +562,12 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 
 :::: ref
 Elektronisk:
-<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). Tittel (seriekode/Rapportnavn og -nr).
+<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr).
 https://xxxxx
 
 
 Trykt:
-<span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). Tittel (seriekode/Rapportnavn og -nr). Utgiver.</span>
+<span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.</span>
 
 <span class="ref">Bergan, M. A. (2017). _Fiskebiologiske undersøkelser i
 Balsnesvassdraget på Ørland i 2017:
