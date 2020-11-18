@@ -198,7 +198,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 Et gjenutgitt verk er et verk som har gått ut av trykk (eller ikke lenger er tilgjengelig) og siden publisert på nytt, noe er som vanlig for eldre verk. Når du henviser til et gjenutgitt verk (f.eks. et verk gjenutgitt i form av en tekstsamling eller antologi), før opp informasjonen om den nye publikasjonen som du har brukt, etterfulgt av det opprinnelige utgivelsesåret i slutten av referansen
 
 :::ref
-<span class="ref">... (x/1960) ... (Opprinnelig utgitt 1916).</span>
+<span class="ref">... (x/1916) ... (Opprinnelig utgitt 1916).</span>
 
 
 ::: details I EndNote
