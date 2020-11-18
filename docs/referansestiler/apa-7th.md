@@ -19,17 +19,15 @@ Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barr
 
 ::: 
 
-#### En til tre forfattere
+### En til tre forfattere
 
 (Etternavn, årstall, evt. sidetall)
-
-(Etternavn & Etternavn, årstall, evt. sidetall)
-
 … (Sterling, 2009, s. 10)
 
+(Etternavn & Etternavn, årstall, evt. sidetall)
 … (Gullestad & Killingmo, 2013, s. 35)
 
-#### Tre eller flere forfattere:
+### Tre eller flere forfattere:
 
 (Første forfatters etternavn et al., årstall, evt. sidetall)
 
@@ -48,18 +46,16 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 - Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
 
-#### En til tre forfattere
+### En til tre forfattere
 Alle forfatterne listes opp: 
-
 Gilje, N. & Grimen, H.(1993). Samfunnsvitenskapenes forutsetninger: Innføring i samfunnsvitenskapenes vitenskapsfilosofi. Universitetsforlaget. 
 
-#### Tre til 21 forfattere
+### Tre til 21 forfattere
 I referanselista skal navnet til alle forfatterne være med: 
-
 Løvvik, O. M., Rauwel, P. & Prytz, Ø. (2011). Self-diffusion in Zn4Sb3 from first-principles molecular dynamics. Computational Materials Science,50(9), 2663–2665. [https://doi.org/10.1016/j.commatsci.2011.04.015](https://doi.org/10.1016/j.commatsci.2011.04.015)
 
 
-#### Flere enn 21 forfattere
+### Flere enn 21 forfattere
 I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelsestegn (. . .) og deretter siste forfatter: 
 
 Adam, J., Adamová, D., Aggarwal, M. M., Aglieri Rinella, G., Agnello, M., Agrawal, N., Ahammed, Z., Ahmad, S., Ahn, S. U., Aiola, S., Akindinov, A., Alam, S. N., Albuquerque, D. S. D., Aleksandrov, D., Alessandro, B., Alexandre, D., Alfaro Molina, R., Alici, A., Alkin, A., . . . Garg, K. (2017). Determination of the event collision time with the ALICE detector at the LHC. The European Physical Journal Plus, 132(2), Artikkel 99. [https://doi.org/10.1140/epjp/i2017-11279-1](https://doi.org/10.1140/epjp/i2017-11279-1)
@@ -530,6 +526,9 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 (Organisasjon, årstall, eventuelt sidetall)
 
 ... (Kunnskapsdepartementet, 2017, s. 7).
+... (Utdanningsdirektoratet, 2020)
+... (Kunnskapsdepartementet, 2017, Demokrati) 
+
 :::
 
 :::: ref
@@ -538,6 +537,9 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
 <span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Regjeringen. https://www.regjeringen.no/</span>
+<span class="ref">Utdanningsdirektoratet. (2020).Læreplan i naturfag (NAT01-04). https://www.udir.no/lk20/nat01-04</span>
+<span class="ref">Kunnskapsdepartementet. (2017). Rammeplan for barnehagen: Forskrift om rammeplan for barnehagens innhold og oppgaver. Udir. https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf</span>
+
 
 ::: details I EndNote
 
