@@ -51,19 +51,9 @@ _Eksempel_
 ... (Sterling, 2009, s. 10)
 ... (Gullestad & Killingmo, 2013, s. 35)
 
-**Tre til 21 forfattere:**
+**Tre eller flere forfattere:**
 
 (Første forfatters etternavn et al., årstall, evt. sidetall)
-
-NB! I referanselisten skal alle forfatterene listes opp.
-
-... (Retterstøl et al., 2002)
-
-**Flere enn 21 forfattere:**
-
-(Første forfatters etternavn et al., årstall, evt. sidetall)
-
-NB! I referanselisten tar du med de 19 første forfatterene etterfulgt av utelatelsetegn (...), og deretter siste forfatter.
 
 ... (Adam et al., 2017, s. 99)
 :::

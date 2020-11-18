@@ -97,6 +97,9 @@ Hovudregelen er at du kun skal vise til verk du har lese. Om originalkjelda ikkj
 ::: eksempel Eksempel
 
 "Det er ikke tilfeldig at det moderne menneske skriver 'med' en maskin" (Martin Heidegger, i Johansen, 2003, s. 80).
+
+Kjelde: Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacus. 
+
 :::
 
 ## Notar og vedlegg
