@@ -47,8 +47,11 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 
 (Etternavn, årstall, evt. sidetall)
 
-_Eksempel_
+(Etternavn & Etternavn, årstall, evt. sidetall)
+
+
 ... (Sterling, 2009, s. 10)
+
 ... (Gullestad & Killingmo, 2013, s. 35)
 
 **Tre eller flere forfattere:**
