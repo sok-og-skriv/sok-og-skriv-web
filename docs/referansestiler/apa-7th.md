@@ -22,9 +22,11 @@ Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barr
 ### En til tre forfattere
 
 (Etternavn, årstall, evt. sidetall)
+
 … (Sterling, 2009, s. 10)
 
 (Etternavn & Etternavn, årstall, evt. sidetall)
+
 … (Gullestad & Killingmo, 2013, s. 35)
 
 ### Tre eller flere forfattere:
@@ -48,24 +50,27 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 
 ### En til tre forfattere
 Alle forfatterne listes opp: 
-Gilje, N. & Grimen, H.(1993). Samfunnsvitenskapenes forutsetninger: Innføring i samfunnsvitenskapenes vitenskapsfilosofi. Universitetsforlaget. 
+
+<span class="ref">Gilje, N. & Grimen, H.(1993). Samfunnsvitenskapenes forutsetninger: Innføring i samfunnsvitenskapenes vitenskapsfilosofi. Universitetsforlaget.</span> 
 
 ### Tre til 21 forfattere
 I referanselista skal navnet til alle forfatterne være med: 
-Løvvik, O. M., Rauwel, P. & Prytz, Ø. (2011). Self-diffusion in Zn4Sb3 from first-principles molecular dynamics. Computational Materials Science,50(9), 2663–2665. [https://doi.org/10.1016/j.commatsci.2011.04.015](https://doi.org/10.1016/j.commatsci.2011.04.015)
+
+<span class="ref">Løvvik, O. M., Rauwel, P. & Prytz, Ø. (2011). Self-diffusion in Zn4Sb3 from first-principles molecular dynamics. Computational Materials Science,50(9), 2663–2665. [https://doi.org/10.1016/j.commatsci.2011.04.015](https://doi.org/10.1016/j.commatsci.2011.04.015)</span>
 
 
 ### Flere enn 21 forfattere
 I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelsestegn (. . .) og deretter siste forfatter: 
 
-Adam, J., Adamová, D., Aggarwal, M. M., Aglieri Rinella, G., Agnello, M., Agrawal, N., Ahammed, Z., Ahmad, S., Ahn, S. U., Aiola, S., Akindinov, A., Alam, S. N., Albuquerque, D. S. D., Aleksandrov, D., Alessandro, B., Alexandre, D., Alfaro Molina, R., Alici, A., Alkin, A., . . . Garg, K. (2017). Determination of the event collision time with the ALICE detector at the LHC. The European Physical Journal Plus, 132(2), Artikkel 99. [https://doi.org/10.1140/epjp/i2017-11279-1](https://doi.org/10.1140/epjp/i2017-11279-1)
+<span class="ref">Adam, J., Adamová, D., Aggarwal, M. M., Aglieri Rinella, G., Agnello, M., Agrawal, N., Ahammed, Z., Ahmad, S., Ahn, S. U., Aiola, S., Akindinov, A., Alam, S. N., Albuquerque, D. S. D., Aleksandrov, D., Alessandro, B., Alexandre, D., Alfaro Molina, R., Alici, A., Alkin, A., . . . Garg, K. (2017). Determination of the event collision time with the ALICE detector at the LHC. The European Physical Journal Plus, 132(2), Artikkel 99. [https://doi.org/10.1140/epjp/i2017-11279-1](https://doi.org/10.1140/epjp/i2017-11279-1)</span>
 
+
+
+## Eksempler
 
 ::: warning Flere eksempler
 For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
 :::
-
-## Eksempler
 
 ### Bok
 
