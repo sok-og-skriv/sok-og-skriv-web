@@ -19,6 +19,22 @@ Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barr
 
 ::: 
 
+#### En til tre forfattere
+
+(Etternavn, årstall, evt. sidetall)
+
+(Etternavn & Etternavn, årstall, evt. sidetall)
+
+… (Sterling, 2009, s. 10)
+
+… (Gullestad & Killingmo, 2013, s. 35)
+
+#### Tre eller flere forfattere:
+
+(Første forfatters etternavn et al., årstall, evt. sidetall)
+
+… (Adam et al., 2017, s. 99)
+
 ## Referanselisten
 
 Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: forfatter, publiseringstidspunkt, verktittel og verkets kilde. Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
@@ -32,6 +48,22 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 - Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
 
+#### En til tre forfattere
+Alle forfatterne listes opp: 
+
+Gilje, N. & Grimen, H.(1993). Samfunnsvitenskapenes forutsetninger: Innføring i samfunnsvitenskapenes vitenskapsfilosofi. Universitetsforlaget. 
+
+#### Tre til 21 forfattere
+I referanselista skal navnet til alle forfatterne være med: 
+
+Løvvik, O. M., Rauwel, P. & Prytz, Ø. (2011). Self-diffusion in Zn4Sb3 from first-principles molecular dynamics. Computational Materials Science,50(9), 2663–2665. [https://doi.org/10.1016/j.commatsci.2011.04.015](https://doi.org/10.1016/j.commatsci.2011.04.015)
+
+
+#### Flere enn 21 forfattere
+I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelsestegn (. . .) og deretter siste forfatter: 
+
+Adam, J., Adamová, D., Aggarwal, M. M., Aglieri Rinella, G., Agnello, M., Agrawal, N., Ahammed, Z., Ahmad, S., Ahn, S. U., Aiola, S., Akindinov, A., Alam, S. N., Albuquerque, D. S. D., Aleksandrov, D., Alessandro, B., Alexandre, D., Alfaro Molina, R., Alici, A., Alkin, A., . . . Garg, K. (2017). Determination of the event collision time with the ALICE detector at the LHC. The European Physical Journal Plus, 132(2), Artikkel 99. [https://doi.org/10.1140/epjp/i2017-11279-1](https://doi.org/10.1140/epjp/i2017-11279-1)
+
 
 ::: warning Flere eksempler
 For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
@@ -43,22 +75,10 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 
 ::: teksten
 
-**Bok med én eller to forfatter(-e):** 
-
-(Etternavn, årstall, evt. sidetall)
-
-(Etternavn & Etternavn, årstall, evt. sidetall)
-
-
 ... (Sterling, 2009, s. 10)
 
 ... (Gullestad & Killingmo, 2013, s. 35)
 
-**Tre eller flere forfattere:**
-
-(Første forfatters etternavn et al., årstall, evt. sidetall)
-
-... (Adam et al., 2017, s. 99)
 :::
 
 :::: ref
@@ -216,27 +236,9 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ::: teksten
 
-
-**Artikkel med én eller to forfatter(-e):** 
-
-(Forfatter, årstall, eventuelt sidetall)
+(Forfatter(-e), årstall, eventuelt sidetall)
 
 ... langtidsvirkninger av vold (Huang & Mossige, 2012, s. 150).
-
-
-**Tre til 21 forfattere:**
-
-(Første forfatters etternavn et al., årstall, evt. sidetall)
-
-NB! I referanselisten skal alle forfatterene listes opp.
-
-
-
-**Flere enn 21 forfattere:**
-
-(Første forfatters etternavn et al., årstall, evt. sidetall)
-
-NB! I referanselisten tar du med de 19 første forfatterene etterfulgt av utelatelsetegn (...), og deretter siste forfatter.
 
 :::
 
