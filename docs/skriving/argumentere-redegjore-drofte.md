@@ -91,13 +91,13 @@ Argument(er) kan være basert på empirisk **dokumentasjon**, henvisninger til f
 
 Hva er argumentene i teksten din? Hvordan underbygger du synspunktet ditt? Hva er det du argumenterer _med_?
 
-#### 3. Undersøkelsesmetode(r)
+#### 3. Undersøkelsesmetoder
 
-Undersøkelsesmetode(r) er analytiske metoder og grep som er hensiktsmessige å bruke på påstander og argumentene du setter fram. Pass på at det er sammenheng mellom valg av teori, metode og empiri.
+Undersøkelsesmetoder er analytiske metoder og grep som er hensiktsmessige å bruke på et saksfelt. Pass på at det er sammenheng mellom valg av teori, metode og empiri.
 
-Hvilken undersøkelsemetode vil du bruke for å prøve ut problemstillingen og påstanden din? Hvilket teoretisk perspektiv vil du bruke i din oppgave?
+Hvilken undersøkelsemetode vil du bruke for å utforske problemstillingen og påstandene dine? Hvilket teoretisk perspektiv vil du bruke i din oppgave?
 
-#### 4. Innvending
+#### 4. Innvendinger
 
 En innvending er en kritisk vurdering av undersøkelsesmetoden du har valgt. Her peker du på undersøkelsesmetodens begrensninger, og eventuelle svakheter ved metoden. Pek på forbehold og usikkerhetsmomenter som knytter seg til metoden og praktisk bruk av den.
 
@@ -109,9 +109,9 @@ Ryggdekning er det som støtter undersøkelsesmetoden du tar i bruk. Dette kan d
 
 Hva støtter undersøkelsesmetoden din? Hva gjør at du velger å bruke den, til tross for begrensningene du har pekt på?
 
-#### 6. Styrkemarkør
+#### 6. Styrkemarkører
 
-Styrkemarkør brukes til å uttrykke graden av sikkerhet du fremsetter en påstand med. Her kan du ta forbehold, og påpeke betingelser med betydning for påstandens styrke.
+Styrkemarkører brukes til å uttrykke graden av sikkerhet du fremsetter en påstand med. Her kan du ta forbehold, og påpeke betingelser med betydning for påstandens styrke.
 
 I hvilken grad er påstanden din sikker, sannsynlig eller mulig?
 
