@@ -79,7 +79,9 @@ Etternavn, N.N., (årstall) _Tittel._ Utgivelsessted: Utgiver. URL/DOI/plattform
 Allen, J. (2019) _The Productive Graduate Student Writer: How to Manage Your Time, Process, and Energy to Write Your Research Proposal, Thesis, and Dissertation and Get Published._ Sterling, Virginia: Stylus Publishing. Hentet fra: http://search.ebscohost.com.ezproxy.uio.no/login.aspx?direct=true&db=nlebk&AN=2182551&site=ehost-live (Lest 21 June 2020). 
 ::: details I EndNote
 
-blabla 
+Bok: Legges inn som "book".
+
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher.
 ::: 
 :::: 
 
