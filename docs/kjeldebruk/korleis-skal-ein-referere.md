@@ -111,10 +111,14 @@ Kjelde: Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacu
 - Vedlegg er lister over tabellar og figurar som er med i oppgåva, spørreskjema, observasjonsskjema, intervjuguide og liknande. Vedlegg skal nummerast og plasserast etter referanselista.
 
 
-## Verktøy for å handtere referanser
+## Hjelpemiddel
 
-For større oppgåver som masteroppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
+Det finst fleire ulike hjelpemiddel som kan forenkle arbeidet med referansar. I mange databasar kan du kopiere referansen etter ein bestemt referansestil og lime direkte inn i dokumentet ditt. Aktuelle databasar som tilbyr denne funksjonen er Oria og Google Scholar.
+ 
+For større oppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
 Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengelege for alle. 
+
+Hugs at du alltid må dobbelsjekke at referansen blir rett! 
 
 
 ## QUIZ: Kva type kjelde er dette?
