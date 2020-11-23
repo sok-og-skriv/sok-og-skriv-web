@@ -19,9 +19,7 @@ Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barr
 
 ::: 
 
-
-
-::: teksten Antall forfattere
+::: Antall forfattere
 
 **En til tre forfattere:**
 
@@ -54,15 +52,17 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 - Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
 
-:::: ref Antall forfattere
+:::: Antall forfattere
 
 **En til tre forfattere**
+
 _Alle forfatterne listes opp_ 
 
 <span class="ref">Gilje, N. & Grimen, H.(1993). Samfunnsvitenskapenes forutsetninger: Innføring i samfunnsvitenskapenes vitenskapsfilosofi. Universitetsforlaget.</span> 
 
 **Tre til 21 forfattere:**
-I referanselista skal navnet til alle forfatterne være med
+
+_I referanselista skal navnet til alle forfatterne være med_
 
 <span class="ref">Løvvik, O. M., Rauwel, P. & Prytz, Ø. (2011). Self-diffusion in Zn4Sb3 from first-principles molecular dynamics. Computational Materials Science,50(9), 2663–2665. [https://doi.org/10.1016/j.commatsci.2011.04.015](https://doi.org/10.1016/j.commatsci.2011.04.015)</span>
 
