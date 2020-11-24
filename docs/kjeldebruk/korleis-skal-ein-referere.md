@@ -113,12 +113,21 @@ Kjelde: Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacu
 
 ## Hjelpemiddel
 
-Det finst fleire ulike hjelpemiddel som kan forenkle arbeidet med referansar. I mange databasar kan du kopiere referansen etter ein bestemt referansestil og lime direkte inn i dokumentet ditt. Aktuelle databasar som tilbyr denne funksjonen er Oria og Google Scholar.
  
 For større oppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
-Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) og [Mendeley](https://www.mendeley.com/) er gratis tilgjengelege for alle. 
+Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) er gratis tilgjengelege for alle, medan [Mendeley](https://www.mendeley.com/) og [EndNote](https://endnote.com/product-details/basic/) finst i enklare gratisversjonar. 
 
 Hugs at du alltid må dobbelsjekke at referansen blir rett! 
+
+::: tip Tips: 
+Det er fullt mogeleg å skrive ei oppgåve eller ein artikkel utan å bruke eit referansehandteringsverktøy. Referansar kan enkelt kopierast frå Oria, Google Scholar eller frå heimesida til tidsskriftet. Pass på å sjekke at dei er fullstendige og at eventuell kursiv føl med. Sjå etter sitatteikn:
+
+<List
+  image="/images/scholar-cite.svg"
+  alt="Scholar cite"
+  text="Knapp for Google Scholar siteringsfunksjon."
+/>
+:::
 
 
 ## QUIZ: Kva type kjelde er dette?
