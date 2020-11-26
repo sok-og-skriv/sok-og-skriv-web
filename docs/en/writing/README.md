@@ -6,7 +6,7 @@ prev: "../study-skills/academic-genres"
 
 # Writing
 
-Academic writing has certain formal requirements. In order to write a good thesis, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis. Another important aspect is of course the correct use of [sources.](/en/sources-and-referencing/how-to-cite.html)
+Academic writing is characterised by certain formal requirements. In order to write a good thesis, you must satisfy academic standards with regard to language, style, structure, and to the content of your thesis. Another important aspect is of course the correct use of [sources.](/en/sources-and-referencing/how-to-cite.html)
 
 <Figure
   src="/images/illustrasjoner_skriving_500x450.png"
