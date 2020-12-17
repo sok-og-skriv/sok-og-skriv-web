@@ -120,6 +120,8 @@ For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten.
 
 ### Kapittel i redigert bok
 
+Det er mest vanlig å referere til enkelte kapittel i redigerte bøker. Dersom du skal referere til hele boken bruker du malen for bok.
+
 ::: teksten
 (Forfatter, årstall, evt. sidetall)
 
@@ -173,7 +175,7 @@ E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
 
 ### Religiøse og klassiske verk
 
-Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. Religiøse verk behandles som verk uten forfatter, mens annoterte versjoner (kommentarutgaver) behandles som redigert bok. Religiøse skrifter er publisert i mange utgaver; bruk årstallet for den aktuelle utgivelsen. Dersom publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven du har brukt. Siden sidetall vil variere fra utgave til utgave, brukes nummererte kapittel, vers eller surer i henvisningen.
+Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. Religiøse verk behandles som verk uten forfatter, mens annoterte versjoner (kommentarutgaver) behandles som redigert bok. Religiøse skrifter er publisert i mange utgaver; bruk årstallet for den aktuelle utgivelsen. Dersom publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven du har brukt. Siden sidetall vil variere fra utgave til utgave, brukes nummererte kapittel, vers eller surer i henvisningen. Bibelen og andre hellige verk skal generelt ikke ha innførsel i referanselista, men hvis du mener at det er nyttig for leseren kan den inkluderes.
 
 ::: teksten
 ... «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
@@ -205,6 +207,7 @@ I _Iliaden_ (6.344–58) sier Helena at ...
 
 Legges inn som "Book".
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+NB: Hellige verk skal generelt _ikke_ ha innførsel i referanselista. Skriv henvisning i teksten manuelt.
 
 ::: 
 :::: 
@@ -611,9 +614,10 @@ Merknad: Dersom du ikke har URL, erstattes den med Publisher.
 
 ### Kompendier
 
-Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverket (for eksempel tidsskriftet eller boka), ikke til kompendiet. Dette gjelder også sidehenvisninger.
+Dersom man skal referere til tekster fra et kompendium, skal man henvise til originalverket (for eksempel tidsskriftet eller boken), ikke til kompendiet. Dette gjelder også sidehenvisninger.
 
 ### Studentoppgaver og doktorgradsavhandlinger 
+
 
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
@@ -751,8 +755,9 @@ Referer til boken:
 <span class="ref">Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ [https://doi.org/10.23865/noasp.32](https://doi.org/10.23865/noasp.32)</span>
 :::
 
-### Personlig kommunikasjon
-Det som er felles for kilder i kategorien personlig kommunikasjon, er at leserne mer eller mindre er utestengt fra å kunne konsultere kildene. Personlig kommunikasjon kan omfatte e-poster, tekstmeldinger, uttalelser eller sitater fra chattetjenester, personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater, telefonsamtaler osv. Bruk personlig kommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige.
+### Personlig kommunikasjon (e-poster, eget eksamensarbeid, forelesningsnotater o.l.)
+
+Personlig kommunikasjon omfatter ulike typer kilder som ikke er tilgjengelige for andre. Eksempel på kildetyper i denne kategorien er e-poster, tekstmeldinger, uttalelser eller sitater fra chattetjenester, personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater, telefonsamtaler, tidligere innlevert eksamensarbeid osv. Når det gjelder eksamensarbeid er det viktig at du skriver referanse selv om det er ditt eget arbeid! Bruk personlig kommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige. 
 
 ::: teksten
 ... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)...
