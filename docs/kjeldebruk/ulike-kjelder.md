@@ -48,11 +48,15 @@ Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen 
 
 Ei lærebok er ein type tekst skrive for studentar som skal introduserast til eit nytt fag eller emne. Læreboka refererar teoriar og faghistorikk, der målet er å inkludere studentar i eit akademisk fellesskap med sin særeigne diskurs. Ein læreboktekst tek ikkje stilling til kva som er ”det rette svaret” i faget, men dei teoriene forfatteren legg mest vekt på er ofte dei som ligg han eller ho sjølve nærast som fagperson.
 
-### Avhandling
+### Avhandling og andre studentoppgåver (eigne og andre sine)
 
 Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne innanfor faget. Eksempler er masteroppgåve, hovedoppgåve og doktorgradsavhandling. På desse nivåa er det strenge krav til teoriar og metodar, og fagmiljøet forventer nye forskingsresultat eller tilnærmingar til tema. 
 
 Bacheloroppgåver og andre mindre studentoppgåver kan nyttast som inspirasjon. Du kan få nyttige tips om tema for oppgåva di, gode lesetips i kjeldelister, oppsett og struktur. Me tilrår ikkje at du bruker slike oppgåver som faglege kjelder.  
+
+::: warning Hugs
+Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte oppgåver du tidlegare har skrive og publisert, skal du refere til dette som eiga kjelde
+:::
 
 ## Nettstader
 Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du kan nytte Google til raskt å finne informasjon, lese nettaviser for å finne siste nytt, eller sjå korleis emnet ditt blir dekka i media. Eit googlesøk kan gi deg treff på alt frå fagfellevurderte forskingsartiklar til hardkokte konspirasjonsteoriar. Ved å nytte internett som kunnskapskjelde blir du stilt ovanfor eit hav av informasjon. Det er såleis særs viktig at du [vurderer](/kjeldebruk/kjeldevurdering.html) det du finn kritisk med tanke på innhald, kontekst og opphav. 
@@ -88,8 +92,20 @@ Radio- eller TV-program kan også vere ein god stad å starte for å få innfall
 Vel du å nytte radio- eller TV program som kjelde kan kortare klipp nyttast utan spesiell tillating frå dei som står bak, men for lengre klipp må opphavspersonen kontaktast. Unngå fordreiingar av meningsinnhaldet.
 :::
 
-### Bilete frå internett, fotografi, illustrasjonar, biletkunst
-Bilete, illustrasjonar og biletkunst kan somme tider vere aktuelt å nytte. Det kan vere du vil bruke bilete som illustrasjon, eller at bilete i seg sjølv er ei kjelde. Ver merksam på kva reglar som gjeld for gjenbruk. Generelt skal du ikkje nytte andre sine bilete utan tillating frå opphavar. Les meir om kva reglar som [gjeld her](https://delrett.no/nb/artikler/bilder-og-kunst).
+### Bilete, fotografi, illustrasjonar, biletkunst
+Du har lov til å bruke foto du har teke sjølv, men hugs at i dei fleste tilfelle må avbilda personar gi samtykke.  
+
+For andre sine foto og kunstverk, er det meir komplisert. Hovudregelen er at du må ha samtykke frå opphavaren (det enklaste er å spørje!). Men nyttar du eit kunstverk eller eit bilete i ein vitskapleg, ikkje-kommersiell samanheng – slik ei studentoppgåve vil vere – kan eit offentleiggjort bilete nyttast. Dette kan vere aktuelt om du skriv oppgåve om ein kunstnar sine verk. Merk at desse verka og bileta ikkje kan nyttast som reine illustrasjonar, men må inngå som ein del av argumentasjonen  i  oppgåva. 
+
+Mange universitet og høgskular tilbyr databasar med bilete som er lisensiert for fri bruk. Sjekk med din institusjon. Du kan òg finne bilete til fri bruk via [Creative Commons](http://search.creativecommons.org/) Search, eller søke i Google og definere lisens under verktøy-fana.  
+
+::: tip Tips
+BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon har avtale med [BONO](bono.no/undervisningsinstitusjoner) eller sjå på moglegheita for å søke om enkeltlisens. Les meir om kva ein eventuell avtale gir rett til her: [Delrett.no](www.delrett.no/nb/artikler/bilder-og-kunst)
+:::
+
+### Tabellar og grafar 
+
+Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje tillate å kopiere den inn i ditt eige arbeid utan samtykke frå opphavar. Skriv heller med dine eigne ord kva tabellen eller grafen seier – og vis til den, eller lag din eigen. Det enklaste kan vere å spørje opphavaren om lov til å bruke tabellen eller grafen. 
 
 ### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  

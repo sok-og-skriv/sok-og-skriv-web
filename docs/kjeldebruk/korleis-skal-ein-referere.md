@@ -34,7 +34,15 @@ Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til 
 
 Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I so fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
-## Korleis unngå å plagiere? 
+## Opphavsrett 
+Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla åndsverklova (lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
+
+I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
+
+## Korleis unngå å plagiere/unngå brot på opphavsretten? 
+Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. Dersom du blir skulda foringar om å plagiereing – i form av at du kopierer eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass. Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. For studentar som blir tekne for plagiering er det ofte ein følgje av manglande kunnskap eller hastverk heller enn ein intensjon om fusk. 
+
+For meir om opphavsrett, sjå [DelRett](www.delrett.no/nb) – som er ei offentleg rettleiingsteneste om opphavsrett. 
 
 ::: danger Korleis unngå å plagiere?
 
@@ -47,7 +55,7 @@ Vips, så har du unngått å plagiere!
 :::  
 
 ## Sitat
-Nokon gonger kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Når du brukar tekst frå andre inn i din eigen er dette å sitere. Det kan vere eit godt grep og eit nyttig tilskot til teksten din, men det gjeld å ha tunga beint i munnen.
+Nokon gonger kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst.Dette må gjerast i samsvar med god skikk, det vil seie at du siterer og refererer korrekt til kjeldene. Eit av føremåla med sitatretten er ta vare på ytringsfridom og utveksling av meiningar. Ikkje gje inntrykk av at noko er ditt når det ikkje er det.
 
 ### Direkte sitat
 

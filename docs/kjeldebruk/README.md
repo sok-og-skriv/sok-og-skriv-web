@@ -28,7 +28,7 @@ Nøyaktig dokumentasjon av kjelder gjer lesaren i stand til raskt å:
 - kontrollere fakta og etterprøve resultata
 - setje seg inn i emnet
 
-Korrekt føring av referansar er avgjerande for å unngå plagiat. Plagiat er å ha framstilt andre sine resultat, tankar, idear eller formuleringar som om dei var dine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. 
+Kjeldebruk og opphavsrett heng saman. Når du viser til og bruker kjelder i oppgåva di, bruker du andre sine verk. Det er viktig at du lærer deg korleis du kan bruke desse utan at det kjem i konflikt med gjeldande lov om opphavsrett. Korrekt føring av referansar er avgjerande for å unngå plagiat. Plagiat er å ha framstilt andre sine resultat, tankar, idear eller formuleringar som om dei var dine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. 
 
 
 
