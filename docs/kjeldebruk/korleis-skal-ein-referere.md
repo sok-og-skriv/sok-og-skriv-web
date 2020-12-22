@@ -9,14 +9,14 @@ tags:
 ---
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du føl denne konsekvent. Dette gjeld også for engelsk vs. norsk rettskriving og oppsett av dato. 
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du følger denne konsekvent. Vær også konsekvent når det gjeld engelsk vs. norsk rettskriving, oppsett av dato mv. 
 
 På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
 
 
 ## Kva skal refererast?
 
-For alt fagleg innhald som ikkje byggjer på eige materiale, eigne resonnement eller meiningar, skal ein oppgi kjelde i teksten og i referanselista. Dette kan for eksempel vere andre sine argument, meiningar og vurderingar, tallmateriale, modellar, resultat og konklusjonar. Hugs at dette også omfattar figurar, tabellar, lyd og bilete, og at bruk av slikt materiale er knytt til opphavsrett.
+For alt fagleg innhald som ikkje byggjer på eige materiale, eigne resonnement eller meiningar, **skal** ein oppgi kjelde i teksten og i referanselista. Dette kan for eksempel vere andre sine argument, meiningar og vurderingar, talmateriale, modellar, resultat og konklusjonar. Hugs at all bruk av figurar, tabellar, lyd og bilete er knytt til [opphavsrett](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#opphavsrett).
 
 **Allmenne sanningar**
 
@@ -26,7 +26,7 @@ Allmenne sanningar treng ikkje referanse, som for eksempel:
 
 Skriv du derimot om noko som ikkje er allment kjend, må du oppgje kvar du hentar opplysningane frå.
 
-Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å plagiere.
+Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å [plagiere](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-a-plagiere-unnga-brot-pa-opphavsretten).
 
 **Førelesingar**
 
@@ -55,11 +55,16 @@ Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er
 
 Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – i form av at du kopierer eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass. Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. 
 
+::: tip
+
+Dette gjeld òg for dine eigne arbeid: _Sjølvplagiat_ er også rekna som plagiat. 
+::: 
+
 For meir om opphavsrett, sjå [DelRett](www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
 
 
 ## Sitat
-Nokon gonger kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst.Dette må gjerast i samsvar med god skikk, det vil seie at du siterer og refererer korrekt til kjeldene. Eit av føremåla med sitatretten er ta vare på ytringsfridom og utveksling av meiningar. Ikkje gje inntrykk av at noko er ditt når det ikkje er det.
+Nokon gonger kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Dette må gjerast i samsvar med god skikk, ved å sitere og vise korrekt til kjeldene. Ikkje gje inntrykk av at noko er ditt når det ikkje er det.
 
 ### Direkte sitat
 
@@ -68,10 +73,10 @@ Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særle
 ::: eksempel Eksempel
 «Studenter (og forskere) innenfor samfunnsfag og humanistiske fag må skrive innenfor en akademisk sjanger. Særtrekket ved denne sjangeren er _drøfting_» (Førland, 1996, s. 11).
 
-Kjelde: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Oslo: Gyldendal.
+Kjelde: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Gyldendal.
 :::
 
-Sitater som har meir enn 40 ord skal (i APA) skrivast i eit eiget avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn.Det er også vanleg å introdusere sitat med innledning og/eller ein kommentar. 
+Sitater som har meir enn 40 ord skal (i APA) skrivast i eit eiget avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn. Det er også vanleg å introdusere sitat med innledning og/eller ein kommentar. 
 
 ### Ved endringar i sitatet 
 
