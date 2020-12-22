@@ -58,7 +58,7 @@ Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgj
 
 ::: warning Sjøvplagiat 
 
-Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemlig også rekna som plagiat. 
+Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna som plagiat. 
 
 ::: 
 
