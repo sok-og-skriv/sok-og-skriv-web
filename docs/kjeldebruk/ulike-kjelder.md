@@ -62,7 +62,7 @@ Bacheloroppgåver og andre mindre studentoppgåver kan nyttast som inspirasjon. 
 Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei oppgåve du tidlegare har levert, skal du vise til denne som eiga kjelde.
 :::
 
-## Nettstader
+### Nettstader
 Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du kan nytte Google til raskt å finne informasjon, lese nettaviser for å finne siste nytt, eller sjå korleis emnet ditt blir dekka i media. Eit googlesøk kan gi deg treff på alt frå fagfellevurderte forskingsartiklar til hardkokte konspirasjonsteoriar. Ved å nytte internett som kunnskapskjelde blir du stilt ovanfor eit hav av informasjon. Det er såleis særs viktig at du [vurderer](/kjeldebruk/kjeldevurdering.html) det du finn kritisk med tanke på innhald, kontekst og opphav. 
 
 ### Leksikon
