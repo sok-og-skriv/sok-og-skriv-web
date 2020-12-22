@@ -24,7 +24,7 @@ Utgjevar eller ansvarleg kan vere med på å påverke innhaldet. Det kan dreie s
 ### Kjeldebruk
 - I kva grad refererer forfattaren til andre kjelder?
 - Kven refererer forfattaren til?
-Ta alltid ei vurdering av kjelda sine referanser og tilvisingar for å sjå kven forfattaren viser til for å underbyggje eigne påstander og argumentasjonar. Gode og relevante kjelder dannar grunnlaget for ein god tekst. 
+Ta alltid ei vurdering av referanser og tilvisingar for å sjå kven forfattaren viser til for å underbyggje eigne påstandar og argument. Gode og relevante kjelder dannar grunnlaget for ein god tekst. 
 
 
 ## Relevans
