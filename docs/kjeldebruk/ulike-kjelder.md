@@ -55,7 +55,7 @@ Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne inna
 Bacheloroppgåver og andre mindre studentoppgåver kan nyttast som inspirasjon. Du kan få nyttige tips om tema for oppgåva di, gode lesetips i kjeldelister, oppsett og struktur. Me tilrår ikkje at du bruker slike oppgåver som faglege kjelder.  
 
 ::: warning Hugs
-Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte oppgåver du tidlegare har skrive og publisert, skal du refere til dette som eiga kjelde
+Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei oppgåve du tidlegare har levert, skal du vise til denne som eiga kjelde.
 :::
 
 ## Nettstader
