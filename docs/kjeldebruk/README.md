@@ -29,7 +29,7 @@ Nøyaktig dokumentasjon av kjelder gjer lesaren i stand til raskt å:
 
 Når du viser til og bruker kjelder i oppgåva di, bruker du andre sine verk. Det er viktig at du lærer deg korleis du kan bruke desse utan at det kjem i konflikt med gjeldande lov om [opphavsrett](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#opphavsrett). 
 
-Korrekt føring av referansar er òg avgjerande for å unngå [plagiat](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-a-plagiere-unnga-brot-pa-opphavsretten).
+Korrekt føring av referansar er òg avgjerande for å unngå [plagiat](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-a-plagiere-bryte-opphavsretten).
 
 
 
