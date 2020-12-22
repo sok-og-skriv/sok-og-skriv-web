@@ -10,9 +10,9 @@ tags:
 ---
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du følger denne konsekvent. Vær også konsekvent når det gjeld engelsk vs. norsk rettskriving, oppsett av dato mv. 
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du føl denne konsekvent. Ver også konsekvent når det gjeld engelsk vs. norsk rettskriving, oppsett av dato mv. 
 
-På Søk & Skriv viser vi stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
+På Søk & Skriv viser me stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
 
 
 ## Kva skal refererast?
@@ -33,7 +33,7 @@ Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukont
 
 Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til i ei oppgåve. Du kan sjølvsagt bruke førelesingsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjere det til ditt eige.
 
-Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I so fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
+Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I så fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
 ## Opphavsrett 
 Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla åndsverklova (lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
@@ -78,7 +78,7 @@ Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særle
 Kjelde: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Gyldendal.
 :::
 
-Sitater som har meir enn 40 ord skal (i APA) skrivast i eit eiget avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn. Det er også vanleg å introdusere sitat med innledning og/eller ein kommentar. 
+Sitat som har meir enn 40 ord skal (i APA) skrivast i eit eige avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn. Det er også vanleg å introdusere sitat med innleiing og/eller ein kommentar. 
 
 ### Ved endringar i sitatet 
 
@@ -91,7 +91,7 @@ På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gje
 
 :::
 
-Dersom du ønsker å **tilføye** eller **erstatte** noko i eit sitat, markerast dette ved å nytte klammeparentesar. 
+Dersom du ønskjer å **tilføye** eller **erstatte** noko i eit sitat, markerast dette ved å nytte klammeparentesar. 
 
 ::: eksempel Eksempel
 

@@ -6,21 +6,21 @@ date: "2020-04-28"
 Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
 
 ## Kva er formålet med kjelda?
-Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle er det kjelder som følgjer den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html)som best kan bygge opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte lover for å fortelje kva som er korrekt å gjere, eller oppslagsverk for definisjonar. Kva kjelder du treng vil avhenge av kva du skriv om og kva du ønskjer å poengtere. 
+Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle vil kjelder som føl den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html) best byggje opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte t.d. lover eller oppslagsverk. Kva kjelder du treng vil avhenge av kva du skriv om og kva du ønskjer å poengtere. 
 
 ## Artiklar
-Me skil mellom ulike typar artiklar. Når me skriv om artiklar i denne samanhengen, viser me først og fremst til artiklar publisert i vitskapelege tidsskrift. Det kan også vere relevant å bruke såkalla fagartiklar, det vil seie artiklar som er skrivne av fagfolk og publisert i seriøse kanalar, men som ikkje oppfyller krava til ein vitskapeleg publikasjon. Avisartiklar og tekst skrive for ulike nettsider kjem ikkje inn under denne kategorien.
+Me skil mellom ulike typar artiklar. Når me skriv om artiklar i denne samanhengen, viser me først og fremst til artiklar publisert i vitskaplege tidsskrift. Det kan også vere relevant å bruke såkalla fagartiklar, det vil seie artiklar som er skrive av fagfolk og publisert i seriøse kanalar, men som ikkje oppfyller krava til ein vitskapleg publikasjon. Avisartiklar og tekst skrive for ulike nettsider kjem ikkje inn under denne kategorien.
 
-Ein vitskapeleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn vitskapelege artiklar om ditt tema vil det kunne styrke oppgåva di. Pass på at du alltid [vurderer kjeldene dine fagleg](/kjeldebruk/kjeldevurdering.html).
+Ein vitskapleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn vitskapelege artiklar om ditt tema vil det kunne styrke oppgåva di. Pass på at du alltid [vurderer kjeldene dine fagleg](/kjeldebruk/kjeldevurdering.html).
   
 
 ### Vitskapleg artikkel
 
-Ein vitskapleg artikkel er ein tekst der forfattaren greier ut om eit emne eller ei sak. Ein vitskapeleg artikkel må presentere ny innsikt og vere i ei form som gjer resultata etterprøvbare eller nyttige i ny forsking. Den vitskaplege artikkelen blir brukt til å formidle forskningsresultat innanfor og på tvers av vitskaplege miljø.
+Ein vitskapleg artikkel er ein tekst der forfattaren greier ut om eit emne eller ei sak. Ein vitskapleg artikkel må presentere ny innsikt og vere i ei form som gjer resultata etterprøvbare eller nyttige i ny forsking. Den vitskaplege artikkelen blir brukt til å formidle forskningsresultat innanfor og på tvers av vitskaplege miljø.
 
 ### Oversiktsartikkel / review-artikkel
 
-Ein oversiktsartikkel er ein forskingsartikkel som gir overblikk over eit fagleg spørsmål på bakgrunn av eit større antall studier. Artikkelen presenterar ein samanfattande analyse av kunnskapsstatus på feltet som skal gjere det lettare for forskarar å orientere seg om dei store linjene i forskinga.
+Ein oversiktsartikkel er ein forskingsartikkel som gir overblikk over eit fagleg spørsmål på bakgrunn av eit større antall studiar. Artikkelen presenterer ein samanfattande analyse av kunnskapsstatus på feltet som skal gjere det lettare for forskarar å orientere seg om dei store linjene i forskinga.
 
 ### Fag- eller forskingsartikkel? 
 
@@ -28,11 +28,11 @@ Det er vanleg å skilje mellom fag- og forskingsartikkel, og det blir forventa a
 
 Ifølgje [Sykepleien.no](https://sykepleien.no/forskning/2012/02/forskningsartikkel-eller-fagartikkel) har ein forskingsartikkel som føremål å presentere ny forsking, medan fagartiklar oppsummerar kunnskap som allereie er kjend. På grunn av forskningsartikkelen sitt krav om at resultata skal kunne kontrollerast og etterprøvast skal denne type artikkel derfor innehalde nøyaktig informasjon om korleis forskarane har gått fram for å undersøke problemstillinga. 
 
-I mange tilfelle er artiklane merka med kva type artikkel dei er, for eksempel "research article", "review" også vidare. Viss artikkelen ikkje er merka må du sjølv vurdere om det er ein fag- eller forskingsartikkel. Vurder om artikkelen presenterer ny kunnskap eller om han tek utgongspunkt i kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å om metoden er beskrive så grundig at du kunne ha gjort meir eller mindre nøyaktig det same. 
+I mange tilfelle er artiklane merka med kva type artikkel dei er, for eksempel "research article", "review" også vidare. Viss artikkelen ikkje er merka må du sjølv vurdere om det er ein fag- eller forskingsartikkel. Vurder om artikkelen presenterer ny kunnskap eller om han tek utgongspunkt i kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å sjå om metoden er beskrive så grundig at du kunne ha gjort meir eller mindre nøyaktig det same. 
 
 ### Fagfellevurdering (peer review)
 
-Fagfellevurdering inneber at ein artikkel blir vurt av minst to fagpersonar innan same forskningsfelt før han blir akseptert for publisering. Artikkelforfattar får tilbakemelding på tekst og får konkrete forslag til forbetringar som må utførast før artikkelen eventuelt kan bli publisert. På denne måten blir artikkelen kvalitetssikra. Dette skal bidra til at artikkelen følgjer akademiske og vitskaplege normer som er gjeldane innanfor faget.  
+Fagfellevurdering inneber at ein artikkel blir vurdert av minst to fagpersonar innan same forskningsfelt før han blir akseptert for publisering. Artikkelforfattar får tilbakemelding på tekst og får konkrete forslag til forbetringar som må utførast før artikkelen eventuelt kan bli publisert. På denne måten blir artikkelen kvalitetssikra. Dette skal bidra til at artikkelen føl akademiske og vitskaplege normer som er gjeldane innanfor faget.  
 
 Artiklar som ikkje er fagfellevurderte kan også vere relevante og gode. Vurder alltid kjelda både for fagfellevurderte artiklar, og artiklar publisert i andre tidsskrift.
 
@@ -42,15 +42,19 @@ Essayet er ein personleg forma artikkel. Det er tydeleg prega av forfatteren, av
 
 ### Populærvitskapleg artikkel
 
-Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen formidle ny innsikt og forskingsbasert kunnskap. Her er det imidlertid ei målsetting å kommunisere ny kunnskap utover det vitskaplege forskningsfellesskapet til eit "breiare lag av folket". Populærvitskaplege artiklar har ofte ei journalistisk språkdrakt. Du finn desse på nettstader som for eksempel Illustrert Vitenskap. Kravet til etterprøvbarheit er svakare enn i den vitskaplege artikkelen. Ein lemper på krav til belegg og empiri, og som i essay er bruk av metafor vanleg.
+Den populærvitskaplege artikkelen vil i likskap med den vitskaplege artikkelen og fagartikkelen formidle ny innsikt og forskingsbasert kunnskap. Her er det imidlertid ei målsetting å kommunisere ny kunnskap utover det vitskaplege forskningsfellesskapet til eit "breiare lag av folket". Populærvitskaplege artiklar har ofte ei journalistisk språkdrakt. Du finn desse på nettstader som for eksempel Illustrert Vitenskap. Kravet til etterprøvbarheit er svakare enn i den vitskaplege artikkelen. Ein lemper på krav til belegg og empiri, og som i essay er bruk av metafor vanleg.
+
+## Andre kjelder
+
+Det finst mange kjelder som kan vere relevante for deg som student, under presenterer me eit utval.
 
 ### Lærebok
 
-Ei lærebok er ein type tekst skrive for studentar som skal introduserast til eit nytt fag eller emne. Læreboka refererar teoriar og faghistorikk, der målet er å inkludere studentar i eit akademisk fellesskap med sin særeigne diskurs. Ein læreboktekst tek ikkje stilling til kva som er ”det rette svaret” i faget, men dei teoriene forfatteren legg mest vekt på er ofte dei som ligg han eller ho sjølve nærast som fagperson.
+Ei lærebok er ein type tekst skrive for studentar som skal introduserast til eit nytt fag eller emne. Læreboka refererer teoriar og faghistorikk, der målet er å inkludere studentar i eit akademisk fellesskap med sin særeigne diskurs. Ein læreboktekst tek ikkje stilling til kva som er ”det rette svaret” i faget, men dei teoriene forfatteren legg mest vekt på er ofte dei som ligg han eller ho sjølve nærast som fagperson.
 
 ### Avhandling og andre studentoppgåver (eigne og andre sine)
 
-Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne innanfor faget. Eksempler er masteroppgåve, hovedoppgåve og doktorgradsavhandling. På desse nivåa er det strenge krav til teoriar og metodar, og fagmiljøet forventer nye forskingsresultat eller tilnærmingar til tema. 
+Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne innanfor faget. Eksempel er masteroppgåve, hovedoppgåve og doktorgradsavhandling. På desse nivåa er det strenge krav til teoriar og metodar, og fagmiljøet forventar nye forskingsresultat eller tilnærmingar til tema. 
 
 Bacheloroppgåver og andre mindre studentoppgåver kan nyttast som inspirasjon. Du kan få nyttige tips om tema for oppgåva di, gode lesetips i kjeldelister, oppsett og struktur. Me tilrår ikkje at du bruker slike oppgåver som faglege kjelder.  
 
@@ -62,7 +66,7 @@ Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei opp
 Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du kan nytte Google til raskt å finne informasjon, lese nettaviser for å finne siste nytt, eller sjå korleis emnet ditt blir dekka i media. Eit googlesøk kan gi deg treff på alt frå fagfellevurderte forskingsartiklar til hardkokte konspirasjonsteoriar. Ved å nytte internett som kunnskapskjelde blir du stilt ovanfor eit hav av informasjon. Det er såleis særs viktig at du [vurderer](/kjeldebruk/kjeldevurdering.html) det du finn kritisk med tanke på innhald, kontekst og opphav. 
 
 ### Leksikon
-Leksika inneheld fagleg, kvalitetssikra informasjon og bakgrunnsstoff om ein mengde emner. Artiklene er samla av eigne emneredaktørar innanfor ulike fagområder og har gode referanselister. Dei finnast både i trykte og elektroniske utgåver. 
+Leksika inneheld fagleg, kvalitetssikra informasjon og bakgrunnsstoff om ei mengd emne. Artiklane er samla av eigne emneredaktørar innanfor ulike fagområde og har gode referanselister. Dei finst både i trykte og elektroniske utgåver. 
 
 ::: tip Tips
 Nytt fagspesifikke leksika som for eksempel _Store Medisinske Leksikon_.
@@ -72,17 +76,17 @@ Leksikon er ei god kjelde å nytte når du treng definisjonar til omgrep, ord og
 
 ### Blogg
 
-Ein blogg kan vere ein grei innfallsvinkel for å følgje diskusjoner i ulike fora. Ver merksam på kven som står bak bloggen då dei ofte har ei dagbokform og reflekterer personlege erfaringar og meiningar. Bloggar bygger ikkje alltid på etterprøvbare og vitskaplege dokumenterte påstander. 
+Ein blogg kan vere ein grei innfallsvinkel for å følgje diskusjonar i ulike fora. Ver merksam på kven som står bak bloggen då dei ofte har ei dagbokform og reflekterer personlege erfaringar og meiningar. Bloggar byggjer ikkje alltid på etterprøvbare og vitskaplege dokumenterte påstandar. 
 
 ::: tip Tips!
 Undersøk om du kan finne ein relevant fagblogg. Sjå for eksempel bloggen til [Forskning.no](https://blogg.forskning.no/).
 :::
 
 ### Kronikk
-Kronikk er ein relativt kort artikkel av opplysande eller resonnerande karakter, oftast i ei avis og skrive av ein som ikkje er tilsett i avisa. Kronikkar nyttast ofte av forskare til å bringe forskingsbasert kunnskap inn i den offantlege meiningsutvekslinga. Kronikkar kan, på linje med leksika og Wikipedia, vere ein god stad å starte for å få ei grei oversikt på eit gitt emne og ei betre forståing av emne utan fagleg tunge ord og uttrykk.
+Kronikk er ein relativt kort artikkel av opplysande eller resonnerande karakter, oftast i ei avis og skrive av ein som ikkje er tilsett i avisa. Kronikkar nyttast ofte av forskarar til å bringe forskingsbasert kunnskap inn i den offentlege meiningsutvekslinga. Kronikkar kan, på linje med leksika og Wikipedia, vere ein god stad å starte for å få ei grei oversikt på eit gitt emne og ei betre forståing av emne utan fagleg tunge ord og uttrykk.
 
 ### Nyhende
-Nyhende kan vere aktuelt å nytte for å danne seg eit bilete av korleis ditt emne blir dekka av media og omtala i samtida. Merk at på same måte som kronikkar, populærvitskaplege tekstar og essay, er ikkje nyhende fagleg tunge, og bør ikkje brukast direkte til argumentasjon og drøfting. 
+Nyhende kan vere aktuelle å nytte for å danne seg eit bilete av korleis emne blir dekka av media og omtala i samtida. Merk at på same måte som kronikkar, populærvitskaplege tekstar og essay, er ikkje nyhende fagleg tunge, og bør ikkje brukast direkte til argumentasjon og drøfting. 
 
 
 ### Radio- eller TV-program
@@ -105,15 +109,14 @@ BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon ha
 
 ### Tabellar og grafar 
 
-Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje tillate å kopiere den inn i ditt eige arbeid utan samtykke frå opphavar. Skriv heller med dine eigne ord kva tabellen eller grafen seier – og vis til den, eller lag din eigen. Det enklaste kan vere å spørje opphavaren om lov til å bruke tabellen eller grafen. 
+Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje tillate å kopiere han inn i ditt eige arbeid utan samtykke frå opphavar. Skriv heller med dine eigne ord kva tabellen eller grafen seier – og vis til han, eller lag din eigen. Det enklaste kan vere å spørje opphavaren om lov til å bruke tabellen eller grafen. 
 
 ### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 
 <Video id="ktM1r1Ca5Tc" />
 
-## Andre kjelder
-Det finnes mange andre kjelder enn dei nemnd ovanfor som kan vere aktuelle.
+
 
 ## Oppgåve
 
