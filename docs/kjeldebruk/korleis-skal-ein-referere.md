@@ -27,7 +27,7 @@ Allmenne sanningar treng ikkje referanse, som for eksempel:
 
 Skriv du derimot om noko som ikkje er allment kjend, må du oppgje kvar du hentar opplysningane frå.
 
-Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å [plagiere](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-a-plagiere-unnga-brot-pa-opphavsretten).
+Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å [plagiere](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-plagiat-brot-pa-opphavsretten).
 
 **Førelesingar**
 
@@ -36,7 +36,7 @@ Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til 
 Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I så fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
 ## Opphavsrett 
-Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova] (lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
+Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
 
 I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
 
