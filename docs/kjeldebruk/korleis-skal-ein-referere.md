@@ -63,7 +63,7 @@ Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna so
 
 ::: 
 
-For meir om opphavsrett, sjå [DelRett](www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
+For meir om opphavsrett, sjå [DelRett](https://www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
 
 
 ## Sitat
