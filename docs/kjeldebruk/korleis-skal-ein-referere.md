@@ -40,9 +40,9 @@ Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsver
 
 I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
 
-## Korleis unngå å plagiere / bryte opphavsretten? 
+## Korleis unngå plagiat / brot på opphavsretten? 
 
-::: danger Korleis unngå å plagiere?
+::: danger Korleis kan du unngå å plagiere?
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
@@ -56,9 +56,9 @@ Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er
 
 Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – viss du kopierer eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass. Vis alltid kvar du har henta informasjon eller formuleringar frå; då er du trygg. 
 
-::: tip
+::: warning Sjøvplagiat 
 
-Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert også rekna som plagiat. 
+Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemlig også rekna som plagiat. 
 
 ::: 
 
