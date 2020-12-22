@@ -5,6 +5,7 @@ tags:
   - "kildebruk"
   - "henvisning"
   - "plagiat"
+  - "fusk"
   
 ---
  # Korleis skal ein referere? 
@@ -39,7 +40,7 @@ Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsver
 
 I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
 
-## Korleis unngå å plagiere / unngå brot på opphavsretten? 
+## Korleis unngå å plagiere / bryte opphavsretten? 
 
 ::: danger Korleis unngå å plagiere?
 
@@ -53,11 +54,12 @@ Vips, så har du unngått å plagiere!
 
 Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å ha framstilt andre sine resultat, tankar, idear eller formuleringar som om dei var dine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). 
 
-Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – i form av at du kopierer eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass. Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. 
+Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – viss du kopierer eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass. Vis alltid kvar du har henta informasjon eller formuleringar frå; då er du trygg. 
 
 ::: tip
 
-Dette gjeld òg for dine eigne arbeid: _Sjølvplagiat_ er også rekna som plagiat. 
+Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert også rekna som plagiat. 
+
 ::: 
 
 For meir om opphavsrett, sjå [DelRett](www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
@@ -80,7 +82,7 @@ Sitater som har meir enn 40 ord skal (i APA) skrivast i eit eiget avsnitt med in
 
 ### Ved endringar i sitatet 
 
-På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gjere endringar på sitatet. Det kan vere å ta vekk delar av sitatet, eller å legge til ord for å få lesaren til å forstå samanhengen. Om du har eit lengre sitat med ein del irrelevante passasjar kan det vere aktuelt å **utelate** delar av sitatet. Dette må markerast tydeleg og med tre prikkar i skarpe klammer \[ ... \] eller vanlege parentesar ( ... ). Om du utelét eitt eller to ord kan det markerast med ... (tre prikkar). Dersom du utelét fleire ord, kan du nytta parentes.
+På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gjere endringar på sitatet. Det kan vere å ta vekk delar av sitatet, eller å legge til ord for å få lesaren til å forstå samanhengen. Om du har eit lengre sitat med ein del irrelevante passasjar kan det vere aktuelt å **utelate** delar av sitatet. Dette må markerast tydeleg. Om du utelét eitt eller to ord kan det markerast med ... (tre prikkar). Dersom du utelét fleire ord, kan du nytta skarpe klammer \[ ... \] eller vanlege parentesar ( ... ). 
 
 
 ::: eksempel Eksempel
