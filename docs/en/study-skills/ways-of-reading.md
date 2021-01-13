@@ -2,6 +2,8 @@
 title: "Ways of reading"
 date: "2013-02-21"
 ---
+tags: 
+  - "note taking"
 
 # Ways of reading
 
