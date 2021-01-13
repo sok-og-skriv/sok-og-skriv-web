@@ -10,7 +10,7 @@ When studying you have to read different types of texts: textbooks, reference wo
 
 ## Be aware of different genres
 
-In other words, the texts you read belong to different genres. Being conscious of genres will aid your understanding and interpretation of a text. Genre is also a useful concept when writing - look for inspiration in the texts you have read. If you are writing a term paper, bachelor’s thesis or home examination, the text should be more like an article than a textbook chapter. That is, the text should consist of arguments and debate, rather than simply present factual knowledge.
+In other words, the texts you read belong to different genres. Being conscious of genres will aid your understanding and interpretation of a text. Genre is also a useful concept when writing - look for inspiration in the texts you have read. If you are writing a term paper, bachelor’s thesis or home examination, the text should be more like an article than a textbook chapter. That is, the text should consist of arguments and discussion, rather than simply present factual knowledge.
 
 In school one learns about literary genres (poems, short stories, novels, plays etc.) and non-fiction genres. There are both scholarly and non-scholarly genres within non-fiction. Non-scholarly examples are journalistic texts, such as editorials and news reports. The following section describes some genres of academic writing and outlines their particular characteristics.
 
