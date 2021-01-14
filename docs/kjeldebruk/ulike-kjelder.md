@@ -3,7 +3,7 @@ title: "Ulike kjelder"
 date: "2020-04-28"
 ---
 # Ulike kjelder
-Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
+Ifølgje [Store norske leksikon](https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
 
 ## Kva er formålet med kjelda?
 Når du skal finne informasjon til oppgåva di vil du sjå at informasjon kan bli framstilt på mange ulike måtar og i ulike format. Å skrive oppgåve handlar mykje om å finne fram til relevante og gode kjelder. Kvar kjelde har si meining og sitt mål. I mange tilfelle vil kjelder som føl den [akademiske sjangeren](/studieteknikk/akademiske-sjangrer.html) best byggje opp under [argumentasjonen](/skriving/argumentere-redegjore-drofte.html) og det faglege innhaldet i oppgåva di. Andre gonger er det meir relevant å nytte t.d. lover eller oppslagsverk. Kva kjelder du treng vil avhenge av kva du skriv om og kva du ønskjer å poengtere. 
@@ -38,7 +38,12 @@ Artiklar som ikkje er fagfellevurderte kan også vere relevante og gode. Vurder 
 
 ### Essay
 
-Essayet er ein personleg forma artikkel. Det er tydeleg prega av forfatteren, av forfattaren sine eigne meningar og haldninger. Forfatteren kan ta i bruk personlege opplevingar, anekdotar eller metaforar som illustrerande eksempel. Det er ofte skrivne for å underhalde og kan førast i eit assosiativt språk. Essayet er ein sjanger som ligg mellom fagtekst og prosatekst.
+Det klassiske essayet er ein personleg forma artikkel. Det er tydeleg prega av forfatteren sine eigne meningar og haldninger. Forfatteren kan ta i bruk personlege opplevingar, anekdotar eller metaforar som illustrerande eksempel. Det er ofte skrive for å underhalde og kan førast i eit assosiativt språk. Essayet er ein sjanger som ligg mellom fagtekst og prosatekst.
+
+::: tips Akademisk essay? 
+
+Det akademiske essayet er ein sjanger som er sjeldan er særleg klårt definert. Dersom du blir beden om å skrive eit "essay" er det viktig å studere retningslinjene på fagets emnesider og liknande.
+::: 
 
 ### Populærvitskapleg artikkel
 
