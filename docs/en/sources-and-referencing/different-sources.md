@@ -31,7 +31,12 @@ Always consider the source for both peer-reviewed articles and articles publishe
 
 ### Essay 
 
-The essay is a personalized form of an article.  It is clearly shaped by the authors, and often contain their opinions and attitudes.  The author can use personal experiences, anecdotes, or methaphors as illustrative examples.  It is often written with the intention to entertain and can be presented in a more approachable language.  The essay falls into a genre of writing between subject and prose based writing.   
+The classical essay is a personalized form of an article that is clearly shaped by the author's opinions and attitudes. The author may use personal experiences, anecdotes, or methaphors as illustrative examples.  It is often written with the intention to entertain and can be presented in a more approachable language. The classical essay falls into a genre of writing between subject and prose based writing.   
+
+::: tip Academic essay?
+The academic essay is a genre that can be defined in various ways. Make sure to consult your course material for formal requirements
+
+::: 
 
 
 ### Popular science article  
