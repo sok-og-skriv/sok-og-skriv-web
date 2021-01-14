@@ -40,7 +40,7 @@ Artiklar som ikkje er fagfellevurderte kan også vere relevante og gode. Vurder 
 
 Det klassiske essayet er ein personleg forma artikkel. Det er tydeleg prega av forfatteren sine eigne meningar og haldninger. Forfatteren kan ta i bruk personlege opplevingar, anekdotar eller metaforar som illustrerande eksempel. Det er ofte skrive for å underhalde og kan førast i eit assosiativt språk. Essayet er ein sjanger som ligg mellom fagtekst og prosatekst.
 
-::: tips Akademisk essay? 
+::: tip Akademisk essay? 
 
 Det akademiske essayet er ein sjanger som er sjeldan er særleg klårt definert. Dersom du blir beden om å skrive eit "essay" er det viktig å studere retningslinjene på fagets emnesider og liknande.
 ::: 
