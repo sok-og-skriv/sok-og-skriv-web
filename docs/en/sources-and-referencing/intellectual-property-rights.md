@@ -1,7 +1,10 @@
 ---
 title: "Intellectual property rights"
 date: "2013-02-22"
----
+tags: 
+  - "plagiarism"
+  
+ ---
 
 # Intellectual property rights
 
@@ -47,6 +50,16 @@ The legal position with regard to quoting from a copyright work is regulated by 
 > **§ 29.** You may quote from a published work provided that you comply with good practice and that the extent of the quotation does not exceed what is necessary.
 
 A quotation is defined as a non-substantial excerpt from a work (regardless of the nature of the work) for use in your own presentation. You may quote from copyright-protected work to a limited extent without obtaining permission and without payment. Nevertheless, you must remember to [reference your source correctly](/en/sources-and-referencing/how-to-cite/ "How to cite").
+
+::: warning How to avoid plagiarism?
+
+The most important thing is to **never copy + paste without a proper citation**. 
+
+If you want to paraphrase - relate the contents with your own words - you might want to put away the source while writing. That way it is much easier to find your own expressions. Cite the source as usual. 
+
+Voilà - now you have not plariarised! 
+  
+:::  
 
 ## Using copyright-protected material
 

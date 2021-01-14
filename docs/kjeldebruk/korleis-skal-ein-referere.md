@@ -42,11 +42,13 @@ I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det
 
 ## Korleis unngå plagiat / brot på opphavsretten? 
 
-::: danger Korleis kan du unngå å plagiere?
+::: warning Korleis kan du unngå å plagiere?
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda. 
+Gjengi sitat ordrett med "sittateikn", **eller** parafraser (gjengi innholdet med eigne ord). 
+
+Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
 
 Vips, så har du unngått å plagiere!
   
