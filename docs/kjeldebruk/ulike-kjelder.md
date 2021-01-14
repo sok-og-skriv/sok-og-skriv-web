@@ -74,7 +74,7 @@ Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du ka
 Leksika inneheld fagleg, kvalitetssikra informasjon og bakgrunnsstoff om ei mengd emne. Artiklane er samla av eigne emneredaktørar innanfor ulike fagområde og har gode referanselister. Dei finst både i trykte og elektroniske utgåver. 
 
 ::: tip Tips
-Nytt fagspesifikke leksika som for eksempel _Store Medisinske Leksikon_.
+Nytt gjerne fagspesifikke leksika som for eksempel _Store Medisinske Leksikon_.
 :::
 
 Leksikon er ei god kjelde å nytte når du treng definisjonar til omgrep, ord og uttrykk.  
