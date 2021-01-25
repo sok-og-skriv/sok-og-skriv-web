@@ -33,7 +33,7 @@ Once completely familiar with the text, take a break. Make sure, however, that y
 
 ## Ask questions
 
-Ask the text questions. Try to “force” it to provide you with answers. Trying to clarify something you wonder about or do not understand while reading makes the reading both easier and more interesting. Ask different questions depending on why you are reading; from general questions about the text’s agenda, message and argumentation, to the specifics of particular words and concepts, or what an example in the text intends to illustrate. The idea is not that the text will think fpr you, but that you use it as an aid in thinking about your topic and your thesis.
+Ask the text questions. Try to “force” it to provide you with answers. Trying to clarify something you wonder about or do not understand while reading makes the reading both easier and more interesting. Ask different questions depending on why you are reading; from general questions about the text’s agenda, message and argumentation, to the specifics of particular words and concepts, or what an example in the text intends to illustrate. The idea is not that the text will think for you, but that you use it as an aid in thinking about your topic and your thesis.
 
 ## Exercise
 
