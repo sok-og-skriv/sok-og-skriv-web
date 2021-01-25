@@ -26,7 +26,9 @@ Men hva betyr det å redegjøre, og hva er egentlig drøfting?
 
 ### Forklar med egne ord
 
-Å redegjøre betyr å beskrive eller presentere et stoff. Når du redegjør, skal du ikke ta stilling til innholdet, for eksempel si om det er bra eller dårlig, uttrykke dine egne meninger eller stille (for mange) spørsmål ved det du beskriver. ### Redegjørelse
+Å redegjøre betyr å beskrive eller presentere et stoff. Når du redegjør, skal du ikke ta stilling til innholdet, for eksempel si om det er bra eller dårlig, uttrykke dine egne meninger eller stille (for mange) spørsmål ved det du beskriver.
+
+### Redegjørelse
 
 I en redegjørelse skal du sammenfatte og gjengi et innhold uten å ta stilling til det. Når du redegjør for teori skal du presentere en annen tenkers ideer på en mest mulig redelig måte. Testen på en god redegjørelse er at den skal kunne godkjennes av opphavspersonen. En nøytral beskrivelse gir deg et mye bedre ståsted for (eventuell) kritikk enn en presentasjon som er negativt vinklet.
 
