@@ -16,7 +16,7 @@ tags:
 
 # Kom i gang med å skrive
 
-Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser der flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det - og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
+Det å jobbe med en større tekst, betyr å være i en skapende prosess. Slike prosesser har ulike faser der flyt og skriveglede veksler med tregere partier og rent skrivearbeid. Tvil og usikkerhet gjenspeiler gjerne at oppgaven foreløpig ikke har funnet sin form. Samtidig er det lett å la seg inspirere, og de mest uventede ting kan bli viktige for deg. Nyt det – og vit at det _skal_ gå litt opp og ned i en kreativ prosess!
 
 Kanskje vil du også oppleve en uro – et ubehag det er vanskelig å sette ord på – ved selve teksten. Dette kan være tegn på at du trenger å tenke nytt, og kanskje omstrukturere oppgaven. Så snart du tar fatt i problemet vil du kunne oppleve at det løsner, og ideene begynner å falle på plass. Strukturen "sitter" når det ikke lenger er mulig å flytte rundt på de ulike delene.
 
@@ -107,7 +107,7 @@ En tenketekst er en privat og kreativ tekst som kan hjelpe deg i gang med skrive
 Hurtigskriving er en metode for å skrive en tenketekst som kan utvikles videre.
 
 - Sett temaet du vil undersøke som overskrift
-- Skriv uten stans mellom 10-30 minutter uten å løfte fingrene fra tastaturet eller pennen fra papiret
+- Skriv uten stans i 10–30 minutter uten å løfte fingrene fra tastaturet eller pennen fra papiret
 - Etterpå leser du igjennom teksten din, streker under nøkkelmomenter og begynner å strukturere ideer
 - Del gjerne teksten inn i mindre biter med mellomoverskrifter 
 
