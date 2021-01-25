@@ -147,7 +147,7 @@ There should be a strong connection between your conclusion and your introductio
 
 Recommended reading:
 
-J. Schimel, 2012 _Writing Science. How to write papers that get cited and proposals that get funded. _New York: Oxford University Press
+J. Schimel, 2012 _Writing Science. How to write papers that get cited and proposals that get funded._ New York: Oxford University Press
 
 ---
 
