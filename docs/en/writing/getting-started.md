@@ -5,9 +5,9 @@ date: "2020-06-23"
 
 # The writing process 
 
-Working on a large body of work requires dedication to the creative process. These processes have different phases where flow and inspiration alternate with slower and more considered periods of writing. Doubt and uncertainty will often come up when the work hasn’t quite found its shape, whereas at other times, you will find inspiration easily. Enjoy it - and know that it is _normal_ for the process to ebb and flo.  
+Working on a large body of work requires dedication to the creative process. These processes have different phases where flow and inspiration alternate with slower and more considered periods of writing. Doubt and uncertainty will often come up when the work hasn’t quite found its shape, whereas at other times, you will find inspiration easily. Enjoy it – and know that it is _normal_ for the process to ebb and flo.  
 
-You may also experience 'text turmoil' - a discomfort that is difficult to put into words - that comes from the text itself. This could indicate that you need to rethink, and perhaps restructure what you’re writing. As soon as you begin to tackle the problem, you will find that it loosens up and ideas begin to fall into place. The structure will fall into place when you can’t move around the different parts anymore. 
+You may also experience 'text turmoil' – a discomfort that is difficult to put into words – that comes from the text itself. This could indicate that you need to rethink, and perhaps restructure what you’re writing. As soon as you begin to tackle the problem, you will find that it loosens up and ideas begin to fall into place. The structure will fall into place when you can’t move around the different parts anymore. 
 
 ::: tip How do I start writing? 
 
@@ -66,7 +66,7 @@ Brainstorming is a great tool for getting an overview of what you already know a
 
 - Note important book titles, journal articles and different types of research 
 
-Ideas can pop up anytime - always have pen and paper ready! 
+Ideas can pop up anytime – always have pen and paper ready! 
 
 ::: tip Tips: 
 
@@ -114,7 +114,7 @@ Free writing is a technique to help move your ideas forward.
 
 - Chose the topic you want develop, and make this the heading. 
 
-- Write non-stop for between 10-30 minutes without lifting your fingers from the keyboard or pen from the paper.   
+- Write non-stop for 10–30 minutes without lifting your fingers from the keyboard or pen from the paper.   
 
 - Afterwards, read through the text, highlight any key points and begin to structure your ideas.   
 

@@ -37,7 +37,7 @@ I en teoretisk oppgave er [argumentasjon](/skriving/argumentere-redegjore-drofte
 Det er også viktig å signalisere hva som er gjengivelse av andres ideer og hva som er din _egen_ tolkning og argumentasjon. Slik hjelper du leseren til å følge dine resonnementer, og viser at du kan ta forbehold der det er nødvendig. Dette hører til forskerrollens ideal om refleksivitet og objektivitet.
 
 ::: oppgave Reversdisponering
-Hvis du lurer på om teksten din har en tydelig struktur, kan du "tagge" avsnittene, for eksempel med post-it-lapper. Notér poenget fra hvert avsnitt i form av stikkord. Dersom avsnittene har flere enn ett poeng, kan du vurdere å dele dem opp eller flytte innholdet. Det som hører sammen (logisk), bør også stå sammen. 
+Hvis du lurer på om teksten din har en tydelig struktur, kan du "tagge" avsnittene, for eksempel med Post-it-lapper. Notér poenget fra hvert avsnitt i form av stikkord. Dersom avsnittene har flere enn ett poeng, kan du vurdere å dele dem opp eller flytte innholdet. Det som hører sammen (logisk), bør også stå sammen. 
 
 Deretter kan du se på sammenhengen. Står poengene i riktig rekkefølge? Er det noe som må flyttes på? Bruk Post-it-lappene og prøv deg fram. 
 :::
@@ -51,15 +51,15 @@ På bakgrunn av drøftingen kan du trekke slutninger (konklusjon er en type slut
 
 Nedenfor følger en enkel «oppskrift» på argumentasjon i et avsnitt. Formelen kan også brukes i ikke-argumenterende avsnitt. Husk likevel at det å skrive godt, ikke betyr å følge en bestemt oppskrift, men å bruke oppskrifter, forbilder osv. som inspirasjon til å forme ditt _eget_ uttrykk.
 
-**Tema - hva handler dette om?**
+**Tema – hva handler dette om?**
 
 Det første som må klargjøres når du skal argumentere, er hva det handler om, altså temaet. Den første setningen i et avsnitt bør derfor være en «temasetning» som viser hva avsnittet dreier seg om. Temasetningen kan være en påstand, eller den kan lede opp mot en påstand som du deretter skal utdype og begrunne.
 
-**Utdypning - hvordan og hvorfor**
+**Utdypning – hvordan og hvorfor**
 
 I en akademisk tekst forventes det at påstander underbygges og begrunnes. På engelsk brukes termen evidens. Evidens kan enten være empiri (forskningsdata, undersøkelser, fakta og utsagn som kan verifiseres) eller teoretiske begrunnelser. Påstander som ikke er begrunnet, kan heller ikke drøftes, men faller under kategorien «synsing». I drøftingen er det nemlig som regel begrunnelsene som diskuteres - er de gode eller dårlige? Fins det andre mulige forklaringer? For å undersøke dette, kan det være veldig nyttig å vise til eksempler.
 
-**Relevans - hva er dette eksempel på?**
+**Relevans – hva er dette eksempel på?**
 
 Relevansen av et argument blir tydeligst når du bruker eksempler. Gjennom eksempler kan du vise hvordan du forstår temaet i praksis, og du kan få med nyanser som vekkes hos leseren i form av gjenkjennelse og assosiasjoner. Et velvalgt eksempel kan dermed spare deg for mye ekstra forklaring. En annen måte å vise relevans på, er ved å trekke slutninger. 
 
