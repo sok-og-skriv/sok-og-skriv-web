@@ -87,12 +87,12 @@
           </div>
           <div class="container two-column footer-links">
             <div class="align-right">
-              <div><a href="/om/">Om Søk og skriv</a></div>
+              <div><a href="/om/">Om Søk & skriv</a></div>
               <div><a href="/om/kontaktinformasjon.html">Kontaktinformasjon</a></div>
-              <div><a href="/om/sok-og-skriv-i-undervisning.html">Søk og skriv i undervisning</a></div>
+              <div><a href="/om/sok-og-skriv-i-undervisning.html">Søk & skriv i undervisning</a></div>
             </div>
             <div class="align-left">
-              <div><a href="/en/about/">About Search and write</a></div>
+              <div><a href="/en/about/">About Search & write</a></div>
               <div><a href="/en/about/contact-information.html">Contact</a></div>
             </div>
           </div>
