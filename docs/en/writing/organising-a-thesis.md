@@ -113,14 +113,20 @@ If you are analysing human actions, you may want to engage the reader’s emotio
 
 ## 5. Discussion
 
-In many thesis the discussion is the most important section. Make sure that you allocate enough time and space for a good discussion. This is your opportunity to show that you have understood the significance of your findings and that you are capable of applying theory in an independent manner.
+The discussion is often the most important section. Make sure that you allocate enough time and space for a good discussion. This is your opportunity to show that you have understood the significance of your findings and that you are capable of applying theory in an independent manner.
 
-The discussion will consist of argumentation. In other words, you investigate a phenomenon from several different perspectives. To discuss means to question your findings, and to consider different interpretations. Here are a few examples of formulations that signal argumentation:
+The discussion will consist of argumentation. In other words, you elucidate a phenomenon from several different perspectives. To discuss means to question your findings, and to consider different interpretations. Here are a few examples of formulations that signal argumentation:
 
 - On the one hand ... and on the other ...
 - However ...
 - ... it could also be argued that ...
 - ... another possible explanation may be ...
+
+::: tip Consult a phrasebank
+
+The University of Manchester offers a compilation of phrases that can be used for different purposes, including discussion. See [Manchester University Phrasebank](http://www.phrasebank.manchester.ac.uk/)
+
+::: 
 
 ## 6. Conclusion – or summary?
 

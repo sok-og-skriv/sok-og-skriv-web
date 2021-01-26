@@ -4,7 +4,7 @@ date: "2013-02-22"
 tags: 
   - "plagiarism"
   
- ---
+   ---
 
 # Intellectual property rights
 
