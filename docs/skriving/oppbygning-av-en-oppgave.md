@@ -129,15 +129,23 @@ Ikke alle oppgaver har et eget kapittel for analyse: Det kan også være aktuelt
 
 ## Drøfting
 
-I mange oppgaver er drøftingen (eller diskusjonen) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Dette er din anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte.
+I mange oppgaver er drøftingen (eller diskusjonen) det viktigste. Pass derfor på at du har tid og plass til å gjennomføre en skikkelig drøfting. Dette er din anledning til å vise at du har forstått betydningen av funnene dine, og at du kan bruke teorien på en selvstendig måte. Typiske oppgaver for en drøfting: 
 
-I en drøfting undersøker vi et fenomen fra flere perspektiver. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på formuleringer som signaliserer drøfting:
+- Bringe sammen de ulike delene av oppgaven
+- Belyse funn/analysetema/resultater ved hjelp av teori  
+- Utforske spenninger i ditt materiale  
+- Bruke argumenter og motargumenter 
+- Vurdere alternative forklaringer/tolkninger
+
+> Spør deg selv: Hva betyr det jeg har funnet? Hvordan vil jeg forklare det? Hva er implikasjonene for fagfeltet/profesjonen?
+
+I en drøfting undersøker vi et fenomen fra flere perspektiver. Når du stiller spørsmål til det du har redegjort for, og vurderer ulike tolkninger, foretar du en drøfting. Her er noen få eksempler på aktuelle formuleringer:
 
 - På den ene siden ... og på den andre
 - Men er det virkelig slik at ... eller kan det også ... ?
 - Dersom x er tilfelle, vil det også kunne ... 
 - I lys av x, kan det se ut til at ... 
-- En annen mulig forklaring kan være ...
+- En annen, mulig forklaring kan være ...
 - I motsetning til tidligere studier, ser det ut til at ... 
 
 Les mer om [drøfting her](/skriving/argumentere-redegjore-drofte.html#drofting-se-etter-en-forskjell).
