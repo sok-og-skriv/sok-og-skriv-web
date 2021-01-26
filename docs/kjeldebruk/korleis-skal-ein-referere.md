@@ -6,8 +6,8 @@ tags:
   - "henvisning"
   - "plagiat"
   - "fusk"
-  
 ---
+
  # Korleis skal ein referere? 
 
 Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du føl denne konsekvent. Ver også konsekvent når det gjeld engelsk vs. norsk rettskriving, oppsett av dato mv. 
