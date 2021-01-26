@@ -6,8 +6,8 @@ tags:
   - "henvisning"
   - "plagiat"
   - "fusk"
-  
 ---
+
  # Korleis skal ein referere? 
 
 Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du føl denne konsekvent. Ver også konsekvent når det gjeld engelsk vs. norsk rettskriving, oppsett av dato mv. 
@@ -42,11 +42,13 @@ I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det
 
 ## Korleis unngå plagiat / brot på opphavsretten? 
 
-::: danger Korleis kan du unngå å plagiere?
+::: warning Korleis kan du unngå å plagiere?
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda. 
+Gjengi sitat ordrett med "sittateikn", **eller** parafraser (gjengi innholdet med eigne ord). 
+
+Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
 
 Vips, så har du unngått å plagiere!
   
