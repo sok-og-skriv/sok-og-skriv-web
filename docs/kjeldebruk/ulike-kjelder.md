@@ -20,21 +20,23 @@ Ein vitskapleg artikkel er ein tekst der forfattaren greier ut om eit emne eller
 
 ### Oversiktsartikkel / review-artikkel
 
-Ein oversiktsartikkel er ein forskingsartikkel som gir overblikk over eit fagleg spørsmål på bakgrunn av eit større antall studiar. Artikkelen presenterer ein samanfattande analyse av kunnskapsstatus på feltet som skal gjere det lettare for forskarar å orientere seg om dei store linjene i forskinga.
+Ein oversiktsartikkel er ein forskingsartikkel som gir overblikk over eit fagleg spørsmål på bakgrunn av eit større antal studiar. Artikkelen presenterer ei samanfattande analyse av kunnskapsstatus på feltet som skal gjere det lettare for forskarar å orientere seg om dei store linene i forskinga.
 
 ### Fag- eller forskingsartikkel? 
 
-Det er vanleg å skilje mellom fag- og forskingsartikkel, og det blir forventa at du klarer å skilje mellom når du nytter den eine og når du nytter den andre typen artikkel. 
+Det er vanleg å skilje mellom fag- og forskinsartikkel, og det blir forventa at du veit kor dette skiljet går.
 
 Ifølgje [Sykepleien.no](https://sykepleien.no/forskning/2012/02/forskningsartikkel-eller-fagartikkel) har ein forskingsartikkel som føremål å presentere ny forsking, medan fagartiklar oppsummerar kunnskap som allereie er kjend. På grunn av forskningsartikkelen sitt krav om at resultata skal kunne kontrollerast og etterprøvast skal denne type artikkel derfor innehalde nøyaktig informasjon om korleis forskarane har gått fram for å undersøke problemstillinga. 
 
-I mange tilfelle er artiklane merka med kva type artikkel dei er, for eksempel "research article", "review" også vidare. Viss artikkelen ikkje er merka må du sjølv vurdere om det er ein fag- eller forskingsartikkel. Vurder om artikkelen presenterer ny kunnskap eller om han tek utgongspunkt i kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å sjå om metoden er beskrive så grundig at du kunne ha gjort meir eller mindre nøyaktig det same. 
+::: tip Tips 
+
+Forskingsartiklar vil ofte vere merka med formuleringar som "research article", «peer reviewed» «scholarly» eller liknande. Dersom artikkelen ikkje er merka kan du vurdere om artikkelen presenterer ny kunnskap, eller om han tek utgongspunkt i kunnskap som er presentert tidlegare. Vurder også metodekapittelet for å sjå om funna kan etterprøvast. 
+::: 
 
 ### Fagfellevurdering (peer review)
 
 Fagfellevurdering inneber at ein artikkel blir vurdert av minst to fagpersonar innan same forskningsfelt før han blir akseptert for publisering. Artikkelforfattar får tilbakemelding på tekst og får konkrete forslag til forbetringar som må utførast før artikkelen eventuelt kan bli publisert. På denne måten blir artikkelen kvalitetssikra. Dette skal bidra til at artikkelen føl akademiske og vitskaplege normer som er gjeldane innanfor faget.  
 
-Artiklar som ikkje er fagfellevurderte kan også vere relevante og gode. Vurder alltid kjelda både for fagfellevurderte artiklar, og artiklar publisert i andre tidsskrift.
 
 ### Essay
 
@@ -42,7 +44,7 @@ Det klassiske essayet er ein personleg forma artikkel. Det er tydeleg prega av f
 
 ::: tip Akademisk essay? 
 
-Det akademiske essayet er ein sjanger som er sjeldan er særleg klårt definert. Dersom du blir beden om å skrive eit "essay" er det viktig å studere retningslinjene på fagets emnesider og liknande.
+Det akademiske essayet er ein sjanger som sjeldan er særleg klårt definert. Dersom du blir beden om å skrive eit "essay" er det viktig å studere retningslinene på faget sine emnesider og liknande.
 ::: 
 
 ### Populærvitskapleg artikkel
@@ -83,7 +85,7 @@ Leksikon er ei god kjelde å nytte når du treng definisjonar til omgrep, ord og
 
 Ein blogg kan vere ein grei innfallsvinkel for å følgje diskusjonar i ulike fora. Ver merksam på kven som står bak bloggen då dei ofte har ei dagbokform og reflekterer personlege erfaringar og meiningar. Bloggar byggjer ikkje alltid på etterprøvbare og vitskaplege dokumenterte påstandar. 
 
-::: tip Tips!
+::: tip Tips
 Undersøk om du kan finne ein relevant fagblogg. Sjå for eksempel bloggen til [Forskning.no](https://blogg.forskning.no/).
 :::
 
