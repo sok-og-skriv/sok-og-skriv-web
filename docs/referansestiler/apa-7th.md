@@ -58,7 +58,7 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 
 _Alle forfatterne listes opp_ 
 
-<span class="ref">Gilje, N. & Grimen, H.(1993). Samfunnsvitenskapenes forutsetninger: Innføring i samfunnsvitenskapenes vitenskapsfilosofi. Universitetsforlaget.</span> 
+<span class="ref">Gilje, N. & Grimen, H. (1993). Samfunnsvitenskapenes forutsetninger: Innføring i samfunnsvitenskapenes vitenskapsfilosofi. Universitetsforlaget.</span> 
 
 **Tre til 21 forfattere:**
 
