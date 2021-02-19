@@ -2,9 +2,16 @@
 title: "Akademiske sjangrer"
 date: "2012-06-19"
 next: "../skriving/"
-tabs: 
+tags: 
   - sjanger
   - kildetyper 
+  - teksttyper
+  - tekstforståelse
+  - sakprosa
+  - sjangerinndeling
+  
+   
+ 
 ---
 
 # Akademiske sjangrer
@@ -13,7 +20,7 @@ Når du studerer, leser du ulike typer tekster: lærebøker, oppslagsverk, viten
 
 Du leser med andre ord tekster i ulike sjangrer. Å være bevisst om hva slags sjanger du har å gjøre med når du leser en tekst, er en del av tekstforståelsen. Sjanger er også nyttig å tenke på når du skal skrive akademiske tekster selv, og lar deg inspirere av tekster du leser. Skal du for eksempel skrive en semesteroppgave (bacheloroppgave) eller en hjemmeeksamen, skal teksten du skriver ligne mer på en artikkel enn på et kapittel i en lærebok. Det betyr at du skal argumentere og problematisere - drøfte - og ikke bare presentere kunnskap.
 
-I skolen lærer man om både skjønnlitterære sjangrer (dikt, noveller, romaner, skuespill) og om sakprosasjangrer. Innenfor sakprosa finner vi både akademiske og ikke-akademiske sjangrer. Eksempler på det siste er journalistiske sjangrer som lederartikkel og nyhetsreportasje. Her skal vi kort omtale noen akademiske sjangrer og hva som kjennetegner dem.
+På skolen lærer man om både skjønnlitterære sjangrer (dikt, noveller, romaner, skuespill) og om sakprosasjangrer. Innenfor sakprosa finner vi både akademiske og ikke-akademiske sjangrer. Eksempler på det siste er journalistiske sjangrer som lederartikkel og nyhetsreportasje. Her skal vi kort omtale noen akademiske sjangrer og hva som kjennetegner dem.
 
 
 ### Lærebok
