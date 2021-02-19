@@ -554,8 +554,8 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
 <span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Regjeringen. https://www.regjeringen.no/</span>
-<span class="ref">Utdanningsdirektoratet. (2020).Læreplan i naturfag (NAT01-04). https://www.udir.no/lk20/nat01-04</span>
-<span class="ref">Kunnskapsdepartementet. (2017). Rammeplan for barnehagen: Forskrift om rammeplan for barnehagens innhold og oppgaver. Udir. https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf</span>
+<span class="ref">Utdanningsdirektoratet. (2020). _Læreplan i naturfag (NAT01-04)_. https://www.udir.no/lk20/nat01-04</span>
+<span class="ref">Kunnskapsdepartementet. (2017). _Rammeplan for barnehagen: Forskrift om rammeplan for barnehagens innhold og oppgaver_. Udir. https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf</span>
 
 
 ::: details I EndNote
