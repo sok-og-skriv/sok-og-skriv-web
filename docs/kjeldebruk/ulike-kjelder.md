@@ -1,6 +1,9 @@
 ---
 title: "Ulike kjelder"
 date: "2020-04-28"
+tags: 
+- "kilder"
+- "kjelder"
 ---
 # Ulike kjelder
 Ifølgje [Store norske leksikon]( https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel frå ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 

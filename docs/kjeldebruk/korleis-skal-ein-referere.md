@@ -4,7 +4,11 @@ date: "2012-05-15"
 tags: 
   - "kildebruk"
   - "henvisning"
-  
+  - "kjeldebruk"
+  - "sitat"
+  - "sekundærkjelder"
+  - "sekundærkilder"
+  - "
 ---
  # Korleis skal ein referere? 
 
