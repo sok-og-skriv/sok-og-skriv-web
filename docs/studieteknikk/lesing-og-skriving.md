@@ -1,7 +1,7 @@
 ---
 title: "Lesing og skriving"
 date: "2012-12-07"
-tabs:
+tags:
   - oppgaveskriving
   - gjenbruk
   - stikkord

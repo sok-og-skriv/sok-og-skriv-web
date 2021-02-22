@@ -1,8 +1,9 @@
 ---
 title: "Studiegrupper"
 date: "2012-12-07"
-tabs:
+tags:
   - gruppearbeid
+  - samarbeid
   - respons 
   - tilbakemeldinger
   - kollokvie

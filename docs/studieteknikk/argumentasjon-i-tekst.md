@@ -1,8 +1,10 @@
 ---
 title: "Argumentasjon i tekst"
 date: "2012-12-07"
-tabs: 
+tags: 
   - argumentere 
+  - påstand
+  - utsagn
   - ryggdekning 
   - styrkemarkør 
   - relevans
