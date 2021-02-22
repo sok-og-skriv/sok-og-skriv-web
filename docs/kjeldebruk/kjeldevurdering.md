@@ -71,7 +71,8 @@ Sjå på teksten i lys av andre tekstar. Still følgjande spørsmål:
 - Er teksten prega av andre tekstar i samtida?
 
 ::: tip Tips 
-I denne filmen kan du lære meir om kjeldevurdering og -kritikk. <Video id="LswBxnztpzU" />  
+I denne filmen kan du lære meir om kjeldevurdering og -kritikk.
+<Video id="LswBxnztpzU" />  
 ::: 
 
 
