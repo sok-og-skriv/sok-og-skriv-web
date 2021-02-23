@@ -2,6 +2,7 @@
   "persons": [
     {
       "fullname": "Ingerid Straume",
+      "active": true,
       "affiliation": {
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
@@ -11,6 +12,7 @@
     },
     {
       "fullname": "Ingunn Rødland",
+      "active": true,
       "affiliation": {
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
@@ -20,6 +22,7 @@
     },
     {
       "fullname": "Iselin Brente",
+      "active": true,
       "affiliation": {
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
@@ -29,6 +32,7 @@
     },
     {
       "fullname": "June Audsdotter Stafsnes",
+      "active": true,
       "affiliation": {
         "no": "Høgskulen på Vestlandet",
         "en": "Western Norway University of Applied Sciences"
@@ -38,6 +42,7 @@
     },
     {
       "fullname": "Toril Engesæter",
+      "active": true,
       "affiliation": {
         "no": "Høgskulen på Vestlandet",
         "en": "Western Norway University of Applied Sciences"
@@ -47,6 +52,7 @@
     },
     {
       "fullname": "Øyunn Viken",
+      "active": false,
       "affiliation": {
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
@@ -56,6 +62,7 @@
     },
     {
       "fullname": "Tarje Sælen Lavik",
+      "active": true,
       "affiliation": {
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"

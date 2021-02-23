@@ -29,7 +29,7 @@ import data from './persons.json'
 export default {
   data () {
       return {
-          items: data.persons
+          items: data.persons.filter(person => person.active === true)
       }
   }
 }
