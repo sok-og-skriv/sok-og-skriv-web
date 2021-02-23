@@ -33,6 +33,7 @@
     {
       "fullname": "Iselin Brente",
       "active": false,
+      "timespan": "2019-2020",
       "affiliation": {
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
@@ -63,6 +64,7 @@
     {
       "fullname": "Øyunn Viken",
       "active": false,
+      "timespan": "2019-2020",
       "affiliation": {
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
@@ -73,6 +75,7 @@
     {
       "fullname": "Tarje Sælen Lavik",
       "active": true,
+      "timespan": "2009-    ",
       "affiliation": {
         "no": "Universitetet i Bergen",
         "en": "University of Bergen"
