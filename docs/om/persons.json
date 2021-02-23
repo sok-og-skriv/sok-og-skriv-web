@@ -21,8 +21,18 @@
       "url": "https://www.uib.no/personer/Ingunn.Rodland"
     },
     {
-      "fullname": "Iselin Brente",
+      "fullname": "Kathrine Cohen",
       "active": true,
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/persons/kathrine-150x150.jpg",
+      "url": "https://www.uib.no/personer/Kathrine.Cohen"
+    },
+    {
+      "fullname": "Iselin Brente",
+      "active": false,
       "affiliation": {
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
