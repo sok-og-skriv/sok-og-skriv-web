@@ -112,7 +112,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ::: details Flere eksempler
 De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken ... 
 
-<span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok._ (2. utg.) Akribe.</span>
+<span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
 
 For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 ::: 
@@ -407,9 +407,9 @@ I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 :::
 
 :::: ref
-<span class="ref">Lovens kortnavn. (Årstall). _Lang tittel_ (datokode). Hentet fra https://...</span>
+<span class="ref">Lovens kortnavn. (Årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
 
-<span class="ref">Folketrygdloven. (1997). _Lov om folketrygd_ (LOV-1997-02-28-19). Hentet fra [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
+<span class="ref">Folketrygdloven. (1997). _Lov om folketrygd_ (LOV-1997-02-28-19). Lovdata. [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
 
 ::: details I EndNote
 
@@ -417,7 +417,7 @@ I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 
 Legges inn som "Legal Rule or Regulation".
 
-Fyll ut feltene: Author (lovens korttittel), Year, Title (full tittel), Rule Number (datokode), URL.
+Fyll ut feltene: Author (lovens korttittel), Year, Title (full tittel), Rule Number (datokode), Publisher, URL.
 ::: 
 :::: 
 
