@@ -123,13 +123,13 @@ For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten.
 Det er mest vanlig å referere til enkelte kapittel i redigerte bøker. Dersom du skal referere til hele boken bruker du malen for bok.
 
 ::: teksten
-(Forfatter, årstall, evt. sidetall)
+(Kapittelforfatter, årstall, evt. sidetall)
 
 En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
+<span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
 
