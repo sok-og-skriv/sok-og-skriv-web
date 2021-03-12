@@ -31,15 +31,10 @@ Det kan også være en god idé å gjennomføre et søkeverksted der studentene 
 1. Hva er temaet for oppgaven?
 2. Hva er problemstillingen for oppgaven?
 3. Hvilke søkeord vil du bruke, og har disse synonymer?
-
-Norske søkeord
-
-Synonymer
-
-Søkeord på andre språk
-
-Synonymer på andre språk
-
+    * Norske søkeord
+    * Synonymer
+    * Søkeord på andre språk
+    * Synonymer på andre språk
 4. Hvordan vil du kombinere søkeordene?
 5. Søk i databasen(e) ved å kombinere søkeordene.
 6. Vurder trefflisten. Kan denne informasjonen brukes til å svare på din problemstilling? Bør du avgrense eller forandre søket ditt? Søke på mer spesifikke, eller mer generelle søkeord?
