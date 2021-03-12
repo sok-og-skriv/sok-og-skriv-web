@@ -670,7 +670,7 @@ For statistikker må du redegjøre for hvilke søk du har gjort, og hvordan du o
 
 ::: details Endnote
 Legges inn som "Dataset".
-Fyll ut feltene: Investigators, Year, Title, Distributor, Datatype, DOI, URL. Note: Sett komma etter navnet på investigator.
+Fyll ut feltene: Investigators, Year, Title, Distributor, Datatype, DOI, URL. Note: Sett komma etter navnet på investigators.
 :::
 ::::
 
