@@ -11,5 +11,12 @@ Før du går i gang med å søke, tenk over:
 *	Hvordan kan du finne denne informasjonen?
 *	Hvordan kan du vite at du har funnet tilstrekkelig og relevant informasjon?
 
+<Figure
+  src="/images/bibliotekar.jpg"
+  alt="Bibliotekar som ser på noen bøker"
+  caption="Bildetekst"
+  type=""
+/>
+
 I løpet av oppgaveskrivingen vil du ha bruk for forskjellige typer kilder, og kriteriene for å vurdere informasjon kan variere. På disse sidene introduseres noen verktøy og innganger som kan være nyttige i de ulike fasene.
 
