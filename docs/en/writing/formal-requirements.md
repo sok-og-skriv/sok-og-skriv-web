@@ -52,7 +52,7 @@ When you work on a paper in a template, the table of contents can be updated wit
 
 ## Headings
 
-You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1), while four is a maximum (ex: 1.1.1.1). 
+You may choose between numbered or unnumbered headings. The number of heading levels should correspond to the length of your paper. For a longer paper (for example a master’s thesis or doctoral dissertation) three heading levels is usually sufficient (ex: 1.1.1.), while four is a maximum (ex: 1.1.1.1.). 
 
 <List 
   image="/images/heading-numbering.svg"

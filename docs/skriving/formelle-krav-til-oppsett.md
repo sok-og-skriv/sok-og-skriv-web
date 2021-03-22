@@ -64,7 +64,7 @@ Når du arbeider med oppgaven i malen, vil innholdsfortegnelsen oppdateres med r
 
 ## Overskrifter
 
-Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1), mens fire regnes som maksimalt (eksempel: 1.1.1.1). 
+Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer tilpasses oppgavens lengde. I en lang oppgave (master- og PhD-avhandling) vil tre nivåer ofte være tilstrekkelig (eksempel: 1.1.1.), mens fire regnes som maksimalt (eksempel: 1.1.1.1.). 
 
 <List 
   image="/images/heading-numbering.svg"
