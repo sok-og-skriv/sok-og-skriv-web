@@ -22,7 +22,7 @@ Nettressursen [Eksamenskoden](https://eksamenskoden.no) dekker mye av det vi har
 <Figure
 src="/images/Søk & Skriv student i gruppe.jpg"
   alt="Fokus på en student i en gruppe på flere"
-  caption="Student i gruppe. Ill.foto: NHH"
+  caption="Student i gruppe. Foto: Simen Kjellin/UiO"
   type=""
 />
 
