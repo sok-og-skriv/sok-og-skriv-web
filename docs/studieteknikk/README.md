@@ -15,12 +15,12 @@ tags:
 Å være bevisst egen studieteknikk er til stor hjelp for alle som skal studere. Når vi skriver om studieteknikk her, vil vi konsentrere oss om lesing, lesestrategier og skrivestrategier. Vi har dermed utelatt det som handler om livskvalitet, mestring, kognitiv trening osv.
 
 ::: tip Studiemestring 
-Nettressursen https://eksamenskoden.no/ dekker mye av det vi har utelatt. Vi anbefaler at du klikker deg inn og plukker opp noen gode tips. 
+Nettressursen [Eksamenskoden](https://eksamenskoden.no) dekker mye av det vi har utelatt. Vi anbefaler at du klikker deg inn og plukker opp noen gode tips. 
 ::: 
 
 
 <Figure
-  src="/https://gitlab.com/-/ide/project/sok-og-skriv/sok-og-skriv.gitlab.io/tree/485-endre-i-innleiande-del-av-studieteknikk/-/docs/.vuepress/public/images/#"
+src="docs/.vuepress/public/images/student i gruppe.jpg"
   alt="Fokus på en student i en gruppe på flere"
   caption="Student i gruppe. Ill.foto: NHH"
   type=""
