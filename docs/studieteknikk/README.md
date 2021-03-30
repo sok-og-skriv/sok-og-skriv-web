@@ -12,19 +12,13 @@ tags:
 
 # ![](/images/illustrasjoner_lesing_500x450.png) Studieteknikk
 
-Å være bevisst egen studieteknikk er til stor hjelp for alle som skal studere. Når vi skriver om studieteknikk her, vil vi konsentrere oss om lesing, lesestrategier og skrivestrategier. Vi har dermed utelatt det som handler om livskvalitet, mestring, kognitiv trening osv.
+Å være bevisst egen studieteknikk er til stor hjelp for alle som skal studere. Når vi skriver om studieteknikk her, vil vi konsentrere oss om lesing, lesestrategier og skrivestrategier. Vi ønsker å komme med konkrete tips om hvordan du kan lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper.
 
 ::: tip Studiemestring 
-Nettressursen [Eksamenskoden](https://eksamenskoden.no) dekker mye av det vi har utelatt. Vi anbefaler at du klikker deg inn og plukker opp noen gode tips. 
+Studieteknikk handler også om livskvalitet, mestring, kognitiv trening og gode rutiner. Nettressursen [Eksamenskoden](https://eksamenskoden.no) dekker mye av dette og vi anbefaler tur innom. 
 ::: 
 
 
-<Figure
-src="/images/Søk & Skriv student i gruppe.jpg"
-  alt="Fokus på en student i en gruppe på flere"
-  caption="Student i gruppe. Foto: Simen Kjellin/UiO"
-  type=""
-/>
 
 # Lesing
 
@@ -38,3 +32,9 @@ Råd nummer én til deg som skal lese i forbindelse med studier, er derfor: Le
 
 
 
+<Figure
+src="/images/Søk & Skriv student i gruppe.jpg"
+  alt="Fokus på en student i en gruppe på flere"
+  caption="Student i gruppe. Foto: Simen Kjellin/UiO"
+  type=""
+/>
