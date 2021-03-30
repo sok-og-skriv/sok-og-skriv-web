@@ -32,9 +32,3 @@ Råd nummer én til deg som skal lese i forbindelse med studier, er derfor: Le
 
 
 
-<Figure
-src="/images/Søk & Skriv student i gruppe.jpg"
-  alt="Fokus på en student i en gruppe på flere"
-  caption="Student i gruppe. Foto: Simen Kjellin/UiO"
-  type=""
-/>
