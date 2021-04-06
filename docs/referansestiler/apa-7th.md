@@ -424,7 +424,7 @@ Fyll ut feltene: Author (lovens korttittel), Year, Title (full tittel), Rule Num
 ::: details Flere eksempler
 Med endringslov til folketrygdloven (2018) endres finansieringen ...
 
-<span class="ref">Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2018-06-22-55). Hentet fra [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)</span>
+<span class="ref">Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2018-06-22-55). Nettstedets navn [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)</span>
 :::
 
 #### Merknader
@@ -439,9 +439,9 @@ Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier a
 :::
 
 :::: ref
-<span class="ref">Forskriftens kortform. (årstall). Lang tittel (datokode). Hentet fra https://...</span>
+<span class="ref">Forskriftens kortform. (årstall). Lang tittel (datokode). Nettstedets navn. https://...</span>
 
-<span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7 (FOR-2016-06-07-860). Hentet fra [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
+<span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7 (FOR-2016-06-07-860). Lovdata. [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
 
 ::: details I EndNote
 
