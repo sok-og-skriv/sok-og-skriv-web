@@ -4,6 +4,10 @@ title: Kjeldebruk
 
 # Kjeldebruk
 
+## Hvordan sette inn referanser og unngå plagiat? 
+
+<Video id="3IIoBZ0Tf_I" />
+
 
 ## Hvordan finne noe interessant å skrive oppgave om?
 
