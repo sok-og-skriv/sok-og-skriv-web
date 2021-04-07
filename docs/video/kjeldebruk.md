@@ -1,5 +1,5 @@
 ---
-title: Kjeldebruk
+title: 📺 Kjeldebruk
 ---
 
 # Kjeldebruk
@@ -7,6 +7,11 @@ title: Kjeldebruk
 ## Hvordan sette inn referanser og unngå plagiat? 
 
 <Video id="3IIoBZ0Tf_I" />
+
+
+## Kildekritikk
+
+<Video id="LswBxnztpzU" />
 
 
 ## Hvordan finne noe interessant å skrive oppgave om?

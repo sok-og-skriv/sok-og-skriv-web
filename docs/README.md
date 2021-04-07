@@ -71,10 +71,10 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
 <div class="container">
   <div class="video">
-    <Video id="FJKg3G-JRpg" />
+    <Video id="3IIoBZ0Tf_I" />
   </div>
   <div class="video">
-    <Video id="gSm1P5dE3RY" />
+    <Video id="LswBxnztpzU" />
   </div>
 </div>
 
