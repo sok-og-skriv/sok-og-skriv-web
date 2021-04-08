@@ -85,7 +85,7 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 
 ::: teksten
 
-... (Sterling, 2009, s. 10)
+... (Forfatter, årstall, evt. sitedall)
 
 ... (Gullestad & Killingmo, 2013, s. 35)
 
@@ -98,7 +98,7 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 
 <span class="ref">Gullestad, S. E., & Killingmo, B. (2013). _Underteksten: psykoanalytisk terapi i praksis_ (2. utg.). Universitetsforlaget.</span>
 
-_Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
+Utgaveopplysninger skal ikke føres opp ved førsteutgaver.
 
 
 ::: details I EndNote
