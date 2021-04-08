@@ -96,7 +96,7 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
   
 <span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
-<span class="ref">Retterstøl, N., Ekeberg, Ø. & Mehlum, L. (2002). _Selvmord: Et personlig og samfunnsmessig problem_. Gyldendal.</span>
+<span class="ref">Gullestad, S. E., & Killingmo, B. (2013). _Underteksten: psykoanalytisk terapi i praksis_ (2. utg.). Universitetsforlaget.</span>
 
 _Utgaveopplysninger skal ikke føres opp ved førsteutgaver._
 
@@ -439,9 +439,9 @@ Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier a
 :::
 
 :::: ref
-<span class="ref">Forskriftens kortform. (årstall). Lang tittel (datokode). Nettstedets navn. https://...</span>
+<span class="ref">Forskriftens kortform. (årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
 
-<span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7 (FOR-2016-06-07-860). Lovdata. [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
+<span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). _Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7_ (FOR-2016-06-07-860). Lovdata. [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
 
 ::: details I EndNote
 
