@@ -25,7 +25,7 @@ export default {
     iframe: function() {
       return `<iframe
   src="https://sokogskriv.no${this.$page.path}"
-  width="600" height="800" style="overflow: hidden;" />`;
+  width="900" height="600" style="overflow: hidden;" />`;
     },
   },
 };
