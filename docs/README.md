@@ -23,7 +23,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/studieteknikk/">Studieteknikk</a></h2>
-      <p>Lesing og skriving er kjerneaktiviteter i akademisk arbeid. For å kunne skrive en god oppgave, må du være bevisst på hva og hvordan du leser.</p>
+      <p>Her får du tips om hvordan du kan lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper.</p>
     </div>
   </div>
 
