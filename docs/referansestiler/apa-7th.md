@@ -428,7 +428,7 @@ Fyll ut feltene: Author (lovens korttittel), Year, Title (full tittel), Rule Num
 ::: details Flere eksempler
 Med endringslov til folketrygdloven (2018) endres finansieringen ...
 
-<span class="ref">Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2018-06-22-55). Lovdata [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)</span>
+<span class="ref">Endringslov til folketrygdloven. (2018). _Lov om endring i folketrygdloven_ (LOV-2018-06-22-55). Lovdata. [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)</span>
 :::
 
 #### Merknader
