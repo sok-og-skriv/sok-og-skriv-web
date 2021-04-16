@@ -349,15 +349,19 @@ Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (
 ::: teksten
 (Organisasjon, årstall)
 
-... nedgang i antibiotikabruken (Helsedirektoratet, 2018).
+... som det ble lagt fram i statsråd (Statsministerens kontor, 2018).
 :::
 
 :::: ref
 <span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel_. Nettstedets navn.  URL.</span>
 
-<span class="ref">Helsedirektoratet. (2018). _Nedgang i bruk av antibiotika, men stor variasjon på andre helseområder_. https://helsedirektoratet.no/nyheter/nedgang-i-bruk-av-antibiotika-men-stor-variasjon-pa-andre-helseomrader</span>
+<span class="ref">Statsministerens kontor. (2018, 20. mars). _Offisielt fra
+statsråd 20. mars 2018_. Regjeringen.
+https://www.regjeringen.no/no/aktuelt/offisielt-fra-statsrad-20.-mars-2018/id2594402/
+</span>
 
 ::: details I EndNote
+
 
 Legges inn som "Web Page".
 
@@ -424,7 +428,7 @@ Fyll ut feltene: Author (lovens korttittel), Year, Title (full tittel), Rule Num
 ::: details Flere eksempler
 Med endringslov til folketrygdloven (2018) endres finansieringen ...
 
-<span class="ref">Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2018-06-22-55). Nettstedets navn [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)</span>
+<span class="ref">Endringslov til folketrygdloven. (2018). Lov om endring i folketrygdloven (LOV-2018-06-22-55). Lovdata [https://lovdata.no/lov/2018-06-22-55](https://lovdata.no/lov/2018-06-22-55)</span>
 :::
 
 #### Merknader
