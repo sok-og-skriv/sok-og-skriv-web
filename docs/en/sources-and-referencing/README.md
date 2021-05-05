@@ -20,7 +20,7 @@ The best sources to use will vary from subject to subject, and from assignment t
 
 # Why refer to the work of others?
 
-All forms for argumentation which are ot based on own material or own reasoning, must always be refered to during writing, and at the referencelist. This may be others opinion, material of numbers, models, results or conclutions. 
+All forms for argumentation which are not based on own material or own reasoning, must always be refered to during writing, and at the referencelist. This may be others opinion, material of numbers, models, results or conclutions. 
 
 To help your reader easily locate your sources, use in-text-citations throughout your text, and collect all the references you have cited in a list at the end. The reason for this is both to make it possible for a reader to check the sources you are using, and to read more about your topic if they wish.
 
