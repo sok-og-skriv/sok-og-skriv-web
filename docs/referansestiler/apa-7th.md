@@ -5,11 +5,11 @@ date: "2020-06-17"
 
 # APA 7th
 
-APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag. Anbefalingene som gis her er resultat av et [nasjonalt samarbeid](https://www.unit.no/tjenester/norsk-apa-referansestil). Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual, anbefaler vi å sjekke [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
+APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag.Våre anbefalinger bygger på [Norsk APA-manual](https://www.unit.no/tjenester/norsk-apa-referansestil), som er utarbeidet av representanter fra Kildekompasset, Søk & Skriv, NTNU, OsloMet og UiT. Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual, anbefaler vi å sjekke [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
 
 ## Henvisninger i teksten 
 
-I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Henvisning til flere kilder i samme parentes skilles med semikolon. Merk at &-tegnet kun brukes i parenteser og referanseliste. I teksten brukes «og».
+I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Merk at sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/indirekte sitat. Henvisning til flere kilder i samme parentes skilles med semikolon. Merk at &-tegnet kun brukes i parenteser og referanseliste. I teksten brukes «og».
 
 Lengre, direkte sitater (40 ord eller flere) skal settes opp med innrykket venstremarg, ekstra linjeskift over og under og uten anførselstegn. Punktum settes da _foran_ henvisningen i slutten av sitatet. Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat).
 
@@ -143,7 +143,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ### E-Bok
 
-Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken identisk med trykt utgave, er URL/DOI valgfritt. Dersom boken ikke har DOI, og e-bokversjonen kun er tilgjengelig via en betalingstjeneste, refererer du til boken som trykt versjon. 
+Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken er identisk med trykt utgave, er URL/DOI valgfritt. Dersom boken ikke har DOI, og e-bokversjonen kun er tilgjengelig via en betalingstjeneste, refererer du til boken som trykt versjon. 
 
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
@@ -156,7 +156,7 @@ Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken identisk med trykt
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel: Undertittel_ (utgave)\[evt. versjon, f.eks. Kindle\]. https://doi.org/xxxx</span>
+<span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel: Undertittel_ (eventuelt utgave)\[eventuelt versjon, f.eks. Kindle\]. https://doi.org/xxxx</span>
 
 <span class="ref">Vareide, K. (2018) _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ Cappelen Damm. https://doi.org/10.23865/noasp.32</span>
 
