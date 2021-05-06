@@ -115,7 +115,7 @@ Jones (3, s. 39) viser i sin doktoravhandling forskjellen på …
 
 [Tekst (nummer](#henvisninger_i_teksten))
 
-xxx. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
+xxx. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftstittel forkortelse. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI.
 
 ... viser forandringer i blodtrykknivået (4).
 

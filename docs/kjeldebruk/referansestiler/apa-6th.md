@@ -26,7 +26,7 @@ Formatet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rappor
 
 Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller LP-plater, kan ha en hakeparentes samme sted som angir verkets format.
 
-For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsessted og utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
+For selvstendige dokumenter vil referansens _hvor_ være henholdsvis utgivelsessted og utgiver for fysiske utgivelser, og DOI eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
 
 - Referanselisten skal ordnes alfabetisk på forfatternes etternavn.
 - Ved flere medforfattere skal listen alfabetiseres ut fra førsteforfatteren.

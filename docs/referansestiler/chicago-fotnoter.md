@@ -29,7 +29,7 @@ Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korl
 - Hvis du har med flere verk av samme forfatter, ordnes de kronologisk (fra eldste til nyeste utgivelse).  
 - Referanser uten forfatter alfabetiseres etter tittel.
 - For referanser som er hentet fra nett, oppgi nettadresse (DOI eller URL) samt publiseringsdato eller dato for siste oppdatering. Hvis ingen av disse finnes, bruk lesedato og sett u.å. i stedet for publikasjonsår.
-- DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-nummeret er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
+- DOI (Digital Object Identifier) brukes for å identifisere elektroniske dokumenter på nettet. DOI blir ofte brukt på tidsskriftartikler, både elektroniske og trykte. DOI-en er permanent, og følger med dokumentet selv om nettadressen blir endret. Derfor foretrekkes DOI fremfor URL som nedlastingsinformasjon i referanselisten.
 - Bruk hengende innrykk i referanselisten, det vil si at alle linjer etter den første i hver innførsel er rykket inn.
 
 ## Bøker

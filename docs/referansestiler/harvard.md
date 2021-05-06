@@ -142,7 +142,7 @@ Hagenes, M. (2012) _Fysioterapi til MS-pasienter i palliativ fase: fra rehabili
 
 ### Tidsskriftartikkel
 
-DOI-nummer oppgis om artikkelen har det. Nettadresse/URL oppgis bare for artikler som kun er tilgjengelig på nett, og om DOI ikke finnes. Dersom nettadressen er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres. Ved bruk av DOI-nummer utelates hentet-dato.
+DOI oppgis om artikkelen har det. Nettadresse/URL oppgis bare for artikler som kun er tilgjengelig på nett, og om DOI ikke finnes. Dersom nettadressen er svært lang, anbefales det kun å ta med så mye av adressen at nettstedet/databasen der dokumentet er publisert kan identifiseres. Ved bruk av DOI utelates hentet-dato.
 
 
 ::: teksten
@@ -379,7 +379,7 @@ Munch, E. (1926) _Fire kvinner i hagen_ \[Olje på lerret\]. Tilgjengelig fra: h
 
 ### Musikk / auditive kilder
 
-Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Harvard-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver(e) eller annen person som er hovedansvarlig for innholdet, _Verktittel_, navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato, eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen, vil avhenge av konteksten det opptrer i. Er opptaket lastet ned eller strømmet fra web, skal referansen inneholde URL og nedlastingsdato. Hvis opptaket har DOI-nummer, brukes dette, og da kan dato utelates. Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
+Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Harvard-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver(e) eller annen person som er hovedansvarlig for innholdet, _Verktittel_, navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato, eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen, vil avhenge av konteksten det opptrer i. Er opptaket lastet ned eller strømmet fra web, skal referansen inneholde URL og nedlastingsdato. Hvis opptaket har DOI, brukes dette, og da kan dato utelates. Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
 
 ::: teksten
 (Komponist/artist, årstall)

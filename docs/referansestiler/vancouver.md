@@ -125,7 +125,7 @@ Tekst (nummer)
 :::
 
 :::: ref
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer.
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI.
 
 5\. Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62(1):112-6.
 
@@ -336,7 +336,7 @@ Tekst (nummer)
 ::: 
 
 :::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI-nummer (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet dato]: [Antall sider]. Tilgjengelig fra: URL/DOI/Handle
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Arkivets navn DOI (eller nummer gitt av arkivet) [Preprint]. Årstall [hentet dato]: [Antall sider]. Tilgjengelig fra: URL/DOI/Handle
 
 
 11. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between universal BCG vaccination policy and reduced morbidity and mortality for COVID-19: an epidemiological study. medRxiv 2020.03.24.20042937 [Preprint]. 2020 [hentet 30. mar 2020]: [9 s.]. Tilgjengelig fra: https://doi.org/10.1101/2020.03.24.20042937
@@ -427,7 +427,7 @@ Helsedirektoratet. Nasjonale faglige retningslinjer for forebygging og behandlin
 
 #### Retningslinje publisert som artikkel 
 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI-nummer. 
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Artikkeltittel. Tidsskriftets korttittel. Årstall;Volum(heftenummer):sidetall. Eventuelt DOI. 
 
 Helsingen LM, Vandvik PO, Jodal HC, Agoritsas T, Lytvyn L, Anderson JC, et al. Colorectal cancer screening with faecal immunochemical testing, sigmoidoscopy or colonoscopy: a clinical practice guideline. BMJ. 2019;367:l5515.
 

@@ -114,7 +114,7 @@ Nordisk institutt, Universitetet i Bergen, 2001.
 
 Forfatter tekst (eventuelt sidetall)
 
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidetall. Eventuelt DOI-nummer
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang. Heftenummer (årstall): sidetall. Eventuelt DOI
 
 Syse vil i sin artikkel se om det er en sammenheng mellom kristen etikk og rettferdig krig (49).
 
