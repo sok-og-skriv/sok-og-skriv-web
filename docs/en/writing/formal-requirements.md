@@ -157,6 +157,6 @@ If you choose to use reference management software like EndNote, your data skill
 
 A more comprehensive introduction to [practical details and formal requirements](https://www.inn.no/bibliotek/skrive-og-referere/hvordan-skrive-oppgave) can be found on the Inland University of Applied Sciences website.
 
-**Reference management software:** EndNote ([UiO,](https://www.ub.uio.no/skrive-publisere/referere/endnote/) [HVL)](https://www.hvl.no/bibliotek/skrive-og-referere/endnote/), [Zotero. ](https://www.zotero.org/)
+**Reference management software:** EndNote ([UiO](https://www.ub.uio.no/english/writing-publishing/referencing/endnote/), [HVL](https://www.hvl.no/en/library/writing-and-referencing/endnote/)), Zotero ([UiO](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/), [HVL](https://www.hvl.no/en/library/writing-and-referencing/zotero/)).
 
 **Purdue OWL** (Online Writing Lab) is a recognized website that offers answers to a wide range of questions about academic writing in English.

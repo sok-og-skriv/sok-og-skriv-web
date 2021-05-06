@@ -168,7 +168,7 @@ Det er fullt mulig å skrive en oppgave eller artikkel uten å bruke et referans
 
 En mer utfyllende innføring i [**praktiske detaljer og formelle krav**](https://www.inn.no/bibliotek/skrive-og-referere/hvordan-skrive-oppgave) finnes hos Høgskolen i Innlandet.
 
-**Referansehåndteringsverktøy:** Endnote ([UiO,](https://www.ub.uio.no/skrive-publisere/referere/endnote/) [HVL)](https://www.hvl.no/bibliotek/skrive-og-referere/endnote/), [Zotero. ](https://www.zotero.org/)
+**Referansehåndteringsverktøy:** Endnote ([UiO](https://www.ub.uio.no/skrive-publisere/referere/endnote/), [HVL](https://www.hvl.no/bibliotek/skrive-og-referere/endnote/)), Zotero ([UiO](https://www.ub.uio.no/skrive-publisere/referere/zotero/), [HVL](https://www.hvl.no/bibliotek/skrive-og-referere/zotero/))
 
 [**Purdue OWL** ](https://owl.english.purdue.edu/)(Online Writing Lab) er et anerkjent nettsted som gir svar på en lang rekke spørsmål om akademisk skriving på engelsk.
 
