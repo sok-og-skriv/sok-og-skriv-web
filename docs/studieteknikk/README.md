@@ -19,7 +19,6 @@ Studieteknikk handler også om livskvalitet, mestring, kognitiv trening og gode 
 ::: 
 
 
-
 # Lesing
 
 I det akademiske håndverket er lesing og skriving tett forbundet. For å kunne skrive en god oppgave, må du lese effektivt og målrettet. Og omvendt, når du trener deg opp til å lese med oppmerksomhet, vil du også kunne lese dine egne utkast og ideer på en oppmerksom måte. 
