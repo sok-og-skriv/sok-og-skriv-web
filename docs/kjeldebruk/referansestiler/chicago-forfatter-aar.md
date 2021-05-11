@@ -64,7 +64,7 @@ Den økologiske vendingen har ikke endret grunnprinsippene for å oppnå kontrol
 
 Andersen, Gisle. 2017. _Parlamentets natur: Utvikling av norsk miljø- og petroliumspolitikk._ Oslo: Universitetsforlaget. https://doi.org/10.18261/9788215028132-2017
 
-Dersom boken har [DOI-nummer](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for ebøker, så sant ikke år for publisering mangler.
+Dersom boken har [DOI](https://sokogskriv.no/kildebruk-og-referanser/kildevurdering/kvalitative-vurderinger/nettadresser-url/#DOI), brukes dette fremfor URL. Chicago-stilen krever ikke at «Hentet fra» skal oppgis for ebøker, så sant ikke år for publisering mangler.
 
 ### Bok med flere forfattere
 

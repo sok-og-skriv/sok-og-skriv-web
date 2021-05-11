@@ -165,7 +165,7 @@ Fyll ut feltene Author (trykk «enter» mellom hvert navn hvis flere), Year, Tit
 Hvis utgaven er datert med måned eller årstid oppgis dette sammen med utgivelsesår. Oppgi DOI hvis dette er tilgjengelig. 
 
 :::: ref
-Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI-nummer.
+Etternavn, Fornavn. ”Artikkeltittel.” _Tidsskriftstittel_ årgang, heftenummer, årstall, ss xx-xx (valgfritt), eventuelt URL eller DOI.
 
 Børdahl, Amund. “Bloom Leser Bibelen.” _Agora_, vol. 35, no. 2, 2019, ss. 99–156, www.idunn.no.
 
