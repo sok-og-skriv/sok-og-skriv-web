@@ -329,7 +329,7 @@ Om artikkelen ikke har forfatter:
 <span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. 
     https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
 
-<span class="ref">World Health Organization. (2020). F40: Fobiske angstlidelser. I Den                      internasjonale statiske klassifikasjonen av sykdommer og beslektede sykdommer(10. utg.). Direktoratet for e-helse. https://finnkode.ehelse.no/#icd10/0/0/0/2599502</span>
+<span class="ref">World Health Organization. (2020). F40: Fobiske angstlidelser. I Den                      internasjonale statiske klassifikasjonen av sykdommer og beslektede sykdommer (10. utg.). Direktoratet for e-helse. https://finnkode.ehelse.no/#icd10/0/0/0/2599502</span>
 
 ::: details I Endnote
 
