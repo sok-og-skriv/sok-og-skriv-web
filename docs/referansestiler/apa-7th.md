@@ -120,7 +120,7 @@ For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten.
 
 ### Kapittel i redigert bok
 
-Det er mest vanlig å referere til enkelte kapittel i redigerte bøker. Dersom du skal referere til hele boken bruker du malen for bok.
+Det mest vanlige er å referere til enkeltkapitler i redigerte bøker. Dersom du skal referere til hele boken bruker du malen for bok.
 
 ::: teksten
 (Kapittelforfatter, årstall, evt. sidetall)
@@ -374,7 +374,7 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 #### Merknader 
 Nettstedets navn utgår dersom det er det samme som forfatter/organisasjonen. 
 
-Publiseringsdato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes ikke det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  
+Publiseringsdato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  
 
 
 ### Nettside med forfatter
