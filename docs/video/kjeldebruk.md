@@ -6,10 +6,14 @@ title: 📺 Kjeldebruk
 
 ## Hvordan sette inn referanser og unngå plagiat? 
 
+Tre regler og ett tips om hvordan sette inn referanser 
+
 <Video id="3IIoBZ0Tf_I" />
 
 
 ## Kildekritikk
+
+En liten film laga av HumSam-biblioteket ved UiO om vurdering av ulike kilder
 
 <Video id="LswBxnztpzU" />
 
