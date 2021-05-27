@@ -11,6 +11,7 @@ title: 📺 Kjeldebruk
 
 ## Kildekritikk
 
+En liten film laga av HumSam-biblioteket ved UiO om vurdering av ulike kilder
 <Video id="LswBxnztpzU" />
 
 
