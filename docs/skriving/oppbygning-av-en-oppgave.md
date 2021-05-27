@@ -148,7 +148,7 @@ I en drøfting undersøker vi et fenomen fra flere perspektiver. Når du stiller
 - En annen, mulig forklaring kan være ...
 - I motsetning til tidligere studier, ser det ut til at ... 
 
-Les mer om [drøfting her](/skriving/argumentere-redegjore-drofte.html#drofting-se-etter-en-forskjell).
+Les mer om [drøfting her](https://sokogskriv.no/skriving/argumentere-redegjore-drofte.html#dr%C3%B8fting-se-etter-en-forskjell).
 
 ## Avslutning
 
