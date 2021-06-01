@@ -91,8 +91,8 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
   <div class="partner">
     <a href="https://www.uio.no">
       <picture>
-        <source media="(max-width: 719px)" srcset="/partners/uio-icon.png">
-        <img src="/partners/uio-logo-en.png" alt="University of Oslo"/>
+        <source media="(max-width: 719px)" type="image/svg+xml" srcset="/partners/uio-icon-en.svg">
+        <img src="/partners/uio-logo-en.svg" alt="University of Oslo"/>
       </picture>
     </a>
     <div class="title">
