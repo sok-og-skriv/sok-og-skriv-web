@@ -69,10 +69,10 @@
                 <picture>
                   <source
                     media="(max-width: 809px)"
-                    srcset="/partners/uio-icon.png"
+                    srcset="/partners/uio-icon.svg"
                   />
                   <img
-                    src="/partners/uio-logo.png"
+                    src="/partners/uio-logo.svg"
                     alt="Universitetet i Oslo"
                   />
                 </picture>
