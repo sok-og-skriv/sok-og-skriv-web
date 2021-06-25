@@ -319,7 +319,7 @@ Om artikkelen ikke har forfatter:
 
 :::: ref
 Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undertittel. 
-    Nettstedets navn. https://xxxxx
+    _Nettstedets navn_. https://xxxxx
 
 <span class="ref">Fossheim, H. (2018, 25. desember). Aristoteles. 
    I _Store Norske Leksikon_. https://snl.no/Aristoteles</span>
