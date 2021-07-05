@@ -221,7 +221,7 @@ Hvis du har hentet artikkelen elektronisk fra et nyhetsarkiv som krever abonneme
 Noen artikler oppgir ikke forfatter/journalist. Da setter du i stedet avisens navn i forfatterfeltet, og bruker dette som forfatter i forbindelse med sitatet.
 
 ::: teksten
-(Forfatter årstall, eventuelt eventuelt sidetall)
+(Forfatter årstall, eventuelt sidetall)
 
 … seks gonger så mange som i 2000 (Todal 2019).
 :::
@@ -450,7 +450,7 @@ Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehab
 ### Stortingsmeldinger og proposisjoner
 
 ::: teksten
-(Departement årstall, eventuelt eventuelt sidetall)
+(Departement årstall, eventuelt sidetall)
 
 … slik det også nevnes i Stoltenberg-regjeringens stortingsmelding om arbeidsinnvandring (Arbeids- og inkluderingsdepartementet 2008, 31).
 :::
