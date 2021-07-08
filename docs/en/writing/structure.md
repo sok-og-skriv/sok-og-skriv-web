@@ -73,6 +73,4 @@ Read five paragraphs of a textbook from your syllabus and see how many of them f
 
 :::
 
-## How to create a good structure 
 
-It takes a lot of work to create a text with a clear structure. In this film you can listen to Professor Ingvild Sælid Gilhus explain how she revises a text. 
