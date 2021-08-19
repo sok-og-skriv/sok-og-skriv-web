@@ -17,6 +17,8 @@ Academic writing has certain formal requirements. In order to write a good thesi
 
 This section contains advice on writing an academic bachelor's or master's thesis. We give you a thorough introduction to structuring longer texts, and advice on academic language and style. You will find tips on getting started with your writing, and examples of ways to cope with the different phases of writing; writing for yourself, presenting text to others, and the completion of your thesis.
 
-::: Warning Different requirements
+::: warning Different requirements
 Remember that different requirements apply in different fields and institutions. Always check your own field’s particular requirements in addition to the general advice offered here.
 :::
+
+
