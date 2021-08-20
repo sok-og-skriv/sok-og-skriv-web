@@ -659,7 +659,14 @@ Avhandling på Internett: Fyll ut feltene Author (trykk "enter" mellom hvert nav
 
 ### Statistikk og datasett
 
-For statistikker må du redegjøre for hvilke søk du har gjort, og hvordan du oppnådde resultatene etterfulgt av kildehenvisning. Det er anbefalt at man inkluderer en henvisning i teksten og innførsel i referanselista til et datasett når man enten (a) har gjennomført en ny analyse av åpent tilgjengelige data eller (b) har arkivert egne data som presenteres for første gang.
+Statistikk:
+
+I teksten skal du forklare hvilke søk du har gjort og hvordan du oppnådde resultatene, deretter følger kildehenvisning. 
+
+Datasett:
+
+Inkludere en henvisning i teksten og innførsel i referanselista til et datasett når du enten (a) har gjennomført en ny analyse av åpent tilgjengelige data eller (b) har arkivert egne data som presenteres for første gang. Se https://www.unit.no/tjenester/norsk-apa-referansestil for utfyllende informasjon.
+
 
 ::: teksten
 ... (Statistisk sentralbyrå, 2017) 
@@ -690,6 +697,8 @@ Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentl
 :::: ref
 <span class="ref">Institute of Electrical and Electronics Engineers. (1987). _IEEE guide for handling and disposal of transformer grade insulating liquids containing PCBs_ (ANSI/IEEE Std. 799-1987). https://doi.org/10.1109/IEEESTD.1987.81034</span>
 
+
+
 ::: details Endnote
 Legges inn som "Report".
 
@@ -697,13 +706,21 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 :::
 ::::
 
-::: Flere eksempler
+::: details Flere eksempler
 
 ... tidligere utgitt som Retningslinjer for retningslinjer (Statens helsetilsyn, 2002)
 ... (Helsedirektoratet, 2015)
 
 <span class="ref">Statens helsetilsyn. (2002)._Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer_ (IK-2653). Statens helsetilsyn.</span>
 <span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). https://www.shorturl.at/akvB8</span>
+
+:::
+
+
+
+
+
+
 
 ### Forelesningsmateriell og intranett-ressurser
 
@@ -753,7 +770,7 @@ Referer til artikkelen:
 :::
 
 ::: tip Bilde hentet fra bok  
-Figur 4. Relativ nettoflytting i kommunene. Fra _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ (s. 42), av K. Vareide, 2018, Oslo: Cappelen Damm Akademisk. CC BY 4.0.
+Figur 4. Relativ nettoflytting i kommunene. Fra _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ (s. 42), av K. Vareide, 2018, Cappelen Damm Akademisk. CC BY 4.0.
 
 Referer til boken:  
 <span class="ref">Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ [https://doi.org/10.23865/noasp.32](https://doi.org/10.23865/noasp.32)</span>
