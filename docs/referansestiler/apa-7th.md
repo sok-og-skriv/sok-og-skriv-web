@@ -665,7 +665,7 @@ I teksten skal du forklare hvilke søk du har gjort og hvordan du oppnådde resu
 
 Datasett:
 
-Inkludere en henvisning i teksten og innførsel i referanselista til et datasett når du enten (a) har gjennomført en ny analyse av åpent tilgjengelige data eller (b) har arkivert egne data som presenteres for første gang. Se https://www.unit.no/tjenester/norsk-apa-referansestil for utfyllende informasjon.
+Inkludere en henvisning i teksten og innførsel i referanselista til et datasett når du enten (a) har gjennomført en ny analyse av åpent tilgjengelige data eller (b) har arkivert egne data som presenteres for første gang. Se [Norsk APA-manual](https://www.unit.no/tjenester/norsk-apa-referansestil) for utfyllende informasjon.
 
 
 ::: teksten
