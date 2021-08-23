@@ -516,9 +516,12 @@ Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i o
 ### Datasett 
 
 :::: ref 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel. Global Persistant Identifier/DOI/Handle Arkivets navn, Versjonen.
+Datasett
 
-5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel [datasett]. Global Persistant Identifier/DOI/Handle Arkivets navn, Versjonen.
+
+5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health [datasett]. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
+
 
 ::: details I EndNote 
 
