@@ -40,7 +40,7 @@ In some fields, writing in the first person (i.e., using the words “I”, “m
 
 We should distinguish between the private or personal “I” and the “I” as the author of the text. For example, when you write “I will now explain …”, this is _not_ a personal statement. In most disciplines the use of the authorial “I” is fine in, e.g. [pointers for the reader](/en/writing/language-and-style.html). Writing in the first person will make the text less “stiff” than using the word "one" when referring to yourself.
 
-The personal “I”, however, has no place in an academic text. This does not mean that you cannot put your own personal stamp on the text. It simply means that you should do this by using the means that the various academic genres put at your disposal. For example, by choosing to discuss interesting and important research questions, by presenting convincing reasoning, and by using good examples.
+The private “I”, however, has no place in an academic text. This does not mean that you cannot put your own personal stamp on the text. It simply means that you should do this by using the means that the various academic genres put at your disposal. For example, by choosing to discuss interesting and important research questions, by presenting convincing reasoning, and by using good examples.
 
 In academic texts you may also find a third type of first person, the researcher “I”. Once again, this is not a personal reference, but refers to the person who has, for example, collated data or carried out experiments.
 
