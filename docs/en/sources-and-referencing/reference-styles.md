@@ -11,7 +11,7 @@ There are many different ways to organise the references of a text. Some referen
 
 Some of the most commonly used reference styles in academic writing are:
 
-- American Psychological Association (APA6th) – author-year, commonly used in psychology, economics, educational sciences and health sciences (see the free guide at [Purdue University](https://owl.english.purdue.edu/owl/resource/560/01/))
+- American Psychological Association (APA7th) – author-year, commonly used in psychology, economics, educational sciences and health sciences (see the free guide at [Purdue University](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)
 - The Chicago styles (see the free guide at [Purdue University](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/chicago_manual_of_style_17th_edition.html "Chicago 16 at Purdue OWL") or the licensed _[Quick guide](https://www.chicagomanualofstyle.org/tools_citationguide.html "Chicago-Style Citation Quick Guide")_):
     - Chicago 17 A – footnote system, commonly used in the humanities
     - Chicago 17 B – author-year
