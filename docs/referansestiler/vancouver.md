@@ -518,17 +518,11 @@ Viktig! Sjekk alltid med emneansvarlig om det er greit å bruke slike kilder i o
 :::: ref 
 Datasett
 
-Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Årstall. Datasett tittel [datasett]. Global Persistant Identifier/DOI/Handle Arkivets navn, Versjonen.
+Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Datasett tittel [datasett]. Publiseringsdato [sitert Siteringsdato]. Data-arkivets navn. Tilgjengelig fra: nettsiden Versjon nummer. Referert i DOI/Handle
 
-5. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. 2019. Questionnaire for motivation in mobile health [datasett]. https://doi.org/10.18710/28SRMJ DataverseNO, V2.
+9. Henriksen A, Woldaregay AZ, Issom D-Z, Pfuhl G, Richard A, Årsand E, Sato K, Hartvigsen G, Rochat J. Questionnaire for motivation in mobile health [datasett]. DataverseNO. Tilgjengelig fra: https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/28SRMJ Versjon 2. Referert i doi: 10.3233/SHTI200290
 
 
-::: details I EndNote 
-
-Legges inn som "dataset" 
-
-Fyll ut feltene: Investigators, Year, Title, Name of Database, Place published, URL, Distributor, Version. 
-:::
 :::: 
 
 ### Avhandling - doktor/master (publisert)
@@ -544,7 +538,7 @@ Nummer. Forfatter AA. Tittel \[masteroppgave\]. Sted: Institusjon; årstall. Ant
 
 Nummer. Forfatter AA. Tittel \[akademisk avhandling\]. Sted: Institusjon; årstall. Antall sider.
 
-4\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
+10\. Jones DL. The role of physical activity on the need for revision total knee arthroplasty in individuals with osteoarthritis of the knee \[doktoravhandling\]. Pittsburgh (PA): University of Pittsburgh; 2001. 436 s.
 
 ::: details I EndNote 
 
