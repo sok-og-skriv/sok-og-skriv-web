@@ -166,7 +166,6 @@ Det er fullt mulig å skrive en oppgave eller artikkel uten å bruke et referans
 
 **Tekstbehandling:** Hjelpesider for bruk av [stiler i Word](https://support.office.com/nb-no/article/bruke-stiler-f8b96097-4d25-4fac-8200-6139c8093109), generelt om [Word for Windows](https://support.office.com/nb-no/word), [Word for Mac,](https://support.office.com/nb-no/article/hjelp-for-word-2016-for-mac-c3292414-89c0-46e5-82a7-d55a1720f3bd?wt.mc_id=otc_word) [LaTeX](https://www.latex-project.org/help/).
 
-En mer utfyllende innføring i [**praktiske detaljer og formelle krav**](https://www.inn.no/bibliotek/skrive-og-referere/hvordan-skrive-oppgave) finnes hos Høgskolen i Innlandet.
 
 **Referansehåndteringsverktøy:** Endnote ([UiO](https://www.ub.uio.no/skrive-publisere/referere/endnote/), [HVL](https://www.hvl.no/bibliotek/skrive-og-referere/endnote/)), Zotero ([UiO](https://www.ub.uio.no/skrive-publisere/referere/zotero/), [HVL](https://www.hvl.no/bibliotek/skrive-og-referere/zotero/))
 
