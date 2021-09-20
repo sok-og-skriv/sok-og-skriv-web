@@ -594,7 +594,7 @@ Trykt:
 Balsnesvassdraget på Ørland i 2017:
 Ungfisktellinger og problemkartlegging knyttet til
 fiskeforsterkende tiltak og sjøørret_ (NINA Rapport
-1392). http://hdl.handle.net/11250/2485755</span>
+1392). Norsk institutt for naturforskning. http://hdl.handle.net/11250/2485755</span>
 
 :::: 
 
