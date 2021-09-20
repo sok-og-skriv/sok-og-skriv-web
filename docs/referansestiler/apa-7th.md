@@ -586,15 +586,19 @@ Elektronisk:
 <span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.
 https://xxxxx
 
-
-Trykt:
-<span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.</span>
-
 <span class="ref">Bergan, M. A. (2017). _Fiskebiologiske undersøkelser i
 Balsnesvassdraget på Ørland i 2017:
 Ungfisktellinger og problemkartlegging knyttet til
 fiskeforsterkende tiltak og sjøørret_ (NINA Rapport
 1392). Norsk institutt for naturforskning. http://hdl.handle.net/11250/2485755</span>
+
+
+Trykt:
+<span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.</span>
+
+Thorød, A. B. (2006). *En normal barndom? : foreldrestrategier for å skjerme barn fra       
+konsekvenser av å leve med lav inntekt* (NOVA Rapport 2/06). Norsk institutt for forskning om 
+oppvekst, velferd og aldring.
 
 :::: 
 
