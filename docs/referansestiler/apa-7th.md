@@ -571,6 +571,9 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 :::: 
 
 ### Rapporter
+Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentlige eller private 
+institusjoner. Noen har en seriekode eller rapportnavn- og nummer, og dette oppgis da i 
+parentes etter tittelen. Denne dokumenttypen kan ofte også brukes for andre typer dokumenter.
 
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
@@ -580,7 +583,7 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 
 :::: ref
 Elektronisk:
-<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr).
+<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.
 https://xxxxx
 
 
@@ -598,7 +601,7 @@ fiskeforsterkende tiltak og sjøørret_ (NINA Rapport
 ::: details Flere eksempler
 ...(Hansen & Slagsvold, 2013, s. 8)
 
-<span class="ref">Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Hentet fra https://www.nova.no/</span>
+<span class="ref">Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Norsk institutt for forskning om oppvekst, velferd og aldring. https://www.nova.no/</span>
 :::
 
 ::: details I EndNote
