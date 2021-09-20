@@ -586,6 +586,12 @@ Elektronisk:
 <span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.
 https://xxxxx
 
+<span class="ref">Bergan, M. A. (2017). _Fiskebiologiske undersøkelser i
+Balsnesvassdraget på Ørland i 2017:
+Ungfisktellinger og problemkartlegging knyttet til
+fiskeforsterkende tiltak og sjøørret_ (NINA Rapport
+1392). Norsk institutt for naturforskning. http://hdl.handle.net/11250/2485755</span>
+
 
 Trykt:
 <span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.</span>
