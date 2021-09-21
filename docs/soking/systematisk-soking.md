@@ -10,7 +10,7 @@ I fag som er opptatt av kunnskapsbasert praksis, forventes det at du lærer deg 
 
 ## Problemstilling
 
-Før du kan foreta et systematisk søk, må du [arbeide grundig med problemstillingen](/skriving/struktur.html "Oppbygning av en oppgave"). Det er viktig å finne ut hva slags informasjon du er ute etter å finne. Ofte kan det være nyttig å formulere problemstillingen som et spørsmål. 
+Før du kan foreta et systematisk søk, må du arbeide grundig med problemstillingen. Det er viktig å finne ut hva slags informasjon du er ute etter å finne. Ofte kan det være nyttig å formulere problemstillingen som et spørsmål. 
 
 I denne fasen kan PICO-skjemaet være et hjelpemiddel til å strukturere spørsmålet og å skille ut de viktigste begrepene i problemstillingen slik at overgangen til søking blir enklere. PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
