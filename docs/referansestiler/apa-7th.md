@@ -545,7 +545,7 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 
 
 Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres. Se også
-[Hvordan referere til læreplanene? (udir.no)] (https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/)
+[Hvordan referere til læreplanene?] (https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/)
 
 ::: teksten
 (Organisasjon, årstall, eventuelt sidetall)
@@ -574,7 +574,7 @@ https://www.udir.no/lk20/nor01-06?lang=nob</span>
 
 Legges inn som "Report" eller "Government Document".
 
-Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), URL. 
+Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), publisher (Fastsatt som forskrift..), URL. 
 ::: 
 :::: 
 
