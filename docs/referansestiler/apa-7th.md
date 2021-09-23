@@ -71,7 +71,7 @@ _I referanselista skal navnet til alle forfatterne være med_
 
 _I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelsestegn (. . .) og deretter siste forfatter_
 
-<span class="ref">Adam, J., Adamová, D., Aggarwal, M. M., Aglieri Rinella, G., Agnello, M., Agrawal, N., Ahammed, Z., Ahmad, S., Ahn, S. U., Aiola, S., Akindinov, A., Alam, S. N., Albuquerque, D. S. D., Aleksandrov, D., Alessandro, B., Alexandre, D., Alfaro Molina, R., Alici, A., Alkin, A., . . . Garg, K. (2017). Determination of the event collision time with the ALICE detector at the LHC. The European Physical Journal Plus, 132(2), Artikkel 99. [https://doi.org/10.1140/epjp/i2017-11279-1](https://doi.org/10.1140/epjp/i2017-11279-1)</span>
+<span class="ref">Adam, J., Adamová, D., Aggarwal, M. M., Aglieri Rinella, G., Agnello, M., Agrawal, N., Ahammed, Z., Ahmad, S., Ahn, S. U., Aiola, S., Akindinov, A., Alam, S. N., Albuquerque, D. S. D., Aleksandrov, D., Alessandro, B., Alexandre, D., Alfaro Molina, R., Alici, A., Alkin, A., . . . Garg, K. (2017). Determination of the event collision time with the ALICE detector at the LHC. _The European Physical Journal Plus, 132(2)_, Artikkel 99. [https://doi.org/10.1140/epjp/i2017-11279-1](https://doi.org/10.1140/epjp/i2017-11279-1)</span>
 
 :::
 
