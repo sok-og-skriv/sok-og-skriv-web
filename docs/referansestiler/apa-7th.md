@@ -142,13 +142,14 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 :::
 :::: 
 
-#### Eksempler: 
+::: details Flere eksempler
 
 En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
 
 :::
+ 
 
 
 
