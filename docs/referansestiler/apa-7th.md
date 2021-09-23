@@ -132,7 +132,7 @@ Det mest vanlige er å referere til enkeltkapitler i redigerte bøker. Dersom du
 <span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
 
 
-<span class="ref">Svensen, H. H. (2019). Å skrive for livet: populærvitenskap, forskermemoarer og IMRAD.. I I. B. Jørgensen & N. Askeland (Red.), _Kreativ akademisk skriving_ (s. 157-178). Universitetsforlaget.</span>
+<span class="ref">Svensen, H. H. (2019). Å skrive for livet: populærvitenskap, forskermemoarer og IMRAD. I I. B. Jørgensen & N. Askeland (Red.), _Kreativ akademisk skriving_ (s. 157-178). Universitetsforlaget.</span>
 
 ::: details I EndNote
 
@@ -140,6 +140,7 @@ Legges inn som "Book Section".
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Editor (trykk "enter" mellom hvert navn hvis flere), Book Title, Publisher, Pages, Edition (hvis aktuelt). 
 :::
+:::: 
 
 #### Eksempler: 
 
@@ -148,7 +149,7 @@ En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
 
 :::
-:::: 
+
 
 
 ### E-Bok
