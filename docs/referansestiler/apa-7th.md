@@ -596,9 +596,7 @@ fiskeforsterkende tiltak og sjøørret_ (NINA Rapport
 Trykt:
 <span class="ref">Forfatter/Institusjon. (publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.</span>
 
-<span class="ref">Thorød, A. B. (2006). *En normal barndom? : foreldrestrategier for å skjerme barn fra       
-konsekvenser av å leve med lav inntekt* (NOVA Rapport 2/06). Norsk institutt for forskning om 
-oppvekst, velferd og aldring.</span>
+<span class="ref">Thorød, A. B. (2006). *En normal barndom? : foreldrestrategier for å skjerme barn fra konsekvenser av å leve med lav inntekt* (NOVA Rapport 2/06). Norsk institutt for forskning om oppvekst, velferd og aldring.</span>
 
 :::: 
 
