@@ -571,20 +571,22 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 :::: ref
 
 Overordnet del:
-
-<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift ved kongelig
+<span class="ref">Organisasjon. (årstall). _Tittel_. Fastsatt som forskrift ved kongelig
 resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL </span>
-
-Læreplaner i fag:
-
-<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020. URL </span>
 
 <span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Fastsatt som forskrift ved kongelig resolusjon.
 Læreplanverket for Kunnskapsløftet 2020. https://www.regjeringen.no/</span>
+
+Læreplaner i fag:
+<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020. URL </span>
+
 <span class="ref">Kunnskapsdepartementet. (2019). _Læreplan i norsk
 (NOR01-06)_. Fastsatt som forskrift.
 Læreplanverket for Kunnskapsløftet 2020.
 https://www.udir.no/lk20/nor01-06?lang=nob</span>
+
+
+
 
 
 
@@ -669,9 +671,9 @@ Trykt oppgave:
 <span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling/. Institusjon].</span>
 
 Avhandling på nett:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel:Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/]. Navn på arkiv .</span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel:Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/]. Navn på arkiv.</span>
 
-<span class="ref">Kyrkjebø, R. (2001). _Heimskringla I etter Jofraskinna: Karakteristikk av tekstvitna samt tekstkritisk utgåve av Jens Nilssøns avskrift i AM 37 folio_ /[Doktorgradsavhandling, Universitetet i Bergen].</span>
+<span class="ref">Thingnes J.R. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_/[Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
 
 ::: details I EndNote
 
