@@ -558,12 +558,12 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 
 :::: ref
 
-Overordnet del
+Overordnet del:
 
 <span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift ved kongelig
 resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL </span>
 
-Læreplaner i fag
+Læreplaner i fag:
 
 <span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020. URL </span>
 
