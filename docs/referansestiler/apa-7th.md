@@ -543,6 +543,10 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 
 ### Ramme- og læreplaner
 
+
+Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres. Se også
+[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/)
+
 ::: teksten
 (Organisasjon, årstall, eventuelt sidetall)
 
@@ -553,20 +557,24 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 :::
 
 :::: ref
-<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Nettstedets navn. URL </span>
+<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift ved kongelig
+resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL </span>
 
-Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
-<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Regjeringen. https://www.regjeringen.no/</span>
-<span class="ref">Utdanningsdirektoratet. (2020). _Læreplan i naturfag (NAT01-04)_. https://www.udir.no/lk20/nat01-04</span>
-<span class="ref">Kunnskapsdepartementet. (2017). _Rammeplan for barnehagen: Forskrift om rammeplan for barnehagens innhold og oppgaver_. Udir. https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf</span>
+<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Fastsatt som forskrift ved kongelig resolusjon.
+Læreplanverket for Kunnskapsløftet 2020. https://www.regjeringen.no/</span>
+<span class="ref">Kunnskapsdepartementet. (2019). _Læreplan i norsk
+(NOR01-06)_. Fastsatt som forskrift.
+Læreplanverket for Kunnskapsløftet 2020.
+https://www.udir.no/lk20/nor01-06?lang=nob</span>
+
 
 
 ::: details I EndNote
 
 Legges inn som "Report" eller "Government Document".
 
-Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), URL. 
+Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), publisher (Fastsatt som forskrift..), URL. 
 ::: 
 :::: 
 
