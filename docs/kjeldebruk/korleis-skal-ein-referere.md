@@ -46,7 +46,7 @@ I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Gjengi sitat ordrett med "sittateikn", **eller** parafraser (gjengi innholdet med eigne ord). 
+Gjengi sitat ordrett med hermeteikn, **eller** parafraser (gjengi innholdet med eigne ord). 
 
 Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
 
