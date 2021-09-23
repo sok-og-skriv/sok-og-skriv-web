@@ -80,7 +80,7 @@ _I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelses
 ::: warning Flere eksempler
 For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
 :::
-
+## Bøker
 ### Bok
 
 ::: teksten
@@ -569,9 +569,15 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 :::
 
 :::: ref
+
+Overordnet del:
+
 <span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift ved kongelig
 resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL </span>
 
+Læreplaner i fag:
+
+<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020. URL </span>
 
 <span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Fastsatt som forskrift ved kongelig resolusjon.
 Læreplanverket for Kunnskapsløftet 2020. https://www.regjeringen.no/</span>
