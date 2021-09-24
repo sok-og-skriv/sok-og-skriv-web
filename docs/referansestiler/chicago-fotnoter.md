@@ -641,12 +641,13 @@ Prop. 125 LS (2009-2010). _Endringer i skatte- og avgiftsreglane mv._ Oslo: Fina
 
 ### Norges offentlige utredninger (NOU)
 
-SJEKK om dette er rett satt opp
+_Oppdateres_ I NOU'en _Ny lov om universiteter og høyskoler_^28^ hevdes det at …
 
 ::: tip I noten
-x NOU årstall: nr., eventuelt sidetall.
+Departement eller utvalg. År. _Tittel_. Dokumentnummer hvis tilgjengelig. Sted: Utgiver.
 
-I NOU _Struktur for likestilling_^28^ hevdes det at …
+NOU (2020: 3) Ny lov om universiteter og høyskoler
+
 :::
 
 
