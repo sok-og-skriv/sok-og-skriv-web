@@ -320,17 +320,17 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 
 
 ::: teksten
-(Organisasjon, årstall, eventuelt sidetall)
+(Organisasjon, årstall, evt. sidetall)
 
 ... (Kunnskapsdepartementet, 2017, s. 7).
 :::
 
 :::: ref
-<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Hentet fra https://...</span>
+Organisasjon (årstall) _Tittel_ (evt. kode). Hentet fra https://...</span>
 
 Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
-<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hentet fra https://www.regjeringen.no/</span>
+Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hentet fra https://www.regjeringen.no/
 
 
 :::: 
@@ -338,13 +338,13 @@ Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede 
 ::: details Flere eksempler
 Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
 
-<span class="ref">Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)</span>
+Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)
 
 ---
 
 I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
 
-<span class="ref">Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan</span>
+xxx (2017) _Rammeplan for barnehagen: Innhold og oppgaver._ 
 :::
 
 
