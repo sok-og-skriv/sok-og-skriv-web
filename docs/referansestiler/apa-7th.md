@@ -556,8 +556,8 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 ### Læreplaner og rammeplaner
 
 
-Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres. Se også
-[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under har ikke tatt inn all informasjonen det vises til fra direktoratat, men følger standard oppsett for APA 7. 
+Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres:
+[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under har ikke tatt inn all informasjonen det vises til fra direktoratet, men følger standard oppsett for APA 7.
 
 ::: teksten
 (Organisasjon, årstall, eventuelt sidetall)
