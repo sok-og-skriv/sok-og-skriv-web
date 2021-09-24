@@ -571,7 +571,7 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 
 :::: ref
 
-<span class="ref">Organisasjon. (årstall). _Tittel_. (Kode hvis tilgjengelig) Utgiver. URL </span>
+<span class="ref">Organisasjon. (Årstall). _Tittel_ (Kode hvis tilgjengelig). Utgiver. URL </span>
 
 <span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Regjeringen. https://www.regjeringen.no/</span>
 
@@ -595,16 +595,15 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 
 ::: details Flere eksempler
 
-I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
+I rammeplanen for barnehagene (Kunnskapsdepartementet, 2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
 
 <span class="ref">Kunnskapsdepartementet (2017). _Rammeplan for barnehagen: Forskrift om rammeplan for barnehagens innhold og oppgaver._ Hentet fra [https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf](https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf)</span>
 :::
 
-#### Merknad
- Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen.
+#### Merknader
+Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen.
 
-#### Merknad
- Skriv året læreplan gjelder fra, og plankoden i parentes etter tittel. PDF-versjon er enklere å henvise til. Bruk den fullstendige URL-en for PDF-filen. Når sidetall ikke eksisterer, skriv kapittel/ del og/ eller avsnittsnummer i henvisningen.
+PDF-versjon er enklere å henvise til. Bruk den fullstendige URL-en for PDF-filen. Når sidetall ikke eksisterer kan du skrive kapittel, del eller avsnittsnummer.
 
 ### Rapporter
 Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentlige eller private 
