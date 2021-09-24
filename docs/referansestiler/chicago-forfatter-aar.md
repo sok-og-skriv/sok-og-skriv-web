@@ -448,7 +448,7 @@ Forskrift om habilitering og rehabilitering. _Forskrift om habilitering og rehab
 :::: 
 
 
-### Stortingsmeldinger og proposisjoner
+### Meldinger til Stortinget og proposisjoner
 
 ::: teksten
 (Departement årstall, eventuelt sidetall)
