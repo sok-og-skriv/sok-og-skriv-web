@@ -593,6 +593,13 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 ::: 
 :::: 
 
+::: details Flere eksempler
+
+I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
+
+<span class="ref">Kunnskapsdepartementet (2017). _Rammeplan for barnehagen: Forskrift om rammeplan for barnehagens innhold og oppgaver._ Hentet fra [https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf](https://www.udir.no/globalassets/filer/barnehage/rammeplan/rammeplan-for-barnehagen-bokmal2017.pdf)</span>
+:::
+
 #### Merknad
  Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen.
 
