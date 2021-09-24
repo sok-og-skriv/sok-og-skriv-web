@@ -7,6 +7,7 @@ date: "2012-09-18"
 
 Chicago-stilen finnes i to varianter, som _forfatter-årstallsstil_, som vi presenterer her (også kalt _Chicago B_), og som [fotnotestil](/referansestiler/chicago-fotnoter.html). Denne framstillingen er basert på [_The Chicago Manual of Style_. 17. utg](https://www.chicagomanualofstyle.org/book/ed17/part3/ch15/toc.html).
 
+
 ## Henvisning i teksten 
 
 I teksten vises det til kildens forfatter, utgivelsesår og eventuelt sidetall i parentes. Stilen kan være hensiktsmessig i for eksempel samfunnsvitenskapelige arbeider. Les mer om [sitering og kildehenvisning](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat) og/eller se eksemplene nedenfor. 
