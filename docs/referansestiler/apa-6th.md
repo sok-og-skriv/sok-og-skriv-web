@@ -421,7 +421,7 @@ Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og men
 
 I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
 
-<span class="ref">Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan</span>
+<span class="ref">Kunnskapsdepartementet (2017). _Rammeplan for barnehagen:Forskrift om rammeplan for barnehagens innhold og oppgaver._ Hentet fra https://www.udir.no/laring-og-trivsel/rammeplan-for-barnehagen/ </span>
 :::
 
 ### Rapporter
