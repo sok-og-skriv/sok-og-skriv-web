@@ -559,12 +559,13 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres:
 [Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under har ikke tatt inn all informasjonen det vises til fra direktoratet, men følger standard oppsett for APA 7.
 
+
 ::: teksten
 (Organisasjon, årstall, eventuelt sidetall)
 
 ... (Kunnskapsdepartementet, 2017, s. 7).
 ... (Utdanningsdirektoratet, 2020)
-... (Kunnskapsdepartementet, 2017, Demokrati) 
+... (Kunnskapsdepartementet, 2017) 
 
 :::
 
@@ -581,9 +582,7 @@ https://www.udir.no/lk20/nor01-06?lang=nob</span>
 
 
 
-Merknad: Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen.
 
-Merknad: Skriv året som læreplan gjelder fra, og plankoden i parentes etter tittel. PDF-versjon er enklere å henvise til. Bruk den fullstendige URL-en for PDF-filen. Når sidetall ikke eksisterer, skriv kapittel/ del og/ eller avsnittsnummer i henvisningen.
 
 
 ::: details I EndNote
@@ -593,6 +592,10 @@ Legges inn som "Report" eller "Government Document".
 Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), Publisher, URL. 
 ::: 
 :::: 
+
+#### Merknad: Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen.
+
+#### Merknad: Skriv året læreplan gjelder fra, og plankoden i parentes etter tittel. PDF-versjon er enklere å henvise til. Bruk den fullstendige URL-en for PDF-filen. Når sidetall ikke eksisterer, skriv kapittel/ del og/ eller avsnittsnummer i henvisningen.
 
 ### Rapporter
 Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentlige eller private 
