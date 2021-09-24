@@ -316,6 +316,38 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 
 ## Offentlige kilder
 
+### Læreplaner 
+
+
+::: teksten
+(Organisasjon, årstall, eventuelt sidetall)
+
+... (Kunnskapsdepartementet, 2017, s. 7).
+:::
+
+:::: ref
+<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Hentet fra https://...</span>
+
+Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
+
+<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hentet fra https://www.regjeringen.no/</span>
+
+
+:::: 
+
+::: details Flere eksempler
+Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
+
+<span class="ref">Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)</span>
+
+---
+
+I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
+
+<span class="ref">Utdanningsdirektoratet. (2017). _Rammeplan for barnehagen: Innhold og oppgaver._ Hentet fra https://www.udir.no/rammeplan</span>
+:::
+
+
 ### Lover
 
 I Norge henviser vi til «originalloven» som konsolideres ved endringer. Det er den konsoliderte versjonen av lover som står i lovsamlingen, og man bruker originaldatoen når man refererer til den. Man kan også vise til dato for endringer hvis man diskuterer selve endringen, men da refererer man til endringens offisielle tittel. Den fulle tittelen inkluderer alltid dato og man trenger derfor ikke sette årstall i parentes. Man trenger ikke vise hvor man har hentet loven fra.
