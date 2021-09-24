@@ -314,93 +314,39 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 :::: 
 
 
-## Audiovisuelle kilder
+## Offentlige kilder
 
-### Bilder/kunst/fotografi
+### Læreplaner 
 
-Bilder tilgjengeliggjøres på mange ulike måter. Omtaler du et bilde i en bok, refererer du til boken, og henviser til bildet med sidetall. Eksemplene nedenfor er for frittstående bilder i arkiver eller utstillinger.
 
 ::: teksten
-(Etternavn, årstall)
+(Organisasjon, årstall, evt. sidetall)
 
-Eldre fotografi av Børsen i Bergen (Knudsen, 1865).
+... (Kunnskapsdepartementet, 2017, s. 7).
 :::
 
 :::: ref
-Etternavn, N.N. (Årstall) _Tittel på bilde_ \[Medium\]_._ Sted. Referansenummer, om det finnes.
+Organisasjon (årstall) _Tittel_ (evt. kode). Hentet fra https://...</span>
 
-Knudsen, K. (1865) _Børsen i Bergen_ \[Fotografi\]. Universitetsbiblioteket i Bergen. Ubb-kk-1318-0012.
+Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
 
-::: details I EndNote
-
-Legges inn som: "Artwork"
-
-Fyll ut feltene: Artist, Year, Title, Description (her legges all info om museum/galleri etc., by, inventarnummer), Type of Work 
-::: 
-:::: 
+Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hentet fra https://www.regjeringen.no/
 
 
-### Digitale bilder/kunst/fotografi
-
-Oppgi navn på fotograf/kunstner hvis informasjonen er gitt. Bruk tittel på bilde som referanse dersom fotograf/kunstner ikke er gitt. Hvis årstall for bildet mangler, skriv (u.å.) som forkortelse for uten år.  
-
-::: teksten
-(Etternavn, årstall)
-
-(Huyn, u.å.)
-
-(_Tittel_, årstall)
-
-(_Northern lights (aurora borealis) over Tromso, Troms, Northern Norway_, u.å.) …
-:::
-
-:::: ref
-Etternavn, N_._ (årstall) _Tittel på bilde_ \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
-
-_Tittel på bilde_ (årstall) \[Medium\]_._ Tilgjengelig fra: https://url (Hentet: dato).
-
-Huyn, T. (u.å.) _Streetlife_ \[Fotografi\]. Tilgjengelig fra: https://tommyimages.com/Stock\_Photos/Caribbean/Cuba/Life\_in\_Havana/slides/Cuba\_01\_E\_8\_19-Street\_Life.html (Hentet 18. desember 2013).
-
-_Northern lights (aurora borealis) over Tromso, Troms, Northern Norway _(u.å.) \[Fotografi\].Tilgjengelig fra: https://www.theodora.com/wfb/photos/norway/norway\_photos\_48.html (Hentet: 26. november 2009).
-
-::: details I EndNote
-
-Legges inn som: "Artwork"
-
-Fyll ut feltene: Artist, Year, Title, Description (her legges all info om museum/galleri etc., by, inventarnummer), Type of Work, URL, Access date 
-::: 
 :::: 
 
 ::: details Flere eksempler
-(Munch, 1926)
+Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
 
-Munch, E. (1926) _Fire kvinner i hagen_ \[Olje på lerret\]. Tilgjengelig fra: https://foto.munchmuseet.no/fotoweb/archives/5014-Malerier/Arkiv/M0309.tif.info (Hentet: 19. juni 2019).
+Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)
+
+---
+
+I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
+
+xxx (2017) _Rammeplan for barnehagen: Innhold og oppgaver._ 
 :::
 
-### Musikk / auditive kilder
-
-Det finnes egne, spesialiserte regler for hvordan man skal referere til musikk, men Harvard-stilen har noen generelle anbefalinger. Referanse til en musikkinnspilling bør inneholde så mange som mulig av følgende elementer: Komponist/tekstforfatter/utøver(e) eller annen person som er hovedansvarlig for innholdet, _Verktittel_, navn på plateselskap/utgiver, nummer som kan identifisere innspillingen, medium, opphavsretts-dato, eller dato for produksjon eller framføring. Rekkefølgen av elementene i henvisningen, vil avhenge av konteksten det opptrer i. Er opptaket lastet ned eller strømmet fra web, skal referansen inneholde URL og nedlastingsdato. Hvis opptaket har DOI, brukes dette, og da kan dato utelates. Hvis du har mange henvisninger til musikkverk, kan det være greit å samle disse i en diskografi, som en egen del av referanselisten.
-
-::: teksten
-(Komponist/artist, årstall)
-
-I sangen Stella vil Gud gi Stella hele verden, om hun bare blir hos ham (Sivertsen, 2008).
-:::
-
-:::: ref
-Komponist, N.N. / Artist, N.N. (årstall) _Tittel på komposisjon_ \[Medium, evt. katalognummer\]. Utøver(e). Sted: Utgiver/plateselskap.
-
-Sivertsen, I.M. (2008) _Fortress ’round my heart_ \[CD\], Ida Maria. Oslo: Waterfall records.
-
-::: details I EndNote
-
-Legges inn som "Audivisual Material".
-
-Fyll ut feltene: Author Title, Year, Publisher, Performers og Format.
-::: 
-:::: 
-
-## Offentlige kilder
 
 ### Lover
 

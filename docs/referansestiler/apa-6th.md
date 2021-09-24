@@ -394,7 +394,7 @@ Dersom du henviser til trykt utgave skal sted og utgiver være med. Dersom du vi
 <span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Hentet fra https://www.regjeringen.no/</span>
 :::
 
-### Ramme- og læreplaner
+### Læreplaner og rammeplaner 
 
 ::: teksten
 (Organisasjon, årstall, eventuelt sidetall)

@@ -570,7 +570,7 @@ Det skal alltid settes en maksimalpris på reseptpliktige legemidler før disse 
 
 Forskrifter føres vanligvis ikke inn i referanselisten.
 
-### Meldinger til Stortinget OPPDATERE
+### Meldinger til Stortinget 
 
 :::: ref
 ^nr^ Dokumenttype nr. (sesjon), eventuelt sidetall.
@@ -584,6 +584,35 @@ En stortingsmelding fra 2008^23^ tar for seg temaet arbeidsinnvandring.
 St.meld. nr. 18 (2007-2008). _Arbeidsinnvandring._ Oslo: Arbeidsdepartementet. [https://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/](https://www.regjeringen.no/no/dokumenter/stmeld-nr-18-2007-2008-/id507744/)
 
 Pagineringen kan være ulik mellom trykt og elektronisk versjon av offentlige dokumenter. Det er derfor viktig å henvise til rett versjon.
+
+F.o.m. 1. oktober 2009 er lovbehandlingen i Stortinget endret og publikasjoner fra Stortinget og regjeringen har fått nye navn. Stortingsmeldinger heter nå "Melding til Stortinget" (Meld. St.) og odelstingsproposisjoner heter "Proposisjon til Stortinget (lovvedtak)", forkortet (Prop. nr. L). Les mer [her](https://www.stortinget.no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Forsidenyheter/2008-2009/Nye-publikasjonsbetegnelser/).
+
+
+::: teksten
+(St.meld. nr. x (Sesjon), eventuelt sidetall)
+
+(Meld. St. x (Sesjon), eventuelt sidetall)
+
+---
+
+Regjeringen vil prioritere dette arbeidet (St.meld. nr. 47 (2008–2009), s. 90).
+:::
+
+:::: ref
+St.meld. nr. x (Sesjon). _Tittel på stortingsmelding_.
+
+Meld. St. x (Sesjon). _Tittel på stortingsmelding_.
+
+---
+
+St.meld. nr. 47 (2008–2009). _Samhandlingsreformen: rett behandling – på rett sted – til rett tid._
+:::
+
+::: details Flere eksempler
+På 1980-tallet ble denne politikken endret (Meld. St. 13 (2012–2013), s. 14).
+
+Meld. St. 13 (2012–2013). _Ta heile Noreg i bruk: distrikts- og regionalpolitikken._
+
 
  
 :::: 
@@ -612,12 +641,13 @@ Prop. 125 LS (2009-2010). _Endringer i skatte- og avgiftsreglane mv._ Oslo: Fina
 
 ### Norges offentlige utredninger (NOU)
 
-SJEKK om dette er rett satt opp
+_Oppdateres_ I NOU'en _Ny lov om universiteter og høyskoler_^28^ hevdes det at …
 
 ::: tip I noten
-x NOU årstall: nr., eventuelt sidetall.
+Departement eller utvalg. År. _Tittel_. Dokumentnummer hvis tilgjengelig. Sted: Utgiver.
 
-I NOU _Struktur for likestilling_^28^ hevdes det at …
+NOU (2020: 3) Ny lov om universiteter og høyskoler
+
 :::
 
 
