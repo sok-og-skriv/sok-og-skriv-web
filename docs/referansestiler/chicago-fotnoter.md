@@ -585,7 +585,7 @@ St.meld. nr. 18 (2007-2008). _Arbeidsinnvandring._ Oslo: Arbeidsdepartementet. 
 
 Pagineringen kan være ulik mellom trykt og elektronisk versjon av offentlige dokumenter. Det er derfor viktig å henvise til rett versjon.
 
-F.o.m. 1. oktober 2009 er lovbehandlingen i Stortinget endret og publikasjoner fra Stortinget og regjeringen har fått nye navn. Stortingsmeldinger heter nå "Melding til Stortinget" (Meld. St.) og odelstingsproposisjoner heter "Proposisjon til Stortinget (lovvedtak)", forkortet (Prop. nr. L). Les mer [her](https://www.stortinget.no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Forsidenyheter/2008-2009/Nye-publikasjonsbetegnelser/).
+Fram til 1. oktober 2009 brukte man betegnelsen Stortingsmeldinger (St.meld) for det som nå heter "Melding til Stortinget" (Meld. St.). 
 
 
 ::: teksten
@@ -620,6 +620,8 @@ Meld. St. 13 (2012–2013). _Ta heile Noreg i bruk: distrikts- og regionalpolit
 
 
 ### Proposisjoner
+
+Fram til 2009 brukte man betegnelsen Odelstingsproposisjoner, nå heter det "Proposisjon til Stortinget (lovvedtak)", forkortet (Prop. nr. L). Les mer [her](https://www.stortinget.no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Forsidenyheter/2008-2009/Nye-publikasjonsbetegnelser/).
 
 ::: tip I noten
 ^nr^ Prop. nr. (sesjon), eventuelt sidetall.
