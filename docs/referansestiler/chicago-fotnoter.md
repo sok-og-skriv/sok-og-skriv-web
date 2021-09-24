@@ -796,4 +796,4 @@ Hvis du oversetter sitat, kan du enten oppgi originalsitatet i teksten og overse
 
 ### Indirekte sitat
 
-Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde skal henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden.
+Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde, skal henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt frem i kilden.

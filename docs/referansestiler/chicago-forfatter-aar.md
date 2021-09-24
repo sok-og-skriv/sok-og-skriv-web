@@ -617,7 +617,7 @@ Når du selv oversetter et sitat skal dette markeres i parentes etter sidehenvis
 
 Indirekte sitat eller parafrasering er å gjengi en annen forfatter med egne ord. Pass på at du ikke fordreier meningsinnholdet i omskrivingen. Når du viser til en avgrenset del av en kilde bør henvisningen inneholde sidetall. Dette gjør leseren i stand til å finne raskt fram i kilden.
 
-### Sekundærkilder
+### Sekundærhenvisninger 
 
 Dette er en referanse som du har lest om i et verk. I teksten skal du da vise til både verket som du har lest og den referansen du leste om i verket. For eksempel har du lest om Winnicott i boken til Solomon: "Winnicott referert i Solomon (2001) viser til …". I referanselisten setter du bare opp det verket du har lest, i dette tilfellet Solomon.
 
