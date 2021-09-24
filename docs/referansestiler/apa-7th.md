@@ -553,11 +553,11 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 <span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Sosial- og helsedepartementet. https://www.regjeringen.no/</span>
 :::
 
-### Ramme- og læreplaner
+### Læreplaner og rammeplaner
 
 
 Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres. Se også
-[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/)
+[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under har ikke tatt inn all informasjonen det vises til fra direktoratat, men følger standard oppsett for APA 7. 
 
 ::: teksten
 (Organisasjon, årstall, eventuelt sidetall)
@@ -570,31 +570,27 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 
 :::: ref
 
-Overordnet del:
-<span class="ref">Organisasjon. (årstall). _Tittel_. Fastsatt som forskrift ved kongelig
-resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL </span>
+<span class="ref">Organisasjon. (årstall). _Tittel_. (Kode hvis tilgjengelig) Utgiver. URL </span>
 
-<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Fastsatt som forskrift ved kongelig resolusjon.
-Læreplanverket for Kunnskapsløftet 2020. https://www.regjeringen.no/</span>
+<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Regjeringen. https://www.regjeringen.no/</span>
 
-Læreplaner i fag:
-<span class="ref">Organisasjon. (årstall). _Tittel_ (kode). Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020. URL </span>
 
-<span class="ref">Kunnskapsdepartementet. (2019). _Læreplan i norsk
-(NOR01-06)_. Fastsatt som forskrift.
-Læreplanverket for Kunnskapsløftet 2020.
+<span class="ref">Utdanningsdirektoratet. (2019). _Læreplan i norsk
+(NOR01-06)_.
 https://www.udir.no/lk20/nor01-06?lang=nob</span>
 
 
 
+Merknad: Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen.
 
+Merknad: Skriv året som læreplan gjelder fra, og plankoden i parentes etter tittel. PDF-versjon er enklere å henvise til. Bruk den fullstendige URL-en for PDF-filen. Når sidetall ikke eksisterer, skriv kapittel/ del og/ eller avsnittsnummer i henvisningen.
 
 
 ::: details I EndNote
 
 Legges inn som "Report" eller "Government Document".
 
-Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), publisher (Fastsatt som forskrift..), URL. 
+Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), Publisher, URL. 
 ::: 
 :::: 
 
