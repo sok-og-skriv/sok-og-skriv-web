@@ -463,6 +463,35 @@ Arbeids- og inkluderingsdepartementet. «Arbeidsinnvandring.» St. meld. nr. 18 
 
 :::: 
 
+F.o.m. 1. oktober 2009 er lovbehandlingen i Stortinget endret og publikasjoner fra Stortinget og regjeringen har fått nye navn. Stortingsmeldinger heter nå "Melding til Stortinget" (Meld. St.) og odelstingsproposisjoner heter "Proposisjon til Stortinget (lovvedtak)", forkortet (Prop. nr. L). Les mer [her](https://www.stortinget.no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Forsidenyheter/2008-2009/Nye-publikasjonsbetegnelser/).
+
+
+::: teksten
+(St.meld. nr. x (Sesjon), eventuelt sidetall)
+
+(Meld. St. x (Sesjon), eventuelt sidetall)
+
+---
+
+Regjeringen vil prioritere dette arbeidet (St.meld. nr. 47 (2008–2009), s. 90).
+:::
+
+:::: ref
+St.meld. nr. x (Sesjon). _Tittel på stortingsmelding_.
+
+Meld. St. x (Sesjon). _Tittel på stortingsmelding_.
+
+---
+
+St.meld. nr. 47 (2008–2009). _Samhandlingsreformen: rett behandling – på rett sted – til rett tid._
+:::
+
+::: details Flere eksempler
+På 1980-tallet ble denne politikken endret (Meld. St. 13 (2012–2013), s. 14).
+
+Meld. St. 13 (2012–2013). _Ta heile Noreg i bruk: distrikts- og regionalpolitikken._
+
+
 
 ### Norges offentlige utredninger (NOU)
 
