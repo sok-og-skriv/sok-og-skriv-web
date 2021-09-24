@@ -487,7 +487,7 @@ Etternavn, Fornavn. _Tittel._ Årstall. Medium. Størrelse. Plassering (eier). S
 
 Billedtekst, for eksempel: Edvard Munch, _Skrik_, 1893. Gjengitt med tillatelse fra Nasjonalmuseet for kunst, arkitektur og design.
 
-Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 ^x^ 73,5 cm.. Nasjonalmuseet for kunst, arkitektur og design. Oslo. Fotografert av Børre Høstland. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939)
+Munch, Edvard. _Skrik._ 1893. Tempera og fettstift på papplate. 91 ^nr^ 73,5 cm.. Nasjonalmuseet for kunst, arkitektur og design. Oslo. Fotografert av Børre Høstland. [https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939](https://digitaltmuseum.no/things/skrik-maleri/NMK-B/NG.M.00939)
 
 ::: 
 

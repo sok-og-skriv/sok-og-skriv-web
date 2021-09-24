@@ -30,7 +30,8 @@ I teksten vises det til kildens forfatter, utgivelsesår og eventuelt sidetall i
 (Forfatter årstall, evt. sidetall) eller Forfatter (årstall, sidetall)
 
 _Eksempel_
-«Å skrive med stil er å drive med noe i retning av høytskriving», ifølge Anders Johansen (2003, 43). 
+
+«Å skrive med stil er å drive med noe i retning av høytskriving», hevder Anders Johansen (2003, 43). 
 :::
 
 :::: ref
