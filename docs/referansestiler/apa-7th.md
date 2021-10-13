@@ -331,7 +331,7 @@ Uten forfatter:
 Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel._ Forlag. (Hentet
 [lest-dato] fra URL)
 
-<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia._https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia._ https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
 
 Ta med dato i tilfeller der innholdet oppdateres. 
 
