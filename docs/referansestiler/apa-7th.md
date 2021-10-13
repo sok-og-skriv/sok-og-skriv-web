@@ -314,15 +314,20 @@ Om artikkelen ikke har forfatter bruker du artikkeltittel:
 
 
 :::: ref
+
+Med forfatter:
+Artikkelens forfatter(e). (publiseringstidspunkt). Artikkelens tittel: Undertittel. I Bokens
+forfatter(e) eller redaktør(er) (Red.), Bokens tittel (utgave, bind, sidetall). Forlag. (eller
+Hentet [lest-dato] fra URL
+
 Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undertittel. 
     _Nettstedets navn_. https://xxxxx
 
-<span class="ref">Fossheim, H. (2018, 25. desember). Aristoteles. 
-   I _Store Norske Leksikon_. https://snl.no/Aristoteles</span>
+<span class="ref">Fossheim, H. (2018, 25. desember). Aristoteles. I _Store Norske Leksikon_. https://snl.no/Aristoteles</span>
 
-Om artikkelen ikke har forfatter: 
+Uten forfatter: 
 
-Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel_. Forlag. (eller Hentet
+Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel_. Forlag. (Hentet
 [lest-dato] fra URL)
 
 <span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. 
