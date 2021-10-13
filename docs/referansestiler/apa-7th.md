@@ -237,22 +237,7 @@ Legges inn som "Book".
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
 
 ::: 
-:::
 
-### Verk utgitt på nytt
-Et gjenutgitt verk er et verk som har gått ut av trykk (eller ikke lenger er tilgjengelig) og siden publisert på nytt, noe er som vanlig for eldre verk. Når du henviser til et gjenutgitt verk (f.eks. et verk gjenutgitt i form av en tekstsamling eller antologi), før opp informasjonen om den nye publikasjonen som du har brukt, etterfulgt av det opprinnelige utgivelsesåret i slutten av referansen
-
-:::ref
-<span class="ref">... (x/1916) ... (Opprinnelig utgitt 1916).</span>
-
-
-::: details I EndNote
-
-
-Legges inn som "Book".
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
-
-::: 
 :::
 
 ## Artikler 
@@ -320,28 +305,37 @@ Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Ti
 
 (Fossheim, 2018).
 
-Om artikkelen ikke har forfatter:
-("artikkelens tittel")
+Om artikkelen ikke har forfatter bruker du artikkeltittel:
 
 ... ("Lindeberg stasjon", 2017).
 
-... (10.utg.; ICD-10; World Health Organization, 2020).
+
 :::
 
 
 :::: ref
-Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undertittel. 
-    _Nettstedets navn_. https://xxxxx
 
-<span class="ref">Fossheim, H. (2018, 25. desember). Aristoteles. 
-   I _Store Norske Leksikon_. https://snl.no/Aristoteles</span>
+Med forfatter:
 
-Om artikkelen ikke har forfatter: 
+<span class="ref">Artikkelens forfatter(e). (publiseringstidspunkt). Artikkelens tittel: Undertittel. I Bokens
+forfatter(e) eller redaktør(er) (Red.), Bokens tittel (utgave, bind, sidetall). Forlag. (eller
+Hentet [lest-dato] fra URL</span>
 
-<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. 
-    https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+<span class="ref">Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undertittel. 
+_Nettstedets navn_. URL</span>
 
-<span class="ref">World Health Organization. (2020). F40: Fobiske angstlidelser. I Den                      internasjonale statiske klassifikasjonen av sykdommer og beslektede sykdommer (10. utg.). Direktoratet for e-helse. https://finnkode.ehelse.no/#icd10/0/0/0/2599502</span>
+<span class="ref">Fossheim, H. (2018, 25. desember). Aristoteles. I _Store Norske Leksikon_. https://snl.no/Aristoteles</span>
+
+Uten forfatter: 
+
+<span class="ref">Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel._ Forlag. (Hentet
+[lest-dato] fra URL)</span>
+
+<span class="ref">Lindeberg stasjon. (2017, 8.mars). I _Wikipedia._ https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+
+Ta med dato i tilfeller der innholdet oppdateres. 
+
+
 
 ::: details I Endnote
 
@@ -353,6 +347,13 @@ Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (
 :::
 ::::
 
+::: details Flere eksempler
+
+... (10.utg.; ICD-10; World Health Organization, 2020).
+
+<span class="ref">World Health Organization. (2020). F40: Fobiske angstlidelser. I Den internasjonale statiske klassifikasjonen av sykdommer og beslektede sykdommer (10. utg.). Direktoratet for e-helse. https://finnkode.ehelse.no/#icd10/0/0/0/2599502</span>
+
+:::
 
 ## Nettsider
 
@@ -384,7 +385,7 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 :::: 
 
 #### Merknader 
-Nettstedets navn utgår dersom det er det samme som forfatter/organisasjonen. 
+Nettstedets navn utgår dersom det er det samme som forfatter/organisasjon. 
 
 Publiseringsdato brukes _kun_ for innhold som publiseres eller oppdateres ofte (f.eks. blogginnlegg, diskusjonsfora, sosiale medieoppdateringer, pressemeldinger, nyhetsbrev, høringsuttalelser). I teksten oppgis bare årstallet for utgivelsen. Finnes det ikke informasjon om publiseringstidspunkt, oppgis u.å. (= uten år) i referansen og i teksten.  
 
@@ -444,7 +445,7 @@ Med endringslov til folketrygdloven (2018) endres finansieringen ...
 :::
 
 #### Merknader
-Det anbefales å gå direkte til Lovdata for lovene. Om du bruker lovene i f.eks bokformat henvises det som for bok. 
+Det anbefales å hente lover direkte fra [Lovdata](https://lovdata.no/lov/2018-06-22-55). Om du bruker lovene i f.eks bokformat henvises det som for bok. 
 
 ### Forskrifter
 
@@ -557,7 +558,7 @@ OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rette
 
 
 Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres:
-[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under har ikke tatt inn all informasjonen det vises til fra direktoratet, men følger standard oppsett for APA 7.
+[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under førlger retningslinjene fra direktoratet og følger tegnsetting for APA 7.
 
 
 ::: teksten
@@ -571,14 +572,16 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 
 :::: ref
 
-<span class="ref">Organisasjon. (årstall). _Tittel_. (Kode hvis tilgjengelig) Utgiver. URL </span>
+Departement/direktorat. (Publiseringstidspunkt). _Tittel_. Fastsatt som forskrift ved kongelig
+resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL
 
-<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Regjeringen. https://www.regjeringen.no/</span>
+Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
+Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
+https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/
 
 
-<span class="ref">Utdanningsdirektoratet. (2019). _Læreplan i norsk
-(NOR01-06)_.
-https://www.udir.no/lk20/nor01-06?lang=nob</span>
+Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
+Læreplanverket for Kunnskapsløftet 2020. https://www.udir.no/lk20/hsf01-0
 
 
 
@@ -587,9 +590,9 @@ https://www.udir.no/lk20/nor01-06?lang=nob</span>
 
 ::: details I EndNote
 
-Legges inn som "Report" eller "Government Document".
+Legges inn som "Report".
 
-Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), Publisher, URL. 
+Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), Publisher (sett på komma til slutt), URL. 
 ::: 
 :::: 
 
@@ -601,7 +604,7 @@ I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta
 :::
 
 #### Merknad
- Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen.
+Kunnskapsløftet består av flere deler, bl.a.: Overordnet del, Læreplaner for fag og Prinsipper for opplæring. Departementet eller Regjeringen bør stå som forfatter av Overordnet del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag. Når forfatter og utgiver er den samme, utelates utgiveropplysningen. Merk at tilleggsopplysningene om fastsatt forskrift er ulike for departement/regjering og direktorat.
 
 #### Merknad
  Skriv året læreplan gjelder fra, og plankoden i parentes etter tittel. PDF-versjon er enklere å henvise til. Bruk den fullstendige URL-en for PDF-filen. Når sidetall ikke eksisterer, skriv kapittel/ del og/ eller avsnittsnummer i henvisningen.
@@ -609,7 +612,7 @@ I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta
 ### Rapporter
 Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentlige eller private 
 institusjoner. Noen har en seriekode eller rapportnavn- og nummer, og dette oppgis da i 
-parentes etter tittelen. Denne dokumenttypen kan ofte også brukes for andre typer dokumenter.
+parentes etter tittelen. 
 
 ::: teksten
 (Forfatter, årstall, eventuelt sidetall)
@@ -646,9 +649,9 @@ Trykt:
 
 Legges inn som "Report"
 
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Report number (Her skriver du inn hele serieopplysningen),Publisher, URL
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Report number (Her skriver du inn hele serieopplysningen), Publisher, URL
 
-Merknad: Dersom du ikke har URL, erstattes den med Publisher.
+Merknad: Dersom du ikke har URL, erstattes den med Publisher. Dersom du ikke har nummer/serieopplysning kan feltet for Report number stå blankt.
 
 :::
 
@@ -674,10 +677,10 @@ Kyrkjebø (2001) viser forskjellen mellom ... (s. 39).
 
 :::: ref
 Trykt oppgave:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling/. Institusjon].</span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon].</span>
 
 Avhandling på nett:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel:Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/]. Navn på arkiv.</span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/. Navn på arkiv. URL </span>
 
 <span class="ref">Thingnes J.R. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_/[Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
 
@@ -697,7 +700,7 @@ Merknad: I feltet for «Thesis type» legges også institusjonsnavnet inn.
 ::: details Flere eksempler
 <span class="ref"> (Jerpseth, 2017, s. 40) </span>
 
-<span class="ref"> Jerpseth, H. (2017). Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
+<span class="ref"> Jerpseth, H. (2017). _Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
 :::
 
 ### Statistikk og datasett
@@ -758,11 +761,6 @@ Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjo
 <span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). https://www.shorturl.at/akvB8</span>
 
 :::
-
-
-
-
-
 
 
 ### Forelesningsmateriell og intranett-ressurser
