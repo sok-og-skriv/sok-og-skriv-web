@@ -329,7 +329,7 @@ _Nettstedets navn_. URL</span>
 Uten forfatter: 
 
 <span class="ref">Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel._ Forlag. (Hentet
-[lest-dato] fra URL)/span>
+[lest-dato] fra URL)</span>
 
 <span class="ref">Lindeberg stasjon. (2017, 8.mars). I _Wikipedia._ https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
 
