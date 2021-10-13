@@ -317,21 +317,21 @@ Om artikkelen ikke har forfatter bruker du artikkeltittel:
 
 Med forfatter:
 
-Artikkelens forfatter(e). (publiseringstidspunkt). Artikkelens tittel: Undertittel. I Bokens
+<span class="ref">Artikkelens forfatter(e). (publiseringstidspunkt). Artikkelens tittel: Undertittel. I Bokens
 forfatter(e) eller redaktør(er) (Red.), Bokens tittel (utgave, bind, sidetall). Forlag. (eller
-Hentet [lest-dato] fra URL
+Hentet [lest-dato] fra URL</span>
 
-Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undertittel. 
-    _Nettstedets navn_. https://xxxxx
+<span class="ref">Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undertittel. 
+_Nettstedets navn_. URL</span>
 
 <span class="ref">Fossheim, H. (2018, 25. desember). Aristoteles. I _Store Norske Leksikon_. https://snl.no/Aristoteles</span>
 
 Uten forfatter: 
 
-Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel._ Forlag. (Hentet
-[lest-dato] fra URL)
+<span class="ref">Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel._ Forlag. (Hentet
+[lest-dato] fra URL)/span>
 
-<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia._ https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+<span class="ref">Lindeberg stasjon. (2017, 8.mars). I _Wikipedia._ https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
 
 Ta med dato i tilfeller der innholdet oppdateres. 
 
