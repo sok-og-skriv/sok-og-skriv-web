@@ -316,6 +316,7 @@ Om artikkelen ikke har forfatter bruker du artikkeltittel:
 :::: ref
 
 Med forfatter:
+
 Artikkelens forfatter(e). (publiseringstidspunkt). Artikkelens tittel: Undertittel. I Bokens
 forfatter(e) eller redaktør(er) (Red.), Bokens tittel (utgave, bind, sidetall). Forlag. (eller
 Hentet [lest-dato] fra URL
@@ -327,11 +328,10 @@ Forfatter. (oppdaterings- eller publiseringstidspunkt). Tittel: eventuelt Undert
 
 Uten forfatter: 
 
-Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel_. Forlag. (Hentet
+Tittel på artikkel: Undertittel. (Publiseringstidspunkt). I _Leksikonets tittel._ Forlag. (Hentet
 [lest-dato] fra URL)
 
-<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia_. 
-    https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
+<span class="ref"> Lindeberg stasjon. (2017, 8.mars). I _Wikipedia._https://no.wikipedia.org/w/index.php?title=Lindeberg_stasjon&oldid=17219238</span>
 
 Ta med dato i tilfeller der innholdet oppdateres. 
 
