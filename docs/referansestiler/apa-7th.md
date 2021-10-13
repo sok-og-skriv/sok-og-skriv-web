@@ -687,7 +687,9 @@ Legges inn som "Thesis".
 
 Trykt avhandling: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, University, Thesis Type.
 
-Avhandling på Internett: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Thesis Type. University, Place Published (navn på arkiv), URL.
+Avhandling på Internett: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Thesis Type, Name of Database og URL.
+
+Merknad: I feltet for «Thesis type» legges også institusjonsnavnet inn.
 
 ::: 
 :::: 
