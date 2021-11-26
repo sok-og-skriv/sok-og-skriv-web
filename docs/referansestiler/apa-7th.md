@@ -581,7 +581,7 @@ Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapslø
 
 
 Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
-Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-0](https://www.udir.no/lk20/hsf01-0)
+Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-03](https://www.udir.no/lk20/hsf01-03)
 
 
 
