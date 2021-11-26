@@ -577,11 +577,11 @@ resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL
 
 Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
 Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
-https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/
+[https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/](https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/)
 
 
 Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
-Læreplanverket for Kunnskapsløftet 2020. https://www.udir.no/lk20/hsf01-0
+Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-0](https://www.udir.no/lk20/hsf01-0)
 
 
 
