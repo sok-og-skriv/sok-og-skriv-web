@@ -581,7 +581,7 @@ https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaring
 
 
 Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
-Læreplanverket for Kunnskapsløftet 2020. https://www.udir.no/lk20/hsf01-0
+Læreplanverket for Kunnskapsløftet 2020. https://www.udir.no/lk20/hsf01-03
 
 
 
@@ -597,6 +597,11 @@ Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Num
 :::: 
 
 ::: details Flere eksempler
+
+Kunnskapsdepartementet. (2019). _Læreplan i norsk
+(NOR01-06)_. Fastsatt som forskrift.
+Læreplanverket for Kunnskapsløftet 2020.
+[https://www.udir.no/lk20/nor01-06?lang=nob](https://www.udir.no/lk20/nor01-06?lang=nob)
 
 I rammeplanen for barnehagene (2017, s. 27) står det at barnehagen skal ivareta barnas rett til medvirkning.
 
