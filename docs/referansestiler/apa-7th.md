@@ -96,7 +96,7 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
   
 <span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
-<span class="ref">Gullestad, S. E., & Killingmo, B. (2013). _Underteksten: psykoanalytisk terapi i praksis_ (2. utg.). Universitetsforlaget.</span>
+<span class="ref">Gullestad, S. E., & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i praksis_ (2. utg.). Universitetsforlaget.</span>
 
 Utgaveopplysninger skal ikke føres opp ved førsteutgaver.
 
@@ -132,7 +132,7 @@ Det mest vanlige er å referere til enkeltkapitler i redigerte bøker. Dersom du
 <span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
 
 
-<span class="ref">Svensen, H. H. (2019). Å skrive for livet: populærvitenskap, forskermemoarer og IMRAD. I I. B. Jørgensen & N. Askeland (Red.), _Kreativ akademisk skriving_ (s. 157-178). Universitetsforlaget.</span>
+<span class="ref">Svensen, H. H. (2019). Å skrive for livet: Populærvitenskap, forskermemoarer og IMRAD. I I. B. Jørgensen & N. Askeland (Red.), _Kreativ akademisk skriving_ (s. 157-178). Universitetsforlaget.</span>
 
 ::: details I EndNote
 
@@ -168,7 +168,7 @@ Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken er identisk med tr
 :::
 
 :::: ref
-<span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel: Undertittel_ (eventuelt utgave)\[eventuelt versjon, f.eks. Kindle\]. https://doi.org/xxxx</span>
+<span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel: Undertittel_ (eventuelt utgave)\[eventuelt versjon, f.eks. Kindle\]. Forlag. https://doi.org/xxxx</span>
 
 <span class="ref">Vareide, K. (2018) _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ Cappelen Damm. https://doi.org/10.23865/noasp.32</span>
 
