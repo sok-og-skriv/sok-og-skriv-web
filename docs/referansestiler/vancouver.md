@@ -90,7 +90,7 @@ Nummer. Forfatter AA. Kapitteltittel. I: Redaktør AA, Redaktør BB, red. Boktit
 
 ::: details I EndNote
 
-Legges inn som "Edited Book".
+Legges inn som "Book Chapter".
 Fyll ut feltene: Editor (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher, Pages, Edition (hvis aktuelt).
 :::
 ::::
