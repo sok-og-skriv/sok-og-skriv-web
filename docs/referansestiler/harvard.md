@@ -319,7 +319,7 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 ### Læreplaner 
 
 Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres:
-[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under førlger retningslinjene fra direktoratet og følger tegnsetting for Harvard.
+[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under følger retningslinjene fra direktoratet og tegnsetting for Harvard.
 
 
 ::: teksten
@@ -331,9 +331,9 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 :::: ref
 Organisasjon (årstall) _Tittel_ (evt. kode). Informasjon om forskrift*.  Hentet fra https://...</span>
 
-*For overordnet del skriver du: Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020
+*For overordnet del skriver du: Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
 
-*For læreplan i fag skriver du: Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020
+*For læreplan i fag skriver du: Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020.
 
 Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
 Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
@@ -345,7 +345,7 @@ Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapslø
 ::: details Flere eksempler
 Et kompetansemål i 2. klasse er å «kunne sette ord på egne følelser og meninger» (Utdanningsdirektoratet, 2013, s. 6)
 
-Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)
+Utdanningsdirektoratet. (2013). _Læreplanen i norsk_ (NOR1-05). Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020. Hentet fra [https://www.udir.no/kl06/NOR1-05](https://www.udir.no/kl06/NOR1-05/Hele/)
 
 ---
 
