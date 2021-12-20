@@ -331,12 +331,12 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 :::: ref
 Organisasjon (årstall) _Tittel_ (evt. kode). Informasjon om forskrift*.  Hentet fra https://...</span>
 
-*For overordnet del skriver du: Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
+*For overordnet del skriver du: Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020. 
 
 *For læreplan i fag skriver du: Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020.
 
 Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
-Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
+Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020. Hentet fra
 [https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/](https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/)
 
 
