@@ -318,6 +318,9 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 
 ### Læreplaner 
 
+Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal siteres:
+[Hvordan referere til læreplanene?](https://www.udir.no/laring-og-trivsel/lareplanverket/hvordan-referere-til-lareplanene/). Eksemplene under førlger retningslinjene fra direktoratet og følger tegnsetting for Harvard.
+
 
 ::: teksten
 (Organisasjon, årstall, evt. sidetall)
@@ -326,11 +329,15 @@ Fyll ut feltene: Author, Year, Title, Editor, Encyclopedia Title, City, Publishe
 :::
 
 :::: ref
-Organisasjon (årstall) _Tittel_ (evt. kode). Hentet fra https://...</span>
+Organisasjon (årstall) _Tittel_ (evt. kode). Informasjon om forskrift*.  Hentet fra https://...</span>
 
-Kunnskapsdepartementet bør stå som forfatter av Kunnskapsløftets overordnede del, mens Utdanningsdirektoratet som forvaltningsorgan betraktes som forfatter av læreplaner for fag.
+*For overordnet del skriver du: Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020
 
-Kunnskapsdepartementet. (2017). _Overordnet del – verdier og prinsipper_. Hentet fra https://www.regjeringen.no/
+*For læreplan i fag skriver du: Fastsatt som forskrift. Læreplanverket for Kunnskapsløftet 2020
+
+Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
+Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
+[https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/](https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/)
 
 
 :::: 
