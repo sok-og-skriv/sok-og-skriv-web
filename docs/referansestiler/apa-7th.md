@@ -96,7 +96,7 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
   
 <span class="ref"> Forfatter, A. A., Forfatter, B. B. & Forfatter, C. C. (utgivelsesår). _Tittel: Undertittel_ (evt. utgave). Forlag. </span>
 
-<span class="ref">Gullestad, S. E., & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i praksis_ (2. utg.). Universitetsforlaget.</span>
+<span class="ref">Gullestad, S. E. & Killingmo, B. (2013). _Underteksten: Psykoanalytisk terapi i praksis_ (2. utg.). Universitetsforlaget.</span>
 
 Utgaveopplysninger skal ikke føres opp ved førsteutgaver.
 
