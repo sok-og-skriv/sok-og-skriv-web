@@ -17,7 +17,7 @@ Look at scholarly or scientific articles to see how referencing works in practic
 
 **youtube**
 
-<Video id="https://youtu.be/esfZOcBIB6w" />
+<Video id="esfZOcBIB6w" />
 
 # References and quotations
 
