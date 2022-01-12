@@ -16,6 +16,10 @@ sidebar: false
 
 <Video id="lEo96kOKGmA" />
 
+## How to cite sources and avoid plagiarism? 
+
+<Video id="esfZOcBIB6w" />
+
 
 
 ## Where to find research literature
