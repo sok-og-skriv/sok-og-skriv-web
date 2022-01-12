@@ -43,7 +43,8 @@ module.exports = {
     'soking',
     'studieteknikk',
     'skriving',
-    'kjeldebruk'
+    'kjeldebruk',
+    'undervisere'
   ],
   '/om/brukertest/': [
     '',
