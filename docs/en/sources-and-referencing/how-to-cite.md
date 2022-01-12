@@ -15,7 +15,7 @@ It is not necessary to provide references for absolutely everything, such as com
 Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications such as newspapers.
 :::
 
-**youtube**
+**Video: How to cite sources and avoid plagiarism**
 
 <Video id="esfZOcBIB6w" />
 
