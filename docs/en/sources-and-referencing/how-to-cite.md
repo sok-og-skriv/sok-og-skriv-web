@@ -15,6 +15,10 @@ It is not necessary to provide references for absolutely everything, such as com
 Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications such as newspapers.
 :::
 
+**youtube**
+
+<Video id="https://youtu.be/esfZOcBIB6w" />
+
 # References and quotations
 
 Academic publications have formal rules for citation and referencing that vary between different fields, journals, etc. There are for example standard abbreviatons that are commonly used in citations. 
