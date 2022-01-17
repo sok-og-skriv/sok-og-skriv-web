@@ -69,10 +69,15 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
 ## Siste videoer
 
+### How to cite sources and avoid plagiarism? 
+
 <div class="container">
   <div class="video">
     <Video id="3IIoBZ0Tf_I" />
   </div>
+
+### Bygge inn i Canvas
+
   <div class="video">
     <Video id="UpicbnpX_c4" />
   </div>
