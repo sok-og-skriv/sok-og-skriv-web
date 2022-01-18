@@ -66,7 +66,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 </div>
 
 <div class="flex">
-  <h2 style="border-bottom:none;">Videoer</h2>
+  <h2 style="border-bottom:none;">Nyeste videoer</h2>
   <small><a href="/video/soking">...se flere</a></small>
 </div>
 
