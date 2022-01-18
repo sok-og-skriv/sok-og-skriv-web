@@ -48,8 +48,6 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   </div>
 </div>
 
----
-
 <div class="card references">
   <!-- <div class="image">
     <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
@@ -67,18 +65,23 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   </div>
 </div>
 
-## Siste videoer
-
-<div class="container">
-  <div class="video">
-    <Video id="3IIoBZ0Tf_I" />
-  </div>
-  <div class="video">
-    <Video id="UpicbnpX_c4" />
-  </div>
+<div class="flex">
+  <h2 style="border-bottom:none;">Nyeste videoer</h2>
+  <small><a href="/video/soking">...se flere</a></small>
 </div>
 
-[Se flere](/video/soking.html)
+<section class="container" style="margin-bottom:3em;">
+  <article class="video">
+    <Video id="3IIoBZ0Tf_I" />
+    <h1>How to cite sources and avoid plagiarism?</h1>
+  </article>
+
+
+  <article class="video">
+    <Video id="UpicbnpX_c4" />
+    <h1>Bygge inn i Canvas</h1>
+  </article>
+</section>
 
 ## Partnere
 
