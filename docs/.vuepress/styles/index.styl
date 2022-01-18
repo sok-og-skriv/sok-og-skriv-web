@@ -243,7 +243,8 @@ a, p
 
 .references
   grid-template-columns: 1fr
-  margin-bottom: 2em;
+  margin-top: 3em;
+  margin-bottom: 3em;
   .content h2
     font-size: 2em;
     border-bottom: none
@@ -284,8 +285,11 @@ a, p
   display: grid
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr))
   grid-gap: 1rem
-  .video .title 
-    display: none
+  .video h1 
+    padding-top: 0
+    margin-top: 0
+    font-size: 1.3em
+    display: inline
 
 .search-table
   display: grid
@@ -376,3 +380,8 @@ h1 img
   top 17px
   width 70px
   border-radius: 3px
+
+.flex 
+  display: flex
+  justify-content: space-between
+  align-items: center
