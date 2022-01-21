@@ -5,25 +5,11 @@ date: "2016-07-04"
 
 # Søketeknikker
 
-Det første du må gjøre, er å finne gode søkeord (eller søketermer). Bruk problemstillingen som utgangspunkt og identifiser sentrale begreper. Husk å ta med synonymer. Finnes det flere ord som beskriver de begrepene du er ute etter? 
-
-::: tip Språk og terminologi 
-*	Bruk fagterminologi. Mange databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer med tilhørende synonymer.
-*	Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen.
-* De fleste internasjonale databaser krever at du søker på engelsk. 
-::: 
-
-Selv om Oria gir treff både på norsk og engelsk, kan du gå glipp av svært mange aktuelle dokumenter dersom du bare velger norske søkeord. Engelske fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord. Om du velger å søke på norsk, skal du være oppmerksom på at bokmål gir flere treff enn nynorsk.
-
-::: tip Valg av søkeord 
-*	Vær kreativ: Finn flest mulig synonymer til dine søkeord.
-*	Ikke bruk for mange ulike søkeord – to til tre er vanligvis nok. 
-* Merk at for hvert søkeord (eller -term) kan du ha mange synonymer.
-::: 
-
 ## Fritekstsøk
 
-Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da søker du på ord i tittel, sammendrag, emne- og nøkkelord. Her er det viktig å finne rett nivå: ikke for spesifikt og ikke for generelt. 
+Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da matches søkeordene dine til referansens innhold, ofte på ord i tittel, sammendrag og emneord. Her er det viktig å finne rett nivå: ikke for spesifikt og ikke for generelt.
+
+Alternativet til fritekstsøk er søk via kontrollert vokabular, eller såkalt [emneordsøk](/emneordsøk/).
 
 ::: eksempel Eksempel 
 Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokumenter som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord. Fordi ulike betegnelser kan bli brukt om det samme fenomenet, er det viktig å bruke flere søkeord. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
