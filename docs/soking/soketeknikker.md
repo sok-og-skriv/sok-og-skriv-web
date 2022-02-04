@@ -15,11 +15,6 @@ Alternativet til fritekstsøk er søk via kontrollert vokabular, eller såkalt [
 Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokumenter som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord. Fordi ulike betegnelser kan bli brukt om det samme fenomenet, er det viktig å bruke flere søkeord. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
 :::
 
-
-## Avgrensing av søk
-
-Benytt databasenes muligheter for å avgrense en lang treffliste. I de fleste databaser kan du avgrense på publiseringsår, språk, større emneområder og dokumenttyper. Vær obs på at enhver avgrensing kan føre til at du mister viktig informasjon.
-
 ## Emneordssøk
 
 <Video id="_yKr4R3k5Pg" />
