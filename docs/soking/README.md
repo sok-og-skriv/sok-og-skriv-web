@@ -11,5 +11,5 @@ Før du går i gang med å søke, tenk over:
 *	Hvordan kan du finne denne informasjonen?
 *	Hvordan kan du gå frem for å få en oversikt over eksisterende teori og forskning?
 
-I løpet av oppgaveskrivingen vil du ha bruk for forskjellige typer kilder, og kildene må kvalitetsvurderes – lenke til kildevurdering På disse sidene introduseres noen verktøy og innganger som kan være nyttige.
+I løpet av oppgaveskrivingen vil du ha bruk for forskjellige typer kilder, og kildene må kvalitetsvurderes. På disse sidene introduseres noen verktøy og innganger som kan være nyttige.
 
