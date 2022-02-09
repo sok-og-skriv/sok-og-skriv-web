@@ -15,7 +15,7 @@ I den tidlige fasen av oppgaveskrivingen vil du gjerne orientere deg bredt for �
 *	Fagspesifikke oppslagsverk (for eksempel _International Encyclopedia of the Social & Behavioral Sciences_) gir grundige innføringer. Forfatterne er eksperter på sine felt og har kartlagt den sentrale litteraturen i oversiktsartikler.
 *	Lærebøker gir innføring i og henvisninger til kilder som går mer i dybden.
 *	Gjennom nyhetsarkivet _PressReader_ og Nasjonalbibliotekets digitale avistjeneste får du tilgang til den norske samfunnsdebatten. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
-*	Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet. Se for eksempel www.regjeringen.no, _Statistisk sentralbyrå_,  _Verdensbanken_ og _Organisation for Economic Co-operation and Development_(OECD).
+*	Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet. Se for eksempel www.regjeringen.no, _Statistisk sentralbyrå_,  _Verdensbanken_ og _Organisation for Economic Co-operation and Development_ (OECD).
 
 
 ## Finn faglitteratur
@@ -28,7 +28,7 @@ Gjennom fagbibliotekenes nettsider får du tilgang til databaser som dekker et b
 
 Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen databaser dekker alt; de overlapper og utfyller hverandre. Derfor er det viktig å søke i flere databaser for å få oversikt. Nedenfor finner du et utvalg tverrfaglige databaser som kan være et godt utgangspunkt for søk før du går videre til de fagspesifikke databasene:
 *	Oria er forskningsbibliotekenes søkeverktøy. Her finner du blant annet fagbøker, masteroppgaver, doktorgradsavhandlinger og tidsskriftsartikler.
-*	_Google Scholar_ er den akademiske versjonen av _Google_. Den søker etter vitenskapelig litteratur fra anerkjente ulike forlag og forskningsarkiv- og databaser. Kildene er av varierende kvalitet, så vær kildekritisk.
+*	_Google Scholar_ er den akademiske versjonen av _Google_. Den søker etter vitenskapelig litteratur fra ulike forlag og forskningsarkiv- og databaser. Kildene er av varierende kvalitet, så vær kildekritisk.
 *	Artikkelbasen Norart gir oversikt over norske og et utvalg nordiske tidsskriftsartikler. Basen dekker både populærvitenskapelige og vitenskapelige tidsskrifter.
 *	_Idunn_ dekker tidsskrifter som er utgitt på Universitetsforlaget, og er tilgjengelig i de fleste bibliotek i Norge.
 *	Publiseringsarkivet NORA gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren. 
