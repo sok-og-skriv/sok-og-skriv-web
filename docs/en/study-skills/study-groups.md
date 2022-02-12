@@ -28,7 +28,7 @@ The texts that are shared can be more or less completed. We recommend to share d
 - Inform your readers what type of text it is, and where it fits in the larger contect.
 - Think carefully about what you would like to receive feedback on at _this_ stage, and request the response you need.
 :::
-::: oppgave When reading and giving feedback, observe the following:
+::: oppgave When giving feedback, observe the following:
 
 - Read the text in advance
 - Prepare and formulate your comments in writing
@@ -41,7 +41,7 @@ Comment what you think the author has succeeded in and why it works. Unspecified
 Good feedback is concrete, constructive and friendly.
 ::: 
 
-::: oppgave When receiving feedback;
+::: oppgave When receiving feedback
 
 - Ask for feedback that is appropriate for the stage you are at (idea phase, discussion or editing phase).
 - Be receptive and open: Your fellow group members have set aside time and tried to understand your text.
