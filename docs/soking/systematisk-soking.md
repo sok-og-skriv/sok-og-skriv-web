@@ -178,17 +178,12 @@ mp = søk på tekstord i følgende felt: title, abstract, original title, name o
 
 De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken.
 
-| DATABASE        | SØK #                                                                           | DATO       | SØKEORD/KOMBINASJON                                           | ANTALL TREFF                                                                                                           | KOMMENTARER          |
-| --------------- | ------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Web of Science  | 1                                                                               | 10.12.2021 | Globali\*ation OR “Global approach”                           | [63,934 ](https://www.webofscience.com/wos/woscc/summary/a65a59f5-69bb-4992-b3d6-50bcf5597e6a-184cf45f/relevance/1)    | Søkte i «All Fields» |
-| Core Collection |                                                                                 |
-|                 | Brukte trunkerinssymbol \* for å søke etter både globalisation og globalization |
-| Web of Science  | 2                                                                               | 10.12.2021 | education\* OR school\*                                       | [4,148,691 ](https://www.webofscience.com/wos/woscc/summary/e5f31d9f-d190-44b7-9388-fd7af6022546-184dd38e/relevance/1) |                      |
-| Core Collection |
-| Web of Science  | 3                                                                               | 10.12.2021 | Inequalit\* OR Inequit\* OR Marginali\* OR Equal opportunit\* | [321,017 ](https://www.webofscience.com/wos/woscc/summary/63645645-3a25-4eb0-b445-e59b26b04a59-184e297e/relevance/1)   |                      |
-| Core Collection |
-| Web of Science  | 4                                                                               | 10.12.2021 | ((#1) AND #2) AND #3)                                         | [852 ](https://www.webofscience.com/wos/woscc/summary/545371c9-6038-4743-a545-ff6f1bc265dd-184ea159/relevance/1)       |                      |
-| Core Collection |
+| SØK # | DATO       | SØKEORD/KOMBINASJON                                           | ANTALL TREFF |
+| ----- | ---------- | ------------------------------------------------------------- | ------------ |
+| 1     | 12/10/2021 | Globali\*ation OR “Global approach”                           | 63.934       |
+| 2     | 12/10/2021 | education\* OR school\*                                       | 4,148,691    |
+| 3     | 12/10/2021 | Inequalit\* OR Inequit\* OR Marginali\* OR Equal opportunit\* | 321.017      |
+| 4     | 12/10/2021 | ((#1) AND #2) AND #3)                                         | 852          |
 
 ## Gjennomgang av søkeresultatet
 
