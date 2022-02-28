@@ -9,7 +9,7 @@ date: "2016-07-04"
 
 Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da matches søkeordene dine til referansens innhold, ofte på ord i tittel, sammendrag og emneord. Her er det viktig å finne rett nivå: ikke for spesifikt og ikke for generelt.
 
-Alternativet til fritekstsøk er søk via kontrollert vokabular, eller såkalt [emneordsøk](/emneordsøk/).
+Alternativet til fritekstsøk er søk via kontrollert vokabular, eller såkalt emneordsøk.
 
 ::: eksempel Eksempel 
 Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokumenter som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord. Fordi ulike betegnelser kan bli brukt om det samme fenomenet, er det viktig å bruke flere søkeord. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
