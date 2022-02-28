@@ -11,9 +11,8 @@ En problemstilling består av to eller flere tematiske elementer. Før du kan fo
 * Er det snakk en populasjon/gruppe med mennesker omhandles?
 * Er det snakk om setting/kontekst?
 
-PICO- og SPIDER-skjemaet kan være hjelpemidler i denne fasen. 
 
-:::::: details Anvendelse av PICO
+:::::: details For helsefagene er PICO- og SPIDER-skjema mye brukt i denne fasen
 
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
@@ -24,7 +23,7 @@ PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilli
 
 PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
 
-### Anvendelse av PICO
+**Anvendelse av PICO**
 
 ::::: eksempel Er trening eller kosthold mest effektivt for å behandle overvekt?
 
@@ -125,7 +124,7 @@ BMI adj2 reduc*
 
 BMI adj2 loss
 :::
-::::
+:::::
 
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
@@ -161,6 +160,7 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via s
 | 25 | (BMI adj2 loss).mp.                    | 897      |
 | 26 | 21 or 22 or 23 or 24 or 25             | 129477   |
 | 27 | 7 and 12 and 20 and 26                 | 6859     |
+
 :::
 
 Forklaring:
@@ -178,7 +178,17 @@ mp = søk på tekstord i følgende felt: title, abstract, original title, name o
 
 De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken.
 
-[[[sette inn eksempel fra Web of Science]]]
+| DATABASE        | SØK #                                                                           | DATO       | SØKEORD/KOMBINASJON                                           | ANTALL TREFF                                                                                                           | KOMMENTARER          |
+| --------------- | ------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| Web of Science  | 1                                                                               | 10.12.2021 | Globali\*ation OR “Global approach”                           | [63,934 ](https://www.webofscience.com/wos/woscc/summary/a65a59f5-69bb-4992-b3d6-50bcf5597e6a-184cf45f/relevance/1)    | Søkte i «All Fields» |
+| Core Collection |                                                                                 |
+|                 | Brukte trunkerinssymbol \* for å søke etter både globalisation og globalization |
+| Web of Science  | 2                                                                               | 10.12.2021 | education\* OR school\*                                       | [4,148,691 ](https://www.webofscience.com/wos/woscc/summary/e5f31d9f-d190-44b7-9388-fd7af6022546-184dd38e/relevance/1) |                      |
+| Core Collection |
+| Web of Science  | 3                                                                               | 10.12.2021 | Inequalit\* OR Inequit\* OR Marginali\* OR Equal opportunit\* | [321,017 ](https://www.webofscience.com/wos/woscc/summary/63645645-3a25-4eb0-b445-e59b26b04a59-184e297e/relevance/1)   |                      |
+| Core Collection |
+| Web of Science  | 4                                                                               | 10.12.2021 | ((#1) AND #2) AND #3)                                         | [852 ](https://www.webofscience.com/wos/woscc/summary/545371c9-6038-4743-a545-ff6f1bc265dd-184ea159/relevance/1)       |                      |
+| Core Collection |
 
 ## Gjennomgang av søkeresultatet
 
