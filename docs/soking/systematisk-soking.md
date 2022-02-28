@@ -16,9 +16,9 @@ En problemstilling består av to eller flere tematiske elementer. Før du kan fo
 
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
-**P**: (problem/patient): pasient/pasientgruppe/diagnose 
-**I**: (intervention): tiltak/eksponering 
-**C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering 
+**P**: (problem/patient): pasient/pasientgruppe/diagnose <br />
+**I**: (intervention): tiltak/eksponering <br />
+**C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering <br />
 **O**: (outcome): utfall (det du vil ha ny kunnskap om)
 
 PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
