@@ -46,6 +46,16 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
       <p>All forsking bygger på kjelder. Det finst fleire vilkår for å vurdere relevans og kvalitet.</p>
     </div>
   </div>
+  
+  <div class="card">
+    <div class="image">
+      <a href="/frasebank/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kjeldebruk"></a>
+    </div>
+    <div class="content">
+      <h2><a href="/frasebank/">Frasebank</a></h2>
+      <p>Beskrivelse av frasebanken.</p>
+    </div>
+  </div>
 </div>
 
 <div class="card references">
