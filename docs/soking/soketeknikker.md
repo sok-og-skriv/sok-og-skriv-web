@@ -86,23 +86,23 @@ Tabellen nedenfor har tre kolonner, en for hvert av de tre begrepene i problemst
 
 Denne framgangsmåten kan brukes på de aller fleste prosjekter.
 
-Problemstilling: «Lønner det seg for bedrifter å markedsføre seg som bærekraftig?» 
+Problemstilling: «Hvordan har globaliseringen påvirket sosiale ulikheter innenfor utdanningssystemet?» 
 
 :::: søketabell 
 ::: tabell
-Verdivurdering
+Globalisering
 
 **OR**
 
-Verdisett\*\
+Globalisation\*\
 
 **OR**
 
-Valuation estimate
+Globalization
 
 **OR** 
 
-Statement of value
+"Global approach"
 :::
 
 ::: kombinator
@@ -110,19 +110,15 @@ Statement of value
 :::
 
 ::: tabell
-Økologisk
+Inequalit*
 
 **OR**
 
-Bærekraftig
+Inequit*
 
 **OR**
 
-Ecological
-
-**OR**
-
-Sustainab\*\
+"Equal opportunit"
 :::
 
 ::: kombinator
@@ -130,23 +126,20 @@ Sustainab\*\
 :::
 
 ::: tabell
-Metode
+Utdanning*
 
 **OR**
 
-Fremgangsmåte
+Skole*
 
 **OR**
 
-Method
+Education*
 
 **OR**
 
-Technique
+School*
 
-**OR**
-
-Skill
 :::
 ::::
 
