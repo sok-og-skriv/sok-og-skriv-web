@@ -4,15 +4,15 @@ Når du foretar et systematisk søk, skal søket være planmessig gjennomført, 
 
 ## Problemstilling
 
-En problemstilling består av to eller flere tematiske elementer. Før du kan foreta et systematisk søk, bør du strukturere problemstillingen din og skille ut de sentrale tematiske elementene. Da blir overgangen til søking enklere. Noen hjelpespørsmål som kan deg med å skille ut de tematiske elementene:
+En problemstilling består av to eller flere tematiske elementer. Før du kan foreta et systematisk søk, bør du strukturere problemstillingen din og skille ut de sentrale tematiske elementene. Da blir overgangen til søking i f.eks. en database enklere. Noen hjelpespørsmål som kan deg med å skille ut de tematiske elementene:
 
 * Er det snakk om en problematikk?
-* Er det snakk om en intervensjon/et tiltak/et fenomen?
-* Er det snakk en populasjon/gruppe med mennesker omhandles?
+* Er det snakk om en intervensjon/et tiltak/et utfall/et fenomen?
+* Er det snakk en populasjon/gruppe med mennesker?
 * Er det snakk om setting/kontekst?
 
 
-:::::: details For helsefagene er PICO- og SPIDER-skjema mye brukt i denne fasen
+:::::: details PICO- og SPIDER-skjemaet er mye brukt i helsefagene, og kan være hjelpemidler i denne fasen
 
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
@@ -52,7 +52,7 @@ Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjema
 
 ::::: eksempel PICO-skjema med forslag til synonymer
 
-Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmål «er trening eller kosthold mest effektivt for å behandle overvekt?»
+Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmålet «er trening eller kosthold mest effektivt for å behandle overvekt?»
 
 :::: picoskjema
 ::: picoboks P
@@ -102,13 +102,13 @@ Diet/
 
 Nutrition habit* 
 
-Nutrition behavior* 
+Nutrition behavi*
 
 Eating habit* 
 
 Food habit* 
 
-Eating behavior
+Eating behavi*
 :::
 
 ::: picoboks O
@@ -126,6 +126,7 @@ BMI adj2 loss
 :::
 :::::
 
+*Husk at de synonyme søkeordene innenfor hver kolonne kombineres med ELLER, så kombineres alle treffene i de tre kolonnene med OG.*
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
@@ -143,15 +144,15 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via s
 | 8  | exp Exercise/                          | 221169   |
 | 9  | Exercise.mp                            | 386937   |
 | 10 | Gymnastic\*.mp.                        | 3790     |
-| 11 | "Physical activity".mp.                | 127039   |
+| 11 | "Physical activit\*".mp.                | 127039   |
 | 12 | 8 or 9 or 10 or 11                     | 508008   |
 | 13 | exp Diet/                              | 305094   |
 | 14 | Diet.mp.                               | 506370   |
 | 15 | "Nutrition habit\*".mp.                | 252      |
-| 16 | "Nutrition behavior".mp.               | 204      |
+| 16 | "Nutrition behavi\*".mp.               | 204      |
 | 17 | "Eating habit\*".mp.                   | 6428     |
 | 18 | "Food habit\*".mp.                     | 2449     |
-| 19 | "Eating behavior".                     | 5835     |
+| 19 | "Eating behavi\".                     | 5835     |
 | 20 | 13 or 14 or 15 or 16 or 17 or 18 or 19 | 567773   |
 | 21 | Weight Loss/                           | 39801    |
 | 22 | "Weight loss".mp.                      | 108601   |
