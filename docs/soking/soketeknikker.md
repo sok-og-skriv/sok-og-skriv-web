@@ -94,7 +94,7 @@ Globalisering
 
 **OR**
 
-Globalisation\*\
+Globalisation
 
 **OR**
 
@@ -118,7 +118,7 @@ Inequit*
 
 **OR**
 
-"Equal opportunit"
+"Equal opportunit*"
 :::
 
 ::: kombinator
