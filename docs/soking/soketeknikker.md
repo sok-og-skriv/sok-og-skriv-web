@@ -16,10 +16,10 @@ Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dok
 
 Alternativet til fritekstsøk er søk via kontrollert vokabular, eller såkalt emneordsøk.
 
-#Frasesøk
+### Frasesøk
 Dersom søkebegrepet ditt består av mer en ett ord, for eksempel tilpasset opplæring, må du markere det med anførselstegn når du søker: “tilpasset opplæring”. Du søker da på frasen tilpasset opplæring, og ikke tilpasset og opplæring som to separate ord.
 
-#Trunkering
+### Trunkering
 Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (*).  Barn* gir treff på barnet, barna, barneskole, barneskule, barnehage osv.
 
 ## Kombiner søkeord
@@ -164,6 +164,6 @@ Noen databaser og verktøy som Web of Science (lenke) og Google Scholar (lenke) 
 ### Let i referanselister
 Det er ikke bare ved å foreta søk i databaser du finner god og kvalitetssikret informasjon. Hvis du har funnet en vitenskapelig artikkel som er midt i blinken for din oppgave, kan artikkelens referanseliste vise til annen, aktuell litteratur som du kan bruke.
 
-#Emneordssøk
+### Emneordssøk
 Fagspesifikke databaser inneholder ofte emneordlister (også kalt tesaurus), med liste over standardiserte fagtermer som brukes for å beskrive innholdet i et dokument. Det er mulig å søke via disse emneordlistene. Når du søker på emneord via emneordlisten, får du treff på alle dokumenter som er merket med dette emneordet. For eksempel dokumenter i databasen som handler om skole, får emneordet skole selv om forfatteren har brukt andre termer (mellomtrinnet, skule, grunnskole osv.) Det kan lønne seg å finne de emneordene som dekker ditt tema.
 Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten, og den brukes i flere helsefaglige databaser.
