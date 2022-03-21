@@ -11,7 +11,8 @@ module.exports = {
     'lesing-og-skriving',
     'studiegrupper',
     'argumentasjon-i-tekst',
-    'akademiske-sjangrer'
+    'akademiske-sjangrer',
+    'tidsstyring'
   ],
   '/skriving/': [
     '',
