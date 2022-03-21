@@ -835,9 +835,8 @@ for sitater eller informasjon fra dine egne intervjuobjekter og som utgjør en d
 forskningsdata (jfr. «Intervju fra egne informanter eller intervjuobjekter», over). Ettersom dette er en kilde som ikke er gjenfinnbar så skal denne type referanser ikke i referanselista – og det er kanskje heller ikke så lurt å benytte den type kilder nettopp av den grunn. Husk at referanselista kun skal inneholde dokumenterbar (etterprøvbar) informasjon.
 
 ::: teksten
-I teksten må dato være med:
+Dato være med i teksten:
 ... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)…
-
 
 _Ingen innførsel i referanselisten_
 :::
