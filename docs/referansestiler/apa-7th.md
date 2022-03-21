@@ -832,7 +832,7 @@ kommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige. For 
 forelesning inneholder originalt innhold som ikke er publisert andre steder, kan denne refereres
 til som personlig kommunikasjon. Hvis materialet du vil henvise til er lukket bak en påloggingseller betalingsmur, henvis til disse som arkivert materiale. Ikke bruk personlig kommunikasjon
 for sitater eller informasjon fra dine egne intervjuobjekter og som utgjør en del av dine
-forskningsdata (jfr. «Intervju fra egne informanter eller intervjuobjekter», over). Ettersom dette er en kilde som ikke er gjenfinnbar så skal denne type referanser ikke i referanselista – og det er kanskje heller ikke så lurt å benytte den type kilder nettopp av den grunn. Husk at referanselista kun skal inneholde dokumenterbar (etterprøvbar) informasjon.
+forskningsdata (jfr. «Intervju fra egne informanter eller intervjuobjekter», over). Ettersom dette er en type kilder som ikke er gjenfinnbare så skal denne type referanser ikke i referanselista – og det er kanskje heller ikke så lurt å benytte den type kilder nettopp av den grunn. Husk at referanselista kun skal inneholde dokumenterbar (etterprøvbar) informasjon.
 
 ::: teksten
 Dato må være med i teksten:
