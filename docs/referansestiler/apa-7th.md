@@ -836,6 +836,7 @@ forskningsdata (jfr. «Intervju fra egne informanter eller intervjuobjekter», o
 
 ::: teksten
 Dato være med i teksten:
+
 ... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)…
 
 _Ingen innførsel i referanselisten_
