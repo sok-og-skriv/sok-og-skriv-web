@@ -8,17 +8,16 @@ Temaer:
 2. Gjengi tidligere studier og støtte seg på disse
 3. Være kritisk til tidligere studier
 4. Definere begreper
-5. Klassifisere og liste opp
-6. Beskrive metode og metodevalg
-7. Sammenligne
-8. Beskrive resultater i tallmateriale
-9. Drøfte funn og resultater
-10. Argumentere for påstander
-11. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
-12. Konkludere argumentasjonsrekke
-13. Gi eksempler
-14. Skape flyt i teksten
-15. Avslutning eller konklusjon
+5. Beskrive metode og metodevalg
+6. Sammenligne
+7. Beskrive resultater i tallmateriale
+8. Drøfte funn og resultater
+9. Argumentere for påstander
+10. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
+11. Konkludere argumentasjonsrekke
+12. Gi eksempler
+13. Skape flyt i teksten
+14. Avslutning eller konklusjon
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
 
@@ -100,20 +99,10 @@ Disse frasene kan du bruke når du skal definere et begrep
 - Mange har definert \*begrepet\* som ...
 - Definisjonen jeg anvender her, er ...
 - Gundersen (2002) definerer \*begrepet\* som ...
+- Med begrepet \*begrepet\* mener vi her...
 
-## 5. Klassifisere og liste opp
 
-Disse frasene kan du bruke når du skal kategorisere et tema:
-
-- X kan bli kategorisert inn i Xi, Xii og Xiii
-- X kan videre deles inn i ...
-- Det finnes ulike metoder for å kategorisere ... Her skal jeg ...
-- X kan deles inn i flere grupper: a) ..., b) ... og/eller c) ...
-- Vanligvis klassifiseres X som ...
-- Det finnes ulike metoder for å klassifisere X ...
-- Teorien skiller mellom to ulike versjoner/former/typer av X: ...
-
-## 6. Beskrive metode og metodevalg
+## 5. Beskrive metode og metodevalg
 
 Disse frasene kan du bruke når du skal beskrive tidligere brukte metoder:
 
@@ -135,7 +124,7 @@ Disse frasene kan du bruke for å vise svakheter ved metoden:
 - Begrensinger/svakheter/problemer/ulemper ved bruken av \*metoden\* er ...
 - \*Metoden\* gir ikke valide resultater for ...
 
-## 7. Sammenligne
+## 6. Sammenligne
 
 Disse frasene kan du bruke når du skal introdusere ulikheter:
 
@@ -178,7 +167,8 @@ Disse frasene kan du bruke for å indikere likheter over to setninger:
 
 | Innbyggerne i Norge velger representanter til Stortinget. | På samme måte | Likeledes | På lignende vis | velger amerikanere representanter til senatet og kongressen. |
 | --- | --- | --- |
-##  8. Beskrive et tallmateriale
+
+##  7. Beskrive et tallmateriale
 
 Fraser for å beskrive trender i tallmateriale:
 
@@ -195,7 +185,7 @@ Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmater
 | Mer enn<br>Litt over <br>Rett over <br>Brorparten <br> <br>Rundt<br>Nesten<br>Så mange som <br>Så mange som omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne | oppga at<br>sa seg enige i<br>rapporterte om ... |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
 
-## 9. Drøfte funn og resultater
+## 8. Drøfte funn og resultater
 
 Disse frasene kan du bruke når du skal beskrive resultater som stemmer med tidligere studier:
 
@@ -219,7 +209,7 @@ Disse frasene kan du bruke når du skal beskrive resultater som bryter med tidli
 - Sammenlignet med tidligere forskning ...
 - Et annet syn på...
 
-## 10. Argumentere for påstander
+## 9. Argumentere for påstander
 
 Disse frasene kan du bruke når du vil synliggjøre argumentasjonen for leseren:
 
@@ -241,7 +231,7 @@ Disse frasene kan du bruke når du vil synliggjøre argumentasjonen for leseren:
 - Problemet med X sin fremstilling er ...
 - En mulig kritikk av X er ...
 
-## 11. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
+## 10. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
 
 Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker til at noe skjer.
 
@@ -262,7 +252,7 @@ Forsiktighet rundt forklaring av resultater:
 - En mulig forklaring på variasjonen i resultatene er ...
 - En mulig/rimelig tolkning kan være ...
 
-## 12. Konkludere argumentasjonsrekke
+## 11. Konkludere argumentasjonsrekke
 
 Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 
@@ -274,7 +264,7 @@ Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 - Et avsluttende poeng er at ...
 - Poenget med dette er å vise ...
 
-## 13. Gi eksempler
+## 12. Gi eksempler
 
 Disse frasene kan du bruke når du skal gi eksempler på noe:
 
@@ -302,7 +292,7 @@ Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argu
 - Dette eksempelet viser hvordan X tok i bruk etablerte handelsnettverk for å ...
 - D som er lagt frem her, bygger opp under påstanden om at ...
 
-## 14. Skape flyt i teksten
+## 13. Skape flyt i teksten
 
 Disse frasene kan du bruke for å veilede leseren gjennom teksten din. Frasene fungerer som metakommentarer til undersøkelsene dine og kan gjøre argumentasjonen lettere å følge.
 
@@ -324,7 +314,7 @@ Disse frasene kan du bruke for å veilede leseren gjennom teksten din. Frasene f
 - Kapittelet har beskrevet ... neste kapittel vil rette seg mot å diskutere ...
 - I det følgende vil jeg utdype denne diskusjonen med referanse til ...
 
-## 15. Avslutning eller konklusjon
+## 14. Avslutning eller konklusjon
 
 Disse frasene kan du bruke for å oppsummere, konkludere eller avslutte teksten:
 
@@ -337,3 +327,10 @@ Disse frasene kan du bruke for å oppsummere, konkludere eller avslutte teksten:
 - Konklusjonen av (undersøkelsen) er at ...
 - Undersøkelsen/analysen/studien bidrar dermed med ...
 - Undersøkelsen/studien viser hvordan ...
+- Dataene fra denne studien viser at....
+- Oberservasjoene som ble gjort i dette prosjektet viser...
+
+
+
+
+Denne frasebanken er dynamisk. Vi tar gjerne imot innspill på hvordan den kan bli bedre.
