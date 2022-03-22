@@ -171,7 +171,7 @@ Disse frasene kan du bruke for å sammenligne med bruk av sammenligningsord:
 
 Disse frasene kan du bruke for å indikere forskjeller over to setninger
 
-| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til | Dette står i motsetning til |  Slik skiller demokrati seg fra | styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
+| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til<br>Dette står i motsetning til<br>Slik skiller demokrati seg fra | styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
 | --- | --- | --- |
 
 Disse frasene kan du bruke for å indikere likheter over to setninger:
@@ -192,7 +192,7 @@ Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
 
 Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
-| Mer enn<br>Litt over <br>Rett over <br>Brorparten <br> <br>Rundt<br>Nesten<br>Så mange som <br>Så mange som omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30%<br>50%<br>80% | av informantene<br>av intervjuobjektene<br>av deltakerne | oppga at<br>sa seg enige i<br>rapporterte om ... |
+| Mer enn<br>Litt over <br>Rett over <br>Brorparten <br> <br>Rundt<br>Nesten<br>Så mange som <br>Så mange som omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne | oppga at<br>sa seg enige i<br>rapporterte om ... |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
 
 ## 9. Drøfte funn og resultater
