@@ -19,7 +19,7 @@ Når du skal vurdere ei kjelde, kan ein god start vere å sjå nærare  på forf
 
 ### Utgjevar/ansvarleg
 
-Utgjevar eller ansvarleg kan vere med på å påverke innhaldet. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. Kva blir utgjeve på forlaget eller i tidsskriftet? Sjå etter ei skildring av kva dei er interessert i å gje ut, og kva tema dei vanlegvis dekker. Undersøk også forlaget og tidsskriftet i [«Register over vitenskapelige publiseringskanaler»](https://dbh.nsd.uib.no/publiseringskanaler/Forside). Om forlaget eller tidsskriftet står oppført som anten nivå 1 eller nivå 2, kan du rekne med at det er eit seriøst og godt forlag eller tidsskrift. 
+Utgjevar eller ansvarleg kan vere med på å påverke innhaldet. Det kan dreie seg om å fremme eigne interesser, eller å gjere seg attraktiv for potensielle lesarar. Kva blir utgjeve på forlaget eller i tidsskriftet? Sjå etter ei skildring av kva dei er interessert i å gje ut, og kva tema dei vanlegvis dekker. Undersøk også forlaget og tidsskriftet i [«Register over vitenskapelige publiseringskanaler»](https://kanalregister.hkdir.no/publiseringskanaler/Forside). Om forlaget eller tidsskriftet står oppført som anten nivå 1 eller nivå 2, kan du rekne med at det er eit seriøst og godt forlag eller tidsskrift. 
 
 ### Kjeldebruk
 - I kva grad refererer forfattaren til andre kjelder?
