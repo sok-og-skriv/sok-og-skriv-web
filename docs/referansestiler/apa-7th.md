@@ -693,6 +693,7 @@ Avhandling på nett:
 
 <span class="ref">Thingnes J.R. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_/[Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
 
+
 ::: details I EndNote
 
 Legges inn som "Thesis".
