@@ -18,7 +18,7 @@ Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referan
 
 På Søk & Skriv viser me stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
 
-**Her er ein enkel oppskrift for å sette inn kjelder og unngå plagiat:**
+**Her er ei enkel oppskrift for å sette inn kjelder og unngå plagiat:**
 
 <Video id="3IIoBZ0Tf_I" />
 
