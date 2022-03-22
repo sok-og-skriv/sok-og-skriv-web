@@ -8,17 +8,16 @@ Temaer:
 2. Gjengi tidligere studier og støtte seg på disse
 3. Være kritisk til tidligere studier
 4. Definere begreper
-5. Klassifisere og liste opp
-6. Beskrive metode og metodevalg
-7. Sammenligne
-8. Beskrive resultater i tallmateriale
-9. Drøfte funn og resultater
-10. Argumentere for påstander
-11. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
-12. Konkludere argumentasjonsrekke
-13. Gi eksempler
-14. Skape flyt i teksten
-15. Avslutning eller konklusjon
+5. Beskrive metode og metodevalg
+6. Sammenligne
+7. Beskrive resultater i tallmateriale
+8. Drøfte funn og resultater
+9. Argumentere for påstander
+10. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
+11. Konkludere argumentasjonsrekke
+12. Gi eksempler
+13. Skape flyt i teksten
+14. Avslutning eller konklusjon
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
 
@@ -326,3 +325,8 @@ Disse frasene kan du bruke for å oppsummere, konkludere eller avslutte teksten:
 - Konklusjonen av (undersøkelsen) er at ...
 - Undersøkelsen/analysen/studien bidrar dermed med ...
 - Undersøkelsen/studien viser hvordan ...
+- Dataene fra denne studien viser at....
+- Oberservasjoene som ble gjort i dette prosjektet viser...
+
+
+Denne frasebanken er dynamisk. Vi tar gjerne imot innspill på hvordan den kan bli bedre.
