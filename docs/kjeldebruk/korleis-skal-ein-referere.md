@@ -45,10 +45,6 @@ Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til 
 
 Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I så fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
-## Opphavsrett 
-Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
-
-I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
 
 ## Korleis unngå plagiat / brot på opphavsretten? 
 
@@ -64,28 +60,36 @@ Vips, så har du unngått å plagiere!
   
 :::  
 
-Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). 
-
 Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – ved å ha kopiert eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass.  
+
 Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna som plagiat.
 
 ::: warning Sjølvsitering eller sjølvplagiat?  
 
-Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei fleste oppgåver blir neppe betre av å vise til ting du har gjort tidlegare. Viss du ikkje kjem utanom, gjeld desse råda: 
+Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei færreste oppgåver blir betre av å trekkje inn ting du har gjort tidlegare. Viss du ikkje kjem utanom, gjeld desse råda: 
 
 Publiserte oppgåver vises til på vanleg måte, med forfattar, årstall, tittel og utgjevar. 
 
-Upubliserte studentarbeid kan vises til som "Eige/eget arbeid (årstall). Tittel på oppgaven [Upublisert semesteroppgave eller det som passer]. Navnet på utdanningsinstitusjonen". Desse eksempla følger APA-stilen.
+Upubliserte studentarbeid kan vises til som "Eige/eget arbeid (årstall). Tittel på oppgaven [Upublisert semesteroppgave eller det som passer]. Navnet på utdanningsinstitusjonen". 
+
+Desse eksempla følger APA-stilen.
 
 Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker gjenbruke tidlegare arbeid. 
 
 ::: 
 
+
+### Opphavsrett 
+Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
+
+I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
+Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). 
+
 For meir om opphavsrett, sjå [DelRett](https://www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
 
 
 ## Sitat
-Nokon gonger kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Dette må gjerast i samsvar med god skikk, ved å sitere og vise korrekt til kjeldene. Ikkje gje inntrykk av at noko er ditt når det ikkje er det.
+Av og til kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Dette må gjerast i samsvar med god skikk, ved å sitere og vise korrekt til kjeldene. Ikkje gje inntrykk av at noko er ditt når det ikkje er det.
 
 ### Direkte sitat
 
