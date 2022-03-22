@@ -9,14 +9,14 @@ Temaer:
 3. Være kritisk til tidligere studier
 4. Definere begreper
 5. Beskrive metode og metodevalg
-6. Sammenligne
+6. Skape flyt i teksten
+6. Sammenligne 
 7. Beskrive resultater i tallmateriale
 8. Drøfte funn og resultater
 9. Argumentere for påstander
 10. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
 11. Konkludere argumentasjonsrekke
 12. Gi eksempler
-13. Skape flyt i teksten
 14. Avslutning eller konklusjon
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
@@ -168,7 +168,30 @@ Disse frasene kan du bruke for å indikere likheter over to setninger:
 | Innbyggerne i Norge velger representanter til Stortinget. | På samme måte | Likeledes | På lignende vis | velger amerikanere representanter til senatet og kongressen. |
 | --- | --- | --- |
 
-##  7. Beskrive et tallmateriale
+## 7. Skape flyt i teksten
+
+Disse frasene kan du bruke for å veilede leseren gjennom teksten din. Frasene fungerer som metakommentarer til undersøkelsene dine og kan gjøre argumentasjonen lettere å følge.
+
+- Som nevnt ...
+- Som jeg tidligere har understreket ...
+- I delen under, beskrives ...
+- I det følgende/Videre vil jeg argumentere for ...
+- ... etterfulgt av en diskusjon av X vil jeg diskutere Y.
+- Jeg retter nå oppmerksomheten mot ...
+- I lys av X, vil jeg nå diskutere Y.
+- Før vi fortsetter med X, er det viktig å understreke Y.
+- Så langt har jeg fokusert på X. Videre vil jeg ...
+- Før jeg forklarer teori A, vil jeg ...
+- Med en definisjon av X, kan vi nå se på ...
+- Slik jeg har vist er X, Y og Z. Jeg/oppgaven går nå over til en diskusjon av ...
+- På bakgrunn av kapittelet ser vi at ...
+- Frem til dette punktet, har jeg/oppgaven argumentert for X.
+- Denne delen har analysert de tre hovedelementene i ...
+- Kapittelet har beskrevet ... neste kapittel vil rette seg mot å diskutere ...
+- I det følgende vil jeg utdype denne diskusjonen med referanse til ...
+
+
+##  8. Beskrive et tallmateriale
 
 Fraser for å beskrive trender i tallmateriale:
 
@@ -185,7 +208,7 @@ Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmater
 | Mer enn<br>Litt over <br>Rett over <br>Brorparten <br> <br>Rundt<br>Nesten<br>Så mange som <br>Så mange som omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne | oppga at<br>sa seg enige i<br>rapporterte om ... |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
 
-## 8. Drøfte funn og resultater
+## 9. Drøfte funn og resultater
 
 Disse frasene kan du bruke når du skal beskrive resultater som stemmer med tidligere studier:
 
@@ -209,7 +232,7 @@ Disse frasene kan du bruke når du skal beskrive resultater som bryter med tidli
 - Sammenlignet med tidligere forskning ...
 - Et annet syn på...
 
-## 9. Argumentere for påstander
+## 10. Argumentere for påstander
 
 Disse frasene kan du bruke når du vil synliggjøre argumentasjonen for leseren:
 
@@ -231,7 +254,7 @@ Disse frasene kan du bruke når du vil synliggjøre argumentasjonen for leseren:
 - Problemet med X sin fremstilling er ...
 - En mulig kritikk av X er ...
 
-## 10. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
+## 11. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
 
 Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker til at noe skjer.
 
@@ -252,7 +275,7 @@ Forsiktighet rundt forklaring av resultater:
 - En mulig forklaring på variasjonen i resultatene er ...
 - En mulig/rimelig tolkning kan være ...
 
-## 11. Konkludere argumentasjonsrekke
+## 12. Konkludere argumentasjonsrekke
 
 Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 
@@ -264,7 +287,7 @@ Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 - Et avsluttende poeng er at ...
 - Poenget med dette er å vise ...
 
-## 12. Gi eksempler
+## 13. Gi eksempler
 
 Disse frasene kan du bruke når du skal gi eksempler på noe:
 
@@ -292,27 +315,6 @@ Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argu
 - Dette eksempelet viser hvordan X tok i bruk etablerte handelsnettverk for å ...
 - D som er lagt frem her, bygger opp under påstanden om at ...
 
-## 13. Skape flyt i teksten
-
-Disse frasene kan du bruke for å veilede leseren gjennom teksten din. Frasene fungerer som metakommentarer til undersøkelsene dine og kan gjøre argumentasjonen lettere å følge.
-
-- Som nevnt ...
-- Som jeg tidligere har understreket ...
-- I delen under, beskrives ...
-- I det følgende/Videre vil jeg argumentere for ...
-- ... etterfulgt av en diskusjon av X vil jeg diskutere Y.
-- Jeg retter nå oppmerksomheten mot ...
-- I lys av X, vil jeg nå diskutere Y.
-- Før vi fortsetter med X, er det viktig å understreke Y.
-- Så langt har jeg fokusert på X. Videre vil jeg ...
-- Før jeg forklarer teori A, vil jeg ...
-- Med en definisjon av X, kan vi nå se på ...
-- Slik jeg har vist er X, Y og Z. Jeg/oppgaven går nå over til en diskusjon av ...
-- På bakgrunn av kapittelet ser vi at ...
-- Frem til dette punktet, har jeg/oppgaven argumentert for X.
-- Denne delen har analysert de tre hovedelementene i ...
-- Kapittelet har beskrevet ... neste kapittel vil rette seg mot å diskutere ...
-- I det følgende vil jeg utdype denne diskusjonen med referanse til ...
 
 ## 14. Avslutning eller konklusjon
 
