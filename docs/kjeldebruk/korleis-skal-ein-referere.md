@@ -10,6 +10,8 @@ tags:
   - "selvplagiat"
   - "sjølvplagiat"
   - "sekundærreferanse"
+  - "selvistering" 
+  - "sjølvsitering"
 ---
 
  # Korleis skal ein referere? 
