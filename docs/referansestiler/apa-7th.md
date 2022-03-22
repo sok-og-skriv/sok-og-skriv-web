@@ -681,9 +681,10 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 
 ... (Våpenstad, 2011, s. 59).
 
-Kyrkjebø (2001) viser forskjellen mellom ... (s. 39)
-.
-... (Eget arbeid, 2022, s. 12).
+Kyrkjebø (2001) viser forskjellen mellom ... (s. 39).
+
+
+... (Eget arbeid, 2022, s. 7).
 :::
 
 :::: ref
