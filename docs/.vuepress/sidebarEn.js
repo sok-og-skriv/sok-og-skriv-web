@@ -10,8 +10,7 @@ module.exports = {
     'ways-of-reading',
     'reading-and-writing',
     'study-groups',
-    'argumentation-in-text',
-    'academic-genres'
+    'argumentation-in-text'
   ],
   '/en/writing/': [
     '',
