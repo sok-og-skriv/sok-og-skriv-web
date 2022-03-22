@@ -171,19 +171,18 @@ Disse frasene kan du bruke for å sammenligne med bruk av sammenligningsord:
 
 Disse frasene kan du bruke for å indikere forskjeller over to setninger
 
-| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til Dette står i motsetning til Slik skiller demokrati seg fra | styreformen i et diktatur der den politiske innflytelsen er begrenset. |
+| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til | Dette står i motsetning til |  Slik skiller demokrati seg fra | styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
 | --- | --- | --- |
 
-Disse frasene kan du bruke for å indikere likheter over to setninger
+Disse frasene kan du bruke for å indikere likheter over to setninger:
 
-| Innbyggerne i Norge velger representanter til Stortinget. | På samme måte LikeledesPå lignende vis | velger amerikanere representanter til senatet og kongressen. |
+| Innbyggerne i Norge velger representanter til Stortinget. | På samme måte | Likeledes | På lignende vis | velger amerikanere representanter til senatet og kongressen. |
 | --- | --- | --- |
-
 ##  8. Beskrive et tallmateriale
 
 Fraser for å beskrive trender i tallmateriale:
 
-| Grafen viser at det har vært en<br>Figur 2 avdekker hvordan det har vært en/et<br>Fra tabellen, ser vi at det har vært en | svak<br>sterk<br>bratt<br>gradvis<br>stadig<br>merkbar | oppgang<br>nedgang<br>økning<br>løft<br>fall | i antall skilsmisser i Norge siden 1980 |
+| Grafen viser at det har vært en<br>Figuren viser hvordan det har vært en/et<br>Fra tabellen ser vi at det har vært en/et | svak<br>sterk<br>bratt<br>gradvis<br>stadig<br>merkbar | oppgang<br>nedgang<br>økning<br>løft<br>fall | i antall skilsmisser i Norge siden 1980 |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------|-----------------------------------------|
 
 Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
