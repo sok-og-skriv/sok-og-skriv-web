@@ -693,6 +693,7 @@ Avhandling på nett:
 
 <span class="ref">Thingnes J.R. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_/[Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
 
+
 ::: details I EndNote
 
 Legges inn som "Thesis".
@@ -826,17 +827,11 @@ Referer til boken:
 <span class="ref">Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ [https://doi.org/10.23865/noasp.32](https://doi.org/10.23865/noasp.32)</span>
 :::
 
-### Personlig kommunikasjon (e-poster, samtaler, personlge intervjuer o.l.)
+### Personlig kommunikasjon (e-poster, samtaler, personlige intervjuer o.l.)
 
 Det som er felles for kilder i kategorien personlig kommunikasjon, er at leserne mer eller mindre
 er utestengt fra å kunne konsultere kildene. Personlig kommunikasjon kan omfatte e-poster,
-tekstmeldinger, uttalelser eller sitater fra chattetjenester, personlige intervjuer, brev, meldinger
-fra uarkiverte diskusjonsgrupper, forelesningsnotater, telefonsamtaler osv. Bruk personlig
-kommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige. For eksempel hvis en
-forelesning inneholder originalt innhold som ikke er publisert andre steder, kan denne refereres
-til som personlig kommunikasjon. Hvis materialet du vil henvise til er lukket bak en påloggingseller betalingsmur, henvis til disse som arkivert materiale. Ikke bruk personlig kommunikasjon
-for sitater eller informasjon fra dine egne intervjuobjekter og som utgjør en del av dine
-forskningsdata (jfr. «Intervju fra egne informanter eller intervjuobjekter», over). Ettersom dette er en type kilder som ikke er gjenfinnbare så skal denne type referanser ikke i referanselista – og det er kanskje heller ikke så lurt å benytte den type kilder nettopp av den grunn. Husk at referanselista kun skal inneholde dokumenterbar (etterprøvbar) informasjon.
+personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater osv. Bruk personlig kommunikasjon som kilde *kun* når gjenfinnbare kilder ikke er tilgjengelige. For eksempel hvis en forelesning inneholder originalt innhold som ikke er publisert andre steder, kan denne refereres til som personlig kommunikasjon. Hvis materialet du vil henvise til er lukket bak en påloggingseller betalingsmur, henvis til disse som arkivert materiale. Ikke bruk kategorien personlig kommunikasjon for intervjudata (jfr. «Intervju fra egne informanter eller intervjuobjekter», over). Ettersom denne type kilder ikke er gjenfinnbare, skal de ikke i referanselista – og det er kanskje heller ikke så lurt å benytte den type kilder nettopp av den grunn. 
 
 ::: teksten
 Dato må være med i teksten:

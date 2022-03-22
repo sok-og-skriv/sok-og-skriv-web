@@ -10,6 +10,8 @@ tags:
   - "selvplagiat"
   - "sjølvplagiat"
   - "sekundærreferanse"
+  - "selvistering" 
+  - "sjølvsitering"
 ---
 
  # Korleis skal ein referere? 
@@ -65,11 +67,17 @@ Vips, så har du unngått å plagiere!
 Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). 
 
 Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – ved å ha kopiert eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass.  
-Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. 
+Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna som plagiat.
 
-::: warning Sjøvplagiat 
+::: warning Sjølvsitering eller sjølvplagiat?  
 
-Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna som plagiat. 
+Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei fleste oppgåver blir neppe betre av å vise til ting du har gjort tidlegare. Viss du ikkje kjem utanom, gjeld desse råda: 
+
+Publiserte oppgåver vises til på vanleg måte, med forfattar, årstall, tittel og utgjevar. 
+
+Upubliserte studentarbeid kan vises til som "Eige/eget arbeid (årstall). Tittel på oppgaven [Upublisert semesteroppgave eller det som passer]. Navnet på utdanningsinstitusjonen". Desse eksempla følger APA-stilen.
+
+Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker gjenbruke tidlegare arbeid. 
 
 ::: 
 
