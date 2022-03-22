@@ -10,7 +10,6 @@ module.exports = {
     'lesemater',
     'lesing-og-skriving',
     'studiegrupper',
-    'akademiske-sjangrer',
     'tidsstyring'
   ],
   '/skriving/': [
