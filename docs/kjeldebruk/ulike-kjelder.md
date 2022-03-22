@@ -1,6 +1,14 @@
 ---
 title: "Ulike kjelder"
 date: "2020-04-28"
+tags: 
+  - "Vitskaplig artikkel"
+  - "forskningartikkel"
+  - "studentoppgaver"
+  - "nettsider"
+  - "nyheter"
+  - "bilder"
+  - "illustrasjoner"
 ---
 # Ulike kjelder
 Ifølgje [Store norske leksikon](https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
@@ -66,7 +74,7 @@ Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne inna
 Bacheloroppgåver og andre mindre studentoppgåver kan nyttast som inspirasjon. Du kan få nyttige tips om tema for oppgåva di, gode lesetips i kjeldelister, oppsett og struktur. Me tilrår ikkje at du bruker slike oppgåver som faglege kjelder.  
 
 ::: warning Hugs
-Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei oppgåve du tidlegare har levert, skal du vise til denne som eiga kjelde.
+Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei oppgåve du har levert tidlegare, skal du vise til denne som eiga kjelde.
 :::
 
 ### Nettstader

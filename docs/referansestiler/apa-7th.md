@@ -1,6 +1,10 @@
 ---
 title: "APA 7th"
 date: "2020-06-17"
+tags: 
+  - "Direkte sitat"
+  
+
 ---
 
 # APA 7th
@@ -708,7 +712,7 @@ Merknad: I feltet for «Thesis type» legges også institusjonsnavnet inn.
 <span class="ref"> Jerpseth, H. (2017). _Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
 :::
 
-### Statistikk og datasett
+### Statistikk, datasett og elektroniske kart
 
 Statistikk:
 
