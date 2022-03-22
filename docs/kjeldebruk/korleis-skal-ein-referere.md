@@ -6,6 +6,10 @@ tags:
   - "henvisning"
   - "plagiat"
   - "fusk"
+  - "forelesningsnotat"
+  - "selvplagiat"
+  - "sjølvplagiat"
+  - "sekundærreferanse"
 ---
 
  # Korleis skal ein referere? 
