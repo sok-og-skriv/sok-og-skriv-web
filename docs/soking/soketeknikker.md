@@ -4,7 +4,7 @@ date: "2016-07-04"
 ---
 
 # Søketeknikker
-Når du søker i akademiske databaser, er det en fordel å kjenne til noen grunnleggende søketeknikker. Under forklarer vi de mest brukte.
+Når du søker i akademiske databaser, er det en fordel å kjenne til noen grunnleggende søketeknikker. Her forklarer vi de mest brukte.
 
 ## Fritekstsøk
 
@@ -14,7 +14,7 @@ Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da 
 Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokumenter som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord. Fordi ulike betegnelser kan bli brukt om det samme fenomenet, er det viktig å bruke flere søkeord. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
 :::
 
-Alternativet til fritekstsøk er søk via kontrollert vokabular, eller såkalt emneordsøk.
+Alternativet til fritekstsøk er søk via kontrollert vokabular, såkalte emneordsøk.
 
 ### Frasesøk
 Dersom søkebegrepet ditt består av mer en ett ord, for eksempel tilpasset opplæring, må du markere det med anførselstegn når du søker: “tilpasset opplæring”. Du søker da på frasen tilpasset opplæring, og ikke tilpasset og opplæring som to separate ord.
