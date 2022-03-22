@@ -169,7 +169,7 @@ Disse frasene kan du bruke for å indikere likheter over to setninger:
 | Innbyggerne i Norge velger representanter til Stortinget. | På samme måte | Likeledes | På lignende vis | velger amerikanere representanter til senatet og kongressen. |
 | --- | --- | --- |
 
-## 13. Gi eksempler
+## 7. Gi eksempler
 
 Disse frasene kan du bruke når du skal gi eksempler på noe:
 
@@ -197,7 +197,7 @@ Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argu
 - Dette eksempelet viser hvordan X tok i bruk etablerte handelsnettverk for å ...
 - D som er lagt frem her, bygger opp under påstanden om at ...
 
-## 7. Skape flyt i teksten
+## 8. Skape flyt i teksten
 
 Disse frasene kan du bruke for å veilede leseren gjennom teksten din. Frasene fungerer som metakommentarer til undersøkelsene dine og kan gjøre argumentasjonen lettere å følge.
 
@@ -220,7 +220,7 @@ Disse frasene kan du bruke for å veilede leseren gjennom teksten din. Frasene f
 - I det følgende vil jeg utdype denne diskusjonen med referanse til ...
 
 
-##  8. Beskrive et tallmateriale
+##  9. Beskrive et tallmateriale
 
 Fraser for å beskrive trender i tallmateriale:
 
@@ -237,7 +237,7 @@ Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmater
 | Mer enn<br>Litt over <br>Rett over <br>Brorparten <br> <br>Rundt<br>Nesten<br>Så mange som <br>Så mange som omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne | oppga at<br>sa seg enige i<br>rapporterte om ... |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
 
-## 9. Drøfte funn og resultater
+## 10. Drøfte funn og resultater
 
 Disse frasene kan du bruke når du skal beskrive resultater som stemmer med tidligere studier:
 
@@ -261,7 +261,7 @@ Disse frasene kan du bruke når du skal beskrive resultater som bryter med tidli
 - Sammenlignet med tidligere forskning ...
 - Et annet syn på...
 
-## 10. Argumentere for påstander
+## 11. Argumentere for påstander
 
 Disse frasene kan du bruke når du vil synliggjøre argumentasjonen for leseren:
 
@@ -283,7 +283,7 @@ Disse frasene kan du bruke når du vil synliggjøre argumentasjonen for leseren:
 - Problemet med X sin fremstilling er ...
 - En mulig kritikk av X er ...
 
-## 11. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
+## 12. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
 
 Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker til at noe skjer.
 
@@ -304,7 +304,7 @@ Forsiktighet rundt forklaring av resultater:
 - En mulig forklaring på variasjonen i resultatene er ...
 - En mulig/rimelig tolkning kan være ...
 
-## 12. Konkludere argumentasjonsrekke
+## 13. Konkludere argumentasjonsrekke
 
 Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 
@@ -315,8 +315,6 @@ Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 - Til slutt / samlet sett kan det sies at ...
 - Et avsluttende poeng er at ...
 - Poenget med dette er å vise ...
-
-
 
 
 ## 14. Avslutning eller konklusjon
