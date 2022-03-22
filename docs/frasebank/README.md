@@ -11,13 +11,12 @@ Temaer:
 5. Beskrive metode og metodevalg
 6. Sammenligne 
 7. Gi eksempler
-7. Skape flyt i teksten
-8. Beskrive resultater i tallmateriale
-9. Drøfte funn og resultater
-10. Argumentere for påstander
-11. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
-12. Konkludere argumentasjonsrekke
-13. Gi eksempler
+8. Skape flyt i teksten
+9. Beskrive resultater i tallmateriale
+10. Drøfte funn og resultater
+11. Argumentere for påstander
+12. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
+13. Konkludere argumentasjonsrekke
 14. Avslutning eller konklusjon
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
