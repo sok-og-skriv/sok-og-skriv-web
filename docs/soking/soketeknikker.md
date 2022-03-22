@@ -20,7 +20,7 @@ Alternativet til fritekstsøk er søk via kontrollert vokabular, eller såkalt e
 Dersom søkebegrepet ditt består av mer en ett ord, for eksempel tilpasset opplæring, må du markere det med anførselstegn når du søker: “tilpasset opplæring”. Du søker da på frasen tilpasset opplæring, og ikke tilpasset og opplæring som to separate ord.
 
 ### Trunkering
-Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (*).  Barn* gir treff på barnet, barna, barneskole, barneskule, barnehage osv.
+Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (\*).  Barn\* gir treff på barnet, barna, barneskole, barneskule, barnehage osv.
 
 ## Kombiner søkeord
 
