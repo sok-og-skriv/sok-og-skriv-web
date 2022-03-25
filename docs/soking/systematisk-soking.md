@@ -18,12 +18,13 @@ Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inne
 Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
 
 Problemstillingen inneholder problematikken skolevegring og populasjonen tenåringer, som dermed utgjør de tematiske elementene.
+
 :::
 
-De tematiske over elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](https://sok-og-skriv-gitlab-io-git-568-oppdatere-systemat-08fd49-seidhr.vercel.app/soking/planlegg-soket-ditt.html#valg-av-databaser)
+De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](https://sok-og-skriv-gitlab-io-git-568-oppdatere-systemat-08fd49-seidhr.vercel.app/soking/planlegg-soket-ditt.html#valg-av-databaser)
 
 
-:::::: I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
+::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
 
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
@@ -172,7 +173,6 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via s
 | 25 | (BMI adj2 loss).mp.                    | 897      |
 | 26 | 21 or 22 or 23 or 24 or 25             | 129477   |
 | 27 | 7 and 12 and 20 and 26                 | 6859     |
-
 :::
 
 Forklaring:
@@ -184,10 +184,10 @@ mp = søk på tekstord i følgende felt: title, abstract, original title, name o
 **adjx** = søketermene kan opptre i begge rekkefølger, med inntil 1 ord mellom
 
 **exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
-::::::
+:::
 
 ## Søkeord
-Bruk de tematsike elementene til å lage en søketabell med oversikt over de temastike elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+Bruk de tematiske elementene til å lage en søketabell med oversikt over de temastike elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
 
 ::: eksempel Eksempel: Søketabell
 
@@ -203,11 +203,10 @@ Bruk de tematsike elementene til å lage en søketabell med oversikt over de tem
 |self exclusion from school     |secondary school   |
                                 |secondary education|
                                 |high school        |
-
 :::
 
 
-## Kombinasjon søkeord i databasens søkehistorikk
+## Kombinasjon av søkeord i databasens søkehistorikk
 
 De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
 
@@ -235,7 +234,7 @@ De enkelte databasene tilbyr også muligheter for å avgrense/snevre inn en tref
 * forskningsmetode
 * fagområde
 
-Husk at enhver avgrensing kan føre til at du går glipp av sentral informasjon. Til slutt må du vurdere den enkelte artikkels kvalitet og relevans i forhold til problemstillingen din.
+Husk at enhver avgrensing kan føre til at du går glipp av viktig informasjon. Til slutt må du vurdere den enkelte artikkels kvalitet og relevans i forhold til problemstillingen din.
 
 ## Lagring av søk
 
