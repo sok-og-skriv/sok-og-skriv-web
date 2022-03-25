@@ -207,7 +207,7 @@ Bruk de tematsike elementene til å lage en søketabell med oversikt over de tem
 :::
 
 
-## Kombinasjon søkeordene i databasens søkehistorikk
+## Kombinasjon søkeord i databasens søkehistorikk
 
 De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
 
