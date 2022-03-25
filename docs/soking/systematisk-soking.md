@@ -11,8 +11,19 @@ En problemstilling består av to eller flere tematiske elementer. Før du kan fo
 * Er det snakk en populasjon/gruppe med mennesker?
 * Er det snakk om setting/kontekst?
 
+Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inneholder samtlige tematiske elementer over. 
 
-:::::: details PICO- og SPIDER-skjemaet er mye brukt i helsefagene, og kan være hjelpemidler i denne fasen
+:::eksempel Eksempel
+
+Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
+
+Problemstillingen inneholder problematikken skolevegring og populasjonen tenåringer, som dermed utgjør de tematiske elementene.
+:::
+
+De tematiske over elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](https://sok-og-skriv-gitlab-io-git-568-oppdatere-systemat-08fd49-seidhr.vercel.app/soking/planlegg-soket-ditt.html#valg-av-databaser)
+
+
+:::::: I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
 
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
@@ -175,32 +186,62 @@ mp = søk på tekstord i følgende felt: title, abstract, original title, name o
 **exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
 ::::::
 
-## Søkehistorikk
+## Søkeord
+Bruk de tematsike elementene til å lage en søketabell med oversikt over de temastike elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
 
-De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken.
+::: eksempel Eksempel: Søketabell
 
-| SØK # | DATO       | SØKEORD/KOMBINASJON                                           | ANTALL TREFF |
-| ----- | ---------- | ------------------------------------------------------------- | ------------ |
-| 1     | 12/10/2021 | Globali\*ation OR “Global approach”                           | 63.934       |
-| 2     | 12/10/2021 | education\* OR school\*                                       | 4,148,691    |
-| 3     | 12/10/2021 | Inequalit\* OR Inequit\* OR Marginali\* OR Equal opportunit\* | 321.017      |
-| 4     | 12/10/2021 | ((#1) AND #2) AND #3)                                         | 852          |
+| Skolevegring                  | Tenåringer        |
+| ----------------------------- | ----------------- |
+|skolevegring                   |tenåringer         |
+|skolevegringsatferd            |ungdom             |
+|skolenekt                      |ungdomstrinnet     |
+|skolefobi                      |Videregående       |
+|school refusal                 |Teenagers          |
+|school avoidance               |Adolescents        |
+|school phobia                  |youth              |
+|self exclusion from school     |secondary school   |
+                                |secondary education|
+                                |high school        |
 
-## Gjennomgang av søkeresultatet
+:::
+
+
+## Kombinasjon søkeordene i databasens søkehistorikk
+
+De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
+
+::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Web of Science
+
+
+| SØK # | DATO       | SØKEORD/KOMBINASJON                                                                                        | ANTALL TREFF |
+| ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
+| 1     | 24/03/2022 | "school refus*" OR school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)               | 955          |
+| 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secobdary school*" OR "high school*" (Topic)| 715,182      |
+| 4     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
+:::
+
+
+## Gjennomgang av søkeresultat
 
 En gjennomgang av trefflisten kan av og til gi ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. I eksempelet over der vi så på sosiale ulikheter innenfor utdanningssystemet, viste gjennomgangen av trefflisten at mange studier er gjort på kun deler av utdanningsløpet. Muligens ville det være lurt å snevre inn problemstillingen slik at den kun omhandler enten grunnskole eller høyere utdanning. Eventuelt kan gjennomgangen av trefflisten føre til at du ønsker å dreie problemstillingen din. I eksemplet vårt kunne det for eksempel være å se på hvorfor globalisering påvirker sosiale ulikheter innenfor utdanningssystemet.
 
 De enkelte databasene tilbyr også muligheter for å avgrense/snevre inn en treffliste. Du kan for eksempel avgrense på:
 
 * årstall
-* publikasjonstype (forskningsartikler eller forskningstidsskrifter)
+* publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
 * språk
+* geografisk område
 * forskningsmetode
-* tilgjengelighet (for eksempel fulltekst)
+* fagområde
 
 Husk at enhver avgrensing kan føre til at du går glipp av sentral informasjon. Til slutt må du vurdere den enkelte artikkels kvalitet og relevans i forhold til problemstillingen din.
 
-## Dokumentér søket
+## Lagring av søk
+
+De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikken via e-post. Søkehistorikken viser hvilken database du har søkt i, hvilke søkeord du har brukt, hvordan søkeordene er kombinert og hvor mange treff du har fått. Dette kan være svært nyttig informasjon å ta vare på hvis du for eksempel ønsker å bygge videre på søket, eller hvis du ønsker å foreta det samme søket i en annen database.
+
+## Dokumentasjon av søk
 
 I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Du bør si noe om:
 
