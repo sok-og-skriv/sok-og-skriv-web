@@ -22,6 +22,15 @@ I den tidlige fasen av oppgaveskrivingen vil du gjerne orientere deg bredt for �
 
 Når du har lest deg opp på emnet, og problemstillingen begynner å ta form, kreves det informasjon som går mer i dybden. Sensor og faglærer forventer at du bruker  [Vitenskapelige kilder](https://www.cristin.no/nvi-rapportering/rapporteringsinstruksen/#toc1) som grunnlag for oppgaven. I tillegg til fagbøker, er artikler i tidsskrifter med fagfellevurdering den viktigste inngangen til vitenskapelige kilder. At et tidsskrift er fagfellevurdert (engelsk: _peer reviewed_) vil si at artiklene blir vurdert og godkjent av andre forskere før publisering.
 
+**Ulike måter å finne faglitteratur**
++ Få tips fra veileder eller foreleser
++ Let i referanselister til relevante artikler eller bokkapitler
++ Fra lister over hvem som har sitert relevante artikler/kapitler
++ Søke i tidsskrifter som kan være relevant
++ Gjøre søk på forfattere 
+
+
+
 ## Valg av databaser
 
 Gjennom fagbibliotekenes nettsider får du tilgang til databaser som dekker et bredt spekter av fagområder. En database er et elektronisk arkiv som inneholder ulike typer kilder. Noen databaser er tverrfaglige, mens andre dekker avgrensede fagområder. De fagspesifikke databasene gir bedre dekning av litteraturen på fagområdet enn de mer generelle databasene.
