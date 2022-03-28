@@ -13,19 +13,17 @@ En problemstilling består av to eller flere tematiske elementer. Før du kan fo
 
 Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inneholder samtlige tematiske elementer over. 
 
-:::eksempel Eksempel
+::: eksempel Eksempel
 
 Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
 
 Problemstillingen inneholder problematikken skolevegring og populasjonen tenåringer, som dermed utgjør de tematiske elementene.
-
 :::
 
 De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](https://sok-og-skriv-gitlab-io-git-568-oppdatere-systemat-08fd49-seidhr.vercel.app/soking/planlegg-soket-ditt.html#valg-av-databaser)
 
 
-::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
-
+:::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
 PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
 
 **P**: (problem/patient): pasient/pasientgruppe/diagnose <br />
@@ -156,7 +154,7 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via s
 | 8  | exp Exercise/                          | 221169   |
 | 9  | Exercise.mp                            | 386937   |
 | 10 | Gymnastic\*.mp.                        | 3790     |
-| 11 | "Physical activit\*".mp.                | 127039   |
+| 11 | "Physical activit\*".mp.               | 127039   |
 | 12 | 8 or 9 or 10 or 11                     | 508008   |
 | 13 | exp Diet/                              | 305094   |
 | 14 | Diet.mp.                               | 506370   |
@@ -164,7 +162,7 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via s
 | 16 | "Nutrition behavi\*".mp.               | 204      |
 | 17 | "Eating habit\*".mp.                   | 6428     |
 | 18 | "Food habit\*".mp.                     | 2449     |
-| 19 | "Eating behavi\".                     | 5835     |
+| 19 | "Eating behavi\".                      | 5835     |
 | 20 | 13 or 14 or 15 or 16 or 17 or 18 or 19 | 567773   |
 | 21 | Weight Loss/                           | 39801    |
 | 22 | "Weight loss".mp.                      | 108601   |
@@ -184,10 +182,10 @@ mp = søk på tekstord i følgende felt: title, abstract, original title, name o
 **adjx** = søketermene kan opptre i begge rekkefølger, med inntil 1 ord mellom
 
 **exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
-:::
+::::::
 
 ## Søkeord
-Bruk de tematiske elementene til å lage en søketabell med oversikt over de temastike elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
 
 ::: eksempel Eksempel: Søketabell
 
