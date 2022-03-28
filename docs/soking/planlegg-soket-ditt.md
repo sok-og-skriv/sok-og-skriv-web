@@ -22,13 +22,13 @@ I den tidlige fasen av oppgaveskrivingen vil du gjerne orientere deg bredt for �
 
 Når du har lest deg opp på emnet, og problemstillingen begynner å ta form, kreves det informasjon som går mer i dybden. Sensor og faglærer forventer at du bruker  [Vitenskapelige kilder](https://www.cristin.no/nvi-rapportering/rapporteringsinstruksen/#toc1) som grunnlag for oppgaven. I tillegg til fagbøker, er artikler i tidsskrifter med fagfellevurdering den viktigste inngangen til vitenskapelige kilder. At et tidsskrift er fagfellevurdert (engelsk: _peer reviewed_) vil si at artiklene blir vurdert og godkjent av andre forskere før publisering.
 
-**Ulike måter å finne faglitteratur**
-+ Få tips fra veileder eller foreleser
-+ Let i referanselister til relevante artikler eller bokkapitler
-+ Fra lister over hvem som har sitert relevante artikler/kapitler
-+ Søke i tidsskrifter som kan være relevant
-+ Gjøre søk på forfattere 
+I modulen "Søking" tar vi først og fremst sikte på å gi deg en innføring i hvordan du ved planlegging og særskilte teknikker kan søke i akademiske søketjenester og databaser, men finnes flere måter å finne faglitteratur:
 
++ Få tips fra veileder eller foreleser
++ Lete i referanselister til relevante artikler eller bokkapitler
++ Fra lister over hvem som har sitert relevante artikler/kapitler: Søkeverktøy som Web of Science og Google Scholar gir informasjon om siteringer
++ Søke i tidsskrifter som kan være relevant
++ Gjøre søk på forfattere du vet har publisert innenfor aktuell tematikk
 
 
 ## Valg av databaser
