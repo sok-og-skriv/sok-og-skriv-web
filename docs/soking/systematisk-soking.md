@@ -175,7 +175,7 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via s
 
 Forklaring:
 
-mp = søk på tekstord i følgende felt: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
+mp = søk på tekstord i følgende felt i referansen: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
 
 **/** = søketermen er hentet fra emneordlisten MeSH
 
@@ -199,8 +199,8 @@ Bruk de tematiske elementene til å lage en søketabell med oversikt over de tem
 |school avoidance               |Adolescents        |
 |school phobia                  |youth              |
 |self exclusion from school     |secondary school   |
-                                |secondary education|
-                                |high school        |
+|                               |secondary education|
+|                               |high school        |
 :::
 
 
@@ -214,10 +214,13 @@ De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehi
 | SØK # | DATO       | SØKEORD/KOMBINASJON                                                                                        | ANTALL TREFF |
 | ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
 | 1     | 24/03/2022 | "school refus*" OR school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)               | 955          |
-| 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secobdary school*" OR "high school*" (Topic)| 715,182      |
+| 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secondary school*" OR "high school*" (Topic)| 715,182      |
 | 4     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
 :::
 
+Forklaring: 
+
+Topic = søk på tekstord i følgende felt i referansen: title, abstract og author keyword og keywords plus
 
 ## Gjennomgang av søkeresultat
 
