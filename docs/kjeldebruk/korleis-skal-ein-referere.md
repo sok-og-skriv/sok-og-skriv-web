@@ -66,15 +66,17 @@ Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du 
 
 ::: warning Sjølvsitering eller sjølvplagiat?  
 
-Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei færreste oppgåver blir betre av å trekkje inn ting du har gjort tidlegare. Viss du ikkje kjem utanom, gjeld desse råda: 
+Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
 
-Publiserte oppgåver vises til på vanleg måte, med forfattar, årstall, tittel og utgjevar. 
+Publiserte oppgåver visast til på vanleg måte, med forfattar, årstall, tittel og utgjevar. 
 
-Upubliserte studentarbeid kan vises til som "Eige/eget arbeid (årstall). Tittel på oppgaven [Upublisert semesteroppgave eller det som passer]. Navnet på utdanningsinstitusjonen". 
+Upubliserte studentarbeid kan visast til som "Eige/eget arbeid (årstall). Tittel på oppgåva 
+[Upublisert semesteroppgåve eller det som passer]. Namnet på utdanningsinstitusjonen". 
 
 Desse eksempla følger APA-stilen.
 
-Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker gjenbruke tidlegare arbeid. 
+Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker å gjenbruke tidlegare arbeid. 
+
 
 ::: 
 
