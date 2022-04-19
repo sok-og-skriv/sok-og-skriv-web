@@ -48,13 +48,13 @@ Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjo
 
 ## Korleis unngå plagiat / brot på opphavsretten? 
 
-::: warning Korleis kan du unngå å plagiere?
+::: warning
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Gjengi sitat ordrett med hermeteikn, **eller** parafraser (gjengi innholdet med eigne ord). 
+Gjengi sitat ordrett med hermeteikn, **eller** parafraser (skriv innhaldet med eigne ord). 
 
-Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
+Legg vekk kjelda medan du skriv, så blir du ikkje opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
 
 Vips, så har du unngått å plagiere!
   
@@ -68,10 +68,10 @@ Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du 
 
 Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
 
-Publiserte oppgåver visast til på vanleg måte, med forfattar, årstall, tittel og utgjevar. 
+Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar. 
 
-Upubliserte studentarbeid kan visast til som "Eige/eget arbeid (årstall). Tittel på oppgåva 
-[Upublisert semesteroppgåve eller det som passer]. Namnet på utdanningsinstitusjonen". 
+Upubliserte studentarbeid kan visast til som "Eige/eget arbeid (årstal). Tittel på oppgåva 
+[Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen". 
 
 Desse eksempla følger APA-stilen.
 
@@ -82,16 +82,16 @@ Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat,
 
 
 ### Opphavsrett 
-Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
+Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](https://lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
 
 I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
-Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). 
+Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverkslova](https://www.lovdata.no/all/hl-19610512-002.html). 
 
 For meir om opphavsrett, sjå [DelRett](https://www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
 
 
 ## Sitat
-Av og til kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Dette må gjerast i samsvar med god skikk, ved å sitere og vise korrekt til kjeldene. Ikkje gje inntrykk av at noko er ditt når det ikkje er det.
+Av og til kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Dette må gjerast i samsvar med god skikk, ved å sitere og vise korrekt til kjeldene. Gi aldri inntrykk av at noko er ditt når det ikkje er det.
 
 ### Direkte sitat
 
@@ -116,7 +116,7 @@ På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gje
 
 :::
 
-Dersom du ønskjer å **tilføye** eller **erstatte** noko i eit sitat, markerast dette ved å nytte klammeparentesar. 
+Ønsker du å **tilføye** eller **erstatte** noko i eit sitat, kan du markere det ved å nytte klammeparentesar. 
 
 ::: eksempel Eksempel
 
@@ -158,7 +158,7 @@ Kjelde: Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacu
 ## Hjelpemiddel
 
  
-For større oppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
+For større oppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som Zotero, EndNote, ReferenceManager eller Mendeley. 
 Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) er gratis tilgjengelege for alle, medan [Mendeley](https://www.mendeley.com/) og [EndNote](https://endnote.com/product-details/basic/) finst i enklare gratisversjonar. 
 
 Hugs at du alltid må dobbelsjekke at referansen blir rett! 
