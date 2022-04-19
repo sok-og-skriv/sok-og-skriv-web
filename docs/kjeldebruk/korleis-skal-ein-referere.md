@@ -46,7 +46,7 @@ Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til 
 Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I så fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
 
-## Korleis unngå plagiat / brot på opphavsretten? 
+## Unngå plagiat / brot på opphavsretten
 
 ::: warning Korleis la vere å plagiere?
 
