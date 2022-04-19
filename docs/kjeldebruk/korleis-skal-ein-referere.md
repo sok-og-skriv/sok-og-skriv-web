@@ -85,7 +85,7 @@ Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat,
 Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](https://lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
 
 I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
-Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverkslova](https://www.lovdata.no/all/hl-19610512-002.html). 
+Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverkslova](https://lovdata.no/dokument/NL/lov/2018-06-15-40). 
 
 For meir om opphavsrett, sjå [DelRett](https://www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
 
