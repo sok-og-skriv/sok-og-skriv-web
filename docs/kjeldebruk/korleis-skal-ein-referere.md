@@ -48,7 +48,7 @@ Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjo
 
 ## Korleis unngå plagiat / brot på opphavsretten? 
 
-::: warning
+::: 
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
