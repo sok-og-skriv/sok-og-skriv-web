@@ -688,15 +688,15 @@ Kyrkjebø (2001) viser forskjellen mellom ... (s. 39).
 
 :::: ref
 Trykt oppgave:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling]. Institusjon.</span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_ [Masteroppgave/Doktorgradsavhandling]. Institusjon.</span>
 
 Avhandling på nett:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/. Navn på arkiv. URL </span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_ [Masteroppgave/Doktorgradsavhandling, Institusjon]. Navn på arkiv. URL </span>
 
-<span class="ref">Thingnes J.R. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_/[Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
+<span class="ref">Thingnes J.R. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
 
 Eget arbeid:  
-<span class="ref">Eget arbeid (Årstall). _Tittel på oppgaven_/[Upublisert semesteroppgave - velg det som passer]. Navn på utdanningsinstitusjon.</span>
+<span class="ref">Eget arbeid (Årstall). _Tittel på oppgaven_ [Upublisert semesteroppgave - velg det som passer]. Navn på utdanningsinstitusjon.</span>
 
 
 ::: details I EndNote
