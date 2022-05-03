@@ -119,7 +119,7 @@ For andre sine foto og kunstverk, er det meir komplisert. Hovudregelen er at du 
 Mange universitet og høgskular tilbyr databasar med bilete som er lisensiert for fri bruk. Sjekk med din institusjon. Du kan òg finne bilete til fri bruk via [Creative Commons](http://search.creativecommons.org/) Search, eller søke i Google og definere lisens under verktøy-fana.  
 
 ::: tip Tips
-BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon har avtale med [BONO](bono.no/undervisningsinstitusjoner) eller sjå på moglegheita for å søke om enkeltlisens. Les meir om kva ein eventuell avtale gir rett til her: [Delrett.no](www.delrett.no/nb/artikler/bilder-og-kunst)
+BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon har avtale med [BONO](bono.no/undervisningsinstitusjoner) eller sjå på moglegheita for å søke om enkeltlisens. Les meir om kva ein eventuell avtale gir rett til her: [Delrett.no](www.delrett.no)
 :::
 
 ### Tabellar og grafar 
