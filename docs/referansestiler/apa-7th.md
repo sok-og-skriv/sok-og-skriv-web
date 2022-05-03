@@ -292,7 +292,7 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
 
 <span class="ref">Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_, s. 12.</span>
 
-<span class="ref">Knapstad, M. L. (2018, 9. mai). En jafs av Bergen. Aftenposten, A-magasinet. https://www.aftenposten.no/a-magasinet/i/ngJron/en-jafs-av-bergen?</span>
+<span class="ref">Knapstad, M. L. (2018, 9. mai). En jafs av Bergen. _Aftenposten, A-magasinet_. https://www.aftenposten.no/a-magasinet/i/ngJron/en-jafs-av-bergen?</span>
 
 ::: details I EndNote
 
