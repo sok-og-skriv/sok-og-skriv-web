@@ -148,15 +148,6 @@ Disse frasene kan du bruke når du skal introdusere likheter:
 - Tilnærmingen i denne undersøkelsen ligner andre studier av X
 - Studier har sammenlignet X hos nordmenn og amerikanere og funnet sentrale likheter
 
-Disse frasene kan du bruke for å sammenligne med bruk av sammenligningsord:
-
-- I rettssaken gjorde forsvarsadvokaten flere/færre formelle feil enn statsadvokaten
-- Studie X ha flere/færre variabler enn studie Y
-- Barn lærer fortere/saktere enn eldre mennesker
-- Kvinner har større/mindre sjanse til å lykkes som profesjonelle idrettsutøvere.
-- Barn under 10 år presterte bedre/dårligere enn barn over 10 år på testen.
-- Den delen av hjernen som styrer risikovillighet er mer/mindre utviklet hos menn over 25 år.
-- Muntlige kulturer har en tendens til å være mer opptatt av nåtiden, mens skriftlige kulturer har en større bevissthet om fortiden.
 
 Disse frasene kan du bruke for å indikere forskjeller over to setninger
 
