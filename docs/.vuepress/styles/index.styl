@@ -319,19 +319,19 @@ a, p
   &:last-child
     margin-block-end: 1rem
   /* grid-template-columns: 1fr
-  grid-gap: 1rem */
+  grid-gap: 0.3rem */
   @media screen and (min-width: $MQNarrow)
     /* grid-template-columns: 1fr 1fr 1fr 1fr */
   @media screen and (max-width: $MQMobile)
     /* grid-template-columns: 1fr */
   .pico-box
     flex-direction: column;
-    border: 2px solid $sosGreen
-    border-radius: 4px
+    border: 1px solid $sosGreen
+    border-radius: 2px
     text-align: center
-    padding: 1rem
+    padding: 0.3rem
     *
-      font-size: calc(10px + (18 - 10) * ((100vw - 300px) / (1600 - 300))) !important
+      font-size: calc(9px + (18 - 10) * ((100vw - 300px) / (1600 - 300))) !important
       line-height: calc(1.2em + (1.4 - 1.2) * ((100vw - 300px)/(1600 - 300))) !important
     &:not(:last-child)
       margin-inline-end: 10px
