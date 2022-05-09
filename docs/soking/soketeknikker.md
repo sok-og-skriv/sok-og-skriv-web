@@ -70,9 +70,9 @@ Eksempel: Søk på **Diabetes NOT Insulinpumpe** gir treff på diabetes mens det
 <ClientOnly>
   <Venn 
     v-bind:sets="[
+        {sets: ['Diabetes','Insulinpumpe'], size: 3},
         {sets: ['Diabetes'], size: 12}, 
         {sets: ['Insulinpumpe'], size: 12},
-        {sets: ['Diabetes','Insulinpumpe'], size: 3}
     ]" 
     text="Treff for NOT-søk"
     type="not" />
