@@ -23,7 +23,7 @@ When evaluating a source, taking a closer look at the author is a good starting 
 
 ## Publisher(s)
 
-The publisher may have influenced the material you are working with. This might happen because the publisher wants to promote their own interests, or try and appeal to a certain audience. What is the scope of the publisher/journal? Try and get an idea of what they are interested in publishing, and what topics they usually focus on. Check the publisher or journal in [“The Norwegian Register for Scientific Journals, Series and Publishers”](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en). If the publisher or journal is listed as either level 1 or level 2, you can consider them a serious publisher. 
+The publisher may have influenced the material you are working with. This might happen because the publisher wants to promote their own interests, or try and appeal to a certain audience. What is the scope of the publisher/journal? Try and get an idea of what they are interested in publishing, and what topics they usually focus on. Check the publisher or journal in [“The Norwegian Register for Scientific Journals, Series and Publishers”](https://kanalregister.hkdir.no/publiseringskanaler/Forside.action;jsessionid=0uqRgIF6UZHkEcHvvMDEu7qO.undefined?request_locale=en). If the publisher or journal is listed as either level 1 or level 2, you can consider them a serious publisher. 
 
 In many cases, it is quite simple to find the publisher. At other times, it can be difficult to find out who has published the material. If the publisher is unknown to you, it is even more important to find out more about who the publisher is. Here are some suggestions to help you find that information.
 

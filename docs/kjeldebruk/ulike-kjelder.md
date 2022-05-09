@@ -1,6 +1,14 @@
 ---
 title: "Ulike kjelder"
 date: "2020-04-28"
+tags: 
+  - "Vitskaplig artikkel"
+  - "forskningartikkel"
+  - "studentoppgaver"
+  - "nettsider"
+  - "nyheter"
+  - "bilder"
+  - "illustrasjoner"
 ---
 # Ulike kjelder
 Ifølgje [Store norske leksikon](https://snl.no/kilde_-_opphav) er ei kjelde eit opphav til kunnskap, for eksempel ein person med kjennskap til temaet. Kjelder kan du med andre ord finne på dei aller fleste stader: på nettet, i bøker, i artiklar osb. 
@@ -18,7 +26,7 @@ Ein vitskapleg artikkel vil vere ei god og trygg kjelde til kunnskap. Om du finn
 
 Ein vitskapleg artikkel er ein tekst der forfattaren greier ut om eit emne eller ei sak. Ein vitskapleg artikkel må presentere ny innsikt og vere i ei form som gjer resultata etterprøvbare eller nyttige i ny forsking. Den vitskaplege artikkelen blir brukt til å formidle forskningsresultat innanfor og på tvers av vitskaplege miljø.
 
-### Oversiktsartikkel / review-artikkel
+### Oversiktsartikkel/review-artikkel
 
 Ein oversiktsartikkel er ein forskingsartikkel som gir overblikk over eit fagleg spørsmål på bakgrunn av eit større antal studiar. Artikkelen presenterer ei samanfattande analyse av kunnskapsstatus på feltet som skal gjere det lettare for forskarar å orientere seg om dei store linene i forskinga.
 
@@ -66,7 +74,7 @@ Ei avhandling er eit lengre vitskapeleg arbeid som er avgrensa til eit emne inna
 Bacheloroppgåver og andre mindre studentoppgåver kan nyttast som inspirasjon. Du kan få nyttige tips om tema for oppgåva di, gode lesetips i kjeldelister, oppsett og struktur. Me tilrår ikkje at du bruker slike oppgåver som faglege kjelder.  
 
 ::: warning Hugs
-Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei oppgåve du tidlegare har levert, skal du vise til denne som eiga kjelde.
+Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei oppgåve du har levert tidlegare, skal du vise til denne som eiga kjelde.
 :::
 
 ### Nettstader
@@ -111,7 +119,7 @@ For andre sine foto og kunstverk, er det meir komplisert. Hovudregelen er at du 
 Mange universitet og høgskular tilbyr databasar med bilete som er lisensiert for fri bruk. Sjekk med din institusjon. Du kan òg finne bilete til fri bruk via [Creative Commons](http://search.creativecommons.org/) Search, eller søke i Google og definere lisens under verktøy-fana.  
 
 ::: tip Tips
-BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon har avtale med [BONO](bono.no/undervisningsinstitusjoner) eller sjå på moglegheita for å søke om enkeltlisens. Les meir om kva ein eventuell avtale gir rett til her: [Delrett.no](www.delrett.no/nb/artikler/bilder-og-kunst)
+BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon har avtale med [BONO](bono.no/undervisningsinstitusjoner) eller sjå på moglegheita for å søke om enkeltlisens. Les meir om kva ein eventuell avtale gir rett til her: [Delrett.no](www.delrett.no/)
 :::
 
 ### Tabellar og grafar 
