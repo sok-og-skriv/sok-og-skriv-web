@@ -8,19 +8,22 @@ Når du søker i akademiske databaser, er det en fordel å kjenne til noen grunn
 
 ## Fritekstsøk
 
-Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da matches søkeordene dine til referansens innhold, ofte på ord i tittel, sammendrag og emneord. Her er det viktig å finne rett nivå: ikke for spesifikt og ikke for generelt.
+Fritekstsøk, eller søk på tekstord, er den vanligste måten å søke på. Da matches søkeordene dine til referansens innhold, ofte på ord i tittel, sammendrag og emneord. Her er det viktig å finne rett nivå; ikke for spesifikt og ikke for generelt.
 
 ::: eksempel Eksempel 
 Om du gjør et fritekstsøk på ordet «mellomtrinnet» vil du få treff på dokumenter som har ordet «mellomtrinnet» i tittelen, sammendraget eller som emneord. Fordi ulike betegnelser kan bli brukt om det samme fenomenet, er det viktig å bruke flere søkeord. Ord som skole, barneskole, grunnskole osv. er alle synonymer som kan være brukt i en tekst om mellomtrinnet.
 :::
 
-Alternativet til fritekstsøk er søk via kontrollert vokabular, såkalte emneordsøk.
+Alternativet til fritekstsøk er søk via kontrollert vokabular, såkalte [emneordsøk] (/Emneordsøk/)
 
 ### Frasesøk
 Dersom søkebegrepet ditt består av mer en ett ord, for eksempel tilpasset opplæring, må du markere det med anførselstegn når du søker: “tilpasset opplæring”. Du søker da på frasen tilpasset opplæring, og ikke tilpasset og opplæring som to separate ord.
 
 ### Trunkering
 Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (\*).  Barn\* gir treff på barnet, barna, barneskole, barneskule, barnehage osv.
+
+## Emneordssøk
+Fagspesifikke databaser inneholder ofte emneordlister (også kalt tesaurus), med liste over standardiserte fagtermer som brukes for å beskrive innholdet i et dokument. Det er mulig å søke via disse emneordlistene. Når du søker på emneord via emneordlisten, får du treff på alle dokumenter som er merket med dette emneordet. For eksempel dokumenter i databasen som handler om skole, får emneordet skole selv om forfatteren har brukt andre termer (mellomtrinnet, skule, grunnskole osv.) Det kan lønne seg å finne de emneordene som dekker ditt temaområde. Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten, og den brukes i flere helsefaglige databaser.
 
 ## Kombiner søkeord
 
@@ -64,7 +67,7 @@ Eksempel: Søk på **Diabetes OR Sukkersyke** gir treff på diabetes, sukkersyke
 
 ### Kombinasjon med NOT
 
-Dersom du velger å kombinere to søkeord med NOT, får du treff på det ene ordet mens du utelater det som også handler om det _andre_ søkeordet. Kombinasjoner med NOT kan utelate svært mange treff, så de bør brukes med varsomhet.
+Dersom du velger å kombinere to søkeord med NOT, får du treff på det ene ordet mens du utelater det som også handler om det andre søkeordet. Kombinasjoner med NOT kan utelate svært mange treff, så de bør brukes med varsomhet.
 
 Eksempel: Søk på **Diabetes NOT Insulinpumpe** gir treff på diabetes mens det utelater alt som i tillegg handler om svangerskaps-diabetes.
 
@@ -102,7 +105,7 @@ Globalization
 
 **OR** 
 
-"Global approach"
+"Global approach*"
 :::
 
 ::: kombinator
@@ -146,17 +149,9 @@ School*
 [Vil du prøve selv? Trykk her og fyll inn med dine egne søkeord.](/docs/soketabell.docx)
 
 
-### Lagring av søk
+## Siteringssøk
 
-De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikken via e-post. Søkehistorikken viser hvilken database du har søkt i, hvilke søkeord du har brukt, hvordan søkeordene er kombinert og hvor mange treff du har fått. Dette kan være svært nyttig informasjon å ta vare på hvis du for eksempel ønsker å bygge videre på søket, eller hvis du ønsker å foreta det samme søket i en annen database.
+Noen databaser og søkeverktøy, f. eks. Web of Science og Google Scholar, gir informasjon om siteringer. Det vil si hvor mange og hvem som har brukt ett gitt dokument i sin referanseliste. Hvor ofte et dokument er sitert, kan si kan si noe om hvor stor gjennomslagskraft dokumentet har hatt på fagområdet. Klikker du på lenken «Cited by» i Google Scholar, får du opp en liste med siteringer. En slik liste kan brukes til å løfte fram sentrale dokumenter og nøkkelforfattere.
 
-### Siteringssøk
-
-Noen databaser og verktøy som Web of Science (lenke) og Google Scholar (lenke) gir informasjon om siteringer. Det vil si hvor mange, og hvem har brukt ett gitt dokument i sin referanseliste. Hvor ofte et dokument er sitert, kan si kan si noe om hvor stor gjennomslagskraft dokumentet har hatt på fagområdet. Klikker du på lenken «Cited by» i Google Scholar, får du opp en liste med siteringer. En slik liste kan brukes til å løfte fram sentrale dokumenter og nøkkelforfattere.
-
-### Let i referanselister
+## Let i referanselister
 Det er ikke bare ved å foreta søk i databaser du finner god og kvalitetssikret informasjon. Hvis du har funnet en vitenskapelig artikkel som er midt i blinken for din oppgave, kan artikkelens referanseliste vise til annen, aktuell litteratur som du kan bruke.
-
-### Emneordssøk
-Fagspesifikke databaser inneholder ofte emneordlister (også kalt tesaurus), med liste over standardiserte fagtermer som brukes for å beskrive innholdet i et dokument. Det er mulig å søke via disse emneordlistene. Når du søker på emneord via emneordlisten, får du treff på alle dokumenter som er merket med dette emneordet. For eksempel dokumenter i databasen som handler om skole, får emneordet skole selv om forfatteren har brukt andre termer (mellomtrinnet, skule, grunnskole osv.) Det kan lønne seg å finne de emneordene som dekker ditt tema.
-Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten, og den brukes i flere helsefaglige databaser.
