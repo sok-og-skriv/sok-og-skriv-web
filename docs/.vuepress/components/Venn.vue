@@ -82,7 +82,13 @@ export default {
 
         d3.selectAll(id + " .venn-area.venn-circle:last-child text")
           .style("font-weight", "bold")
-          .style("fill", "rgb(255, 127, 14)");
+          .style("fill", "rgb(255, 127, 14)")
+          .attr("x", "385");
+
+        d3.selectAll(id + " .venn-area.venn-circle:last-child text tspan").attr(
+          "x",
+          "385"
+        );
       }
     },
   },
