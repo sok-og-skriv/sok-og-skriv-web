@@ -103,7 +103,7 @@ Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særle
 Kjelde: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Gyldendal.
 :::
 
-Sitat som har meir enn 40 ord skal (i APA) skrivast i eit eige avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn. Det er også vanleg å introdusere sitat med innleiing og/eller ein kommentar. 
+Sitat som har meir enn 40 ord skal (i APA) skrivast i eit eige avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn, og punktum kjem før parentes. Det er vanleg å introdusere sitat med innleiing og/eller ein kommentar. 
 
 ### Ved endringar i sitatet 
 
