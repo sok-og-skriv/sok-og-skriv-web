@@ -370,7 +370,7 @@ Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (
 :::
 
 :::: ref
-<span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel_. Nettstedets navn.  URL.</span>
+<span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel_. Nettstedets navn.  URL </span>
 
 <span class="ref">Statsministerens kontor. (2018, 20. mars). _Offisielt fra
 statsråd 20. mars 2018_. Regjeringen.
