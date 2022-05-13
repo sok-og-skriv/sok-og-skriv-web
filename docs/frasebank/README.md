@@ -146,7 +146,7 @@ Disse frasene kan du bruke for å indikere *ulikhet* over to setninger
 
 Disse frasene kan du bruke for å indikere *likheter* over to setninger:
 
-| Innbyggerne i Norge velger representanter til Stortinget. | På samme måte | Likeledes | På lignende vis | velger amerikanere representanter til senatet og kongressen. |
+| Innbyggerne i Norge velger representanter til Stortinget. | På samme måte <br> Likeledes <br> På lignende vis | velger amerikanere representanter til senatet og kongressen. |
 | --- | --- | --- |
 
 ## 7. Gi eksempler
