@@ -49,7 +49,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   
   <div class="card">
     <div class="image">
-      <a href="/frasebank/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kjeldebruk"></a>
+      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt="Kjeldebruk"></a>
     </div>
     <div class="content">
       <h2><a href="/frasebank/">Frasebank</a></h2>

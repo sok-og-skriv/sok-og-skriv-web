@@ -141,8 +141,9 @@ Disse frasene kan du bruke når du skal introdusere *likheter*:
 
 Disse frasene kan du bruke for å indikere *ulikhet* over to setninger
 
+| Første setning   | Frase   | avslutning   |
+|:--- | ---:|:--- |
 | I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til<br>Dette står i motsetning til<br>Slik skiller demokrati seg fra | styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
-| --- | --- | --- |
 
 Disse frasene kan du bruke for å indikere *likheter* over to setninger:
 
