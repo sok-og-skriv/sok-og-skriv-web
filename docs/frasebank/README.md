@@ -11,7 +11,7 @@ Temaer:
 5. Beskrive metode og metodevalg
 6. Sammenligne 
 7. Gi eksempler 
-8. Argumentere for påstander
+8. Argumentere og drøfte 
 9. Konkludere argumentasjonsrekke
 10. Skape flyt i teksten
 11. Beskrive resultater i tallmateriale
@@ -175,7 +175,7 @@ Disse frasene kan du bruke når du skal *bruke et eksempel for å støtte et arg
 - Eksemplet som er lagt frem her, bygger opp under antakelsen/ideen/påstanden om at ...
 
 
-## 8. Argumentere for og imot påstander
+## 8. Argumentere og drøfte 
 
 Disse frasene kan du bruke når du vil synliggjøre din egen argumentasjon for leseren:
 
@@ -207,7 +207,15 @@ Disse frasene kan du bruke til å belyse et fenomen eller en idé fra *alternati
 - Man kan også spørre seg om X ikke like gjerne ... 
 - I et slikt perspektiv, blir det (også) tydelig at ... 
 - For å studere/forstå/belyse X, vil det være interessant å se på ...
+I lys av x, kan det se ut til at ...
+Dersom x er tilfelle, vil det også kunne ...
 
+Disse frasene kan du bruke for å problematisere / trekke i tvil 
+
+På den ene siden ... men på den andre
+Er det rimelig å anta at ... eller kan det også ...?
+En annen, mulig forklaring kan være ...
+I motsetning til tidligere studier, ser det ut til at ...
 
 ## 9. Konkludere en argumentasjonsrekke
 
