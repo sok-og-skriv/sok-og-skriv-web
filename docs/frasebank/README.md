@@ -141,14 +141,15 @@ Disse frasene kan du bruke når du skal introdusere *likheter*:
 
 Disse frasene kan du bruke for å indikere *ulikhet* over to setninger
 
-| Første setning   | Frase   | avslutning   |
-|:--- | ---:|:--- |
-| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til<br>Dette står i motsetning til<br>Slik skiller demokrati seg fra | styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
+| Første setning   | Frase   | Avslutning   |
+|:--- |:--- |:--- |
+| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til...<br>Dette står i motsetning til...<br>Slik skiller demokrati seg fra... | ...styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
 
 Disse frasene kan du bruke for å indikere *likheter* over to setninger:
 
+| Første setning   | Frase   | Avslutning   |
+|:--- |:--- |:--- |
 | Innbyggerne i Norge velger representanter til Stortinget. | På samme måte <br> Likeledes <br> På lignende vis | velger amerikanere representanter til senatet og kongressen. |
-| --- | --- | --- |
 
 ## 7. Gi eksempler
 
@@ -162,8 +163,9 @@ Disse frasene kan du bruke når du skal gi eksempler på noe:
 - Dette kan illustreres ved å se til ...
 - Et lignende tilfelle i England viser at ...
 
+| Første setning   | Frase   | Avslutning   |
+|:--- |:--- |:--- |
 | Et | velkjent <br>mye brukt<br>sentralt <br>godt<br>klassisk <br>nyttig<br>viktig<br>illustrerende | eksempel på X er … |
-|----|-----------------------------------------------------------------------------------------------|--------------------|
 
 
 Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argument:
