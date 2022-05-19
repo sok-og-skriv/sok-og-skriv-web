@@ -73,7 +73,7 @@ Disse frasene kan du bruke når du skal vise svakheter ved tidligere studier ell
 - Teorien tar ikke høyde for ...
 
 
-**Disse frasene kan du bruke for å komme med konstruktive forslag til endring, og dermed underbygge ditt eget perspektiv:**
+Disse frasene kan du bruke for å komme med konstruktive forslag til endring, og dermed underbygge ditt eget perspektiv:
 
 - Studien kunne vært mer interessant/relevant dersom ...
 - Dersom studien hadde fokusert på ... kunne man ...
@@ -297,9 +297,7 @@ Disse frasene kan du bruke når du skal beskrive resultater som *bryter* med tid
 
 ## 13. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
 
-Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker til at noe skjer
-
-Forsiktighet rundt tolkning av resultater:
+Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker til at noe skjer:
 
 - B kan være et resultat av A.
 - B er trolig en følge av A.
