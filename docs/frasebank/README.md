@@ -1,23 +1,26 @@
 # Akademisk frasebank
 
-Her finner du eksempler på setninger, uttrykk og vendinger som er ofte brukt i akademiske tekster, delt delt inn i temaer som kan være til hjelp når du skal strukturere en tekst. Frasene er faguavhengige og nøytrale, og kan brukes uten henvisning til frasebanken. Som regel må de tilpasses tekstens formål og din egen skrivestil. 
+Her finner du eksempler på setninger, uttrykk og vendinger som er ofte brukt i akademiske tekster. Frasene er delt inn i temaer som kan være til hjelp når du skal strukturere en tekst. De er faguavhengige og nøytrale, og kan brukes uten henvisning til frasebanken. Som oftest må de tilpasses tekstens formål og din egen skrivestil. 
+
+_Denne frasebanken er dynamisk. Vi tar gjerne imot innspill til hvordan den kan bli bedre!_
 
 Temaer:
 
 1. Vise til tidligere studier uten å ta stilling
 2. Vise til tidligere studier og støtte seg på disse
-3. Være kritisk til tidligere studier
+3. Være kritisk til tidligere studier 
 4. Definere begreper
-5. Beskrive metode og metodevalg
-6. Sammenligne 
-7. Gi eksempler 
-8. Argumentere og drøfte 
-9. Konkludere argumentasjonsrekke
-10. Skape flyt i teksten
-11. Beskrive resultater i tallmateriale
-12. Drøfte funn og resultater
-13. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
-14. Avslutning: oppsummering eller konklusjon
+5. Formulere problemstilling/forskningsspørsmål
+6. Beskrive metode og metodevalg
+7. Sammenligne 
+8. Gi eksempler 
+9. Argumentere og drøfte 
+10. Konkludere argumentasjonsrekke
+11. Skape flyt i teksten
+12. Beskrive resultater i tallmateriale
+13. Drøfte funn og resultater
+14. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
+15. Avslutning: oppsummering eller konklusjon
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
 
@@ -27,7 +30,7 @@ Disse frasene kan du bruke når du skal presentere andres ideer eller forskning 
 
 - En vanlig/gjengs/utbredt oppfatning er ...
 - Ifølge nyere/enkelte/en rekke studier ... [referanse til studiene]
-- Noen/mange [forskere/fagpersoner] hevder/legger vekt på at ... [referanse til studiene]
+- Noen/mange [forskere/fagpersoner] har vært opptatt av / legger vekt på at ... [referanse til studiene]
 - Et (relativt) vanlig synspunkt er ...
 - Diskusjonen dreier seg om ...
 - Hovedfunnene her er ... 
@@ -36,7 +39,7 @@ Disse frasene kan du bruke når du skal presentere andres ideer eller forskning 
 
 Disse frasene kan brukes til å introdusere ideer som du er enig i og bygger videre på:
 
-- Som Hansen (2020) har påvist/vist/dokumentert ...
+- Som Hansen (2020) har påvist/vist/dokumentert/påpeker/belyser ...
 - Med tilslutning til Hansen (2020) kan det hevdes at ...
 - Jeg vil legge Gundersens definisjon til grunn når jeg skal diskutere X
 - Her støtter jeg meg på / tar jeg utgangspunkt i ...
@@ -46,7 +49,7 @@ Disse frasene kan brukes til å introdusere ideer som du er enig i og bygger vid
 
 ## 3. Stille seg kritisk til tidligere studier og teorier
 
-Disse frasene kan du bruke når du skal vise svakheter ved tidligere studier eller introdusere problemer/begrensninger ved en teori, forklaring etc., og dermed underbygge relevansen av ditt eget prosjekt:
+Disse frasene kan du bruke når du skal vise svakheter eller begrensninger ved en teori, forklaring etc., og dermed underbygge relevansen av ditt eget prosjekt:
 
 - De fleste studiene av X har (kun) fokusert på ...
 - En begrensning/mulig svakhet ved en slik tilnærming, er at ...
@@ -58,7 +61,7 @@ Disse frasene kan du bruke når du skal vise svakheter ved tidligere studier ell
 - Tidligere studier er ufullstendige når det gjelder ...
 - Den eksisterende forskningen forklarer ikke hvordan/hvorfor ...
 - Det har ikke vært mulig å replikere/generalisere disse resultatene, fordi ...
-- Resultatene er basert på data fra (f.eks. 1990), og det er usikkert om det ville sett likt ut i dag ...
+- Resultatene er basert på data fra (f.eks. 1990), og det er usikkert om det ville sett likt ut i dag 
 - Dette er et kontroversielt tema, og forskere har ikke blitt enige om ...
 - Gundersen anerkjenner ikke / overser at / tar ikke høyde for / tar ikke hensyn til ... 
 - En svakhet ved studien er/ser ut til å være ...
@@ -81,7 +84,7 @@ Disse frasene kan du bruke for å komme med konstruktive forslag til endring, og
 
 ## 4. Definere begreper
 
-Disse frasene kan du bruke når du skal definere et begrep
+Disse frasene kan du bruke når du skal definere et begrep:
 
 - **\*** Begrepet\* defineres (ofte/vanligvis/gjerne) som ...
 - En vanlig definisjon av \*begrepet\* er ...
@@ -91,7 +94,20 @@ Disse frasene kan du bruke når du skal definere et begrep
 - Med begrepet \*begrepet\* mener jeg her ...
 
 
-## 5. Beskrive metode og metodevalg
+## 5. Formulere problemstilling/forskningsspørsmål 
+
+Disse frasene kan du bruke til å formulere ett eller flere spørsmål som teksten din er et svar på: 
+
+- Med utgangspunkt i X, vil denne oppgaven ta for seg følgende spørsmål: "Hvordan/På hvilken måte ... ?" 
+- For å undersøke [dette], vil det sentrale spørsmålet være / vil det være sentralt å få vite hvordan ... 
+- Spørsmålet som skal besvares/belyses i det følgende, er om det finnes/er/kan være ...
+- Jeg vil derfor ta for meg følgende spørsmål: ...  
+- Oppgavens problemformulering er som følger: ... 
+- Hovedspørsmålet er ... 
+- For å belyse problemstillingen, skal jeg ta for meg tre forskningsspørsmål: A, B og C.  
+
+
+## 6. Beskrive metode og metodevalg
 
 Disse frasene kan du bruke når du skal beskrive tidligere brukte metoder:
 
@@ -113,7 +129,7 @@ Disse frasene kan du bruke for å vise svakheter ved metoden:
 - Begrensinger/svakheter/problemer/ulemper ved bruk av \*metoden\* kan være ...
 - \*Metoden\* gir ikke pålitelige resultater når det gjelder ...
 
-## 6. Sammenligne
+## 7. Sammenligne
 
 Disse frasene kan du bruke når du skal introdusere *ulikheter*:
 
@@ -149,7 +165,7 @@ Disse frasene kan du bruke for å indikere *likheter* over to setninger:
 |:--- |:--- |:--- |
 | Innbyggerne i Norge velger representanter til Stortinget. | På samme måte <br> Likeledes <br> På lignende vis | velger amerikanere representanter til senatet og kongressen. |
 
-## 7. Gi eksempler
+## 8. Gi eksempler
 
 Disse frasene kan du bruke når du skal gi eksempler på noe:
 
@@ -175,7 +191,7 @@ Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argu
 - Eksemplet som er lagt frem her, bygger opp under antakelsen/ideen/påstanden om at ...
 
 
-## 8. Argumentere og drøfte 
+## 9. Argumentere og drøfte 
 
 Disse frasene kan du bruke når du vil synliggjøre din egen argumentasjon for leseren:
 
@@ -217,7 +233,7 @@ Disse frasene kan du bruke til å belyse et fenomen eller en idé fra *alternati
 - En alternativ tolkning ... 
 
 
-## 9. Konkludere en argumentasjonsrekke
+## 10. Konkludere en argumentasjonsrekke
 
 Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 
@@ -230,7 +246,7 @@ Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 - Poenget med dette er å vise ... 
 
 
-## 10. Skape flyt i teksten
+## 11. Skape flyt i teksten
 
 Disse frasene kan du bruke for å veilede leseren gjennom teksten og gjøre argumentasjonen lettere å følge:
 
@@ -253,7 +269,7 @@ Disse frasene kan du bruke for å veilede leseren gjennom teksten og gjøre argu
 - I det følgende vil jeg utdype denne diskusjonen ved å ...
 
 
-##  11. Beskrive et tallmateriale
+##  12. Beskrive et tallmateriale
 
 Fraser for å *beskrive* trender i tallmateriale:
 
@@ -270,7 +286,7 @@ Disse frasene kan du bruke når du skal beskrive konkrete *resultater* i tallmat
 | Mer enn<br>Litt over <br>Rett over <br>Størstedelen <br> <br>Rundt<br>Nesten<br>Så mange som <br>Omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne<br>av utvalget | oppga at<br>sa seg enige i<br>rapporterte om ... |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
 
-## 12. Drøfte funn og resultater
+## 13. Drøfte funn og resultater
 
 Disse frasene kan du bruke når du skal beskrive resultater som *stemmer* med tidligere studier:
 
@@ -293,7 +309,7 @@ Disse frasene kan du bruke når du skal beskrive resultater som *bryter* med tid
 - Et annet syn på...
 
 
-## 13. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
+## 14. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
 
 Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker til at noe skjer:
 
@@ -311,7 +327,7 @@ Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker
 
 
 
-## 14. Avslutning eller konklusjon
+## 15. Avslutning eller konklusjon
 
 Disse frasene kan du bruke for å avslutte med en *oppsummering*:
 
@@ -335,7 +351,6 @@ Disse frasene kan du bruke for å vise *betydningen* av din studie:
 
 - Undersøkelsen/analysen/studien bidrar dermed med ...
 - Studien gir innsikt i forhold som er viktige når det gjelder ... 
-- Når det gjelder bedring av X, vil denne studien kunne være et bidrag.  
+- Når det gjelder bedring/forebygging/forståelsen av X, vil denne studien kunne være et bidrag.  
 
 
-Denne frasebanken er dynamisk. Vi tar gjerne imot innspill til hvordan den kan bli bedre!
