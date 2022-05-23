@@ -131,7 +131,7 @@ Disse frasene kan du bruke for å vise svakheter ved metoden:
 
 ## 7. Sammenligne
 
-Disse frasene kan du bruke når du skal introdusere *ulikheter*:
+Disse frasene kan du bruke når du skal introdusere ulikheter:
 
 - X skiller seg fra Y på flere måter ...
 - X er nært beslektet med Y, bortsett fra ...
@@ -142,7 +142,7 @@ Disse frasene kan du bruke når du skal introdusere *ulikheter*:
 - Der X handler om Xi, handler Y om Yi
 - Denne tolkningen skiller seg fra/står i kontrast til Gundersen og Hansens tolkning. De argumenterer for at ...
 
-Disse frasene kan du bruke når du skal introdusere *likheter*:
+Disse frasene kan du bruke når du skal introdusere likheter:
 
 - Det er en rekke likhetstrekk mellom X og Y. For det første ... For det andre ...
 - X og Y deler flere egenskaper, som ...
@@ -153,13 +153,13 @@ Disse frasene kan du bruke når du skal introdusere *likheter*:
 - Studier har sammenlignet X hos norske og amerikanske studenter, og funnet sentrale likheter
 
 
-Disse frasene kan du bruke for å indikere *ulikhet* over to setninger
+Disse frasene kan du bruke for å indikere ulikhet over to setninger
 
 | Første setning   | Frase   | Avslutning   |
 |:--- |:--- |:--- |
-| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til...<br>Dette står i motsetning til...<br>Slik skiller demokrati seg fra... | ...styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
+| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til ...<br>Dette står i motsetning til ...<br>Slik skiller demokrati seg fra ... | ... styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
 
-Disse frasene kan du bruke for å indikere *likheter* over to setninger:
+Disse frasene kan du bruke for å indikere likheter over to setninger:
 
 | Første setning   | Frase   | Avslutning   |
 |:--- |:--- |:--- |
@@ -179,7 +179,7 @@ Disse frasene kan du bruke når du skal gi eksempler på noe:
 
 | Første setning   | Frase   | Avslutning   |
 |:--- |:--- |:--- |
-| Et | velkjent <br>mye brukt<br>sentralt <br>godt<br>klassisk <br>nyttig<br>viktig<br>illustrerende | eksempel på X er … |
+| Et | velkjent <br>mye brukt<br>sentralt <br>godt<br>klassisk <br>nyttig<br>viktig<br>illustrerende | eksempel på X er ... |
 
 
 Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argument:
@@ -221,7 +221,7 @@ Disse frasene kan du bruke når du vil stille spørsmål ved en idé eller påst
 - En annen, mulig forklaring kan være ...
 - I motsetning til X, ser det ut til at ...
 
-Disse frasene kan du bruke til å belyse et fenomen eller en idé fra *alternative* eller nye perspektiver: 
+Disse frasene kan du bruke til å belyse et fenomen eller en idé fra alternative eller nye perspektiver: 
 
 - En vel så interessant vinkling kan være ... 
 - Man kan også spørre seg om X ikke like gjerne ... 
@@ -276,19 +276,19 @@ Fraser for å *beskrive* trender i tallmateriale:
 | Grafen viser at det har vært en<br>Figuren viser hvordan det har vært en/et<br>Fra tabellen ser vi at det har vært en/et | svak<br>sterk<br>bratt<br>gradvis<br>stadig<br>merkbar | oppgang<br>nedgang<br>økning<br>løft<br>fall | i antall skilsmisser i Norge siden 1980 |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------|-----------------------------------------|
 
-Disse frasene kan du bruke når du skal *understreke tendenser* i tallmateriale:
+Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
 
 | Det sentrale<br>Det som utmerker seg <br>Det påfallende<br>Det interessante<br>Det som er verdt å merke seg | i | tabellen<br>grafen<br>figuren | er veksten av ...<br>er (den raske, stabile, svake) oppgangen/veksten i ...<br>er variasjonen i ...<br>er (den raske/stabile/svake) nedgangen/fallet i ...<br>er forskjellen mellom ... |
 |-------------------------------------------------------------------------------------------------------------|---|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-Disse frasene kan du bruke når du skal beskrive konkrete *resultater* i tallmateriale:
+Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
 | Mer enn<br>Litt over <br>Rett over <br>Størstedelen <br> <br>Rundt<br>Nesten<br>Så mange som <br>Omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne<br>av utvalget | oppga at<br>sa seg enige i<br>rapporterte om ... |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
 
 ## 13. Drøfte funn og resultater
 
-Disse frasene kan du bruke når du skal beskrive resultater som *stemmer* med tidligere studier:
+Disse frasene kan du bruke når du skal beskrive resultater som stemmer med tidligere studier:
 
 - Studien bekrefter at X er assosiert med ...
 - Dette resultatet støttes av ...
