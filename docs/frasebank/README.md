@@ -4,7 +4,7 @@ Her finner du eksempler på setninger, uttrykk og vendinger som er ofte brukt i 
 
 Denne frasebanken er dynamisk. Vi tar gjerne imot innspill til hvordan den kan bli bedre!
 
-Dersom du skriver nynorsk kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste] (https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
+Dersom du skriver nynorsk kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste](https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
 
 Temaer:
 
