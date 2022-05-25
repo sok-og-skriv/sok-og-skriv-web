@@ -279,9 +279,7 @@ Fraser for å *beskrive* trender i tallmateriale:
 Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
 
 | Det sentrale<br>Det som utmerker seg <br>Det påfallende<br>Det interessante<br>Det som er verdt å merke seg | i | tabellen<br>grafen<br>figuren | er veksten av ...<br>er (den raske, stabile, svake) oppgangen/veksten i ...<br>er variasjonen i ...<br>er (den raske/stabile/svake) nedgangen/fallet i ...<br>er forskjellen mellom ... |
-
-|
-:-------------------------------------------------------------------------------------------------------------|---|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------------------------------------------------------------------------------------------------|---|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
