@@ -4,6 +4,8 @@ Her finner du eksempler på setninger, uttrykk og vendinger som er ofte brukt i 
 
 Denne frasebanken er dynamisk. Vi tar gjerne imot innspill til hvordan den kan bli bedre!
 
+Dersom du skriver nynorsk kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste] (https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
+
 Temaer:
 
 1. Vise til tidligere studier uten å ta stilling
@@ -279,7 +281,7 @@ Fraser for å *beskrive* trender i tallmateriale:
 Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
 
 | Det sentrale<br>Det som utmerker seg <br>Det påfallende<br>Det interessante<br>Det som er verdt å merke seg | i | tabellen<br>grafen<br>figuren | er veksten av ...<br>er (den raske, stabile, svake) oppgangen/veksten i ...<br>er variasjonen i ...<br>er (den raske/stabile/svake) nedgangen/fallet i ...<br>er forskjellen mellom ... |
-|:-------------------------------------------------------------------------------------------------------------|---|:-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------------------------------------------------------------------------------------------------|---|:-------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
