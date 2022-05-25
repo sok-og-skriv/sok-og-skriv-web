@@ -279,12 +279,13 @@ Fraser for å *beskrive* trender i tallmateriale:
 Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
 
 | Det sentrale<br>Det som utmerker seg <br>Det påfallende<br>Det interessante<br>Det som er verdt å merke seg | i | tabellen<br>grafen<br>figuren | er veksten av ...<br>er (den raske, stabile, svake) oppgangen/veksten i ...<br>er variasjonen i ...<br>er (den raske/stabile/svake) nedgangen/fallet i ...<br>er forskjellen mellom ... |
-|-------------------------------------------------------------------------------------------------------------|---|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|
+:-------------------------------------------------------------------------------------------------------------|---|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
 | Mer enn<br>Litt over <br>Rett over <br>Størstedelen <br> <br>Rundt<br>Nesten<br>Så mange som <br>Omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne<br>av utvalget | oppga at<br>sa seg enige i<br>rapporterte om ... |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
 
 ## 13. Drøfte funn og resultater
 
