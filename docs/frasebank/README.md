@@ -4,7 +4,6 @@ Her finner du eksempler på setninger, uttrykk og vendinger som er ofte brukt i 
 
 Denne frasebanken er dynamisk. Vi tar gjerne imot innspill til hvordan den kan bli bedre!
 
-Dersom du skriver nynorsk, kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste](https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
 
 Temaer:
 
@@ -25,6 +24,8 @@ Temaer:
 15. Avslutning: oppsummering eller konklusjon
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
+
+Dersom du skriver nynorsk, kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste](https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
 
 ## 1. Vise til tidligere studier uten å ta stilling
 
