@@ -274,7 +274,7 @@ Disse frasene kan du bruke for å veilede leseren gjennom teksten og gjøre argu
 Fraser for å *beskrive* trender i tallmateriale:
 
 | Grafen viser at det har vært en<br>Figuren viser hvordan det har vært en/et<br>Fra tabellen ser vi at det har vært en/et | svak<br>sterk<br>bratt<br>gradvis<br>stadig<br>merkbar | oppgang<br>nedgang<br>økning<br>løft<br>fall | i antall skilsmisser i Norge siden 1980 |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------|-----------------------------------------|
+|:---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------|-----------------------------------------|
 
 Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
 
