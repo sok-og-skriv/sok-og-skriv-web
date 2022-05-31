@@ -55,7 +55,7 @@ Vekttap
 :::
 ::::
 
-I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» (C) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
+I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» \(C\) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
 :::::
 
 Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar I (intervensjon), andre ganger mangler C (sammenligning) og andre ganger finnes ingen tydelig formulert O (utfall).
@@ -142,7 +142,7 @@ BMI adj2 loss
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
-Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](https://sok-og-skriv-git-568-oppdatere-systematisk-soking-uib-ub.vercel.app/soking/systematisk-soking.html#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
+Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](./soking/systematisk-soking.md#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
 
 | #  | Søk                                    | Resultat |
 | -- | -------------------------------------- | -------- |
@@ -254,7 +254,7 @@ I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, be
 * har du benyttet andre søkefasiliteter i databasen?
 * dato for når søket ble foretatt
 
-[Last ned ditt eget skjema her.](https://universityofbergen-my.sharepoint.com/:w:/g/personal/kathrine_cohen_uib_no/ETbSRRwWwV9MuicTTj7RLYABlNhB-uhS-4gUiORHv-94EA?e=zmZlE6)
+[Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
 
 ::: tip Tips
 Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken databaser du har søkt i.
