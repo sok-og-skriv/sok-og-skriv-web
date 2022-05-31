@@ -6,6 +6,12 @@ tags:
   - "henvisning"
   - "plagiat"
   - "fusk"
+  - "forelesningsnotat"
+  - "selvplagiat"
+  - "sjølvplagiat"
+  - "sekundærreferanse"
+  - "selvistering" 
+  - "sjølvsitering"
 ---
 
  # Korleis skal ein referere? 
@@ -13,6 +19,10 @@ tags:
 Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du føl denne konsekvent. Ver også konsekvent når det gjeld engelsk vs. norsk rettskriving, oppsett av dato mv. 
 
 På Søk & Skriv viser me stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
+
+**Her er ei enkel oppskrift for å sette inn kjelder og unngå plagiat:**
+
+<Video id="3IIoBZ0Tf_I" />
 
 
 ## Kva skal refererast?
@@ -35,41 +45,53 @@ Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til 
 
 Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I så fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
-## Opphavsrett 
-Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
 
-I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
+## Unngå plagiat / brot på opphavsretten
 
-## Korleis unngå plagiat / brot på opphavsretten? 
-
-::: warning Korleis kan du unngå å plagiere?
+::: warning Korleis la vere å plagiere?
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Gjengi sitat ordrett med hermeteikn, **eller** parafraser (gjengi innholdet med eigne ord). 
+Gjengi sitat ordrett med hermeteikn, **eller** parafraser (skriv innhaldet med eigne ord). 
 
-Legg vekk kjelda medan du skriv, så unngår du å bli opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
+Legg vekk kjelda medan du skriv, så blir du ikkje opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
 
 Vips, så har du unngått å plagiere!
   
 :::  
 
-Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverksloven](https://www.lovdata.no/all/hl-19610512-002.html). 
-
 Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – ved å ha kopiert eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass.  
-Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. 
 
-::: warning Sjøvplagiat 
+Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna som plagiat.
 
-Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna som plagiat. 
+::: warning Sjølvsitering eller sjølvplagiat?  
+
+Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
+
+Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar. 
+
+Upubliserte studentarbeid kan visast til som "Eige/eget arbeid (årstal). Tittel på oppgåva 
+[Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen". 
+
+Desse eksempla følger APA-stilen.
+
+Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker å gjenbruke tidlegare arbeid. 
+
 
 ::: 
+
+
+### Opphavsrett 
+Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsverket kan vere eit litterært, vitskapeleg eller kunstnarisk verk, og skaparen blir kalla opphavar. Opphavsretten er regulert i lov om opphavsrett til åndsverk frå 2018, også kalla [åndsverklova](https://lovdata.no/dokument/NL/lov/2018-06-15-40). Hovudregelen i åndsverklova er at opphavaren har einerett til å framstille eksemplar av verket og å gjere det tilgjengeleg for andre. Denne økonomiske retten varer i 70 år etter at opphavar er gått bort, då «fell verket i det fri», som det heiter. 
+
+I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
+Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverkslova](https://lovdata.no/dokument/NL/lov/2018-06-15-40). 
 
 For meir om opphavsrett, sjå [DelRett](https://www.delrett.no/nb) som er ei offentleg rettleiingsteneste om opphavsrett. 
 
 
 ## Sitat
-Nokon gonger kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Dette må gjerast i samsvar med god skikk, ved å sitere og vise korrekt til kjeldene. Ikkje gje inntrykk av at noko er ditt når det ikkje er det.
+Av og til kan det vere aktuelt å hente informasjon eller tekst frå andre inn i eigen tekst. Dette må gjerast i samsvar med god skikk, ved å sitere og vise korrekt til kjeldene. Gi aldri inntrykk av at noko er ditt når det ikkje er det.
 
 ### Direkte sitat
 
@@ -81,7 +103,7 @@ Direkte sitat er ei heilt ordrett attgiving. Døme kan vere definisjonar, særle
 Kjelde: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Gyldendal.
 :::
 
-Sitat som har meir enn 40 ord skal (i APA) skrivast i eit eige avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn. Det er også vanleg å introdusere sitat med innleiing og/eller ein kommentar. 
+Sitat som har meir enn 40 ord skal (i APA) skrivast i eit eige avsnitt med innrykk. Når du skriv sitata på denne måten skal det ikkje nyttast hermeteikn, og punktum kjem før parentes. Det er vanleg å introdusere sitat med innleiing og/eller ein kommentar. 
 
 ### Ved endringar i sitatet 
 
@@ -94,7 +116,7 @@ På same måte som med indirekte sitat, kan det nokre gonger vere aktuelt å gje
 
 :::
 
-Dersom du ønskjer å **tilføye** eller **erstatte** noko i eit sitat, markerast dette ved å nytte klammeparentesar. 
+Ønsker du å **tilføye** eller **erstatte** noko i eit sitat, kan du markere det ved å nytte klammeparentesar. 
 
 ::: eksempel Eksempel
 
@@ -136,7 +158,7 @@ Kjelde: Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacu
 ## Hjelpemiddel
 
  
-For større oppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som EndNote, ReferenceManager, Zotero eller Mendeley. 
+For større oppgåver kan du effektivisere arbeidet ved å nytte referanseverktøy som Zotero, EndNote, ReferenceManager eller Mendeley. 
 Undersøk med studiestaden din kva referanseverktøy du har tilgong til. [Zotero](https://www.zotero.org/) er gratis tilgjengelege for alle, medan [Mendeley](https://www.mendeley.com/) og [EndNote](https://endnote.com/product-details/basic/) finst i enklare gratisversjonar. 
 
 Hugs at du alltid må dobbelsjekke at referansen blir rett! 

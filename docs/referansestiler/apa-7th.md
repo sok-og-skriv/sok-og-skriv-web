@@ -1,6 +1,10 @@
 ---
 title: "APA 7th"
 date: "2020-06-17"
+tags: 
+  - "Direkte sitat"
+  
+
 ---
 
 # APA 7th
@@ -185,44 +189,6 @@ E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
 :::: 
 
 
-### Religiøse og klassiske verk
-
-Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. Religiøse verk behandles som verk uten forfatter, mens annoterte versjoner (kommentarutgaver) behandles som redigert bok. Religiøse skrifter er publisert i mange utgaver; bruk årstallet for den aktuelle utgivelsen. Dersom publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven du har brukt. Siden sidetall vil variere fra utgave til utgave, brukes nummererte kapittel, vers eller surer i henvisningen. Bibelen og andre hellige verk skal generelt ikke ha innførsel i referanselista, men hvis du mener at det er nyttig for leseren kan den inkluderes.
-
-::: teksten
-... «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
-Deretter kun henvisning til del, kapittel, vers, for eksempel (Luk 2,7).
-
-(Koranen 1: 6–7)
-\[Ingen innførsel\]
-
-I Lukasevangeliet (Luk,1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
-\[Ingen innførsel\]
-
-I Ciceros «Om taleren» (1.47, overs. 1993) ...
-\[Ingen innførsel\]
-
-I _Iliaden_ (6.344–58) sier Helena at ...
-\[Ingen innførsel\]
-
-... (Dante Alighieri, 1472/2005, s. 241).
-
-... (Homer,ca 800 fvt./1898).
-:::
-
-:::: ref
-<span class="ref">Dante Alighieri. (2005). _Den guddommelege komedie_ (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
-
-<span class="ref">Homer (1898). _The Iliad_ (S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html (Originalt verk publisert ca. 800 fvt.)</span>
-
-::: details I EndNote
-
-Legges inn som "Book".
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
-NB: Hellige verk skal generelt _ikke_ ha innførsel i referanselista. Skriv henvisning i teksten manuelt.
-
-::: 
-:::: 
 
 ### Oversatte bøker
 Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke originalverket. Oversetteren skal krediteres i referansen. Årstallet for originalverket oppgis i slutten av referansen: 
@@ -288,7 +254,7 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
 
 <span class="ref">Thuen, F. (2006, 12. oktober). Utroskapens pris. _Bergens Tidende_, s. 12.</span>
 
-<span class="ref">Knapstad, M. L. (2018, 9. mai). En jafs av Bergen. Aftenposten, A-magasinet. https://www.aftenposten.no/a-magasinet/i/ngJron/en-jafs-av-bergen?</span>
+<span class="ref">Knapstad, M. L. (2018, 9. mai). En jafs av Bergen. _Aftenposten, A-magasinet_. https://www.aftenposten.no/a-magasinet/i/ngJron/en-jafs-av-bergen?</span>
 
 ::: details I EndNote
 
@@ -366,7 +332,7 @@ Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (
 :::
 
 :::: ref
-<span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel_. Nettstedets navn.  URL.</span>
+<span class="ref">Organisasjon. (Årstall, dag, måned). _Tittel_. Nettstedets navn.  URL </span>
 
 <span class="ref">Statsministerens kontor. (2018, 20. mars). _Offisielt fra
 statsråd 20. mars 2018_. Regjeringen.
@@ -660,6 +626,44 @@ Merknad: Dersom du ikke har URL, erstattes den med Publisher. Dersom du ikke har
 
 :::
 
+### Religiøse og klassiske verk
+
+Religiøse verk (f.eks. Bibelen, Koranen), klassiske verk (greske og romerske verk) og klassisk litteratur (f.eks. Shakespeare) refereres som for bøker. Religiøse verk behandles som verk uten forfatter, mens annoterte versjoner (kommentarutgaver) behandles som redigert bok. Religiøse skrifter er publisert i mange utgaver; bruk årstallet for den aktuelle utgivelsen. Dersom publiseringstidspunkt anses å være kjent, oppgis årstall for første utgivelse i opprinnelseslandet i tillegg til den utgaven du har brukt. Siden sidetall vil variere fra utgave til utgave, brukes nummererte kapittel, vers eller surer i henvisningen. Bibelen og andre hellige verk skal generelt ikke ha innførsel i referanselista, men hvis du mener at det er nyttig for leseren kan den inkluderes.
+
+::: teksten
+... «for det var ikke husrom for dem» (Luk 2,7, Bibel 2011). 
+Deretter kun henvisning til del, kapittel, vers, for eksempel (Luk 2,7).
+
+(Koranen 1: 6–7)
+\[Ingen innførsel\]
+
+I Lukasevangeliet (Luk,1:34) er Maria i tvil om hun virkelig vil føde Guds barn.
+\[Ingen innførsel\]
+
+I Ciceros «Om taleren» (1.47, overs. 1993) ...
+\[Ingen innførsel\]
+
+I _Iliaden_ (6.344–58) sier Helena at ...
+\[Ingen innførsel\]
+
+... (Dante Alighieri, 1472/2005, s. 241).
+
+... (Homer,ca 800 fvt./1898).
+:::
+
+:::: ref
+<span class="ref">Dante Alighieri. (2005). _Den guddommelege komedie_ (2. utg., M. Ulleland, Overs.). Gyldendal. (Opprinnelig utgitt 1472)</span>
+
+<span class="ref">Homer (1898). _The Iliad_ (S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html (Originalt verk publisert ca. 800 fvt.)</span>
+
+::: details I EndNote
+
+Legges inn som "Book".
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+NB: Hellige verk skal generelt _ikke_ ha innførsel i referanselista. Skriv henvisning i teksten manuelt.
+
+::: 
+:::: 
 
 
 
@@ -678,16 +682,22 @@ Dersom man skal referere til tekster fra et kompendium, skal man henvise til ori
 ... (Våpenstad, 2011, s. 59).
 
 Kyrkjebø (2001) viser forskjellen mellom ... (s. 39).
+
+... (Eget arbeid, 2022, s. 7).
 :::
 
 :::: ref
 Trykt oppgave:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon].</span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_ [Masteroppgave/Doktorgradsavhandling]. Institusjon.</span>
 
 Avhandling på nett:  
-<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_/[Masteroppgave/Doktorgradsavhandling, Institusjon/. Navn på arkiv. URL </span>
+<span class="ref">Forfatter, A. A. (Årstall). _Tittel: Undertittel_ [Masteroppgave/Doktorgradsavhandling, Institusjon]. Navn på arkiv. URL </span>
 
-<span class="ref">Thingnes J.R. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_/[Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
+<span class="ref">Thingnes J.S. (2020). _Å velje minoriserte språk: Språkpolitikk og språkval i akademia_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO vitenarkiv. https://www.duo.uio.no/handle/10852/80634 </span>
+
+Eget arbeid:  
+<span class="ref">Eget arbeid (Årstall). _Tittel på oppgaven_ [Upublisert semesteroppgave - velg det som passer]. Navn på utdanningsinstitusjon.</span>
+
 
 ::: details I EndNote
 
@@ -708,7 +718,7 @@ Merknad: I feltet for «Thesis type» legges også institusjonsnavnet inn.
 <span class="ref"> Jerpseth, H. (2017). _Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
 :::
 
-### Statistikk og datasett
+### Statistikk, datasett og elektroniske kart
 
 Statistikk:
 
@@ -822,11 +832,16 @@ Referer til boken:
 <span class="ref">Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ [https://doi.org/10.23865/noasp.32](https://doi.org/10.23865/noasp.32)</span>
 :::
 
-### Personlig kommunikasjon (e-poster, eget eksamensarbeid, forelesningsnotater o.l.)
+### Personlig kommunikasjon (e-poster, samtaler, personlige intervjuer o.l.)
 
-Personlig kommunikasjon omfatter ulike typer kilder som ikke er tilgjengelige for andre. Eksempel på kildetyper i denne kategorien er e-poster, tekstmeldinger, uttalelser eller sitater fra chattetjenester, personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater, telefonsamtaler, tidligere innlevert eksamensarbeid osv. Når det gjelder eksamensarbeid er det viktig at du skriver referanse selv om det er ditt eget arbeid! Bruk personlig kommunikasjon som kilde kun når gjenfinnbare kilder ikke er tilgjengelige. 
+Det som er felles for kilder i kategorien personlig kommunikasjon, er at leserne mer eller mindre
+er utestengt fra å kunne konsultere kildene. Personlig kommunikasjon kan omfatte e-poster,
+personlige intervjuer, brev, meldinger fra uarkiverte diskusjonsgrupper, forelesningsnotater osv. Bruk personlig kommunikasjon som kilde *kun* når gjenfinnbare kilder ikke er tilgjengelige. For eksempel hvis en forelesning inneholder originalt innhold som ikke er publisert andre steder, kan denne refereres til som personlig kommunikasjon. Hvis materialet du vil henvise til er lukket bak en påloggingseller betalingsmur, henvis til disse som arkivert materiale. Ikke bruk kategorien personlig kommunikasjon for intervjudata (jfr. «Intervju fra egne informanter eller intervjuobjekter», over). Ettersom denne type kilder ikke er gjenfinnbare, skal de ikke i referanselista – og det er kanskje heller ikke så lurt å benytte den type kilder nettopp av den grunn. 
 
 ::: teksten
-... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)...
+Dato må være med i teksten:
+
+... har ofte en fastlagt form (D. Didriksen, personlig kommunikasjon, 17. desember 2017)…
+
 _Ingen innførsel i referanselisten_
 :::
