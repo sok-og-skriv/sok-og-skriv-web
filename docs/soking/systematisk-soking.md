@@ -17,7 +17,7 @@ Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inne
 
 Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
 
-Problemstillingen inneholder problematikken skolevegring og populasjonen tenåringer, som dermed utgjør de tematiske elementene.
+Problemstillingen inneholder problematikken *skolevegring* og populasjonen *tenåringer*, som dermed utgjør de tematiske elementene.
 :::
 
 De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](https://sok-og-skriv-gitlab-io-git-568-oppdatere-systemat-08fd49-seidhr.vercel.app/soking/planlegg-soket-ditt.html#valg-av-databaser)
@@ -55,7 +55,7 @@ Vekttap
 :::
 ::::
 
-I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» (C). Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
+I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» (C) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
 :::::
 
 Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar I (intervensjon), andre ganger mangler C (sammenligning) og andre ganger finnes ingen tydelig formulert O (utfall).
@@ -218,15 +218,13 @@ De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehi
 | 4     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
 :::
 
-Forklaring: 
-
 Topic = søk på tekstord i følgende felt i referansen: title, abstract og author keyword og keywords plus
 
 ## Gjennomgang av søkeresultat
 
-En gjennomgang av trefflisten kan av og til gi ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. I eksempelet over der vi så på sosiale ulikheter innenfor utdanningssystemet, viste gjennomgangen av trefflisten at mange studier er gjort på kun deler av utdanningsløpet. Muligens ville det være lurt å snevre inn problemstillingen slik at den kun omhandler enten grunnskole eller høyere utdanning. Eventuelt kan gjennomgangen av trefflisten føre til at du ønsker å dreie problemstillingen din. I eksemplet vårt kunne det for eksempel være å se på hvorfor globalisering påvirker sosiale ulikheter innenfor utdanningssystemet.
+En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevgring skyldes psykiske vasker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsvering eller dreining av problemstillingen - eller begge deler som vårt eksempel viser.
 
-De enkelte databasene tilbyr også muligheter for å avgrense/snevre inn en treffliste. Du kan for eksempel avgrense på:
+De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
 
 * årstall
 * publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
@@ -251,8 +249,8 @@ I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, be
 * har du benyttet andre søkefasiliteter i databasen?
 * dato for når søket ble foretatt
 
-[Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
+[Last ned ditt eget skjema her.](https://universityofbergen-my.sharepoint.com/:w:/g/personal/kathrine_cohen_uib_no/ETbSRRwWwV9MuicTTj7RLYABlNhB-uhS-4gUiORHv-94EA?e=zmZlE6)
 
 ::: tip Tips
-Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken database du har søkt i.
+Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken databaser du har søkt i.
 :::
