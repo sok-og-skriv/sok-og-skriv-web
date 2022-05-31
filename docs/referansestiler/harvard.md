@@ -36,6 +36,9 @@ Bok med fire eller flere forfattere:
 
 **Eksempel**
 Eriksen og Nielsen (2013, s. 14) hevder at …
+
+Et alternativ til "s." for å henvise til side er å bruke kolon:
+Eriksen og Nielsen (2013:14) hevder at …
 :::
 
 :::: ref
