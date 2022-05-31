@@ -136,11 +136,13 @@ BMI adj2 loss
 :::
 :::::
 
+
 *Husk at de synonyme søkeordene innenfor hver kolonne kombineres med ELLER, så kombineres alle treffene i de tre kolonnene med OG.*
+
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
-Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via søkehistorikken (internlenke til #Søkehistorikk) i Ovid Medline:
+Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](https://sok-og-skriv-git-568-oppdatere-systematisk-soking-uib-ub.vercel.app/soking/systematisk-soking.html#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
 
 | #  | Søk                                    | Resultat |
 | -- | -------------------------------------- | -------- |
@@ -222,7 +224,7 @@ Topic = søk på tekstord i følgende felt i referansen: title, abstract og auth
 
 ## Gjennomgang av søkeresultat
 
-En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevgring skyldes psykiske vasker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsvering eller dreining av problemstillingen - eller begge deler som vårt eksempel viser.
+En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsnevring eller dreining av problemstillingen - eller begge deler, som vårt eksempel viser.
 
 De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
 
@@ -233,7 +235,10 @@ De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflist
 * forskningsmetode
 * fagområde
 
-Husk at enhver avgrensing kan føre til at du går glipp av viktig informasjon. Til slutt må du vurdere den enkelte artikkels kvalitet og relevans i forhold til problemstillingen din.
+::: warning Husk at:
+* enhver avgrensing kan føre til at du går glipp av viktig informasjon
+* den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
+:::
 
 ## Lagring av søk
 
@@ -241,7 +246,7 @@ De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikk
 
 ## Dokumentasjon av søk
 
-I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Du bør si noe om:
+I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Da bør du si noe om:
 
 * hvilke databaser du har valgt å søke i
 * hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
