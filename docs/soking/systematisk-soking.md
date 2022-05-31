@@ -164,7 +164,7 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [
 | 16 | "Nutrition behavi\*".mp.               | 204      |
 | 17 | "Eating habit\*".mp.                   | 6428     |
 | 18 | "Food habit\*".mp.                     | 2449     |
-| 19 | "Eating behavi\".                      | 5835     |
+| 19 | "Eating behavi\*".                     | 5835     |
 | 20 | 13 or 14 or 15 or 16 or 17 or 18 or 19 | 567773   |
 | 21 | Weight Loss/                           | 39801    |
 | 22 | "Weight loss".mp.                      | 108601   |
