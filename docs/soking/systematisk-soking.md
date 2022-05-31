@@ -74,9 +74,9 @@ Fedme
 
 Høy BMI
 
-Overweight/
+Overweight
 
-Obesity/
+Obesity
 
 High BMI
 
@@ -90,9 +90,9 @@ Mosjon
 
 Fysisk aktivitet 
 
-Exercise/ 
+Exercise 
 
-Gymnastics/ 
+Gymnastics 
 
 Physical activity
 :::
@@ -108,17 +108,17 @@ Diett
 
 Ernæring 
 
-Diet/ 
+Diet 
 
-Nutrition habit* 
+Nutrition habits 
 
-Nutrition behavi*
+Nutrition behavior
 
-Eating habit* 
+Eating habits 
 
-Food habit* 
+Food habits 
 
-Eating behavi*
+Eating behavior
 :::
 
 ::: picoboks O
@@ -126,13 +126,13 @@ Vekttap
 
 Vektreduksjon 
 
-Weigt loss/ 
+Weigt loss
 
-Weight adj2 reduc* 
+Weight reduction 
 
-BMI adj2 reduc* 
+BMI reduction
 
-BMI adj2 loss
+BMI loss
 :::
 :::::
 
@@ -181,7 +181,7 @@ mp = søk på tekstord i følgende felt i referansen: title, abstract, original 
 
 **/** = søketermen er hentet fra emneordlisten MeSH
 
-**adjx** = søketermene kan opptre i begge rekkefølger, med inntil 1 ord mellom
+**adjx** = søketermene kan opptre i begge rekkefølger, med inntil x ord mellom
 
 **exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
 ::::::
@@ -196,9 +196,9 @@ Bruk de tematiske elementene til å lage en søketabell med oversikt over de tem
 |skolevegring                   |tenåringer         |
 |skolevegringsatferd            |ungdom             |
 |skolenekt                      |ungdomstrinnet     |
-|skolefobi                      |Videregående       |
-|school refusal                 |Teenagers          |
-|school avoidance               |Adolescents        |
+|skolefobi                      |videregående       |
+|school refusal                 |teenagers          |
+|school avoidance               |adolescents        |
 |school phobia                  |youth              |
 |self exclusion from school     |secondary school   |
 |                               |secondary education|
