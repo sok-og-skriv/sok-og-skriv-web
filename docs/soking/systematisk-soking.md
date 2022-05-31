@@ -20,7 +20,7 @@ Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
 Problemstillingen inneholder problematikken *skolevegring* og populasjonen *tenåringer*, som dermed utgjør de tematiske elementene.
 :::
 
-De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](https://sok-og-skriv-gitlab-io-git-568-oppdatere-systemat-08fd49-seidhr.vercel.app/soking/planlegg-soket-ditt.html#valg-av-databaser)
+De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](./planlegg-soket-ditt.md#valg-av-databaser)
 
 
 :::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
@@ -142,7 +142,7 @@ BMI adj2 loss
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
-Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](./soking/systematisk-soking.md#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
+Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
 
 | #  | Søk                                    | Resultat |
 | -- | -------------------------------------- | -------- |
