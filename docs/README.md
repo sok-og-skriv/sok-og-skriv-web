@@ -13,7 +13,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/soking/">Søking</a></h2>
-      <p>Få hjelp til å søke etter informasjon og komme i gang med oppgaveskriving.</p>
+      <p>Få hjelp til å søke etter informasjon og komme i gang med oppgaveskriving</p>
     </div>
   </div>
 
@@ -23,7 +23,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/studieteknikk/">Studieteknikk</a></h2>
-      <p>Her får du tips om hvordan du kan lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper.</p>
+      <p>Her får du tips om hvordan du kan lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper</p>
     </div>
   </div>
 
@@ -33,7 +33,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/skriving/">Skriving</a></h2>
-      <p>I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil.</p>
+      <p>I akademisk skriving stilles det bestemte krav til form og innhold, språk og stil</p>
     </div>
   </div>
 
@@ -43,7 +43,17 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/kjeldebruk/">Kjeldebruk</a></h2>
-      <p>All forsking bygger på kjelder. Det finst fleire vilkår for å vurdere relevans og kvalitet.</p>
+      <p>All forsking bygger på kjelder. Få hjelp til å vurdere relevans, kvalitet og korleis unngå plagiat</p>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="image">
+      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt="Kjeldebruk"></a>
+    </div>
+    <div class="content">
+      <h2><a href="/frasebank/">Frasebank</a></h2>
+      <p>Her finner du eksempler på ord og vendinger som er mye brukt i akademiske tekster</p>
     </div>
   </div>
 </div>

@@ -46,6 +46,7 @@ module.exports = {
               { text: 'Vancouver', link: '/referansestiler/vancouver' }
             ] */
           },
+          { text: "Frasebank", link: "/frasebank/" },
           { text: "Videoer", link: "/video/soking" },
         ],
         sidebar: {
