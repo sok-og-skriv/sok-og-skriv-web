@@ -232,7 +232,7 @@ De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflist
 * publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
 * språk
 * geografisk område
-* Aldersgruppe
+* aldersgruppe
 * forskningsmetode
 * fagområde
 
