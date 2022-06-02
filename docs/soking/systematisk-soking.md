@@ -126,7 +126,7 @@ Vekttap
 
 Vektreduksjon 
 
-Weigt loss
+Weight loss
 
 Weight reduction 
 
@@ -232,6 +232,7 @@ De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflist
 * publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
 * språk
 * geografisk område
+* Aldersgruppe
 * forskningsmetode
 * fagområde
 
@@ -251,7 +252,7 @@ I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, be
 * hvilke databaser du har valgt å søke i
 * hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
 * har du benyttet databasens emneordsliste?
-* har du benyttet andre søkefasiliteter i databasen?
+* har du benyttet noen av filtrene i databasen?
 * dato for når søket ble foretatt
 
 [Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
