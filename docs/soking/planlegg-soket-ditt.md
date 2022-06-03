@@ -26,7 +26,7 @@ I modulen "Søking" tar vi først og fremst sikte på å gi deg en innføring i 
 
 + Få tips fra veileder eller foreleser
 + Lete i referanselister til relevante artikler eller bokkapitler
-+ Fra lister over hvem som har sitert relevante artikler/kapitler: Søkeverktøy som Web of Science og Google Scholar gir informasjon om siteringer
++ Fra lister over hvem som har sitert relevante artikler/kapitler: Søkeverktøy som _Web of Science_ og _Google Scholar_ gir informasjon om siteringer
 + Søke i tidsskrifter som kan være relevant
 + Gjøre søk på forfattere du vet har publisert innenfor aktuell tematikk
 
@@ -36,11 +36,11 @@ I modulen "Søking" tar vi først og fremst sikte på å gi deg en innføring i 
 Gjennom fagbibliotekenes nettsider får du tilgang til databaser som dekker et bredt spekter av fagområder. En database er et elektronisk arkiv som inneholder ulike typer kilder. Noen databaser er tverrfaglige, mens andre dekker avgrensede fagområder. De fagspesifikke databasene gir bedre dekning av litteraturen på fagområdet enn de mer generelle databasene.
 
 Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen databaser dekker alt; de overlapper og utfyller hverandre. Derfor er det viktig å søke i flere databaser for å få oversikt. Nedenfor finner du et utvalg tverrfaglige databaser som kan være et godt utgangspunkt for søk før du går videre til de fagspesifikke databasene:
-*	Oria er forskningsbibliotekenes søkeverktøy. Her finner du blant annet fagbøker, masteroppgaver, doktorgradsavhandlinger og tidsskriftsartikler.
+*	_Oria_ er forskningsbibliotekenes søkeverktøy. Her finner du blant annet fagbøker, masteroppgaver, doktorgradsavhandlinger og tidsskriftsartikler.
 *	_Google Scholar_ er den akademiske versjonen av _Google_. Den søker etter vitenskapelig litteratur fra ulike forlag og forskningsarkiv- og databaser. Kildene er av varierende kvalitet, så vær kildekritisk.
-*	Artikkelbasen Norart gir oversikt over norske og et utvalg nordiske tidsskriftsartikler. Basen dekker både populærvitenskapelige og vitenskapelige tidsskrifter.
+*	Artikkelbasen _Norart_ gir oversikt over norske og et utvalg nordiske tidsskriftsartikler. Basen dekker både populærvitenskapelige og vitenskapelige tidsskrifter.
 *	_Idunn_ dekker tidsskrifter som er utgitt på Universitetsforlaget, og er tilgjengelig i de fleste bibliotek i Norge.
-*	Publiseringsarkivet NORA gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren. 
+*	Publiseringsarkivet _NORA_ gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren. 
 
 ## Hvordan finne gode søkeord
 
@@ -52,19 +52,13 @@ For å unngå tilfeldig og usystematisk leting etter litteratur, kan det være l
 
 #### Språk og terminologi
 
+Bruk fagterminologi når du søker. Fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord. Fagspesifikke databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer og oversikt over relaterte begreper. Oria gir treff både på norsk og engelsk, men vær oppmerksom på at kan du gå glipp av svært mange aktuelle dokumenter dersom du kun velger norske søkeord. Om du søker på norsk, gir bokmål flere treff en nynorsk.
+
 ::: tip Tips 
 + Bruk fagterminologi
++ Merk at for hvert tematiske element kan det finnes mange synonymer eller relaterte begrep
 + Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen
 + Internasjonale databaser krever at du søker på engelsk
-:::
-
-Fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord. Fagspesifikke databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer og oversikt over relaterte begreper. Selv om Oria gir treff både på norsk og engelsk, kan du gå glipp av svært mange aktuelle dokumenter dersom du kun velger norske søkeord. Om du velger å søke på norsk, skal du være oppmerksom på at bokmål gir flere treff enn nynorsk.
-
-#### Valg av søkeord
-
-::: tip Tips 
-+ Merk at for hvert tematiske element kan det finnes mange synonymer eller relaterte begrep
-+ Vurder hvilke søkeord det vil være hensiktsmessig å bruke
 :::
 
 ## Avgrensing av søk
