@@ -1,5 +1,6 @@
 ---
 title: "Referansestiler"
+prev: "../kjeldebruk/kjeldevurdering"
 ---
 
 # Referansestiler
