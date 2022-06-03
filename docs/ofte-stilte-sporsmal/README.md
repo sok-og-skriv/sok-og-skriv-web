@@ -7,3 +7,15 @@ tags:
 ---
 
 # Ofte stilte spørsmål
+
+## APA 7
+
+::: details Ingen kategorier passer 
+Norsk apa-manual har flere eksempler enn Søk & Skriv: https://www.unit.no/tjenester/norsk-apa-referansestil.
+Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
+Du trenger fire typer opplysninger for å lage en referanse:
+Hvem: Forfatter, institusjon/organisasjon, departement osv
+Når: Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
+Tittel: Tittel. Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer [].
+Hvor: Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.
+:::  
