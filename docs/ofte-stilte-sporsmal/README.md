@@ -10,7 +10,7 @@ tags:
 
 ## APA 7
 
-:::: tip 
+::::  
 
 ::: details Ingen kategorier passer 
 Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
