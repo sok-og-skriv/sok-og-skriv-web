@@ -14,7 +14,7 @@ I den tidlige fasen av oppgaveskrivingen vil du gjerne orientere deg bredt for �
 *	Generelle oppslagsverk som _Store norske leksikon_ dekker et vidt spekter av emner og gir pekere til mer dyptgående kilder.
 *	Fagspesifikke oppslagsverk (for eksempel _International Encyclopedia of the Social & Behavioral Sciences_) gir grundige innføringer. Forfatterne er eksperter på sine felt og har kartlagt den sentrale litteraturen i oversiktsartikler.
 *	Lærebøker gir innføring i og henvisninger til kilder som går mer i dybden.
-*	Gjennom  _Nasjonalbibliotekets digitale avistjeneste_ får du tilgang til den norske samfunnsdebatten. Nyhetsarkivet _PressReader_  git deg tilgang til verdens ledende aviser og blader. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
+*	Gjennom  _Nasjonalbibliotekets digitale avistjeneste_ får du tilgang til den norske samfunnsdebatten. Nyhetsarkivet _PressReader_  gir deg tilgang til verdens ledende aviser og blader. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
 *	Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet. Se for eksempel _regjeringen.no_, _Statistisk sentralbyrå_,  _Verdensbanken_ og _Organisation for Economic Co-operation and Development (OECD)_.
 
 
@@ -53,7 +53,7 @@ For å unngå tilfeldig og usystematisk leting etter litteratur, kan det være l
 
 #### Språk og terminologi
 
-Bruk fagterminologi når du søker. Fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord. Fagspesifikke databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer og oversikt over relaterte begreper. Oria gir treff både på norsk og engelsk, men vær oppmerksom på at kan du gå glipp av svært mange aktuelle dokumenter dersom du kun velger norske søkeord. Om du søker på norsk, gir bokmål flere treff en nynorsk. Internasjonale databaser krever at du søker på engelsk.
+Bruk fagterminologi når du søker. Fagtermer kan finnes i ordbøker, lærebøker og fagartikler; les sammendrag og sjekk forfatternes egne emneord. Fagspesifikke databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer og oversikt over relaterte begreper. Oria gir treff både på norsk og engelsk, men vær oppmerksom på at du kan gå glipp av svært mange aktuelle dokumenter dersom du kun velger norske søkeord. Om du søker på norsk, gir bokmål flere treff en nynorsk. Internasjonale databaser krever at du søker på engelsk.
 
 ::: tip Tips 
 + Bruk fagterminologi
