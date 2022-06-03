@@ -14,8 +14,8 @@ I den tidlige fasen av oppgaveskrivingen vil du gjerne orientere deg bredt for �
 *	Generelle oppslagsverk som _Store norske leksikon_ dekker et vidt spekter av emner og gir pekere til mer dyptgående kilder.
 *	Fagspesifikke oppslagsverk (for eksempel _International Encyclopedia of the Social & Behavioral Sciences_) gir grundige innføringer. Forfatterne er eksperter på sine felt og har kartlagt den sentrale litteraturen i oversiktsartikler.
 *	Lærebøker gir innføring i og henvisninger til kilder som går mer i dybden.
-*	Gjennom nyhetsarkivet _PressReader_ og Nasjonalbibliotekets digitale avistjeneste får du tilgang til den norske samfunnsdebatten. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
-*	Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet. Se for eksempel www.regjeringen.no, _Statistisk sentralbyrå_,  _Verdensbanken_ og _Organisation for Economic Co-operation and Development_ (OECD).
+*	Gjennom  _Nasjonalbibliotekets digitale avistjeneste_ får du tilgang til den norske samfunnsdebatten. Nyhetsarkivet _PressReader_  git deg tilgang til verdens ledende aviser og blader. Begge arkivene er tilgjengelige i de fleste bibliotek i Norge.
+*	Offentlig informasjon, som utredninger, stortingsmeldinger og statistikk, ligger lett tilgjengelig på nettet. Se for eksempel _regjeringen.no_, _Statistisk sentralbyrå_,  _Verdensbanken_ og _Organisation for Economic Co-operation and Development (OECD)_.
 
 
 ## Finn faglitteratur
@@ -40,7 +40,8 @@ Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen d
 *	_Google Scholar_ er den akademiske versjonen av _Google_. Den søker etter vitenskapelig litteratur fra ulike forlag og forskningsarkiv- og databaser. Kildene er av varierende kvalitet, så vær kildekritisk.
 *	Artikkelbasen _Norart_ gir oversikt over norske og et utvalg nordiske tidsskriftsartikler. Basen dekker både populærvitenskapelige og vitenskapelige tidsskrifter.
 *	_Idunn_ dekker tidsskrifter som er utgitt på Universitetsforlaget, og er tilgjengelig i de fleste bibliotek i Norge.
-*	Publiseringsarkivet _NORA_ gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren. 
+*	Publiseringsarkivet _NORA_ gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren.
+*  _Web of Science_ er en internasjonal, tverrfaglig plattform for å finne forskningslitteratur, og den omfatter flere databaser. Den er tilgjengelig via de fleste fagbibliotek.
 
 ## Hvordan finne gode søkeord
 
@@ -52,13 +53,12 @@ For å unngå tilfeldig og usystematisk leting etter litteratur, kan det være l
 
 #### Språk og terminologi
 
-Bruk fagterminologi når du søker. Fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord. Fagspesifikke databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer og oversikt over relaterte begreper. Oria gir treff både på norsk og engelsk, men vær oppmerksom på at kan du gå glipp av svært mange aktuelle dokumenter dersom du kun velger norske søkeord. Om du søker på norsk, gir bokmål flere treff en nynorsk.
+Bruk fagterminologi når du søker. Fagtermer kan finnes i lærebøker, fagartikler og ordbøker. Les sammendrag og sjekk forfatternes egne emneord. Fagspesifikke databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer og oversikt over relaterte begreper. Oria gir treff både på norsk og engelsk, men vær oppmerksom på at kan du gå glipp av svært mange aktuelle dokumenter dersom du kun velger norske søkeord. Om du søker på norsk, gir bokmål flere treff en nynorsk. Internasjonale databaser krever at du søker på engelsk.
 
 ::: tip Tips 
 + Bruk fagterminologi
 + Merk at for hvert tematiske element kan det finnes mange synonymer eller relaterte begrep
 + Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen
-+ Internasjonale databaser krever at du søker på engelsk
 :::
 
 ## Avgrensing av søk
