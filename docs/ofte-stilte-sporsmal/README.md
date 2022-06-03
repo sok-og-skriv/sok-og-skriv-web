@@ -8,7 +8,9 @@ tags:
 
 # Ofte stilte spørsmål
 
-:::: tip APA 7
+## APA 7
+
+:::: tip 
 
 ::: details Ingen kategorier passer 
 Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
@@ -31,10 +33,12 @@ Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme pa
 
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
+
 Eksempel: (Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
 
 **Samme forfatter**:
 Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
+
 Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 :::  
