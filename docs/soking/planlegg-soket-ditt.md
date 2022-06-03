@@ -36,9 +36,8 @@ I modulen "Søking" tar vi først og fremst sikte på å gi deg en innføring i 
 Gjennom fagbibliotekenes nettsider får du tilgang til databaser som dekker et bredt spekter av fagområder. En database er et elektronisk arkiv som inneholder ulike typer kilder. Noen databaser er tverrfaglige, mens andre dekker avgrensede fagområder. De fagspesifikke databasene gir bedre dekning av litteraturen på fagområdet enn de mer generelle databasene.
 
 Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen databaser dekker alt; de overlapper og utfyller hverandre. Derfor er det viktig å søke i flere databaser for å få oversikt. Nedenfor finner du et utvalg tverrfaglige databaser som kan være et godt utgangspunkt for søk før du går videre til de fagspesifikke databasene:
-*	_Oria_ er forskningsbibliotekenes søkeverktøy. Her finner du blant annet fagbøker, masteroppgaver, doktorgradsavhandlinger og tidsskriftsartikler.
+*	_Oria_ er fagbibliotekenes søkeverktøy. Her finner du blant annet fagbøker, masteroppgaver, doktorgradsavhandlinger og tidsskriftsartikler.
 *	_Google Scholar_ er den akademiske versjonen av _Google_. Den søker etter vitenskapelig litteratur fra ulike forlag og forskningsarkiv- og databaser. Kildene er av varierende kvalitet, så vær kildekritisk.
-*	Artikkelbasen _Norart_ gir oversikt over norske og et utvalg nordiske tidsskriftsartikler. Basen dekker både populærvitenskapelige og vitenskapelige tidsskrifter.
 *	_Idunn_ dekker tidsskrifter som er utgitt på Universitetsforlaget, og er tilgjengelig i de fleste bibliotek i Norge.
 *	Publiseringsarkivet _NORA_ gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren.
 *  _Web of Science_ er en internasjonal, tverrfaglig plattform for å finne forskningslitteratur, og den omfatter flere databaser. Den er tilgjengelig via de fleste fagbibliotek.
