@@ -21,7 +21,9 @@ Du trenger fire typer opplysninger for å lage en referanse:
 + **Tittel**: Tittel. Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
 + **Hvor**: Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.
 
-Til sammen blir dette:Forfatter. (År). Tittel [evt beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
+Til sammen blir dette:
+
+Forfatter. (År). _Tittel_ [evt beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
 :::  
 
 ::: details Flere kilder i samme parentes
