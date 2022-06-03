@@ -1,7 +1,6 @@
 ---
 title: "Akademisk frasebank"
 date: "2022-03-01"
-prev: "../referansestiler/vancouver"
 tags: 
   - "setninger"
   - "uttrykk"
