@@ -8,9 +8,9 @@ tags:
 
 # Ofte stilte spørsmål
 
-## APA 7
+:::: tip APA 7
 
-::: details **Ingen kategorier passer** 
+::: details Ingen kategorier passer 
 Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
 Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
@@ -34,3 +34,4 @@ Samme forfatter: Kildene skal stå i kronologisk rekkefølge, eldste til nyeste.
 Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 :::  
+::::
