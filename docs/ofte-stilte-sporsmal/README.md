@@ -31,12 +31,10 @@ Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme pa
 
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
-
 Eksempel: (Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
 
 **Samme forfatter**:
-Kildene skal stå i kronologisk rekkefølge, eldste til nyeste.
-
+Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
 Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 :::  
