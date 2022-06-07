@@ -55,7 +55,7 @@ For å unngå tilfeldig og usystematisk leting etter litteratur, kan det være l
 Bruk fagterminologi når du søker. Fagtermer kan finnes i ordbøker, lærebøker og fagartikler; les sammendrag og sjekk forfatternes egne emneord. Fagspesifikke databaser har en innebygd emneordsliste (tesaurus) over anerkjente fagtermer og oversikt over relaterte begreper. Oria gir treff både på norsk og engelsk, men vær oppmerksom på at du kan gå glipp av svært mange aktuelle dokumenter dersom du kun velger norske søkeord. Om du søker på norsk, gir bokmål flere treff en nynorsk. Internasjonale databaser krever at du søker på engelsk.
 
 ::: tip Tips 
-+ Bruk fagterminologi!
++ Bruk fagterminologi
 + Merk at for hvert tematiske element kan det finnes mange synonymer eller relaterte begrep
 + Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen
 :::
