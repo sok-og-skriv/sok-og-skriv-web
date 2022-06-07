@@ -318,25 +318,22 @@ a, p
   display: flex
   &:last-child
     margin-block-end: 1rem
-  /* grid-template-columns: 1fr
-  grid-gap: 1rem */
-  @media screen and (min-width: $MQNarrow)
-    /* grid-template-columns: 1fr 1fr 1fr 1fr */
-  @media screen and (max-width: $MQMobile)
-    /* grid-template-columns: 1fr */
   .pico-box
     flex-direction: column;
-    border: 2px solid $sosGreen
-    border-radius: 4px
+    flex-grow: 1;
+    border: 1px solid $sosGreen
+    border-radius: 2px
     text-align: center
-    padding: 1rem
+    padding: 0.2rem
+    padding-bottom: 0.3rem
     *
-      font-size: calc(10px + (18 - 10) * ((100vw - 300px) / (1600 - 300))) !important
+      font-size: calc(7px + (18 - 10) * ((100vw - 300px) / (1600 - 300))) !important
       line-height: calc(1.2em + (1.4 - 1.2) * ((100vw - 300px)/(1600 - 300))) !important
     &:not(:last-child)
       margin-inline-end: 10px
     @media screen and (max-width: $MQNarrow)
-      padding: 0.5rem
+      padding: 0.1rem
+      padding-bottom: 0.5rem
     p
       margin: 0
     ul
