@@ -29,6 +29,9 @@ module.exports = {
     'ulike-kjelder',
     'kjeldevurdering',
    ],
+  '/frasebank/': [
+    '',
+   ],
   '/referansestiler/': [
     '',
     'apa-6th',
