@@ -235,22 +235,6 @@ module.exports = {
       },
     ],
     [
-      "@vuepress/pwa",
-      {
-        serviceWorker: false,
-        updatePopup: {
-          "/": {
-            message: "Nytt innhold er tilgjenglig.",
-            buttonText: "Last inn på nytt",
-          },
-          "/en/": {
-            message: "New content is available.",
-            buttonText: "Refresh",
-          },
-        },
-      },
-    ],
-    [
       "vuepress-plugin-mathjax",
       {
         target: "svg",
@@ -268,14 +252,14 @@ module.exports = {
   ],
   head: [
     /* ['link', { rel: 'icon', href: `/sokogskriv2013.png` }], */
-    ["meta", { name: "charset", content: "UTF-8" }],
+    /* ["meta", { name: "charset", content: "UTF-8" }], */
     [
       "meta",
       { name: "viewport", content: "width=device-width, initial-scale=1" },
     ],
     ["link", { rel: "manifest", href: "/manifest.json" }],
     ["meta", { name: "theme-color", content: "#4daebf" }],
-    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    /* ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
@@ -500,6 +484,6 @@ module.exports = {
         content: "/images/icons/msapplication-icon-144x144.png",
       },
     ],
-    ["meta", { name: "msapplication-TileColor", content: "#000000" }],
+    ["meta", { name: "msapplication-TileColor", content: "#000000" }], */
   ],
 };
