@@ -244,6 +244,22 @@ module.exports = {
       },
     ],
     [
+      "@vuepress/pwa",
+      {
+        serviceWorker: false,
+        updatePopup: {
+          "/": {
+            message: "Nytt innhold er tilgjenglig.",
+            buttonText: "Last inn på nytt",
+          },
+          "/en/": {
+            message: "New content is available.",
+            buttonText: "Refresh",
+          },
+        },
+      },
+    ],
+    [
       "@vuepress/google-analytics",
       {
         ga: "UA-74198226-1",
@@ -257,7 +273,7 @@ module.exports = {
       "meta",
       { name: "viewport", content: "width=device-width, initial-scale=1" },
     ],
-    ["link", { rel: "manifest", href: "/manifest.json" }],
+    /* ["link", { rel: "manifest", href: "/manifest.json" }], */
     ["meta", { name: "theme-color", content: "#4daebf" }],
     /* ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
