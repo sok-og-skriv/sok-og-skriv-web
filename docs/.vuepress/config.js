@@ -38,7 +38,6 @@ module.exports = {
             /* ariaLabel: 'Referansestiler meny',
             items: [
               { text: 'Introduksjon', link: '/referansestiler/index' },
-              { text: 'APA 6th', link: '/referansestiler/apa-6th' },
               { text: 'APA 7th', link: '/referansestiler/apa-7th' },
               { text: 'Chicago forfatter-år', link: '/referansestiler/chicago-forfatter-aar' },
               { text: 'Chicago fotnoter', link: '/referansestiler/chicago-fotnoter' },

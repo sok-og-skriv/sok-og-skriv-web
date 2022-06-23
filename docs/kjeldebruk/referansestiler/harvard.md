@@ -10,7 +10,7 @@ Harvard-stiler er fellesbetegnelse for referanser hvor forfatter og årstall pla
 Søk & Skrivs norske versjon fra 2019 bygger på manualen  
 Pears, R. og Shields, G. (2019) _Cite them right_. 11. utg. London: Red Globe Press.
 
-Enkelte fag, som for eksempel biologi, inkluderer sidetall kun ved direkte sitat og ikke etter parafrasering. Det er derfor viktig å undersøke refereringspraksis for ditt fag. For andre varianter av parentesreferanser se [APA](/kildebruk-og-referanser/referansestiler/apa-6th/), [Chicago](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/), [MLA](/kildebruk-og-referanser/referansestiler/mla/).
+Enkelte fag, som for eksempel biologi, inkluderer sidetall kun ved direkte sitat og ikke etter parafrasering. Det er derfor viktig å undersøke refereringspraksis for ditt fag. For andre varianter av parentesreferanser se [APA](/kildebruk-og-referanser/referansestiler/apa-7th/), [Chicago](/kildebruk-og-referanser/referansestiler/chicago-forfatter-aar/), [MLA](/kildebruk-og-referanser/referansestiler/mla/).
 
 Les mer om [siteringer](/kildebruk-og-referanser/hvordan-referere/#sitater) og [henvisninger](/kildebruk-og-referanser/referansestiler/harvard/#henvisning).
 

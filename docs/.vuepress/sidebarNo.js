@@ -28,13 +28,12 @@ module.exports = {
     'korleis-skal-ein-referere',
     'ulike-kjelder',
     'kjeldevurdering',
-   ],
+  ],
   '/frasebank/': [
     '',
-   ],
+  ],
   '/referansestiler/': [
     '',
-    'apa-6th',
     'apa-7th',
     'chicago-forfatter-aar',
     'chicago-fotnoter',

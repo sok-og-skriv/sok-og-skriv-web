@@ -63,8 +63,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
   </div> -->
   <div class="content">
-    <span class="tags">
-      <span class="tag"><a href="/referansestiler/apa-6th.html">APA 6th</a></span>
+    <span class="tags"> 
       <span class="tag"><a href="/referansestiler/apa-7th.html">APA 7th</a></span>
       <span class="tag"><a href="/referansestiler/chicago-forfatter-aar.html">Chicago forfatter-år</a></span>
       <span class="tag"><a href="/referansestiler/chicago-fotnoter.html">Chicago fotnoter</a></span>
