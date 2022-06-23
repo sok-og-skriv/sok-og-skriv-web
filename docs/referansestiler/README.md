@@ -6,7 +6,6 @@ prev: "../kjeldebruk/kjeldevurdering"
 # Referansestiler
 
 <div class="tags">
-    <span class="tag is-large"><a href="/referansestiler/apa-6th.html">APA 6th</a></span>
     <span class="tag is-large"><a href="/referansestiler/apa-7th.html">APA 7th</a></span>
     <span class="tag is-large"><a href="/referansestiler/chicago-forfatter-aar.html">Chicago forfatter-år</a></span>
     <span class="tag is-large"><a href="/referansestiler/chicago-fotnoter.html">Chicago fotnoter</a></span>
