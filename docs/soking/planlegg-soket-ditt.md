@@ -42,9 +42,9 @@ Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen d
 *	Publiseringsarkivet _NORA_ gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren.
 *  _Web of Science_ er en internasjonal, tverrfaglig plattform for å finne forskningslitteratur, og den omfatter flere databaser. Den er tilgjengelig via de fleste fagbibliotek.
 
-## Hvordan finne gode søkeord
+## Finn gode søkeord
 
-Det første du må gjøre, er å finne gode søkeord (eller søketermer). Bruk problemstillingen som utgangspunkt og identifiser de tematiske elementene. Når du har de tematiske elementene klart for deg, må du finne egnede søkeord. Husk å ta med synonymer; finnes det flere begreper som beskriver de tematiske elementene du er ute etter?
+Gode søkeord (eller søketermer) er nøkkelen til å finne den litteraturen du trenger. Bruk problemstillingen som utgangspunkt og identifiser de tematiske elementene. Når du har de tematiske elementene klart for deg, må du finne egnede søkeord. Husk å ta med synonymer; finnes det flere begreper som beskriver de tematiske elementene du er ute etter?
 
 ::: tip Tips 
 For å unngå tilfeldig og usystematisk leting etter litteratur, kan det være lurt å sette opp en plan for søket. Det kan spare tid og sikre at alle de tematiske elementene i problemstillingen blir tatt med. Skriv ned hvilke søkeord du vil bruke, og hvordan du vil kombinere dem.
