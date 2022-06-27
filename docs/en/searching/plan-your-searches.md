@@ -43,7 +43,7 @@ Listed below are some interdisciplinary databases that can be used as a starting
 Good search terms are the key to finding the literature you are looking for. Use your research question as a starting point, and identify the thematic elements. When the thematic elements are sorted, you must find suitable search terms. Remember to include synonyms; are there more terms that are used to describe the thematic elements you are looking for?   
 
 ::: tip Tips 
-To avoid random and unsystematic searching, it might be a good idea set up a plan for your search. This will probably save you some time and ensure that all the thematic elements in your research question are included. Note which search terms you are planning to use and how to combine them using a [search table](/searching/searching-techniques.html#using-a-search-table).
+To avoid random and unsystematic searching, it might be a good idea set up a plan for your search. This will probably save you some time and ensure that all the thematic elements in your research question are included. Note which search terms you are planning to use and how to combine them using a [search table](https://sokogskriv.no/en/searching/searching-techniques.html#using-a-search-table).
 ::: 
 
 ### Language and terminology 
