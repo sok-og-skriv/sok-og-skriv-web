@@ -34,32 +34,33 @@ Through your library’s websites you have access to databases covering a wide r
 
 Listed below are some interdisciplinary databases that can be used as a starting point for searching before moving on to the field-specific databases: 
 
-*_Oria_ is the research libraries’ search tool. Here you will find, among others, textbooks, master theses, dissertations and journal articles. 
-*_Google Scholar_ is the academic collection of Google. It indexes scientific literature from scholarly archives and publishers. Most of the sources are reputable, but some might also be predatory – so be critical! 
-*_Idunn_ is Scandinavian University Press’ (Universitetsforlaget) digital publishing platform for academic journals and books. It is available in most libraries in Norway. 
-*The research archives _NORA_ and _Cristin (Current Research Information System in Norway)_ contains research done by the health and institute sector and the university and college sector. 
-
+::: eksempel
+-_Oria_ is the research libraries’ search tool. Here you will find, among others, textbooks, master theses, dissertations and journal articles. 
+-_Google Scholar_ is the academic collection of Google. It indexes scientific literature from scholarly archives and publishers. Most of the sources are reputable, but some might also be predatory – so be critical! 
+-_Idunn_ is Scandinavian University Press’ (Universitetsforlaget) digital publishing platform for academic journals and books. It is available in most libraries in Norway. 
+-The research archives _NORA_ and _Cristin (Current Research Information System in Norway)_ contains research done by the health and institute sector and the university and college sector.
+:::
 
 ## Finding good search tems
 Good search terms are the key to finding the literature you are looking for. Use your research question as a starting point, and identify the thematic elements. When the thematic elements are sorted, you must find suitable search terms. Remember to include synonyms; are there more terms that are used to describe the thematic elements you are looking for?   
 
 ::: tip Tips 
-_To avoid random and unsystematic searching, it might be a good idea set up a plan for your search. This will probably save you some time and ensure that all the thematic elements in your research question are included. Note which search terms you are planning to use and how to combine them using a [search table](/searching/searching-techniques.html#using-a-search-table)._
+To avoid random and unsystematic searching, it might be a good idea set up a plan for your search. This will probably save you some time and ensure that all the thematic elements in your research question are included. Note which search terms you are planning to use and how to combine them using a [search table](/searching/searching-techniques.html#using-a-search-table).
 ::: 
 
-#Language and terminology 
+# Language and terminology 
 
 Use subject related terminology when you are searching. Subject related terminology can be found in dictionaries, textbooks and scientific articles; read abstracts and check author’s keywords. Subject specific databases have built-in thesauruses with recognized subject terms and their associated synonyms. Also, consider that though Oria provides search results in both Norwegian and English, you might miss many relevant documents if you only choose Norwegian search terms. Most international databases require that you search in English.  
 
 ::: tip Tips 
 
-_*Use subject specific terminology.
+-Use subject specific terminology.
 
-*Note that for each thematic element many synonyms and related terms might be found and relevant to include. 
+-Note that for each thematic element many synonyms and related terms might be found and relevant to include. 
 
-*Keep in mind that terms which are useful in one database may be less useful in another._
+-Keep in mind that terms which are useful in one database may be less useful in another.
 :::
 
-##Limiting your search
+## Limiting your search
 Use the search tools' options to limit a long result list. In most cases you can limit to publication year, language, document type and larger subject fields. But beware; any limitation can lead to loosing important information. 
 
