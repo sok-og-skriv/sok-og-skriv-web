@@ -1,5 +1,5 @@
 ---
-title: "Plan your searches"
+title: "Plan your search"
 date: "2012-03-16"
 ---
 
@@ -46,7 +46,7 @@ Good search terms are the key to finding the literature you are looking for. Use
 To avoid random and unsystematic searching, it might be a good idea set up a plan for your search. This will probably save you some time and ensure that all the thematic elements in your research question are included. Note which search terms you are planning to use and how to combine them using a [search table](/searching/searching-techniques.html#using-a-search-table).
 ::: 
 
-# Language and terminology 
+### Language and terminology 
 
 Use subject related terminology when you are searching. Subject related terminology can be found in dictionaries, textbooks and scientific articles; read abstracts and check author’s keywords. Subject specific databases have built-in thesauruses with recognized subject terms and their associated synonyms. Also, consider that though Oria provides search results in both Norwegian and English, you might miss many relevant documents if you only choose Norwegian search terms. Most international databases require that you search in English.  
 
