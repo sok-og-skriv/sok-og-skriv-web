@@ -1,184 +1,521 @@
 ---
-title: "Systematic searching"
+title: "How to do systematic searching"
 date: "2017-11-13"
 next: "../study-skills/"
 ---
 
-# Systematic searching
+# How to do systematic searching
+When you do a systemastic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the serach i repeated, it must show the same result. In increasingly degree, it is expected from students that they are able to do systematic searches for research results. This is is especially important to subject areas that rely on knowledge based practice.
 
 ## Research question
 
-Before conducting a systematic search, you need to [develop a clear research question](/en/writing/getting-started.html "From topic to research question"). This allows a precise expression of your information needs and makes searching easier.
+A Research question consists of two or more thematic elements. Before you can do a systematic search, you should structure your research question and sort out the thematic elements. The transistion to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
 
-The PICO form can be used to structure your research question and identify its most important elements.  The acronym stands for central elements of a research question in the medical sciences.
+* What are the issue/problem?
+* Are any intervention/measure/a phenonomen mentioned?
+* What population/group of people are we talking about?
+* Is the reserach question concidering any special setting/context? 
 
-**P** patient, population, participants, problem, diagnosis
-**I** intervention, action/decision, exposure
-**C** comparison, control or alternative intervention
-**O** outcome, result, achievement (the new information you are looking for)
+It is not necessarily the case that the research question contain all these themastic elements.
 
-Currently PICO is the most used framework within medicine and healthcare. PICO clarifies what/who your research question deals with, it shows which intervention you want to examine, and which results you are trying to accomplish.
+::: eksempel Example
+What do we know about the reasons for **school refusal** among **teenagers**?
 
-### The application of PICO on two research questions from the health field
+The research question consists of the problem **school refusal** and the population **teenagers**, and these two are the thematic elements of this research question.
+:::
 
-::::: eksempel Question 1: Do children with diabetes cope better with their disease when treated by a specialist at home rather than at a hospital?
+The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](internlenke)
+
+:::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
+PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
+
+**P**: (problem/patient): pasient/pasientgruppe/diagnose <br />
+**I**: (intervention): tiltak/eksponering <br />
+**C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering <br />
+**O**: (outcome): utfall (det du vil ha ny kunnskap om)
+
+PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
+
+**Anvendelse av PICO**
+
+::::: eksempel Er trening eller kosthold mest effektivt for å behandle overvekt?
 
 :::: picoskjema
 ::: picoboks P
-Children with diabetes
+Overvektige
 :::
 
 ::: picoboks I
-Home-based treatment
+Trening
 :::
 
 ::: picoboks C
-Hospital-based treatment
+Kosthold
 :::
 
 ::: picoboks O
-Mestring av egen sykdom
+Vekttap
 :::
 ::::
 
-In this example, we are interested in the effect of the decision “home-based treatment” (**I**) in contrast to the effect of “hospital-based treatment” (**C**). We are interested in finding studies that compare the effects of these two decisions. The outcome we want to measure (**O**) is how these patient groups are coping with their disease. It is not always necessary to use all four elements of the PICO-form. Sometimes the research question may not have a clear intervention (**I**) part, or it may also lack the element of comparison (**C**), or there may not be any clearly formulated outcome (**O**). Question 2 below is an illustration of a research question that contains only **P** and **O**.
+I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» \(C\) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
 :::::
 
-::::: eksempel Question 2: How do diabetic children and adolescents who use insulin pumps perceive their quality of life?
+Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar I (intervensjon), andre ganger mangler C (sammenligning) og andre ganger finnes ingen tydelig formulert O (utfall).
+
+::::: eksempel PICO-skjema med forslag til synonymer
+
+Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmålet «er trening eller kosthold mest effektivt for å behandle overvekt?»
 
 :::: picoskjema
 ::: picoboks P
-Children and adolescents who use insulin pumps
+Overvektige
+
+Overvekt
+
+Fedme
+
+Høy BMI
+
+Overweight
+
+Obesity
+
+High BMI
+
+Excess weight
 :::
 
 ::: picoboks I
+Trening
+
+Mosjon 
+
+Fysisk aktivitet 
+
+Exercise 
+
+Gymnastics 
+
+Physical activity
 :::
 
 ::: picoboks C
+Kosthold
+
+Mat
+
+Matvaner 
+
+Diett 
+
+Ernæring 
+
+Diet 
+
+Nutrition habits 
+
+Nutrition behavior
+
+Eating habits 
+
+Food habits 
+
+Eating behavior
 :::
 
 ::: picoboks O
-Quality of life
-:::
-::::
+Vekttap
 
-In this example we take into consideration the patient groups from question 1, but now the question focuses only on diabetic children and adolescents who are already using an insulin pump. However, the question does not specify any decision or action that we intend to measure the effect of. Therefore, this question has neither **I** nor **C**. What we want to know is how these patients are experiencing their own situation (**O**).
+Vektreduksjon 
+
+Weight loss
+
+Weight reduction 
+
+BMI reduction
+
+BMI loss
+:::
 :::::
 
-It is not always appropriate to fill in all the four elements of the PICO-form. Sometimes there is no clear **I (Intervention)** available, other times **C (Comparison)** might be missing, and some other times there is no clearly formulated **O (Outcome)**. Question number 2 below is an example of an occasion in which we only have a clearly defined **P** and **O**.
 
-## Search terms
+*Husk at de synonyme søkeordene innenfor hver kolonne kombineres med ELLER, så kombineres alle treffene i de tre kolonnene med OG.*
 
-When you have outlined the most important parts of the research question with the help of, for example, the PICO form, you must work further to find precise subject-related terms and their synonyms that can be used in the search for relevant literature.
 
-Medical Subject Headings (MeSH) is the most well-known subject-related wordlist within health-related subjects. It is used in several health-related databases.
+::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
-To make sure to find all relevant articles, one should include synonyms for each keyword in the searching. If you chose to search via a subject-related wordlist in a database (for example MeSH), it will automatically include some of the synonyms in the search. Nevertheless, it is useful to supplement the search with words picked out from the author's keywords or from the article’s abstract.
+Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
 
-::::: eksempel Example: PICO-form with synonym suggestions
+| #  | Søk                                    | Resultat |
+| -- | -------------------------------------- | -------- |
+| 1  | exp Overweight/                        | 242260   |
+| 2  | Overweight.mp.                         | 82734    |
+| 3  | exp Obesity/                           | 235058   |
+| 4  | obesity.mp.                            | 360477   |
+| 5  | "High BMI".mp.                         | 4118     |
+| 6  | "Excess Weight".mp.                    | 5883     |
+| 7  | 1 or 2 or 3 or 4 or 5 or 6             | 388184   |
+| 8  | exp Exercise/                          | 221169   |
+| 9  | Exercise.mp                            | 386937   |
+| 10 | Gymnastic\*.mp.                        | 3790     |
+| 11 | "Physical activit\*".mp.               | 127039   |
+| 12 | 8 or 9 or 10 or 11                     | 508008   |
+| 13 | exp Diet/                              | 305094   |
+| 14 | Diet.mp.                               | 506370   |
+| 15 | "Nutrition habit\*".mp.                | 252      |
+| 16 | "Nutrition behavi\*".mp.               | 204      |
+| 17 | "Eating habit\*".mp.                   | 6428     |
+| 18 | "Food habit\*".mp.                     | 2449     |
+| 19 | "Eating behavi\*".                     | 5835     |
+| 20 | 13 or 14 or 15 or 16 or 17 or 18 or 19 | 567773   |
+| 21 | Weight Loss/                           | 39801    |
+| 22 | "Weight loss".mp.                      | 108601   |
+| 23 | (Weight adj2 reduc\*).mp.              | 30373    |
+| 24 | (BMI adj2 reduc\*).mp.                 | 2466     |
+| 25 | (BMI adj2 loss).mp.                    | 897      |
+| 26 | 21 or 22 or 23 or 24 or 25             | 129477   |
+| 27 | 7 and 12 and 20 and 26                 | 6859     |
+:::
 
-Below you can see a filled out PICO-form with synonym suggestions connected to question 2:
+Forklaring:
 
-How do children and adolescents who use insulin pumps experience life quality?
+mp = søk på tekstord i følgende felt i referansen: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
+
+**/** = søketermen er hentet fra emneordlisten MeSH
+
+**adjx** = søketermene kan opptre i begge rekkefølger, med inntil x ord mellom
+
+**exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
+::::::
+
+## Søkeord
+Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+
+::: eksempel Eksempel: Søketabell
+
+| Skolevegring                  | Tenåringer        |
+| ----------------------------- | ----------------- |
+|skolevegring                   |tenåringer         |
+|skolevegringsatferd            |ungdom             |
+|skolenekt                      |ungdomstrinnet     |
+|skolefobi                      |videregående       |
+|school refusal                 |teenagers          |
+|school avoidance               |adolescents        |
+|school phobia                  |youth              |
+|self exclusion from school     |secondary school   |
+|                               |secondary education|
+|                               |high school        |
+:::
+
+
+## Kombinasjon av søkeord i databasens søkehistorikk
+
+De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
+
+::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Web of Science
+
+
+| SØK # | DATO       | SØKEORD/KOMBINASJON                                                                                        | ANTALL TREFF |
+| ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
+| 1     | 24/03/2022 | "school refus*" OR school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)               | 955          |
+| 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secondary school*" OR "high school*" (Topic)| 715,182      |
+| 4     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
+:::
+
+Topic = søk på tekstord i følgende felt i referansen: title, abstract og author keyword og keywords plus
+
+## Gjennomgang av søkeresultat
+
+En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsnevring eller dreining av problemstillingen - eller begge deler, som vårt eksempel viser.
+
+De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
+
+* årstall
+* publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
+* språk
+* geografisk område
+* aldersgruppe
+* forskningsmetode
+* fagområde
+
+::: warning Husk at:
+* enhver avgrensing kan føre til at du går glipp av viktig informasjon
+* den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
+:::
+
+## Lagring av søk
+
+De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikken via e-post. Søkehistorikken viser hvilken database du har søkt i, hvilke søkeord du har brukt, hvordan søkeordene er kombinert og hvor mange treff du har fått. Dette kan være svært nyttig informasjon å ta vare på hvis du for eksempel ønsker å bygge videre på søket, eller hvis du ønsker å foreta det samme søket i en annen database.
+
+## Dokumentasjon av søk
+
+I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Da bør du si noe om:
+
+* hvilke databaser du har valgt å søke i
+* hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
+* har du benyttet databasens emneordsliste?
+* har du benyttet noen av filtrene i databasen?
+* dato for når søket ble foretatt
+
+[Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
+
+::: tip Tips
+Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken databaser du har søkt i.
+:::
+ easier. Here are a few help questions that can guide you when you are sorting out the thematsic elements: 
+
+* Er det snakk om en problematikk?
+* Er det snakk om en intervensjon/et tiltak/et utfall/et fenomen?
+* Er det snakk en populasjon/gruppe med mennesker?
+* Er det snakk om setting/kontekst?
+
+Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inneholder samtlige tematiske elementer over. 
+
+::: eksempel Eksempel
+
+Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
+
+Problemstillingen inneholder problematikken *skolevegring* og populasjonen *tenåringer*, som dermed utgjør de tematiske elementene.
+:::
+
+De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](./planlegg-soket-ditt.md#valg-av-databaser)
+
+
+:::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
+PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
+
+**P**: (problem/patient): pasient/pasientgruppe/diagnose <br />
+**I**: (intervention): tiltak/eksponering <br />
+**C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering <br />
+**O**: (outcome): utfall (det du vil ha ny kunnskap om)
+
+PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
+
+**Anvendelse av PICO**
+
+::::: eksempel Er trening eller kosthold mest effektivt for å behandle overvekt?
 
 :::: picoskjema
 ::: picoboks P
-Children and adolescents who use insulin pumps
-
-- **Søkeord**
-- Diabetes melitus
-- Type 1 insulin dependent diabetes
-- Youth, Teenager
-- Adolescent, Child
-- Insulin infusion system
-- Infusion pump
+Overvektige
 :::
 
 ::: picoboks I
+Trening
 :::
 
 ::: picoboks C
+Kosthold
 :::
 
 ::: picoboks O
-Life quality
-
-- **Søkeord**
-- Quality of life
-- Wellness
-- Well being
+Vekttap
 :::
 ::::
+
+I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» \(C\) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
 :::::
 
-## Combination of search terms
+Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar I (intervensjon), andre ganger mangler C (sammenligning) og andre ganger finnes ingen tydelig formulert O (utfall).
 
-All major article databases give you access to a search history. The search history displays which subject-related terms you have looked up, how they are combined, and how many hits each search has resulted in. The searching process becomes flexible and clear if you choose to search one word at a time and then combine the searches with AND, OR or NOT in the search history.
+::::: eksempel PICO-skjema med forslag til synonymer
 
-::: details EXAMPLE: Systematic search presented via search history
-Here you can see the search history of a search based on Question 2:
+Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmålet «er trening eller kosthold mest effektivt for å behandle overvekt?»
 
-How do children and adolescents who use insulin pumps experience life quality?
+:::: picoskjema
+::: picoboks P
+Overvektige
 
-The search has been conducted in the Medline-Ovid database 1996 and up until today. Date of searching: 04.04.2014
+Overvekt
 
-| #        | Searches                                          | Results |
-|----------|---------------------------------------------------|---------|
-| 1        | exp Diabetes Mellitus, Type 1/                    | 35330   |
-| 2        | (insulin adj dependent).tw.                       | 10687   |
-| 3        | 1 or 2                                            | 41759   |
-| 4        | (youth or teenager* or adolescent* or child*).tw. | 591106  |
-| 5        | exp Adolescent/                                   | 821820  |
-| 6        | exp Child/                                        | 721155  |
-| 7        | 4 or 5 or 6                                       | 1307311 |
-| 8        | exp «Quality of Life»/                            | 98652   |
-| 9        | (quality adj2 life).tw.                           | 118348  |
-| 10       | (life adj quality).tw.                            | 2843    |
-| 11       | (well adj being).tw.                              | 28740   |
-| 12       | Wellness.tw.                                      | 3183    |
-| 13       | 8 or 9 or 10 or 11 or 12                          | 174420  |
-| 14       | exp Insulin Infusion Systems/                     | 1794    |
-| 15       | (infusion adj pump*).tw.                          | 1266    |
-| 16       | exp Infusion Pumps/                               | 6397    |
-| 17       | 14 or 15 or 16                                    | 7034    |
-| 18       | 3 and 7 and 13 and 17                             | 100     |
+Fedme
+
+Høy BMI
+
+Overweight
+
+Obesity
+
+High BMI
+
+Excess weight
 :::
 
-## Explanation of Search History
+::: picoboks I
+Trening
 
-- **/ :** the slash indicates that the term is taken from the subject-related wordlist, Medical Subject Headings (MeSH)
-- **exp:** Explode indicates that subordinate terms have been included
-- **tw:** indicates that this search is based on a term taken from the title or the abstract of the article (not from MeSH)
-- **adj:** these search terms should act as a phrase, that is, one after the other in a given order
+Mosjon 
 
-## Review search results
+Fysisk aktivitet 
 
-A review of the search results may occasionally provide new insight that can cause you to reconsider and perhaps alter your original research question. Also, a very long hit list make evident that the research question is too broad and that it needs to be narrowed down and made more precise. In such cases the searching strategy need to be set up from scratch and the search will be adjusted according to the new research question. In the example above, reviewing the list of results showed that there is a huge difference in how children and adolescents experience living with an insulin pump. Perhaps, it would be a good idea to narrow the research question so that it concerns only children or adolescents. This review might eventually lead to you to focus the research question on why living with an insulin pump is experienced so differently for the two age groups.
+Exercise 
 
-Some databases offer an opportunity to limit/narrow down a hit list. You can for example narrow it down based on:
+Gymnastics 
 
-- Year
-- Type of publication (Research article or Research journals)
-- Language
-- Research method
-- Availability (for example full text)
-
-Keep in mind that limiting the search results might cause you to miss some important information.
-
-Finally, you must measure each article’s quality and relevance in relation to your research question.
-
-## Documenting the search
-
-In certain subjects, after completing the systematic search, you need to describe the actual search process thoroughly so that the reader is able to evaluate the quality of the search you have done and possibly repeat the same search later. You should say something about:
-
-- Which databases you have chosen to search in
-- Which search terms you have used in the various databases and how they have been combined (AND/OR/NOT)
-- Have you used the controlled subject terms of the database?
-- Have you used other search facilities in the database?
-- The date of when the search was composed
-
-::: tip Remember to note the database
-When you are ready with a search in a database, it is a good idea to save the search history so that you can retrieve it later. The search history is the best way to document your search. Remember to note which databases you have searched in.
+Physical activity
 :::
 
-See also PhD on track’s page on [systematic review searching](https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews)
+::: picoboks C
+Kosthold
+
+Mat
+
+Matvaner 
+
+Diett 
+
+Ernæring 
+
+Diet 
+
+Nutrition habits 
+
+Nutrition behavior
+
+Eating habits 
+
+Food habits 
+
+Eating behavior
+:::
+
+::: picoboks O
+Vekttap
+
+Vektreduksjon 
+
+Weight loss
+
+Weight reduction 
+
+BMI reduction
+
+BMI loss
+:::
+:::::
+
+
+*Husk at de synonyme søkeordene innenfor hver kolonne kombineres med ELLER, så kombineres alle treffene i de tre kolonnene med OG.*
+
+
+::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
+
+Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
+
+| #  | Søk                                    | Resultat |
+| -- | -------------------------------------- | -------- |
+| 1  | exp Overweight/                        | 242260   |
+| 2  | Overweight.mp.                         | 82734    |
+| 3  | exp Obesity/                           | 235058   |
+| 4  | obesity.mp.                            | 360477   |
+| 5  | "High BMI".mp.                         | 4118     |
+| 6  | "Excess Weight".mp.                    | 5883     |
+| 7  | 1 or 2 or 3 or 4 or 5 or 6             | 388184   |
+| 8  | exp Exercise/                          | 221169   |
+| 9  | Exercise.mp                            | 386937   |
+| 10 | Gymnastic\*.mp.                        | 3790     |
+| 11 | "Physical activit\*".mp.               | 127039   |
+| 12 | 8 or 9 or 10 or 11                     | 508008   |
+| 13 | exp Diet/                              | 305094   |
+| 14 | Diet.mp.                               | 506370   |
+| 15 | "Nutrition habit\*".mp.                | 252      |
+| 16 | "Nutrition behavi\*".mp.               | 204      |
+| 17 | "Eating habit\*".mp.                   | 6428     |
+| 18 | "Food habit\*".mp.                     | 2449     |
+| 19 | "Eating behavi\*".                     | 5835     |
+| 20 | 13 or 14 or 15 or 16 or 17 or 18 or 19 | 567773   |
+| 21 | Weight Loss/                           | 39801    |
+| 22 | "Weight loss".mp.                      | 108601   |
+| 23 | (Weight adj2 reduc\*).mp.              | 30373    |
+| 24 | (BMI adj2 reduc\*).mp.                 | 2466     |
+| 25 | (BMI adj2 loss).mp.                    | 897      |
+| 26 | 21 or 22 or 23 or 24 or 25             | 129477   |
+| 27 | 7 and 12 and 20 and 26                 | 6859     |
+:::
+
+Forklaring:
+
+mp = søk på tekstord i følgende felt i referansen: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
+
+**/** = søketermen er hentet fra emneordlisten MeSH
+
+**adjx** = søketermene kan opptre i begge rekkefølger, med inntil x ord mellom
+
+**exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
+::::::
+
+## Søkeord
+Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+
+::: eksempel Eksempel: Søketabell
+
+| Skolevegring                  | Tenåringer        |
+| ----------------------------- | ----------------- |
+|skolevegring                   |tenåringer         |
+|skolevegringsatferd            |ungdom             |
+|skolenekt                      |ungdomstrinnet     |
+|skolefobi                      |videregående       |
+|school refusal                 |teenagers          |
+|school avoidance               |adolescents        |
+|school phobia                  |youth              |
+|self exclusion from school     |secondary school   |
+|                               |secondary education|
+|                               |high school        |
+:::
+
+
+## Kombinasjon av søkeord i databasens søkehistorikk
+
+De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
+
+::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Web of Science
+
+
+| SØK # | DATO       | SØKEORD/KOMBINASJON                                                                                        | ANTALL TREFF |
+| ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
+| 1     | 24/03/2022 | "school refus*" OR school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)               | 955          |
+| 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secondary school*" OR "high school*" (Topic)| 715,182      |
+| 4     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
+:::
+
+Topic = søk på tekstord i følgende felt i referansen: title, abstract og author keyword og keywords plus
+
+## Gjennomgang av søkeresultat
+
+En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsnevring eller dreining av problemstillingen - eller begge deler, som vårt eksempel viser.
+
+De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
+
+* årstall
+* publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
+* språk
+* geografisk område
+* aldersgruppe
+* forskningsmetode
+* fagområde
+
+::: warning Husk at:
+* enhver avgrensing kan føre til at du går glipp av viktig informasjon
+* den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
+:::
+
+## Lagring av søk
+
+De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikken via e-post. Søkehistorikken viser hvilken database du har søkt i, hvilke søkeord du har brukt, hvordan søkeordene er kombinert og hvor mange treff du har fått. Dette kan være svært nyttig informasjon å ta vare på hvis du for eksempel ønsker å bygge videre på søket, eller hvis du ønsker å foreta det samme søket i en annen database.
+
+## Dokumentasjon av søk
+
+I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Da bør du si noe om:
+
+* hvilke databaser du har valgt å søke i
+* hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
+* har du benyttet databasens emneordsliste?
+* har du benyttet noen av filtrene i databasen?
+* dato for når søket ble foretatt
+
+[Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
+
+::: tip Tips
+Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken databaser du har søkt i.
+:::
