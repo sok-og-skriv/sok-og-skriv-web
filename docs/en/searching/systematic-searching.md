@@ -16,7 +16,7 @@ A Research question consists of two or more thematic elements. Before you can do
 * What population/group of people are we talking about?
 * Is the reserach question concidering any special setting/context? 
 
-It is not necessarily the case that the research question contain all these themastic elements.
+It is not necessarily the case that the research question contain all these thematic elements.
 
 ::: eksempel Example
 What do we know about the reasons for **school refusal** among **teenagers**?
@@ -26,54 +26,48 @@ The research question consists of the problem **school refusal** and the populat
 
 The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](internlenke)
 
-:::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
-PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
+:::::: details  The PICO and SPIDER framework are models used for structuring questions, often within health related sujects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health related reserach questions:
 
-**P**: (problem/patient): pasient/pasientgruppe/diagnose <br />
-**I**: (intervention): tiltak/eksponering <br />
-**C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering <br />
-**O**: (outcome): utfall (det du vil ha ny kunnskap om)
+**P**: (problem or patient) <br />
+**I**: (intervention) <br />
+**C**: (comparison) <br />
+**O**: (outcome) <br />
 
-PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
+PICO clarifies who or what your research question is about, what interventions are being scrutinized and what oucome you are interested in 
+**Application of PICO**
 
-**Anvendelse av PICO**
+::::: eksempel Is exercise or diet most efficient for treating overweight?
 
-::::: eksempel Er trening eller kosthold mest effektivt for å behandle overvekt?
-
-:::: picoskjema
-::: picoboks P
-Overvektige
+:::: pico table
+::: picobox P
+Overweight
 :::
 
-::: picoboks I
-Trening
+::: picobox I
+Excercise
 :::
 
-::: picoboks C
-Kosthold
+::: picobox C
+Diet
 :::
 
-::: picoboks O
-Vekttap
+::: picobox O
+Weightloss
 :::
 ::::
 
-I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» \(C\) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
+In the example above, we are intersted in the effect of the intervention "excercise" (I) in comparison to "diet" \(C\). That is, we are looking to find studies that compare these to interventions. We want to measure the weightloss (O) of people who are overweight (P).
 :::::
 
-Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar I (intervensjon), andre ganger mangler C (sammenligning) og andre ganger finnes ingen tydelig formulert O (utfall).
+It is not always appropriate to fill inn all the elements in the PICO table. Sometimes there are no clear I (intervention), C (comparison) is not specified, or no clear O (outcome) is expressed in the research question.
 
-::::: eksempel PICO-skjema med forslag til synonymer
+::::: eksempel PICO table with synomym suggestions
 
 Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmålet «er trening eller kosthold mest effektivt for å behandle overvekt?»
 
-:::: picoskjema
-::: picoboks P
-Overvektige
+:::: pico table
+::: pico box P
 
-Overvekt
-
-Fedme
 
 Høy BMI
 
@@ -83,34 +77,28 @@ Obesity
 
 High BMI
 
-Excess weight
+Excess Weight
+
+Overvektige
+
+Fedme
 :::
 
-::: picoboks I
-Trening
-
-Mosjon 
-
-Fysisk aktivitet 
-
+::: pico box I
 Exercise 
 
 Gymnastics 
 
 Physical activity
+
+Trening
+
+Mosjon 
+
+Fysisk aktivitet 
 :::
 
-::: picoboks C
-Kosthold
-
-Mat
-
-Matvaner 
-
-Diett 
-
-Ernæring 
-
+::: pico box C
 Diet 
 
 Nutrition habits 
@@ -122,13 +110,19 @@ Eating habits
 Food habits 
 
 Eating behavior
+
+Kosthold
+
+Mat
+
+Matvaner 
+
+Diett 
+
+Ernæring 
 :::
 
-::: picoboks O
-Vekttap
-
-Vektreduksjon 
-
+::: pico box O
 Weight loss
 
 Weight reduction 
@@ -136,12 +130,15 @@ Weight reduction
 BMI reduction
 
 BMI loss
+
+Vekttap
+
+Vektreduksjon 
 :::
 :::::
 
 
-*Husk at de synonyme søkeordene innenfor hver kolonne kombineres med ELLER, så kombineres alle treffene i de tre kolonnene med OG.*
-
+*Note that the *synonyms within* each column are combine with **OR**, and the columns are combined with **AND**. 
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
