@@ -187,7 +187,7 @@ mp = søk på tekstord i følgende felt i referansen: title, abstract, original 
 ::::::
 
 ## Søkeord
-Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene er inkludert i søket ditt, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
 
 ::: eksempel Eksempel: Søketabell
 
