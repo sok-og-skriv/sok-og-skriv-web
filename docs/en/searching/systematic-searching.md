@@ -140,9 +140,9 @@ Vektreduksjon
 
 *Note that the *synonyms within* each column are combine with **OR**, and the columns are combined with **AND**. 
 
-::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
+::: eksempel Example: Systematic search presented via search history
 
-Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
+Below you see an example of systematic search with explanation presented via the [search history](internlenke) in Ovid Medline:
 
 | #  | Søk                                    | Resultat |
 | -- | -------------------------------------- | -------- |
@@ -177,32 +177,30 @@ Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [
 
 Forklaring:
 
-mp = søk på tekstord i følgende felt i referansen: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
+mp = searching for textwords in the following fields of the reference: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
 
-**/** = søketermen er hentet fra emneordlisten MeSH
+**/** = the search term is fetched from the MeSH thesaurus.
 
-**adjx** = søketermene kan opptre i begge rekkefølger, med inntil x ord mellom
+**adj2** = finds terms in any order with 1 word (or none) between them.
 
-**exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
+**exp** = shows that narrower terms in the thesaurus are included.
 ::::::
 
-## Søkeord
-Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+## Search terms
+Use the thematic elements to set up a search table that gives an overview of the thematic elements and their search terms. In that way you ensure that all the elements are included in your search, at the same time not depending on which terms are used to describe the thematic elements.
 
-::: eksempel Eksempel: Søketabell
-
-| Skolevegring                  | Tenåringer        |
-| ----------------------------- | ----------------- |
-|skolevegring                   |tenåringer         |
-|skolevegringsatferd            |ungdom             |
-|skolenekt                      |ungdomstrinnet     |
-|skolefobi                      |videregående       |
+| School refusal                | Teenagers         |
+| ----------------------------- | ----------------- |     
 |school refusal                 |teenagers          |
 |school avoidance               |adolescents        |
 |school phobia                  |youth              |
 |self exclusion from school     |secondary school   |
 |                               |secondary education|
 |                               |high school        |
+|skolevegring                   |tenåringer         |
+|skolevegringsatferd            |ungdom             |
+|skolenekt                      |ungdomstrinnet     |
+|skolefobi                      |videregående       | 
 :::
 
 
