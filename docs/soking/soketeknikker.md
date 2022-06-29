@@ -69,7 +69,7 @@ Eksempel: Søk på **Diabetes OR Sukkersyke** gir treff på diabetes, sukkersyke
 
 Dersom du velger å kombinere to søkeord med NOT, får du treff på det ene ordet mens du utelater det som også handler om det andre søkeordet. Kombinasjoner med NOT kan utelate svært mange treff, så de bør brukes med varsomhet.
 
-Eksempel: Søk på **Diabetes NOT Insulinpumpe** gir treff på diabetes mens det utelater alt som i tillegg handler om svangerskaps-diabetes.
+Eksempel: Søk på **Diabetes NOT Svangerskaps-diabetes** gir treff på diabetes mens det utelater alt som i tillegg handler om svangerskaps-diabetes.
 
 <ClientOnly>
   <Venn 
