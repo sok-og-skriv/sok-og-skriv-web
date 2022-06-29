@@ -206,7 +206,7 @@ Use the thematic elements to set up a search table that gives an overview of the
 
 ## Combining search terms in the database search history
 
-Most academic databases provides an overview of your search history. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned The seaach process becomes flexible and evident if you choose to search for one word at the time, and then combine them in the serach history using AND, OR or NOT.
+Most academic databases provides an overview of your search history. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. The seaach process becomes flexible and evident if you choose to search for one word at the time, and then combine them in the serach history using AND, OR or NOT.
 
 
 ::: eksempel Example: Systematic search presented via the search history in Web of Science
@@ -225,293 +225,37 @@ Topic = search for textwords in the following fields of the reference: Title, ab
 ## Reviewing the search result
 A review of the results list can give you new insights, and maybe even lead you to change your original reserach question. A very long results list can reveal that the research question is to broad, and that it should be narrowed to become more precise. In these cases the serach strategy must be set up again, and the search must be adjusted accordingly. Using our research question as an example; let us say that our results list implies that a common reson for school avoidanve are psychological difficulties, such as anxiety.Then it might be an idea to narrow the reserach question by illuminating anxiety as reason for school avoidance, and further examine what interventions that exists for this population of students. This is how a reviewing the results list can lead to a narrowing or turning of the reserach question - or both, as our example shows. 
 
-De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
+The databases also contains filters, so that you can limit your results list based on your needs. Examples of filters are: 
 
-* årstall
-* publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
-* språk
-* geografisk område
-* aldersgruppe
-* forskningsmetode
-* fagområde
+* publication year
+* publication type (research articles, review articles, book chapters, conference proceedings etc.)
+* language
+* geographic area
+* age group
+* research method
+* subject area
 
-::: warning Husk at:
-* enhver avgrensing kan føre til at du går glipp av viktig informasjon
-* den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
+::: warning Keep in mind that:
+* any limitation can lead to loosing important information
+* Every article's quality and relevance must be assessed according to your research question
 :::
 
-## Lagring av søk
+## Saving your search
 
-De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikken via e-post. Søkehistorikken viser hvilken database du har søkt i, hvilke søkeord du har brukt, hvordan søkeordene er kombinert og hvor mange treff du har fått. Dette kan være svært nyttig informasjon å ta vare på hvis du for eksempel ønsker å bygge videre på søket, eller hvis du ønsker å foreta det samme søket i en annen database.
+Most databases offers you the option to save your searches and send the search history via e-mail. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned.This informastion might turn out be very useful if you wish to build further on your search, if you need to perform the same search in another database and if you need do [document your search](internlenke)
 
-## Dokumentasjon av søk
+## Documenting your search
 
-I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Da bør du si noe om:
+Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the serach you have done, and possibly repeat the same serach at a later stage. Then you should say something about
 
-* hvilke databaser du har valgt å søke i
-* hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
-* har du benyttet databasens emneordsliste?
-* har du benyttet noen av filtrene i databasen?
-* dato for når søket ble foretatt
+* what databases you have searched
+* which search terms you have used in the different databases and how they are combined (AND/OR/NOT)
+* have you used the database subject terms (thesaurus)?
+* have you used some of the filters provided by the database?
+* the date for when the search was done
 
-[Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
+[Download you own form here](/docs/dokumenter_sok.docx).
 
 ::: tip Tips
-Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken databaser du har søkt i.
-:::
- easier. Here are a few help questions that can guide you when you are sorting out the thematsic elements: 
-
-* Er det snakk om en problematikk?
-* Er det snakk om en intervensjon/et tiltak/et utfall/et fenomen?
-* Er det snakk en populasjon/gruppe med mennesker?
-* Er det snakk om setting/kontekst?
-
-Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inneholder samtlige tematiske elementer over. 
-
-::: eksempel Eksempel
-
-Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
-
-Problemstillingen inneholder problematikken *skolevegring* og populasjonen *tenåringer*, som dermed utgjør de tematiske elementene.
-:::
-
-De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](./planlegg-soket-ditt.md#valg-av-databaser)
-
-
-:::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
-PICO står for bestemte elementer som ofte er med i en helsefaglig problemstilling:
-
-**P**: (problem/patient): pasient/pasientgruppe/diagnose <br />
-**I**: (intervention): tiltak/eksponering <br />
-**C**: (comparison): eventuell sammenligning med et annet tiltak/eksponering <br />
-**O**: (outcome): utfall (det du vil ha ny kunnskap om)
-
-PICO klargjør hvem/hva problemstillingen din handler om, hvilke tiltak som skal undersøkes og hvilke utfall du er interessert i.
-
-**Anvendelse av PICO**
-
-::::: eksempel Er trening eller kosthold mest effektivt for å behandle overvekt?
-
-:::: picoskjema
-::: picoboks P
-Overvektige
-:::
-
-::: picoboks I
-Trening
-:::
-
-::: picoboks C
-Kosthold
-:::
-
-::: picoboks O
-Vekttap
-:::
-::::
-
-I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» \(C\) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
-:::::
-
-Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar I (intervensjon), andre ganger mangler C (sammenligning) og andre ganger finnes ingen tydelig formulert O (utfall).
-
-::::: eksempel PICO-skjema med forslag til synonymer
-
-Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmålet «er trening eller kosthold mest effektivt for å behandle overvekt?»
-
-:::: picoskjema
-::: picoboks P
-Overvektige
-
-Overvekt
-
-Fedme
-
-Høy BMI
-
-Overweight
-
-Obesity
-
-High BMI
-
-Excess weight
-:::
-
-::: picoboks I
-Trening
-
-Mosjon 
-
-Fysisk aktivitet 
-
-Exercise 
-
-Gymnastics 
-
-Physical activity
-:::
-
-::: picoboks C
-Kosthold
-
-Mat
-
-Matvaner 
-
-Diett 
-
-Ernæring 
-
-Diet 
-
-Nutrition habits 
-
-Nutrition behavior
-
-Eating habits 
-
-Food habits 
-
-Eating behavior
-:::
-
-::: picoboks O
-Vekttap
-
-Vektreduksjon 
-
-Weight loss
-
-Weight reduction 
-
-BMI reduction
-
-BMI loss
-:::
-:::::
-
-
-*Husk at de synonyme søkeordene innenfor hver kolonne kombineres med ELLER, så kombineres alle treffene i de tre kolonnene med OG.*
-
-
-::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
-
-Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
-
-| #  | Søk                                    | Resultat |
-| -- | -------------------------------------- | -------- |
-| 1  | exp Overweight/                        | 242260   |
-| 2  | Overweight.mp.                         | 82734    |
-| 3  | exp Obesity/                           | 235058   |
-| 4  | obesity.mp.                            | 360477   |
-| 5  | "High BMI".mp.                         | 4118     |
-| 6  | "Excess Weight".mp.                    | 5883     |
-| 7  | 1 or 2 or 3 or 4 or 5 or 6             | 388184   |
-| 8  | exp Exercise/                          | 221169   |
-| 9  | Exercise.mp                            | 386937   |
-| 10 | Gymnastic\*.mp.                        | 3790     |
-| 11 | "Physical activit\*".mp.               | 127039   |
-| 12 | 8 or 9 or 10 or 11                     | 508008   |
-| 13 | exp Diet/                              | 305094   |
-| 14 | Diet.mp.                               | 506370   |
-| 15 | "Nutrition habit\*".mp.                | 252      |
-| 16 | "Nutrition behavi\*".mp.               | 204      |
-| 17 | "Eating habit\*".mp.                   | 6428     |
-| 18 | "Food habit\*".mp.                     | 2449     |
-| 19 | "Eating behavi\*".                     | 5835     |
-| 20 | 13 or 14 or 15 or 16 or 17 or 18 or 19 | 567773   |
-| 21 | Weight Loss/                           | 39801    |
-| 22 | "Weight loss".mp.                      | 108601   |
-| 23 | (Weight adj2 reduc\*).mp.              | 30373    |
-| 24 | (BMI adj2 reduc\*).mp.                 | 2466     |
-| 25 | (BMI adj2 loss).mp.                    | 897      |
-| 26 | 21 or 22 or 23 or 24 or 25             | 129477   |
-| 27 | 7 and 12 and 20 and 26                 | 6859     |
-:::
-
-Forklaring:
-
-mp = søk på tekstord i følgende felt i referansen: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
-
-**/** = søketermen er hentet fra emneordlisten MeSH
-
-**adjx** = søketermene kan opptre i begge rekkefølger, med inntil x ord mellom
-
-**exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
-::::::
-
-## Søkeord
-Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene i søket ditt inkludert, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
-
-::: eksempel Eksempel: Søketabell
-
-| Skolevegring                  | Tenåringer        |
-| ----------------------------- | ----------------- |
-|skolevegring                   |tenåringer         |
-|skolevegringsatferd            |ungdom             |
-|skolenekt                      |ungdomstrinnet     |
-|skolefobi                      |videregående       |
-|school refusal                 |teenagers          |
-|school avoidance               |adolescents        |
-|school phobia                  |youth              |
-|self exclusion from school     |secondary school   |
-|                               |secondary education|
-|                               |high school        |
-:::
-
-
-## Kombinasjon av søkeord i databasens søkehistorikk
-
-De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
-
-::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Web of Science
-
-
-| SØK # | DATO       | SØKEORD/KOMBINASJON                                                                                        | ANTALL TREFF |
-| ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
-| 1     | 24/03/2022 | "school refus*" OR school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)               | 955          |
-| 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secondary school*" OR "high school*" (Topic)| 715,182      |
-| 4     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
-:::
-
-Topic = søk på tekstord i følgende felt i referansen: title, abstract og author keyword og keywords plus
-
-## Gjennomgang av søkeresultat
-
-En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsnevring eller dreining av problemstillingen - eller begge deler, som vårt eksempel viser.
-
-De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
-
-* årstall
-* publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
-* språk
-* geografisk område
-* aldersgruppe
-* forskningsmetode
-* fagområde
-
-::: warning Husk at:
-* enhver avgrensing kan føre til at du går glipp av viktig informasjon
-* den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
-:::
-
-## Lagring av søk
-
-De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikken via e-post. Søkehistorikken viser hvilken database du har søkt i, hvilke søkeord du har brukt, hvordan søkeordene er kombinert og hvor mange treff du har fått. Dette kan være svært nyttig informasjon å ta vare på hvis du for eksempel ønsker å bygge videre på søket, eller hvis du ønsker å foreta det samme søket i en annen database.
-
-## Dokumentasjon av søk
-
-I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Da bør du si noe om:
-
-* hvilke databaser du har valgt å søke i
-* hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
-* har du benyttet databasens emneordsliste?
-* har du benyttet noen av filtrene i databasen?
-* dato for når søket ble foretatt
-
-[Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
-
-::: tip Tips
-Når du er ferdig med et søk i en database, er det lurt å lagre søkehistorikken slik at du kan hente den fram igjen seinere og eventuelt kjøre det på nytt. Søkehistorikken er den beste dokumentasjonen på søket ditt. Husk å notere ned hvilken databaser du har søkt i.
+It is a good idea to save your search history when you have finished a search in a database, so tat you can fetch it later and possibly rerun the search. The search history is the best documentation of your search. Remember to note down in which databases you have searched.
 :::
