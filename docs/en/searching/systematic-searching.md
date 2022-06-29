@@ -5,15 +5,14 @@ next: "../study-skills/"
 ---
 
 # How to do systematic searching
-When you do a systemastic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the serach i repeated, it must show the same result. In increasingly degree, it is expected from students that they are able to do systematic searches for research results. This is is especially important to subject areas that rely on knowledge based practice.
+When you do a systematic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must show the same result. In increasingly degree, students are expectetd to be able to do systematic searches for research results. This is is especially important to subject areas that rely on knowledge based practice.
 
 ## Research question
-
 A Research question consists of two or more thematic elements. Before you can do a systematic search, you should structure your research question and sort out the thematic elements. The transistion to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
 
 * What are the issue/problem?
 * Are any intervention/measure/a phenonomen mentioned?
-* What population/group of people are we talking about?
+* What population/group of people?
 * Is the reserach question concidering any special setting/context? 
 
 It is not necessarily the case that the research question contain all these thematic elements.
@@ -26,7 +25,7 @@ The research question consists of the problem **school refusal** and the populat
 
 The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](internlenke)
 
-:::::: details  The PICO and SPIDER framework are models used for structuring questions, often within health related sujects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health related reserach questions:
+:::::: details  The PICO and SPIDER framework are models used for structuring questions, often within health related subjects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health related reserach questions:
 
 **P**: (problem or patient) <br />
 **I**: (intervention) <br />
@@ -34,6 +33,7 @@ The thematic elements makes the starting point for further planning of the searc
 **O**: (outcome) <br />
 
 PICO clarifies who or what your research question is about, what interventions are being scrutinized and what oucome you are interested in 
+
 **Application of PICO**
 
 ::::: eksempel Is exercise or diet most efficient for treating overweight?
@@ -63,7 +63,7 @@ It is not always appropriate to fill inn all the elements in the PICO table. Som
 
 ::::: eksempel PICO table with synomym suggestions
 
-Nedenfor vises et utfylt PICO-skjema med forslag til synonymer til spørsmålet «er trening eller kosthold mest effektivt for å behandle overvekt?»
+Below you se a PICO-table where suggested synonyms are filled in for the research question "is excercise or training most efficient to treat overweight?"
 
 :::: pico table
 ::: pico box P
