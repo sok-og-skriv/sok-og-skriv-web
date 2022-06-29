@@ -204,25 +204,26 @@ Use the thematic elements to set up a search table that gives an overview of the
 :::
 
 
-## Kombinasjon av søkeord i databasens søkehistorikk
+## Combining search terms in the database search history
 
-De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
+Most academic databases provides an overview of your search history. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned The seaach process becomes flexible and evident if you choose to search for one word at the time, and then combine them in the serach history using AND, OR or NOT.
 
-::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Web of Science
+
+::: eksempel Example: Systematic search presented via the search history in Web of Science
 
 
 | SØK # | DATO       | SØKEORD/KOMBINASJON                                                                                        | ANTALL TREFF |
 | ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
 | 1     | 24/03/2022 | "school refus*" OR school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)               | 955          |
 | 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secondary school*" OR "high school*" (Topic)| 715,182      |
-| 4     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
+| 3     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
+
 :::
 
-Topic = søk på tekstord i følgende felt i referansen: title, abstract og author keyword og keywords plus
+Topic = search for textwords in the following fields of the reference: Title, abstract og author keyword og keywords plus
 
-## Gjennomgang av søkeresultat
-
-En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsnevring eller dreining av problemstillingen - eller begge deler, som vårt eksempel viser.
+## Reviewing the search result
+A review of the results list can give you new insights, and maybe even lead you to change your original reserach question. A very long results list can reveal that the research question is to broad, and that it should be narrowed to become more precise. In these cases the serach strategy must be set up again, and the search must be adjusted accordingly. Using our research question as an example; let us say that our results list implies that a common reson for school avoidanve are psychological difficulties, such as anxiety.Then it might be an idea to narrow the reserach question by illuminating anxiety as reason for school avoidance, and further examine what interventions that exists for this population of students. This is how a reviewing the results list can lead to a narrowing or turning of the reserach question - or both, as our example shows. 
 
 De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
 
