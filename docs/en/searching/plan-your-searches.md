@@ -6,7 +6,7 @@ date: "2012-03-16"
 # Plan your search
 
 ## Getting an overview
-During the early stages of your thesis work, you need to gain an overview of your chosen field. This will help you in the process of identifying your research question, method and general approach. At this point you may find it useful to skim through a few different sources. Some of them will continue to be valuable resources as your project progresses, while others will only be useful at the beginning. 
+During the early stages of your thesis work, you need to get an overview of your chosen field. This will help you in the process of identifying your research question, method and general approach. At this point you may find it useful to skim through a few different sources. Some of them will continue to be valuable resources as your project progresses, while others will only be useful at the beginning. 
 
 
 ## Finding background information
@@ -20,7 +20,7 @@ During the early stages of your thesis work, you need to gain an overview of you
 ## Finding scholarly literature
 Once you have gained an overview of the subject and your research question is emerging, you will need information that reviews the subject more thoroughly. The academic community expects you to base your assignment on scientific sources. Articles in peer-reviewed journals are the most important entrance to scientific sources, in addition to books. The term _peer-review_ means that the manuscript has been reviewed by expert scientists prior to publication.  
 
-The current module, “Plan your search”, first and foremost aims to give you an introduction to, by planning and using specific techniques, how to search using academic search tools and databases. But there are other ways to find scholarly literature, and here are some examples: 
+The current module, “Plan your search”, first and foremost aims to give you an introduction to, how to search when using academic search tools and databases. But there are other ways to find scholarly literature, and here are some examples: 
 
 + Get tips from your lecturer or supervisor 
 + Review reference lists of relevant articles or books 
@@ -52,7 +52,7 @@ Use subject related terminology when you are searching. Subject related terminol
 
 ::: tip Tips 
 + Use subject specific terminology.
-+ Note that for each thematic element many synonyms and related terms might be found and relevant to include. 
++ Note that for each thematic element there might be many synonyms and related terms that are relevant to include.
 + Keep in mind that terms which are useful in one database may be less useful in another.
 :::
 
