@@ -3,7 +3,7 @@ title: "Searching"
 date: "2022-03-14"
 ---
 
-# Searching
+# ![](/images/illustrasjoner_sok_500x450.png) Searching
 
 Information retrieval is a process that requires time and planning. New information must be compared with the knowledge we already have. In this way, we expand our knowledge and contribute to creating new meaning and understanding.
 
