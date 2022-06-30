@@ -8,7 +8,7 @@ next: "../study-skills/"
 When you do a systematic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must show the same result. In increasingly degree, students are expectetd to be able to do systematic searches for research results. This is is especially important to subject areas that rely on knowledge based practice.
 
 ## Research question
-A Research question consists of two or more thematic elements. Before you can do a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
+A research question consists of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
 
 * What is the issue/problem?
 * Is any intervention/measure/a phenonomen mentioned?
@@ -227,17 +227,17 @@ A review of the results list can give you new insights, and maybe even lead you 
 
 The databases also contains filters, so that you can limit your results list based on your needs. Examples of filters are: 
 
-* publication year
-* publication type (research articles, review articles, book chapters, conference proceedings etc.)
-* language
-* geographic area
-* age group
-* research method
-* subject area
+* Publication year
+* Publication type (research articles, review articles, book chapters, conference proceedings etc.)
+* Language
+* Geographic area
+* Age group
+* Research method
+* Subject area
 
 ::: warning Keep in mind that:
-* any limitation can lead to loosing important information
-* every article's quality and relevance must be assessed according to your research question.
+* Any limitation can lead to loosing important information.
+* Every article's quality and relevance must be assessed according to your research question.
 :::
 
 ## Saving your search
@@ -248,11 +248,11 @@ Most databases offers you the option to save your searches and send the search h
 
 Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the search you have done, and possibly repeat the same serach at a later stage. Then you should say something about
 
-* what databases you have searched in
-* which search terms you have used in the different databases and how they are combined (AND/OR/NOT)
-* have you used the database subject terms (thesaurus)?
-* have you used some of the filters provided by the database?
-* the date for when the search was done
+* What databases you have searched in.
+* Which search terms you have used in the different databases and how they are combined (AND/OR/NOT)
+* If you have used the database subject terms (thesaurus).
+* If you have used some of the filters provided by the database.
+* The date for when the search was done.
 
 [Download you own form here](/docs/dokumenter_sok.docx).
 
