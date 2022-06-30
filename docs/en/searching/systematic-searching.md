@@ -5,7 +5,7 @@ next: "../study-skills/"
 ---
 
 # How to do systematic searching
-When you do a systematic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. In increasing degree, students are expected to be able to perform systematic searches for research results. This is especially important to subject areas that rely on knowledge based practice.
+When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. In increasing degree, students are expected to be able to perform systematic searches for research results. This is especially important to subject areas that rely on knowledge based practice.
 
 ## Research question
 A research question consists of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
@@ -142,7 +142,7 @@ Vektreduksjon
 
 Below you see an example of systematic search with explanation presented via the [search history](internlenke) in Ovid Medline:
 
-| #  | Søk                                    | Resultat |
+| #  | Search                                 | Results  |
 | -- | -------------------------------------- | -------- |
 | 1  | exp Overweight/                        | 242260   |
 | 2  | Overweight.mp.                         | 82734    |
@@ -173,7 +173,7 @@ Below you see an example of systematic search with explanation presented via the
 | 27 | 7 and 12 and 20 and 26                 | 6859     |
 :::
 
-Forklaring:
+Explanation:
 
 mp = searching for textwords in the following fields of the reference: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
 
@@ -185,7 +185,7 @@ mp = searching for textwords in the following fields of the reference: title, ab
 ::::::
 
 ## Search terms
-Use the thematic elements to set up a search table that gives an overview of the thematic elements and their search terms. In that way you ensure that all the elements are included in your search, at the same time not depending on which terms are used to describe the thematic elements.
+Use the thematic elements to set up a search table that give an overview of the thematic elements and their search terms. In that way you ensure that all the elements are included in your search, at the same time not depending on which terms are used to describe the thematic elements.
 
 | School refusal                | Teenagers         |
 | ----------------------------- | ----------------- |     
@@ -210,15 +210,14 @@ Most academic databases provide an overview of your search history. The search h
 ::: eksempel Example: Systematic search presented via the search history in Web of Science
 
 
-| SØK # | DATO       | SØKEORD/KOMBINASJON                                                                                        | ANTALL TREFF |
+|Search#| Date       | Search term//combination                                                                                   | Results      |
 | ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
 | 1     | 24/03/2022 | "school refus*" OR school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)               | 955          |
 | 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secondary school*" OR "high school*" (Topic)| 715,182      |
 | 3     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
 
-:::
-
 Topic = search for textwords in the following fields of the reference: Title, abstract, author keyword and keywords plus
+:::
 
 ## Reviewing the search result
 A review of the results list can give you new insights, and maybe even lead you to change your original research question. A very long results list can reveal that the research question is too broad, and that it should be narrowed to become more precise. In these cases the search strategy must be set up again, and the search must be adjusted accordingly. Using our research question as an example; let us say that our results list implies that a common reason for school avoidance are psychological problems, such as anxiety. Then it might be an idea to narrow the research question by illuminating anxiety as reason for school avoidance, and further examine what interventions that exists for this population of students. This is how a reviewing the results list can lead to a narrowing or turning of the research question - or both, as our example shows. 
@@ -240,11 +239,11 @@ The databases also contain filters, so that you can limit your results list base
 
 ## Saving your search
 
-Most databases offer you the option to save your searches and send the search history via e-mail. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. This information might turn out be very useful if you wish to build further on your search, if you need to perform the same search in another database and if you need do [document your search](internlenke)
+Most databases offer you the option to save your searches and send the search history via e-mail. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. This information might turn out be very useful if you wish to build further on your search, if you need to rerun the same search at a later stage, run it in in another database or if you need to [document your search](internlenke).
 
 ## Documenting your search
 
-Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the search you have done, and possibly repeat the same search at a later stage. Then you should say something about
+Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the search you have done, and possibly repeat the same search at a later stage. When documenting your search you should include
 
 * What databases you have searched in.
 * Which search terms you have used in the different databases and how they are combined (AND/OR/NOT)
