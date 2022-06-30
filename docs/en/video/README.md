@@ -28,7 +28,7 @@ sidebar: false
 
 
 
-## Kajsa & Sandhya’s Writing Club
+## Kajsa's & Sandhya’s Writing Club
 
 University of Bergen PhD students Kajsa Parding and Sandhya Tiwari talk about their writing club, and how it has helped them with their thesis work.
 
