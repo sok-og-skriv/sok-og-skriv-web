@@ -243,7 +243,7 @@ Most databases offer you the option to save your searches and send the search hi
 
 ## Documenting your search
 
-Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the search you have done, and possibly repeat the same search at a later stage. When documenting your search you should include
+Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the search you have done, and possibly repeat the same search at a later stage. When documenting your search you should include:
 
 * What databases you have searched in.
 * Which search terms you have used in the different databases and how they are combined (AND/OR/NOT)
