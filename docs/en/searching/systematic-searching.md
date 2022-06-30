@@ -39,24 +39,24 @@ PICO clarifies who or what your research question is about, what interventions a
 ::::: eksempel Is exercise or diet most efficient for treating overweight?
 
 :::: pico table
-::: pico box P
+::: picoboks P
 Overweight
 :::
 
-::: pico box I
+::: picoboks I
 Excercise
 :::
 
-::: pico box C
+::: picoboks C
 Diet
 :::
 
-::: pico box O
+::: picoboks O
 Weight loss
 :::
 ::::
 
-In the example above, we are interested in the effect of the intervention "exercise" (I) in comparison to "diet" \(C\). That is, we are looking to find studies that compare these two interventions. We want to measure the weight loss (O) of people who are overweight (P).
+In the example above, we are interested in the effect of the intervention "exercise" (I) in comparison to "diet" \(C\) . That is, we are looking to find studies that compare these two interventions. We want to measure the weight loss (O) of people who are overweight (P) .
 :::::
 
 It is not always appropriate to fill inn all the elements in the PICO table. Sometimes there are no clear I (intervention), C (comparison) is not specified, or no clear O (outcome) is expressed in the research question.
@@ -66,7 +66,7 @@ It is not always appropriate to fill inn all the elements in the PICO table. Som
 Below you see a PICO table where suggested synonyms are filled in for the research question "is exercise or training most efficient to treat overweight?"
 
 :::: pico table
-::: pico box P
+::: picoboks P
 Overweight
 
 Obesity
@@ -82,7 +82,7 @@ Fedme
 Høy BMI
 :::
 
-::: pico box I
+::: picoboks I
 Exercise 
 
 Gymnastics 
@@ -96,7 +96,7 @@ Mosjon
 Fysisk aktivitet 
 :::
 
-::: pico box C
+::: picoboks C
 Diet 
 
 Nutrition habits 
@@ -120,7 +120,7 @@ Diett
 Ernæring 
 :::
 
-::: pico box O
+::: picoboks O
 Weight loss
 
 Weight reduction 
