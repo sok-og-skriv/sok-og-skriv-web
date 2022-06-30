@@ -8,11 +8,11 @@ next: "../study-skills/"
 When you do a systematic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must show the same result. In increasingly degree, students are expectetd to be able to do systematic searches for research results. This is is especially important to subject areas that rely on knowledge based practice.
 
 ## Research question
-A Research question consists of two or more thematic elements. Before you can do a systematic search, you should structure your research question and sort out the thematic elements. The transistion to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
+A Research question consists of two or more thematic elements. Before you can do a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
 
-* What are the issue/problem?
-* Are any intervention/measure/a phenonomen mentioned?
-* What population/group of people?
+* What is the issue/problem?
+* Is any intervention/measure/a phenonomen mentioned?
+* What population/group of people is in question?
 * Is the reserach question concidering any special setting/context? 
 
 It is not necessarily the case that the research question contain all these thematic elements.
@@ -206,7 +206,7 @@ Use the thematic elements to set up a search table that gives an overview of the
 
 ## Combining search terms in the database search history
 
-Most academic databases provides an overview of your search history. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. The seaach process becomes flexible and evident if you choose to search for one word at the time, and then combine them in the serach history using AND, OR or NOT.
+Most academic databases provides an overview of your search history. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. The search process becomes flexible and evident if you choose to search for one word at the time, and then combine them in the serach history using AND, OR or NOT.
 
 
 ::: eksempel Example: Systematic search presented via the search history in Web of Science
@@ -223,7 +223,7 @@ Most academic databases provides an overview of your search history. The search 
 Topic = search for textwords in the following fields of the reference: Title, abstract og author keyword og keywords plus
 
 ## Reviewing the search result
-A review of the results list can give you new insights, and maybe even lead you to change your original reserach question. A very long results list can reveal that the research question is to broad, and that it should be narrowed to become more precise. In these cases the serach strategy must be set up again, and the search must be adjusted accordingly. Using our research question as an example; let us say that our results list implies that a common reson for school avoidanve are psychological difficulties, such as anxiety.Then it might be an idea to narrow the reserach question by illuminating anxiety as reason for school avoidance, and further examine what interventions that exists for this population of students. This is how a reviewing the results list can lead to a narrowing or turning of the reserach question - or both, as our example shows. 
+A review of the results list can give you new insights, and maybe even lead you to change your original research question. A very long results list can reveal that the research question is to broad, and that it should be narrowed to become more precise. In these cases the serach strategy must be set up again, and the search must be adjusted accordingly. Using our research question as an example; let us say that our results list implies that a common reson for school avoidance are psychological problems, such as anxiety. Then it might be an idea to narrow the reserach question by illuminating anxiety as reason for school avoidance, and further examine what interventions that exists for this population of students. This is how a reviewing the results list can lead to a narrowing or turning of the research question - or both, as our example shows. 
 
 The databases also contains filters, so that you can limit your results list based on your needs. Examples of filters are: 
 
@@ -237,18 +237,18 @@ The databases also contains filters, so that you can limit your results list bas
 
 ::: warning Keep in mind that:
 * any limitation can lead to loosing important information
-* Every article's quality and relevance must be assessed according to your research question
+* every article's quality and relevance must be assessed according to your research question.
 :::
 
 ## Saving your search
 
-Most databases offers you the option to save your searches and send the search history via e-mail. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned.This informastion might turn out be very useful if you wish to build further on your search, if you need to perform the same search in another database and if you need do [document your search](internlenke)
+Most databases offers you the option to save your searches and send the search history via e-mail. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. This informastion might turn out be very useful if you wish to build further on your search, if you need to perform the same search in another database and if you need do [document your search](internlenke)
 
 ## Documenting your search
 
-Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the serach you have done, and possibly repeat the same serach at a later stage. Then you should say something about
+Sometimes you must, after you have finished your systematic search, describe the search process thoroughly, so that the reader are able to evaluate the quality of the search you have done, and possibly repeat the same serach at a later stage. Then you should say something about
 
-* what databases you have searched
+* what databases you have searched in
 * which search terms you have used in the different databases and how they are combined (AND/OR/NOT)
 * have you used the database subject terms (thesaurus)?
 * have you used some of the filters provided by the database?
@@ -257,5 +257,5 @@ Sometimes you must, after you have finished your systematic search, describe the
 [Download you own form here](/docs/dokumenter_sok.docx).
 
 ::: tip Tips
-It is a good idea to save your search history when you have finished a search in a database, so tat you can fetch it later and possibly rerun the search. The search history is the best documentation of your search. Remember to note down in which databases you have searched.
+It is a good idea to save your search history when you have finished a search in a database, so that you can fetch it at a later stage and possibly rerun the search. The search history is the best documentation of your search. Remember to note down which databases you have searched in.
 :::
