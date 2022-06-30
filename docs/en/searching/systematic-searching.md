@@ -38,7 +38,7 @@ PICO clarifies who or what your research question is about, what interventions a
 
 ::::: eksempel Is exercise or diet most efficient for treating overweight?
 
-:::: pico table
+:::: picoskjema
 ::: picoboks P
 Overweight
 :::
@@ -65,7 +65,7 @@ It is not always appropriate to fill inn all the elements in the PICO table. Som
 
 Below you see a PICO table where suggested synonyms are filled in for the research question "is exercise or training most efficient to treat overweight?"
 
-:::: pico table
+:::: picoskjema
 ::: picoboks P
 Overweight
 
