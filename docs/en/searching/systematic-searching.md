@@ -5,7 +5,7 @@ next: "../study-skills/"
 ---
 
 # How to do systematic searching
-When you do a systematic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must show the same result. In increasingly degree, students are expectetd to be able to do systematic searches for research results. This is is especially important to subject areas that rely on knowledge based practice.
+When you do a systematic search, the search must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. In increasing degree, students are expected to be able to perform systematic searches for research results. This is is especially important to subject areas that rely on knowledge based practice.
 
 ## Research question
 A research question consists of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
@@ -15,7 +15,7 @@ A research question consists of two or more thematic elements. Before doing a sy
 * What population/group of people is in question?
 * Is the reserach question concidering any special setting/context? 
 
-It is not necessarily the case that the research question contain all these thematic elements.
+It is not necessarily the case that the research question contains all these thematic elements.
 
 ::: eksempel Example
 What do we know about the reasons for **school refusal** among **teenagers**?
@@ -25,14 +25,14 @@ The research question consists of the problem **school refusal** and the populat
 
 The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](internlenke)
 
-:::::: details  The PICO and SPIDER framework are models used for structuring questions, often within health related subjects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health related reserach questions:
+:::::: details  The PICO and SPIDER frameworks are models used for structuring questions, often within health related subjects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health related research questions:
 
 **P**: (problem or patient) <br />
 **I**: (intervention) <br />
 **C**: (comparison) <br />
 **O**: (outcome) <br />
 
-PICO clarifies who or what your research question is about, what interventions are being scrutinized and what oucome you are interested in 
+PICO clarifies who or what your research question is about, what interventions are being scrutinized and what oucome you are interested in. 
 
 **Application of PICO**
 
@@ -257,5 +257,5 @@ Sometimes you must, after you have finished your systematic search, describe the
 [Download you own form here](/docs/dokumenter_sok.docx).
 
 ::: tip Tips
-It is a good idea to save your search history when you have finished a search in a database, so that you can fetch it at a later stage and possibly rerun the search. The search history is the best documentation of your search. Remember to note down which databases you have searched in.
+It is a good idea to save your search history when you have finished a search in a database, so that you can fetch it at a later stage, and possibly rerun the search. Also, the search history is the best documentation of your search. Remember to note down which databases you have searched in.
 :::
