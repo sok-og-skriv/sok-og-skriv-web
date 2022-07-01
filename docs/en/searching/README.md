@@ -12,5 +12,5 @@ Before you start searching, think about:
 - How can you find this information?
 - How can you get an overview of existing theories and research in the field?
 
-When writing an assignment, you will need different sources of information. All sources must be quality assessed. Hereunder we introduce some tools and inputs that you may find helpful.
+When writing an assignment, you will need different sources of information,a all sources must be quality assessed. Here we introduce some tools and inputs that you may find helpful.
 
