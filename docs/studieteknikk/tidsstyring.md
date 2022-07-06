@@ -3,11 +3,12 @@ title: "Tidsstyring"
 date: "2022-21-03"
 tags: 
   - Test
+  - Planlegging 
 ---
 
 # Tidsstyring
 
-Tidsstyring, eller _time management_, vil si å planlegge tiden slik at du får optimalt utbytte av den. Som student betyr dette å bruke studietimene effektivt slik at du får lest, skrevet og gjort det du skal. I dag er det mange studenter som har problemer med å konsentrere seg om det de skal og unngå sosiale medier eller andre former for prokrastinering. Tidsstyring kan hjelpe deg med å mestre dette slik at du kan stresse mindre og bli mer produktiv.
+Tidsstyring vil si å planlegge tiden slik at du får optimalt utbytte av den. Som student betyr dette å bruke studietimene effektivt slik at du får lest, skrevet og gjort det du skal. I dag er det mange studenter som har problemer med å konsentrere seg om det de skal og unngå sosiale medier eller andre former for prokrastinering. Tidsstyring kan hjelpe deg med å mestre dette slik at du kan stresse mindre og bli mer produktiv.
 
 
 **Bli kjent med egen studiestil**
