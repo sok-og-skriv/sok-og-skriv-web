@@ -5,11 +5,11 @@ date: "2022-07-18"
 
 # Searching techniques
 
-When searching academic databases, it is useful to be familiar with basic searching techniques. In this section, these will be explained.
+When searching academic databases, it is useful to be familiar with basic searching techniques. In this section we will explain the most common used.
 
 ## Free text searching
 
-Free text search, or search for text words, is the most common way to search. Your search terms are matched to the content of a reference, often on words in the title, the summary, and keywords. It is important not to be too specific and not too general.
+Free text search, or search for text words, is the most common way to search. Your search terms are matched to the content of a reference, often on words in the title, the summary, and keywords. It is important not to be too specific and not too general when doing av free text search.
 
 ::: eksempel Example
 If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, summary, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
@@ -23,15 +23,15 @@ If your search term consists of more than one word, such as adapted education, y
 
 ### Truncation
 
-When truncating, you search for the stem of a word to include different endings. Usually, the truncation mark is an asterisk (*). Child* will give you hits on child, children, childish, childhood, etc.
+When truncating, you search for the stem of a word to include different endings. Usually, the truncation mark is an asterisk(\*). Child(\*) will give you hits on child, children, childish, childhood, etc.
 
 ### Keyword searching
 
-Subject-specific databases often contain subject dictionaries (also called thesaurus), with a list of standardized subject terms used to describe the content of documents. If you search applying standardized subject terms, you will get hits on all documents marked with this term. For example, documents in the database that deal with primary school, get the subject term primary school even if the author has used other terms (junior school, elementary school, grade school, etc.) It may be worthwhile to identify subject terms that cover your topic area. In health sciences, Medical Subject Headings (MeSH) is the most well-known glossary, and it is used in several health sciences databases.
+Subject-specific databases often contain subject dictionaries (also called thesaurus), with a list of standardized subject terms used to describe the content of documents. If you apply standardized subject terms in your search, you will get hits on all documents marked with this term. For example, documents in the database that deal with primary school, get the subject term primary school even if the author has used other terms (junior school, elementary school, grade school, etc.) It may be worthwhile to identify subject terms that cover your topic area. In health sciences, Medical Subject Headings (MeSH) is the most well-known glossary, and it is used in several health sciences databases.
 
 ## Combine search terms
 
-Once you have found all the relevant keywords for your search, you need to think about how to combine them. In most databases, you can combine keywords in three different ways: AND, OR, and NOT. This is called searching with Boolean operators.
+Once you have found relevant keywords for your search, you need to think about how to combine them. In most databases, you can combine keywords in three different ways: AND, OR, and NOT. This is called searching with Boolean operators.
 
 ### Combining search terms using AND
 
@@ -144,5 +144,5 @@ Some databases and search tools, e.g., Web of Science and Google Scholar, provid
 
 ## Searching reference lists
 
-It is not only by searching databases that you can find relevant and quality-assured information. If you have found a scientific article that is right up your alley, the article's reference list may refer to other relevant literature
+It is not only by searching databases that you can find relevant and quality-assured information. If you have found a scientific article that is right up your alley, the article's reference list may refer to other relevant literature.
 
