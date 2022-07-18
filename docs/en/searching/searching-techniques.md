@@ -93,19 +93,16 @@ Example: "How has globalization affected social inequalities within the educatio
 
 :::: søketabell 
 ::: tabell
-Verdivudering
+Globalisation
 
 **OR**
 
-Verdisettelse
+Globalization
 
 **OR**
 
-Valuation estimate
+«Global approach*»
 
-**OR** 
-
-Statement of value
 :::
 
 ::: kombinator
@@ -113,19 +110,17 @@ Statement of value
 :::
 
 ::: tabell
-Økologisk
+Inequalit*
 
 **OR**
 
-Bærekraftig
+Inequit*
 
 **OR**
 
-Ecologic
+«Equal opportunit*»
 
-**OR**
 
-Sustainable
 :::
 
 ::: kombinator
@@ -133,23 +128,13 @@ Sustainable
 :::
 
 ::: tabell
-Metode
+Education*
 
 **OR**
 
-Fremgangsmåte
+School*
 
-**OR**
 
-Method
-
-**OR**
-
-Technique
-
-**OR**
-
-Skill
 :::
 ::::
 
