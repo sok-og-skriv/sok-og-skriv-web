@@ -1,44 +1,43 @@
 ---
 title: "Searching techniques"
-date: "2013-02-21"
+date: "2022-07-18"
 ---
 
 # Searching techniques
 
-## Finding good search terms
+When searching academic databases, it is useful to be familiar with basic searching techniques. In this section, these will be explained.
 
-In order to find good search terms, use your research question as a starting point and identify key terms, including their synonyms.
+## Free text searching
 
-**Consider the following:**
+Free text search, or search for text words, is the most common way to search. Your search terms are matched to the content of a reference, often on words in the title, the summary, and keywords. It is important not to be too specific and not too general.
 
-- Use subject-related terminology. Many databases have a built-in thesaurus that includes recognized terms and their associated synonyms.
-- Note that terms which are useful in one database may be less useful in another.
-- Language: Most international databases require that you search in English. Even though [Oria](https://oria.no) provides search-results in both Norwegian and English, you might miss many relevant documents if you only choose Norwegian search terms. English language terms can be found in textbooks, articles and dictionaries. Read abstracts and look for the author’s own terminology.
-- **Be creative:** Find as many synonyms as possible for the concepts you are interested in.
-- Do not use too many different elements in a search; two or three are normally enough.
-- Make a chart and designate a column for every term that makes up your research question, and add synonyms for each term in its respective column (see example further below).
+**Example**
 
-### Free text searching
+If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, summary, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
 
-Free text searching, or searching for words in the textbox, is the most common approach to begin with. In this case, you search for words from the title, the abstract, subject terms and keywords. Since a phenomenon can often be described with different terms, it is important to include synonyms.
+An alternative to a free text search is searching using a controlled vocabulary.
 
-### Limiting the search
+### Phrase searching
 
-A long list of hits may be limited according to your needs. Most databases offer limitations based on year of publication, language, subject area and document type. Keep in mind that limiting the search results might cause you to miss some important information.
+If your search term consists of more than one word, such as adapted education, you need to use quotation marks when searching: "adapted education". You then search for adapted education, and not adapted and education as two separate words.
 
-## Searching for subject headings
+### Truncation
 
-To search for "subject headings" means to search in the controlled vocabulary of a database. In other words, some databases offer a set of standardized subject terms to describe the content of a document. An advantage with this method of searching is that the database automatically includes synonyms in the search.
+When truncating, you search for the stem of a word to include different endings. Usually, the truncation mark is an asterisk (*). Child* will give you hits on child, children, childish, childhood, etc.
+
+## # Keyword searching
+
+Subject-specific databases often contain subject dictionaries (also called thesaurus), with a list of standardized subject terms used to describe the content of documents. If you search applying standardized subject terms, you will get hits on all documents marked with this term. For example, documents in the database that deal with primary school, get the subject term primary school even if the author has used other terms (junior school, elementary school, grade school, etc.) It may be worthwhile to identify subject terms that cover your topic area. In health sciences, Medical Subject Headings (MeSH) is the most well-known glossary, and it is used in several health sciences databases.
 
 ## Combine search terms
 
-Once you have formulated your research question and identified the relevant search terms, you need to think about how to combine them. Most databases allow you to combine search terms in various ways by means of the Boolean operators AND, OR and NOT.
+Once you have found all the relevant keywords for your search, you need to think about how to combine them. In most databases, you can combine keywords in three different ways: AND, OR, and NOT. This is called searching with Boolean operators.
 
 ### Combining search terms using AND
 
-When you combine your query terms by using AND, the resulting hits will contain documents that deal with both terms. The AND operator aims at focusing the search and narrowing down the number of hits.
+If you combine two keywords with AND, you will only get hits on literature that contains both words. Combinations with AND sharpen the search and help limit the number of hits.
 
-When you search for **decubitus AND prevention**, the resulting hits will contain only documents that deal with both decubitus and prevention as shown in the diagram below.
+Example: Search for Diabetes AND “Quality of life” only results in literature that deals with both diabetes and quality of life.
 
 <ClientOnly>
   <Venn 
@@ -53,7 +52,9 @@ When you search for **decubitus AND prevention**, the resulting hits will contai
 
 ### Combining search terms using OR
 
-When you choose to join two terms with the OR operator, you get a search result that contain either one of the terms, or both. Combining search terms with OR thus generates an extended search result with a larger number of hits. The OR operator is usually employed to cover alternatives or synonyms of a query term. For example, the search for **decubitus OR bedsore**, will give a hit that contains either decubitus or bedsore, or decubitus and bedsore as shown in the diagram below.
+If you combine two words with OR, you will get hits on literature with either or both words present. Combinations with OR expand the search and give you more hits. OR is usually used for synonymous keywords.
+
+Example: Search for Diabetes OR Hyperglycemia gives hits on diabetes, hyperglycemia, or both.
 
 <ClientOnly>
   <Venn 
@@ -68,7 +69,9 @@ When you choose to join two terms with the OR operator, you get a search result 
 
 ### Combining search terms using NOT
 
-When you combine your query terms with the operator NOT, your search result will consist of only one of the terms, and the other term will be eliminated from the search. Since the use of NOT eliminates a large number of hits, it should be used with caution. For example, when you search for **decubitus NOT prevention**, your search results will contain only instances of decubitus, and all documents that deal with prevention will be filtered out from the search.
+If you combine two keywords with NOT, you will get hits on one word while omitting the other keyword. Combinations with NOT can exclude many documents, so they should be used with caution.
+
+Example: Search for Diabetes NOT “Gestational diabetes” will result in literature covering diabetes while omitting everything that is also about gestational diabetes.
 
 <ClientOnly>
   <Venn 
@@ -83,11 +86,10 @@ When you combine your query terms with the operator NOT, your search result will
 
 ## Using a search table
 
-The table below has three columns, one for each of the three components of the research question. First, the synonymous keywords in each column are combined with OR, then, all the matches in the three columns are combined with AND.
+The table below has three columns, one for each of the three concepts in the research question. First, combine the synonymous keywords within each column with OR. Then combine the results from the three columns with AND.
 
-This procedure can be applied to the vast majority of projects.
+Example: "How has globalization affected social inequalities within the education system?"
 
-Example: Research question: "Is it profitable for businesses to market themselves as sustainable?"
 
 :::: søketabell 
 ::: tabell
@@ -151,6 +153,11 @@ Skill
 :::
 ::::
 
-### Truncation
+### Citation searching
 
-Truncation is a technique often used to increase the number of hits. Truncation means to search for the trunk of a word in order to include both singular and plural forms of a word and also its different variants. As a rule, truncation is marked by an asterisk (\*). For example, searching for minorit\* will give hits on minorities, minority, minoritet, minoriteter and so forth.
+Some databases and search tools, e.g., Web of Science and Google Scholar, provide citation information. That is, how many and who has used a given document in their reference list. How often a document is cited can say something about how much impact the document has had on the subject area. If you click on the link "Cited by" in Google Scholar, you will see a list of citations. Such a list can be used to highlight key documents and authors.
+
+### Searching reference lists
+
+It is not only by searching databases that you can find relevant and quality-assured information. If you have found a scientific article that is right up your alley, the article's reference list may refer to other relevant literature
+
