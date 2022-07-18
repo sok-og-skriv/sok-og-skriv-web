@@ -42,9 +42,9 @@ Example: Search for Diabetes AND “Quality of life” only results in literatur
 <ClientOnly>
   <Venn 
     v-bind:sets="[
-        {sets: ['decubitus'], size: 12}, 
-        {sets: ['prevention'], size: 12},
-        {sets: ['decubitus','prevention'], size: 3}
+        {sets: ['diabetes'], size: 12}, 
+        {sets: ['quality of life'], size: 12},
+        {sets: ['diabetes','quality of life'], size: 3}
     ]" 
     text="Hits when doing AND search"
     type="and" />
@@ -59,9 +59,9 @@ Example: Search for Diabetes OR Hyperglycemia gives hits on diabetes, hyperglyce
 <ClientOnly>
   <Venn 
     v-bind:sets="[
-        {sets: ['decubitus'], size: 12}, 
-        {sets: ['bedsore'], size: 12},
-        {sets: ['decubitus','bedsore'], size: 3}
+        {sets: ['diabetes'], size: 12}, 
+        {sets: ['hyperglycemia'], size: 12},
+        {sets: ['diabetes','hyperglycemia'], size: 3}
     ]" 
     text="Hits when doing a OR search"
     type="or" />
@@ -76,9 +76,9 @@ Example: Search for Diabetes NOT “Gestational diabetes” will result in liter
 <ClientOnly>
   <Venn 
     v-bind:sets="[
-        {sets: ['decubitus'], size: 12}, 
-        {sets: ['prevention'], size: 12},
-        {sets: ['decubitus','prevention'], size: 3}
+        {sets: ['diabetes'], size: 12}, 
+        {sets: ['gestational diabetes'], size: 12},
+        {sets: ['diabetes','gestational diabetes'], size: 3}
     ]" 
     text="Hits when doing a NOT search"
     type="not" />
