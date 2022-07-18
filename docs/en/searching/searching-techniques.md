@@ -12,8 +12,9 @@ When searching academic databases, it is useful to be familiar with basic search
 Free text search, or search for text words, is the most common way to search. Your search terms are matched to the content of a reference, often on words in the title, the summary, and keywords. It is important not to be too specific and not too general.
 
 **Example**
-
-:::If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, summary, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.:::
+:::::
+If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, summary, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
+:::::
 
 An alternative to a free text search is searching using a controlled vocabulary.
 
