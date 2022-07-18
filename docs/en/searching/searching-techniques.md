@@ -13,7 +13,7 @@ Free text search, or search for text words, is the most common way to search. Yo
 
 **Example**
 
-If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, summary, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
+:::If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, summary, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.:::
 
 An alternative to a free text search is searching using a controlled vocabulary.
 
@@ -25,7 +25,7 @@ If your search term consists of more than one word, such as adapted education, y
 
 When truncating, you search for the stem of a word to include different endings. Usually, the truncation mark is an asterisk (*). Child* will give you hits on child, children, childish, childhood, etc.
 
-## # Keyword searching
+### Keyword searching
 
 Subject-specific databases often contain subject dictionaries (also called thesaurus), with a list of standardized subject terms used to describe the content of documents. If you search applying standardized subject terms, you will get hits on all documents marked with this term. For example, documents in the database that deal with primary school, get the subject term primary school even if the author has used other terms (junior school, elementary school, grade school, etc.) It may be worthwhile to identify subject terms that cover your topic area. In health sciences, Medical Subject Headings (MeSH) is the most well-known glossary, and it is used in several health sciences databases.
 
@@ -84,7 +84,7 @@ Example: Search for Diabetes NOT “Gestational diabetes” will result in liter
     type="not" />
 </ClientOnly>
 
-## Using a search table
+### Using a search table
 
 The table below has three columns, one for each of the three concepts in the research question. First, combine the synonymous keywords within each column with OR. Then combine the results from the three columns with AND.
 
@@ -138,11 +138,11 @@ School*
 :::
 ::::
 
-### Citation searching
+## Citation searching
 
 Some databases and search tools, e.g., Web of Science and Google Scholar, provide citation information. That is, how many and who has used a given document in their reference list. How often a document is cited can say something about how much impact the document has had on the subject area. If you click on the link "Cited by" in Google Scholar, you will see a list of citations. Such a list can be used to highlight key documents and authors.
 
-### Searching reference lists
+## Searching reference lists
 
 It is not only by searching databases that you can find relevant and quality-assured information. If you have found a scientific article that is right up your alley, the article's reference list may refer to other relevant literature
 
