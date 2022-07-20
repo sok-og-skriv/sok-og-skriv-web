@@ -65,7 +65,7 @@ Tekst (nummer, eventuelt sidetall)
 :::: ref
 Nummer. Forfatter AA, Forfatter BB, Forfatter CC. Tittel: undertittel. Utgave. Utgivelsessted: Utgiver; Årstall. Antall sider. [hentet dato]. Tilgjengelig fra: http://...
 
-2\. Langtangen HP. A Primer on Scientific Programming with Python [Internett]. 5. utg. Berlin/Heidelberg: Springer; 2016. 914 s. [hentet 8. november 2020]. Tilgjengelig fra: [https://link.springer.com/book/10.1007%2F978-3-662-49887-3](https://link.springer.com/book/10.1007%2F978-3-662-49887-3)
+2\. Langtangen HP. A Primer on Scientific Programming with Python [Internett]. 5. utg. Berlin/Heidelberg: Springer; 2016. 914 s. [hentet 8. november 2020]. Tilgjengelig fra: [https://link.springer.com/book/10.1007%2F978-3-662-49887-3](https://link.springer.com/book/10.1007/978-3-662-49887-3)
 
 ::: details I EndNote 
 Legges inn som "Electronic Book".
@@ -158,7 +158,7 @@ I henhold til Kreftregisterets oversikt (6).
 
 Nummer. Nettstedets navn eller organisasjon. Nettsidens tittel \[Internett\]. Utgivelsessted: Utgiver (dersom tilgjengelig); Dato \[oppdatert dag, måned årstall; hentet dag, måned årstall\].Tilgjengelig fra: URL
 
-6\. Kreftregisteret. Kreft i Norge \[Internett\]. \[oppdatert 24. okt 2019; hentet 1. jan 2020\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/](https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/).
+6\. Kreftregisteret. Kreft i Norge \[Internett\]. \[oppdatert 24. okt 2019; hentet 1. jan 2020\]. Tilgjengelig fra: [https://www.kreftregisteret.no/Registrene/Kreft_i_Norge/](https://www.kreftregisteret.no/Temasider/om-kreft/).
 
 ::: details I EndNote 
 
