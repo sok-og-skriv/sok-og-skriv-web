@@ -289,7 +289,7 @@ Ofte er det tilstrekkelig å vise til avisartikler i noten, og det er ikke stren
 
 Etternavn, Fornavn. «Artikkeltittel.» _Avistittel_. Dato. Eventuelt URL/DOI
 
-Røyrane, Eva. «Hanseatene kommer tilbake.» _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
+Røyrane, Eva. «Hanseatene kommer tilbake.» _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html]
 
 ::: details I EndNote
 
