@@ -156,6 +156,6 @@ If you choose to use reference management software like EndNote, your data skill
 **Word processing:** Help pages for the use of [styles in Word](https://support.office.com/nb-no/article/bruke-stiler-f8b96097-4d25-4fac-8200-6139c8093109), generally about [Word for Windows](https://support.office.com/nb-no/word), [Word for Mac,](https://support.office.com/nb-no/article/hjelp-for-word-2016-for-mac-c3292414-89c0-46e5-82a7-d55a1720f3bd?wt.mc_id=otc_word) [LaTeX](https://www.latex-project.org/help/).
 
 
-**Reference management software:** EndNote ([UiO](https://www.ub.uio.no/english/writing-publishing/referencing/endnote/), [HVL](https://www.hvl.no/en/library/writing-and-referencing/endnote/)), Zotero ([UiO](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/), [HVL](https://www.hvl.no/en/library/writing-and-referencing/zotero/)).
+**Reference management software:** EndNote ([UiO](https://www.ub.uio.no/english/writing-publishing/referencing/endnote/), [HVL](https://www.hvl.no/en/library/writing-and-referencing/zotero-og-endnote/endnote/)), Zotero ([UiO](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/), [HVL](https://www.hvl.no/en/library/writing-and-referencing/zotero-og-endnote/zotero/)).
 
 **Purdue OWL** (Online Writing Lab) is a recognized website that offers answers to a wide range of questions about academic writing in English.
