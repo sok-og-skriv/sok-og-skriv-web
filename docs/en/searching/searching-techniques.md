@@ -76,14 +76,13 @@ Example: Search for Diabetes NOT "Gestational diabetes" will result in literatur
 <ClientOnly>
   <Venn 
     v-bind:sets="[
-        {sets: ['diabetes'], size: 12}, 
-        {sets: ['gestational diabetes'], size: 12},
-        {sets: ['diabetes','gestational diabetes'], size: 3}
+        {sets: ['Diabetes','Gestational- diabetes'], size: 3},
+        {sets: ['Diabetes'], size: 12}, 
+        {sets: ['Gestational- diabetes'], size: 12},
     ]" 
-    text="Hits when doing a NOT search"
+    text="Hits when searching with NOT"
     type="not" />
 </ClientOnly>
-
 ### Using a search table
 
 The table below has three columns, one for each of the three thematic elements in the research question. First, combine the synonymous keywords within each column with OR. Then combine the results from the three columns with AND.
