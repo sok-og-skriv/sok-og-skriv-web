@@ -35,7 +35,7 @@ When you have found relevant keywords for your search, the next step is concider
 
 ### Combining search terms using AND
 
-When you combine two serach terms with AND, you will only get hits on literature that contains both words in its reference. Combinations with AND targets the search and limits the number of hits.
+When you combine two search terms with AND, you will only get hits on literature that contains both words in its reference. Combinations with AND targets the search and limits the number of hits.
 
 Example: Search for Diabetes AND “Quality of life” only results in literature that concern *both* diabetes and quality of life.
 
