@@ -83,6 +83,7 @@ Example: Search for Diabetes NOT "Gestational diabetes" will result in literatur
     text="Hits when searching with NOT"
     type="not" />
 </ClientOnly>
+
 ### Using a search table
 
 The table below has three columns, one for each of the three thematic elements in the research question. First, combine the synonymous keywords within each column with OR. Then combine the results from the three columns with AND.
