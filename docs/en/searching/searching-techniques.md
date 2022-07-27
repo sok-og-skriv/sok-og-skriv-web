@@ -5,17 +5,17 @@ date: "2022-07-18"
 
 # Searching techniques
 
-When searching academic databases, it is useful to be familiar with basic searching techniques. In this section we will explain the most common used.
+When searching academic databases, you will benefit from knowing som basic search techniques. In this section we will explain the most commonly used.
 
 ## Free text searching
 
-Free text search, or search for text words, is the most common way to search. Your search terms are matched to the content of a reference, often on words in the title, the summary, and keywords. It is important not to be too specific and not too general when doing av free text search.
+Free text searching, or search for text words, is the most common way to search. Your search terms are matched towards the reference content, i.e. words in the title, the abstract, and keywords. Consequently, when you do a free text search, it is important that you find the right level; not too spesific, and not too general.
 
 ::: eksempel Example
-If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, summary, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
+If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, abstract, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
 :::
 
-An alternative to a free text search is searching using a controlled vocabulary.
+Alternative to free text searching is search where you search via a controlled vocabulary or thesaurus of which ar e spesific for a database, also called a **subject heading search** internlenke.
 
 ### Phrase searching
 
@@ -25,11 +25,11 @@ If your search term consists of more than one word, such as adapted education, y
 
 When truncating, you search for the stem of a word to include different endings. Usually, the truncation mark is an asterisk(\*). Child(\*) will give you hits on child, children, childish, childhood, etc.
 
-### Keyword searching
+### Subject heading search
 
 Subject-specific databases often contain subject dictionaries (also called thesaurus), with a list of standardized subject terms used to describe the content of documents. If you apply standardized subject terms in your search, you will get hits on all documents marked with this term. For example, documents in the database that deal with primary school, get the subject term primary school even if the author has used other terms (junior school, elementary school, grade school, etc.) It may be worthwhile to identify subject terms that cover your topic area. In health sciences, Medical Subject Headings (MeSH) is the most well-known glossary, and it is used in several health sciences databases.
 
-## Combine search terms
+## Combining search terms
 
 Once you have found relevant keywords for your search, you need to think about how to combine them. In most databases, you can combine keywords in three different ways: AND, OR, and NOT. This is called searching with Boolean operators.
 
