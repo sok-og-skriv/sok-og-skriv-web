@@ -73,11 +73,11 @@ When you combine your query terms with the operator NOT, your search result will
 <ClientOnly>
   <Venn 
     v-bind:sets="[
+        {sets: ['decubitus','prevention'], size: 3},
         {sets: ['decubitus'], size: 12}, 
         {sets: ['prevention'], size: 12},
-        {sets: ['decubitus','prevention'], size: 3}
     ]" 
-    text="Hits when doing a NOT search"
+    text="Hits when searching with NOT"
     type="not" />
 </ClientOnly>
 
