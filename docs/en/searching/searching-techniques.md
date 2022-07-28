@@ -15,7 +15,7 @@ Free text searching, or search for text words, is the most common way to search.
 If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, abstract, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
 :::
 
-Alternatively, or additonal, to free text searching, you can search via a subject dictionary (also called thesaurus) also called a **subject heading search** internlenke.
+Alternatively, or additonal, to free text searching, you can search via a subject vocabulary (also called thesaurus) also called a **subject heading search** internlenke.
 
 ### Phrase searching
 
@@ -71,14 +71,14 @@ Example: Search for Diabetes OR Hyperglycemia gives hits on documents containing
 
 When you combine two keywords with NOT, you will get hits on documents containing the first search term while omitting documents containing the other search term. Use the operator with cauton, as combinations with NOT can potentially exclude relevant documents.
 
-Example: Search for Diabetes NOT "Gestational diabetes" will result in literature concerning diabetes but omitting all the literature that contains the term "gestational diabetes".
+Example: Search for Diabetes NOT Geriatrics will result in literature concerning diabetes but omitting all the literature that contains the term geriatrics.
 
 <ClientOnly>
   <Venn 
     v-bind:sets="[
         {sets: ['Diabetes','Gestational- diabetes'], size: 3},
         {sets: ['Diabetes'], size: 12}, 
-        {sets: ['Gestational- diabetes'], size: 12},
+        {sets: ['Geriatrics'], size: 12},
     ]" 
     text="Hits when searching with NOT"
     type="not" />
