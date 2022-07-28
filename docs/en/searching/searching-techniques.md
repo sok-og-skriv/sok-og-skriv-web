@@ -76,7 +76,7 @@ Example: Search for Diabetes NOT Geriatrics will result in literature concerning
 <ClientOnly>
   <Venn 
     v-bind:sets="[
-        {sets: ['Diabetes','Gestational- diabetes'], size: 3},
+        {sets: ['Diabetes','Geriatrics'], size: 3},
         {sets: ['Diabetes'], size: 12}, 
         {sets: ['Geriatrics'], size: 12},
     ]" 
