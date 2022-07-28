@@ -154,4 +154,4 @@ School*
 Noen databaser og søkeverktøy, f. eks. Web of Science og Google Scholar, gir informasjon om siteringer. Det vil si hvor mange artikler e.l., og hvilke, som har sitert et gitt dokument. Hvor ofte et dokument er sitert, kan si kan si noe om hvor stor gjennomslagskraft dokumentet har hatt på fagområdet. Klikker du på lenken «Cited by» i Google Scholar, får du opp en liste med siteringer. En slik liste kan brukes til å løfte fram sentrale dokumenter og nøkkelforfattere.
 
 ## Let i referanselister
-Det er ikke bare ved å foreta søk i databaser du finner god og kvalitetssikret informasjon. Hvis du har funnet en vitenskapelig artikkel som er midt i blinken for din oppgave, kan artikkelens referanseliste vise til annen, aktuell litteratur som du kan bruke.
+Det er ikke bare ved å foreta søk i databaser du finner god og kvalitetssikret informasjon. Hvis du har funnet en vitenskapelig artikkel som er midt i blinken for din oppgave, kan artikkelens referanseliste vise til annen aktuell litteratur som du kan bruke.
