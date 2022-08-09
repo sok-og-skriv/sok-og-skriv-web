@@ -5,17 +5,19 @@ next: "../study-skills/"
 ---
 
 # How to do systematic searching
-When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. In increasing degree, students are expected to be able to perform systematic searches for research results. This is especially important to subject areas that rely on knowledge based practice.
+When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a review, or when the subject area in question places high value on knowledge based practice.
 
 ## Research question
-A research question consists of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in e.g. a database will then be easier. Here are some help-questions that can guide you when sorting out the thematic elements:
+An appropriate starting point for a systematic search is to formulate the question you want to find relevant literature to.
 
-* What is the issue/problem?
-* Is any intervention/measure/a phenomenon mentioned?
-* What population/group of people is in question?
-* Is the research question considering any special setting/context? 
+A research question will consist of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in a database or search engine will then be easier. Here are some help-questions that might guide you when sorting out the thematic elements:
 
-It is not necessarily the case that the research question contains all these thematic elements.
+* What is the **issue**/**problem**?
+* Is any **intervention**/**measure**/**phenomenon** specified?
+* What **population**/**group of people** is in question?
+* Does the question include a special **setting**/**context**? 
+
+Note that far from all research questions contain all these thematic elements.
 
 ::: eksempel Example
 What do we know about the reasons for **school refusal** among **teenagers**?
@@ -74,12 +76,6 @@ Obesity
 High BMI
 
 Excess Weight
-
-Overvektige
-
-Fedme
-
-Høy BMI
 :::
 
 ::: picoboks I
@@ -87,13 +83,7 @@ Exercise
 
 Gymnastics 
 
-Physical activity
-
-Trening
-
-Mosjon 
-
-Fysisk aktivitet 
+Physical activity 
 :::
 
 ::: picoboks C
@@ -108,16 +98,6 @@ Eating habits
 Food habits 
 
 Eating behavior
-
-Kosthold
-
-Mat
-
-Matvaner 
-
-Diett 
-
-Ernæring 
 :::
 
 ::: picoboks O
@@ -128,10 +108,6 @@ Weight reduction
 BMI reduction
 
 BMI loss
-
-Vekttap
-
-Vektreduksjon 
 :::
 :::::
 
@@ -179,7 +155,7 @@ mp = searching for textwords in the following fields of the reference: title, ab
 
 **/** = the search term is fetched from the MeSH thesaurus.
 
-**adj2** = finds terms in any order with 1 word (or none) between them.
+**adj2** = finds terms in any order with 1 word (or none) between them. ADJ1 finds the two terms in any order, with no words between them.
 
 **exp** = shows that narrower terms in the thesaurus are included.
 ::::::
