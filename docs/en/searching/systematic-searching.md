@@ -229,5 +229,5 @@ If your literature serach is part of the methodology of an assignment or thesis,
 [Download your own form here](/docs/dokumenter_sok.docx).
 
 ::: tip Tips
-It is a good idea to save your search history when you have finished a search in a database, so that you can retrieve it at a later stage, and possibly rerun the search. Also, the search history represents detailed documentation of your search.
+It is a good idea to save your search history when you have finished the search in a database, so that you can retrieve it at a later stage, and possibly rerun the search. Also, the search history represents detailed documentation of your search.
 :::
