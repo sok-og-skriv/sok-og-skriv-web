@@ -16,11 +16,11 @@ Tidsstyring vil si å planlegge tiden slik at du får best mulig utbytte av den.
 Det finnes ingen oppskrift som passer for alle. Ved å bli klar over hva som gjør at du jobber godt over tid, kan du effektivisere studiedagene dine
 
 -	Start gjerne med å finne ut når på døgnet du arbeider best  
--	Lag en enkel rutine som setter deg i studiemodus. Det kan være å dra på lesesalen hver dag kl 09.00, eller lage deg en kopp te før du starter studiedagen  
+-	Lag en enkel rutine som setter deg i studiemodus. Det kan være å dra på lesesalen hver dag kl 09.00, eller lage deg en kopp te for å starte studiedagen  
 -	Finn gjerne en arbeidsrytme som kan brukes gjennom hele semesteret  
 -	En god rytme kan skapes ved å veksle mellom ulike aktiviteter som å lese, skrive notater eller sammendrag, ta pauser, bevege seg og diskutere fagstoff med medstudenter  
 
-::: tip TIPS: _Avslutt arbeidet før du blir utslitt, mens det fortsatt er ting igjen å gjøre. Da blir det mye lettere å ta opp tråden neste dag!_
+::: tip TIPS: Avslutt arbeidet før du blir utslitt, mens det fortsatt er ting igjen å gjøre. Da blir det mye lettere å ta opp tråden neste dag!
 :::
 
 ## Skrivelogg 
@@ -56,4 +56,5 @@ For å holde fokus mens du leser kan du benytte en [leseteknikk der du fokuserer
 **Justering av planer og realistiske mål**
 Det er viktig å huske på at planene du lager ikke er hugget i stein, men ofte må justeres underveis. Gjennom semesteret vil du få ny informasjon om størrelsen på oppgaver, delmål og frister. Etter hvert vil du også bli bedre kjent med hvordan du liker å jobbe, og kan justere planene deretter. Når du lager planer og justerer dem er det viktig å sette mål som er realistiske. Kanskje hadde du planlagt å lese hele pensum to ganger, men ser etter hvert at du ikke vil rekke det fordi tiden ikke strekker til. Da kan du justere planen slik at du sørger for at du kommer deg gjennom pensum og heller tar gode notater underveis som du kan bruke når du forbereder deg til eksamen. Du kan lese mer om [lesemåter og notatteknikker her](lesemater.md).
 
-
+::: warning TIPS: Ikke sett deg mål som er så ambisiøse at du ikke klarer å oppfylle dem. Da er risikoen stor for å bli skuffet over seg selv. Et mer realistisk mål kan alltid oppjusteres når du får mer trening
+:::
