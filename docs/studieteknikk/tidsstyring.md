@@ -22,14 +22,16 @@ Det finnes ingen oppskrift som passer for alle. Ved å bli klar over hva som gj�
 -	En god dagsrytme kan skapes ved å veksle mellom ulike aktiviteter som å lese, skrive notater eller sammendrag, ta pauser, bevege seg og diskutere fagstoff med medstudenter  
 -	Finn gjerne en arbeidsrytme som kan brukes gjennom hele semesteret 
 
-::: tip TIPS: Avslutt arbeidet før du blir utslitt, mens det fortsatt er ting igjen å gjøre. Da blir det mye lettere å ta opp tråden neste dag!
+::: tip TIPS: Ikke jobb deg helt tom 
+
+Avslutt arbeidet før du blir utslitt, mens det fortsatt er ting igjen å gjøre. Da blir det mye lettere å ta opp tråden neste dag!  
 
 :::
 
 ## Skrivelogg 
 En skrivelogg er en tekst som består av korte notater og refleksjoner omkring egen skriveprosess. Skriveloggen er personlig, og loggens form og formål tilpasses dine behov. Noen ønsker kanskje å utforske de følelsesmessige sidene ved skriveprosessen og finne en vei gjennom prosessens opp- og nedturer. Andre kan ha behov for å klargjøre dagens mål og dokumentere hvorvidt målene er nådd. Uansett er tanken at loggføring kan bidra til mer fokusert arbeid, samt til bevisstgjøring av egen studie- og skrivestil. Det er også inspirerende å se tilbake på de ulike fasene som etter hvert dokumenteres i loggen, og få et perspektiv på alt du faktisk har fått til og vært gjennom. 
 
-::: eksempel **Her er et forslag som kan brukes som inspirasjon:**
+::: eksempel Her er et forslag som kan brukes som inspirasjon:
 Sett av fem minutter før en arbeidsøkt. Skriv kort hva du tenker er målet for skriveøkten, hva du konkret må gjøre for å nå det målet og hva du tenker blir utfordrende. Tanken er at du skriver deg inn i en modus der du er fokusert på skriveoppgaven som nå ligger foran deg. Når du er ferdig, kan du skrive litt om hvordan økten var, hva du fikk gjort, hva som gjenstår og hvordan du løste de hindringene du støtte på. Her skriver du deg ut av skriveøkten, slik at du kan legge teksten til side og fokusere på dagens neste aktivitet. 
 
 ::: 
@@ -53,11 +55,11 @@ Du kan også koble fra internett hvis du ikke trenger det for å jobbe, eller br
 ## Planlegging
 Når man ser for seg alle sidene som skal leses i løpet av et semester eller alt som må gjøres i forbindelse med en stor oppgave, kan man fort bli overveldet. Dette kan motvirkes gjennom god planlegging. Du kan lage planer på flere nivåer, for eksempel en overordnet plan for hele semesteret, en plan for hver uke eller for hver enkelt leseøkt. Under finner du inspirasjon til hvordan slike planer kan se ut.
 
-**Framdriftsplan**
+### Framdriftsplan
 
 En framdriftsplan er en oversikt over ulike aktiviteter du skal gjennomføre over en lengre periode, det være seg et helt semester eller en eksamensperiode. Her kan du gi deg selv oversikt over hvilke tekster som skal leses til hvilke forelesninger, delmål for oppgaver, innleveringsfrister og eksamensdatoer. Hva framdriftsplanen inneholder, avhenger av hva du skal planlegge, det vil si om du forbereder deg til en skoleeksamen, skal levere en semesteroppgave eller jobber med en større selvstendig oppgave. Lærestedets emnesider er en god ressurs for å lage en framdriftsplan. Her finner du timeplan for forelesning og seminarer, pensumliste og læringsmål for emnet, samt informasjon om oppgaver og frister. 
 
-**Leseplan**
+### Leseplan 
 
 I løpet av studietiden skal du lese mye, da er det lurt å lage strukturere leseøkter. Mange synes det er nyttig med en personlig og systematisk plan for lesingen. Leseplanen kan inneholde lengden på leseøkter, tid til å skrive og bearbeide det du har lest og pauser innimellom øktene. 
 
