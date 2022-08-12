@@ -23,7 +23,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/studieteknikk/">Studieteknikk</a></h2>
-      <p>Her får du tips om hvordan du kan lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper</p>
+      <p>Her får du tips om hvordan du kan planlegge studiene, lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper</p>
     </div>
   </div>
 
