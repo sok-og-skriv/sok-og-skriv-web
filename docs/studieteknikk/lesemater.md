@@ -16,31 +16,31 @@ Når du leser en roman som underholdning, lever du deg inn i fortellingen, blir 
 
 ## Hva er målet for lesingen?
 
-### Orientering/research: 
+### Orientering/research 
 Hvis målet ditt er å skaffe deg generell kunnskap om et nytt fag eller tema, så leser du i bredden mer enn i dybden. Du begynner kanskje med å google, studere Wikipedia, orientere deg i referanselister eller siteringer og gå på biblioteket.
 
-I en slik selvstendig og bred orientering (ofte sier vi «research») er det viktig å kritisk vurdere påliteligheten til kildene du bruker. For å vurdere kilder på nett kan det være nyttig å tverrlese (en lesemåte inspirert av profesjonelle faktasjekkere, se for eksempel [faktisk.no](https://tenk.faktisk.no/elevopplegg/tverrlesing). Relevante spørsmål du kan stille for akademisk tverrlesing finner du under [kjeldevurdering](/kjeldebruk/kjeldevurdering.html/).
+I en slik selvstendig og bred orientering (ofte sier vi «research») er det viktig å vurdere påliteligheten til kildene du bruker. For å vurdere kilder på nett, kan det være nyttig å **tverrlese**. Tverrlesing er en lesemåte inspirert av profesjonelle faktasjekkere, se for eksempel [faktisk.no](https://tenk.faktisk.no/elevopplegg/tverrlesing). Relevante spørsmål du kan stille for akademisk tverrlesing finner du under [kjeldevurdering](/kjeldebruk/kjeldevurdering.html).
 
-::: tip Husk: Teksten er et hjelpemiddel!
-En god leser er en aktiv leser. Det er ikke teksten som skal tenke for deg, men du som skal tenke ved hjelp av teksten.
+::: tip Husk: Teksten er et hjelpemiddel 
+En god leser er en aktiv leser. Det er ikke teksten som skal tenke for deg, men du som skal tenke ved hjelp av teksten!
 ::: 
 
-###Fordypning: 
-Hvis målet er å bruke det du leser for å skrive en oppgave, må du etter hvert også lese mer fokusert. Du ser etter stoff som har direkte relevans for oppgavens tema og problemstilling. Når du finner en tekst som ser ut til å kunne gi svar på problemstillingen din, så leser du i dybden med en bevisst hensikt. Du går i aktiv dialog med det du leser, gjerne ved å analysere argumentasjonen, metoden eller andre viktige trekk ved teksten. (Mer om argumentasjon finner du under [skriving](/skriving/argumentere-redegjore-drofte.md/).
+### Fordypning
+Hvis målet er å bruke det du leser for å skrive en oppgave, må du etter hvert også lese mer fokusert. Du ser etter stoff som har relevans for oppgavens tema og problemstilling, og leser i dybden med en bevisst hensikt. Neste skritt er å gå i dialog med det du leser, for eksempel ved å analysere argumentasjonen, metoden eller andre viktige trekk ved teksten. (Mer om argumentasjon finner du under [skriving](/skriving/argumentere-redegjore-drofte.html).
 
-::: eksempel Les for å skrive godt!  
-Når du leser andres akademiske tekster, lærer du mye av å se på struktur, setningsoppbygging; ordvalg og argumentasjon. Det er nærmest umulig å skrive en akademisk tekst om du aldri har lest en!
+::: tip Les for å skrive godt 
+Når du leser andres akademiske tekster, lærer du mye av å se på struktur, setningsoppbygging, ordvalg og argumentasjon. Det er nærmest umulig å skrive en god, akademisk tekst om du aldri har lest en.
 ::: 
 
 ## Å lese en tekst i flere omganger
 
-Før du bruker mye tid på en tekst er det viktig å vurdere om teksten er pålitelig, f.eks. ved å tverrlese. Det kan også være nyttig å bruke litt tid på å få et inntrykk av teksten som helhet før du går i dybden. Her er noen steg du kan følge:
+Før du bruker mye tid på en tekst, er det viktig å vurdere om teksten er pålitelig, f.eks. ved å tverrlese (se ovenfor). Det kan også være nyttig å danne seg et inntrykk av teksten som helhet før du går i dybden med den. Her er noen steg du kan følge:
 
 1.	Orienter deg i teksten. Få et første overblikk, finn ut hva slags tekst det er og hva den dreier seg om. Studer innholdsfortegnelse, overskrifter, mellomtitler, sammendrag og referanseliste. Les gjerne også innledning og konklusjon. På den måten stiller du bedre forberedt til selve lesingen: Du har allerede en idé om hva som kommer.
 
 2.	Neste skritt er en hurtig gjennomlesing. Les gjennom hele teksten uten å ta notater, bortsett fra eventuelle små merker. Hvis det er noe du ikke forstår: Les videre. Hvis du ikke synes du forstår noe som helst: Les likevel. Du kommer tilbake til det både én og to ganger.
 
-3.	Les teksten grundig. Denne gangen leser du for å forstå mest mulig. Fordyp deg i teksten. Bruk penn og papir eller elektronisk notatverktøy, og ta notater mens du leser (mer om notater under [Lesing og skriving[(lesing-og-skriving.md)]). I løpet av semesteret kan du bygge deg opp et «notat-» eller «pensumarkiv». Et slikt arkiv er gull verdt når du skal repetere før eksamen eller skrive oppgaver.
+3.	Les teksten grundig. Denne gangen leser du for å forstå mest mulig. Fordyp deg i teksten. Bruk penn og papir eller elektronisk notatverktøy, og ta notater mens du leser (mer om notater under [Lesing og skriving](/studieteknikk/lesing-og-skriving.html)). I løpet av semesteret kan du bygge deg opp et «notat-» eller «pensumarkiv». Et slikt arkiv er gull verdt når du skal repetere før eksamen eller skrive oppgaver.
 
 4.	Les for repetisjon. Når du har orientert deg i teksten, lest raskt gjennom og deretter jobbet grundig med å lese og notere, kan du legge teksten til side. Når du så vender tilbake til teksten, for eksempel uka etter, kan du lese gjennom den raskt. Antakelig vil du oppfatte teksten litt annerledes nå.
 
