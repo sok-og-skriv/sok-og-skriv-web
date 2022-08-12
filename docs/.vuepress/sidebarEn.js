@@ -11,7 +11,7 @@ module.exports = {
     'reading-and-writing',
     'study-groups',
     'argumentation-in-text',
-    'academic-genres'
+    'time-management'
   ],
   '/en/writing/': [
     '',

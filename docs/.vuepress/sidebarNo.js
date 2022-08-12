@@ -10,8 +10,7 @@ module.exports = {
     'lesemater',
     'lesing-og-skriving',
     'studiegrupper',
-    'argumentasjon-i-tekst',
-    'akademiske-sjangrer'
+    'tidsstyring'
   ],
   '/skriving/': [
     '',
@@ -47,13 +46,6 @@ module.exports = {
     'skriving',
     'kjeldebruk',
     'undervisere'
-  ],
-  '/om/brukertest/': [
-    '',
-    'eksempel2',
-    'eksempel3',
-    'eksempel4',
-    'eksempel5'
   ],
   '/': [
     '/om/',
