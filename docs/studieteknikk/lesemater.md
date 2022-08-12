@@ -19,7 +19,7 @@ Når du leser en roman som underholdning, lever du deg inn i fortellingen, blir 
 ### Orientering/research: 
 Hvis målet ditt er å skaffe deg generell kunnskap om et nytt fag eller tema, så leser du i bredden mer enn i dybden. Du begynner kanskje med å google, studere Wikipedia, orientere deg i referanselister eller siteringer og gå på biblioteket.
 
-I en slik selvstendig og bred orientering (ofte sier vi «research») er det viktig å kritisk vurdere påliteligheten til kildene du bruker. For å vurdere kilder på nett kan det være nyttig å tverrlese (en lesemåte inspirert av profesjonelle faktasjekkere, se f.eks: https://tenk.faktisk.no/elevopplegg/tverrlesing). Relevante spørsmål du kan stille for akademisk tverrlesing finner du under kildevurdering.
+I en slik selvstendig og bred orientering (ofte sier vi «research») er det viktig å kritisk vurdere påliteligheten til kildene du bruker. For å vurdere kilder på nett kan det være nyttig å tverrlese (en lesemåte inspirert av profesjonelle faktasjekkere, se for eksempel [faktisk.no](https://tenk.faktisk.no/elevopplegg/tverrlesing). Relevante spørsmål du kan stille for akademisk tverrlesing finner du under [kjeldevurdering](/kjeldebruk/kjeldevurdering.html/).
 
 ::: tip Husk: Teksten er et hjelpemiddel!
 En god leser er en aktiv leser. Det er ikke teksten som skal tenke for deg, men du som skal tenke ved hjelp av teksten.
@@ -48,7 +48,7 @@ Før du bruker mye tid på en tekst er det viktig å vurdere om teksten er påli
 
 Still spørsmål til teksten, og forsøk å «tvinge» den til å svare. Når du leser en tekst med tanke på å få den til å kaste lys over noe du lurer på eller ikke forstår, vil lesingen bli både lettere og mer interessant. Spørsmålene kan variere med lesingens formål: alt fra spørsmål om tekstens agenda og hovedbudskap, hvordan argumentasjonen fungerer, til spesifikke spørsmål om ord og begreper. 
 
-###Pensum: 
+### Pensum 
 Når du leser pensum kan du stort sett stole på at andre har gjort en grundig kildevurdering for deg. Det er likevel nyttig å stille kritiske spørsmål utover innholdet i pensumtekstene, som for eksempel: Hvorfor har vi denne teksten på pensum? Hvordan passer denne teksten med emnebeskrivelsen og forventet læringsutbytte i kurset? 
 
 
