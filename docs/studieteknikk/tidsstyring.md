@@ -5,6 +5,8 @@ tags:
   - Studieplan 
   - Planlegging
   - Loggskriving 
+  - tidsstyring 
+  - shut up and write 
 
 ---
 
