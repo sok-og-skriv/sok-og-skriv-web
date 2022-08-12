@@ -17,8 +17,8 @@ Det finnes ingen oppskrift som passer for alle. Ved å bli klar over hva som gj�
 
 -	Start gjerne med å finne ut når på døgnet du arbeider best  
 -	Lag en enkel rutine som setter deg i studiemodus. Det kan være å dra på lesesalen hver dag kl 09.00, eller lage deg en kopp te for å starte studiedagen  
--	Finn gjerne en arbeidsrytme som kan brukes gjennom hele semesteret  
--	En god rytme kan skapes ved å veksle mellom ulike aktiviteter som å lese, skrive notater eller sammendrag, ta pauser, bevege seg og diskutere fagstoff med medstudenter  
+-	En god dagsrytme kan skapes ved å veksle mellom ulike aktiviteter som å lese, skrive notater eller sammendrag, ta pauser, bevege seg og diskutere fagstoff med medstudenter  
+-	Finn gjerne en arbeidsrytme som kan brukes gjennom hele semesteret 
 
 ::: tip TIPS: Avslutt arbeidet før du blir utslitt, mens det fortsatt er ting igjen å gjøre. Da blir det mye lettere å ta opp tråden neste dag!
 :::
@@ -55,10 +55,10 @@ En fremdriftsplan er en oversikt over ulike aktiviteter du skal gjennomføre ove
 I løpet av studietiden skal du lese mye, da er det lurt å lage strukturere leseøkter. Mange synes det er nyttig med en personlig og systematisk plan for lesingen. Leseplanen kan inneholde lengden på leseøkter, tid til å skrive og bearbeide det du har lest og pauser innimellom øktene. Her er et eksempel på hvordan du kan strukturere en leseøkt: 
 Bestem deg for hva du skal lese. Les i økter på 25 minutter med fem minutters pause mellom øktene. Etter tre slike økter legger du inn ti minutter hvor du skal skrive om det du har lest. Det kan være et sammendrag av artikkelen eller kapitlet du har jobbet med, eller spørsmål til ting du ikke forsto mens du leste. Etter skriveøkten tar du en 15 minutters pause. Deretter gjennomfører du tre nye økter med lesing etterfulgt av en kort skriveøkt som beskrevet over. Nå har det gått litt over tre og en halv time der du fått inn seks fokuserte leseøkter og bearbeidet det du har lest skriftlig. 
 
-For å holde fokus mens du leser kan du benytte en [leseteknikk der du fokuserer på argumentasjon](/lesemater.md/). 
+For å holde fokus mens du leser kan du benytte en [leseteknikk der du fokuserer på argumentasjon](/lesing/lesemater.html/). 
 
 **Justering av planer og realistiske mål**
 Det er viktig å huske på at planene du lager ikke er hugget i stein, men ofte må justeres underveis. Gjennom semesteret vil du få ny informasjon om størrelsen på oppgaver, delmål og frister. Etter hvert vil du også bli bedre kjent med hvordan du liker å jobbe, og kan justere planene deretter. Når du lager planer og justerer dem er det viktig å sette mål som er realistiske. Kanskje hadde du planlagt å lese hele pensum to ganger, men ser etter hvert at du ikke vil rekke det fordi tiden ikke strekker til. Da kan du justere planen slik at du sørger for at du kommer gjennom pensum og heller tar gode notater underveis som kan brukes når du forbereder deg til eksamen. Du kan lese mer om [lesemåter og notatteknikker her](lesemater.md).
 
-::: warning TIPS: Ikke sett deg mål som er så ambisiøse at du ikke klarer å oppfylle dem. Da er risikoen stor for å bli skuffet over seg selv. Et mer realistisk mål kan alltid oppjusteres når du får mer trening
+::: warning Vær realistisk: Ikke sett deg mål som er så ambisiøse at du ikke klarer å oppfylle dem. Da er risikoen stor for å bli skuffet over seg selv. Et mer realistisk mål kan alltid oppjusteres når du får mer trening
 :::
