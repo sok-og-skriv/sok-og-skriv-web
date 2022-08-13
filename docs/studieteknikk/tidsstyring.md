@@ -18,7 +18,7 @@ Tidsstyring vil si å planlegge tiden slik at du får best mulig utbytte av den.
 Det finnes ingen oppskrift som passer for alle. Ved å bli klar over hva som gjør at du jobber godt over tid, kan du effektivisere studiedagene dine.
 
 -	Start gjerne med å finne ut når på døgnet du arbeider best  
--	Lag en enkel rutine som setter deg i studiemodus. Det kan være å dra på lesesalen hver dag kl 09.00, eller lage deg en kopp te for å starte studiedagen  
+-	Lag en enkel rutine som setter deg i studiemodus. For noen kan det være å dra på lesesalen hver dag kl 09.00, for andre, å lage seg seg en kopp te. Det viktige her er det konkrete signalet til hjernen, om at nå starter studiedagen  
 -	En god dagsrytme kan skapes ved å veksle mellom ulike aktiviteter som å lese, skrive notater eller sammendrag, ta pauser, bevege seg og diskutere fagstoff med medstudenter  
 -	Finn gjerne en arbeidsrytme som kan brukes gjennom hele semesteret 
 
