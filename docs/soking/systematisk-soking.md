@@ -1,6 +1,7 @@
 # Hvordan søke systematisk
 
-Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart. Sistnevnte betyr at søket skal kunne gjentas med samme resultat. I økende grad forventes det at studenter kan gjøre systematiske søk etter forskningsresultater. Dette gjelder særlig fag som støtter seg til kunnskapsbasert praksis.
+Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart. Sistnevnte betyr at søket skal kunne gjentas med samme resultat. I økende grad forventes det at studenter kan gjøre systematiske søk etter forskningsresultater. Dette gjelder særlig når man skal skrive en [oversiktsartikkel/review-artikkel](/kjeldebruk/ulike-kjelder.html#oversiktsartikkel-review-artikkel) eller for fagområder som i stor grad støtter seg til kunnskapsbasert praksis.
+
 
 ## Problemstilling
 
