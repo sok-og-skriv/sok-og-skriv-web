@@ -33,7 +33,7 @@ Når du har valgt alle relevante søkeord, må du tenke gjennom hvordan de skal 
 
 ### Kombinasjon med AND
 
-Dersom du velger å kombinere to søkeord med AND, får du bare treff på litteratur som omhandler begge ordene. Kombinasjoner med AND spisser søket, og bidrar til å **begrense** antall treff.
+Dersom du velger å kombinere to søkeord med AND, får du bare treff på litteratur som inneholder begge søkeordene. Kombinasjoner med AND spisser søket, og bidrar til å **begrense** antall treff.
 
 Eksempel: Søk på **Diabetes AND Livskvalitet** gir bare treff på litteratur hvor **begge** søkeordene diabetes og livskvalitet forekommer.
 
@@ -67,7 +67,7 @@ Eksempel: Søk på **Diabetes OR Sukkersyke** gir treff på litteratur som inneh
 
 ### Kombinasjon med NOT
 
-Dersom du velger å kombinere to søkeord med NOT, får du treff på dokumenter som inneholder det første søkeordet mens doukumentene som inneholder det andre søkeordet (søkeordet etter etter NOT) utelates. Bruk NOT-operatoren med forsiktighet, da den potensielt kan ekskludere relevant litteratur.
+Dersom du velger å kombinere to søkeord med NOT, får du treff på dokumenter som inneholder det første søkeordet mens dokumentene som inneholder det andre søkeordet (søkeordet etter etter NOT) utelates. Bruk NOT-operatoren med forsiktighet, da den potensielt kan ekskludere relevant litteratur.
 
 Eksempel: Søk på **Diabetes NOT Svangerskapsdiabetes** gir treff på litteratur som inneholder søkeordet diabetes, men utelater samtidig all litteratur hvor søkeordet svangerskapsdiabetes forekommer i referansen.
 
