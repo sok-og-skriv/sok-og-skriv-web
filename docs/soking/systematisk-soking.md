@@ -4,15 +4,16 @@ Når du foretar et systematisk søk, skal søket være planmessig gjennomført, 
 
 
 ## Problemstilling
+Et hensiktsmessig startpunkt for et systematisk søk er å formulere et spørsmål/en problemstillig du ønsker å finne relevant litteratur til.
 
-En problemstilling består av to eller flere tematiske elementer. Før du kan foreta et systematisk søk, bør du strukturere problemstillingen din og skille ut de sentrale tematiske elementene. Da blir overgangen til søking i f.eks. en database enklere. Noen hjelpespørsmål som kan deg med å skille ut de tematiske elementene:
+En problemstilling vil bestå av to eller flere tematiske elementer. Før du kan foreta et systematisk søk, bør du strukturere problemstillingen din og skille ut de sentrale tematiske elementene. Da blir overgangen til søking i en database eller søkemotor enklere. Her er noen hjelpespørsmål som kan hjelpe deg med å skille ut de tematiske elementene:
 
-* Er det snakk om en problematikk?
-* Er det snakk om en intervensjon/et tiltak/et utfall/et fenomen?
-* Er det snakk en populasjon/gruppe med mennesker?
-* Er det snakk om setting/kontekst?
+* Hva er **problematikken**?
+* Er en **intervensjon/et tiltak/et utfall/et fenomen** spesifisert?
+* Er en **populasjon/gruppe med mennesker** spesifisert?
+* Inkluderer problemstillingen en **setting/kontekst**?
 
-Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inneholder samtlige tematiske elementer over. 
+Vær oppmerksom på at langt fra alle problemstillinger er så komplekse at de inneholder samtlige tematiske elementer over. 
 
 ::: eksempel Eksempel
 
@@ -143,7 +144,8 @@ BMI loss
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
-Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
+Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND eller OR i søkehistorikken: 
+
 
 | #  | Søk                                    | Resultat |
 | -- | -------------------------------------- | -------- |
@@ -182,13 +184,15 @@ mp = søk på tekstord i følgende felt i referansen: title, abstract, original 
 
 **/** = søketermen er hentet fra emneordlisten MeSH
 
-**adjx** = søketermene kan opptre i begge rekkefølger, med inntil x ord mellom
+**adj2** = søketermene kan opptre i begge rekkefølger, med inntil 1 (eller ingen) ord mellom. ADJ1 finner to søketermer i begge rekkefølger, med ingen ord mellom.
 
 **exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
 ::::::
 
 ## Søkeord
-Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene er inkludert i søket ditt, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+Sett opp en søkeordtabell med en kolonne for hvert av de tematiske elementene. Innenfor hver kolonne legger du til relevante synonymer og eventuelle alternative stavemåter. Denne type tabell vil gi deg en strukturert oversikt over søkeordene dine. Samtidig sikrer du at alle elementene er inkludert i søket ditt, uavhengig av hvilke ord/begreper som er brukt for å beskrive de tematiske elementene.
+
+Det kan lønne seg å jonbbe litt med forbedring av søkeordtabellen ved å legge til relevante synonymer. Videre bør du også vurdere bruk av [trunkering](/soking/soketeknikker.html#trunkering) og [anførselstegn](/soking/soketeknikker.html#frases%C3%B8k) på søketermene dine.
 
 ::: eksempel Eksempel: Søketabell
 
@@ -209,7 +213,7 @@ Bruk de tematiske elementene til å lage en søketabell med oversikt over de tem
 
 ## Kombinasjon av søkeord i databasens søkehistorikk
 
-De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
+De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. 
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Web of Science
 
