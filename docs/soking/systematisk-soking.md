@@ -229,9 +229,9 @@ Topic = søk på tekstord i følgende felt i referansen: title, abstract og auth
 
 ## Gjennomgang av søkeresultat
 
-En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsnevring eller dreining av problemstillingen - eller begge deler, som vårt eksempel viser.
+En gjennomgang av trefflisten kan gi deg ny innsikt, og fører kanskje til at du ønsker å endre den opprinnelige problemstillingen din. Et et veldig høyt antall relevante resultater kan synliggjøre at problemstillingen din er for vid, og at den bør «spisses» for å bli mer presis. Hvis det er tilfellet, må du tilpasse søkestrategien din i henhold til endringene i de tematiske elementene i den justerte problemstillingen din. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å fokusere på angst som årsak til skolevegring. Kanskje man også velger å undersøke hvilke tiltak som finnes for denne gruppen med elever. 
 
-De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
+De enkelte databasene inneholder filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
 
 * årstall
 * publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
@@ -242,7 +242,7 @@ De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflist
 * fagområde
 
 ::: warning Husk at:
-* enhver avgrensing kan føre til at du går glipp av viktig informasjon
+* enhver avgrensing kan føre til at du går glipp av relevante artikler
 * den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
 :::
 
