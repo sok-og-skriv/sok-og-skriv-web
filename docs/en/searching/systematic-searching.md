@@ -197,7 +197,7 @@ A review of the results list can give you new insights, and maybe even lead you 
 
 Using our research question as an example; let us say that our results list implies that a common reason for school avoidance are psychological problems, such as anxiety. Then it might be an idea to narrow the research question by focusing on anxiety as reason for school avoidance. Maybe one also chooses to examine what interventions that exists for this population of students.
 
-The databases contain filters, so that you can limit your results list based on your needs. Examples of filters are: 
+The databases contain filters, so that you can limit your results list based on your needs. Examples of filters are 
 
 * Publication year
 * Publication type (research articles, review articles, book chapters, conference proceedings etc.)
@@ -207,9 +207,9 @@ The databases contain filters, so that you can limit your results list based on 
 * Research method
 * Subject area
 
-::: warning Keep in mind that:
-* Any limitation can lead to loosing relevant articles.
-* The results list will most likely also contain articles that are not relevant, meaning that every article's quality and relevance must be assessed according to your research question.
+::: warning Keep in mind that
+* any limitation can lead to loosing relevant articles
+* the results list will most likely also contain articles that are not relevant, meaning that every article's quality and relevance must be assessed according to your research question
 :::
 
 ## Saving your search
@@ -218,13 +218,13 @@ Most databases offer you the option to save your searches and send the search hi
 
 ## Documenting your search
 
-If your literature serach is part of the methodology of an assignment or thesis, the search process must be described in enough detail so that the quality of the search can be evaluated, and to be able to repeat the search. When documenting your search you should include:
+If your literature search is part of the methodology of an assignment or thesis, the search process must be described in enough detail so that the search can be evaluated and repeated. When documenting your search you should include
 
-* Which databases you have searched in.
-* Which search terms you have used and how they are combined (AND/OR/NOT)
-* If you have used the database subject terms (thesaurus), and if so, which.
-* If you have used some of the filters provided by the database, and if so, which.
-* The date for when the search was done.
+* which databases you have searched in
+* which search terms you have used and how they are combined (AND/OR/NOT)
+* if you have used the database subject terms (thesaurus), and if so, which
+* if you have used some of the filters provided by the database, and if so, which
+* the date for when the search was done
 
 [Download your own form here](/docs/dokumenter_sok.docx).
 
