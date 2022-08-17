@@ -22,7 +22,7 @@ Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
 Problemstillingen inneholder problematikken *skolevegring* og populasjonen *tenåringer*, som dermed utgjør de tematiske elementene.
 :::
 
-De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](./planlegg-soket-ditt.md#valg-av-databaser)
+De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](./planlegg-soket-ditt.md#valg-av-databaser).
 
 
 :::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
@@ -192,7 +192,7 @@ mp = søk på tekstord i følgende felt i referansen: title, abstract, original 
 ## Søkeord
 Sett opp en søkeordtabell med en kolonne for hvert av de tematiske elementene. Innenfor hver kolonne legger du til relevante synonymer og eventuelle alternative stavemåter. Denne type tabell vil gi deg en strukturert oversikt over søkeordene dine. Samtidig sikrer du at alle elementene er inkludert i søket ditt, uavhengig av hvilke ord/begreper som er brukt for å beskrive de tematiske elementene.
 
-Det kan lønne seg å jonbbe litt med forbedring av søkeordtabellen ved å legge til relevante synonymer. Videre bør du også vurdere bruk av [trunkering](/soking/soketeknikker.html#trunkering) og [anførselstegn](/soking/soketeknikker.html#frases%C3%B8k) på søketermene dine.
+Det kan lønne seg å jobbe litt med forbedring av søkeordtabellen ved å legge til relevante synonymer. Videre bør du også vurdere bruk av [trunkering](/soking/soketeknikker.html#trunkering) og [anførselstegn](/soking/soketeknikker.html#frases%C3%B8k) på søketermene dine.
 
 ::: eksempel Eksempel: Søketabell
 
@@ -252,11 +252,11 @@ De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikk
 
 ## Dokumentasjon av søk
 
-Hvis litteratursøket ditt er en del av metoden i en oppgaven, må du beskrive selve søkeprosessen grundig slik at  kvaliteten på søket kan evalueres, og at søket kan gjentas. Da bør du si noe om
+Hvis litteratursøket er en del av metoden i oppgaven din, må du beskrive selve søkeprosessen grundig slik at kvaliteten på søket kan evalueres, og at søket kan gjentas. Da bør du si noe om
 
 * hvilke databaser du har valgt å søke i
 * hvilke søketermer du har brukt og hvordan de er kombinert (AND/OR/NOT)
-* du har benyttet databasens egne emneord, og evt. hvilk
+* du har benyttet databasens egne emneord, og evt. hvilke
 * du har benyttet noen av filtrene i databasen, og evt. hvilke
 * dato for når søket ble foretatt
 
