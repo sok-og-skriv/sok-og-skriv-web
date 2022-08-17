@@ -116,7 +116,7 @@ BMI loss
 
 ::: eksempel Example: Systematic search presented via search history
 
-Below you see an example of systematic search with explanation presented via the [search history](internlenke) in Ovid Medline. The search process becomes flexible and evident when searching for one search term at the time, and then combine them in the search history using AND or OR.
+Below you see an example of systematic search with explanation presented via the [search history](internlenke) in Ovid Medline. The search process becomes flexible and evident when searching for one search term at the time, and then combine them in the search history using AND or OR:
 
 | #  | Search                                 | Results  |
 | -- | -------------------------------------- | -------- |
