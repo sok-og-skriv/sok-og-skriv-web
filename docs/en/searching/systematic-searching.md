@@ -13,7 +13,7 @@ An appropriate starting point for a systematic search is to formulate the questi
 A research question will consist of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in a database or search engine will then be easier. Here are some help-questions that might guide you when sorting out the thematic elements:
 
 * What is the **issue**/**problem**?
-* Is any **intervention**/**measure**/**phenomenon** specified?
+* Is any **intervention**/**measure**/**outcome**/**phenomenon** specified?
 * What **population**/**group of people** is in question?
 * Does the question include a special **setting**/**context**? 
 
@@ -199,13 +199,13 @@ Using our research question as an example; let us say that our results list impl
 
 The databases contain filters, so that you can limit your results list based on your needs. Examples of filters are 
 
-* Publication year
-* Publication type (research articles, review articles, book chapters, conference proceedings etc.)
-* Language
-* Geographic area
-* Age group
-* Research method
-* Subject area
+* publication year
+* publication type (research articles, review articles, book chapters, conference proceedings etc.)
+* language
+* geographic area
+* age group
+* research method
+* subject area
 
 ::: warning Keep in mind that
 * any limitation can lead to loosing relevant articles
