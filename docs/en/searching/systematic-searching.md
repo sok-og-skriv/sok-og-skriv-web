@@ -193,7 +193,7 @@ Topic = search for textwords in the following fields of the reference: Title, ab
 :::
 
 ## Reviewing the search result
-A review of the results list can give you new insights, and maybe even lead you to change your original research question. A very high number of relevant results may indicate that your research question is too broad, and that it should be narrowed to become more precise. If this is the case you need to adjust the serach straytegy with respect to the changes made in main thematic elements in you adjusted research question. 
+A review of the results list can give you new insights, and maybe even lead you to change your original research question. A very high number of relevant results may indicate that your research question is too broad, and that it should be narrowed to become more precise. If this is the case you need to adjust the serach strategy with respect to the changes made in main thematic elements in you adjusted research question. 
 
 Using our research question as an example; let us say that our results list implies that a common reason for school avoidance are psychological problems, such as anxiety. Then it might be an idea to narrow the research question by focusing on anxiety as reason for school avoidance. Maybe one also chooses to examine what interventions that exists for this population of students.
 
