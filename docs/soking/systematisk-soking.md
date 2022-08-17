@@ -229,9 +229,9 @@ Topic = søk på tekstord i følgende felt i referansen: title, abstract og auth
 
 ## Gjennomgang av søkeresultat
 
-En gjennomgang av trefflisten kan gi deg ny innsikt, og fører kanskje til at du ønsker å endre den opprinnelige problemstillingen din. Et et veldig høyt antall relevante resultater kan synliggjøre at problemstillingen din er for vid, og at den bør «spisses» for å bli mer presis. Hvis det er tilfellet, må du tilpasse søkestrategien din i henhold til endringene i de tematiske elementene i den justerte problemstillingen din. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å fokusere på angst som årsak til skolevegring. Kanskje man også velger å undersøke hvilke tiltak som finnes for denne gruppen med elever. 
+En gjennomgang av trefflisten kan gi deg ny innsikt, og fører kanskje til at du ønsker å endre den opprinnelige problemstillingen din. Et et veldig høyt antall relevante resultater kan synliggjøre at problemstillingen din er for vid, og at den bør «spisses» for å bli mer presis. Hvis det er tilfellet, må du tilpasse søkestrategien din i henhold til endringene i de tematiske elementene i den justerte problemstillingen din. La oss si at i tilfellet med søket til problemstillingen vi har brukt som eksempel over, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å fokusere på angst som årsak til skolevegring. Kanskje man også velger å undersøke hvilke tiltak som finnes for denne gruppen med elever. 
 
-De enkelte databasene inneholder filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
+De enkelte databasene inneholder filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på
 
 * årstall
 * publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
@@ -241,9 +241,9 @@ De enkelte databasene inneholder filtre, slik at du kan avgrense trefflisten din
 * forskningsmetode
 * fagområde
 
-::: warning Husk at:
+::: warning Husk at
 * enhver avgrensing kan føre til at du går glipp av relevante artikler
-* den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
+* resultatlisten din vil sannsynligvis også inneholde artikler som ikke er særlig relevante. Du må derfor vurdere den enkelte artikkels kvalitet og relevans i forhold til din problemstilling
 :::
 
 ## Lagring av søk
@@ -252,12 +252,12 @@ De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikk
 
 ## Dokumentasjon av søk
 
-I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Da bør du si noe om:
+Hvis litteratursøket ditt er en del av metoden i en oppgaven, må du beskrive selve søkeprosessen grundig slik at  kvaliteten på søket kan evalueres, og at søket kan gjentas. Da bør du si noe om
 
 * hvilke databaser du har valgt å søke i
-* hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
-* har du benyttet databasens emneordsliste?
-* har du benyttet noen av filtrene i databasen?
+* hvilke søketermer du har brukt og hvordan de er kombinert (AND/OR/NOT)
+* du har benyttet databasens egne emneord, og evt. hvilk
+* du har benyttet noen av filtrene i databasen, og evt. hvilke
 * dato for når søket ble foretatt
 
 [Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
