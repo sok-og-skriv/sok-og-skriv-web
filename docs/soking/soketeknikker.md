@@ -33,7 +33,7 @@ Når du har valgt alle relevante søkeord, må du tenke gjennom hvordan de skal 
 
 ### Kombinasjon med AND
 
-Dersom du velger å kombinere to søkeord med AND, får du bare treff på litteratur som inneholder begge søkeordene. Kombinasjoner med AND spisser søket, og bidrar til å **begrense** antall treff.
+Dersom du velger å kombinere to søkeord med AND, får du kun treff på litteratur som inneholder begge søkeordene. Kombinasjoner med AND spisser søket, og bidrar til å **begrense** antall treff.
 
 Eksempel: Søk på **Diabetes AND Livskvalitet** gir bare treff på litteratur hvor **begge** søkeordene diabetes og livskvalitet forekommer.
 
@@ -50,7 +50,7 @@ Eksempel: Søk på **Diabetes AND Livskvalitet** gir bare treff på litteratur h
 
 ### Kombinasjon med OR
 
-Dersom du velger å kombinere to søkeord med OR, får du treff som inneholder det ene, det andre eller begge søkeordene. Kombinasjoner med OR utvider søket og gir deg **flere** treff. OR brukes som regel ved synonyme søkeord.
+Dersom du velger å kombinere to søkeord med OR, får du treff som inneholder det ene, det andre eller begge søkeordene. Kombinasjoner med OR utvider søket og gir deg **flere** treff. OR brukes som regel ved synonyme søkeord.
 
 Eksempel: Søk på **Diabetes OR Sukkersyke** gir treff på litteratur som inneholder søkeordene diabetes eller sukkersyke, eller begge deler.
 
@@ -87,7 +87,7 @@ Eksempel: Søk på **Diabetes NOT Svangerskapsdiabetes** gir treff på litteratu
 
 Tabellen nedenfor har tre kolonner, en for hvert av de tre tematiske elementene i problemstillingen. Først kombineres de synonyme søkeordene i hver kolonne med ELLER, så kombineres resultatene for hver av de tre kolonnene med OG.
 
-Denne framgangsmåten kan brukes på de aller fleste prosjekter.
+Denne framgangsmåten kan brukes for de aller fleste prosjekter.
 
 Problemstilling: «Hvordan har globaliseringen påvirket sosiale ulikheter innenfor utdanningssystemet?» 
 
