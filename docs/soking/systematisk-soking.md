@@ -1,17 +1,19 @@
 # Hvordan søke systematisk
 
-Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart. Sistnevnte betyr at søket skal kunne gjentas med samme resultat. I økende grad forventes det at studenter kan gjøre systematiske søk etter forskningsresultater. Dette gjelder særlig fag som støtter seg til kunnskapsbasert praksis.
+Når du foretar et systematisk søk, skal søket være planmessig gjennomført, godt dokumentert, og det skal være etterprøvbart. Sistnevnte betyr at søket skal kunne gjentas med samme resultat. I økende grad forventes det at studenter kan gjøre systematiske søk etter forskningsresultater. Dette gjelder særlig når man skal skrive en [oversiktsartikkel/review-artikkel](/kjeldebruk/ulike-kjelder.html#oversiktsartikkel-review-artikkel) eller for fagområder som i stor grad støtter seg til kunnskapsbasert praksis.
+
 
 ## Problemstilling
+Et hensiktsmessig startpunkt for et systematisk søk er å formulere et spørsmål/en problemstillig du ønsker å finne relevant litteratur til.
 
-En problemstilling består av to eller flere tematiske elementer. Før du kan foreta et systematisk søk, bør du strukturere problemstillingen din og skille ut de sentrale tematiske elementene. Da blir overgangen til søking i f.eks. en database enklere. Noen hjelpespørsmål som kan deg med å skille ut de tematiske elementene:
+En problemstilling vil bestå av to eller flere tematiske elementer. Før du kan foreta et systematisk søk, bør du strukturere problemstillingen din og skille ut de sentrale tematiske elementene. Da blir overgangen til søking i en database eller søkemotor enklere. Her er noen hjelpespørsmål som kan hjelpe deg med å skille ut de tematiske elementene:
 
-* Er det snakk om en problematikk?
-* Er det snakk om en intervensjon/et tiltak/et utfall/et fenomen?
-* Er det snakk en populasjon/gruppe med mennesker?
-* Er det snakk om setting/kontekst?
+* Hva er **problematikken**?
+* Er en **intervensjon/et tiltak/et utfall/et fenomen** spesifisert?
+* Er en **populasjon/gruppe med mennesker** spesifisert?
+* Inkluderer problemstillingen en **setting/kontekst**?
 
-Det er ikke nødvendigvis slik at en problemstilling er så kompleks at den inneholder samtlige tematiske elementer over. 
+Vær oppmerksom på at langt fra alle problemstillinger er så komplekse at de inneholder samtlige tematiske elementer over. 
 
 ::: eksempel Eksempel
 
@@ -20,7 +22,7 @@ Hva vet vi om årsakene til **skolevegring** hos **tenåringer**?
 Problemstillingen inneholder problematikken *skolevegring* og populasjonen *tenåringer*, som dermed utgjør de tematiske elementene.
 :::
 
-De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](./planlegg-soket-ditt.md#valg-av-databaser)
+De tematiske elementene danner utgangspunktet for å planlegge søket videre, hvor neste steg blir [å finne gode søkeord](./planlegg-soket-ditt.md#valg-av-databaser).
 
 
 :::::: details I helsefagene er PICO- og SPIDER-skjemaet mye brukt i fasen med å skille ut de tematiske elementene i problemstillingen
@@ -55,7 +57,7 @@ Vekttap
 :::
 ::::
 
-I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» \(C\) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle (O), er overvektiges (populasjonens) vekttap.
+I dette eksempelet er vi interessert i effekten av tiltaket «trening» (I) sett i forhold til effekten av «kosthold» \(C\) . Det vil si at vi ønsker å finne studier som sammenligner disse to tiltakene. Det vi ønsker å måle, er overvektiges (P) vekttap (O) .
 :::::
 
 Det er ikke alltid hensiktsmessig å fylle ut alle fire elementene i PICO-skjemaet. Noen ganger har man ingen klar I (intervensjon), andre ganger mangler C (sammenligning) og andre ganger finnes ingen tydelig formulert O (utfall).
@@ -142,7 +144,8 @@ BMI loss
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Ovid Medline
 
-Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline:
+Nedenfor ser du et eksempel på systematisk søk med forklaring presentert via [søkehistorikken](#kombinasjon-av-s%C3%B8keord-i-databasens-s%C3%B8kehistorikk) i Ovid Medline. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND eller OR i søkehistorikken: 
+
 
 | #  | Søk                                    | Resultat |
 | -- | -------------------------------------- | -------- |
@@ -181,13 +184,15 @@ mp = søk på tekstord i følgende felt i referansen: title, abstract, original 
 
 **/** = søketermen er hentet fra emneordlisten MeSH
 
-**adjx** = søketermene kan opptre i begge rekkefølger, med inntil x ord mellom
+**adj2** = søketermene kan opptre i begge rekkefølger, med inntil 1 (eller ingen) ord mellom. ADJ1 finner to søketermer i begge rekkefølger, med ingen ord mellom.
 
 **exp** = viser at underordnede termer i emneordlisten MeSH er tatt med i søket
 ::::::
 
 ## Søkeord
-Bruk de tematiske elementene til å lage en søketabell med oversikt over de tematiske elementene med tilhørende søkeord du skal bruke. På den måten sikrer du at alle elementene er inkludert i søket ditt, uavhengig av hvilke ord/begreper som er brukt for å beskrive tematiske elementene.
+Sett opp en søkeordtabell med en kolonne for hvert av de tematiske elementene. Innenfor hver kolonne legger du til relevante synonymer og eventuelle alternative stavemåter. Denne type tabell vil gi deg en strukturert oversikt over søkeordene dine. Samtidig sikrer du at alle elementene er inkludert i søket ditt, uavhengig av hvilke ord/begreper som er brukt for å beskrive de tematiske elementene.
+
+Det kan lønne seg å jobbe litt med forbedring av søkeordtabellen ved å legge til relevante synonymer. Videre bør du også vurdere bruk av [trunkering](/soking/soketeknikker.html#trunkering) og [anførselstegn](/soking/soketeknikker.html#frases%C3%B8k) på søketermene dine.
 
 ::: eksempel Eksempel: Søketabell
 
@@ -208,7 +213,7 @@ Bruk de tematiske elementene til å lage en søketabell med oversikt over de tem
 
 ## Kombinasjon av søkeord i databasens søkehistorikk
 
-De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. Søkeprosessen blir fleksibel og tydelig dersom du velger å søke på ett og ett ord for så å kombinere søkene med AND, OR eller NOT i søkehistorikken. 
+De fleste store artikkeldatabaser gir deg tilgang til en søkehistorikk. Søkehistorikken viser hvilke emneord og tekstord du har søkt på, hvordan de er kombinert og hvor mange treff hvert søk har gitt. 
 
 ::: eksempel Eksempel: Systematisk søk presentert via søkehistorikken i Web of Science
 
@@ -224,9 +229,9 @@ Topic = søk på tekstord i følgende felt i referansen: title, abstract og auth
 
 ## Gjennomgang av søkeresultat
 
-En gjennomgang av trefflisten kan gi deg ny innsikt som igjen fører til at du ønsker å endre den opprinnelige problemstillingen. På samme måte kan en svært lang treffliste synliggjøre at problemstillingen er for vid, og at den bør «spisses» for å bli mer presis. I slike tilfeller må søkestrategien settes opp på nytt, og søket justeres i henhold til den nye problemstillingen. La oss si at i tilfellet med søket til vår problemstilling, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å belyse angst som årsak til skolevegring, og videre undersøke hvilke tiltak som finnes for denne gruppen med elever. Slik kan en gjennomgang av trefflisten føre til en innsnevring eller dreining av problemstillingen - eller begge deler, som vårt eksempel viser.
+En gjennomgang av trefflisten kan gi deg ny innsikt, og fører kanskje til at du ønsker å endre den opprinnelige problemstillingen din. Et et veldig høyt antall relevante resultater kan synliggjøre at problemstillingen din er for vid, og at den bør «spisses» for å bli mer presis. Hvis det er tilfellet, må du tilpasse søkestrategien din i henhold til endringene i de tematiske elementene i den justerte problemstillingen din. La oss si at i tilfellet med søket til problemstillingen vi har brukt som eksempel over, tyder trefflisten på at en vanlig årsak til skolevegring er psykiske vansker, som angst. Da kan det være en idé å snevre inn problemstillingen ved å fokusere på angst som årsak til skolevegring. Kanskje man også velger å undersøke hvilke tiltak som finnes for denne gruppen med elever. 
 
-De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på:
+De enkelte databasene inneholder filtre, slik at du kan avgrense trefflisten din etter behov. Du kan for eksempel avgrense på
 
 * årstall
 * publikasjonstype (forskningsartikler, review-artikler, bokkapitler osv.)
@@ -236,9 +241,9 @@ De enkelte databasene inneholder også filtre, slik at du kan avgrense trefflist
 * forskningsmetode
 * fagområde
 
-::: warning Husk at:
-* enhver avgrensing kan føre til at du går glipp av viktig informasjon
-* den enkelte artikkels kvalitet og relevans må vurderes i forhold til din problemstilling
+::: warning Husk at
+* enhver avgrensing kan føre til at du går glipp av relevante artikler
+* resultatlisten din vil sannsynligvis også inneholde artikler som ikke er særlig relevante. Du må derfor vurdere den enkelte artikkels kvalitet og relevans i forhold til din problemstilling
 :::
 
 ## Lagring av søk
@@ -247,12 +252,12 @@ De fleste databaser gir deg mulighet til å lagre søket og sende søkehistorikk
 
 ## Dokumentasjon av søk
 
-I enkelte sammenhenger må du, etter å ha avsluttet det systematiske søket, beskrive selve søkeprosessen grundig slik at leseren er i stand til å evaluere kvaliteten på søket du har gjort, og eventuelt kunne gjenta det samme søket senere. Da bør du si noe om:
+Hvis litteratursøket er en del av metoden i oppgaven din, må du beskrive selve søkeprosessen grundig slik at kvaliteten på søket kan evalueres, og at søket kan gjentas. Da bør du si noe om
 
 * hvilke databaser du har valgt å søke i
-* hvilke søketermer du har brukt i de forskjellige databasene og hvordan de er kombinert (AND/OR/NOT)
-* har du benyttet databasens emneordsliste?
-* har du benyttet noen av filtrene i databasen?
+* hvilke søketermer du har brukt og hvordan de er kombinert (AND/OR/NOT)
+* du har benyttet databasens egne emneord, og evt. hvilke
+* du har benyttet noen av filtrene i databasen, og evt. hvilke
 * dato for når søket ble foretatt
 
 [Last ned ditt eget skjema her.](/docs/dokumenter_sok.docx)
