@@ -15,7 +15,7 @@ Free text searching, or search for text words, is the most common way to search.
 If you do a free text search on the word "preschool", you will find documents with the word "preschool" in the title, abstract, or as a keyword. Because different terms can be used for the same phenomenon, it is important to use multiple search terms. Words such as kindergarten, daycare, nursery school, etc. are all synonyms that can be used in a text about the preschool level.
 :::
 
-As an alternative, or additonal, to free text searching, you can search via a subject vocabulary (or thesaurus) also called a [subject heading search](### Subject heading search)
+As an alternative, or additonal, to free text searching, you can search via a subject vocabulary (or thesaurus) also called a [subject heading search](https://sok-og-skriv-git-613-engelsk-versjon-av-soketeknikker-uib-ub.vercel.app/en/searching/searching-techniques.html#subject-heading-search)
 
 ### Phrase searching
 
