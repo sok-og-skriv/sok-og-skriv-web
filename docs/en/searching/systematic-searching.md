@@ -1,184 +1,233 @@
 ---
-title: "Systematic searching"
+title: "How to do systematic searching"
 date: "2017-11-13"
 next: "../study-skills/"
 ---
 
-# Systematic searching
+# How to do systematic searching
+When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a review, or when the subject area in question places high value on knowledge based practice.
 
 ## Research question
+An appropriate starting point for a systematic search is to formulate the question you want to find relevant literature to.
 
-Before conducting a systematic search, you need to [develop a clear research question](/en/writing/getting-started.html "From topic to research question"). This allows a precise expression of your information needs and makes searching easier.
+A research question will consist of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in a database or search engine will then be easier. Here are some help-questions that might guide you when sorting out the thematic elements:
 
-The PICO form can be used to structure your research question and identify its most important elements.  The acronym stands for central elements of a research question in the medical sciences.
+* What is the **issue**/**problem**?
+* Is any **intervention**/**measure**/**outcome**/**phenomenon** specified?
+* What **population**/**group of people** is in question?
+* Does the question include a special **setting**/**context**? 
 
-**P** patient, population, participants, problem, diagnosis
-**I** intervention, action/decision, exposure
-**C** comparison, control or alternative intervention
-**O** outcome, result, achievement (the new information you are looking for)
+Note that far from all research questions contain all these thematic elements.
 
-Currently PICO is the most used framework within medicine and healthcare. PICO clarifies what/who your research question deals with, it shows which intervention you want to examine, and which results you are trying to accomplish.
+::: eksempel Example
+What do we know about the reasons for **school refusal** among **teenagers**?
 
-### The application of PICO on two research questions from the health field
+The research question consists of the problem **school refusal** and the population **teenagers**, and these two are the thematic elements of this research question.
+:::
 
-::::: eksempel Question 1: Do children with diabetes cope better with their disease when treated by a specialist at home rather than at a hospital?
+The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](internlenke)
+
+:::::: details  The PICO and SPIDER frameworks are models used for structuring questions, often within health-related subjects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health-related research questions:
+
+**P**: (problem or patient) <br />
+**I**: (intervention) <br />
+**C**: (comparison) <br />
+**O**: (outcome) <br />
+
+PICO clarifies who or what your research question is about, what interventions are being scrutinized and what outcome you are interested in. 
+
+**Application of PICO**
+
+::::: eksempel Is exercise or diet most efficient for treating overweight?
 
 :::: picoskjema
 ::: picoboks P
-Children with diabetes
+Overweight
 :::
 
 ::: picoboks I
-Home-based treatment
+Excercise
 :::
 
 ::: picoboks C
-Hospital-based treatment
+Diet
 :::
 
 ::: picoboks O
-Mestring av egen sykdom
+Weight loss
 :::
 ::::
 
-In this example, we are interested in the effect of the decision “home-based treatment” (**I**) in contrast to the effect of “hospital-based treatment” (**C**). We are interested in finding studies that compare the effects of these two decisions. The outcome we want to measure (**O**) is how these patient groups are coping with their disease. It is not always necessary to use all four elements of the PICO-form. Sometimes the research question may not have a clear intervention (**I**) part, or it may also lack the element of comparison (**C**), or there may not be any clearly formulated outcome (**O**). Question 2 below is an illustration of a research question that contains only **P** and **O**.
+In the example above, we are interested in the effect of the intervention "exercise" (I) in comparison to "diet" \(C\) . That is, we are looking to find studies that compare these two interventions. We want to measure the weight loss (O) of people who are overweight (P) .
 :::::
 
-::::: eksempel Question 2: How do diabetic children and adolescents who use insulin pumps perceive their quality of life?
+It is not always appropriate to fill inn all the elements in the PICO table. Sometimes there are no clear I (intervention), C (comparison) is not specified, or no clear O (outcome) is expressed in the research question.
+
+::::: eksempel PICO table with synonym suggestions
+
+Below you see a PICO table where suggested synonyms are filled in for the research question "is exercise or training most efficient to treat overweight?"
 
 :::: picoskjema
 ::: picoboks P
-Children and adolescents who use insulin pumps
+Overweight
+
+Obesity
+
+High BMI
+
+Excess Weight
 :::
 
 ::: picoboks I
+Exercise 
+
+Gymnastics 
+
+Physical activity 
 :::
 
 ::: picoboks C
+Diet 
+
+Nutrition habits 
+
+Nutrition behavior
+
+Eating habits 
+
+Food habits 
+
+Eating behavior
 :::
 
 ::: picoboks O
-Quality of life
-:::
-::::
+Weight loss
 
-In this example we take into consideration the patient groups from question 1, but now the question focuses only on diabetic children and adolescents who are already using an insulin pump. However, the question does not specify any decision or action that we intend to measure the effect of. Therefore, this question has neither **I** nor **C**. What we want to know is how these patients are experiencing their own situation (**O**).
+Weight reduction 
+
+BMI reduction
+
+BMI loss
+:::
 :::::
 
-It is not always appropriate to fill in all the four elements of the PICO-form. Sometimes there is no clear **I (Intervention)** available, other times **C (Comparison)** might be missing, and some other times there is no clearly formulated **O (Outcome)**. Question number 2 below is an example of an occasion in which we only have a clearly defined **P** and **O**.
+
+*Note that the *synonyms within* each column are combined with **OR**, and the columns are combined with **AND**. 
+
+::: eksempel Example: Systematic search presented via search history
+
+Below you see an example of systematic search with explanation presented via the [search history](internlenke) in Ovid Medline. The search process becomes flexible and evident when searching for one search term at the time, and then combine them in the search history using AND or OR:
+
+| #  | Search                                 | Results  |
+| -- | -------------------------------------- | -------- |
+| 1  | exp Overweight/                        | 242260   |
+| 2  | Overweight.mp.                         | 82734    |
+| 3  | exp Obesity/                           | 235058   |
+| 4  | obesity.mp.                            | 360477   |
+| 5  | "High BMI".mp.                         | 4118     |
+| 6  | "Excess Weight".mp.                    | 5883     |
+| 7  | 1 or 2 or 3 or 4 or 5 or 6             | 388184   |
+| 8  | exp Exercise/                          | 221169   |
+| 9  | Exercise.mp                            | 386937   |
+| 10 | Gymnastic\*.mp.                        | 3790     |
+| 11 | "Physical activit\*".mp.               | 127039   |
+| 12 | 8 or 9 or 10 or 11                     | 508008   |
+| 13 | exp Diet/                              | 305094   |
+| 14 | Diet.mp.                               | 506370   |
+| 15 | "Nutrition habit\*".mp.                | 252      |
+| 16 | "Nutrition behavi\*".mp.               | 204      |
+| 17 | "Eating habit\*".mp.                   | 6428     |
+| 18 | "Food habit\*".mp.                     | 2449     |
+| 19 | "Eating behavi\*".                     | 5835     |
+| 20 | 13 or 14 or 15 or 16 or 17 or 18 or 19 | 567773   |
+| 21 | Weight Loss/                           | 39801    |
+| 22 | "Weight loss".mp.                      | 108601   |
+| 23 | (Weight adj2 reduc\*).mp.              | 30373    |
+| 24 | (BMI adj2 reduc\*).mp.                 | 2466     |
+| 25 | (BMI adj2 loss).mp.                    | 897      |
+| 26 | 21 or 22 or 23 or 24 or 25             | 129477   |
+| 27 | 7 and 12 and 20 and 26                 | 6859     |
+:::
+
+Explanation:
+
+mp = searching for textwords in the following fields of the reference: title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms
+
+**/** = the search term is fetched from the MeSH thesaurus.
+
+**adj2** = finds terms in any order with 1 word (or none) between them. ADJ1 finds the two terms in any order, with no words between them.
+
+**exp** = shows that narrower terms in the thesaurus are included.
+::::::
 
 ## Search terms
+Set up a search term table with a column for each thematic element. Within each column yo add relevant synonyms and alternative spellings, if relevant. This kind of table will give you a structured overview of your search terms.
 
-When you have outlined the most important parts of the research question with the help of, for example, the PICO form, you must work further to find precise subject-related terms and their synonyms that can be used in the search for relevant literature.
+Work with improving your search term table with additional relevant synonyms. Consider the use of truncation(internlenke) and quotation marks (internlenke).
 
-Medical Subject Headings (MeSH) is the most well-known subject-related wordlist within health-related subjects. It is used in several health-related databases.
-
-To make sure to find all relevant articles, one should include synonyms for each keyword in the searching. If you chose to search via a subject-related wordlist in a database (for example MeSH), it will automatically include some of the synonyms in the search. Nevertheless, it is useful to supplement the search with words picked out from the author's keywords or from the article’s abstract.
-
-::::: eksempel Example: PICO-form with synonym suggestions
-
-Below you can see a filled out PICO-form with synonym suggestions connected to question 2:
-
-How do children and adolescents who use insulin pumps experience life quality?
-
-:::: picoskjema
-::: picoboks P
-Children and adolescents who use insulin pumps
-
-- **Søkeord**
-- Diabetes melitus
-- Type 1 insulin dependent diabetes
-- Youth, Teenager
-- Adolescent, Child
-- Insulin infusion system
-- Infusion pump
+| School refusal                | Teenagers         |
+| ----------------------------- | ----------------- |     
+|school refusal                 |teenagers          |
+|school avoidance               |adolescents        |
+|school phobia                  |youth              |
+|self exclusion from school     |secondary school   |
+|                               |secondary education|
+|                               |high school        |     
 :::
 
-::: picoboks I
+
+## Combining search terms in the database search history
+
+Most academic databases provide an overview of your search history. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. 
+
+::: eksempel Example: Systematic search presented via the search history in Web of Science
+
+
+|Search#| Date       | Search term//combination                                                                                   | Results      |
+| ----- | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
+| 1     | 24/03/2022 | "school refus*" OR "school avoid*" OR "school phobia" OR "self exclusion from school" (Topic)              | 955          |
+| 2     | 24/03/2022 | teenager* OR adolescen* OR youth* OR "secondary education" OR "secondary school*" OR "high school*" (Topic)| 715,182      |
+| 3     | 24/03/2022 | #1 AND #2                                                                                                  | 487          |
+
+Topic = search for textwords in the following fields of the reference: Title, abstract, author keyword and keywords plus
 :::
 
-::: picoboks C
+## Reviewing the search result
+A review of the results list can give you new insights, and maybe even lead you to change your original research question. A very high number of relevant results may indicate that your research question is too broad, and that it should be narrowed to become more precise. If this is the case you need to adjust the serach strategy with respect to the changes made in main thematic elements in you adjusted research question. 
+
+Using our research question as an example; let us say that our results list implies that a common reason for school avoidance are psychological problems, such as anxiety. Then it might be an idea to narrow the research question by focusing on anxiety as reason for school avoidance. Maybe one also chooses to examine what interventions that exists for this population of students.
+
+The databases contain filters, so that you can limit your results list based on your needs. Examples of filters are 
+
+* publication year
+* publication type (research articles, review articles, book chapters, conference proceedings etc.)
+* language
+* geographic area
+* age group
+* research method
+* subject area
+
+::: warning Keep in mind that
+* any limitation can lead to loosing relevant articles
+* the results list will most likely also contain articles that are not relevant, meaning that every article's quality and relevance must be assessed according to your research question
 :::
 
-::: picoboks O
-Life quality
+## Saving your search
 
-- **Søkeord**
-- Quality of life
-- Wellness
-- Well being
+Most databases offer you the option to save your searches and send the search history via e-mail. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. This information might turn out be very useful if you wish to build further on your search, if you need to rerun the same search at a later stage, run it in in another database or if you need to [document your search](internlenke).
+
+## Documenting your search
+
+If your literature search is part of the methodology of an assignment or thesis, the search process must be described in enough detail so that the search can be evaluated and repeated. When documenting your search you should include
+
+* which databases you have searched in
+* which search terms you have used and how they are combined (AND/OR/NOT)
+* if you have used the database subject terms (thesaurus), and if so, which
+* if you have used some of the filters provided by the database, and if so, which
+* the date for when the search was done
+
+[Download your own form here](/docs/dokumenter_sok.docx).
+
+::: tip Tips
+It is a good idea to save your search history when you have finished the search in a database, so that you can retrieve it at a later stage, and possibly rerun the search. Also, the search history represents detailed documentation of your search.
 :::
-::::
-:::::
-
-## Combination of search terms
-
-All major article databases give you access to a search history. The search history displays which subject-related terms you have looked up, how they are combined, and how many hits each search has resulted in. The searching process becomes flexible and clear if you choose to search one word at a time and then combine the searches with AND, OR or NOT in the search history.
-
-::: details EXAMPLE: Systematic search presented via search history
-Here you can see the search history of a search based on Question 2:
-
-How do children and adolescents who use insulin pumps experience life quality?
-
-The search has been conducted in the Medline-Ovid database 1996 and up until today. Date of searching: 04.04.2014
-
-| #        | Searches                                          | Results |
-|----------|---------------------------------------------------|---------|
-| 1        | exp Diabetes Mellitus, Type 1/                    | 35330   |
-| 2        | (insulin adj dependent).tw.                       | 10687   |
-| 3        | 1 or 2                                            | 41759   |
-| 4        | (youth or teenager* or adolescent* or child*).tw. | 591106  |
-| 5        | exp Adolescent/                                   | 821820  |
-| 6        | exp Child/                                        | 721155  |
-| 7        | 4 or 5 or 6                                       | 1307311 |
-| 8        | exp «Quality of Life»/                            | 98652   |
-| 9        | (quality adj2 life).tw.                           | 118348  |
-| 10       | (life adj quality).tw.                            | 2843    |
-| 11       | (well adj being).tw.                              | 28740   |
-| 12       | Wellness.tw.                                      | 3183    |
-| 13       | 8 or 9 or 10 or 11 or 12                          | 174420  |
-| 14       | exp Insulin Infusion Systems/                     | 1794    |
-| 15       | (infusion adj pump*).tw.                          | 1266    |
-| 16       | exp Infusion Pumps/                               | 6397    |
-| 17       | 14 or 15 or 16                                    | 7034    |
-| 18       | 3 and 7 and 13 and 17                             | 100     |
-:::
-
-## Explanation of Search History
-
-- **/ :** the slash indicates that the term is taken from the subject-related wordlist, Medical Subject Headings (MeSH)
-- **exp:** Explode indicates that subordinate terms have been included
-- **tw:** indicates that this search is based on a term taken from the title or the abstract of the article (not from MeSH)
-- **adj:** these search terms should act as a phrase, that is, one after the other in a given order
-
-## Review search results
-
-A review of the search results may occasionally provide new insight that can cause you to reconsider and perhaps alter your original research question. Also, a very long hit list make evident that the research question is too broad and that it needs to be narrowed down and made more precise. In such cases the searching strategy need to be set up from scratch and the search will be adjusted according to the new research question. In the example above, reviewing the list of results showed that there is a huge difference in how children and adolescents experience living with an insulin pump. Perhaps, it would be a good idea to narrow the research question so that it concerns only children or adolescents. This review might eventually lead to you to focus the research question on why living with an insulin pump is experienced so differently for the two age groups.
-
-Some databases offer an opportunity to limit/narrow down a hit list. You can for example narrow it down based on:
-
-- Year
-- Type of publication (Research article or Research journals)
-- Language
-- Research method
-- Availability (for example full text)
-
-Keep in mind that limiting the search results might cause you to miss some important information.
-
-Finally, you must measure each article’s quality and relevance in relation to your research question.
-
-## Documenting the search
-
-In certain subjects, after completing the systematic search, you need to describe the actual search process thoroughly so that the reader is able to evaluate the quality of the search you have done and possibly repeat the same search later. You should say something about:
-
-- Which databases you have chosen to search in
-- Which search terms you have used in the various databases and how they have been combined (AND/OR/NOT)
-- Have you used the controlled subject terms of the database?
-- Have you used other search facilities in the database?
-- The date of when the search was composed
-
-::: tip Remember to note the database
-When you are ready with a search in a database, it is a good idea to save the search history so that you can retrieve it later. The search history is the best way to document your search. Remember to note which databases you have searched in.
-:::
-
-See also PhD on track’s page on [systematic review searching](https://www.phdontrack.net/search-and-review/types-of-reviews/#Systematic_reviews)
