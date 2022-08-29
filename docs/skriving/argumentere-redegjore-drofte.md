@@ -74,7 +74,7 @@ Let etter argumentasjon og drøfting i pensumtekster. Se hvordan skriveren byg
 
 Skrivementor Ragna Neraal forklarer drøftingens gåter i dette opptaket fra digital Skrivenatt ved Universitetet i Oslo: 
 
-<Video id="https://youtu.be/crOKC-T06ss" />
+<Video id="/crOKC-T06ss" />
 
 ::: 
 
