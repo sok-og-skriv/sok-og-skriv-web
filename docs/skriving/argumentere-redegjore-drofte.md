@@ -70,6 +70,13 @@ I noen fag er det vanlig å redegjøre først og deretter drøfte. I andre fag e
 Let etter argumentasjon og drøfting i pensumtekster. Se hvordan skriveren bygger opp resonnementer ved hjelp av påstander og begrunnelse, og ved å sette ting opp mot hverandre (ofte kalt ulike _posisjoner_). 
 :::
 
+::: details Film: På den ene siden, på den andre: Hva mer vil det si å drøfte? 
+
+Skrivementor Ragna Neraal forklarer drøftingens gåter i dette opptaket fra digital Skrivenatt ved Universitetet i Oslo: 
+
+<Video id="/crOKC-T06ss" />
+
+::: 
 
 ## Argumentasjonens struktur: resonnement
 
