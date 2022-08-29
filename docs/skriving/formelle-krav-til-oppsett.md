@@ -28,7 +28,7 @@ Institusjonstilknytning (universitet/høgskole, fakultet, institutt, emne)
 Studiesemester eller årstall
 :::
 
-Her kan du laste ned logo til bruk på forside fra [UiB](https://manual.uib.no/profilmanual/) og [forside fra UiO](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
+Her kan du laste ned logo til bruk på forside fra [UiB](https://manual.uib.no/profilmanual/) og [forside fra UiO](https://www.uio.no/om/designmanual/profilen-i-bruk/publikasjoner-og-brosjyrer/doktorgrader.html#toc1). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
 
 ## Maler
 
