@@ -5,7 +5,7 @@ next: "../study-skills/"
 ---
 
 # How to do systematic searching
-When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a review, or when the subject area in question places high value on knowledge based practice.
+When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a [review article](sokogskriv.no/en/sources-and-referencing/different-sources.html#review-article), or when the subject area in question places high value on knowledge based practice.
 
 ## Research question
 An appropriate starting point for a systematic search is to formulate the question you want to find relevant literature to.
@@ -25,7 +25,7 @@ What do we know about the reasons for **school refusal** among **teenagers**?
 The research question consists of the problem **school refusal** and the population **teenagers**, and these two are the thematic elements of this research question.
 :::
 
-The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](internlenke)
+The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](sokogskriv.no/en/searching/plan-your-searches.html#finding-good-search-tems)
 
 :::::: details  The PICO and SPIDER frameworks are models used for structuring questions, often within health-related subjects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health-related research questions:
 
