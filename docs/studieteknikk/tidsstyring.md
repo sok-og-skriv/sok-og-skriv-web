@@ -66,8 +66,6 @@ I løpet av studietiden skal du lese mye, da er det lurt å lage strukturere les
 ::: eksempel Her er et eksempel på hvordan du kan strukturere en leseøkt:  
 Bestem deg for hva du skal lese. Les i økter på 25 minutter med fem minutters pause mellom øktene. Etter tre slike økter legger du inn ti minutter hvor du skal skrive om det du har lest. Det kan være et sammendrag av artikkelen eller kapitlet du har jobbet med, eller spørsmål til ting du ikke forsto mens du leste. Etter skriveøkten tar du en 15 minutters pause. Deretter gjennomfører du tre nye økter med lesing etterfulgt av en kort skriveøkt som beskrevet over. Nå har det gått litt over tre og en halv time der du fått inn seks fokuserte leseøkter og bearbeidet det du har lest skriftlig. 
 
-For å holde fokus mens du leser kan du benytte en [leseteknikk der du fokuserer på argumentasjon](/studieteknikk/lesemater.html/). 
-
 ::: 
 
 **Justering av planer og realistiske mål**  
