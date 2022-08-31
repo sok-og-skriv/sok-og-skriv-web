@@ -163,7 +163,7 @@ mp = searching for textwords in the following fields of the reference: title, ab
 ## Search terms
 Set up a search term table with a column for each thematic element. Within each column yo add relevant synonyms and alternative spellings, if relevant. This kind of table will give you a structured overview of your search terms.
 
-Work with improving your search term table with additional relevant synonyms. Consider the use of truncation(internlenke) and quotation marks (internlenke).
+Work with improving your search term table with additional relevant synonyms. Consider the use of [truncation](/en/searching/searching-techniques.html#truncation) and [quotation marks](/en/searching/searching-techniques.html#phrase-searching).
 
 | School refusal                | Teenagers         |
 | ----------------------------- | ----------------- |     
