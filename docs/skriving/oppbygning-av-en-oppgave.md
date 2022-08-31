@@ -69,7 +69,7 @@ Ta for deg det minste eller smaleste problemet som _fortsatt er interessant_. Du
 
 Problemformuleringen leder deg framover i oppgaveskrivingen. Den kan gjerne formuleres som ett hovedspørsmål som konkretiseres i flere forskningsspørsmål, eller en hypotese som skal testes. En annen variant er å forme en tese/hovedpåstand som underbygges ved hjelp av lesninger og argumentasjon (vanlig i litteratur- og kulturfag). Dersom du arbeider i et frittstående prosjekt, kan du endre problemformulering underveis.
 
-Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling – på samme måte som et forskningsspørsmål – noe som kan _besvares_. Hvis den ikke kan besvares, er det trolig snakk om et tema eller et felt.
+Hvordan vet vi at vi har laget en problemstilling? Først og fremst er en problemstilling – på samme måte som et forskningsspørsmål – noe som kan _besvares_. Hvis den ikke kan besvares, er det trolig snakk om et tema eller et felt. Se typiske [fraser for problemformulering](https://www.sokogskriv.no/frasebank/#_5-formulere-problemstilling-forskningssp%C3%B8rsmal). 
 
 ::: tip Hva gjør en problemformulering god? 
 

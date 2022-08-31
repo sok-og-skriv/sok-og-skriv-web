@@ -20,7 +20,7 @@ En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**.
 
 ## Redegjør og drøft 
 
-Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) mot hverandre. I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen, eller det kan være to ulike teorier/begreper som drøftes mot hverandre.
+Mange oppgaver på lavere grad følger formelen «redegjør og drøft». I en redegjør og drøft-oppgave vil argumentasjonen typisk dreie seg om å **sammenligne, bruke** og/eller **vurdere** ulike tilnærminger til et fenomen (for eksempel ulike teorier) mot hverandre. I første del av oppgaven skal du redegjøre for noe du har lest, mens i andre del skal du drøfte (diskutere) det du har redegjort for. Det kan for eksempel dreie seg å redegjøre for et teoretisk begrep som deretter skal drøftes i lys av et praktisk fenomen, eller det kan være to ulike teorier/begreper som drøftes mot hverandre. Se [typiske fraser for argumentasjon og drøfting](https://www.sokogskriv.no/frasebank/#_9-argumentere-og-dr%C3%B8fte).
 
 Men hva betyr det å redegjøre, og hva er egentlig drøfting?
 
@@ -46,7 +46,7 @@ Husk at når du redegjør for et stoff, skal framstillingen kunne aksepteres av 
  
 I drøftingen (eller diskusjonen) er det derimot ønskelig at du utvikler egne synspunkter, og at drøftingen drives fram gjennom argumentasjon. Materialet til drøftingen finner du i din egen redegjørelse. En interessant drøfting kan oppstå når du setter ulike påstander opp mot hverandre. Husk at påstandene bør være rimelige.
 
-For å kunne drøfte, må du vite hva det er du drøfter. Da kan det være lurt å ta utgangspunkt i en **forskjell** eller **spenning** i stoffet du har redegjort for. Ofte er oppgaven lagt opp til at du skal drøfte ulike tilnærminger til samme fenomen, for eksempel to ulike teorier. Det er sjelden interessant å se etter likheter - det interessante oppstår når du utforsker en eller annen forskjell eller spenning. Eksempler kan være til god hjelp.
+For å kunne drøfte, må du vite hva det er du drøfter. Da kan det være lurt å ta utgangspunkt i en **forskjell** eller **spenning** i stoffet du har redegjort for. Ofte er oppgaven lagt opp til at du skal drøfte ulike tilnærminger til samme fenomen, for eksempel to ulike teorier. Det er sjelden interessant å se etter likheter - det interessante oppstår når du utforsker en eller annen forskjell eller spenning. Bruk av eksempler kan være til god hjelp. 
 
 ::: eksempel Tre tips til en god drøfting
 

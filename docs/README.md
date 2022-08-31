@@ -53,7 +53,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
     <div class="content">
       <h2><a href="/frasebank/">Frasebank</a></h2>
-      <p>Her finner du eksempler på ord og vendinger som er mye brukt i akademiske tekster</p>
+      <p>Her finner du eksempler på uttrykk og vendinger som er mye brukt i akademiske tekster</p>
     </div>
   </div>
 </div>
