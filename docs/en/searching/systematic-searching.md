@@ -5,7 +5,7 @@ next: "../study-skills/"
 ---
 
 # How to do systematic searching
-When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a review, or when the subject area in question places high value on knowledge based practice.
+When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a [review article](/en/sources-and-referencing/different-sources.html#review-article), or when the subject area in question places high value on knowledge based practice.
 
 ## Research question
 An appropriate starting point for a systematic search is to formulate the question you want to find relevant literature to.
@@ -25,7 +25,7 @@ What do we know about the reasons for **school refusal** among **teenagers**?
 The research question consists of the problem **school refusal** and the population **teenagers**, and these two are the thematic elements of this research question.
 :::
 
-The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](internlenke)
+The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](/en/searching/plan-your-searches.html#finding-good-search-tems)
 
 :::::: details  The PICO and SPIDER frameworks are models used for structuring questions, often within health-related subjects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health-related research questions:
 
@@ -163,7 +163,7 @@ mp = searching for textwords in the following fields of the reference: title, ab
 ## Search terms
 Set up a search term table with a column for each thematic element. Within each column yo add relevant synonyms and alternative spellings, if relevant. This kind of table will give you a structured overview of your search terms.
 
-Work with improving your search term table with additional relevant synonyms. Consider the use of truncation(internlenke) and quotation marks (internlenke).
+Work with improving your search term table with additional relevant synonyms. Consider the use of [truncation](/en/searching/searching-techniques.html#truncation) and [quotation marks](/en/searching/searching-techniques.html#phrase-searching).
 
 | School refusal                | Teenagers         |
 | ----------------------------- | ----------------- |     
