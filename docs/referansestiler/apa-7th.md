@@ -89,7 +89,7 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 
 ::: teksten
 
-... (Forfatter, årstall, evt. sitedall)
+... (Forfatter, årstall, evt. sidetall)
 
 ... (Gullestad & Killingmo, 2013, s. 35)
 
