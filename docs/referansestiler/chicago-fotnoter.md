@@ -10,7 +10,7 @@ Chicago-stilen finnes i to varianter: _fotnotestil_, som presenteres her, og [fo
 
 ## Henvisninger i notene
 
-- Fotnoter og sluttnoter nummereres fortløpende 1, 2, 3 og så videre.
+- Fotnoter og sluttnoter nummereres fortløpende 1, 2, 3, 4 og så videre.
 - Ved bruk av sluttnoter plasseres alle notene bakerst i teksten, foran referanselisten.
 - I notene skriver du den fulle referansen første gang du bruker den. Etter det oppgis referansen i **kortform**, det vil si forfatter(e)s etternavn og kortform av tittel. Hvis du  har en full referanseliste i tillegg til notene, kan du bruke kortformen også første gang. Her vises begge alternativer. 
 - Hvis du siterer fra eller viser til bestemte steder i en tekst, skal du også ha med sidetall.
