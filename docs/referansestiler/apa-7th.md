@@ -538,16 +538,16 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 
 :::: ref
 
-Departement/direktorat. (Publiseringstidspunkt). _Tittel_. Fastsatt som forskrift ved kongelig
-resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL
+<span class="ref">Departement/direktorat. (Publiseringstidspunkt). _Tittel_. Fastsatt som forskrift ved kongelig
+resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL</span>
 
-Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
+<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
 Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
-[https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/](https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/)
+[https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/](https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/)</span>
 
 
-Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
-Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-03](https://www.udir.no/lk20/hsf01-03)
+<span class="ref">Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
+Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-03](https://www.udir.no/lk20/hsf01-03)</span>
 
 
 
