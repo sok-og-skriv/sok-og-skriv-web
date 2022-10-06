@@ -418,18 +418,19 @@ Det anbefales å hente lover direkte fra [Lovdata](https://lovdata.no/lov/2018-0
 ::: teksten
 (Forskriftens kortnavn, årstall, paragraf)
 
-Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier at ...
+Forskrift om etablering og gjennomføring av psykisk helsevern (2011), sier at ...
 :::
 
 :::: ref
 <span class="ref">Forskriftens kortform. (årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
 
-<span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). _Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7_ (FOR-2016-06-07-860). Lovdata. [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
+<span class="ref">.Psykisk helsevernforskriften (2011). _Forskrift om etablering og gjennomføring av psykisk helsevern m.m._ (FOR-2011-12-16-1258). Lovdata. [https://lovdata.no/forskrift/2011-12-16-1258](https://lovdata.no/forskrift/2011-12-16-1258)</span>
 
 ::: details I EndNote
 
+Legges inn som "Legal Rule or Regulation".
 
-Fyll ut feltene: Author (Forskriftens kortform), Year, Title (full tittel), Rule Number (datokode), URL.
+Fyll ut feltene: Author (Forskriftens kortform med et komma til slutt), Year, Title (full tittel), Publisher, Rule Number (datokode), URL.
 ::: 
 :::: 
 
