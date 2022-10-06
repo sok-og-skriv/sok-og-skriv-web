@@ -384,13 +384,13 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ### Lover
 
 ::: teksten
-(Lovens kortnavn, årstall, paragraf)
+(Lovens korttittel, årstall, paragraf)
 
 I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 :::
 
 :::: ref
-<span class="ref">Lovens kortnavn. (Årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
+<span class="ref">Lovens korttittel. (Årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
 
 <span class="ref">Folketrygdloven. (1997). _Lov om folketrygd_ (LOV-1997-02-28-19). Lovdata. [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
 
@@ -416,21 +416,21 @@ Det anbefales å hente lover direkte fra [Lovdata](https://lovdata.no/lov/2018-0
 ### Forskrifter
 
 ::: teksten
-(Forskriftens kortnavn, årstall, paragraf)
+(Forskriftens korttittel, årstall, paragraf)
 
 Forskrift om etablering og gjennomføring av psykisk helsevern (2011), sier at ...
 :::
 
 :::: ref
-<span class="ref">Forskriftens kortform. (årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
+<span class="ref">Forskriftens korttittel. (årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
 
-<span class="ref">.Psykisk helsevernforskriften (2011). _Forskrift om etablering og gjennomføring av psykisk helsevern m.m._ (FOR-2011-12-16-1258). Lovdata. [https://lovdata.no/forskrift/2011-12-16-1258](https://lovdata.no/forskrift/2011-12-16-1258)</span>
+<span class="ref">Psykisk helsevernforskriften (2011). _Forskrift om etablering og gjennomføring av psykisk helsevern m.m._ (FOR-2011-12-16-1258). Lovdata. [https://lovdata.no/forskrift/2011-12-16-1258](https://lovdata.no/forskrift/2011-12-16-1258)</span>
 
 ::: details I EndNote
 
 Legges inn som "Legal Rule or Regulation".
 
-Fyll ut feltene: Author (Forskriftens kortform med et komma til slutt), Year, Title (full tittel), Publisher, Rule Number (datokode), URL.
+Fyll ut feltene: Author (Forskriftens korttittel med et komma til slutt), Year, Title (full tittel), Publisher, Rule Number (datokode), URL.
 ::: 
 :::: 
 
