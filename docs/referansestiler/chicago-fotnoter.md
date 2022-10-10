@@ -309,7 +309,7 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 ::: tip I noten  
 
-^nr^ Tittel på leksikon/nettsted, «oppslagsord.» Dato. DOI/URL
+^nr^ Tittel på leksikon/nettsted, «oppslagsord». Dato. DOI/URL
 
 Håvamål betyr «den høyes tale».^15^
 
@@ -335,11 +335,11 @@ Fyll inn feltene: Year, Encyclopedia Title, Title, Place published, Publisher, U
 ### Artikkel i elektronisk leksikon (med forfatter)
 
 ::: tip I noten 
-^nr^ Tittel på leksikon/nettsted, «oppslagsord,» av Fornavn Etternavn, lesedato. URL/DOI
+^nr^ Tittel på leksikon/nettsted, «oppslagsord», av Fornavn Etternavn, lesedato. URL/DOI
 
 Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-^16^ Store norske leksikon, «Dialekter i Bergen,» av Martin Skjekkeland. 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
+^16^ Store norske leksikon, «Dialekter i Bergen», av Martin Skjekkeland. 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 :::
 
 :::: ref
