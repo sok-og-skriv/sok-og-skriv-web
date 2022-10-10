@@ -304,23 +304,23 @@ Artikkel på nett: Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Iss
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
-Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet).
+Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. For dato brukes helst publiseringsdato eller sist endret, eventuelt brukes lesedato (i så fall, legg til "lest" før dato).
 
 
 ::: tip I noten  
 
-^nr^ Tittel på leksikon/nettsted, s.v. «oppslagsord.» Dato. DOI/URL
+^nr^ Tittel på leksikon/nettsted, «oppslagsord.» Dato. DOI/URL
 
 Håvamål betyr «den høyes tale».^15^
 
-^15^ _Wikipedia_, s.v. «Håvamål». 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+^15^ Wikipedia, «Håvamål». 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
 ::: 
 
 :::: ref
 
-Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
+Tittel på leksikon/nettsted. «oppslagsord». Dato. DOI/URL
 
-Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
+Wikipedia. «Håvamål». 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
 
 ::: details I EndNote
 
@@ -335,18 +335,18 @@ Fyll inn feltene: Year, Encyclopedia Title, Title, Place published, Publisher, U
 ### Artikkel i elektronisk leksikon (med forfatter)
 
 ::: tip I noten 
-^nr^ _Tittel på leksikon/nettsted_, s.v. «oppslagsord,» av Fornavn Etternavn, lesedato. URL/DOI
+^nr^ Tittel på leksikon/nettsted, «oppslagsord,» av Fornavn Etternavn, lesedato. URL/DOI
 
 Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-^16^ _Store norske leksikon_, s.v. «Dialekter i Bergen,» av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
+^16^ Store norske leksikon, «Dialekter i Bergen,» av Martin Skjekkeland. 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 :::
 
 :::: ref
 
-Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
+Tittel på leksikon/nettsted. «oppslagsord». Fornavn Etternavn, dato. URL/DOI
 
-Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
+Store norske leksikon. «Dialekter i Bergen». Martin Skjekkeland. 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen).
 
 ::: details I EndNote
 
