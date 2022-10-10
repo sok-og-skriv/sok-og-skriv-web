@@ -304,23 +304,23 @@ Artikkel på nett: Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Iss
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
-Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. For dato brukes helst publiseringsdato eller sist endret, eventuelt brukes lesedato (i så fall, legg til "lest" før dato).
+Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). For dato brukes helst publiseringsdato eller sist endret, eventuelt brukes lesedato (i så fall, legg til "lest" før dato).
 
 
 ::: tip I noten  
 
-^nr^ Tittel på leksikon/nettsted, «oppslagsord». Dato. DOI/URL
+^nr^ Tittel på leksikon/nettsted, s.v. «oppslagsord», Dato. DOI/URL
 
 Håvamål betyr «den høyes tale».^15^
 
-^15^ Wikipedia, «Håvamål». 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
+^15^ Wikipedia, s.v. «Håvamål», 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
 ::: 
 
 :::: ref
 
 Tittel på leksikon/nettsted. «oppslagsord». Dato. DOI/URL
 
-Wikipedia. «Håvamål». 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
+Wikipedia, s.v. «Håvamål». 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
 
 ::: details I EndNote
 
@@ -339,12 +339,12 @@ Fyll inn feltene: Year, Encyclopedia Title, Title, Place published, Publisher, U
 
 Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-^16^ Store norske leksikon, «Dialekter i Bergen», av Martin Skjekkeland. 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
+^16^ Store norske leksikon, «Dialekter i Bergen», av Martin Skjekkeland, 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 :::
 
 :::: ref
 
-Tittel på leksikon/nettsted. «oppslagsord». Fornavn Etternavn, dato. URL/DOI
+Tittel på leksikon/nettsted. «oppslagsord». Fornavn Etternavn. dato. URL/DOI
 
 Store norske leksikon. «Dialekter i Bergen». Martin Skjekkeland. 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen).
 
@@ -359,7 +359,7 @@ Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publ
 
 ### Artikkel i trykt leksikon/oppslagsverk
 
-Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er den første, og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
+Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er den første, og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel i «Kilden i referanselisten».
 
 
 ::: tip I noten 
@@ -367,7 +367,7 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Alderdom kan defineres som «…»^17^
 
-^17^_Kulturhistorisk leksikon_, s.v. «alderdom.»
+^17^_Kulturhistorisk leksikon_, s.v. «alderdom».
 ::: 
 
 :::: ref
