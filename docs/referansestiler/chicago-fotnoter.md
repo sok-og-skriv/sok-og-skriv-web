@@ -388,7 +388,7 @@ Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publ
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
 ::: tip I noten 
-^nr^ Etternavn, «Korttittel artikkel.» 
+^nr^ Etternavn, «Korttittel artikkel». 
 
 … ifølge Dag Sveen.^18^
 
@@ -398,7 +398,7 @@ Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publ
 :::: ref 
 Etternavn, Fornavn. «Artikkeltittel», i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
 
-Sveen, Dag. «Kritisk realisme.» I _Pax Leksikon_. Oslo: Pax, 1979.
+Sveen, Dag. «Kritisk realisme». I _Pax Leksikon_. Oslo: Pax, 1979.
 
 ::: details I EndNote
 
