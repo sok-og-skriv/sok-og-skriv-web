@@ -50,7 +50,7 @@ Hvis du bruker passiv form, skjuler du subjektet (den som handler) i setningen. 
 
 I noen fag advares det sterkt mot å bruke ordet "jeg". Da kan du bli nødt til å skrive om, og bruke "man", "vi" eller passiv form. Men det er viktig å være klar over at det å bruke ordet "jeg" ikke er det samme som å være privat eller subjektiv. Her kan vi skille mellom et privat eller personlig "jeg" og det skrivende "jeg", altså forfatteren av teksten. Det å skrive "nå skal jeg redegjøre for ... " er _ikke_ et personlig utsagn. I de fleste fag vil det være uproblematisk å bruke forfatter-jeg'et i leserveiledninger. Dette virker mindre stivt enn å bruke ordet "man" om seg selv.
 
-I de fleste vitenskapelige tekster er det også et forsker-jeg: personen(e) som har gjennomført studier og framskaffet resultatene. Når man skal redegjøre for forskningsprosessen er det i våre dager vanlig å bruke pronomenene "jeg" eller "vi".
+I de fleste vitenskapelige tekster er det også et forsker-jeg: personen(e) som har gjennomført studier og framskaffet resultatene. Når man skal redegjøre for forskningsprosessen er det i våre dager relativt vanlig å bruke pronomenene "jeg" eller "vi", spesielt i kvalitative arbeider. 
 
 Det private jeg'et, derimot, har ingen ting i en akademisk tekst å gjøre. Dette betyr ikke at du ikke kan sette ditt personlige preg på teksten, men at du gjør dette med de virkemidlene som de akademiske sjangrene tilbyr (for eksempel ved å velge interessante og viktige problemstillinger, overbevisning gjennom argumentasjon og ved bruk av gode eksempler).
 
