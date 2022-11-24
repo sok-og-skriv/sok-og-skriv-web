@@ -16,7 +16,7 @@ yarn dev
 
 ## PWA asset generator
 
-*NB!* PWA ble slått av 2022.07.07.
+~~*NB!* PWA ble slått av 2022.07.07.~~ Og slått på igjen senere...
 
 Vi kan generere det vi trenger av iconer til Søk og skriv ved å bruke [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator). Se [PWA splash screen and icon generator](https://itnext.io/pwa-splash-screen-and-icon-generator-a74ebb8a130) for informasjon.
 
