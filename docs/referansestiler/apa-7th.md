@@ -165,7 +165,7 @@ En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
 
-<span class="ref">Johnsen, B.H. (2019). Spesialpedagogiske røtter og fagets utvikling. I E. Befring, K.-A. B. Næss & R Tangen (Red.), Spesialpedagogikk (6. utg., s. 107-128). Cappelen Damm Akademisk.</span>
+<span class="ref">Johnsen, B.H. (2019). Spesialpedagogiske røtter og fagets utvikling. I E. Befring, K.-A. B. Næss & R Tangen (Red.), _Spesialpedagogikk_ (6. utg., s. 107-128). Cappelen Damm Akademisk.</span>
 
 :::
  
@@ -838,14 +838,9 @@ fra
 
 ::: details Endnote
 
-Legges inn som "Map"
+I EndNote:
 
-Fyll ut feltene: Cartographer (med et komma etter organisasjonsnavnet eller institusjonsnavnet), Year, Title, Publisher, URL.
-
-Dynamisk genererte kart:
-
-Legges inn som "Dataset".
-Fyll ut feltene: Investigators, Year, Title, Distributor, Datatype, DOI, URL. Note: Sett komma etter navnet på investigators.
+Informasjon kommer
 
 I Zotero:
 
