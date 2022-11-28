@@ -140,7 +140,7 @@ Det mest vanlige er å referere til enkeltkapitler i redigerte bøker. Dersom du
 :::
 
 :::: ref
-<span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
+<span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (utg., bind, s. xxx–xxx). Forlag.</span>
 
 
 <span class="ref">Svensen, H. H. (2019). Å skrive for livet: Populærvitenskap, forskermemoarer og IMRAD. I I. B. Jørgensen & N. Askeland (Red.), _Kreativ akademisk skriving_ (s. 157-178). Universitetsforlaget.</span>
@@ -164,6 +164,8 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
+
+<span class="ref">Johnsen, B.H. (2019). Spesialpedagogiske røtter og fagets utvikling. I E. Befring, K.-A. B. Næss & R Tangen (Red.), Spesialpedagogikk (6. utg., s. 107-128). Cappelen Damm Akademisk.</span>
 
 :::
  
