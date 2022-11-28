@@ -811,7 +811,41 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 <span class="ref"> Jerpseth, H. (2017). _Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
 :::
 
-### Statistikk, datasett og elektroniske kart
+### Kart
+
+::: teksten
+
+...  (Pontoppidan, 1785)
+
+
+Dynamisk genererte kart har ingen tittel. Gi beskrivelse i skarpe klammer og oppgi hentedato i
+klammen: 
+
+... (Norge i bilder, 2016)
+:::
+
+:::: ref
+<span class="ref">Pontoppidan, C. (1785). _Det Sydlige Norge._ Nasjonalbiblioteket. [https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725](https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725)
+
+<span class="ref">Norge i bilder (2016). [Bildesøk Rena med bakgrunnslag
+Samferdsel og Stedsnavn] Hentet 28. juni 2022
+fra
+[http://www.norgeibilder.no/?x=262683&y=699
+8817&level=14&utm=33&projects=2318&layers
+=0,1&planned=0]https://www.norgeibilder.no/?x=262683&y=6998817&level=14&utm=33&projects=&layers=&plannedOmlop=0&plannedGeovekst=0  </span>
+
+::: details Endnote
+Legges inn som "Dataset".
+Fyll ut feltene: Investigators, Year, Title, Distributor, Datatype, DOI, URL. Note: Sett komma etter navnet på investigators.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
+:::
+::::
+
+
+### Statistikk og datasett
 
 Statistikk:
 
