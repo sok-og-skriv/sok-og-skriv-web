@@ -629,9 +629,11 @@ Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-03](h
 
 I EndNote:
 
-Legges inn som "Report".
+Legges inn som "Government Document".
 
-Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), Publisher (sett på komma til slutt), URL. 
+Fyll ut feltene: Author, Year, Title (Læreplankode), Publisher, URL. 
+
+Merk at læreplankoden fylles inn i tittelfeltet i parentes. Fyll inn *Fastsatt som forskrift* osv. i Publisher-feltet.
 
 I Zotero:
 
