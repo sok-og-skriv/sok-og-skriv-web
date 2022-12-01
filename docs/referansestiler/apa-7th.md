@@ -123,7 +123,7 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ::: details Flere eksempler
 De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken ... 
 
-<span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
+<span class="ref">Nortvedt, M. W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
 
 For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 ::: 
@@ -140,7 +140,7 @@ Det mest vanlige er å referere til enkeltkapitler i redigerte bøker. Dersom du
 :::
 
 :::: ref
-<span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
+<span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (utg., bind, s. xxx–xxx). Forlag.</span>
 
 
 <span class="ref">Svensen, H. H. (2019). Å skrive for livet: Populærvitenskap, forskermemoarer og IMRAD. I I. B. Jørgensen & N. Askeland (Red.), _Kreativ akademisk skriving_ (s. 157-178). Universitetsforlaget.</span>
@@ -164,6 +164,8 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
+
+<span class="ref">Johnsen, B.H. (2019). Spesialpedagogiske røtter og fagets utvikling. I E. Befring, K.-A. B. Næss & R Tangen (Red.), _Spesialpedagogikk_ (6. utg., s. 107-128). Cappelen Damm Akademisk.</span>
 
 :::
  
@@ -813,7 +815,43 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 <span class="ref"> Jerpseth, H. (2017). _Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
 :::
 
-### Statistikk, datasett og elektroniske kart
+### Kart
+
+::: teksten
+
+...  (Pontoppidan, 1785)
+
+
+... (Norge i bilder, 2016)
+:::
+
+:::: ref
+<span class="ref">Pontoppidan, C. (1785). _Det Sydlige Norge._ Nasjonalbiblioteket. [https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725](https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725)
+
+Dynamisk genererte kart har ingen tittel. Gi beskrivelse i skarpe klammer og oppgi hentedato i
+klammen: 
+
+<span class="ref">Norge i bilder (2016). [Bildesøk Rena med bakgrunnslag
+Samferdsel og Stedsnavn] Hentet 28. juni 2022
+fra
+[http://www.norgeibilder.no/?x=262683&y=699
+8817&level=14&utm=33&projects=2318&layers
+=0,1&planned=0](https://www.norgeibilder.no/?x=262683&y=6998817&level=14&utm=33&projects=&layers=&plannedOmlop=0&plannedGeovekst=0)  </span>
+
+::: details Endnote
+
+I EndNote:
+
+Informasjon kommer
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
+:::
+::::
+
+
+### Statistikk og datasett
 
 Statistikk:
 
