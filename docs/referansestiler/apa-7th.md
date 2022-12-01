@@ -123,7 +123,7 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ::: details Flere eksempler
 De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken ... 
 
-<span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
+<span class="ref">Nortvedt, M. W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
 
 For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 ::: 
