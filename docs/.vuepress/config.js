@@ -245,7 +245,7 @@ module.exports = {
     [
       "@vuepress/pwa",
       {
-        serviceWorker: true,
+        serviceWorker: false,
         updatePopup: {
           "/": {
             message: "Nytt innhold er tilgjenglig.",
