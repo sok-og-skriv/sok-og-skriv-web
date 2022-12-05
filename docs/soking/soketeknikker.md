@@ -113,7 +113,7 @@ Globalization
 :::
 
 ::: tabell
-"Ulikhet*"
+Ulikhet*
 
 **OR**
 
