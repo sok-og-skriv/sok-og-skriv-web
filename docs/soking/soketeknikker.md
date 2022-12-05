@@ -113,6 +113,10 @@ Globalization
 :::
 
 ::: tabell
+"Ulikhet*"
+
+**OR**
+
 Inequalit*
 
 **OR**
