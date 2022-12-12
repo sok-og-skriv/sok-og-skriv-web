@@ -10,6 +10,33 @@
       ]
     },
     {
+      "source": "/:path*.html",
+      "headers" : [
+        {
+          "key" : "Clear-Site-Data",
+          "value" : "cache, cookies, storage"
+        }
+      ]
+    },
+    {
+      "source": "/:path*/",
+      "headers" : [
+        {
+          "key" : "Clear-Site-Data",
+          "value" : "cache, cookies, storage"
+        }
+      ]
+    },
+    {
+      "source": "/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "s-maxage=1, stale-while-revalidate=59"
+        }
+      ]
+    },
+    {
       "source": "/images/",
       "headers" : [
         {
