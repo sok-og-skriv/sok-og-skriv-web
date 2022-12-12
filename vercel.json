@@ -5,7 +5,7 @@
       "headers" : [
         {
           "key" : "Clear-Site-Data",
-          "value" : "*"
+          "value" : "cache, cookies, storage"
         }
       ]
     },
