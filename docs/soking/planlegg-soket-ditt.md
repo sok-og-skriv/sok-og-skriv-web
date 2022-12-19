@@ -39,7 +39,6 @@ Gjør deg kjent med de databasene som er aktuelle for ditt emne. Husk at ingen d
 *	_Oria_ er fagbibliotekenes søkeverktøy. Her finner du blant annet fagbøker, masteroppgaver, doktorgradsavhandlinger og tidsskriftsartikler.
 *	_Google Scholar_ er den akademiske versjonen av _Google_. Den søker etter vitenskapelig litteratur fra ulike forlag og forskningsarkiv- og databaser. Kildene er av varierende kvalitet, så vær kildekritisk.
 *	_Idunn_ dekker tidsskrifter som er utgitt på Universitetsforlaget, og er tilgjengelig i de fleste bibliotek i Norge.
-*	Publiseringsarkivet _NORA_ gir deg oversikt over forskningsaktiviteten i helse- og instituttsektoren og universitets- og høgskolesektoren.
 *  _Web of Science_ er en internasjonal, tverrfaglig plattform for å finne forskningslitteratur, og den omfatter flere databaser. Den er tilgjengelig via de fleste fagbibliotek.
 
 ## Finn gode søkeord
