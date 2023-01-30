@@ -9,7 +9,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 <div class="cards">
   <div class="card">
     <div class="image">
-      <a href="/soking/"><img src="/images/illustrasjoner_sok_500x450.png" alt="" role="presentation"></a>
+      <a href="/soking/"><img src="/images/illustrasjoner_sok_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/soking/">Søking</a></h2>
@@ -19,7 +19,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/studieteknikk/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="" role="presentation"></a>
+      <a href="/studieteknikk/"><img src="/images/illustrasjoner_lesing_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/studieteknikk/">Studieteknikk</a></h2>
@@ -29,7 +29,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/skriving/"><img src="/images/illustrasjoner_skriving_500x450.png" alt="" role="presentation"></a>
+      <a href="/skriving/"><img src="/images/illustrasjoner_skriving_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/skriving/">Skriving</a></h2>
@@ -39,7 +39,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/kjeldebruk/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="" role="presentation"></a>
+      <a href="/kjeldebruk/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/kjeldebruk/">Kjeldebruk</a></h2>
@@ -49,7 +49,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   
   <div class="card">
     <div class="image">
-      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt="" role="presentation"></a>
+      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/frasebank/">Frasebank</a></h2>
@@ -82,13 +82,13 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 <section class="container" style="margin-bottom:3em;">
   <article class="video">
     <Video id="3IIoBZ0Tf_I" />
-    <h1>How to cite sources and avoid plagiarism?</h1>
+    <h2>How to cite sources and avoid plagiarism?</h2>
   </article>
 
 
   <article class="video">
     <Video id="UpicbnpX_c4" />
-    <h1>Bygge inn i Canvas</h1>
+    <h2>Bygge inn i Canvas</h2>
   </article>
 </section>
 

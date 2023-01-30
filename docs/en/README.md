@@ -10,7 +10,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/searching/"><img src="/images/illustrasjoner_sok_500x450.png" alt="Searching"></a>
+      <a href="/en/searching/"><img src="/images/illustrasjoner_sok_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/searching/">Searching</a></h2>
@@ -20,7 +20,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/study-skills/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Study skills"></a>
+      <a href="/en/study-skills/"><img src="/images/illustrasjoner_lesing_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/study-skills/">Study skills</a></h2>
@@ -30,7 +30,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/writing/"><img src="/images/illustrasjoner_skriving_500x450.png" alt="Writing"></a>
+      <a href="/en/writing/"><img src="/images/illustrasjoner_skriving_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/writing/">Writing</a></h2>
@@ -40,7 +40,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/sources-and-referencing/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Sources and referencing"></a>
+      <a href="/en/sources-and-referencing/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/sources-and-referencing/">Sources</a></h2>
