@@ -267,7 +267,7 @@ module.exports = {
   ],
   head: [
     ['script', { src: '/js/unregister-sw.js' }],
-    ['link', { rel: 'icon', href: `/sokogskriv2013.png` }],
+    ['link', { rel: 'icon', href: `/favicon.svg` }],
     ["meta", { name: "charset", content: "UTF-8" }],
     [
       "meta",
