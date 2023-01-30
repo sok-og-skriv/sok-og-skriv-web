@@ -50,19 +50,20 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
 </div>
 
-<div class="flex">
-  <h2 style="border-bottom:none;">Latest videos</h2>
-  <small><a href="/en/video">...more</a></small>
-</div>
 
-<section class="container" style="margin-bottom:3em;">
-  <article class="video">
-    <Video id="esfZOcBIB6w" />
-  </article>
-
-  <article class="video">
-    <Video id="UpicbnpX_c4" />
-  </article>
+<section style="margin-bottom:3em;">
+  <div class="flex">
+    <h2 style="border-bottom:none;">Latest videos</h2>
+    <small><a href="/en/video">...more</a></small>
+  </div>
+  <div class="container">
+    <article class="video">
+      <Video id="esfZOcBIB6w" />
+    </article>
+    <article class="video">
+      <Video id="UpicbnpX_c4" />
+    </article>
+  </div>
 </section>
 
 ## Partners

@@ -74,22 +74,23 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   </div>
 </div>
 
-<div class="flex">
-  <h2 style="border-bottom:none;">Nyeste videoer</h2>
-  <small><a href="/video/soking">...se flere</a></small>
-</div>
 
-<section class="container" style="margin-bottom:3em;">
-  <article class="video">
-    <Video id="3IIoBZ0Tf_I" />
-    <h2>How to cite sources and avoid plagiarism?</h2>
-  </article>
+<section style="margin-bottom:3em;">
+  <div class="flex">
+    <h2 style="border-bottom:none;">Nyeste videoer</h2>
+    <small><a href="/video/soking">...se flere</a></small>
+  </div>
 
-
-  <article class="video">
-    <Video id="UpicbnpX_c4" />
-    <h2>Bygge inn i Canvas</h2>
-  </article>
+  <div class="container">
+    <article class="video">
+      <Video id="3IIoBZ0Tf_I" />
+      <h3>How to cite sources and avoid plagiarism?</h3>
+    </article>
+    <article class="video">
+      <Video id="UpicbnpX_c4" />
+      <h3>Bygge inn i Canvas</h3>
+    </article>
+  </div>
 </section>
 
 ## Partnere
