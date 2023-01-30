@@ -99,6 +99,12 @@
                   >Søk & skriv i undervisning</a
                 >
               </div>
+              <div>
+                <a
+                  href="https://uustatus.no/nb/erklaringer/publisert/c6d9a394-b5ac-48fd-9f1f-0154b2daacbc"
+                  >Tilgjengelighetserklæring</a
+                >
+              </div>
             </div>
             <div class="align-left">
               <div><a href="/en/about/">About Search & write</a></div>
