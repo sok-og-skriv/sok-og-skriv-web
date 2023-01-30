@@ -43,9 +43,7 @@
                   />
                 </picture>
               </a>
-              <div class="title">
-                Høyskolen på Vestlandet
-              </div>
+              <div class="title">Høyskolen på Vestlandet</div>
             </div>
             <div class="partner">
               <a href="https://www.uib.no">
@@ -60,9 +58,7 @@
                   />
                 </picture>
               </a>
-              <div class="title">
-                Universitetet i Bergen
-              </div>
+              <div class="title">Universitetet i Bergen</div>
             </div>
             <div class="partner">
               <a href="https://www.uio.no">
@@ -72,14 +68,12 @@
                     srcset="/partners/uio-icon.svg"
                   />
                   <img
-                    src="/partners/uio-logo.svg"
+                    src="/partners/04_uio_segl_pos.svg"
                     alt="Universitetet i Oslo"
                   />
                 </picture>
               </a>
-              <div class="title">
-                Universitetet i Oslo
-              </div>
+              <div class="title">Universitetet i Oslo</div>
             </div>
             <div class="partner">
               <a href="https://www.nb.no">
@@ -91,9 +85,7 @@
                   <img src="/partners/nb-logo.png" alt="Nasjonalbiblioteket" />
                 </picture>
               </a>
-              <div class="title">
-                Nasjonalbiblioteket
-              </div>
+              <div class="title">Nasjonalbiblioteket</div>
             </div>
           </div>
           <div class="container two-column footer-links">
@@ -122,29 +114,44 @@
 </template>
 
 <style lang="stylus" scoped>
-footer .partners
-  grid-template-columns: 1fr 1fr
-  grid-gap: 2.5rem
-  display: grid
-  align-items: center
-  justify-content: center
-  margin-bottom: 2rem
-  @media screen and (min-width: 809px) and (max-width: $MQNarrow)
-    grid-template-columns: 1fr 1fr
-  @media screen and (max-width: 809px)
-    grid-template-columns: 1fr 1fr 1fr 1fr
-    grid-gap: 1rem
-  .partner
-    display: grid
-    align-items: left
-    @media screen and (max-width: $MQMobile)
-      align-items: center
-      a
-        margin: auto
-    img
-      max-height: 60px
-    .title
-      display: none
+footer .partners {
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2.5rem;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+
+  @media screen and (min-width: 809px) and (max-width: $MQNarrow) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media screen and (max-width: 809px) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .partner {
+    display: grid;
+    align-items: left;
+
+    @media screen and (max-width: $MQMobile) {
+      align-items: center;
+
+      a {
+        margin: auto;
+      }
+    }
+
+    img {
+      max-height: 60px;
+    }
+
+    .title {
+      display: none;
+    }
+  }
+}
 </style>
 
 <script>

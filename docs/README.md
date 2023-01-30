@@ -120,7 +120,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   <div class="partner">
     <a href="https://www.uio.no">
       <picture>
-        <source media="(max-width: 719px)" type="image/svg+xml" srcset="/partners/uio-icon.svg">
+        <source media="(max-width: 719px)" type="image/svg+xml" srcset="/partners/04_uio_segl_pos.svg">
         <img src="/partners/uio-logo.svg" alt="Universitetet i Oslo"/>
       </picture>
     </a>
