@@ -39,7 +39,7 @@ Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korl
 ::: tip I noten 
 ^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
-**Eksempel**
+#### Eksempel
 
 Morton Klass definerer myte som «...»^1^
 
@@ -49,7 +49,8 @@ Morton Klass definerer myte som «...»^1^
 :::: ref
 <span class="ref">Etternavn, Fornavn. _Tittel_. Utgiversted: Forlag, årstall.</span>
 
-**Eksempel**  
+#### Eksempel
+
 <span class="ref">Klass, Morton. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview Press, 1995.</span>
 
 ::: details I EndNote

@@ -28,7 +28,7 @@
       <template #bottom>
         <slot name="page-bottom" />
 
-        <footer class="theme-default-content">
+        <div class="theme-default-content">
           <div class="partners">
             <div class="partner">
               <a href="https://www.hvl.no">
@@ -107,7 +107,7 @@
               </div>
             </div>
           </div>
-        </footer>
+        </div>
       </template>
     </Page>
   </div>
