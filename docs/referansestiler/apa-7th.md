@@ -3,8 +3,6 @@ title: "APA 7th"
 date: "2020-06-17"
 tags: 
   - "Direkte sitat"
-  
-
 ---
 
 # APA 7th
@@ -674,7 +672,7 @@ parentes etter tittelen.
 
 :::: ref
 Elektronisk:
-<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.
+<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.</span>
 https://xxxxx
 
 <span class="ref">Bergan, M. A. (2017). _Fiskebiologiske undersøkelser i
@@ -826,7 +824,7 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 :::
 
 :::: ref
-<span class="ref">Pontoppidan, C. (1785). _Det Sydlige Norge._ Nasjonalbiblioteket. [https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725](https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725)
+<span class="ref">Pontoppidan, C. (1785). _Det Sydlige Norge._ Nasjonalbiblioteket. [https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725](https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725)</span>
 
 Dynamisk genererte kart har ingen tittel. Gi beskrivelse i skarpe klammer og oppgi hentedato i
 klammen: 

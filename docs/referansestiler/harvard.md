@@ -34,7 +34,7 @@ Bok med en til tre forfattere:
 Bok med fire eller flere forfattere:  
 (Første forfatters etternavn mfl., årstall, eventuelt sidetall)
 
-**Eksempel**
+#### Eksempel
 Eriksen og Nielsen (2013, s. 14) hevder at …
 
 Et alternativ til "s." for å henvise til side er å bruke kolon:
@@ -50,7 +50,8 @@ Etternavn, N.N, Etternavn, N.N. og Etternavn, N.N. (årstall) _Tittel_. Utgivels
 Bok med fire eller flere forfattere:  
 Etternavn, N.N. mfl. (årstall) _Tittel_. Utgivelsessted: Utgiver.
 
-**Eksempel** 
+#### Eksempel
+
 Eriksen, T.H. og Nielsen, F.S. (2013) _A history of anthropology._ 2. utg. London: Pluto Press.
 
 ::: details I EndNote

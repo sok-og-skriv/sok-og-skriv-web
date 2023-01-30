@@ -10,7 +10,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/searching/"><img src="/images/illustrasjoner_sok_500x450.png" alt="Searching"></a>
+      <a href="/en/searching/"><img src="/images/illustrasjoner_sok_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/searching/">Searching</a></h2>
@@ -20,7 +20,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/study-skills/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Study skills"></a>
+      <a href="/en/study-skills/"><img src="/images/illustrasjoner_lesing_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/study-skills/">Study skills</a></h2>
@@ -30,7 +30,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/writing/"><img src="/images/illustrasjoner_skriving_500x450.png" alt="Writing"></a>
+      <a href="/en/writing/"><img src="/images/illustrasjoner_skriving_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/writing/">Writing</a></h2>
@@ -40,7 +40,7 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
   <div class="card">
     <div class="image">
-      <a href="/en/sources-and-referencing/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Sources and referencing"></a>
+      <a href="/en/sources-and-referencing/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/en/sources-and-referencing/">Sources</a></h2>
@@ -50,19 +50,20 @@ footer: Search & Write - Creative Commons Attribution-NonCommercial-ShareAlike 4
 
 </div>
 
-<div class="flex">
-  <h2 style="border-bottom:none;">Latest videos</h2>
-  <small><a href="/en/video">...more</a></small>
-</div>
 
-<section class="container" style="margin-bottom:3em;">
-  <article class="video">
-    <Video id="esfZOcBIB6w" />
-  </article>
-
-  <article class="video">
-    <Video id="UpicbnpX_c4" />
-  </article>
+<section style="margin-bottom:3em;">
+  <div class="flex">
+    <h2 style="border-bottom:none;">Latest videos</h2>
+    <small><a href="/en/video">...more</a></small>
+  </div>
+  <div class="container">
+    <article class="video">
+      <Video id="esfZOcBIB6w" />
+    </article>
+    <article class="video">
+      <Video id="UpicbnpX_c4" />
+    </article>
+  </div>
 </section>
 
 ## Partners
