@@ -65,10 +65,10 @@
                 <picture>
                   <source
                     media="(max-width: 809px)"
-                    srcset="/partners/uio-icon.svg"
+                    srcset="/partners/04_uio_segl_pos.svg"
                   />
                   <img
-                    src="/partners/04_uio_segl_pos.svg"
+                    src="/partners/uio-logo.svg"
                     alt="Universitetet i Oslo"
                   />
                 </picture>
@@ -88,7 +88,7 @@
               <div class="title">Nasjonalbiblioteket</div>
             </div>
           </div>
-          <div class="container two-column footer-links">
+          <n class="container two-column footer-links">
             <div class="align-right">
               <div><a href="/om/">Om Søk & skriv</a></div>
               <div>
@@ -106,7 +106,7 @@
                 <a href="/en/about/contact-information.html">Contact</a>
               </div>
             </div>
-          </div>
+          </n>
         </div>
       </template>
     </Page>
