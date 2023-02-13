@@ -8,9 +8,9 @@ tags:
 
 # Ofte stilte spørsmål
 
-## APA 7
 
-:::: tip SJEKK OM DENNE KAN TAKAST VEKK?
+
+:::: tip APA 7
 
 ::: details Ingen kategorier passer 
 Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
@@ -42,4 +42,19 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 :::  
+
+::: details boks 3
+
+Skriv her
+
+:::  
+
+:::  
+
+::: details boks 4
+
+Skriv her
+
+:::  
+
 ::::
