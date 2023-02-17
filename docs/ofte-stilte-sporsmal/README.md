@@ -55,9 +55,12 @@ I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke 
 
 :::  
 
-::: details boks 4
+::: details Sidetall 
 
-Skriv her
+Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skrive med egne ord. Hvis du viser til tekst over flere sider, oppgir du første og siste side. 
+
+Eksempel: (Dalland 2020, s. 42-51)
+
 
 :::  
 
