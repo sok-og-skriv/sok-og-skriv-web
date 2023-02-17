@@ -43,9 +43,13 @@ Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 :::  
 
-::: details boks 3
+::: details Sekundærkilde (sitat hentet fra en annen kilde)
 
-Skriv her
+Viss du bruker et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
+
+Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
+I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke er lest.
+
 
 :::  
 
