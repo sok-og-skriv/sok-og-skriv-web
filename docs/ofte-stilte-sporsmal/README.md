@@ -3,6 +3,16 @@ title: "Ofte stilte spørsmål"
 date: "2022-06-03"
 tags:
   - spørsmål
+  - "ingen kategorier passer"
+  - "flere kilder i samme parentes"
+  - sekundærkilde
+  - primærkilde
+  - "sitat hentet fra annen kilde"
+  - sidetall
+
+
+
+
 
 ---
 
@@ -63,6 +73,26 @@ Eksempel: (Dalland 2020, s. 42-51)
 
 
 :::  
+
+::: details Sidetall mangler
+
+:::
+
+::: details År mangler
+
+:::
+
+::: details Forfatter mangler
+
+:::
+
+::: details Henvisninger til flere verk av samme forfatter utgitt samme år 
+
+:::
+
+::: details Henvisning til flere verk med samme førsteforfatter utgitt samme år 
+
+:::
 
 ::::
 
