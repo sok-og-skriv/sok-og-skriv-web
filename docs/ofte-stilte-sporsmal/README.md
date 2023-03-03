@@ -69,9 +69,19 @@ Eksempel: (Dalland 2020, s. 42-51)
 
 ::: warning Kildebruk og kildetyper
 
+::: details Boks 1
+
+::: details Boks 2
+
+::: details Boks 3
+
 :::
 
 
-::: eksempel Søking
+::: oppgave Søking
+
+::: details Boks 1
+::: details Boks 2
+::: details Boks 3
 
 :::
