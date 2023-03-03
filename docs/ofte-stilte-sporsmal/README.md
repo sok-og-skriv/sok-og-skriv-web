@@ -112,7 +112,7 @@ Eksempel: (Dalland 2020, s. 42-51)
 ::::
 
 
-::: warning Kildebruk og kildetyper
+:::: tip Kildebruk og kildetyper
 
 ::: details Hva er en fagfellevurdert artikkel
 
@@ -130,14 +130,15 @@ internlenke?
 
 :::
 
+::::
 
-
-::: oppgave Søking
+:::: tip Søking
 
 ::: details Boks 1
 
 :::
 
+::::
 
 
 
