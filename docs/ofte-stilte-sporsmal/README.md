@@ -71,9 +71,15 @@ Eksempel: (Dalland 2020, s. 42-51)
 
 ::: details Boks 1
 
+:::
+
 ::: details Boks 2
 
+:::
+
 ::: details Boks 3
+
+:::
 
 :::
 
@@ -81,7 +87,13 @@ Eksempel: (Dalland 2020, s. 42-51)
 ::: oppgave Søking
 
 ::: details Boks 1
+
+:::
 ::: details Boks 2
+
+:::
 ::: details Boks 3
+
+:::
 
 :::
