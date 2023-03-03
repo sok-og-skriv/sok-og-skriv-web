@@ -3,12 +3,17 @@ title: "Ofte stilte spørsmål"
 date: "2022-06-03"
 tags:
   - spørsmål
+  - FAQ
   - "ingen kategorier passer"
   - "flere kilder i samme parentes"
   - sekundærkilde
   - primærkilde
   - "sitat hentet fra annen kilde"
   - sidetall
+  - DOI
+  - "Fagfellevurdert artikkel"
+  - "Peer review"
+
 
 
 
@@ -94,16 +99,36 @@ Eksempel: (Dalland 2020, s. 42-51)
 
 :::
 
+::: details Henvisning til forfattere med samme etternavn (Ikke samme person)
+
+:::
+
+::: details Kapittel skrevet av andre enn forfatter 
+
+:::
+
+
+
 ::::
 
 
 ::: warning Kildebruk og kildetyper
 
-::: details Boks 1
+::: details Hva er en fagfellevurdert artikkel
+
+internlenke?
 
 :::
 
+::: details Hva er et tidsskrift?
 
+internlenke?
+
+:::
+
+::: details Hva er DOI
+
+:::
 
 
 
