@@ -81,7 +81,7 @@ Eksempel: (Dalland 2020, s. 42-51)
 
 :::
 
-:::
+::::
 
 
 ::: oppgave Søking
@@ -96,4 +96,4 @@ Eksempel: (Dalland 2020, s. 42-51)
 
 :::
 
-:::
+::::
