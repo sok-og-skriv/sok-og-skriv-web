@@ -65,3 +65,13 @@ Eksempel: (Dalland 2020, s. 42-51)
 :::  
 
 ::::
+
+
+::: warning Kildebruk og kildetyper
+
+:::
+
+
+::: eksempel Søking
+
+:::
