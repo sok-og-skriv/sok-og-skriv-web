@@ -21,7 +21,7 @@ Temaer:
 12. Beskrive resultater i tallmateriale
 13. Drøfte funn og resultater
 14. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
-15. Avslutning: oppsummering eller konklusjon.
+15. Avslutning: oppsummering eller konklusjon
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
 
