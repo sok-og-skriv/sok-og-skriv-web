@@ -258,14 +258,22 @@ module.exports = {
         },
       },
     ],
-    [
-      "@vuepress/google-analytics",
-      {
-        ga: "UA-74198226-1",
-      },
-    ],
   ],
   head: [
+    [
+      'script',
+      {
+          async: true,
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-11WMC6TGYX',
+      },
+    ],
+    [
+      'script',
+      {},
+      [
+        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-11WMC6TGYX');",
+      ],
+    ],
     ['script', { src: '/js/unregister-sw.js' }],
     ['link', { rel: 'icon', href: `/favicon.svg` }],
     ["meta", { name: "charset", content: "UTF-8" }],
