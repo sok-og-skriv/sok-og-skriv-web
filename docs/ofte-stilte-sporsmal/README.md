@@ -24,11 +24,13 @@ tags:
 # Ofte stilte spørsmål
 
 
+ ## APA 7
 
-:::: tip APA 7
+ <details>
 
-::: details Ingen kategorier passer 
-Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
+    <summary>Ingen kategorier passer </summary>
+
+    Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
 Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
 
@@ -55,6 +57,11 @@ Eksempel: (Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
 Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
 
 Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
+
+</details>
+
+
+
 
 :::  
 
@@ -142,42 +149,8 @@ internlenke?
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Klikkbare bokser i HTML</title>
-</head>
-<body>
-
-	<label>
-		<input type="checkbox" onclick="updateText(this)"> Ikke klikket
-	</label>
-	<br>
-	<label>
-		<input type="checkbox" onclick="updateText(this)"> Ikke klikket
-	</label>
-	<br>
-	<label>
-		<input type="checkbox" onclick="updateText(this)"> Ikke klikket
-	</label>
-
-	<script>
-		// Funksjon for å oppdatere teksten av en boks
-		function updateText(box) {
-			if (box.checked) {
-				box.nextSibling.nodeValue = "Klikket";
-			} else {
-				box.nextSibling.nodeValue = "Ikke klikket";
-			}
-		}
-	</script>
-
-</body>
-</html>
-I dette eksempelet bruker vi <label>-elementet for å gruppere tekstetiketten og boksen sammen. onclick-attributtet på <input>-elementet lar oss knytte funksjonen updateText til boksen, slik at den blir kalt når boksen klikkes. I funksjonen updateText sjekker vi om boksen er merket av eller ikke, og oppdaterer teksten til tekstetiketten ved siden av boksen deretter.
 
 
 
 
 
-Regenerate response
