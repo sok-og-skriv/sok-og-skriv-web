@@ -28,7 +28,7 @@ Institusjonstilknytning (universitet/høgskole, fakultet, institutt, emne)
 Studiesemester eller årstall
 :::
 
-Her kan du laste ned logo til bruk på forside fra [UiB](https://manual.uib.no/profilmanual/) og [forside fra UiO](https://www.ub.uio.no/skrive-publisere/masteroppgaver/maler/oppgaveforside.html). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
+Her kan du laste ned logo til bruk på forside fra [UiB](https://manual.uib.no/profilmanual/) og [forside fra UiO](https://www.uio.no/om/designmanual/profilen-i-bruk/publikasjoner-og-brosjyrer/doktorgrader.html#toc1). For HVL gjelder [denne nettsiden.](https://www.hvl.no/student/eksamen/heimeeksamen-og-oppgaveskriving/)
 
 ## Maler
 
@@ -127,7 +127,7 @@ Avsnitt markeres enten med ekstra linjeskift _eller_ innrykk. Det første er van
 
 ## Sitater
 
-Kortere sitater i teksten markeres med anførselstegn og kildehenvisning, men _ikke_ kursiv. Unntaket er utsagn fra informanter (intervjudata), som ofte kursiveres. Lengre sitater (mer enn 3 linjer eller 140 ord, avhengig av referansestil) rykkes inn med tabulator eller ved hjelp av Word-malen. Når sitatet er rykket inn, skal det verken ha anførselstegn eller kursiv.
+Kortere sitater i teksten markeres med anførselstegn og kildehenvisning, men _ikke_ kursiv. Unntaket er utsagn fra informanter (intervjudata), som ofte kursiveres. Lengre sitater (mer enn 3 linjer eller 40 ord, avhengig av referansestil) rykkes inn med tabulator eller ved hjelp av Word-malen. Når sitatet er rykket inn, skal det verken ha anførselstegn eller kursiv.
 
 Det kan være nødvendig å redigere Word-malen for å fjerne unødvendig kursivering. Endre teksten slik du vil ha den, marker en del av teksten og høyreklikk på stilen du vil endre. Velg "Update Normal to Match Selection", eller tilsvarende på norsk.
 

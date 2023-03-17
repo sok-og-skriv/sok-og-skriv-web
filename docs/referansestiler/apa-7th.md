@@ -3,8 +3,6 @@ title: "APA 7th"
 date: "2020-06-17"
 tags: 
   - "Direkte sitat"
-  
-
 ---
 
 # APA 7th
@@ -89,7 +87,7 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 
 ::: teksten
 
-... (Forfatter, årstall, evt. sitedall)
+... (Forfatter, årstall, evt. sidetall)
 
 ... (Gullestad & Killingmo, 2013, s. 35)
 
@@ -105,18 +103,25 @@ For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner
 Utgaveopplysninger skal ikke føres opp ved førsteutgaver.
 
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Book".
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher, Edition (hvis aktuelt) og Translator (hvis aktuelt).
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
+
 ::: 
 :::: 
 
 ::: details Flere eksempler
 De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer hvilken ... 
 
-<span class="ref">Nortvedt, M.W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
+<span class="ref">Nortvedt, M. W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
 
 For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 ::: 
@@ -133,16 +138,22 @@ Det mest vanlige er å referere til enkeltkapitler i redigerte bøker. Dersom du
 :::
 
 :::: ref
-<span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (s. xxx–xxx). Forlag.</span>
+<span class="ref">Kapittelforfatter, A. A. (Årstall). Kapitteltittel. I A. Redaktør & B. Redaktør (Red.), _Tittel_ (utg., bind, s. xxx–xxx). Forlag.</span>
 
 
 <span class="ref">Svensen, H. H. (2019). Å skrive for livet: Populærvitenskap, forskermemoarer og IMRAD. I I. B. Jørgensen & N. Askeland (Red.), _Kreativ akademisk skriving_ (s. 157-178). Universitetsforlaget.</span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Book Section".
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Editor (trykk "enter" mellom hvert navn hvis flere), Book Title, Publisher, Pages, Edition (hvis aktuelt). 
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 :::
 :::: 
 
@@ -151,6 +162,8 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 En større undersøkelse i Australia viste at ... (Trickett, 2001, s. 9646).
 
 <span class="ref">Trickett, E. J. (2001). Mental Health: Community Interventions. I N. J. Smelser & P. B. Baltes (Red.), _International encyclopedia of the social & the behavioral sciences_ (s. 9645–9648). Elsevier.</span>
+
+<span class="ref">Johnsen, B.H. (2019). Spesialpedagogiske røtter og fagets utvikling. I E. Befring, K.-A. B. Næss & R Tangen (Red.), _Spesialpedagogikk_ (6. utg., s. 107-128). Cappelen Damm Akademisk.</span>
 
 :::
  
@@ -176,7 +189,9 @@ Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken er identisk med tr
 
 <span class="ref">Vareide, K. (2018) _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ Cappelen Damm. https://doi.org/10.23865/noasp.32</span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Electronic Book".
 
@@ -197,10 +212,16 @@ Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke
 <span class="ref">Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954).</span>
 
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Book".
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 
 ::: 
 
@@ -223,7 +244,9 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 <span class="ref">Huang, L. & Mossige, S. (2012). Academic achievement in Norwegian secondary schools: The impact of violence during childhood. _Social Psychology of Education_, _15_(2), 147–164. https://doi.org/10.1007/s11218-011-9174-y</span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Trykt tidsskrift: Legges inn som "Journal Article". 
 
@@ -232,6 +255,10 @@ Elektronisk tidsskrift: Legges inn som "Electronic Article" eller "Journal Artic
 Trykt tidsskrift: Fyll ut feltene Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Journal, Volume, Issue (hvis aktuelt), Pages.
 
 Elektronisk tidsskrift: Fyll ut feltene Author, Year, Title, Journal, Volume, Issue (hvis aktuelt), Pages, DOI (eller URL dersom DOI mangler).
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -261,6 +288,10 @@ Man må se mer nyansert på utroskap og monogami (Thuen, 2006, s. 12).
 Legges inn som "Newspaper Article".
 
 Fyll ut feltene: Reporter (trykk "enter" mellom hvert navn hvis flere), Year, Title, Newspaper, Pages, Issue Date og url om du leser avisartikkelen elektronisk.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -303,13 +334,19 @@ Ta med dato i tilfeller der innholdet oppdateres.
 
 
 
-::: details I Endnote
+::: details I Endnote og Zotero
+
+I EndNote:
 
 Legges inn som "Encyclopedia".
 
 Fyll ut feltene: Author (hvis innførselen har forfatter), Year, Title, Editor (hvis aktuelt), Encyclopedia Title, Edition (hvis aktuelt), Pages (hvis aktuelt), Date (hvis publiseringsdato er oppgitt i tillegg til publiseringsår), URL.
 
 (Fyll også ut feltet Access Date hvis lesedato skal med).
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 :::
 ::::
 
@@ -339,14 +376,19 @@ statsråd 20. mars 2018_. Regjeringen.
 https://www.regjeringen.no/no/aktuelt/offisielt-fra-statsrad-20.-mars-2018/id2594402/
 </span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
 
+I EndNote:
 
 Legges inn som "Web Page".
 
 Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjonsnavnet), Year, Title, Publisher (Nettstedets navn) Last Update Date (hvis publiseringsdato er oppgitt i tillegg til publiseringsår), URL.
 
 (Fyll også ut Access Year og Access Date hvis lesedato skal med). 
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -369,11 +411,17 @@ Skinnegående transport øker mest (Lund, 2018).
 
 <span class="ref">Lund, V. (2018, 26. september). _Åtte av ti reiser med bil_. SSB. https://www.ssb.no/transport-og-reiseliv/artikler-og-publikasjoner/atte-av-ti-reiser-med-bil </span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Web Page".
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Publisher (Nettstedets navn) Last Update Date (hvis publiseringsdato er oppgitt i tillegg til publiseringsår), URL.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 
 :::
 :::: 
@@ -384,23 +432,27 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ### Lover
 
 ::: teksten
-(Lovens kortnavn, årstall, paragraf)
+(Lovens korttittel, årstall, paragraf)
 
 I folketrygdloven (1997, § 14-4) står det om svangerskapspenger at ...
 :::
 
 :::: ref
-<span class="ref">Lovens kortnavn. (Årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
+<span class="ref">Lovens korttittel. (Årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
 
 <span class="ref">Folketrygdloven. (1997). _Lov om folketrygd_ (LOV-1997-02-28-19). Lovdata. [https://lovdata.no/lov/1997-02-28-19](https://lovdata.no/lov/1997-02-28-19)</span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
 
 (tilpasset EndNote-stil for norsk APA)
 
 Legges inn som "Legal Rule or Regulation".
 
 Fyll ut feltene: Author (lovens korttittel), Year, Title (full tittel), Rule Number (datokode), Publisher, URL.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -416,20 +468,27 @@ Det anbefales å hente lover direkte fra [Lovdata](https://lovdata.no/lov/2018-0
 ### Forskrifter
 
 ::: teksten
-(Forskriftens kortnavn, årstall, paragraf)
+(Forskriftens korttittel, årstall, paragraf)
 
-Forskrift om rammeplan for grunnskolelærerutdanning, trinn 1–7 (2016), sier at ...
+Forskrift om etablering og gjennomføring av psykisk helsevern (2011), sier at ...
 :::
 
 :::: ref
-<span class="ref">Forskriftens kortform. (årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
+<span class="ref">Forskriftens korttittel. (årstall). _Lang tittel_ (datokode). Nettstedets navn. https://...</span>
 
-<span class="ref">Forskrift om plan for grunnskolelærerutdanning, trinn 1–7. (2016). _Forskrift om rammeplan for grunnskolelærerutdanning for trinn 1–7_ (FOR-2016-06-07-860). Lovdata. [https://lovdata.no/forskrift/2016-06-07-860](https://lovdata.no/forskrift/2016-06-07-860)</span>
+<span class="ref">Psykisk helsevernforskriften (2011). _Forskrift om etablering og gjennomføring av psykisk helsevern m.m._ (FOR-2011-12-16-1258). Lovdata. [https://lovdata.no/forskrift/2011-12-16-1258](https://lovdata.no/forskrift/2011-12-16-1258)</span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
 
+I EndNote:
 
-Fyll ut feltene: Author (Forskriftens kortform), Year, Title (full tittel), Rule Number (datokode), URL.
+Legges inn som "Legal Rule or Regulation".
+
+Fyll ut feltene: Author (Forskriftens korttittel med et komma til slutt), Year, Title (full tittel), Publisher, Rule Number (datokode), URL.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -460,13 +519,19 @@ Dersom du henviser til trykt utgave, utgår url.
 <span class="ref">Meld. St. 20 (2009-2010). _Omorganisering av ABM-utvikling_. Kulturdepartementet. https://www.regjeringen.no/no/dokumenter/Meld-St-20-20092010/id608202/</span>
 
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Government Document".
 
 Fyll ut feltene: Author (Sett inn årstall i parentes etter meldingsnummer og avslutt med komma), Title, Department, URL.
 
 OBS: Author-feltet skal altså se slik ut: Meld.St. 20 (2009-2010),
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 
 ::: 
 :::: 
@@ -500,7 +565,9 @@ Meldinger fra før oktober 2009 har betegnelsen Stortingsmelding, forkortet St.m
 
 <span class="ref">NOU 1999: 13. (1999). _Kvinners helse i Norge_. Sosial- og helsedepartementet.</span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Trykt utgave: Legges inn som "Book".
 
@@ -511,6 +578,10 @@ Trykt utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med
 Elektronisk utgave: Fyll ut feltene Author (legg inn NOU år: nummer som forfatter med et komma til slutt), Year, Title, URL.
 
 OBS: År for utgave skal ikke med i parentesen i løpende tekst. Dette må rettes manuelt i EndNote via "Edit & Manage Citations". Velg Exclude year i nedtrekksmenyen for "Formatting".
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -538,27 +609,35 @@ Utdanningsdirektoratet (2021) har gitt føringer for hvordan læreplaner skal si
 
 :::: ref
 
-Departement/direktorat. (Publiseringstidspunkt). _Tittel_. Fastsatt som forskrift ved kongelig
-resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL
+<span class="ref">Departement/direktorat. (Publiseringstidspunkt). _Tittel_. Fastsatt som forskrift ved kongelig
+resolusjon. Læreplanverket for Kunnskapsløftet 2020. URL</span>
 
-Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
+<span class="ref">Kunnskapsdepartementet. (2017). _Overordnet del –verdier og prinsipper for grunnopplæringen._
 Fastsatt som forskrift ved kongelig resolusjon. Læreplanverket for Kunnskapsløftet 2020.
-[https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/](https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/)
+[https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/](https://www.regjeringen.no/no/dokumenter/verdier-og-prinsipper-forgrunnopplaringen/id2570003/)</span>
 
 
-Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
-Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-03](https://www.udir.no/lk20/hsf01-03)
-
-
-
+<span class="ref">Utdanningsdirektoratet. (2020). _Læreplan i Vg1 helse- og oppvekstfag._ Fastsatt som forskrift.
+Læreplanverket for Kunnskapsløftet 2020. [https://www.udir.no/lk20/hsf01-03](https://www.udir.no/lk20/hsf01-03)</span>
 
 
 
-::: details I EndNote
 
-Legges inn som "Report".
 
-Fyll ut feltene: Author, (komma etter organisasjonsnavn) Year, Title, Report Number (plankode), Publisher (sett på komma til slutt), URL. 
+
+::: details I EndNote og Zotero
+
+I EndNote:
+
+Legges inn som "Government Document".
+
+Fyll ut feltene: Author, Year, Title (Læreplankode), Publisher, URL. 
+
+Merk at læreplankoden fylles inn i tittelfeltet i parentes. Fyll inn *Fastsatt som forskrift* osv. i Publisher-feltet.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -593,7 +672,7 @@ parentes etter tittelen.
 
 :::: ref
 Elektronisk:
-<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.
+<span class="ref">Forfatter/Institusjon. (Publiseringstidspunkt). _Tittel_ (seriekode/Rapportnavn og -nr). Utgiver.</span>
 https://xxxxx
 
 <span class="ref">Bergan, M. A. (2017). _Fiskebiologiske undersøkelser i
@@ -616,13 +695,19 @@ Trykt:
 <span class="ref">Hansen, T. & Slagsvold, B. (2012). _Likestilling hjemme_ (NOVA Rapport 8/12). Norsk institutt for forskning om oppvekst, velferd og aldring. https://www.nova.no/</span>
 :::
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Report"
 
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Report number (Her skriver du inn hele serieopplysningen), Publisher, URL
 
 Merknad: Dersom du ikke har URL, erstattes den med Publisher. Dersom du ikke har nummer/serieopplysning kan feltet for Report number stå blankt.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 
 :::
 
@@ -656,12 +741,17 @@ I _Iliaden_ (6.344–58) sier Helena at ...
 
 <span class="ref">Homer (1898). _The Iliad_ (S. Butler, Overs.) The Internet Classics Archive. http://classics.mit.edu/Homer/iliad.html (Originalt verk publisert ca. 800 fvt.)</span>
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Book".
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
 NB: Hellige verk skal generelt _ikke_ ha innførsel i referanselista. Skriv henvisning i teksten manuelt.
 
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -699,7 +789,9 @@ Eget arbeid:
 <span class="ref">Eget arbeid (Årstall). _Tittel på oppgaven_ [Upublisert semesteroppgave - velg det som passer]. Navn på utdanningsinstitusjon.</span>
 
 
-::: details I EndNote
+::: details I EndNote og Zotero
+
+I EndNote:
 
 Legges inn som "Thesis".
 
@@ -709,6 +801,9 @@ Avhandling på Internett: Fyll ut feltene Author (trykk "enter" mellom hvert nav
 
 Merknad: I feltet for «Thesis type» legges også institusjonsnavnet inn.
 
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 ::: 
 :::: 
 
@@ -718,7 +813,43 @@ Merknad: I feltet for «Thesis type» legges også institusjonsnavnet inn.
 <span class="ref"> Jerpseth, H. (2017). _Older patients with late-stage COPD: Care and clinical decision-making: A qualitative study with perspectives of patients, nurses and physicians_ [Doktorgradsavhandling, Universitetet i Oslo]. DUO Vitenarkiv. http://urn.nb.no/URN:NBN:no-58501 </span>
 :::
 
-### Statistikk, datasett og elektroniske kart
+### Kart
+
+::: teksten
+
+...  (Pontoppidan, 1785)
+
+
+... (Norge i bilder, 2016)
+:::
+
+:::: ref
+<span class="ref">Pontoppidan, C. (1785). _Det Sydlige Norge._ Nasjonalbiblioteket. [https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725](https://www.nb.no/items/URN:NBN:no-nb_digikart_gaa0010000725)</span>
+
+Dynamisk genererte kart har ingen tittel. Gi beskrivelse i skarpe klammer og oppgi hentedato i
+klammen: 
+
+<span class="ref">Norge i bilder (2016). [Bildesøk Rena med bakgrunnslag
+Samferdsel og Stedsnavn] Hentet 28. juni 2022
+fra
+[http://www.norgeibilder.no/?x=262683&y=699
+8817&level=14&utm=33&projects=2318&layers
+=0,1&planned=0](https://www.norgeibilder.no/?x=262683&y=6998817&level=14&utm=33&projects=&layers=&plannedOmlop=0&plannedGeovekst=0)  </span>
+
+::: details Endnote
+
+I EndNote:
+
+Informasjon kommer
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
+:::
+::::
+
+
+### Statistikk og datasett
 
 Statistikk:
 
@@ -743,6 +874,10 @@ Inkludere en henvisning i teksten og innførsel i referanselista til et datasett
 ::: details Endnote
 Legges inn som "Dataset".
 Fyll ut feltene: Investigators, Year, Title, Distributor, Datatype, DOI, URL. Note: Sett komma etter navnet på investigators.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 :::
 ::::
 
@@ -760,10 +895,17 @@ Disse dokumenttypene kan ligne bøker og e-bøker og er gjerne utgitt av offentl
 
 
 
-::: details Endnote
+::: details Endnote og Zotero
+
+I EndNote:
+
 Legges inn som "Report".
 
 Fyll ut feltene: Author (med et komma etter organisasjonsnavnet eller institusjonsnavnet), Year, Title, Report Number, URL.
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 :::
 ::::
 
@@ -793,9 +935,16 @@ Om du er ansatt og skriver for kolleger, kan du følge malen for rapporter. Ders
 Forfatter(e). (Publiseringstidspunkt). _Tittel: Undertittel_ /[Lysarkpresentasjon/]. URL
 <span class="ref">Coyle, K. (u.å.). _Bibliographic data: A new context_[Lysarkpresentasjon]. Karen Coyle. http://www.kcoyle.net/presentations/oslo2011.pdf</span>
 
-:::details Endnote
+:::details Endnote og Zotero
+
+I EndNote:
+
 Legges innsom "Book"
 Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Type og Work, Publisher, URL
+
+I Zotero:
+
+Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 :::
 ::::
 

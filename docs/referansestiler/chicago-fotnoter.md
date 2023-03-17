@@ -39,7 +39,7 @@ Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korl
 ::: tip I noten 
 ^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
-**Eksempel**
+#### Eksempel
 
 Morton Klass definerer myte som «...»^1^
 
@@ -49,7 +49,8 @@ Morton Klass definerer myte som «...»^1^
 :::: ref
 <span class="ref">Etternavn, Fornavn. _Tittel_. Utgiversted: Forlag, årstall.</span>
 
-**Eksempel**  
+#### Eksempel
+
 <span class="ref">Klass, Morton. _Ordered Universes: Approaches to the Anthropology of Religion._ Boulder: Westview Press, 1995.</span>
 
 ::: details I EndNote
@@ -289,7 +290,7 @@ Ofte er det tilstrekkelig å vise til avisartikler i noten, og det er ikke stren
 
 Etternavn, Fornavn. «Artikkeltittel.» _Avistittel_. Dato. Eventuelt URL/DOI
 
-Røyrane, Eva. «Hanseatene kommer tilbake.» _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html](https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html)
+Røyrane, Eva. «Hanseatene kommer tilbake.» _Bergens Tidende_. 11.05.2003. [https://www.bt.no/nyheter/lokalt/Hanseatene-kommer-tilbake-2419472.html]
 
 ::: details I EndNote
 
@@ -304,23 +305,23 @@ Artikkel på nett: Fyll ut feltene: Reporter, Year, Title, Newspaper, Pages, Iss
 
 ### Artikkel i elektronisk leksikon (uten forfatter)
 
-Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet).
+Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). For dato brukes helst publiseringsdato eller sist endret, eventuelt brukes lesedato (i så fall, legg til "lest" før dato).
 
 
 ::: tip I noten  
 
-^nr^ Tittel på leksikon/nettsted, s.v. «oppslagsord.» Dato. DOI/URL
+^nr^ Tittel på leksikon/nettsted, s.v. «oppslagsord», Dato. DOI/URL
 
 Håvamål betyr «den høyes tale».^15^
 
-^15^ _Wikipedia_, s.v. «Håvamål». 06.01.2020. [https://no.wikipedia.org/wiki/H%C3%A5vam%C3%A5l ](https://no.wikipedia.org/wiki/Håvamål)
+^15^ Wikipedia, s.v. «Håvamål», 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
 ::: 
 
 :::: ref
 
-Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
+Tittel på leksikon/nettsted. «oppslagsord». Dato. DOI/URL
 
-Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
+Wikipedia, s.v. «Håvamål». 18.03.2022. [https://no.wikipedia.org/wiki/Håvamål ](https://no.wikipedia.org/wiki/Håvamål)
 
 ::: details I EndNote
 
@@ -335,18 +336,18 @@ Fyll inn feltene: Year, Encyclopedia Title, Title, Place published, Publisher, U
 ### Artikkel i elektronisk leksikon (med forfatter)
 
 ::: tip I noten 
-^nr^ _Tittel på leksikon/nettsted_, s.v. «oppslagsord,» av Fornavn Etternavn, lesedato. URL/DOI
+^nr^ Tittel på leksikon/nettsted, «oppslagsord», av Fornavn Etternavn, lesedato. URL/DOI
 
 Mye tyder på at samtalene mellom nordmennene og hanseatene foregikk på norsk og nedertysk (nordtysk) samtidig.^16^
 
-^16^ _Store norske leksikon_, s.v. «Dialekter i Bergen,» av Martin Skjekkeland. 06.01.2020.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
+^16^ Store norske leksikon, «Dialekter i Bergen», av Martin Skjekkeland, 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen)
 :::
 
 :::: ref
 
-Etternavn, Fornavn, red. _Tittel på oppslagsverk_. Utg. Utgiversted: Forlag, årstall.
+Tittel på leksikon/nettsted. «oppslagsord». Fornavn Etternavn. dato. URL/DOI
 
-Hødnebø, Finn, red. _Kulturhistorisk leksikon for nordisk middelalder: Fra vikingtid til reformasjonstid_. Oslo: Gyldendal, 1956.
+Store norske leksikon. «Dialekter i Bergen». Martin Skjekkeland. 29.09.2022.  [https://snl.no/dialekter\_i\_Bergen](https://snl.no/dialekter_i_Bergen).
 
 ::: details I EndNote
 
@@ -359,7 +360,7 @@ Fyll inn feltene: Author, Year, Encyclopedia title, Title, Place published, Publ
 
 ### Artikkel i trykt leksikon/oppslagsverk
 
-Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er den første, og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel under.
+Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare referert til i notene. Ta med utgave hvis det ikke er den første, og henvis til oppslagsordet, markert med s.v. (sub verbo, latin for under ordet). Hvis du ønsker å gi full referanse med publiseringsdata, for eksempel for eldre eller mindre brukte oppslagsverk, se eksempel i «Kilden i referanselisten».
 
 
 ::: tip I noten 
@@ -367,7 +368,7 @@ Velkjente, mye brukte leksika, ordbøker og andre oppslagsverk er ofte bare refe
 
 Alderdom kan defineres som «…»^17^
 
-^17^_Kulturhistorisk leksikon_, s.v. «alderdom.»
+^17^_Kulturhistorisk leksikon_, s.v. «alderdom».
 ::: 
 
 :::: ref
@@ -388,7 +389,7 @@ Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publ
 ### Artikkel i trykt leksikon/oppslagsverk (med forfatter)
 
 ::: tip I noten 
-^nr^ Etternavn, «Korttittel artikkel.» 
+^nr^ Etternavn, «Korttittel artikkel». 
 
 … ifølge Dag Sveen.^18^
 
@@ -398,7 +399,7 @@ Fyll inn feltene: Editor, Year, Encyclopedia title, Title, Place published, Publ
 :::: ref 
 Etternavn, Fornavn. «Artikkeltittel», i _Leksikontittel_. Utg. (hvis ikke første) Utgiversted: Utgiver, årstall.
 
-Sveen, Dag. «Kritisk realisme.» I _Pax Leksikon_. Oslo: Pax, 1979.
+Sveen, Dag. «Kritisk realisme». I _Pax Leksikon_. Oslo: Pax, 1979.
 
 ::: details I EndNote
 

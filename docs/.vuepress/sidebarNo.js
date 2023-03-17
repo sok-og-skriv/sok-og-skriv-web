@@ -10,8 +10,7 @@ module.exports = {
     'lesemater',
     'lesing-og-skriving',
     'studiegrupper',
-    'argumentasjon-i-tekst',
-    'akademiske-sjangrer'
+    'tidsstyring'
   ],
   '/skriving/': [
     '',
@@ -28,13 +27,12 @@ module.exports = {
     'korleis-skal-ein-referere',
     'ulike-kjelder',
     'kjeldevurdering',
-   ],
+  ],
   '/frasebank/': [
     '',
-   ],
+  ],
   '/referansestiler/': [
     '',
-    'apa-6th',
     'apa-7th',
     'chicago-forfatter-aar',
     'chicago-fotnoter',
@@ -48,13 +46,6 @@ module.exports = {
     'skriving',
     'kjeldebruk',
     'undervisere'
-  ],
-  '/om/brukertest/': [
-    '',
-    'eksempel2',
-    'eksempel3',
-    'eksempel4',
-    'eksempel5'
   ],
   '/': [
     '/om/',

@@ -1,4 +1,14 @@
-# Akademisk frasebank
+---
+title: "Akademisk frasebank"
+date: "2022-03-01"
+tags: 
+  - "setninger"
+  - "uttrykk"
+  - "fraser"
+
+---
+
+# ![](/images/illustrasjoner_frasebank_500x450.png) Akademisk frasebank
 
 Her finner du eksempler på setninger, uttrykk og vendinger som er ofte brukt i akademiske tekster. Frasene er delt inn i temaer som kan være til hjelp når du skal strukturere en tekst. De er faguavhengige og nøytrale, og kan brukes uten henvisning til frasebanken. Som oftest må de tilpasses tekstens formål og din egen skrivestil. 
 

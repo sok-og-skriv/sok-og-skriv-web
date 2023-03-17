@@ -9,7 +9,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 <div class="cards">
   <div class="card">
     <div class="image">
-      <a href="/soking/"><img src="/images/illustrasjoner_sok_500x450.png" alt="Søking"></a>
+      <a href="/soking/"><img src="/images/illustrasjoner_sok_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/soking/">Søking</a></h2>
@@ -19,17 +19,17 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/studieteknikk/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Studieteknikk"></a>
+      <a href="/studieteknikk/"><img src="/images/illustrasjoner_lesing_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/studieteknikk/">Studieteknikk</a></h2>
-      <p>Her får du tips om hvordan du kan lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper</p>
+      <p>Her får du tips om hvordan du kan planlegge studiene, lese og forstå tekster, ta gode notater, samarbeide og jobbe i studiegrupper</p>
     </div>
   </div>
 
   <div class="card">
     <div class="image">
-      <a href="/skriving/"><img src="/images/illustrasjoner_skriving_500x450.png" alt="Skriving"></a>
+      <a href="/skriving/"><img src="/images/illustrasjoner_skriving_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/skriving/">Skriving</a></h2>
@@ -39,7 +39,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/kjeldebruk/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kjeldebruk"></a>
+      <a href="/kjeldebruk/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/kjeldebruk/">Kjeldebruk</a></h2>
@@ -49,11 +49,11 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   
   <div class="card">
     <div class="image">
-      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt="Kjeldebruk"></a>
+      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt=""></a>
     </div>
     <div class="content">
       <h2><a href="/frasebank/">Frasebank</a></h2>
-      <p>Her finner du eksempler på ord og vendinger som er mye brukt i akademiske tekster</p>
+      <p>Her finner du eksempler på uttrykk og vendinger som er mye brukt i akademiske tekster</p>
     </div>
   </div>
 
@@ -73,8 +73,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
   </div> -->
   <div class="content">
-    <span class="tags">
-      <span class="tag"><a href="/referansestiler/apa-6th.html">APA 6th</a></span>
+    <span class="tags"> 
       <span class="tag"><a href="/referansestiler/apa-7th.html">APA 7th</a></span>
       <span class="tag"><a href="/referansestiler/chicago-forfatter-aar.html">Chicago forfatter-år</a></span>
       <span class="tag"><a href="/referansestiler/chicago-fotnoter.html">Chicago fotnoter</a></span>
@@ -85,22 +84,23 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   </div>
 </div>
 
-<div class="flex">
-  <h2 style="border-bottom:none;">Nyeste videoer</h2>
-  <small><a href="/video/soking">...se flere</a></small>
-</div>
 
-<section class="container" style="margin-bottom:3em;">
-  <article class="video">
-    <Video id="3IIoBZ0Tf_I" />
-    <h1>How to cite sources and avoid plagiarism?</h1>
-  </article>
+<section style="margin-bottom:3em;">
+  <div class="flex">
+    <h2 style="border-bottom:none;">Nyeste videoer</h2>
+    <small><a href="/video/soking">...se flere</a></small>
+  </div>
 
-
-  <article class="video">
-    <Video id="UpicbnpX_c4" />
-    <h1>Bygge inn i Canvas</h1>
-  </article>
+  <div class="container">
+    <article class="video">
+      <Video id="3IIoBZ0Tf_I" />
+      <h3>How to cite sources and avoid plagiarism?</h3>
+    </article>
+    <article class="video">
+      <Video id="UpicbnpX_c4" />
+      <h3>Bygge inn i Canvas</h3>
+    </article>
+  </div>
 </section>
 
 ## Partnere
@@ -131,7 +131,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   <div class="partner">
     <a href="https://www.uio.no">
       <picture>
-        <source media="(max-width: 719px)" type="image/svg+xml" srcset="/partners/uio-icon.svg">
+        <source media="(max-width: 719px)" type="image/svg+xml" srcset="/partners/04_uio_segl_pos.svg">
         <img src="/partners/uio-logo.svg" alt="Universitetet i Oslo"/>
       </picture>
     </a>
@@ -159,6 +159,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     <div><a href="/om/">Om Søk & Skriv</a></div>
     <div><a href="/om/kontaktinformasjon.html">Kontaktinformasjon</a></div>
     <div><a href="/om/sok-og-skriv-i-undervisning.html">Søk & Skriv i undervisning</a></div>
+    <div><a href="https://uustatus.no/nb/erklaringer/publisert/c6d9a394-b5ac-48fd-9f1f-0154b2daacbc">Tilgjengelighetserklæring</a></div>
   </div>
   <div class="align-left">
     <div><a href="/en/about/">About Search & Write</a></div>

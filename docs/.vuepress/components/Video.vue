@@ -1,13 +1,12 @@
 <template>
-<div class="video_container">
-  <!-- <iframe :src="data" allowfullscreen></iframe> -->
-  <LazyYoutubeVideo :src="data" previewImageSize="hqdefault"/>
-</div>
+  <div class="video_container">
+    <LazyYoutubeVideo :src="data" previewImageSize="hqdefault" />
+  </div>
 </template>
 
 <script>
-import Vue from 'vue';
-import LazyYoutubeVideo from 'vue-lazy-youtube-video'
+import Vue from "vue";
+import LazyYoutubeVideo from "vue-lazy-youtube-video";
 import "vue-lazy-youtube-video/dist/style.css";
 
 export default {
@@ -15,17 +14,17 @@ export default {
     LazyYoutubeVideo,
   },
   props: {
-    id: String
+    id: String,
   },
   data() {
-    let id = this.id
-    let data = `https://www.youtube.com/embed/${id}`
+    let id = this.id;
+    let data = `https://www.youtube.com/embed/${id}`;
 
     return {
-      data: data
-    }
-  }
-}
+      data: data,
+    };
+  },
+};
 </script>
 
 <style scoped>
