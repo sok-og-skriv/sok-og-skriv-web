@@ -28,9 +28,8 @@ tags:
 
  <details>
 
-    <summary>Ingen kategorier passer </summary>
-
-    Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
+    
+Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
 Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
 
