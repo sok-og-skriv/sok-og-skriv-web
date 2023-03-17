@@ -103,7 +103,7 @@ module.exports = {
     [
       "sitemap",
       {
-        hostname: "https://sokogskriv.no/",
+        hostname: "https://www.sokogskriv.no/",
         dateFormatter: (time) => {
           var dayjs = require("dayjs");
           var customParseFormat = require("dayjs/plugin/customParseFormat");
@@ -258,6 +258,13 @@ module.exports = {
         },
       },
     ],
+    [
+      'vuepress-plugin-canonical',
+      {
+        baseURL: 'https://www.sokogskriv.no', // base url for your canonical link, optional, default: ''
+        stripExtension: false // strip '.html' , optional, default: false
+      }
+    ]
   ],
   head: [
     [
