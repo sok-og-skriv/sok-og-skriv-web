@@ -142,3 +142,42 @@ internlenke?
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Klikkbare bokser i HTML</title>
+</head>
+<body>
+
+	<label>
+		<input type="checkbox" onclick="updateText(this)"> Ikke klikket
+	</label>
+	<br>
+	<label>
+		<input type="checkbox" onclick="updateText(this)"> Ikke klikket
+	</label>
+	<br>
+	<label>
+		<input type="checkbox" onclick="updateText(this)"> Ikke klikket
+	</label>
+
+	<script>
+		// Funksjon for å oppdatere teksten av en boks
+		function updateText(box) {
+			if (box.checked) {
+				box.nextSibling.nodeValue = "Klikket";
+			} else {
+				box.nextSibling.nodeValue = "Ikke klikket";
+			}
+		}
+	</script>
+
+</body>
+</html>
+I dette eksempelet bruker vi <label>-elementet for å gruppere tekstetiketten og boksen sammen. onclick-attributtet på <input>-elementet lar oss knytte funksjonen updateText til boksen, slik at den blir kalt når boksen klikkes. I funksjonen updateText sjekker vi om boksen er merket av eller ikke, og oppdaterer teksten til tekstetiketten ved siden av boksen deretter.
+
+
+
+
+
+Regenerate response
