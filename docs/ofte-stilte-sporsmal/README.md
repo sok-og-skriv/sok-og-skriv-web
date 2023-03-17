@@ -21,15 +21,17 @@ tags:
 
 ---
 
-# Ofte stilte spørsmål <style>
-    details summary::-webkit-details-marker {
-        color: green;
-    }
-</style>
+# Ofte stilte spørsmål 
 
 
 
  ## APA 7
+
+ <style>
+    details summary::-webkit-details-marker {
+        color: green;
+    }
+</style>
 
  <details>
 <summary>Ingen kategorier passer</summary>
