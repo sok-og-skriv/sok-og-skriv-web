@@ -51,7 +51,7 @@ details summary:before {
   font-weight: bold;
   display: inline-block;
   width: 1.5em;
-  margin-right: 0.5em;
+  margin-right: 1.5em;
 }
 </style>
 
