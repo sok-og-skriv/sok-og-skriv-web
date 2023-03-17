@@ -32,7 +32,7 @@
     "vuepress": "^1.9.7",
     "vuepress-plugin-container": "^2.1.5",
     "vuepress-plugin-mathjax": "^1.2.8",
-    "vuepress-plugin-canonical": "latest"
+    "vuepress-plugin-canonical": "^1.0.0"
   },
   "dependencies": {
     "@gerhobbelt/markdown-it-deflist": "^2.0.4-2",

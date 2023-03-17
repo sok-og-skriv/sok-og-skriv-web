@@ -2,28 +2,32 @@
   "headers": [
     {
       "source": "/",
-      "headers" : [
+      "headers": [
         {
-          "key" : "Clear-Site-Data",
-          "value" : "*"
+          "key": "Clear-Site-Data",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
         }
       ]
     },
     {
       "source": "/:path*.html",
-      "headers" : [
+      "headers": [
         {
-          "key" : "Clear-Site-Data",
-          "value" : "*"
+          "key": "Clear-Site-Data",
+          "value": "*"
         }
       ]
     },
     {
       "source": "/:path*/",
-      "headers" : [
+      "headers": [
         {
-          "key" : "Clear-Site-Data",
-          "value" : "*"
+          "key": "Clear-Site-Data",
+          "value": "*"
         }
       ]
     },
@@ -32,18 +36,28 @@
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "no-cache"
+          "value": "no-cache, no-store, must-revalidate"
         }
       ]
     },
     {
       "source": "/images/",
-      "headers" : [
+      "headers": [
         {
-          "key" : "Cache-Control",
-          "value" : "no-cache"
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
         }
       ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/?cache-bust=1"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/:path*?cache-bust=1"
     }
   ]
 }
