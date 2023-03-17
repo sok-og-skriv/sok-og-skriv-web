@@ -29,7 +29,7 @@ tags:
 
 <style>
 details {
-  margin-left: 10px;
+  margin-left: 20px;
 }
 details summary {
   list-style: none;
@@ -47,7 +47,7 @@ details summary:before {
 }
 .green-bullet:before {
   content: "•";
-  color: green;
+  color: black;
   font-weight: bold;
   display: inline-block;
   width: 1.5em;
