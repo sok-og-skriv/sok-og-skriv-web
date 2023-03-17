@@ -27,8 +27,8 @@ tags:
  ## APA 7
 
  <details>
+<summary>Ingen kategorier passer</summary>
 
-    
 Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
 Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
@@ -42,9 +42,9 @@ Du trenger fire typer opplysninger for å lage en referanse:
 Til sammen blir dette:
 
 Forfatter. (År). _Tittel_ [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
-:::  
 
-::: details Flere kilder i samme parentes
+### Flere kilder i samme parentes
+
 Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
 
 **Ulike forfattere**:
@@ -58,7 +58,6 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 </details>
-
 
 
 
