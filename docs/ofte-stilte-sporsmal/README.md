@@ -21,7 +21,12 @@ tags:
 
 ---
 
-# Ofte stilte spørsmål
+# Ofte stilte spørsmål <style>
+    details summary::-webkit-details-marker {
+        color: green;
+    }
+</style>
+
 
 
  ## APA 7
@@ -34,15 +39,18 @@ Finner du ingenting som passer her heller kan du lage din egen variant. Da er de
 
 Du trenger fire typer opplysninger for å lage en referanse:
 
-<span style="color:green">Hvem:</span> Forfatter, institusjon/organisasjon, departement osv
-<span style="color:green">Når:</span> Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
-<span style="color:green">Tittel:</span> Tittel. Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
-<span style="color:green">Hvor:</span> Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.
+Du trenger fire typer opplysninger for å lage en referanse:
++ **Hvem**: Forfatter, institusjon/organisasjon, departement osv
++ **Når**: Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
++ **Tittel**: Tittel. Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
++ **Hvor**: Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.
 Til sammen blir dette:
 
 Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
 
- <details>
+</details>
+
+<details>
 <summary>Flere kilder i samme parentes</summary>
 Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
 
@@ -56,19 +64,17 @@ Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 </details>
 
-:::  
+<details>
 
-::: details Sekundærkilde (sitat hentet fra en annen kilde)
+ <summary>Sekundærkilde (sitat hentet fra en annen kilde)</summary>
 
 Viss du bruker et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
 
 Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
 I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke er lest
+  
 
-
-:::  
-
-:::  
+</details>
 
 ::: details Sidetall 
 
