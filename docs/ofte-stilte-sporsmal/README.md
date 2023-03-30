@@ -30,10 +30,10 @@ tags:
 ### Ingen kategorier passer
 
 Du trenger fire typer opplysninger for å lage en referanse:
-•	<span style="color:red">Hvem: Forfatter, institusjon/organisasjon, departement osv</span>
-•	<span style="color:blue">Når: Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.</span>
-•	<span style="color:green">Tittel: Tittel. Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.</span>
-•	<span style="color:purple">Hvor: Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.</span>
++	<span style="color:red">**Hvem**: Forfatter, institusjon/organisasjon, departement osv</span>
++	<span style="color:blue">**Når**: Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.</span>
++	<span style="color:green">**Tittel**: Tittel. Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.</span>
++	<span style="color:purple">**Hvor**: Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.</span>
 
 
 
