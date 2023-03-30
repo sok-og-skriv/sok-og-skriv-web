@@ -29,6 +29,13 @@ tags:
 
 ### Ingen kategorier passer
 
+Du trenger fire typer opplysninger for å lage en referanse:
+•	<span style="color:red">Hvem: Forfatter, institusjon/organisasjon, departement osv</span>
+•	<span style="color:blue">Når: Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.</span>
+•	<span style="color:green">Tittel: Tittel. Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.</span>
+•	<span style="color:purple">Hvor: Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.</span>
+
+
 
 
 Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
@@ -65,7 +72,7 @@ Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
  
 
- <summary>Sekundærkilde (sitat hentet fra en annen kilde)</summary>
+### Sekundærkilde (sitat hentet fra en annen kilde)
 
 Viss du bruker et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
 
@@ -73,7 +80,6 @@ Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
 I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke er lest
   
 
-</details>
 
 ::: details Sidetall 
 
