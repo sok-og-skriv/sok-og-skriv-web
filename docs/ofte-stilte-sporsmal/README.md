@@ -27,33 +27,6 @@ tags:
 
  ## APA 7
 
-<style>
-details {
-  margin-left: 20px;
-}
-details summary {
-  list-style: none;
-  color: #117a41;
-  font-weight: bold;
-}
-details summary::-webkit-details-marker {
-  display: none;
-}
-details summary:before {
-  content: "▶";
-  display: inline-block;
-  width: 1.5em;
-  margin-right: 0.5em;
-}
-.green-bullet:before {
-  content: "•";
-  color: black;
-  font-weight: bold;
-  display: inline-block;
-  width: 1.5em;
-  margin-right: 1.5em;
-}
-</style>
 
 <details>
 <summary>Ingen kategorier passer</summary>
