@@ -13,5 +13,5 @@ Before you start searching, think about:
 - How can you find this information?
 - How can you get an overview of existing theories and research in the field?
 
-When writing a paper or thesis, you will need different sources of information, and all sources must be assessed for its quality. Here we introduce some tools and inputs that you might find helpful in your pursuit of academic information.
+When writing a paper or thesis, you will need different sources of information, and all sources must be assessed for its quality. Here we introduce some tools and approaches that you might find helpful in your pursuit of academic information.
 
