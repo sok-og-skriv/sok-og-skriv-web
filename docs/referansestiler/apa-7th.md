@@ -187,7 +187,7 @@ Dersom boken har DOI-nummer, foretrekkes dette. Hvis e-boken er identisk med tr
 :::: ref
 <span class="ref">Forfatter, A. A. & Forfatter, B. B. (Årstall). _Tittel: Undertittel_ (eventuelt utgave)\[eventuelt versjon, f.eks. Kindle\]. Forlag. https://doi.org/xxxx</span>
 
-<span class="ref">Vareide, K. (2018) _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ Cappelen Damm. https://doi.org/10.23865/noasp.32</span>
+<span class="ref">Vareide, K. (2018). _Hvorfor vokser steder? Og hvordan kan utviklingen påvirkes?_ Cappelen Damm. https://doi.org/10.23865/noasp.32</span>
 
 ::: details I EndNote og Zotero
 
