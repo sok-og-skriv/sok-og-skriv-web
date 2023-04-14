@@ -81,7 +81,7 @@ Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primær
 
 <span style="background-color:yellow">Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)</span>
 
-I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke er lest
+Kvam skal ikke oppføres i litteraturlista fordi kilden ikke er lest.
   
 :::
 
