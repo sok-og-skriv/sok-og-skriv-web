@@ -29,7 +29,9 @@ tags:
 
 ### Ingen kategorier passer
 
-::: tip Norsk apa-manual har flere eksempler enn Søk & Skriv: [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
+::: tip Norsk apa-manual har flere eksempler enn Søk & Skriv:
+
+ [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
 
 
@@ -53,7 +55,7 @@ Forfatter. (År). _Tittel_ [evt. beskrivelse i skarpe klammer]. Utgiver. URL ell
 
 ### Flere kilder i samme parentes
 
-Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
+::: ref Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
 
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
@@ -66,17 +68,19 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)
 
 
-
+:::
  
 
 ### Sekundærkilde (sitat hentet fra en annen kilde)
 
-Viss du bruker et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
+::: tip Viss du bruker et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. 
+
+Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
 
 Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
 I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke er lest
   
-
+:::
 
 ::: details Sidetall 
 
