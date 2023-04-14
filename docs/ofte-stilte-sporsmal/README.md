@@ -67,7 +67,7 @@ Kildene skal stå i alfabetisk rekkefølge.
 **Samme forfatter**:
 Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
 
-<span style="background-color:yellow"Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)</span>
+<span style="background-color:yellow">Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)</span>
 
 
 :::
@@ -79,7 +79,7 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 
 Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
 
-<span style="background-color:yellow"Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)</span>
+<span style="background-color:yellow">Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)</span>
 I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke er lest
   
 :::
@@ -88,7 +88,7 @@ I eksempelet skal Kvam ikke oppføres i litteraturlista fordi denne kilden ikke 
 
 Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skrive med egne ord. Hvis du viser til tekst over flere sider, oppgir du første og siste side.
 
-<span style="background-color:yellow"Eksempel: (Dalland 2020, s. 42-51</span>)
+<span style="background-color:yellow">Eksempel: (Dalland 2020, s. 42-51)</span>
 
 
 :::  
