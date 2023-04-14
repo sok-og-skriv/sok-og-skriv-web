@@ -55,7 +55,7 @@ Forfatter. (År). _Tittel_ [evt. beskrivelse i skarpe klammer]. Utgiver. URL ell
 
 ### Flere kilder i samme parentes
 
-::: ref Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
+::: tip Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
 
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
