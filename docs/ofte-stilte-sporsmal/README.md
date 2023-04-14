@@ -49,7 +49,7 @@ Du trenger fire typer opplysninger for å lage en referanse:
 
 Til sammen blir dette:
 
-Forfatter. (År). _Tittel_ [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
+<span style="background-color:yellow">Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI</span>
 
 :::
 
