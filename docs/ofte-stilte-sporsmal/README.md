@@ -49,7 +49,9 @@ Du trenger fire typer opplysninger for å lage en referanse:
 
 Til sammen blir dette:
 
-<span style="background-color:#F5F5F5; padding: 3px 5px;">Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI</span>
+<span style="background-color:yellow">Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI</span>
+
+
 
 :::
 
