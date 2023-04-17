@@ -108,32 +108,33 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 <span style="background-color:yellow">Eksempel: 
 ...(Friluftsloven, 1957, § 10)
+
 ... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
 
 
 :::
 
-::: details År mangler
+###  År mangler
 
 :::
 
-::: details Forfatter mangler
+###  Forfatter mangler
 
 :::
 
-::: details Henvisninger til flere verk av samme forfatter utgitt samme år 
+###  Henvisninger til flere verk av samme forfatter utgitt samme år 
 
 :::
 
-::: details Henvisning til flere verk med samme førsteforfatter utgitt samme år 
+###  Henvisning til flere verk med samme førsteforfatter utgitt samme år 
 
 :::
 
-::: details Henvisning til forfattere med samme etternavn (Ikke samme person)
+###  Henvisning til forfattere med samme etternavn (Ikke samme person)
 
 :::
 
-::: details Kapittel skrevet av andre enn forfatter 
+###  Kapittel skrevet av andre enn forfatter 
 
 :::
 
