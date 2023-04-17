@@ -106,7 +106,9 @@ Dersom du ønsker å henvise til direkte sitat, bør du likevel vise til den akt
 Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell, figur eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
 
 Eksempel:
+
 <span style="background-color:yellow"> ...(Friluftsloven, 1957, § 10)</span>
+
 <span style="background-color:yellow">... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
 
 
@@ -120,7 +122,9 @@ På nettsider kan du lete etter ett årstal for siste oppdatering, i bøker, art
 
 
 Eksempel:
+
 <span style="background-color:yellow"> Helsedirektoratet (u.å.)</span>
+
 <span style="background-color:yellow">Johannessen, F.O. (u.å.)</span> 
 
 
