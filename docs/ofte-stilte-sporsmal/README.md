@@ -105,10 +105,8 @@ Viser du til tekst over flere sider, oppgir du første og siste side.
 Dersom du ønsker å henvise til direkte sitat, bør du likevel vise til den aktuelle delen av teksten. 
 Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell, figur eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
 
-
-<span style="background-color:yellow">Eksempel: 
-...(Friluftsloven, 1957, § 10)</span>
-
+Eksempel:
+<span style="background-color:yellow"> ...(Friluftsloven, 1957, § 10)</span>
 <span style="background-color:yellow">... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
 
 
@@ -120,8 +118,13 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 På nettsider kan du lete etter ett årstal for siste oppdatering, i bøker, artikler og rapporter finner du som oftest årstall på tittelsiden. Dersom det ikke er mulig å finne, bruker du forkortelsen u.å. (uten år). 
 
-<span style="background-color:yellow">Eksempel: Helsedirektoratet (u.å.)</span>
+
+Eksempel:
+<span style="background-color:yellow"> Helsedirektoratet (u.å.)</span>
 <span style="background-color:yellow">Johannessen, F.O. (u.å.)</span> 
+
+
+:::
 
 
 ###  Forfatter mangler
