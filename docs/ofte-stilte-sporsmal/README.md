@@ -85,6 +85,9 @@ Kvam skal ikke oppføres i litteraturlista fordi kilden ikke er lest.
   
 :::
 
+
+### Sidetall
+
 ::: details Sidetall 
 
 Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skrive med egne ord. Viser du til tekst over flere sider, oppgir du første og siste side.
@@ -94,7 +97,14 @@ Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av paraf
 
 :::  
 
-::: details Sidetall mangler
+
+### Sidetall mangler
+
+::: tip Noen kilder mangler sidetall, det kan være på nettsider eller i enkelte artikler. 
+
+Dersom du ønsker å henvise til direkte sitat, bør du likevel vise til den aktuelle delen av teksten. 
+Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
+
 
 :::
 
