@@ -88,9 +88,9 @@ Kvam skal ikke oppføres i litteraturlista fordi kilden ikke er lest.
 
 ### Sidetall
 
-::: details Sidetall 
+::: tip Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skriver med egne ord. 
 
-Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skrive med egne ord. Viser du til tekst over flere sider, oppgir du første og siste side.
+Viser du til tekst over flere sider, oppgir du første og siste side.
 
 <span style="background-color:yellow">Eksempel: (Dalland 2020, s. 42-51)</span>
 
@@ -103,7 +103,7 @@ Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av paraf
 ::: tip Noen kilder mangler sidetall, det kan være på nettsider, i elektroniske dokumenter eller i enkelte artikler. 
 
 Dersom du ønsker å henvise til direkte sitat, bør du likevel vise til den aktuelle delen av teksten. 
-Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
+Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell, figur eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
 
 
 <span style="background-color:yellow">Eksempel: 
@@ -116,7 +116,13 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 ###  År mangler
 
-:::
+::: tip Det er ikke alle dokument som har årstall. 
+
+På nettsider kan du lete etter ett årstal for siste oppdatering, i bøker, artikler og rapporter finner du som oftest årstall på tittelsiden. Dersom det ikke er mulig å finne, bruker du forkortelsen u.å. (uten år). 
+
+<span style="background-color:yellow">Eksempel: Helsedirektoratet (u.å.)</span>
+<span style="background-color:yellow">Johannessen, F.O. (u.å.)</span> 
+
 
 ###  Forfatter mangler
 
