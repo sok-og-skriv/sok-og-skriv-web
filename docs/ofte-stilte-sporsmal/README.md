@@ -105,8 +105,9 @@ Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av paraf
 Dersom du ønsker å henvise til direkte sitat, bør du likevel vise til den aktuelle delen av teksten. 
 Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
 
-Eksempel: 
-<span style="background-color:yellow">...(Friluftsloven, 1957, § 10)
+
+<span style="background-color:yellow">Eksempel: 
+...(Friluftsloven, 1957, § 10)
 ... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
 
 
