@@ -83,12 +83,12 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="container">
     <article class="video">
-      <Video id="3IIoBZ0Tf_I" />
-      <h3>How to cite sources and avoid plagiarism?</h3>
+      <Video id="qA9NPHCsXoI" />
+      <h3>Hvordan skrive oppgave: Tre tips fra en skrivementor</h3>
     </article>
     <article class="video">
-      <Video id="UpicbnpX_c4" />
-      <h3>Bygge inn i Canvas</h3>
+      <Video id="3IIoBZ0Tf_I" />
+      <h3>How to cite sources and avoid plagiarism?</h3>
     </article>
   </div>
 </section>
