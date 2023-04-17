@@ -107,8 +107,9 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 
 <span style="background-color:yellow">Eksempel: 
-...(Friluftsloven, 1957, § 10)
-... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
+...(Friluftsloven, 1957, § 10)</span>
+
+<span style="background-color:yellow">... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
 
 
 :::
