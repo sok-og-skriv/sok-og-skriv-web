@@ -59,5 +59,17 @@
       "source": "/:path*",
       "destination": "/:path*?cache-bust=1"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/?cache-bust=1",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "destination": "/:path*?cache-bust=1",
+      "permanent": false
+    }
   ]
 }
