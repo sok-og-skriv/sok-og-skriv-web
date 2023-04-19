@@ -50,16 +50,6 @@
       ]
     }
   ],
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/?cache-bust=1"
-    },
-    {
-      "source": "/:path*",
-      "destination": "/:path*?cache-bust=1"
-    }
-  ],
   "redirects": [
     {
       "source": "/",
