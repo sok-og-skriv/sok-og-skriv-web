@@ -74,7 +74,7 @@ Kildene skal stå i alfabetisk rekkefølge.
 **Samme forfatter**:
 Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
 
-<span style="background-color:yellow">Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)</span>
+Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)</span>
 
 
 
