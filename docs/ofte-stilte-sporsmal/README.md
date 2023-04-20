@@ -29,7 +29,7 @@ tags:
 
 ### Ingen kategorier passer
 
-::: tip Norsk apa-manual har flere eksempler enn Søk & Skriv:
+Norsk apa-manual har flere eksempler enn Søk & Skriv:
 
  [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
@@ -53,11 +53,9 @@ Til sammen blir dette:
 
 
 
-:::
-
 ### Flere kilder i samme parentes
 
-::: tip Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
+Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
 
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
@@ -70,12 +68,12 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 <span style="background-color:yellow">Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)</span>
 
 
-:::
+
  
 
 ### Sekundærkilde (sitat hentet fra en annen kilde)
 
-::: tip Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. 
+Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. 
 
 Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
 
@@ -83,24 +81,22 @@ Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primær
 
 Kvam skal ikke oppføres i litteraturlista fordi kilden ikke er lest.
   
-:::
 
 
 ### Sidetall
 
-::: tip Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skriver med egne ord. 
+Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skriver med egne ord. 
 
 Viser du til tekst over flere sider, oppgir du første og siste side.
 
 <span style="background-color:yellow">Eksempel: (Dalland 2020, s. 42-51)</span>
 
-
-:::  
+  
 
 
 ### Sidetall mangler
 
-::: tip Noen kilder mangler sidetall, det kan være på nettsider, i elektroniske dokumenter eller i enkelte artikler. 
+Noen kilder mangler sidetall, det kan være på nettsider, i elektroniske dokumenter eller i enkelte artikler. 
 
 Dersom du ønsker å henvise til direkte sitat, bør du likevel vise til den aktuelle delen av teksten. 
 Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell, figur eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
@@ -112,11 +108,10 @@ Eksempel:
 <span style="background-color:yellow">... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
 
 
-:::
 
 ###  År mangler
 
-::: tip Det er ikke alle dokument som har årstall. 
+Det er ikke alle dokument som har årstall. 
 
 På nettsider kan du lete etter ett årstal for siste oppdatering, i bøker, artikler og rapporter finner du som oftest årstall på tittelsiden. Dersom det ikke er mulig å finne, bruker du forkortelsen u.å. (uten år). 
 
@@ -128,7 +123,6 @@ Eksempel:
 <span style="background-color:yellow">Johannessen, F.O. (u.å.)</span> 
 
 
-:::
 
 
 ###  Forfatter mangler
@@ -156,31 +150,29 @@ Eksempel:
 ::::
 
 
-:::: tip Kildebruk og kildetyper
+## Kildebruk og kildetyper
 
-::: details Hva er en fagfellevurdert artikkel
-
-internlenke?
-
-:::
-
-::: details Hva er et tidsskrift?
+Hva er en fagfellevurdert artikkel
 
 internlenke?
 
-:::
 
-::: details Hva er DOI
+Hva er et tidsskrift?
 
-:::
+internlenke?
 
-::::
 
-:::: tip Søking
+Hva er DOI
 
-::: details Boks 1
 
-:::
+
+
+
+## Søking
+
+
+
+
 
 ::::
 
