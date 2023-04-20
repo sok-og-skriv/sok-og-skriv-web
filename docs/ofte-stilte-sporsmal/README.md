@@ -120,6 +120,7 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 ::: warning Eksempel:
 ...(Friluftsloven, 1957, § 10)
+
 ... (Norsk institutt for vannforskning, 2022, avsn. 4)
 :::
 
