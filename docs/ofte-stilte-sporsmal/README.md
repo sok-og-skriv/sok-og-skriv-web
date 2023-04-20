@@ -135,11 +135,13 @@ Det er ikke alle dokument som har årstall.
 På nettsider kan du lete etter ett årstal for siste oppdatering, i bøker, artikler og rapporter finner du som oftest årstall på tittelsiden. Dersom det ikke er mulig å finne, bruker du forkortelsen u.å. (uten år). 
 
 
-Eksempel:
+::: warning Eksempel:
 
-<span style="background-color:yellow"> Helsedirektoratet (u.å.)</span>
+ Helsedirektoratet (u.å.)
 
-<span style="background-color:yellow">Johannessen, F.O. (u.å.)</span> 
+Johannessen, F.O. (u.å.)
+
+:::
 
 
 
