@@ -35,7 +35,7 @@ tags:
 
 
 
-> Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
+Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
 
 
 Du trenger fire typer opplysninger for å lage en referanse:
@@ -46,9 +46,9 @@ Du trenger fire typer opplysninger for å lage en referanse:
 
 
 
-Til sammen blir dette:
+> Til sammen blir dette:
 
-<span style="background-color:yellow">Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI</span>
+> Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
 
 
 
