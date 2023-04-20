@@ -1,6 +1,7 @@
 ---
-title: "Ofte stilte spørsmål"
+title: 
 date: "2022-06-03"
+sidebar: auto
 tags:
   - spørsmål
   - FAQ
