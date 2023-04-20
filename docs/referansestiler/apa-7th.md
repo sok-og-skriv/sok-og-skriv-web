@@ -1003,12 +1003,12 @@ Vær oppmerksom på at tekster generert av kunstig intelligens, som for eksempel
 
 En AI-tekst er ikke mulig for andre å gjenskape. I teksten din bør du beskrive hvordan du har brukt verktøyet, og du bør gjengi det du skrev inn i chatten. Dersom du har et langt svar fra chatten bør du legge dette ved oppgaven som vedlegg.
 
-Referansen lages på samme måte som for programvare
+Referansen lages på samme måte som for programvare.
 
 ::: tip Kilden i teksten
 (OpenAI, 2023)
 
-Ved å stille GhatGPT spørsmålet "hva menes med fagfellevurdering?", blir det beskrevet som "en prosess der en artikkel som er skrevet av en forsker blir vurdert av en gruppe eksperter innenfor samme fagområde" (OpenAI, 2023, se vedlegg 1 for svaret i sin helhet)
+Ved å stille GhatGPT spørsmålet "hva menes med fagfellevurdering?", blir det beskrevet som "en prosess der en artikkel som er skrevet av en forsker blir vurdert av en gruppe eksperter innenfor samme fagområde" (OpenAI, 2023, se vedlegg 1 for svaret i sin helhet).
 :::
 
 ::: warning Kilden i referanselisten
