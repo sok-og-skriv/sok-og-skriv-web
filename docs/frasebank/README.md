@@ -14,30 +14,11 @@ Her finner du eksempler på setninger, uttrykk og vendinger som er ofte brukt i 
 
 Denne frasebanken er dynamisk. Vi tar gjerne imot innspill til hvordan den kan bli bedre!
 
-
-Temaer:
-
-1. Vise til tidligere studier uten å ta stilling
-2. Vise til tidligere studier og støtte seg på disse
-3. Være kritisk til tidligere studier 
-4. Definere begreper
-5. Formulere problemstilling/forskningsspørsmål
-6. Beskrive metode og metodevalg
-7. Sammenligne 
-8. Gi eksempler 
-9. Argumentere og drøfte 
-10. Konkludere argumentasjonsrekke
-11. Skape flyt i teksten
-12. Beskrive resultater i tallmateriale
-13. Drøfte funn og resultater
-14. Nyansere, ta forbehold eller vise usikkerhet rundt resultater
-15. Avslutning: oppsummering eller konklusjon
-
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
 
 Dersom du skriver nynorsk, kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste](https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
 
-## 1. Vise til tidligere studier uten å ta stilling
+## Vise til tidligere studier uten å ta stilling
 
 Disse frasene kan du bruke når du skal presentere andres ideer eller forskning på en nøytral måte:
 
@@ -48,7 +29,7 @@ Disse frasene kan du bruke når du skal presentere andres ideer eller forskning 
 - Diskusjonen dreier seg om ...
 - Hovedfunnene her er ... 
 
-## 2. Vise til tidligere studier og støtte seg på disse
+## Vise til tidligere studier og støtte seg på disse
 
 Disse frasene kan brukes til å introdusere ideer som du er enig i og bygger videre på:
 
@@ -60,7 +41,7 @@ Disse frasene kan brukes til å introdusere ideer som du er enig i og bygger vid
 - Et viktig utgangspunkt for denne undersøkelsen er [teori X], som ...
 
 
-## 3. Stille seg kritisk til tidligere studier og teorier
+## Stille seg kritisk til tidligere studier og teorier
 
 Disse frasene kan du bruke når du skal vise svakheter eller begrensninger ved en teori, forklaring etc., og dermed underbygge relevansen av ditt eget prosjekt:
 
@@ -95,7 +76,7 @@ Disse frasene kan du bruke for å komme med konstruktive forslag til endring, og
 - Spørsmålet bør heller være ...
 
 
-## 4. Definere begreper
+## Definere begreper
 
 Disse frasene kan du bruke når du skal definere et begrep:
 
@@ -107,7 +88,7 @@ Disse frasene kan du bruke når du skal definere et begrep:
 - Med begrepet \*begrepet\* mener jeg her ...
 
 
-## 5. Formulere problemstilling/forskningsspørsmål 
+## Formulere problemstilling/forskningsspørsmål 
 
 Disse frasene kan du bruke til å formulere ett eller flere spørsmål som teksten din er et svar på: 
 
@@ -120,7 +101,7 @@ Disse frasene kan du bruke til å formulere ett eller flere spørsmål som tekst
 - For å belyse problemstillingen, skal jeg ta for meg tre forskningsspørsmål: A, B og C.  
 
 
-## 6. Beskrive metode og metodevalg
+## Beskrive metode og metodevalg
 
 Disse frasene kan du bruke når du skal beskrive tidligere brukte metoder:
 
@@ -142,7 +123,7 @@ Disse frasene kan du bruke for å vise svakheter ved metoden:
 - Begrensinger/svakheter/problemer/ulemper ved bruk av \*metoden\* kan være ...
 - \*Metoden\* gir ikke pålitelige resultater når det gjelder ...
 
-## 7. Sammenligne
+## Sammenligne
 
 Disse frasene kan du bruke når du skal introdusere ulikheter:
 
@@ -168,17 +149,25 @@ Disse frasene kan du bruke når du skal introdusere likheter:
 
 Disse frasene kan du bruke for å indikere ulikhet over to setninger
 
-| Første setning   | Frase   | Avslutning   |
-|:--- |:--- |:--- |
-| I demokratiske samfunn har innbyggerne politisk innflytelse. | Dette står i kontrast til ...<br>Dette står i motsetning til ...<br>Slik skiller demokrati seg fra ... | ... styreformen i et diktatur, der den politiske innflytelsen er begrenset. |
+I demokratiske samfunn har innbyggerne politisk innflytelse. 
+
+Dette står i kontrast til ...
+Dette står i motsetning til ...
+Slik skiller demokrati seg fra ... 
+
+... styreformen i et diktatur, der den politiske innflytelsen er begrenset. 
 
 Disse frasene kan du bruke for å indikere likheter over to setninger:
 
-| Første setning   | Frase   | Avslutning   |
-|:--- |:--- |:--- |
-| Innbyggerne i Norge velger representanter til Stortinget. | På samme måte <br> Likeledes <br> På lignende vis | velger amerikanere representanter til senatet og kongressen. |
+Innbyggerne i Norge velger representanter til Stortinget. 
 
-## 8. Gi eksempler
+På samme måte 
+Likeledes 
+På lignende vis 
+
+... velger amerikanere representanter til senatet og kongressen. 
+
+## Gi eksempler
 
 Disse frasene kan du bruke når du skal gi eksempler på noe:
 
@@ -190,9 +179,19 @@ Disse frasene kan du bruke når du skal gi eksempler på noe:
 - Dette kan illustreres ved å se til ...
 - Et lignende tilfelle i England viser at ...
 
-| Første setning   | Frase   | Avslutning   |
-|:--- |:--- |:--- |
-| Et | velkjent <br>mye brukt<br>sentralt <br>godt<br>klassisk <br>nyttig<br>viktig<br>illustrerende | eksempel på X er ... |
+
+Et ... 
+
+velkjent 
+mye brukt
+sentralt 
+godt
+klassisk 
+nyttig
+viktig
+illustrerende 
+
+eksempel på X er ... 
 
 
 Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argument:
@@ -204,7 +203,7 @@ Disse frasene kan du bruke når du skal bruke et eksempel for å støtte et argu
 - Eksemplet som er lagt frem her, bygger opp under antakelsen/ideen/påstanden om at ...
 
 
-## 9. Argumentere og drøfte 
+## Argumentere og drøfte 
 
 Disse frasene kan du bruke når du vil synliggjøre din egen argumentasjon for leseren:
 
@@ -246,7 +245,7 @@ Disse frasene kan du bruke til å belyse et fenomen eller en idé fra alternativ
 - En alternativ tolkning ... 
 
 
-## 10. Konkludere en argumentasjonsrekke
+## Konkludere en argumentasjonsrekke
 
 Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 
@@ -259,7 +258,7 @@ Disse frasene kan du bruke når du skal konkludere i et avsnitt:
 - Poenget med dette er å vise ... 
 
 
-## 11. Skape flyt i teksten
+## Skape flyt i teksten
 
 Disse frasene kan du bruke for å veilede leseren gjennom teksten og gjøre argumentasjonen lettere å følge:
 
@@ -282,24 +281,82 @@ Disse frasene kan du bruke for å veilede leseren gjennom teksten og gjøre argu
 - I det følgende vil jeg utdype denne diskusjonen ved å ...
 
 
-##  12. Beskrive et tallmateriale
+##  Beskrive et tallmateriale
 
 Fraser for å *beskrive* trender i tallmateriale:
 
-| Grafen viser at det har vært en<br>Figuren viser hvordan det har vært en/et<br>Fra tabellen ser vi at det har vært en/et | svak<br>sterk<br>bratt<br>gradvis<br>stadig<br>merkbar | oppgang<br>nedgang<br>økning<br>løft<br>fall | i antall skilsmisser i Norge siden 1980 |
-|:---------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:----------------------------------------------|:-----------------------------------------|
+Grafen viser at det har vært en ... 
+Figuren viser hvordan det har vært en/et ... 
+Fra tabellen ser vi at det har vært en/et ... 
+
+svak
+sterk
+bratt
+gradvis
+stadig
+merkbar 
+
+oppgang
+nedgang
+økning
+løft
+fall 
+
+i antall skilsmisser i Norge siden 1980.
+
 
 Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
 
-| Det sentrale<br>Det som utmerker seg <br>Det påfallende<br>Det interessante<br>Det som er verdt å merke seg | i | tabellen<br>grafen<br>figuren | er veksten av ...<br>er (den raske, stabile, svake) oppgangen/veksten i ...<br>er variasjonen i ...<br>er (den raske/stabile/svake) nedgangen/fallet i ...<br>er forskjellen mellom ... |
-|:-------------------------------------------------------------------------------------------------------------|---|:-------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Det sentrale
+Det som utmerker seg 
+Det påfallende 
+Det interessante 
+Det som er verdt å merke seg 
+
+i tabellen
+grafen 
+figuren 
+
+... er veksten av ...
+(den raske, stabile, svake) oppgangen/veksten i ... 
+... er variasjonen i ...
+
+er (den raske/stabile/svake) nedgangen/fallet i ... 
+er forskjellen mellom ... 
+
 
 Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
-| Mer enn<br>Litt over <br>Rett over <br>Størstedelen <br> <br>Rundt<br>Nesten<br>Så mange som <br>Omtrent<br> <br>Færre enn<br>Rett under<br>Godt under | halvparten<br>en tredjedel<br>en fjerdedel<br> <br>30 %<br>50 %<br>80 % | av informantene<br>av intervjuobjektene<br>av deltakerne<br>av utvalget | oppga at<br>sa seg enige i<br>rapporterte om ... |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:----------------------------------------------------------|:--------------------------------------------------|
+| Mer enn
+Litt over 
+Rett over 
+Størstedelen 
+Rundt 
+Nesten 
+Så mange som 
+Omtrent 
+Færre enn 
+Rett under 
+Godt under 
 
-## 13. Drøfte funn og resultater
+halvparten 
+en tredjedel 
+en fjerdedel
+30 % 
+50 % 
+80 % 
+
+... av informantene 
+av intervjuobjektene 
+av deltakerne 
+av utvalget 
+
+... oppga at 
+sa seg enige i 
+rapporterte om ... 
+
+
+## Drøfte funn og resultater
 
 Disse frasene kan du bruke når du skal beskrive resultater som stemmer med tidligere studier:
 
@@ -322,7 +379,7 @@ Disse frasene kan du bruke når du skal beskrive resultater som *bryter* med tid
 - Et annet syn på...
 
 
-## 14. Nyansere, ta forbehold, vise til usikkerhet rundt resultater
+## Nyansere, ta forbehold, vise til usikkerhet rundt resultater
 
 Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker til at noe skjer:
 
@@ -340,7 +397,7 @@ Disse frasene kan du bruke når du skal formidle at det kan være flere årsaker
 
 
 
-## 15. Avslutning eller konklusjon
+## Avslutning eller konklusjon
 
 Disse frasene kan du bruke for å avslutte med en *oppsummering*:
 
