@@ -64,7 +64,12 @@ Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme pa
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
 
-<span style="background-color:yellow">Eksempel: (Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)</span>
+::: warning Eksempel: 
+
+(Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
+:::
+
+
 
 **Samme forfatter**:
 Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
