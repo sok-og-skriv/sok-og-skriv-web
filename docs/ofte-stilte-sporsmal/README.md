@@ -49,6 +49,7 @@ Du trenger fire typer opplysninger for å lage en referanse:
 ::: warning Til sammen blir dette:
 
 Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
+
 :::
 
 
@@ -60,12 +61,20 @@ Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme pa
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
 
-<span style="background-color:yellow">Eksempel: (Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)</span>
+::: warning Eksempel: 
+
+(Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
+
+::: 
 
 **Samme forfatter**:
 Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
 
-<span style="background-color:yellow">Eksempel: (Johansen, 2005, s. 44, 2018, s. 93)</span>
+::: warning Eksempel: 
+
+(Johansen, 2005, s. 44, 2018, s. 93)
+
+:::
 
 
 
@@ -77,9 +86,13 @@ Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser m
 
 Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
 
-<span style="background-color:yellow">Eksempel: (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)</span>
+::: warning Eksempel: 
+
+(Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
 
 Kvam skal ikke oppføres i litteraturlista fordi kilden ikke er lest.
+
+:::
   
 
 
@@ -89,7 +102,11 @@ Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av paraf
 
 Viser du til tekst over flere sider, oppgir du første og siste side.
 
-<span style="background-color:yellow">Eksempel: (Dalland 2020, s. 42-51)</span>
+::: warning Eksempel: 
+
+(Dalland 2020, s. 42-51)
+
+:::
 
   
 
@@ -101,12 +118,14 @@ Noen kilder mangler sidetall, det kan være på nettsider, i elektroniske dokume
 Dersom du ønsker å henvise til direkte sitat, bør du likevel vise til den aktuelle delen av teksten. 
 Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell, figur eller lignende. Om ingen av disse er aktuelle kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
 
-Eksempel:
+::: warning Eksempel:
 
-<span style="background-color:yellow"> ...(Friluftsloven, 1957, § 10)</span>
+ ...(Friluftsloven, 1957, § 10)
 
-<span style="background-color:yellow">... (Norsk institutt for vannforskning, 2022, avsn. 4)</span>
+... (Norsk institutt for vannforskning, 2022, avsn. 4)
 
+
+:::
 
 
 ###  År mangler
