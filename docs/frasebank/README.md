@@ -125,7 +125,7 @@ Disse frasene kan du bruke for å vise svakheter ved metoden:
 
 ## Sammenligne
 
-Disse frasene kan du bruke når du skal introdusere ulikheter:
+Disse frasene kan du bruke når du skal introdusere _ulikheter_:
 
 - X skiller seg fra Y på flere måter ...
 - X er nært beslektet med Y, bortsett fra ...
@@ -136,7 +136,7 @@ Disse frasene kan du bruke når du skal introdusere ulikheter:
 - Der X handler om Xi, handler Y om Yi
 - Denne tolkningen skiller seg fra/står i kontrast til Gundersen og Hansens tolkning. De argumenterer for at ...
 
-Disse frasene kan du bruke når du skal introdusere likheter:
+Disse frasene kan du bruke når du skal introdusere _likheter_:
 
 - Det er en rekke likhetstrekk mellom X og Y. For det første ... For det andre ...
 - X og Y deler flere egenskaper, som ...
@@ -147,7 +147,7 @@ Disse frasene kan du bruke når du skal introdusere likheter:
 - Studier har sammenlignet X hos norske og amerikanske studenter, og funnet sentrale likheter
 
 
-Disse frasene kan du bruke for å indikere ulikhet over to setninger:
+Disse frasene kan du bruke for å indikere _ulikhet_ over to setninger:
 
 I demokratiske samfunn har innbyggerne politisk innflytelse. 
 
@@ -159,7 +159,7 @@ I demokratiske samfunn har innbyggerne politisk innflytelse.
 ... styreformen i et diktatur, der den politiske innflytelsen er begrenset. 
 
 
-Disse frasene kan du bruke for å indikere likheter over to setninger:
+Disse frasene kan du bruke for å indikere _likheter_ over to setninger:
 
 Innbyggerne i Norge velger representanter til Stortinget. 
 
@@ -291,76 +291,80 @@ Grafen viser at det har vært en ...
 Figuren viser hvordan det har vært en/et ... 
 Fra tabellen ser vi at det har vært en/et ... 
 
-svak
-sterk
-bratt
-gradvis
-stadig
-merkbar 
+- svak
+- sterk
+- bratt
+- gradvis
+- stadig
+- merkbar 
 
-oppgang
-nedgang
-økning
-løft
-fall 
+- oppgang
+- nedgang
+- økning
+- løft
+- fall 
 
 i antall skilsmisser i Norge siden 1980.
 
 
-Disse frasene kan du bruke når du skal understreke tendenser i tallmateriale:
+Disse frasene kan du bruke når du skal *understreke* tendenser i tallmateriale:
 
-Det sentrale
-Det som utmerker seg 
-Det påfallende 
-Det interessante 
-Det som er verdt å merke seg 
+- Det sentrale
+- Det som utmerker seg 
+- Det påfallende 
+- Det interessante 
+- Det som er verdt å merke seg 
 
-i tabellen
-grafen 
-figuren 
+... i tabellen
 
-... er veksten av ...
+... grafen
+
+... figuren 
+
+
+er veksten ...
+
 (den raske, stabile, svake) oppgangen/veksten i ... 
+
 ... er variasjonen i ...
 
 er (den raske/stabile/svake) nedgangen/fallet i ... 
+
 er forskjellen mellom ... 
+
 
 
 Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
-| Mer enn
-Litt over 
-Rett over 
-Størstedelen 
-Rundt 
-Nesten 
-Så mange som 
-Omtrent 
-Færre enn 
-Rett under 
-Godt under 
+- Mer enn
+- Litt over 
+- Rett over 
+- Størstedelen 
+- Rundt 
+- Nesten 
+- Så mange som 
+- Omtrent 
+- Færre enn 
+- Rett under 
+- Godt under 
 
-halvparten 
-en tredjedel 
-en fjerdedel
-30 % 
-50 % 
-80 % 
+- halvparten 
+- en tredjedel 
+- 25 % fjerdedel
 
 ... av informantene 
-av intervjuobjektene 
-av deltakerne 
-av utvalget 
+- av intervjuobjektene 
+- av deltakerne 
+- av utvalget 
 
-... oppga at 
-sa seg enige i 
-rapporterte om ... 
+- oppga at ...  
+- sa seg enige i ...  
+- rapporterte om ... 
 
 
 ## Drøfte funn og resultater
 
-Disse frasene kan du bruke når du skal beskrive resultater som stemmer med tidligere studier:
+Disse frasene kan du bruke når du skal beskrive resultater som *stemmer* med tidligere studier:
 
 - Studien bekrefter at X er assosiert med ...
 - Dette resultatet støttes av ...
