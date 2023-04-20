@@ -147,23 +147,25 @@ Disse frasene kan du bruke når du skal introdusere likheter:
 - Studier har sammenlignet X hos norske og amerikanske studenter, og funnet sentrale likheter
 
 
-Disse frasene kan du bruke for å indikere ulikhet over to setninger
+Disse frasene kan du bruke for å indikere ulikhet over to setninger:
 
 I demokratiske samfunn har innbyggerne politisk innflytelse. 
 
-Dette står i kontrast til ...
-Dette står i motsetning til ...
-Slik skiller demokrati seg fra ... 
+
+- Dette står i kontrast til ...
+- Dette står i motsetning til ...
+- Slik skiller demokrati seg fra ... 
 
 ... styreformen i et diktatur, der den politiske innflytelsen er begrenset. 
+
 
 Disse frasene kan du bruke for å indikere likheter over to setninger:
 
 Innbyggerne i Norge velger representanter til Stortinget. 
 
-På samme måte 
-Likeledes 
-På lignende vis 
+- På samme måte 
+- Likeledes 
+- På lignende vis 
 
 ... velger amerikanere representanter til senatet og kongressen. 
 
@@ -182,14 +184,14 @@ Disse frasene kan du bruke når du skal gi eksempler på noe:
 
 Et ... 
 
-velkjent 
-mye brukt
-sentralt 
-godt
-klassisk 
-nyttig
-viktig
-illustrerende 
+- velkjent 
+- mye brukt
+- sentralt 
+- godt
+- klassisk 
+- nyttig
+- viktig
+- illustrerende 
 
 eksempel på X er ... 
 
@@ -372,9 +374,11 @@ Disse frasene kan du bruke når du skal beskrive resultater som *bryter* med tid
 
 - I motsetning til tidligere studier viser våre resultater at ...
 - Disse funnene viser det motsatte av tidligere studier, nemlig ...
-- Der tidligere studier har vist at X, peker disse funnene/resultatene mot ...
-- Hansen viste i 2003 at ... Dette skiller seg fra denne studien ved å ...
-- Tidligere har det blitt hevdet at ... Dette viser seg å ikke stemme, fordi ...
+- Der tidligere studier har vist X, peker disse funnene/resultatene mot ...
+- Hansen viste i 2003 at ... 
+- Dette skiller seg fra denne studien ved å ...
+- Tidligere har det blitt hevdet at ... 
+- Dette viser seg å ikke stemme, fordi ...
 - Sammenlignet med tidligere forskning ...
 - Et annet syn på...
 
