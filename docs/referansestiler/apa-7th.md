@@ -1003,7 +1003,7 @@ _Vær oppmerksom på at tekster generert av kunstig intelligens, som for eksempe
 
 En AI-tekst er ikke mulig for andre å gjenskape. I teksten din bør du beskrive hvordan du har brukt verktøyet, og du bør gjengi det du skrev inn i chatten. Dersom du har et langt svar fra chatten bør du legge dette ved oppgaven som vedlegg.
 
-Referansen lages på samme måte som for programvare.
+Referansen lages på samme måte som for programvare
 
 ::: tip Kilden i teksten
 _(OpenAI, 2023)
