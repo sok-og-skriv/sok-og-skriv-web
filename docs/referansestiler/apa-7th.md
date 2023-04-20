@@ -1015,7 +1015,7 @@ Ved å stille ChatGPT spørsmålet "hva menes med fagfellevurdering?", blir det 
 Rettighetshaver/Firma. (År). *Tittel på programvare* (versjon) [Stor språkmodell]. https://xxxxx
 
 	
-OpenAI. (2023). *ChatGPT* (20. april versjon) [Stor språkmodell]. https://chat.openai.com/
+OpenAI. (2023). *ChatGPT* (20. april-versjon) [Stor språkmodell]. https://chat.openai.com/
 :::
 
 Les mer på [APA-bloggen](https://apastyle.apa.org/blog/how-to-cite-chatgpt).
