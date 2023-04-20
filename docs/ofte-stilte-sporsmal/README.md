@@ -29,7 +29,7 @@ tags:
 
 ### Ingen kategorier passer
 
-Norsk apa-manual har flere eksempler enn Søk & Skriv:
+> Norsk apa-manual har flere eksempler enn Søk & Skriv:
 
  [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
@@ -42,8 +42,7 @@ Du trenger fire typer opplysninger for å lage en referanse:
 +	<span style="color:blue">**Hvem**:</span> Forfatter, institusjon/organisasjon, departement osv. 
 +	<span style="color:blue">**Når**:</span> Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
 +	<span style="color:blue">**Tittel**:</span> Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
-+	<span style="color:blue">**Hvor**:</span> Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.
-
++	<span style="color:blue">**Hvor**:</span> Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
 
 
 
