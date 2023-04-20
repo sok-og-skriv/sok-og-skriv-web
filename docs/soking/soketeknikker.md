@@ -23,6 +23,9 @@ Dersom søkebegrepet ditt består av mer en ett ord, for eksempel **tilpasset op
 Ved trunkering søker du på stammen av et ord for å få med ulike varianter av ordet. Som regel er trunkeringstegnet en stjerne (\*).  Barn\* gir treff på barnet, barna, barneskole, barneskule, barnehage osv.
 
 ## Emneordssøk
+
+<Video id="_yKr4R3k5Pg" />
+
 Fagspesifikke databaser inneholder ofte emneordlister (også kalt tesaurus), med liste over standardiserte fagtermer som brukes for å beskrive innholdet i et dokument. Det er mulig å søke via disse emneordlistene. Når du søker på emneord via emneordlisten, får du treff på alle dokumenter som er merket med dette emneordet. For eksempel dokumenter i databasen som handler om skole, får emneordet skole selv om forfatteren har brukt andre termer (mellomtrinnet, skule, grunnskole osv.) Det kan lønne seg å finne de emneordene som dekker ditt temaområde. Innen helsefag er Medical Subject Headings (MeSH) den mest kjente emneordslisten, og den brukes i flere helsefaglige databaser. For et grundig søk bør emneordssøk gjøres i tillegg til fritekstsøk.
 
 ## Kombiner søkeord
