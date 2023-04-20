@@ -46,9 +46,10 @@ Du trenger fire typer opplysninger for å lage en referanse:
 
 
 
-> Til sammen blir dette:
+::: warning Til sammen blir dette:
 
 > Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
+:::
 
 
 
