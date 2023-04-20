@@ -19,7 +19,11 @@ tags:
 
 
 
+
+
 ---
+
+# ![](/images/illustrasjoner_frasebank_500x450.png) Ofte stilte spørsmål
 
 # Ofte stilte spørsmål 
 
