@@ -41,7 +41,7 @@ Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barr
 
 :::
 
-## Hvordan organisere referanselista
+## Hvordan organisere referanselista?
 
 - Referanselista skal ordnes alfabetisk på forfatternes etternavn.
 - Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
@@ -138,7 +138,7 @@ De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer 
 
 <span class="ref">Nortvedt, M. W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
 
-For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
+For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselista. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 ::: 
 
 
