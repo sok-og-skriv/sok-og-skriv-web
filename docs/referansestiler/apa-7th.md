@@ -71,7 +71,7 @@ _I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelses
 
 :::
 
-## Ingen kategorier passer
+## Hvordan bygge en referanse?
 
 Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: 
 
