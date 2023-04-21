@@ -82,9 +82,7 @@ Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av 
 
  Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
 
- ::: warning Flere eksempler
-For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
-:::
+ 
 
 ::: tip Oppsettet varierer etter dokumenttype
 
@@ -94,7 +92,9 @@ For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utg
 :::
 
 
-
+::: warning Flere eksempler
+For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
+:::
 
 
 ## Bøker
