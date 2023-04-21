@@ -127,7 +127,10 @@ BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon ha
 Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje tillate å kopiere han inn i ditt eige arbeid utan samtykke frå opphavar. Skriv heller med dine eigne ord kva tabellen eller grafen seier – og vis til han, eller lag din eigen. Det enklaste kan vere å spørje opphavaren om lov til å bruke tabellen eller grafen. 
 
 ### Feltarbeid og observasjonsstudiar
-I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
+I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din. 
+
+### Kjeldekode
+Kjeldekode er den leselege koden til et dataprogram, og er skrive i eit programmeringsspråk. Å skrive kode liknar på akademisk skriving ved at når du brukar eller tilpassar kode utvikla av nokon andre som ein del av prosjektet ditt, må du oppgje kjelda di. Sjølv om du brukar kode som er open source, må du både kreditere kjelda og følge vilkåra for lisensen som gjeld for koden du brukar. 
 
 <Video id="ktM1r1Ca5Tc" />
 
