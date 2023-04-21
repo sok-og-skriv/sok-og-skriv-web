@@ -148,46 +148,55 @@ Johannessen, F.O. (u.å.)
 
 :::
 
-###  Henvisninger til flere verk av samme forfatter utgitt samme år 
+### Verktøy som bruker kunstig intelligens (utkast)
+
+Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
+
+Referansestilen APA har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
 
 :::
 
-###  Henvisning til flere verk med samme førsteforfatter utgitt samme år 
+### Hvordan kan ChatGPT brukes på en etisk måte?  (Utkast)
 
-:::
+Skrivestøtte  
 
-###  Henvisning til forfattere med samme etternavn (Ikke samme person)
+ChatGPT kan være nyttig for å støtte skriveprosess og utvikle skrivekompetanse, spesielt for dem som skriver på sitt andre- eller tredjespråk og/eller har lese- og skrivevansker. Verktøyet blir nyttigere jo mer man lærer seg om å snakke (chatte) med det. Poenget er altså ikke å «få svar» eller ferdig tekst, men å bruke språkmodellen til å utvikle ideer skapt av deg, i et språk som gir god mening for en leser.  
 
-:::
+Her er ett forslag til framgangsmåte:  
 
-###  Kapittel skrevet av andre enn forfatter 
+Be chatboten om å skrive om din egen tekst til et lettere/mer direkte/klarere språk.  
 
-:::
+Be den om å forklare hva den gjorde (for eksempel, på hvilken måte er den nye teksten lettere/klarere osv.). Dette er en nyttig tilbakemelding til deg som skriver.  
 
+I et tredje trinn kan du be den om å begrunne sine valg. Da vil chatboten forklare hvorfor det er lettere å forstå setningsstrukturen, ordvalget etc. som den har valgt.  
 
+Til syvende og sist vil du selv vurdere om det ‘nye’ språket er noe du vil bruke, og om du kjenner igjen din egen stemme i det eller om du vil beholde elementer fra den opprinnelige teksten.  
+
+Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksempel i Word), Google Translate og nettsøk etter fraser. Men mye mer effektivt.  
+
+  
 
 ::::
 
 
-## Kildebruk og kildetyper
 
-Hva er en fagfellevurdert artikkel
+### Hva er en fagfellevurdert artikkel
 
-internlenke?
-
-
-Hva er et tidsskrift?
-
-internlenke?
+[Vi forklarer dette for deg her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#fagfellevurdering-peer-review) 
 
 
-Hva er DOI
+### Hva er et tidsskrift?
 
+[Vi forklarer dette for deg her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#vitskapleg-artikkel) 
+
+
+### Hva er DOI
 
 
 
 
-## Søking
+
+#
 
 
 
