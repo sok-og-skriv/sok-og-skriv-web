@@ -41,7 +41,15 @@ Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barr
 
 :::
 
-## Hvordan bygge en referanse?
+## Hvordan organisere referanselista
+
+- Referanselista skal ordnes alfabetisk på forfatternes etternavn.
+- Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
+- Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
+- Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
+
+
+## Ingen kategorier passer
 
 Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: 
 
@@ -52,6 +60,10 @@ Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av 
 
  Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
 
+ ::: warning Flere eksempler
+For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
+:::
+
 ::: tip Oppsettet varierer etter dokumenttype
 
  Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler og tidsskriftartikler ikke skal ha det. Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller kart, kan ha en hakeparentes samme sted som angir verkets format.
@@ -59,10 +71,6 @@ Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av 
 For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
 :::
 
-- Referanselisten skal ordnes alfabetisk på forfatternes etternavn.
-- Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
-- Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
-- Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
 
 ::: tip Antall forfattere
 
@@ -87,11 +95,7 @@ _I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelses
 
 :::
 
-## Eksempler
 
-::: warning Flere eksempler
-For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
-:::
 ## Bøker
 ### Bok
 
