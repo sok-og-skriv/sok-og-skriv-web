@@ -46,10 +46,10 @@ Finner du ingenting som passer her heller kan du lage din egen variant. Da er de
 
 
 Du trenger fire typer opplysninger for å lage en referanse:
-+	<span style="color:#de5b63">**Hvem**</span>:Forfatter, institusjon/organisasjon, departement osv. 
-+ <span style="color:#de5b63">**Når**</span>:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
-+	<span style="color:#de5b63">**Tittel**</span>:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
-+	<span style="color:#de5b63">**Hvor**</span>:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
+<span style="color:#de5b63">+</span>**Hvem**:Forfatter, institusjon/organisasjon, departement osv. 
+<span style="color:#de5b63">+</span>**Når**:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
+<span style="color:#de5b63">+</span>**Tittel**:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
+<span style="color:#de5b63">+</span>**Hvor**:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
 
 
 
