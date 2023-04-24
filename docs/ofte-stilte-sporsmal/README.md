@@ -28,6 +28,8 @@ tags:
 
 # Ofte stilte spørsmål 
 
+Her får du en oversikt over ofte stilte spørsmål. Vi legger til spørsmål og svar fortløpenge. 
+
 
 
  ## APA 7
@@ -44,10 +46,10 @@ Finner du ingenting som passer her heller kan du lage din egen variant. Da er de
 
 
 Du trenger fire typer opplysninger for å lage en referanse:
-+	<span style="color:blue">**Hvem**:</span> Forfatter, institusjon/organisasjon, departement osv. 
-+	<span style="color:blue">**Når**:</span> Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
-+	<span style="color:blue">**Tittel**:</span> Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
-+	<span style="color:blue">**Hvor**:</span> Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
++	<span style="background-color:#ff9f45">**Hvem**</span>**Hvem**:Forfatter, institusjon/organisasjon, departement osv. 
++ **Når**:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
++	**Tittel**:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
++	**Hvor**:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
 
 
 
@@ -146,23 +148,44 @@ Johannessen, F.O. (u.å.)
 
 ###  Forfatter mangler
 
+ 
+Hvis du ikke finner informasjon om forfatter, skriver du tittel der det vanligvis ville stått forfatter i henvisningen i teksten og i referansen. Dreier det seg om en bok, setter du tittelen i kursiv. Gjelder det en artikkel, eller en annen mindre del av ett større verk bruker du anførselstegn. 
+
+::: warning Eksempel:
+
+... («Selfangst», 1998)  
+
+Selfangst. (1998). I P. Henriksen (Red.), Store norske leksikon (3. utg., Bd. 13, s. 132–133). Kunnskapsforlaget. 
+
+
+:::
+
+Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I slike tilfeller bruker du ansvarlig oganisasjon/institusjon som forfatter. 
+
+::: warning Eksempel:
+
+…(Høgskulen på Vestlandet, 2020)  
+
+…( Søk & Skriv, 2023) 
+
 :::
 
 ### Verktøy som bruker kunstig intelligens (utkast)
 
 Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
 
-Referansestilen APA har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
+::: warning tips: Referansestilen APA har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
 
 :::
 
 ### Hvordan kan ChatGPT brukes på en etisk måte?  (Utkast)
 
-Skrivestøtte  
+ 
 
 ChatGPT kan være nyttig for å støtte skriveprosess og utvikle skrivekompetanse, spesielt for dem som skriver på sitt andre- eller tredjespråk og/eller har lese- og skrivevansker. Verktøyet blir nyttigere jo mer man lærer seg om å snakke (chatte) med det. Poenget er altså ikke å «få svar» eller ferdig tekst, men å bruke språkmodellen til å utvikle ideer skapt av deg, i et språk som gir god mening for en leser.  
 
-Her er ett forslag til framgangsmåte:  
+
+::: warning Her er ett forslag til framgangsmåte:  
 
 Be chatboten om å skrive om din egen tekst til et lettere/mer direkte/klarere språk.  
 
@@ -176,7 +199,7 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 
   
 
-::::
+:::
 
 
 
@@ -193,16 +216,16 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 ### Hva er DOI
 
 
-
-
-
-#
-
+[Vi forklarer dette for deg her](https://www.sokogskriv.no/referansestiler/apa-7th.html#referanselisten) 
 
 
 
 
-::::
+
+
+
+
+
 
 
 
