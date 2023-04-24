@@ -46,10 +46,10 @@ Finner du ingenting som passer her heller kan du lage din egen variant. Da er de
 
 
 Du trenger fire typer opplysninger for å lage en referanse:
-+ **Hvem**:Forfatter, institusjon/organisasjon, departement osv. 
-+ **Når**:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
-+ **Tittel**:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
-+ **Hvor**:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
++ **Hvem**: Forfatter, institusjon/organisasjon, departement osv. 
++ **Når**: Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
++ **Tittel**: Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
++ **Hvor**: Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
 
 
 
