@@ -46,10 +46,10 @@ Finner du ingenting som passer her heller kan du lage din egen variant. Da er de
 
 
 Du trenger fire typer opplysninger for å lage en referanse:
-+	<span style="background-color:#ff9f45">**Hvem**</span>**Hvem**:Forfatter, institusjon/organisasjon, departement osv. 
-+ **Når**:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
-+	**Tittel**:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
-+	**Hvor**:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
++	<span style="background-color:#ff9f45">**Hvem**</span>:Forfatter, institusjon/organisasjon, departement osv. 
++ <span style="background-color:#ff9f45">**Når**</span>:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
++	<span style="background-color:#ff9f45">**Tittel**</span>:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
++	<span style="background-color:#ff9f45">**Hvor**</span>:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
 
 
 
@@ -174,7 +174,8 @@ Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I sl
 
 Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
 
-::: warning tips: Referansestilen APA har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
+::: warning Tips:
+ Referansestilen APA har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
 
 :::
 
@@ -215,8 +216,9 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 
 ### Hva er DOI
 
+DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. Som oftest finner du DOI-nummeret øverst eller nederst på første sida av artikkelen eller i trefflista i databasen. 
 
-[Vi forklarer dette for deg her](https://www.sokogskriv.no/referansestiler/apa-7th.html#referanselisten) 
+
 
 
 
