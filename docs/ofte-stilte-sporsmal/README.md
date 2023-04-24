@@ -46,10 +46,10 @@ Finner du ingenting som passer her heller kan du lage din egen variant. Da er de
 
 
 Du trenger fire typer opplysninger for å lage en referanse:
-+	<span style="background-color:#ff9f45">**Hvem**</span>:Forfatter, institusjon/organisasjon, departement osv. 
-+ <span style="background-color:#ff9f45">**Når**</span>:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
-+	<span style="background-color:#ff9f45">**Tittel**</span>:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
-+	<span style="background-color:#ff9f45">**Hvor**</span>:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
++	<span style="color:#ff9f45">**Hvem**</span>:Forfatter, institusjon/organisasjon, departement osv. 
++ <span style="color:#ff9f45">**Når**</span>:Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.
++	<span style="color:#ff9f45">**Tittel**</span>:Finns det ikke en tittel kan du lage en beskrivelse i skarpe klammer.
++	<span style="color:#ff9f45">**Hvor**</span>:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
 
 
 
@@ -88,9 +88,7 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 
 ### Sekundærkilde (sitat hentet fra en annen kilde)
 
-Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. 
-
-Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
+Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
 
 ::: warning Eksempel: 
 (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
