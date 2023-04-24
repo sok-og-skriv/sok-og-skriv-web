@@ -52,13 +52,8 @@ Du trenger fire typer opplysninger for å lage en referanse:
 + **Hvor**:Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med. 
 
 
-<ul style="color:#de5b63">
-  <li>Forfatter, institusjon/organisasjon, departement osv.</li>
-  <li>Utgivelsestidspunkt. Vanligvis årstall, men for noen nettkilder må du også ha sist oppdatert dato.</li>
-  <li>Tittel. Finnes det ikke en tittel kan du lage en beskrivelse i skarpe klammer.</li>
-  <li>Forlag, navn på nettsted, departement. Hvis du har DOI eller URL tar du dette med.</li>
-</ul> 
 
+ 
 ::: warning Til sammen blir dette:
 
 Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
@@ -179,7 +174,7 @@ Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I sl
 Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
 
 ::: warning Tips:
- Referansestilen APA har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
+ [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
 
 :::
 
