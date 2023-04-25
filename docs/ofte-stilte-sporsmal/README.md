@@ -30,6 +30,7 @@ tags:
 
 Denne siden er under utarbeidelse. Flere spørsmål og svar kommer.
 
+## test
 
 ### Verktøy som bruker kunstig intelligens (utkast)
 
@@ -77,16 +78,18 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 
 DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. Som oftest finner du DOI-nummeret øverst eller nederst på første sida av artikkelen eller i trefflista i databasen. 
 
-
+## APA 7
 
 
 ### Ingen kategorier passer
+
+::: oppgave mer om dette
 
  Norsk apa-manual har flere eksempler enn Søk & Skriv:
 
  [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
-
+:::
 
 Finner du ingenting som passer her heller kan du lage din egen variant. Da er det viktig at du er konsekvent og at det i teksten din og litteraturlista kommer fram opplysninger som kan identifisere kilden.
 
