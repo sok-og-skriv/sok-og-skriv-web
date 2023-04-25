@@ -181,7 +181,7 @@ Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller
 
 ### Sekundærkilde/sekundærreferanse (sitat hentet fra en annen kilde)
 
-Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden. Oppgi primærkilden og "henvist i", "sitert i", "referert i" eller liknende etterfulgt av sekundærkilden du har brukt. Bruk årstall dersom det er tilgjengelig.
+Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser, må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden. Oppgi primærkilden og "henvist i", "sitert i", "referert i" eller liknende etterfulgt av sekundærkilden du har brukt. Bruk årstall dersom det er tilgjengelig.
 
 ::: warning Eksempel: 
 (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
