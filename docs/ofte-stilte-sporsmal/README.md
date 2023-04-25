@@ -28,11 +28,57 @@ tags:
 
 # Ofte stilte spørsmål 
 
-Her får du en oversikt over ofte stilte spørsmål. Vi legger til spørsmål og svar fortløpenge. 
+Denne siden er under utarbeidelse. Flere spørsmål og svar kommer.
+
+
+### Verktøy som bruker kunstig intelligens (utkast)
+
+Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
+
+::: tip Tips:
+ [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
+
+:::
+
+### Hvordan kan ChatGPT brukes på en etisk måte?  (Utkast)
+
+ 
+
+ChatGPT kan være nyttig for å støtte skriveprosess og utvikle skrivekompetanse, spesielt for dem som skriver på sitt andre- eller tredjespråk og/eller har lese- og skrivevansker. Verktøyet blir nyttigere jo mer man lærer seg om å snakke (chatte) med det. Poenget er altså ikke å «få svar» eller ferdig tekst, men å bruke språkmodellen til å utvikle ideer skapt av deg, i et språk som gir god mening for en leser.  
+
+
+::: tip Her er ett forslag til framgangsmåte:  
+
+Be chatboten om å skrive om din egen tekst til et lettere/mer direkte/klarere språk.  
+
+Be den om å forklare hva den gjorde (for eksempel, på hvilken måte er den nye teksten lettere/klarere osv.). Dette er en nyttig tilbakemelding til deg som skriver.  
+
+I et tredje trinn kan du be den om å begrunne sine valg. Da vil chatboten forklare hvorfor det er lettere å forstå setningsstrukturen, ordvalget etc. som den har valgt.  
+
+Til syvende og sist vil du selv vurdere om det ‘nye’ språket er noe du vil bruke, og om du kjenner igjen din egen stemme i det eller om du vil beholde elementer fra den opprinnelige teksten.  
+
+Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksempel i Word), Google Translate og nettsøk etter fraser. Men mye mer effektivt.  
+
+  
+
+:::
 
 
 
- ## APA 7
+### Hva er en fagfellevurdert artikkel
+
+::: oppgave [Se forklaring på dette her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#fagfellevurdering-peer-review)    
+
+
+:::
+
+
+### Hva er DOI
+
+DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. Som oftest finner du DOI-nummeret øverst eller nederst på første sida av artikkelen eller i trefflista i databasen. 
+
+
+
 
 ### Ingen kategorier passer
 
@@ -168,55 +214,6 @@ Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I sl
 …( Søk & Skriv, 2023) 
 
 :::
-
-### Verktøy som bruker kunstig intelligens (utkast)
-
-Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
-
-::: warning Tips:
- [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
-
-:::
-
-### Hvordan kan ChatGPT brukes på en etisk måte?  (Utkast)
-
- 
-
-ChatGPT kan være nyttig for å støtte skriveprosess og utvikle skrivekompetanse, spesielt for dem som skriver på sitt andre- eller tredjespråk og/eller har lese- og skrivevansker. Verktøyet blir nyttigere jo mer man lærer seg om å snakke (chatte) med det. Poenget er altså ikke å «få svar» eller ferdig tekst, men å bruke språkmodellen til å utvikle ideer skapt av deg, i et språk som gir god mening for en leser.  
-
-
-::: warning Her er ett forslag til framgangsmåte:  
-
-Be chatboten om å skrive om din egen tekst til et lettere/mer direkte/klarere språk.  
-
-Be den om å forklare hva den gjorde (for eksempel, på hvilken måte er den nye teksten lettere/klarere osv.). Dette er en nyttig tilbakemelding til deg som skriver.  
-
-I et tredje trinn kan du be den om å begrunne sine valg. Da vil chatboten forklare hvorfor det er lettere å forstå setningsstrukturen, ordvalget etc. som den har valgt.  
-
-Til syvende og sist vil du selv vurdere om det ‘nye’ språket er noe du vil bruke, og om du kjenner igjen din egen stemme i det eller om du vil beholde elementer fra den opprinnelige teksten.  
-
-Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksempel i Word), Google Translate og nettsøk etter fraser. Men mye mer effektivt.  
-
-  
-
-:::
-
-
-
-### Hva er en fagfellevurdert artikkel
-
-[Vi forklarer dette for deg her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#fagfellevurdering-peer-review) 
-
-
-### Hva er et tidsskrift?
-
-[Vi forklarer dette for deg her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#vitskapleg-artikkel) 
-
-
-### Hva er DOI
-
-DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. Som oftest finner du DOI-nummeret øverst eller nederst på første sida av artikkelen eller i trefflista i databasen. 
-
 
 
 
