@@ -8,6 +8,7 @@ tags:
   - "ingen kategorier passer"
   - "flere kilder i samme parentes"
   - sekundærkilde
+  - sekundærreferanse
   - primærkilde
   - "sitat hentet fra annen kilde"
   - sidetall
@@ -102,6 +103,7 @@ Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med m
 ### Flere kilder i samme parentes
 
 Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
+Bruk sidetall dersom det er aktuelt. 
 
 **Ulike forfattere**:
 Kildene skal stå i alfabetisk rekkefølge.
@@ -109,6 +111,9 @@ Kildene skal stå i alfabetisk rekkefølge.
 ::: warning Eksempel: 
 
 (Bergersen, 2017; Tvedt, 2021)
+
+(Hermansen, 2018, s.45; Stenehjem, 2023, s. 88)
+
 :::
 
 
@@ -176,7 +181,7 @@ Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller
 
 ### Sekundærkilde/sekundærreferanse (sitat hentet fra en annen kilde)
 
-Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden. Oppgi primærkilden og "henvist i", siteret i, eller liknende etterfulgt av sekundærkilden du har brukt. Bruk årstall dersom det er tilgjengelig.
+Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden. Oppgi primærkilden og "henvist i", "sitert i", "referert i" eller liknende etterfulgt av sekundærkilden du har brukt. Bruk årstall dersom det er tilgjengelig.
 
 ::: warning Eksempel: 
 (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
