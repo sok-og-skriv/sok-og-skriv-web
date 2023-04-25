@@ -108,7 +108,7 @@ Kildene skal stå i alfabetisk rekkefølge.
 
 ::: warning Eksempel: 
 
-(Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
+(Bergersen, 2017; Tvedt, 2021)
 :::
 
 
@@ -117,7 +117,7 @@ Kildene skal stå i alfabetisk rekkefølge.
 Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
 
 ::: warning Eksempel: 
-(Johansen, 2005, s. 44, 2018, s. 93)
+(Johansen, 2005, 2018)
 :::
 
 
@@ -174,9 +174,9 @@ Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller
 
 
 
-### Sekundærkilde (sitat hentet fra en annen kilde)
+### Sekundærkilde/sekundærreferanse (sitat hentet fra en annen kilde)
 
-Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden.
+Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser må du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærkilde. Kilden der sitatet opprinnelig stod kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden. Oppgi primærkilden og "henvist i", siteret i, eller liknende etterfulgt av sekundærkilden du har brukt. Bruk årstall dersom det er tilgjengelig.
 
 ::: warning Eksempel: 
 (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
