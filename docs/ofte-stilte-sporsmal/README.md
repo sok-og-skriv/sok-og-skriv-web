@@ -24,13 +24,13 @@ tags:
 
 ---
 
-## Kildebruk og akademisk skriving
+
 
 # Ofte stilte spørsmål 
 
 Denne siden er under utarbeidelse. Flere spørsmål og svar kommer.
 
-
+## Kildebruk og akademisk skriving
 
 ### Verktøy som bruker kunstig intelligens (utkast)
 
@@ -66,7 +66,7 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 
 
 
-### Hva er en fagfellevurdert artikkel
+### Hva er en fagfellevurdert artikkel (peer review)
 
 ::: oppgave Mer om dette:
 
