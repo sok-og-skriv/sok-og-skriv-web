@@ -24,7 +24,7 @@ tags:
 
 ---
 
-
+## Kildebruk og akademisk skriving
 
 # Ofte stilte spørsmål 
 
@@ -81,7 +81,11 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. 
 
 ::: tip Tips
-Som oftest finner du DOI-nummeret øverst eller nederst på framsiden av artikkelen, eller i trefflista i databasen. Eksempel på DOI-nummer: 10.1177/1090198109343895
+Som oftest finner du DOI-nummeret øverst eller nederst på framsiden av artikkelen, eller i trefflista i databasen. 
+
+Eksempel på DOI-nummer: 10.1177/1090198109343895
+
+
 Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.org/  foran nummeret. 
 
 :::
