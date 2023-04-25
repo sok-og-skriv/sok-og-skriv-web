@@ -150,7 +150,7 @@ Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacus.
 
 :::
 
-Dersom du kjenner til publikasjonsåret for primærkilda, skal dette også inkluderast i teksten. 
+Dersom du kjenner til publikasjonsåret for primærkjelda, skal dette også inkluderast i teksten. 
 
 
 ## Notar og vedlegg
