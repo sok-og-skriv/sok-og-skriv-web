@@ -5,19 +5,19 @@ next: "../study-skills/"
 ---
 
 # How to do systematic searching
-When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a [review article](/en/sources-and-referencing/different-sources.html#review-article), or when the subject area in question places high value on knowledge based practice.
+When you do a systematic search, it must be conducted according to a plan, well documented, and it must be verifiable. The latter means that if the search is repeated, it must yield the same result. Students are to an increasing degree expected to be able to perform systematic searches for research results. This is especially important when searching for literature for writing a [review article](/en/sources-and-referencing/different-sources.html#review-article), or when the subject area in question places high value on knowledge-based practice.
 
 ## Research question
 An appropriate starting point for a systematic search is to formulate the question you want to find relevant literature to.
 
-A research question will consist of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. The transition to doing a search in a database or search engine will then be easier. Here are some help-questions that might guide you when sorting out the thematic elements:
+A research question will consist of two or more thematic elements. Before doing a systematic search, you should structure your research question and sort out the thematic elements. This will help make the transition to searching in a database or search engine easier. Here are some helpful questions that might guide you when sorting out the thematic elements:
 
 * What is the **issue**/**problem**?
 * Is any **intervention**/**measure**/**outcome**/**phenomenon** specified?
 * What **population**/**group of people** is in question?
 * Does the question include a special **setting**/**context**? 
 
-Note that far from all research questions contain all these thematic elements.
+Note that far from all research questions contain *all* these thematic elements.
 
 ::: eksempel Example
 What do we know about the reasons for **school refusal** among **teenagers**?
@@ -25,9 +25,9 @@ What do we know about the reasons for **school refusal** among **teenagers**?
 The research question consists of the problem **school refusal** and the population **teenagers**, and these two are the thematic elements of this research question.
 :::
 
-The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](/en/searching/plan-your-searches.html#finding-good-search-tems)
+The thematic elements makes the starting point for further planning of the search, where the next step will be [finding good search terms](/en/searching/plan-your-searches.html#finding-good-search-tems).
 
-:::::: details  The PICO and SPIDER frameworks are models used for structuring questions, often within health-related subjects, because it captures each key element required for a focused question. PICO stands for certain elements that are often included in health-related research questions:
+:::::: details  The PICO framework is a model used for structuring questions, often within health-related subjects, because each key element required for a focused question is captured. The letters P.I.C.O. stand for certain elements that are often included in health-related research questions:
 
 **P**: (problem or patient) <br />
 **I**: (intervention) <br />
@@ -161,9 +161,9 @@ mp = searching for textwords in the following fields of the reference: title, ab
 ::::::
 
 ## Search terms
-Set up a search term table with a column for each thematic element. Within each column yo add relevant synonyms and alternative spellings, if relevant. This kind of table will give you a structured overview of your search terms.
+Set up a search term table with a column for each thematic element. Within each column, add relevant synonyms and alternative spellings, if relevant. This kind of table provides a structured overview of the search terms.
 
-Work with improving your search term table with additional relevant synonyms. Consider the use of [truncation](/en/searching/searching-techniques.html#truncation) and [quotation marks](/en/searching/searching-techniques.html#phrase-searching).
+Improve the search term table with additional relevant synonyms. Consider the use of [truncation](/en/searching/searching-techniques.html#truncation) and [quotation marks](/en/searching/searching-techniques.html#phrase-searching).
 
 | School refusal                | Teenagers         |
 | ----------------------------- | ----------------- |     
@@ -178,7 +178,7 @@ Work with improving your search term table with additional relevant synonyms. Co
 
 ## Combining search terms in the database search history
 
-Most academic databases provide an overview of your search history. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. 
+Most major article databases provide access to your search history. The search history shows which subject terms and text words you have searched for, how they have been combined, and how many hits each search has returned. 
 
 ::: eksempel Example: Systematic search presented via the search history in Web of Science
 
@@ -193,38 +193,38 @@ Topic = search for textwords in the following fields of the reference: Title, ab
 :::
 
 ## Reviewing the search result
-A review of the results list can give you new insights, and maybe even lead you to change your original research question. A very high number of relevant results may indicate that your research question is too broad, and that it should be narrowed to become more precise. If this is the case you need to adjust the serach strategy with respect to the changes made in main thematic elements in you adjusted research question. 
+A review of the results list can provide new insights, and maybe even lead you to change your original research question. A very high number of relevant results may indicate that your research question is too broad, and that it should be narrowed to become more precise. If this is the case, adjust the search strategy with respect to the changes made to your main thematic elements in your adjusted research question. 
 
-Using our research question as an example; let us say that our results list implies that a common reason for school avoidance are psychological problems, such as anxiety. Then it might be an idea to narrow the research question by focusing on anxiety as reason for school avoidance. Maybe one also chooses to examine what interventions that exists for this population of students.
+Using our research question as an example, let us say that our list of results implies that a common reason for school avoidance is psychological problems, such as anxiety. Then it might be an idea to narrow the research question by focusing on anxiety as a reason for school avoidance. Maybe one chooses to examine what interventions exist for this population of students.
 
-The databases contain filters, so that you can limit your results list based on your needs. Examples of filters are 
+The databases contain filters, so that you can limit your results list based on your needs. Examples of filters are: 
 
 * publication year
 * publication type (research articles, review articles, book chapters, conference proceedings etc.)
 * language
-* geographic area
+* geographical area
 * age group
 * research method
 * subject area
 
 ::: warning Keep in mind that
-* any limitation can lead to loosing relevant articles
+* any limitation can lead to losing relevant articles
 * the results list will most likely also contain articles that are not relevant, meaning that every article's quality and relevance must be assessed according to your research question
 :::
 
 ## Saving your search
 
-Most databases offer you the option to save your searches and send the search history via e-mail. The search history shows which subject terms and textwords you have searched for, how they are combined, and how many hits each search has returned. This information might turn out be very useful if you wish to build further on your search, if you need to rerun the same search at a later stage, run it in in another database or if you need to [document your search](internlenke).
+Most databases offer the option to save your searches and send the search history via e-mail. The search history shows which search terms you have used, how they are combined, and how many hits each search has returned. This information might turn out be very useful if you wish to build further on your search, if you need to rerun the same search at a later stage, run it in in another database, or if you need to [document your search](internlenke).
 
 ## Documenting your search
 
-If your literature search is part of the methodology of an assignment or thesis, the search process must be described in enough detail so that the search can be evaluated and repeated. When documenting your search you should include
+If your literature search is part of the methodology of an assignment or thesis, the search process must be described in enough detail so that the search can be evaluated and repeated. When documenting the search you should include:
 
 * which databases you have searched in
 * which search terms you have used and how they are combined (AND/OR/NOT)
 * if you have used the database subject terms (thesaurus), and if so, which
 * if you have used some of the filters provided by the database, and if so, which
-* the date for when the search was done
+* the date of when the search was done
 
 [Download your own form here](/docs/dokumenter_sok.docx).
 
