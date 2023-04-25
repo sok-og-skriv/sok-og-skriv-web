@@ -32,14 +32,31 @@ Denne siden er under utarbeidelse. Flere spørsmål og svar kommer.
 
 ## Kildebruk og akademisk skriving
 
-### Verktøy som bruker kunstig intelligens (utkast)
 
-Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
+### Hva er DOI
 
-::: tip Tips:
- [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
+DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. 
+
+::: tip Tips
+Som oftest finner du DOI-nummeret øverst eller nederst på framsiden av artikkelen, eller i trefflista i databasen. 
+
+Eksempel på DOI-nummer: 10.1177/1090198109343895
+
+
+Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.org/  foran nummeret. 
 
 :::
+
+
+### Hva er en fagfellevurdert artikkel (peer review)
+
+::: oppgave Mer om dette:
+
+[Du finner svar på spørsmålet her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#fagfellevurdering-peer-review)    
+
+
+:::
+
 
 ### Hvordan kan ChatGPT brukes på en etisk måte?  (Utkast)
 
@@ -61,34 +78,20 @@ Til syvende og sist vil du selv vurdere om det ‘nye’ språket er noe du vil 
 Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksempel i Word), Google Translate og nettsøk etter fraser. Men mye mer effektivt.  
 
   
-
 :::
 
 
 
-### Hva er en fagfellevurdert artikkel (peer review)
+### Verktøy som bruker kunstig intelligens (utkast)
 
-::: oppgave Mer om dette:
+Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
 
-[Du finner svar på spørsmålet her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#fagfellevurdering-peer-review)    
-
-
-:::
-
-
-### Hva er DOI
-
-DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. 
-
-::: tip Tips
-Som oftest finner du DOI-nummeret øverst eller nederst på framsiden av artikkelen, eller i trefflista i databasen. 
-
-Eksempel på DOI-nummer: 10.1177/1090198109343895
-
-
-Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.org/  foran nummeret. 
+::: tip Tips:
+ [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Dette er en god anbefaling fordi den følger vanlige prinsipper for å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
 
 :::
+
+
 
 ## APA 7
 
