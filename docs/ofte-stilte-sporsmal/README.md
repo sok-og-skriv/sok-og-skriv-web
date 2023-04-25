@@ -96,6 +96,55 @@ Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med m
 ## APA 7
 
 
+
+### Flere kilder i samme parentes
+
+Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
+
+**Ulike forfattere**:
+Kildene skal stå i alfabetisk rekkefølge.
+
+::: warning Eksempel: 
+
+(Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
+:::
+
+
+
+**Samme forfatter**:
+Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
+
+::: warning Eksempel: 
+(Johansen, 2005, s. 44, 2018, s. 93)
+:::
+
+
+
+###  Forfatter mangler
+
+ 
+Hvis du ikke finner informasjon om forfatter, skriver du tittel der det vanligvis ville stått forfatter i henvisningen i teksten og i referansen. Dreier det seg om en bok, setter du tittelen i kursiv. Gjelder det en artikkel, eller en annen mindre del av ett større verk bruker du anførselstegn. 
+
+::: warning Eksempel:
+
+... («Selfangst», 1998)  
+
+Selfangst. (1998). I P. Henriksen (Red.), Store norske leksikon (3. utg., Bd. 13, s. 132–133). Kunnskapsforlaget. 
+
+
+:::
+
+Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I slike tilfeller bruker du ansvarlig oganisasjon/institusjon som forfatter. 
+
+::: warning Eksempel:
+
+…(Høgskulen på Vestlandet, 2020)  
+
+…( Søk & Skriv, 2023) 
+
+:::
+
+
 ### Ingen kategorier passer
 
 ::: oppgave Mer om dette:
@@ -122,32 +171,6 @@ Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller
 :::
 
 
-
-### Flere kilder i samme parentes
-
-Bruker du flere kilder i samme setning eller avsnitt kan disse settes i samme parentes. Du skiller dem med semikolon.
-
-**Ulike forfattere**:
-Kildene skal stå i alfabetisk rekkefølge.
-
-::: warning Eksempel: 
-
-(Bergersen, 2017, s. 39; Tvedt, 2021, s. 142)
-:::
-
-
-
-**Samme forfatter**:
-Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mellom kildene.
-
-::: warning Eksempel: 
-(Johansen, 2005, s. 44, 2018, s. 93)
-:::
-
-
-
-
- 
 
 ### Sekundærkilde (sitat hentet fra en annen kilde)
 
@@ -202,33 +225,6 @@ På nettsider kan du lete etter ett årstal for siste oppdatering, i bøker, art
  Helsedirektoratet (u.å.)
 
 Johannessen, F.O. (u.å.)
-:::
-
-
-
-
-###  Forfatter mangler
-
- 
-Hvis du ikke finner informasjon om forfatter, skriver du tittel der det vanligvis ville stått forfatter i henvisningen i teksten og i referansen. Dreier det seg om en bok, setter du tittelen i kursiv. Gjelder det en artikkel, eller en annen mindre del av ett større verk bruker du anførselstegn. 
-
-::: warning Eksempel:
-
-... («Selfangst», 1998)  
-
-Selfangst. (1998). I P. Henriksen (Red.), Store norske leksikon (3. utg., Bd. 13, s. 132–133). Kunnskapsforlaget. 
-
-
-:::
-
-Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I slike tilfeller bruker du ansvarlig oganisasjon/institusjon som forfatter. 
-
-::: warning Eksempel:
-
-…(Høgskulen på Vestlandet, 2020)  
-
-…( Søk & Skriv, 2023) 
-
 :::
 
 
