@@ -30,7 +30,7 @@ tags:
 
 Denne siden er under utarbeidelse. Flere spørsmål og svar kommer.
 
-## test
+
 
 ### Verktøy som bruker kunstig intelligens (utkast)
 
@@ -68,7 +68,9 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 
 ### Hva er en fagfellevurdert artikkel
 
-::: oppgave [Se forklaring på dette her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#fagfellevurdering-peer-review)    
+::: oppgave Mer om dette:
+
+[Du finner svar på spørsmålet her](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#fagfellevurdering-peer-review)    
 
 
 :::
@@ -76,18 +78,22 @@ Dette eksemplet tilsvarer bruk av eksisterende verktøy som ordliste (for eksemp
 
 ### Hva er DOI
 
-DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. Som oftest finner du DOI-nummeret øverst eller nederst på første sida av artikkelen eller i trefflista i databasen. 
+DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel skal du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. 
+
+::: tip Tips
+Som oftest finner du DOI-nummeret øverst eller nederst på framsiden av artikkelen, eller i trefflista i databasen. Eksempel på DOI-nummer: 10.1177/1090198109343895
+Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.org/  foran nummeret. 
+
+:::
 
 ## APA 7
 
 
 ### Ingen kategorier passer
 
-::: oppgave mer om dette
+::: oppgave Mer om dette:
 
- Norsk apa-manual har flere eksempler enn Søk & Skriv:
-
- [https://www.unit.no/tjenester/norsk-apa-referansestil](https://www.unit.no/tjenester/norsk-apa-referansestil)
+ [Norsk apa-manual har flere eksempler enn Søk & Skriv](https://www.unit.no/tjenester/norsk-apa-referansestil)
 
 :::
 
