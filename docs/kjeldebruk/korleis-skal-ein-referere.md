@@ -134,7 +134,7 @@ Førland (1996, s. 11) hevder at alle studenter innenfor samfunnsfag og humanior
 Den akademiske sjangeren kjennetegnes av drøfting, og alle studenter innenfor samfunnsfag og humaniora må lære seg den (Førland, 1996, s. 11)
 :::
 
-### Sekundærreferansar
+### Sekundærkjelder
 
 Hovudregelen er at du kun skal vise til verk du har lese. Om originalkjelda ikkje er tilgjengeleg, eller er på språk du ikkje forstår, kan du vise til andre si omtale av kjelda:
 

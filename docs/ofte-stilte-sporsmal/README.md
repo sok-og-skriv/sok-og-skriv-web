@@ -64,6 +64,8 @@ Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.or
 
 ChatGPT kan være nyttig for å støtte skriveprosess og utvikle skrivekompetanse, spesielt for dem som skriver på sitt andre- eller tredjespråk og/eller har lese- og skrivevansker. Verktøyet blir nyttigere jo mer man lærer seg om å snakke (chatte) med det. Poenget er altså ikke å «få svar» eller ferdig tekst, men å bruke språkmodellen til å utvikle ideer skapt av deg, i et språk som gir god mening for en leser.  
 
+Det er viktig å huske på at teksten du leverer inn skal være din egen. Dersom du bruker ChatGPT, eller tilsvarende språkmodeller til å produsere ferdig tekst, regnes det som fusk.
+
 
 ::: tip Her er ett forslag til framgangsmåte:  
 
@@ -138,9 +140,9 @@ Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I sl
 
 ::: warning Eksempel:
 
-…(Høgskulen på Vestlandet, 2020)  
+… (Høgskulen på Vestlandet, 2020)  
 
-…( Søk & Skriv, 2023) 
+… ( Søk & Skriv, 2023) 
 
 :::
 
@@ -181,12 +183,19 @@ Bruker du et direkte eller indirekte sitat fra en annen kilde enn den du leser m
 
 Kvam skal ikke oppføres i litteraturlista fordi kilden ikke er lest.
 :::
+
+::: oppgave Mer om dette:
+
+ [Du finner flere eksempel her](https://www.sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sekund%C3%A6rreferansar)
+
+:::
+  
   
 
 
 ### Sidetall
 
-Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/skriver med egne ord. 
+Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/når du skriver med egne ord. 
 
 Viser du til tekst over flere sider, oppgir du første og siste side.
 
@@ -206,7 +215,7 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 
 ::: warning Eksempel:
-...(Friluftsloven, 1957, § 10)
+... (Friluftsloven, 1957, § 10)
 
 ... (Norsk institutt for vannforskning, 2022, avsn. 4)
 :::
