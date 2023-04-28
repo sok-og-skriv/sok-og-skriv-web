@@ -116,7 +116,7 @@ Kildene skal stå i alfabetisk rekkefølge.
 
 (Bergersen, 2017; Tvedt, 2021)
 
-(Hermansen, 2018, s.45; Stenehjem, 2023, s. 88)
+(Hermansen, 2018, s. 45; Stenehjem, 2023, s. 88)
 
 :::
 
@@ -127,6 +127,8 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 
 ::: warning Eksempel: 
 (Johansen, 2005, 2018)
+
+(Hatlevoll, 2011, s. 32, 2022,s. 12)
 :::
 
 
