@@ -16,6 +16,11 @@ tags:
   - "Fagfellevurdert artikkel"
   - "Peer review"
   - ChatGPT
+  - Kunstig intelligens
+  - KI
+  - Artificial intelligence
+  - AI
+  - språkmodeller
 
 
 
@@ -59,19 +64,9 @@ Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.or
 
 :::
 
-::: oppgave Verktøy som bruker kunstig intelligens 
-
-Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren. 
-:::
 
 
-::: tip Tips:
- [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Anbefalingen legger vekt på å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
-
-:::
-
-
-### Hvordan kan ChatGPT brukes på en etisk måte? 
+### Hvordan kan kunstig intelligens (f.eks ChatGPT) brukes på en etisk måte? 
 
 ::: oppgave Verktøy som bruker kunstig intelligens 
 
@@ -86,7 +81,7 @@ ChatGPT kan likevel være nyttig for å støtte skriveprosesser og utvikle skriv
 
 
 
-::: tip Her er et forslag til framgangsmåte:  
+::: tip Her er et eksempel:  
 
 - Be chatboten om å skrive om din egen tekst til et lettere/mer direkte/klarere språk.  
 
@@ -96,9 +91,9 @@ ChatGPT kan likevel være nyttig for å støtte skriveprosesser og utvikle skriv
 
 - Til syvende og sist vil du selv vurdere om det ‘nye’ språket er noe du vil bruke, og om du kjenner igjen din egen stemme i det eller om du heller vil beholde den opprinnelige teksten.  
 
-Om du bruker språkmodeller på denne måten tilsvarer det bruk av eksisterende verktøy som ordliste (for eksempel i Word), Google Translate og nettsøk etter fraser, bare mye mer effektivt.
+Om du bruker språkmodeller på denne måten tilsvarer det bruk av eksisterende verktøy som ordliste (for eksempel i Word), Google Translate og nettsøk etter fraser. 
 
-Husk bare å redegjøre for hvordan verktøyet er brukt!
+Husk å redegjøre for hvordan verktøyet er brukt!
 
   
 :::
@@ -195,7 +190,7 @@ Bruker du et sitat fra en annen kilde enn den du leser, skal du vise hvor denne 
 ::: warning Eksempel: 
 (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
 
-Kvam skal ikke oppføres i referansene fordi kilden ikke er lest.
+Kvam skal ikke oppføres i referanselista fordi kilden ikke er lest.
 :::
 
 ::: oppgave Mer om dette:
@@ -247,7 +242,7 @@ På nettsider kan du lete etter årstall for siste oppdatering. I bøker, artikl
 
  Helsedirektoratet (u.å.)
 
-Johannessen, F.O. (u.å.)
+ Johannessen (u.å.)
 :::
 
 
