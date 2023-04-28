@@ -15,6 +15,7 @@ tags:
   - DOI
   - "Fagfellevurdert artikkel"
   - "Peer review"
+  - ChatGPT
 
 
 
@@ -36,7 +37,7 @@ Denne siden er under utarbeidelse. Flere spørsmål og svar kommer.
 
 ### Hva er DOI?
 
-DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel, kan du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. 
+DOI står for digital object identifier, og er et unikt nummer som brukes for å identifisere elektroniske dokumenter. Når du skal referere til en elektronisk artikkel, bør du bruke DOI dersom dette finnes. DOI er mer stabilt enn en URL, og vil vise til riktig dokument selv om plasseringen på nett endrer seg. 
 
 ::: tip Tips
 Som oftest finner du DOI-nummeret øverst eller nederst på framsiden av artikkelen, eller i trefflista i databasen. 
@@ -58,9 +59,11 @@ Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.or
 
 :::
 
-### Verktøy som bruker kunstig intelligens 
+::: oppgave Verktøy som bruker kunstig intelligens 
 
-Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren.    
+Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Verktøyene vil få stor betydning for skole, arbeidsliv og høyere utdanning. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren. 
+:::
+
 
 ::: tip Tips:
  [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det. Anbefalingen legger vekt på å oppgi hvilke verktøy man har brukt og hvordan man har gjort det. Slik sikres transparens og redelighet. Samtidig understrekes det at fagmiljøene kan regne slik bruk som fusk.  
@@ -69,6 +72,13 @@ Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med m
 
 
 ### Hvordan kan ChatGPT brukes på en etisk måte? 
+
+::: oppgave Verktøy som bruker kunstig intelligens 
+
+Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren. 
+
+[Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det.
+:::
 
  Det er viktig å huske på at tekster som leveres inn til vurdering, eksamen o.l., skal være skrevet av deg. Dersom du bruker ChatGPT eller tilsvarende språkmodeller til å produsere ferdig tekst, vil dette kunne regnes som fusk.
 
@@ -180,7 +190,7 @@ Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller
 
 ### Sekundærkilde/sekundærreferanse (sitat hentet fra en annen kilde)
 
-Bruker du et sitat fra en annen kilde enn den du leser, kan det være aktuelt å vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærreferanse. Kilden der sitatet opprinnelig stod, kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden. Oppgi primærkilden og "henvist i", "sitert i", "referert i" eller liknende etterfulgt av kilden du har brukt. Bruk årstall dersom det er tilgjengelig.
+Bruker du et sitat fra en annen kilde enn den du leser, skal du vise hvor denne kilden har hentet sitatet fra. Det kaller vi sekundærreferanse. Kilden der sitatet opprinnelig stod, kalles primærkilden. Det beste er å gå til primærkilden dersom dette er mulig. Er primærkilden vanskelig å få tak i, kan du vise til den sekundære kilden. Oppgi primærkilden og "henvist i", "sitert i", "referert i" eller liknende etterfulgt av kilden du har brukt. Bruk årstall dersom det er tilgjengelig.
 
 ::: warning Eksempel: 
 (Kvam, 2004, sitert i Kristiansen, 2022, s. 12)
