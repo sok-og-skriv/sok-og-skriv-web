@@ -129,17 +129,6 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
       Universitetet i Oslo
     </div>
   </div>
-  <div class="partner">
-    <a href="https://www.nb.no">
-      <picture>
-        <source media="(max-width: 719px)" srcset="/partners/nb-icon.png">
-        <img src="/partners/nb-logo.png" alt="Nasjonalbiblioteket"/>
-      </picture>
-    </a>
-    <div class="title">
-      Nasjonalbiblioteket
-    </div>
-  </div>
 </div>
 
 --- 

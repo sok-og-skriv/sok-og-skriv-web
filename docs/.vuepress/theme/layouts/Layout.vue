@@ -1,10 +1,5 @@
 <template>
-  <div
-    class="theme-container"
-    :class="pageClasses"
-    @touchstart="onTouchStart"
-    @touchend="onTouchEnd"
-  >
+  <div class="theme-container" :class="pageClasses" @touchstart="onTouchStart" @touchend="onTouchEnd">
     <Navbar v-if="shouldShowNavbar" @toggle-sidebar="toggleSidebar" />
 
     <div class="sidebar-mask" @click="toggleSidebar(false)" />
@@ -33,14 +28,8 @@
             <div class="partner">
               <a href="https://www.hvl.no">
                 <picture>
-                  <source
-                    media="(max-width: 809px)"
-                    srcset="/partners/hvl-icon.jpg"
-                  />
-                  <img
-                    src="/partners/hvl-logo.jpg"
-                    alt="Høyskolen på Vestlandet"
-                  />
+                  <source media="(max-width: 809px)" srcset="/partners/hvl-icon.jpg" />
+                  <img src="/partners/hvl-logo.jpg" alt="Høyskolen på Vestlandet" />
                 </picture>
               </a>
               <div class="title">Høyskolen på Vestlandet</div>
@@ -48,14 +37,8 @@
             <div class="partner">
               <a href="https://www.uib.no">
                 <picture>
-                  <source
-                    media="(max-width: 809px)"
-                    srcset="/partners/uib-icon.png"
-                  />
-                  <img
-                    src="/partners/uib-logo.png"
-                    alt="Universitetet i Bergen"
-                  />
+                  <source media="(max-width: 809px)" srcset="/partners/uib-icon.png" />
+                  <img src="/partners/uib-logo.png" alt="Universitetet i Bergen" />
                 </picture>
               </a>
               <div class="title">Universitetet i Bergen</div>
@@ -63,29 +46,11 @@
             <div class="partner">
               <a href="https://www.uio.no">
                 <picture>
-                  <source
-                    media="(max-width: 809px)"
-                    srcset="/partners/04_uio_segl_pos.svg"
-                  />
-                  <img
-                    src="/partners/uio-logo.svg"
-                    alt="Universitetet i Oslo"
-                  />
+                  <source media="(max-width: 809px)" srcset="/partners/04_uio_segl_pos.svg" />
+                  <img src="/partners/uio-logo.svg" alt="Universitetet i Oslo" />
                 </picture>
               </a>
               <div class="title">Universitetet i Oslo</div>
-            </div>
-            <div class="partner">
-              <a href="https://www.nb.no">
-                <picture>
-                  <source
-                    media="(max-width: 809px)"
-                    srcset="/partners/nb-icon.png"
-                  />
-                  <img src="/partners/nb-logo.png" alt="Nasjonalbiblioteket" />
-                </picture>
-              </a>
-              <div class="title">Nasjonalbiblioteket</div>
             </div>
           </div>
           <n class="container two-column footer-links">
@@ -95,15 +60,11 @@
                 <a href="/om/kontaktinformasjon.html">Kontaktinformasjon</a>
               </div>
               <div>
-                <a href="/om/sok-og-skriv-i-undervisning.html"
-                  >Søk & skriv i undervisning</a
-                >
+                <a href="/om/sok-og-skriv-i-undervisning.html">Søk & skriv i undervisning</a>
               </div>
               <div>
                 <a
-                  href="https://uustatus.no/nb/erklaringer/publisert/c6d9a394-b5ac-48fd-9f1f-0154b2daacbc"
-                  >Tilgjengelighetserklæring</a
-                >
+                  href="https://uustatus.no/nb/erklaringer/publisert/c6d9a394-b5ac-48fd-9f1f-0154b2daacbc">Tilgjengelighetserklæring</a>
               </div>
             </div>
             <div class="align-left">
