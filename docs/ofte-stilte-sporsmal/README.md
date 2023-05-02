@@ -16,18 +16,9 @@ tags:
   - "Fagfellevurdert artikkel"
   - "Peer review"
 
-
-
-
-
-
-
-
 ---
 
-
-
-# Ofte stilte spørsmål 
+# ![](/images/illustrasjoner_faq_500x450.png) Ofte stilte spørsmål 
 
 Denne siden er under utarbeidelse. Flere spørsmål og svar kommer.
 
