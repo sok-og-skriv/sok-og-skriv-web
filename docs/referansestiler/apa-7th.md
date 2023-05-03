@@ -4,10 +4,10 @@ date: "2020-06-17"
 tags: 
   - "Direkte sitat"
   - språkmodeller
-  -AI
-  -KI
-  -"large language models"
-  -"artificial intelligence"
+  - AI
+  - KI
+  - "large language models"
+  - "artificial intelligence"
 ---
 
 # APA 7th
