@@ -995,20 +995,21 @@ Dato må være med i teksten:
 _Ingen innførsel i referanselisten_
 :::
 
-### Språkmodeller (f.eks. ChatGPT, Writesonic mfl.)
+### Kunstig intelligens (f.eks. ChatGPT, Writesonic mfl.)
 
 ::: eksempel Sjekk retningslinjene ved ditt studiested
 Vær oppmerksom på at tekster generert av kunstig intelligens, for eksempel i form av store språkmodeller, er forbundet med etiske problemstillinger, og at bruk i studiesammenheng kan komme inn under bestemmelser om fusk og plagiering. Undersøk hva som er tillatt ved ditt studium hvis du vurderer å benytte en slik tjeneste.
 :::
 
-En KI-generert tekst er ikke mulig for andre å gjenskape. I teksten din bør du beskrive hvordan du har brukt verktøyet, og du bør gjengi det du skrev inn i chatten. Dersom du har et langt svar fra chatten, bør du legge dette ved oppgaven som vedlegg.
 
-Referansen lages på samme måte som for programvare.
+
+
 
 ::: tip Kilden i teksten
 (OpenAI, 2023)
 
-Ved å stille ChatGPT spørsmålet "hva menes med fagfellevurdering?", blir det beskrevet som "en prosess der en artikkel som er skrevet av en forsker blir vurdert av en gruppe eksperter innenfor samme fagområde" (OpenAI, 2023, se vedlegg 1 for svaret i sin helhet).
+En KI-generert tekst er ikke mulig for andre å gjenskape. I teksten din bør du beskrive hvordan du har brukt verktøyet, og du bør gjengi det du skrev inn i chatten. Dersom du har et langt svar fra chatten, bør du legge dette ved oppgaven som vedlegg.
+
 :::
 
 ::: warning Kilden i referanselisten
