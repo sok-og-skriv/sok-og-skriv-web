@@ -16,11 +16,12 @@ tags:
   - "Fagfellevurdert artikkel"
   - "Peer review"
   - ChatGPT
-  - Kunstig intelligens
+  - "Kunstig intelligens"
   - KI
-  - Artificial intelligence
+  - "Artificial intelligence"
   - AI
   - språkmodeller
+  - "Large language models"
 
 
 
