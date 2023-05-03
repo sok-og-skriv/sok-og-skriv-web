@@ -50,9 +50,7 @@ Ask the text questions. Try to “force” it to provide you with answers. Tryin
 When you read the syllabus, you can mostly trust that others have done a thorough source assessment for you. It is nevertheless useful to ask critical questions beyond the content of the syllabus texts, such as: Why is this text on the syllabus? How does this text fit with the subject description and expected learning outcomes of this course?
 
 
-
 ::: exercise Exercise
-
 
 Consider a text you have on the syllabus, and first ask (to familiarise yourself):
   What is the theme?
@@ -62,7 +60,6 @@ You can then go more in-depth and find answers to questions such as:
   What is the research question?
   What does the author think is the best answer to it?
   How does the author arrive at this answer?
-
 :::
 
 
