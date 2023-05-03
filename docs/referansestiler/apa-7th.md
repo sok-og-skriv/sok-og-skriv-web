@@ -217,7 +217,7 @@ Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke
 I EndNote:
 
 Legges inn som "Book".
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator. Opplysninger om originalutgave legges inn manuelt. (Gjøres når teksten er ferdig ved å trykke "convert to plain text").
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title,  Publisher, Translator, Original Publication (kun årstall i sistnevnte felt; det kommer med prefiks "Opprinnelig utgitt").
 
 I Zotero:
 
