@@ -31,7 +31,6 @@ tags:
 
 ---
 
-# ![](/images/illustrasjoner_faq_500x450.png) Ofte stilte spørsmål 
 
 # Ofte stilte spørsmål 
 
