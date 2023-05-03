@@ -3,6 +3,11 @@ title: "APA 7th"
 date: "2020-06-17"
 tags: 
   - "Direkte sitat"
+  - språkmodeller
+  -AI
+  -KI
+  -"large language models"
+  -"artificial intelligence"
 ---
 
 # APA 7th
@@ -995,13 +1000,13 @@ Dato må være med i teksten:
 _Ingen innførsel i referanselisten_
 :::
 
-### Kunstig intelligens (f.eks. ChatGPT, Writesonic mfl.)
+### Kunstig intelligens (f.eks. store språkmodeller som ChatGPT, Writesonic mfl.)
+
+Under finner du eksempel på hvordan du kan referere til KI-generert tekst. Dersom du bruker KI-genererte bilder, kan du lese mer i Norsk APA-manual s. 64.
 
 ::: eksempel Sjekk retningslinjene ved ditt studiested
 Vær oppmerksom på at tekster generert av kunstig intelligens, for eksempel i form av store språkmodeller, er forbundet med etiske problemstillinger, og at bruk i studiesammenheng kan komme inn under bestemmelser om fusk og plagiering. Undersøk hva som er tillatt ved ditt studium hvis du vurderer å benytte en slik tjeneste.
 :::
-
-
 
 
 
@@ -1013,10 +1018,11 @@ En KI-generert tekst er ikke mulig for andre å gjenskape. I teksten din bør du
 :::
 
 ::: warning Kilden i referanselisten
-Rettighetshaver/Firma. (År). *Tittel på programvare* (versjon) [Stor språkmodell]. https://xxxxx
+Rettighetshaver/Firma. (År). *Tittel på programvare* (versjon) [Stor språkmodell].  
+  https://xxxxx
 
 	
 OpenAI. (2023). *ChatGPT* (20. april-versjon) [Stor språkmodell]. https://chat.openai.com/
 :::
 
-Les mer på [APA-bloggen](https://apastyle.apa.org/blog/how-to-cite-chatgpt).
+Les mer på APA-bloggen [How to cite ChatGPT (apa.org)](https://apastyle.apa.org/blog/how-to-cite-chatgpt).
