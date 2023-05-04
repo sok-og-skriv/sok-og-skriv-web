@@ -14,7 +14,7 @@ tags:
 
 APA står for American Psychological Association. Foreningen har utviklet en typisk forfatter-årstallstil som er vanlig innenfor blant annet psykologi, økonomi, pedagogikk, helsefag og realfag.Våre anbefalinger bygger på [Norsk APA-manual](https://www.unit.no/tjenester/norsk-apa-referansestil), som er utarbeidet av representanter fra Kildekompasset, Søk & Skriv, NTNU, OsloMet og UiT. Skriver du på engelsk, eller har fått beskjed om å bruke en engelsk manual, anbefaler vi å sjekke [APA-bloggen](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
 
-## Henvisninger i teksten 
+## Hvordan vise til kilden i teksten? 
 
 I teksten oppgis kildens forfatter(e), årstall og eventuelt sidetall. Merk at sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av parafrasering/indirekte sitat. Henvisning til flere kilder i samme parentes skilles med semikolon. Merk at &-tegnet kun brukes i parenteser og referanseliste. I teksten brukes «og».
 
@@ -46,15 +46,9 @@ Uttrykket «bærekraftig utvikling» kan ha mange ulike betydninger (Hume & Barr
 
 :::
 
-## Referanselisten
+## Hvordan organisere referanselista?
 
-Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: forfatter, publiseringstidspunkt, verktittel og verkets kilde. Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
-
-Oppsettet varierer etter dokumenttype. Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler og tidsskriftartikler ikke skal ha det. Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller LP-plater, kan ha en hakeparentes samme sted som angir verkets format.
-
-For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
-
-- Referanselisten skal ordnes alfabetisk på forfatternes etternavn.
+- Referanselista skal ordnes alfabetisk på forfatternes etternavn.
 - Har en forfatter skrevet flere verk, skal de ordnes kronologisk med eldste årstall først.
 - Har en forfatter skrevet flere verk i samme år brukes a, b, c, etter årstallet for å skille arbeidene: 2018a, 2018b osv.
 - Ved referanser som skrives over flere linjer skal alle linjene ha innrykk unntatt den første (hengende innrykk).
@@ -82,11 +76,32 @@ _I referanselista tar du med de 19 første forfatterne etterfulgt av utelatelses
 
 :::
 
-## Eksempler
+## Hvordan bygge en referanse?
+
+Med unntak for enkelte offentlige dokumenter, består en referanse i APA 7th av fire deler i fast rekkefølge: 
+
+- forfatter 
+- publiseringstidspunkt 
+- verktittel 
+- verkets kilde
+
+ Disse gir svar på spørsmålene om _hvem_ som er ansvarlig for verket, _når_ verket er publisert, _hva_ verket heter og _hvor_ det kan finnes.
+
+ 
+
+::: tip Oppsettet varierer etter dokumenttype
+
+ Selvstendige utgivelser som bøker, rapporter, filmer, TV-serier og kunstverk skal ha tittel i kursiv, mens dokumenter som inngår i et større hele, som kapitler og tidsskriftartikler ikke skal ha det. Bøker og rapporter kan noen ganger ha en parentes like etter tittelen som oppgir utgave, bind eller sidetall (for enkeltkapitler) eller serienummer for rapporter og retningslinjer. Mer uvanlige referanser, som bilder, brosjyrer eller kart, kan ha en hakeparentes samme sted som angir verkets format.
+
+For selvstendige dokumenter vil referansens _hvor_ være utgiver for fysiske utgivelser, og DOI-nummer eller URL for elektroniske publikasjoner. For dokumenter som inngår i en større utgivelse, som et tidsskrift eller en redigert bok, vil denne inngå i referansens _hvor_. Variasjonen her er stor, og mer inngående beskrevet i eksempelsamlingen under.
+:::
+
 
 ::: warning Flere eksempler
 For andre eksempler enn de listet opp nedenfor, sjekk APA-manualen som du finner på [denne sida](https://www.unit.no/tjenester/norsk-apa-referansestil).
 :::
+
+
 ## Bøker
 ### Bok
 
@@ -128,7 +143,7 @@ De seks medisinske kjernespørsmålene (Nortvedt et al., 2012, s. 35) bestemmer 
 
 <span class="ref">Nortvedt, M. W., Jamtvedt, G., Graverholt, B., Nordheim, L.V. & Reinar, L.M. (2012). _Jobb kunnskapsbasert! En arbeidsbok_ (2. utg.) Akribe.</span>
 
-For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselisten. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
+For bøker med inntil 20 forfattere oppgis alle forfatternavn i referanselista. For bøker med 21 eller forfattere nevnes de fire første og den siste med en ellipse imellom, slik: Forfatter, A. A., Forfatter, B. B., Forfatter, C. C., Forfatter, D. D., ... Forfatter, Ø. Ø.
 ::: 
 
 

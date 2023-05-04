@@ -134,17 +134,24 @@ Førland (1996, s. 11) hevder at alle studenter innenfor samfunnsfag og humanior
 Den akademiske sjangeren kjennetegnes av drøfting, og alle studenter innenfor samfunnsfag og humaniora må lære seg den (Førland, 1996, s. 11)
 :::
 
-### Sekundærreferansar
+### Sekundærkjelder
 
 Hovudregelen er at du kun skal vise til verk du har lese. Om originalkjelda ikkje er tilgjengeleg, eller er på språk du ikkje forstår, kan du vise til andre si omtale av kjelda:
 
 ::: eksempel Eksempel
 
-"Det er ikke tilfeldig at det moderne menneske skriver 'med' en maskin" (Martin Heidegger, i Johansen, 2003, s. 80).
+I teksten:
 
-Kjelde: Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacus. 
+"Det er ikke tilfeldig at det moderne menneske skriver 'med' en maskin" (Martin Heidegger, sitert i Johansen, 2003, s. 80).
+
+I referanselista:
+
+Johansen, A. (2003). _Samtalens tynne tråd: skriveerfaringer._ Spartacus. 
 
 :::
+
+Dersom du kjenner til publikasjonsåret for primærkjelda, skal dette også inkluderast i teksten. 
+
 
 ## Notar og vedlegg
 

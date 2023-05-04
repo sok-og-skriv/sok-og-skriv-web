@@ -56,7 +56,20 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
       <p>Her finner du eksempler på uttrykk og vendinger som er mye brukt i akademiske tekster</p>
     </div>
   </div>
+
+  <div class="card">
+    <div class="image">
+      <a href="/frasebank/"><img src="/images/illustrasjoner_faq_500x450.png" alt="Kjeldebruk"></a>
+    </div>
+    <div class="content">
+      <h2><a href="/ofte-stilte-sporsmal/">Ofte stilte spørsmål</a></h2>
+      <p>Finn svar på det alle andre lurer på!</p>
+    </div>
+  </div>
 </div>
+
+
+  
 
 <div class="card references">
   <!-- <div class="image">
