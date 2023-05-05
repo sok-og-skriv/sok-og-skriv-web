@@ -1017,7 +1017,8 @@ _Ingen innførsel i referanselisten_
 
 ### Kunstig intelligens (f.eks. store språkmodeller som ChatGPT, Writesonic mfl.)
 
-Under finner du eksempel på hvordan du refererer til KI-generert tekst. Dersom du bruker KI-genererte bilder, kan du lese mer i [Norsk APA-manual](https://www.unit.no/tjenester/norsk-apa-referansestil) s. 64.
+Eksempelet under viser hvordan du refererer til KI-generert tekst. Dersom du bruker KI-genererte bilder, kan du lese mer i [Norsk APA-manual](https://www.unit.no/tjenester/norsk-apa-referansestil) s. 64.
+
 
 ::: eksempel Sjekk retningslinjene ved ditt studiested
 Vær oppmerksom på at tekster generert av kunstig intelligens, for eksempel i form av store språkmodeller, er forbundet med etiske problemstillinger, og at bruk i studiesammenheng kan komme inn under bestemmelser om fusk og plagiering. Undersøk hva som er tillatt ved ditt studium hvis du vurderer å benytte en slik tjeneste.
@@ -1040,6 +1041,8 @@ https://xxxxx</span>
 <span class="ref">OpenAI. (2023). *ChatGPT* (20. april-versjon) [Stor språkmodell]. https://chat.openai.com/</span>
 :::
 
+::: details I EndNote og Zotero
+
 I EndNote:
 
 Legges inn som "Dataset".
@@ -1049,5 +1052,7 @@ Fyll ut feltene: Investigators, Year, Title, Version, Data Type og URL
 I Zotero:
 
 Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
+
+:::
 
 Les mer på APA-bloggen [How to cite ChatGPT (apa.org)](https://apastyle.apa.org/blog/how-to-cite-chatgpt).
