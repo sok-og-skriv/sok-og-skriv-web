@@ -150,7 +150,7 @@ Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I sl
 :::
 
 
-### Ingen kategorier passer?
+### Ingen kategorier passer
 
 ::: oppgave Mer om dette:
 
@@ -175,7 +175,13 @@ Du trenger fire typer opplysninger for å lage en referanse:
 Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
 :::
 
+### Kapittel i redigert bok
 
+::: oppgave Mer om dette:
+
+ [Du finner svar på spørsmålet her](https://www.sokogskriv.no/referansestiler/apa-7th.html#kapittel-i-redigert-bok)
+
+:::
 
 ### Sekundærkilde/sekundærreferanse (sitat hentet fra en annen kilde)
 
