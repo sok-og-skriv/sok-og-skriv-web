@@ -189,7 +189,7 @@ Kvam skal ikke oppføres i referanselista fordi kilden ikke er lest.
 
 ::: oppgave Mer om dette:
 
- [Du finner flere eksempel her](https://www.sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sekund%C3%A6rreferansar)
+ [Du finner flere eksempel her](https://www.sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sekund%C3%A6rkjelder)
 
 :::
   
@@ -222,6 +222,22 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 ... (Norsk institutt for vannforskning, 2022, avsn. 4)
 :::
+
+### Utgave eller opplag
+
+
+
+Når en bok kommer i **ny utgave eller revidert opplag**, betyr det at innholdet er endra siden sist, og opplysninger om dette skal med i referanselista. Merk at det ikke skal med utgaveopplysninger om 1. utgave, og at du alltid skal vise til den utgaven du har lest.
+
+::: warning Eksempel:
+Dalland, O. (2020). _Metode og oppgaveskriving (7. utgave.)_. Gyldendal.
+
+
+
+
+:::
+
+Ett **nytt opplag** betyr at boka er trykt opp i flere eksemplarer uten at innholdet er forandra. Opplysninger om opplag skal derfor ikke med i referanselista. 
 
 
 
