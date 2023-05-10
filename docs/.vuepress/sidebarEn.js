@@ -10,7 +10,6 @@ module.exports = {
     'ways-of-reading',
     'reading-and-writing',
     'study-groups',
-    'argumentation-in-text',
     'time-management'
   ],
   '/en/writing/': [
