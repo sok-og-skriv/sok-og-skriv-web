@@ -1026,14 +1026,14 @@ Vær oppmerksom på at tekster generert av kunstig intelligens, for eksempel i f
 
 
 
-::: tip Kilden i teksten
+::: tip I teksten
 (OpenAI, 2023)
 
 En KI-generert tekst er ikke mulig for andre å gjenskape. I teksten din bør du beskrive hvordan du har brukt verktøyet, og du bør gjengi det du skrev inn i chatten. Dersom du har et langt svar fra chatten, bør du legge dette ved oppgaven som vedlegg.
 
 :::
 
-::: warning Kilden i referanselisten
+::: warning I referanselisten
 <span class="ref">Rettighetshaver/Firma. (År). *Tittel på programvare* (versjon) [Stor språkmodell].  
 https://xxxxx</span>
 
