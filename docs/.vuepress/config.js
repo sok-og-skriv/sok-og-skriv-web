@@ -285,7 +285,8 @@ module.exports = {
       'script',
       {
         async: true,
-        src: '/js/resetCacheForUpdate.js'
+        src: 'https://umami-eta-bice.vercel.app/script.js',
+        'data-website-id': '6239d749-54fc-45b2-a542-d350f8bd061c',
       },
     ],
     ['script', { src: '/js/unregister-sw.js' }],
@@ -295,7 +296,7 @@ module.exports = {
       "meta",
       { name: "viewport", content: "width=device-width, initial-scale=1" },
     ],
-    ["link", { rel: "manifest", href: "/manifest.json" }],
+    /* ["link", { rel: "manifest", href: "/manifest.json" }], */
     ["meta", { name: "theme-color", content: "#4daebf" }],
     ["link", { rel: "mask-icon", href: "/sos-logo.svg", color: "#3eaf7c" }],
   ],
