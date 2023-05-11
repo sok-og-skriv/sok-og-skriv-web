@@ -296,7 +296,7 @@ module.exports = {
       "meta",
       { name: "viewport", content: "width=device-width, initial-scale=1" },
     ],
-    ["link", { rel: "manifest", href: "/manifest.json" }],
+    /* ["link", { rel: "manifest", href: "/manifest.json" }], */
     ["meta", { name: "theme-color", content: "#4daebf" }],
     ["link", { rel: "mask-icon", href: "/sos-logo.svg", color: "#3eaf7c" }],
   ],
