@@ -40,7 +40,7 @@ Then look at the connections. Are the points made in the correct order? Is there
 
 In an empirical text, discussion normally comes after the results, and brings together what has gone before (background, theory, method and findings). See more about discussion under [the IMRaD model](/en/writing/the-imrad-format.html). 
 
-Based on the discussion, draw conclusions. A conclusion is a type of inference. Conclusions must be valid, that is, they must follow logically from what they are based on. In empirical, quantitative studies, validity concerns the degree to which research measures what it intends to measure. 
+Based on the discussion, draw conclusions. A conclusion is a type of inference. Conclusions must be valid, that is, they must follow logically from what they are based on. In empirical, quantitative studies, validity concerns the degree to which research measures what it is intended to measure. 
 
 ## The building of paragraphs: the T-E-R model 
 
