@@ -229,14 +229,14 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 ... (Norsk institutt for vannforskning, 2022, avsn. 4)
 :::
 
-### Utgave eller opplag
+### Utgave eller opplag?
 
 
 
 Når en bok kommer i **ny utgave eller revidert opplag**, betyr det at innholdet er endra siden sist, og opplysninger om dette skal med i referanselista. Merk at det ikke skal med utgaveopplysninger om 1. utgave, og at du alltid skal vise til den utgaven du har lest.
 
 ::: warning Eksempel:
-Dalland, O. (2020). _Metode og oppgaveskriving_ (7. utgave.). Gyldendal.
+Dalland, O. (2020). _Metode og oppgaveskriving_ (7. utg.). Gyldendal.
 
 Skoglund, E. (2018). _Anatomi og fysiologi: Kort og godt_ (Rev. oppl.). Fenris forlag.
 
