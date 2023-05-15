@@ -115,7 +115,7 @@ For at dataene i en empirisk oppgave skal bli til funn og resultater, må de ana
 
 Sammen med drøftingen er analysen oppgavens høydepunkt. Her redegjør du for funn, og behandler disse på en systematisk – metodisk – måte. Leserens forventninger bygges opp i innledningen og gjennom redegjørelsene i teori- og metodekapitlet. Når funnene presenteres og analyseres skal disse forventningene innfris.
 
-Å analysere betyr å skille mellom ulike elementer eller dimensjoner i et materiale – å skjelne likt fra ulikt. Når du skiller mellom fenomener, setter du teorien i arbeid. Men akkurat _hvordan_ selve analysen skal se ut, er et kreativt arbeid ,ed utgangspunkt i et gitt materiale. Det kan derfor ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. 
+Å analysere betyr å skille mellom ulike elementer eller dimensjoner i et materiale – å skjelne likt fra ulikt. Når du skiller mellom fenomener, setter du teorien i arbeid. Men akkurat _hvordan_ selve analysen skal se ut, er et kreativt arbeid med utgangspunkt i et gitt materiale. Det kan derfor ta tid å finne ut hvordan du best presenterer og organiserer funnene dine. 
 
 ::: oppgave Hvordan skal analysen se ut? 
 Les gjerne andres oppgaver for eksempler på analyse. Godkjente masteroppgaver finner du i institusjonelle arkiver ved universiteter og høyskoler. 
