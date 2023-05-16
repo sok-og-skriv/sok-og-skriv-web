@@ -64,7 +64,7 @@ Recommended reading: [Passive voice](https://writingcenter.unc.edu/handouts/pass
 There are many ways to create flow in a text. This is often called text binding. Text binding is used to create the right expectations in the reader: a "reading contract" where the reader's expectations of the task are met. The opening is particularly important: you should not promise more than you can keep, but not too little either. The art is to show that what is coming is interesting, and that the presentation is adapted to the content. Below are some examples of text binding (NB: the categories are partly overlapping):
 
 -	**Outline**: structured overview of the content.
-•	Signposts for the reader: clarify the structure of the text, i.e. what comes when, what is the purpose of the various sections, and so. For example: 'Now I have considered X, in the next section I will address Y.'
+-	**Signposts for the reader**: clarify the structure of the text, i.e. what comes when, what is the purpose of the various sections, and so. For example: 'Now I have considered X, in the next section I will address Y.'
 -	**Subheadings**: choose headings that reflect the content of the various sections. This provides a neat and informative overview.
 -	**Transitions**: writing transitioning text between different sections and chapters can be used to help the reader move on, and create the right expectations for what is to come.
 -	**Meta-comments**: the author’s comments on the text. Examples: 'as we have seen”/“as has been seen', 'now I will explain', 'as I argue'.
