@@ -17,7 +17,7 @@ Look at scholarly or scientific articles to see how referencing works in practic
 
 # What should be referenced?
 
-For all academic content that is not based on your own material, your own reasoning or opinions, the source must be stated in the text and in the reference list. This can, for example, be other people's arguments, opinions and assessments, numerical material, models, results and conclusions. Remember that all use of figures, tables, sound and images is linked to [copyright](/en/sources-and-referencing/how-to-cite.html/##copyright).
+For all academic content that is not based on your own material, your own reasoning or opinions, the source must be stated in the text and in the reference list. This can, for example, be other people's arguments, opinions and assessments, numerical material, models, results and conclusions. Remember that all use of figures, tables, sound and images is linked to copyright (see below).
 
 ## General Truths
 
@@ -27,7 +27,7 @@ _On 17 May 1814, all representatives at Eidsvoll signed a new constitution for t
 
 However, if you write about something that is not generally known, you must state where you get the information from.
 
-It can be difficult to assess how far the documentation requirement should go. Uncontroversial claims that are the knowledge base within your subject do not need documentation. If you are in doubt, ask the head of court. Then you avoid being suspected of [plagiarism](/en/sources-and-referencing/how-to-cite.html/#avoid).
+It can be difficult to assess how far the documentation requirement should go. Uncontroversial claims that are the knowledge base within your subject do not need documentation. If you are in doubt, ask the head of court. Then you avoid being suspected of plagiarism (see below).
 
 ## Lectures
 
@@ -69,7 +69,7 @@ For more on copyright, see [DelRett](https://delrett.no/), which is a public gui
 
 # References and quotations
 
-Academic publications have formal rules for citation and referencing that vary between different fields, journals, and so on. There are for example standard abbreviatons that are commonly used in citations. 
+Academic publications have formal rules for citation and referencing that vary between different fields, journals, and so on. There are, for example, standard abbreviatons that are commonly used in citations. 
 
 ::: details Abbreviations 
 
@@ -88,15 +88,15 @@ Below you will find some examples of direct and indirect citations using the APA
 
 ## Quotations 
 
-When you use an excerpt from a text in your own text, it is called a quotation. There are several ways to do this. The examples below are based on the referencing style APA 7th edition.
+When you use an excerpt from a text in your own text, it is a quotation. There are several ways to do this. The examples below are based on the referencing style APA 7th edition.
 
 
 ### Direct quotations 
-In a proper/direct quotation you reproduce exactly (word for word, including emphasis etc.) what another author has written. Excerpts consisting of less than 40 words (or three lines) are typed directly into your text and indicated by quotation marks (“...”).
+In a direct quotation, you reproduce exactly (word for word, including emphasis, etc.) what another author has written. Excerpts consisting of less than 40 words (or three lines) are typed directly into your text and indicated by quotation marks ('blah' or "blah").
 
 ::: eksempel Example
 
-“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is _discussion_” (Førland, 1996, p.11).
+'Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is _discussion_' (Førland, 1996, p.11).
 
 Source: Førland, T.E. (1996). _Drøft! Lærebok i oppgaveskriving_. Oslo: Gyldendal.
 ::: 
@@ -105,37 +105,37 @@ Quotations of more than 40 words (in the APA style) should be placed in their ow
 
 ### Paraphrasing 
 
-When citing another author, you may wish to reformulate their ideas using your own words. This form of indirect quotation can help create a better flow in your text. When you paraphrase, you are rephrasing what another author has written. You should change both the words and the word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing the underlying ideas in any way, and that the meaning of the original text is retained. 
+When citing an author, you may wish to reformulate their ideas using your own words. This form of indirect quotation can help create a better flow in your text. When you paraphrase, you are rephrasing what another author has written. You should change both the words and the word order, and rewrite what they have said using your own language. However, you should be careful that you are not changing the underlying ideas in any way, and that the meaning of the original text is retained. 
 
 ::: eksempel Example 
 
 Førland (1996, p. 11) points out that students within the human sciences must learn to write in an academic genre. 
 
-The academic genre is characterized by discussion, and all students with the human sciences must learn to use it according to Førland (1996, p. 11).
+The academic genre is characterised by discussion, and all students with the human sciences must learn to use it according to Førland (1996, p. 11).
 ::: 
 
 ### Making changes to a quotation 
 
-Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts that are unnecessary for your argument or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be emphasised. If you have a longer citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
+Just as with paraphrasing, sometimes it might be necessary to make smaller changes to a quotation. Examples of such changes might be removing parts that are unnecessary for your argument or adding words to help the reader understand the context of the quote. The main principle when making changes is that all additions or omissions should be emphasised. If you have a long citation with irrelevant passages, it may be appropriate to completely remove parts of the citation. This must be clearly marked, for example with an ellipsis (three dots) in square brackets […] or normal parentheses (…). Omissions of just one or two words can be marked with just an ellipsis and no brackets, while parentheses should be used for longer omissions.  
 
 ::: eksempel Example
-“Students ... must write within an academic genre. The distinctive feature of this genre is _discussion_” (Førland, 1996, p. 11).
+'Students ... must write within an academic genre. The distinctive feature of this genre is _discussion_' (Førland, 1996, p. 11).
 ::: 
 
 If you want to add or replace something in a citation, this should be highlighted by using brackets.
 
 ::: eksempel Example
-“Students (and researchers) [in the human sciences] must write within an academic genre” (Førland, 1996, p.11). 
+'Students (and researchers) [in the human sciences] must write within an academic genre' (Førland, 1996, p.11). 
 ::: 
 
-If you add or remove italics in the quotation, add “emphasis added” or "emphasis removed" after the page number. 
+If you add or remove italics in the quotation, add 'emphasis added' or 'emphasis removed' after the page number. 
 
 ::: eksempel Example 
 
-“Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion” (Førland, 1996, p.11, emphasis removed).
+'Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion' (Førland, 1996, p.11, emphasis removed).
 ::: 
 
-In case of errata in the original, this can be marked by the Latin \[_sic_\], which means "thus was it written". _Sic._ can also mean that the quotation is unusual, but correctly reproduced.
+In case of errata in the original, this can be marked by the Latin \[_sic_\], which means 'thus was it written'. _Sic._ can also mean that the quotation is unusual, but correctly reproduced.
 
 
 ### Secondary references
@@ -151,7 +151,7 @@ There are three stages that the relationship between women and men have gone thr
 ### Notes and appendices
 - Limit use of notes.
 - Notes can be used for additional information that does not fit naturally with the rest of your text. They provide information that is not essential for understanding the main content.
-- You can choose between footnotes at the bottom of a page or endnotes at the back of the chapter/assignment. Notes are normally set in a smaller font size than the main text.
+- You can choose between footnotes at the bottom of a page, or endnotes at the back of the chapter/assignment. Notes are normally set in a smaller font size than the main text.
 - Exactly how you make references to notes will depend on what referencing style you are using. 
 - Appendices can be tables or figures which are included in the assignment, questionnaires, observation forms, interview guides and other such additions which are not included in the main body of your text. Appendices must be numbered and included after the reference list.
 
