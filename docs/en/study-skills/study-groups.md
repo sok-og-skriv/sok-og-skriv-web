@@ -58,7 +58,8 @@ Arrange to meet regularly, and always meet prepared. As member of a writing grou
   src="/images/kategori_studier5-1.jpg"
   alt="Study group discussing an academic text"
   caption="Study group. Photo: NHH"
-  type="right"
-/>
+  />
+
+
 
 

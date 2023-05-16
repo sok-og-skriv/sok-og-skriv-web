@@ -120,7 +120,7 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 ::: warning Eksempel: 
 (Johansen, 2005, 2018)
 
-(Hatlevoll, 2011, s. 32, 2022,s. 12)
+(Hatlevoll, 2011, s. 32, 2022, s. 12)
 :::
 
 
@@ -128,7 +128,7 @@ Kildene skal stå i kronologisk rekkefølge, eldste til nyeste. Sett komma mello
 ###  Forfatter mangler
 
  
-Hvis du ikke finner informasjon om forfatter, skriver du tittel der det vanligvis ville stått forfatter i henvisningen i teksten og i referansen. Dreier det seg om en bok, setter du tittelen i kursiv. Gjelder det en artikkel, eller en annen mindre del av ett større verk bruker du anførselstegn. 
+Hvis du ikke finner informasjon om forfatter, skriver du tittel der det vanligvis ville stått forfatter i henvisningen i teksten og i referansen. Dreier det seg om en bok, setter du tittelen i kursiv. Gjelder det en artikkel, eller en annen del av et større verk, bruker du anførselstegn. 
 
 ::: warning Eksempel:
 
@@ -209,7 +209,7 @@ Sidetall er obligatorisk ved bruk av direkte sitat og anbefalt ved bruk av paraf
 Viser du til tekst over flere sider, oppgir du første og siste side.
 
 ::: warning Eksempel: 
-(Dalland 2020, s. 42-51)
+(Dalland, 2020, s. 42-51)
 :::
 
   
@@ -217,7 +217,7 @@ Viser du til tekst over flere sider, oppgir du første og siste side.
 
 ### Sidetall mangler
 
-Noen kilder mangler sidetall, det kan være på nettsider, i elektroniske dokumenter eller i enkelte artikler. 
+Noen kilder mangler sidetall; det kan være nettsider, elektroniske dokumenter eller enkelte artikler. 
 
 Dersom du ønsker å bruke direkte sitat, bør du likevel vise til den aktuelle delen av teksten. 
 Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, paragrafnummer (lover), artikkel, tabell, figur eller lignende. Om ingen av disse er aktuelle, kan du telle avsnitt selv. Det viktigste er at leseren kan finne tilbake til det du siterer.
@@ -253,7 +253,7 @@ Skoglund, E. (2018). _Anatomi og fysiologi: Kort og godt_ (Rev. oppl.). Fenris f
 
 ###  År mangler
 
-Det er ikke alle dokument som har årstall. 
+Det er ikke alle dokumenter som har årstall. 
 
 På nettsider kan du lete etter årstall for siste oppdatering. I bøker, artikler og rapporter finner du som oftest utgivelsens årstall på tittelsiden. Dersom det ikke er mulig å finne, bruker du forkortelsen u.å. (uten år). 
 

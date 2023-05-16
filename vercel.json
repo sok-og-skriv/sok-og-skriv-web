@@ -1,63 +1,13 @@
 {
   "headers": [
     {
-      "source": "/",
-      "headers": [
-        {
-          "key": "Clear-Site-Data",
-          "value": "*"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "no-cache, no-store, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/:path*.html",
-      "headers": [
-        {
-          "key": "Clear-Site-Data",
-          "value": "*"
-        }
-      ]
-    },
-    {
-      "source": "/:path*/",
-      "headers": [
-        {
-          "key": "Clear-Site-Data",
-          "value": "*"
-        }
-      ]
-    },
-    {
-      "source": "/:path*",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "no-cache, no-store, must-revalidate"
-        }
-      ]
-    },
-    {
       "source": "/images/",
-      "headers": [
+      "headers" : [
         {
-          "key": "Cache-Control",
-          "value": "no-cache, no-store, must-revalidate"
+          "key" : "Cache-Control",
+          "value" : "s-maxage=500"
         }
       ]
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/?cache-bust=1"
-    },
-    {
-      "source": "/:path*",
-      "destination": "/:path*?cache-bust=1"
     }
   ]
 }

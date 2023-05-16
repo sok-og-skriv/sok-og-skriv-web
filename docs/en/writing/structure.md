@@ -9,63 +9,69 @@ The structure is the text’s ‘skeleton’. It keeps the different parts toget
 
 An assignment can be organised in various ways. Early on in the course of your studies, you will normally be given so-called ‘describe and discuss’ assignments. In the health sciences and the natural sciences, the [IMRAD model](/en/writing/the-imrad-format.html#introduction) (Introduction, Methods and Materials, Results and Discussion) is the most common structure . In the social sciences and the humanities, you can organise your text more freely. 
 
-::: eksempel A good assignment is characterised by the following
+::: eksempel Characteristics of a good assignment:
 
-* All questions posed in the assignment are answered or explored 
-* It is always clear to the reader in which direction the writer is going with the paper 
-* Every element described or addressed has a clear function 
-* The chosen theory is applied to analyse/interpret the data (if relevant) 
-* The methodology is concrete and verifiable
-* The findings are clearly described 
-* The discussion connects empirical data, theory and methodology 
-* The conclusion follows clearly from what has been previously laid out 
+* All questions raised have been answered or clarified. 
+* The reader understands where the author is going at all times.
+* Everything that is introduced and explained has a function. 
+* Theory, if used, analyses/interprets data. 
+* The method chapter is concrete. 
+* The findings are clearly described. 
+* The discussion brings together empirical evidence, theory and method. 
+* The conclusion follows from what had been discussed. 
 :::
 
- 
 
 ## One thing at a time 
 
-In order to write efficiently and structured, it is important to distinguish between various types of writing acts, such as  _presentation, interpretation, analysis_, and _discussion_. Focus on one thing at a time and avoid mixing up presentation and discussion in the same statement. This will help you structure your text.  
+In order to be able to write efficiently and in a structured way, it is important to distinguish between different types of writing actions, such as  explanation, interpretation, analysis, and discussion. Deal with one thing at a time, and avoid mixing for example explanation and discussion. In this way,you will create a more orderly text.  
 
-In a theoretical text, [argumentation](/en/writing/argue-explain-discuss.html) and discussion are crucial elements. You can either discuss ideas and concepts underway, or you can leave a separate chapter for the discussion. The latter is the most common in empirical texts. Regardless of what you decide, make sure that you do not describe and discuss in one turn.
+In a theoretical assignment, [argumentation](/en/writing/argue-explain-discuss.html) and discussion are crucial elements. Either discuss ideas and concepts along the way, or place the discussion in a separate chapter. The latter is the most common in empirical work. In any case, ensure that you do not describe and discuss at the same time.
 
-It is also important to indicate what is a rendering of other peoples’ ideas and what is your own interpretation and argumentation. In so doing, you will help the reader follow your line of thought, and you show that you are able to make certain reservations when necessary. This is part of the researcher’s ideal concerning reflexivity and objectivity. 
+It is also important to signal what is the reproduction of other peoples’ ideas, and what is your own interpretation of and argumentation around those ideas. The reader ought to see the distinction; this is part of research ethics. The reader should also be able to follow your reasoning concerning the work of others. You must be able to show you can be objective, and that you can hedge (make non-committal statements) when necessary.
 
-::: oppgave Reverse Outline 
+::: oppgave Reverse outline 
 
-If you are in doubt about whether your text has a clear structure, try to ‘tag’ your paragraphs with Post-it notes or something similar. Write down the main point of each paragraph as one sentence or as keywords on the Post-it note. If your paragraphs have more than one main point, you may consider splitting them up or moving some of the contents elsewhere in the text. Whatever is logically connected should stand together in the same paragraph.  
+It is possible to make an outline of a text even after you have written it. If you wonder whether the text has a clear structure, ‘tag’ paragraphs with, for example, Post-it notes. Note the point made in each paragraph, in keywords. If a paragraph makes more than one point, you can consider splitting it, or moving content. What belongs together logically should also stand together.  
 
-When you have ‘tagged’ all your paragraphs, you can start looking for coherence. Are your points arranged in the right order? Should any of them be organised differently? Move the Post-it notes around and try out alternative ways of organising your points until you are happy with the structure. 
+Then look at the connections. Are the points made in the correct order? Is there soimething that needs to be moved? Use the Post-it notes and try this. 
 
 :::
 
-In an empirical text, the discussion normally follows the presentation and brings together what has been said earlier in the text (background, theory, method and findings). You can read more about the discussion part under [the IMRaD model](/en/writing/the-imrad-format.html). 
+In an empirical text, discussion normally comes after the results, and brings together what has gone before (background, theory, method and findings). See more about discussion under [the IMRaD model](/en/writing/the-imrad-format.html). 
 
-You can draw conclusions based on the discussion. Conclusions must be valid; in other words, they should follow logically from the argumentation presented in the discussion. In empirical, quantitative texts, this is called validity. 
+Based on the discussion, draw conclusions. A conclusion is a type of inference. Conclusions must be valid, that is, they must follow logically from what they are based on. In empirical, quantitative studies, validity concerns the degree to which research measures what it is intended to measure. 
 
-## How to construct a paragraph: The T-E-R model 
+## The building of paragraphs: the T-E-R model 
 
-Below follows a basic ‘recipe’ for how to structure a paragraph. Keep in mind, however, that good writing does not necessarily mean following a particular recipe. Recipes, models etc. can nevertheless be an inspiration when you create your own style of writing.     
+Below follows a basic ‘recipe’ for argumentation in a paragraph. The formula can also be used in non-argumentative paragraphs. Remember, however, that writing well does not mean following a specific recipe, but using recipes, role models, and so on can be inspiring for shaping one's own expression. Certainly, if a paragraph is not working, the T-E-R model can be used to help fix it.    
 
-**Topic – What is this about?**
+**T for Topic – what is this about?**
 
-The first thing you need to clarify in a paragraph is what it is about, its topic. The first sentence of the paragraph should therefore be a ‘topic sentence’ showing what the paragraph concerns. The topic sentence could be a statement, or it could lead up to a statement that you elaborate and argue for in the rest of the paragraph. 
+The first thing that must be clarified when writing a paragraph is what it is about, that is, the topic. The first sentence in a paragraph should therefore be a ‘topic sentence’ that shows what the paragraph is about. The topic sentence can be an assertion, or it can lead to an assertion that then must be elaborated upon and justified. 
 
-**Elaboration – How and why** 
+The topic can be a bridge to the preceding paragraph, linking known information to new, or it can start something new. 
 
-In an academic text, you are expected to support and provide evidence for your statements and arguments. Evidence can be both empirical (research data, surveys, facts and verifiable statements) or theoretical. Weakly founded arguments or unsupported statements cannot be discussed, and they therefore fall under the category of speculation or guesswork. In fact, it is precisely the foundations and reasons for your arguments that should form the basis of your discussion – are they good or bad? Are there other possible explanations? One way of exploring and supporting your arguments could be to demonstrate your points by way of examples. 
+As a rule of thumb, there ought only be one topic per paragraph.
 
-**Relevance – What does this mean?**
+**E for Elaboration – how and why** 
 
-The relevance of an argument becomes particularly visible by the use of examples. Through examples, you can demonstrate how you understand the topic under discussion in practice, and you can include nuances evoked in the reader through recognition and associations. A well-chosen example may therefore save you the trouble of much elaboration and explanation. Another way of demonstrating relevance is to draw conclusions.  
+Elaboration is the main part of the paragraph, containing all the necessary material: explanation, examples, facts, lists, sources, and argumentation.
 
+In an academic text, it is expected that claims are substantiated and justified. The term 'evidence' is used. Evidence can be empirical (research data, surveys, facts and verifiable statements) or theoretical justifications. Claims that are not substantiated cannot be discussed, but fall under the category of 'opinion'. In the discussion, it is usually the justifications that are discussed - are they good or bad? Are there other possible explanations? To examine this, it can be very useful to refer to examples. Through examples, you can show how you understand the topic in practice, and you can bring in nuances that are awakened in the reader in the form of recognition and associations. A well-chosen example can thus save you extra explanation. 
+
+
+**R for Relevance – what does this mean?**
+
+The end of a paragraph will make the relevance clear. It will be clear to the readers why they are reading this, where they have been, and where they are going. It is also possible to draw inferences as a way of showing relevance.
+
+Readers place the most emphasis on the end of the sentence or paragraph. This means the end of the paragraph ought to have the most weight placed upon it by the writer. If there is an extra good point, place it here.
  
 
 ## Topic-Elaboration-Relevance 
 
-This leaves us with the following model: Topic, Elaboration and Relevance, T-E-R. The relevance statement in a paragraph may often function as a launchpad for the next paragraph, which introduces a new topic. Thus, the text can be organised under the following model: T1-E-R, T2-E-R and so on.  
-
-Many of the paragraphs on this page are in fact examples of the T-E-R model.  
+The formula is thus: Topic, Elaboration and Relevance, T-E-R. The relevance statement at the end of a paragraph can often be a springboard to the next paragraph, which again starts with a new topic. Thus, the text can be built up through several paragraphs that follow the formula T1-E-R, T2-E-R, and so on.  
+  
 
 ::: oppgave Exercise 
 
