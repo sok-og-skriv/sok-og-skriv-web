@@ -11,7 +11,7 @@ Information can be presented in many different ways and in different formats. Wr
 
 ## Articles 
 
-Articles come in a variety of formats, e.g. in journals, printed newspapers or online. Always assess the type of article you have in front of you. Many articles (especially those published in scientific journals) have a high level of quality and can help make your arguments stronger.
+Articles come in a variety of formats, for example in journals, printed newspapers or online. Always assess the type of article you have in front of you. Many articles (especially those published in scientific journals) have a high level of quality, and can help make your arguments stronger.
 
 ### The scientific article  
 
@@ -26,46 +26,46 @@ A review article provides an overview of a research topic based on a range of st
 
 Professional peer review means that an article has been reviewed by at least two professionals within a field of research before being accepted for publication. The author(s) of the article receive feedback and suggestions for improvements that must be made before the article can be published. This helps to ensure that articles meet a certain level of quality. This also helps to ensure that the articles follow the academic and scientific guidelines of their specific field.  
 
-Always consider the source for both peer-reviewed articles and articles published in other journals. Articles that are not peer reviewed can still be relevant and good.  
+Always consider the source for both peer-reviewed articles and articles published in other journals. Articles that are not peer reviewed can still be relevant.  
 
 
 ### Essay 
 
-The classical essay is a personalized form of an article that is clearly shaped by the author's opinions and attitudes. The author may use personal experiences, anecdotes, or methaphors as illustrative examples.  It is often written with the intention to entertain and can be presented in a more approachable language. The classical essay falls into a genre of writing between subject and prose based writing.   
+The essay is a personalized form of an article that is clearly shaped by the author's opinions and attitudes. The author may use personal experiences, anecdotes, or methaphors as illustrative examples.  It is often written with the intention to entertain and can be presented in a more approachable language. The essay falls into a genre of writing between subject and prose-based writing.   
 
 ::: tip Academic essay?
-The academic essay is a genre that can be defined in various ways. Make sure to consult your course material for formal requirements
+The academic essay is a genre that can be defined in various ways. Ensure you consult your course material for formal requirements
 
 ::: 
 
 
 ### Popular science article  
 
-The popular science article, like the scientific article, conveys insights and findings from new research. What is different here is that the popular science article’s goal is to communicate this information outside of the scientific research community to a more general audience. Popular science articles often use journalistic language. The level of verifiability, documentation and description of methods is slightly lighter than you would find in a scientific article. Similar to the essay, the use of metaphor is common in the popular science article.   
+The popular science article, like the scientific article, conveys insights and findings from new research. What is different is that the popular science article’s goal is to communicate this information outside of the scientific research community to a more general audience. Popular science articles often use journalistic language. The level of verifiability, documentation and description of methods is slightly lighter than you would find in a scientific article. Similar to the essay, the use of metaphor is common in the popular science article.   
 
 
 ### Textbook 
 
-A textbook is an introduction for students into a subject and its surrounding discourse. A textbook often includes current theories as well as a short history of the subject. The aim of a textbook is to include students in the academic community. Importantly, a textbook does not necessarily decide what is "the correct knowledge" in a subject area, but rather represents the theories that the author considers to be the most important according to their experience.  
+A textbook is an introduction for students into a subject and its surrounding discourse. A textbook often includes current theories as well as a short history of the subject. The aim of a textbook is to include students in the academic community. A textbook does not decide what the 'correct knowledge' is in a subject area, but rather represents the theories that the author considers to be the most important.  
 
 
 ### Thesis 
 
-A thesis is a longer work on a topic or idea within a subject area, normally a master's thesis or a doctoral dissertation. Specific requirements apply to methods and use of theories, and for a PhD thesis the research community expects new results or perspectives.  
+A thesis is a longer work on a topic or idea within a subject area, normally a master's thesis or a doctoral dissertation. Specific requirements apply to methods and use of theories, and for a Ph.D. dissertation, the research community expects new results or perspectives.  
 
-Bachelor theses and other smaller student papers should only be used for inspiration. You may for example use them to find relevant literature, and as examples for organising your own assignment. 
+Bachelor's theses and other smaller student papers should only be used for inspiration. You may for example use them to find relevant literature, and as examples for organising your own assignment. 
 
 
 ## Online resources  
 
-There are many different websites that can be used to find relevant information on a given topic. News sites offer  the latest news, and it can be helpful to see how your topic is covered in the media. You can also find great quotes on different sites relevant to your field. However, there is a lot of information online, and many sites are less than ideal as sources in an academic context. 
+There are many different websites that can be used to find relevant information on a given topic. News sites offer the latest news, and it can be helpful to see how your topic is covered in the media. You can also find great quotes on different sites relevant to your field. However, there is a lot of information online, and many sites are less than ideal as sources in an academic context. 
 
 
 ### Encyclopedia vs Wikipedia 
 
 Encyclopedias contain trustworthy, reputable information and background material on a variety of topics. The articles are compiled by subject editors and experts across a range of subjects and utilize reference lists. Encyclopedias are available in printed and electronic editions. 
 
-Wikipedia is an online encyclopedia that is created and edited by anyone who chooses to. Feel free to use Wikipedia as a starting point to get an overview of a topic and to look up the sources used there. The basic rule is that you should never use Wikipedia as your sole source, but you can use it to compare perspectives against other sources. Make sure to check what you find in Wikipedia against reputable academic sources. 
+Wikipedia is an online encyclopedia that is created and edited by anyone who chooses to. Feel free to use Wikipedia as a starting point to get an overview of a topic and to look up the sources used there. The basic rule is that you should never use Wikipedia as your sole source, but you can use it to compare perspectives against other sources. Ensure you check what you find in Wikipedia against reputable academic sources. 
 
 Encyclopedias are good sources to use when defining words and concepts or to look up a topic. 
 
@@ -74,9 +74,9 @@ Encyclopedias are good sources to use when defining words and concepts or to loo
 
 A blog can be an easy way to get an overview of discussions in different forums. You can subscribe to blogs with, for instance, an RSS feed. Be aware that the style of a blog can often be in diary form and discuss the writer´s personal experiences or opinions. These are not always based on verifiable and scientifically documented claims.   
 
-::: tip Handy tip! 
+::: tip Handy tip 
 
-Check to see if there are any professional blogs in the area you're researching. For example, see the blog Forskning.no. 
+Check to see if there are any professional blogs in the area you are researching. For example, see the blog Forskning.no. 
 :::
 
 
@@ -89,26 +89,23 @@ An op-ed is a relatively short text of an enlightening or reasoning character, u
 News broadcasters and other sites that report the latest news may be useful for getting a perspective on how topics are addressed. Note that, in the same way as op-eds, popular science and essays, news reports are not academic and should be avoided as part of argumentation and discussion. 
 
 
-### Radio and TV programs 
+### Radio and TV programmes 
 
-Radio or TV programs can also be a good place to get fresh angles for your assignment. If you are going to write about psychiatry, but are unsure how to approach it, a documentary or semi-documentary can be a good source of inspiration. 
+Radio or TV programmes can also be a good place to get fresh angles for your assignment. If you are going to write about psychiatry, but are unsure how to approach it, a documentary can be a good source of inspiration. 
 
-::: warning NB
+::: warning Important to note
 
-If you want to use radio or TV programs as a source, shorter clips can be used without special permission, but for longer clips you must contact the filmmaker or producer for permission. 
+If you want to use radio or TV programmes, short clips can be used without special permission, but for long clips you must contact the filmmaker or producer for permission. 
 :::
 
 ### Pictures from the Internet, photography, illustrations, artwork  
 
-Pictures, illustrations and artwork may all be useful for your work. You may want to illustrate a point, or the picture itself may be a source of information. As a general rule, you cannot reuse pictures without permission. However, there are exceptions, and illustrations you can use freely are e.g. royalty-free images, Creative Commons images, or images in the public domain. Always read the terms of use! 
+Pictures, illustrations and artwork may all be useful for your work. You may want to illustrate a point, or the picture itself may be a source of information. As a general rule, you cannot reuse pictures without permission. However, there are exceptions, and there are illustrations you can use freely, for example, royalty-free images, Creative Commons images, or images in the public domain. Always read the terms of use. 
 
 
 ### Fieldwork and other observational studies 
 
-In different fields and subjects where participant observation is useful as a method, informants are often an important source.  In the following video, Odd Are Berkaak, a professor in social anthropology at UiO, describes (in Norwegian) how to present your informants in your text.
-
-
-<Video id="ktM1r1Ca5Tc" />
+In different academic fields and subjects where participant observation is useful as a method, informants are often an important source.  
 
 
 ## Exercise: Which websites would you want to use? 
