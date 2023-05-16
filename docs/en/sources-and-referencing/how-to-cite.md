@@ -135,7 +135,7 @@ If you add or remove italics in the quotation, add 'emphasis added' or 'emphasis
 'Students (and researchers) in the social sciences and humanities must write within an academic genre. The distinctive feature of this genre is discussion' (Førland, 1996, p.11, emphasis removed).
 ::: 
 
-In case of errata in the original, this can be marked by the Latin \[_sic_\], which means 'thus was it written'. _Sic._ can also mean that the quotation is unusual, but correctly reproduced.
+In case of errata in the original, this can be marked by the Latin '\[_sic._\]', which means 'thus was it written'. _Sic._ can also mean that the quotation is unusual, but correctly reproduced.
 
 
 ### Secondary references
