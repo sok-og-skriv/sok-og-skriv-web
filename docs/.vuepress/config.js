@@ -287,6 +287,7 @@ module.exports = {
         async: true,
         src: 'https://umami-eta-bice.vercel.app/script.js',
         'data-website-id': '6239d749-54fc-45b2-a542-d350f8bd061c',
+        'data-cache': true,
       },
     ],
     ['script', { src: '/js/unregister-sw.js' }],
