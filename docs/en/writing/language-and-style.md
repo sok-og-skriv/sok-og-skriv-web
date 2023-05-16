@@ -57,12 +57,26 @@ Read several pages of student writing (e.g. from a thesis), and highlight the wo
 
 :::
 
-Recommended reading: [Passive-voice](https://writingcenter.unc.edu/handouts/passive-voice/)
+Recommended reading: [Passive voice](https://writingcenter.unc.edu/handouts/passive-voice/)
 
 ## Creating flow
 
-(Content to be added on 16 May 2023.)
+There are many ways to create flow in a text. This is often called text binding. Text binding is used to create the right expectations in the reader: a "reading contract" where the reader's expectations of the task are met. The opening is particularly important: you should not promise more than you can keep, but not too little either. The art is to show that what is coming is interesting, and that the presentation is adapted to the content. Below are some examples of text binding (NB: the categories are partly overlapping):
+•	**Outline**: structured overview of the content.
+•	Signposts for the reader: clarify the structure of the text, i.e. what comes when, what is the purpose of the various sections, etc. Example: “Now I have considered X, in the next section I will address Y.”
+•	**Subheadings**: choose headings that reflect the content of the various sections. This provides a neat and informative overview.
+•	**Transitions**: writing transitioning text between different sections and chapters can be used to help the reader move on, and create the right expectations for what is to come.
+•	**Meta-comments**: the author’s comments on the text. Examples: “as we have seen”/“as has been seen”, “now I will explain”, “as I argue”.
+•	**Point forward, and back**: memory of what has been said previously, and anticipation of what is to come. The point is to show where you are going and where you have already been in the text.
+•	**Summary**: points to the essence of a section or chapter and specifies the content.
+The principle of text binding is to help the reader see the context of the text. An important criterion for academic texts is appropriate and clear demarcation. The outline and signposts for the reader clarify the demarcation, and remind the reader that the author is aware of his or her choices. Examples: “Here it could be relevant to address… but this is outside the scope of this thesis”, “It would take too long to go into…”, and so on.  
+A good paper or thesis fulfils the expectations created at the start, and answers the research question.
+
 
 ## Revision of language and style
 
-(Content to be added on 16 May 2023.)
+::: oppgave Editing tip:
+
+To create distance from what you have written, you can go through the text backwards, to try to notice which words and expressions you use a little too often. When you read the text from the beginning, it is easy to get into the actual reasoning and content. Reading backwards makes it easier to focus on word choice. 
+
+:::
