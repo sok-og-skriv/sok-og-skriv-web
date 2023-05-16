@@ -150,7 +150,7 @@ Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I sl
 :::
 
 
-### Ingen kategorier passer?
+### Ingen kategorier passer
 
 ::: oppgave Mer om dette:
 
@@ -175,7 +175,13 @@ Du trenger fire typer opplysninger for å lage en referanse:
 Forfatter. (År). Tittel [evt. beskrivelse i skarpe klammer]. Utgiver. URL eller DOI
 :::
 
+### Kapittel i redigert bok
 
+::: oppgave Mer om dette:
+
+ [Du finner svar på spørsmålet her](https://www.sokogskriv.no/referansestiler/apa-7th.html#kapittel-i-redigert-bok)
+
+:::
 
 ### Sekundærkilde/sekundærreferanse (sitat hentet fra en annen kilde)
 
@@ -189,7 +195,7 @@ Kvam skal ikke oppføres i referanselista fordi kilden ikke er lest.
 
 ::: oppgave Mer om dette:
 
- [Du finner flere eksempler her](https://www.sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sekund%C3%A6rreferansar)
+ [Du finner flere eksempel her](https://www.sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sekund%C3%A6rkjelder)
 
 :::
   
@@ -222,6 +228,26 @@ Bruk for eksempel avsnittsnummer, kapittel- eller underkapitteloverskrift, parag
 
 ... (Norsk institutt for vannforskning, 2022, avsn. 4)
 :::
+
+### Utgave eller opplag?
+
+
+
+Når en bok kommer i **ny utgave eller revidert opplag**, betyr det at innholdet er endra siden sist, og opplysninger om dette skal med i referanselista. Merk at det ikke skal med utgaveopplysninger om 1. utgave, og at du alltid skal vise til den utgaven du har lest.
+
+::: warning Eksempel:
+Dalland, O. (2020). _Metode og oppgaveskriving_ (7. utg.). Gyldendal.
+
+Skoglund, E. (2018). _Anatomi og fysiologi: Kort og godt_ (Rev. oppl.). Fenris forlag.
+
+
+
+
+:::
+
+**Nytt opplag** betyr at boka er trykt opp i flere eksemplarer uten at innholdet er forandra. Opplysninger om opplag skal derfor ikke med i referanselista. 
+
+
 
 
 
