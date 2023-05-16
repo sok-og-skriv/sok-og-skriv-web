@@ -5,23 +5,71 @@ date: "2013-02-22"
 
 # How to cite
 
-The proper way to cite and refer to sources depends on the reference style you are using. This varies between subjects and disciplines. Some student writers are free to chose, while other are expected to follow a specific style. Check you course pages, ask your lecturer or observe other students' assignments. Once you have picked a style, follow it consistently. 
+The proper way to cite and refer to sources depends on the reference style you are using. This varies between subjects and disciplines. Some student writers are free to chose, while others are expected to follow a specific style. Check your course pages, ask your lecturer, or explore other students' assignments. Once you have picked a style, follow it consistently. 
 
-You refer correctly by citing the source in the text and giving complete information about the source in the list of references (sometimes called a literature list or a bibliography). If you are refering to a part of the source, your citation should indicate which part of the source you refer to by using page numbers etc. The different styles of referencing may have varying practices concerning the use of page numbers. 
+You refer correctly by citing the source in the text and giving complete information about the source in the list of references (sometimes called a literature list or a bibliography). If you are referring to a part of the source, your citation should indicate which part of the source you refer to by using page numbers and so on. The different styles of referencing may have varying practices concerning the use of page numbers. 
 
 It is not necessary to provide references for absolutely everything, such as common knowledge and your own reflections. 
 
 ::: tip Tip
-Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications such as newspapers.
+Look at scholarly or scientific articles to see how referencing works in practice. Note that citation standards are often far less stringent in popular publications like newspapers.
 :::
+
+# What should be referenced?
+
+For all academic content that is not based on your own material, your own reasoning or opinions, the source must be stated in the text and in the reference list. This can, for example, be other people's arguments, opinions and assessments, numerical material, models, results and conclusions. Remember that all use of figures, tables, sound and images is linked to [copyright](/en/sources-and-referencing/how-to-cite.html/##copyright).
+
+## General Truths
+
+General truths do not need reference, such as:
+
+_On 17 May 1814, all representatives at Eidsvoll signed a new constitution for the independent state of Norway, and they made Christian Frederik king._
+
+However, if you write about something that is not generally known, you must state where you get the information from.
+
+It can be difficult to assess how far the documentation requirement should go. Uncontroversial claims that are the knowledge base within your subject do not need documentation. If you are in doubt, ask the head of court. Then you avoid being suspected of [plagiarism](/en/sources-and-referencing/how-to-cite.html/#avoid).
+
+## Lectures
+
+Your own lecture notes are not considered a source, and must not be shown in an assignment. You can of course use your lecture notes for inspiration when you write, but you must work with the material, rewrite it and make it your own.
+
+If the lecturer has made lecture notes/handouts/powerpoint presentations publicly available electronically, you can cite these. As a general rule, it is better to refer to (curriculum) literature. Read carefully: have your lecturers given their sources? In that case, you should use these instead of the lecture note/handout/powerpoint presentation.
+
+# Avoid plagiarism or copyright infringement
+
+How to avoid plagiarism? The most important thing is to never cut and paste without stating the source. Reproduce the quote verbatim with quotation marks, or paraphrase (write the content in your own words). Put away the source while you write, so you don't get hung up on the author's writing style. Check that the meaning is correct, and show the source as usual. Then you have avoided plagiarism.
+
+Extensive and/or deliberate plagiarism is considered cheating, and will have unfortunate consequences for you as a student. If you are accused of plagiarism - by having copied a work in whole or in part without showing where you got it from - it can delay study progression and, in the worst case, lead to the loss of a study place.
+
+Always show where you got the information or wording from - then you are safe. This also applies to your own work: plagiarism of yourself is also considered plagiarism.
+
+Self-citation or self-plagiarism? Referring to your own work may be necessary to avoid plagiarism, but the fewest assignments are improved by drawing in things you have done in the past. If you don't miss it, the following advice applies:
+
+You refer to published assignments in the usual way, with author, year, title and publisher.
+
+Unpublished student work can be shown as 'Name (year). Title of the assignment [Unpublished semester assignment or whatever is appropriate]. The name of the educational institution.'
+
+These examples follow APA style.
+
+Certain universities have clear guidelines for self-citation and plagiarism, others do not. Always check with the teacher if you want to re-use previous work.
 
 **Video: How to cite sources and avoid plagiarism**
 
 <Video id="esfZOcBIB6w" />
 
+
+## Copyright
+
+Copyright is the right the creator of an intellectual work has to the work. The intellectual work can be a literary, scientific or artistic work, and the creator is called the author. Copyright is regulated in the 2018 Copyright Act, also known as the [Intellectual Property Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40). The main rule in the Copyright Act is that the author has the exclusive right to produce a copy of the work and to make it available to others. This economic right lasts for 70 years after the originator has passed away, and then the work becoms public domain, as it is called.
+
+In addition to the financial right of control that the author has, comes the ideal one - that is, the right to be named and protected against the intellectual work being used in an offensive way. Note that the ideal right does not expire. Violation of applicable copyright rules can have unfortunate consequences. Plagiarism is presenting others' results, thoughts, ideas or formulations as if they were one's own. This is considered intellectual theft according to the [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40). 
+
+For more on copyright, see [DelRett](https://delrett.no/), which is a public guidance service on copyright.
+
+
 # References and quotations
 
-Academic publications have formal rules for citation and referencing that vary between different fields, journals, etc. There are for example standard abbreviatons that are commonly used in citations. 
+Academic publications have formal rules for citation and referencing that vary between different fields, journals, and so on. There are for example standard abbreviatons that are commonly used in citations. 
 
 ::: details Abbreviations 
 
