@@ -5,7 +5,7 @@ date: "2020-06-23"
 
 # Argue, explain and discuss 
 
-Argumentation is what drives a text. What is it that you want to say? What is the main point of the argument, and how can it be substantiated? Argumentation means clarifying what it is that you are claiming in the text, and what you are building this claim on. In other words, it is the justification of your claims. The film,*_Saying What You Mean_*, provides one example of how this can be done: 
+Argumentation is what drives a text. What is it that you want to say? What is the main point of the argument, and how can it be substantiated? Argumentation means clarifying what it is that you are claiming in the text, and what you are building this claim on. In other words, it is the justification of your claims. The film *_Saying What You Mean_* provides one example of how this can be done: 
 
 <Video id="OWeAPxlxGnE" />
 
