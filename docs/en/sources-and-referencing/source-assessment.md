@@ -9,29 +9,29 @@ When considering what sources to use, there are several things to consider. You 
 
 Assessing and reflecting on sources can often be much the same as assessing the contents of an article. See [Ways of reading](https://sokogskriv.no/en/study-skills/ways-of-reading.html) for help with evaluating the contents of an article.
 
-Based on your assessments, you can decide whether the source is useful and right for what you are working on. On the previous page, we considered the type of source that was best for which purpose; here we are going to consider the contents of the source. There are several steps that can help you evaluate the source.
+Based on your assessments, you can decide whether the source is useful and right for what you are working on. On the previous page, we considered the type of source that was best for which purpose; here we consider the contents of the source. There are several steps that can help you evaluate the source.
 
 ## The Author
 
-When evaluating a source, taking a closer look at the author is a good starting point. Is the author presented properly? Is there one author, or several? Is the author a person, or perhaps an organization? Can you find more information about their background and field of expertise? All sources should be assessed based on the professional background of the author.  Researching the author in Oria or Google can provide valuable information. When you have a recent source, you can investigate furhter: 
+When evaluating a source, taking a closer look at the author is a good starting point. Is the author presented properly? Is there one author, or several? Is the author a person, or perhaps an organization? Can you find more information about their background and field of expertise? All sources should be assessed based on the professional background of the author. Researching the author in Oria or Google can provide valuable information. When you have a recent source, you can investigate further: 
 
 * Has the author written other articles on the same topic? Research the author in Oria, Google or other databases.
 * Look up articles and books that are referenced in the text, and look through the reference list at the end of the article. Are these relevant to you?
-* A citation search is useful for finding out who has referenced the paper in recent research. Citation searches can be done in e.g. the Web of Science database.
+* A citation search is useful for finding out who has referenced the paper in recent research. Citation searches can be done in, for example, the Web of Science database.
 * Do you want to check who has quoted a particular work by another author? You can search for a combination of author and work (journal title or book title abbreviated), or the year when the work was published.
 
 
 ## Publisher(s)
 
-The publisher may have influenced the material you are working with. This might happen because the publisher wants to promote their own interests, or try and appeal to a certain audience. What is the scope of the publisher/journal? Try and get an idea of what they are interested in publishing, and what topics they usually focus on. Check the publisher or journal in [“The Norwegian Register for Scientific Journals, Series and Publishers”](https://kanalregister.hkdir.no/publiseringskanaler/Forside.action;jsessionid=0uqRgIF6UZHkEcHvvMDEu7qO.undefined?request_locale=en). If the publisher or journal is listed as either level 1 or level 2, you can consider them a serious publisher. 
+The publisher may have influenced the material you are working with. This might happen because the publisher wants to promote their own interests, or try and appeal to a certain audience. What is the scope of the publisher/journal? Try and get an idea of what they are interested in publishing, and what topics they usually focus on. Check the publisher or journal in [the Norwegian Register for Scientific Journals, Series and Publishers](https://kanalregister.hkdir.no/publiseringskanaler/Forside.action;jsessionid=0uqRgIF6UZHkEcHvvMDEu7qO.undefined?request_locale=en). If the publisher or journal is listed as either level 1 or level 2, you can consider them a serious publisher. 
 
 In many cases, it is quite simple to find the publisher. At other times, it can be difficult to find out who has published the material. If the publisher is unknown to you, it is even more important to find out more about who the publisher is. Here are some suggestions to help you find that information.
 
-* Look for the publishers name
+* Look for the publisher's name.
 * Search in Oria, Google, or another search engine to try and get a sense of what types of text the publisher is publishing.
-* Look for a review about the publisher
+* Look for a review about the publisher.
 * Look for a list of editors who reviewed the text before publishing.
-* Try and get an idea of what they are interested in publishing, and what topics they usually focus on. -- If the source is a journal, examine what their peer review process looks like.
+* Try and get an idea of what they are interested in publishing, and what topics they usually focus on. If the source is a journal, examine what their peer review process looks like.
 
 ## Sources within the text
 
@@ -42,26 +42,27 @@ Always look at the reference list for the text you read. Here you will find what
 * Are the sources accurate?
 
 
-## Audience and Genre
-
-It is important to think about who the source is intended for. All text is written for a reader, and who that intended reader is, shapes the text. One way to identify the text’s target audience is by analyzing the text’s genre – what kind of source are you working with?
-
-
 ## Date of Publication
 
 The date of publication is often relevant. We are often looking for recent and up-to-date sources that provide the latest knowledge and information. To help ensure this, you should obtain the latest edition of a book, if it has appeared in several editions. However, depending on your field and scope, you may be looking for historical data, published within a given historical period or a specific year.  
 
-* Look for the date of publication by looking at the book’s colophon (publishing page - usually on the reverse of the title page)
+* Look for the date of publication by looking at the book’s colophon (publishing page - usually on the reverse of the title page).
 * Consider the edition. Have you found a new and revised edition or an earlier edition?
 * Examine the dates of the sources that the book uses.
 * If you are using online sources, check when the information was published or last updated.
 * Evaluate the date of the source, and how relevant it is to your assignment.
 
+
+## Readership and Genre
+
+It is important to consider who the source is intended for. All text is written for a reader, and who that intended reader is, shapes the text. One way to identify the text’s target readership is by analyzing the text’s genre – what kind of source are you working with?
+
+
 ## Text Analysis
 
-In order to decide if the source is relevant for your assignment, you will need to analyze the text to find out why it was written and the author's purpose for writing it. You should look specifically at how the author conveys the material and results.
+In order to decide if the source is relevant for your assignment, analyze the text to find out why it was written, and the author's purpose for writing it. You should look specifically at how the author conveys the material and results.
 
-It is important to figure out what the author wants to convey to you as a reader. You should also look at what rhetoric the author uses in communicating their results. The text analysis allows you to assess and compare the professionality of the text, and answer some important questions about its quality. How does the text compare to other relevant works? How is the language of the text?
+Figure out what the author wants to convey to you as a reader. You should also look at what rhetoric the author uses in communicating their results. The text analysis allows you to assess and compare the professionality of the text, and answer some important questions about its quality. How does the text compare to other relevant works? How is the language of the text?
 
 * What findings does the researcher come to?
 * What material is the research based on? What empirical data is used?
