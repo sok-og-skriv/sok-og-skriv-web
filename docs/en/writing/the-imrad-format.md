@@ -60,4 +60,4 @@ In this chapter, you discuss the results of your study/project.
 
 What answer(s) have you found to your research question? If you have a hypothesis, has it been strengthened, weakened or falisified? Do not introduce issues here that have not been mentioned earlier. If the results of your study do not allow you to draw any conclusions, you can end by **summing up**.
 
-Articles based on the IMRaD format can be found in [Helsebiblioteket](https://www.helsebiblioteket.no/). For more reading about the IMRAD format, try searching in Bibsys. 
+Articles based on the IMRaD format can be found in [Helsebiblioteket](https://www.helsebiblioteket.no/). For more reading about the IMRAD format, try searching in [Oria](https://www.oria.no/). 
