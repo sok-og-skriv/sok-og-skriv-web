@@ -372,7 +372,9 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 
 ::: details Flere eksempler
 
-... (10.utg.; ICD-10; World Health Organization, 2020).
+... (World Health Organization, 2020)
+
+... World Health Organization (2020)
 
 <span class="ref">World Health Organization. (2020). F40: Fobiske angstlidelser. I Den internasjonale statiske klassifikasjonen av sykdommer og beslektede sykdommer (10. utg.). Direktoratet for e-helse. https://finnkode.ehelse.no/#icd10/0/0/0/2599502</span>
 
