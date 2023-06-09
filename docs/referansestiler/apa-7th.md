@@ -969,7 +969,7 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ::::
 
 
-### Reproduksjon av bilder, figurer og tabeller
+### Bilder, figurer og tabeller
 
 Bilder og tabeller som reproduseres skal krediteres i figur- eller tabellteksten, der det også skal opplyses om eventuell rettighetsklarering eller lisensbetingelser, eksempelvis Creative Commons-lisens eller om det er gjengitt med tillatelse. Her er det vertsdokumentet – boken, nettsiden eller artikkelen som bildet er hentet fra – som føres inn i referanselisten. Figurteksten skal innledes med en kort beskrivelse av bildet.
 
@@ -981,7 +981,7 @@ Ingen innførsel i referanselisten
 :::
 
 ::: tip Bilde hentet fra nettside:  
-Figur 2. Breiflabb. Fra «Monkfish/Breiflabb», av A. Hansen, 2006 ([https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)). CC BY-NC-ND 2.0
+Figur 2. Breiflabb. Fra «Monkfish/Breiflabb», av A. Hansen, 2006 [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783). CC BY-NC-ND 2.0
 
 Referer til nettsiden:  
 <span class="ref">Hansen, A. (2006). _Monkfish / Breiflabb_. Hentet fra [https://www.flickr.com/photos/xoto/108041783](https://www.flickr.com/photos/xoto/108041783)</span>
