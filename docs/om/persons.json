@@ -2,7 +2,7 @@
   "persons": [
     {
       "fullname": "Anne Sæbø",
-      "active": false,
+      "active": true,
       "affiliation": {
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
