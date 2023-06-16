@@ -1,14 +1,14 @@
 {
   "persons": [
     {
-      "fullname": "Ingerid Straume",
+      "fullname": "Anne Sæbø",
       "active": false,
       "affiliation": {
         "no": "Universitetet i Oslo",
         "en": "University of Oslo"
       },
-      "imageUrl": "/persons/ingerid-150x150.jpg",
-      "url": "https://www.ub.uio.no/om/ansatte/uboledadm/ingerids/index.html"
+      "imageUrl": "",
+      "url": "https://www.ub.uio.no/om/ansatte/humsam/ang/index.html"
     },
     {
       "fullname": "Ingunn Rødland",
