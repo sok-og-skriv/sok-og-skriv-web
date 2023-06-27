@@ -18,7 +18,7 @@ Chicago-stilen finnes i to varianter: _fotnotestil_, som presenteres her, og [fo
 - Titler på hovedverk skrives i _kursiv_ og kapitler og artikkeltitler i «anførselstegn»; se de ulike referansetypene under.
 - Ved henvisning til e-bøker kan det elektroniske formatet oppgis, for eksempel «Kindle» eller «iBooks».
 
-::: tip 
+::: tips 
 Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#sitat) og/eller se eksemplene nedenfor.
 :::
 
@@ -36,14 +36,24 @@ Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korl
 
 ### Bok
 
-::: tip I noten 
-^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år), evt. sidetall.
+::: tip Fullversjon (i første note) 
+^nr^ Fornavn Etternavn, _Full tittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
 #### Eksempel
 
-Morton Klass definerer myte som «...»^1^
+Tove Pettersen argumenterer for at skriving bør forstås som en prosess.^1^
 
-^1^ Klass, _Ordered Universes_ (Boulder: Westview Press, 1995), 125.
+^1^ Tove Pettersen, _Skriv : fra idé til fagoppgave_, 2. utg. ed. (Oslo: Gyldendahl Akademisk, 2015), 29-33.
+
+
+::: tip Kortform 
+^nr^ Etternavn, _Korttittel_, evt. sidetall.
+
+#### Eksempel
+
+Pettersen avslører i denne sammenheng noen myter om skriving.^2^
+
+^2^ Pettersen, _Skriv_, 29-33.
 :::
 
 :::: ref
