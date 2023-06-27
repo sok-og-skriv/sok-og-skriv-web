@@ -74,16 +74,26 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ### E-bok
 
-::: tip I noten
-^nr^ Etternavn, _Korttittel_ (Utgiversted: Forlag, år).
+::: tip Fullversjon (i første note) 
+^nr^ Fornavn Etternavn, _Full tittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
-^1^ Childs, _Modernism_ (London: Taylor & Francis, 2016), ProQuest Ebook Central.
+#### Eksempel
+
+^3^ Tom Johnstad, _Innføring i akademisk skriving : om essay- og oppgaveskriving. (Oslo: Universitetsforlaget, 2022).
+
+
+#### Kortform 
+^nr^ Etternavn, _Korttittel_, evt. sidetall.
+
+#### Eksempel
+
+^4^ Johnstad, _Akademisk skriving_.
 :::
 
 :::: ref
 <span class="ref">Etternavn, Fornavn. _Tittel_. Utgiversted: Forlag, årstall, URL/DOI/format.</span>
 
-<span class="ref">Childs, Peter. _Modernism._ London: Taylor & Francis, 2016. ProQuest Ebook Central.</span>
+<span class="ref">Johnstad, Tom. Innføring i akademisk skriving : om essay- og oppgaveskriving. Oslo: Universitetsforlaget, 2022, EPUB. </span>
 
 ::: details I EndNote
 
