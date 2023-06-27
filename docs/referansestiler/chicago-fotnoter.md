@@ -35,22 +35,18 @@ Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korl
 ## Bøker
 
 ### Bok
-
 ::: tip Fullversjon (i første note) 
 ^nr^ Fornavn Etternavn, _Full tittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
 #### Eksempel
-
 Tove Pettersen argumenterer for at skriving er en møysommelig arbeidsprosess.^1^
 
 ^1^ Tove Pettersen, _Skriv : fra idé til fagoppgave_, 2. utg. ed. (Oslo: Gyldendahl Akademisk, 2015), 30.
-
 
 #### Kortform 
 ^nr^ Etternavn, _Korttittel_, evt. sidetall.
 
 #### Eksempel
-
 Pettersen avslører i denne sammenheng noen myter om skriving.^2^
 
 ^2^ Pettersen, _Skriv_, 29-33.
@@ -73,20 +69,16 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 
 ### E-bok
-
 ::: tip Fullversjon (i første note) 
 ^nr^ Fornavn Etternavn, _Full tittel_ (Utgiversted: Forlag, år), evt. sidetall.
 
 #### Eksempel
-
 ^3^ Tom Johnstad, _Innføring i akademisk skriving : om essay- og oppgaveskriving_. (Oslo: Universitetsforlaget, 2022).
-
 
 #### Kortform 
 ^nr^ Etternavn, _Korttittel_, evt. sidetall.
 
 #### Eksempel
-
 ^4^ Johnstad, _Akademisk skriving_.
 :::
 
@@ -105,22 +97,18 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 
 ### Oversatt bok
-
 ::: tip Fullversjon (i første note) 
 ^nr^ Fornavn Etternavn, _Full tittel_, overs. Fornavn Etternavn (Utgiversted: Forlag, år), evt. sidetall.
 
 #### Eksempel
-
 ... skildret i romanen _Kelterens drøm_.^2^
 
 ^5^ Mario Vargas Llosa, _Kelterens drøm_, overs. Kari Risvik og Kjell Risvik  (Oslo: Gyldendal, 2012), 53.
-
 
 #### Kortform 
 ^nr^ Etternavn, _Korttittel_, evt. sidetall.
 
 #### Eksempel
-
 ^6^ Vargas Llose, _Kelterens drøm_.
 :::
 
@@ -144,9 +132,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 ^nr^ Fornavn Etternavn, «Kapitteltittel», i _Boktittel_, redigert av Fornavn Etternavn (Utgiversted: Forlag, årstall), evt. sidetall. 
 
 #### Eksempel
-
 ^7^ Toril Moi, «Å skrive er å tenke», i _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad (Oslo: Cappelen Damm, 2019).
-
 
 #### Kortform 
 ^nr^ Etternavn, «Kortittel», evt. sidetall.
@@ -159,7 +145,6 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 
 :::: ref
-
 Etternavn, Fornavn. «Kapitteltittel». I _Boktittel_, redigert av Fornavn Etternavn, sidespenn for kapittel. Utgiversted: Forlag, årstall.
 
 Moi, Toril. «Å skrive er å tenke». I _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad, 15–23. Oslo: Cappelen Damm, 2019.
@@ -175,18 +160,23 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ### Bok med flere forfattere (eller redaktører)
 
-Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av mfl. (= med flere). I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av mfl.
+Ved en til tre forfattere listes alle i samme rekkefølge som på tittelbladet, både i note og i referanseliste. Ved flere enn tre forfattere nevnes kun første forfatter etterfulgt av mfl. (= med flere) i første fotnote. I referanselisten listes som regel alle forfatterne, men hvis det er flere enn ti, listes bare de første sju, etterfulgt av mfl.
 
+::: tip Fullversjon (i første note) 
+^nr^ Fornavn Etternavn, m.fl., _Boktittel_, (Utgiversted: Forlag, årstall), evt. sidetall. 
 
-::: tip I noten
-^nr^ Etternavn mfl., _Boktittel_, eventuelt sidetall. 
+#### Eksempel
+^8^ Ellen Mortensen, _Kjønnsteori_ (Oslo: Gyldendal, 2008), 8.
 
-^4^ Mortensen mfl., _Kjønnsteori_, 11.
+#### Kortform 
+^nr^ Etternavn, «Kortittel», evt. sidetall.
+
+#### Eksempel
+^4^ Mortensen, _Kjønnsteori_, 11.
 ::: 
 
 :::: ref 
 Etternavn, Fornavn, Fornavn, Etternavn osv. (red.). _Tittel_. Utgiversted: Forlag, årstall.
-
 
 Mortensen, Ellen, Cathrine Egeland, Randi Gressgård, Cathrine Holst, Kari Jegerstedt, Sissel Rosland og Kristin Sampson (red.). _Kjønnsteori_. Oslo: Gyldendal, 2008.
 ::: 
