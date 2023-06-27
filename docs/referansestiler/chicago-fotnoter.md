@@ -41,9 +41,9 @@ Les mer om [sitering og kildehenvisninger](https://sokogskriv.no/kjeldebruk/korl
 
 #### Eksempel
 
-Tove Pettersen argumenterer for at skriving bør forstås som en prosess.^1^
+Tove Pettersen argumenterer for at skriving er en møysommelig arbeidsprosess.^1^
 
-^1^ Tove Pettersen, _Skriv : fra idé til fagoppgave_, 2. utg. ed. (Oslo: Gyldendahl Akademisk, 2015), 29-33.
+^1^ Tove Pettersen, _Skriv : fra idé til fagoppgave_, 2. utg. ed. (Oslo: Gyldendahl Akademisk, 2015), 30.
 
 
 #### Kortform 
