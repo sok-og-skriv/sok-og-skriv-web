@@ -79,7 +79,7 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 #### Eksempel
 
-^3^ Tom Johnstad, _Innføring i akademisk skriving : om essay- og oppgaveskriving. (Oslo: Universitetsforlaget, 2022).
+^3^ Tom Johnstad, _Innføring i akademisk skriving : om essay- og oppgaveskriving_. (Oslo: Universitetsforlaget, 2022).
 
 
 #### Kortform 
