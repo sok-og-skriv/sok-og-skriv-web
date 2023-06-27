@@ -106,13 +106,22 @@ Fyll ut feltene: Author (trykk «enter» mellom hvert navn hvis flere), Year, Ti
 
 ### Oversatt bok
 
+::: tip Fullversjon (i første note) 
+^nr^ Fornavn Etternavn, _Full tittel_, overs. Fornavn Etternavn (Utgiversted: Forlag, år), evt. sidetall.
 
-::: tip I noten
-^nr^ Etternavn, _Korttittel_, overs. Etternavn (Utgivelsessted: Forlag, år), evt. sidetall.
+#### Eksempel
 
 ... skildret i romanen _Kelterens drøm_.^2^
 
-^2^ Vargas Llosa, _Kelterens drøm_, overs. Risvik og Risvik  (Oslo: Gyldendal, 2012), 53.
+^5^ Mario Vargas Llosa, _Kelterens drøm_, overs. Kari Risvik og Kjell Risvik  (Oslo: Gyldendal, 2012), 53.
+
+
+#### Kortform 
+^nr^ Etternavn, _Korttittel_, evt. sidetall.
+
+#### Eksempel
+
+^6^ Vargas Llose, _Kelterens drøm_.
 :::
 
 :::: ref
@@ -131,14 +140,23 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 
 ### Kapittel i redigert bok
 
+::: tip Fullversjon (i første note) 
+^nr^ Fornavn Etternavn, «Kapitteltittel», i _Boktittel_, redigert av Fornavn Etternavn (Utgiversted: Forlag, årstall), evt. sidetall. 
 
-::: tip I noten
+#### Eksempel
+
+^7^ Toril Moi, «Å skrive er å tenke», i _Min Metode: Om Sakprosaskriving_, redigert av Kristine Isaksen og Hans Petter Blad (Oslo: Cappelen Damm, 2019).
+
+
+#### Kortform 
 ^nr^ Etternavn, «Kortittel», evt. sidetall.
 
+#### Eksempel
 «Det er derfor gode forfattere også er gode lesere.»^3^
 
 ^3^ Moi, «Å skrive er å tenke», 19. 
 :::
+
 
 :::: ref
 
