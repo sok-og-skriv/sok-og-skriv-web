@@ -488,6 +488,7 @@ p {
       h2 {
         border-bottom: none;
         margin: 0;
+        padding: 0;
       }
 
       p {
@@ -527,6 +528,7 @@ p {
   display: grid;
   align-items: center;
   justify-content: center;
+  margin-top: 2rem;
   margin-bottom: 2rem;
 
   .partner {

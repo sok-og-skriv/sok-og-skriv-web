@@ -1,12 +1,7 @@
 ---
 home: true
-# heroImage: /sos-logo.svg
-# actionText:  La oss starte →
-# actionLink: /soking/
 footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 ---
-
-# Oppdateringstest II
 
 <div class="cards">
   <div class="card">
