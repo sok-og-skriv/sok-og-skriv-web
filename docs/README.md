@@ -6,6 +6,8 @@ home: true
 footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 ---
 
+# Oppdateringstest
+
 <div class="cards">
   <div class="card">
     <div class="image">
