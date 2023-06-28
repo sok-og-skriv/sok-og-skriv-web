@@ -7,7 +7,7 @@ import MarkdownItmark from 'markdown-it-mark'
 import MarkdownItDeflist from 'markdown-it-deflist'
 import MarkdownItAbbr from 'markdown-it-abbr'
 import MarkdownItFootnote from 'markdown-it-footnote'
-import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
+import { searchPlugin } from '@vuepress/plugin-search'
 import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 import { redirectPlugin } from "vuepress-plugin-redirect";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
@@ -35,6 +35,8 @@ export default defineUserConfig({
     },
   },
   theme: defaultTheme({
+    colorMode: "light",
+    colorModeSwitch: false,
     contributors: false,
     logo: "/sos-logo.svg",
     locales: {
@@ -105,9 +107,18 @@ export default defineUserConfig({
     md.use(MarkdownItFootnote);
   },
   plugins: [
-    backToTopPlugin(),
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
+    }),
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: 'Søk',
+        },
+        '/en/': {
+          placeholder: 'Search',
+        },
+      },
     }),
     containerPlugin({
       type: 'teksten',
