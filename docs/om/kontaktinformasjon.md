@@ -11,26 +11,4 @@ Følg oss også gjerne på [Facebook](https://www.facebook.com/sokogskriv "Søk 
 
 ## Redaksjonen
 
-<div class="persons">
-  <div class="person" v-for="i in items">
-    <div class="image">
-      <img :src="i.imageUrl" v-if="i.imageUrl">
-    </div>
-    <div class="content">
-      <a :href="i.url" target="_blank"><h3>{{i.fullname}}</h3></a>
-      <p>{{i.affiliation.no}}</p>
-      <p v-if="i.bio && i.bio.no">{{i.bio.no}}</p>
-    </div>
-  </div>
-</div>
-
-<script>
-import data from './persons.json'
-export default {
-  data () {
-      return {
-          items: data.persons.filter(person => person.active === true)
-      }
-  }
-}
-</script>
+<Persons />

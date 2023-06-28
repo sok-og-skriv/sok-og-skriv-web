@@ -1,6 +1,10 @@
 {
-  "short_name": "Søk & Skriv",
   "name": "Søk & Skriv",
+  "short_name": "Søk & Skriv",
+  "start_url": "/index.html",
+  "background_color": "#4daebf",
+  "display": "standalone",
+  "theme_color": "#3367D6",
   "icons": [
     {
       "src": "/images/icons/manifest-icon-192.png",
@@ -12,10 +16,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "start_url": "/index.html",
-  "background_color": "#4daebf",
-  "display": "standalone",
-  "theme_color": "#3367D6",
-  "scope": "/"
+  ]
 }

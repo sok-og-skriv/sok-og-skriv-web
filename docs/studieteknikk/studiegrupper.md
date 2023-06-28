@@ -25,7 +25,7 @@ Lengre tekster, som masteroppgaver, krever at du skriver jevnt og trutt. For å 
 
 Stipendiatene Kajsa Parding og Sandhya Tiwari ved UiB har hatt mye glede av sin skrivegruppe i sluttfasen av doktorgradsarbeidet:
 
-<Video id="pbH-PqsYxK8" />
+<Video id="pbH-PqsYxK8" title="Stipendiatene Kajsa Parding og Sandhya Tiwari om skrivegrupper" />
 
 ## Responsgrupper: Hvordan gi og ta imot tilbakemelding?
 
@@ -62,7 +62,7 @@ God tilbakemelding er konkret, konstruktiv og vennlig.
 Avtal å møtes jevnlig, og møt alltid forberedt. Som medlem av en skrivegruppe får du en uvurderlig drahjelp i oppgavearbeidet. Og når innlevering står for døra, vet du hvor du kan henvende deg for å få en siste gjennomlesning.
 
 <Figure
-  src="/images/studiegruppe_sophus.jpg"
+  src="/images/studiegruppe_sophus.jpeg"
   alt="Studenter diskuterer tekstene sine"
   caption="Foto: Simen Kjellin/UiO"
   type=""

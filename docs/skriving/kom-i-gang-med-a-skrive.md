@@ -26,7 +26,7 @@ Uerfarne skribenter tror gjerne at de ikke kan begynne skrive før de har skaffe
 
 Som student drives du ofte fram av et "hvorfor-spørsmål". Dette er også utgangpunktet for mange forskere. Forskeren tviler på en teori eller observerer noe som ikke lar seg forklare uten videre. Hun utforsker fenomener, snakker med andre i miljøet, skriver ned ideene sine, ser for seg muligheter og lager notater og tenketekster. Gjør som forskeren: Bruk følelsen av nysgjerrighet og usikkerhet kreativt. Etter hvert som du får klarere tanker om oppgaven, reduseres usikkerheten.
 
-<Video id="FOwhrXNnHNI" />
+<Video id="FOwhrXNnHNI" title="Kom i gang med å skrive" />
 
 
 ## Tenk og skriv
@@ -145,7 +145,7 @@ Snakk gjerne om oppgaven med medstudenter og andre som vil høre på. Det kan v�
 Lykke til! 
 
 <Figure
-  src="/images/skrivesnakk.jpg"
+  src="/images/skrivesnakk.jpeg"
   alt="Studenter diskuterer en akademisk tekst"
   caption="Foto: Simen Kjellin/UiO"
   type=""

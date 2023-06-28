@@ -314,7 +314,7 @@ Helsepersonellovens §6, 1999 skal sørge for at helsehjelpen ikke påfører pas
 :::
 
 :::: ref
-Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiver eller departement oppgis ikke, fordi alle norske lover vedtas av Stortinget. Eventuelt \<URL\> og lesedato.
+Lovens navn. _Lovens fullstendige navn med vedtaksdato og nummer_. Utgiver eller departement oppgis ikke, fordi alle norske lover vedtas av Stortinget. Eventuelt URL og lesedato.
 
 Helsepersonelloven. _Lov om helsepersonell m.v. av 2. juli 1999 nr. 64. <_[https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL\_2#%C2%A76](https://lovdata.no/dokument/NL/lov/1999-07-02-64/KAPITTEL_2#%C2%A76)\>02. februar 2013.
 

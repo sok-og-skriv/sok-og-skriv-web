@@ -16,7 +16,8 @@ Forming a group early in your studies will give you a kickstart. You may begin t
 The writing of long assignments and theses requires a steady work process. To keep the process going, inviting readers can be very helpful. Commitments are helpful for keeping deadlines, and in addition you will find out how your work communicates with a reader. As a member of a writing group, you can submit drafts, give and receive feedback, and find support in a community of students. The writing group is a supplement, not a replacement for your supervisor. Ideally, a writing group is a group of students from the same discpipline/subject who are at different writing stages. If you already have a reading group that works well, use that.
 
 The PhD students Kajsa Parding and Sandhya Tiwari at UiB have greatly enjoyed their writing group in the final phase of their doctoral work (this video is in English):
-<Video id="pbH-PqsYxK8" />
+
+<Video id="pbH-PqsYxK8" title="PhD students Kajsa Parding and Sandhya Tiwari on writing groups" />
 
 ## Response groups: How to give and receive feedback?
 

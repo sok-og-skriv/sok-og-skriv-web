@@ -206,13 +206,13 @@ Du kan starte på et ønsket nummer:
 ``` markdown
 **youtube**
 
-<Video id="FJKg3G-JRpg" />
+<Video id="FJKg3G-JRpg" title="Youtube eksempel />
 ```
 
 ::: eksempel
 **youtube**
 
-<Video id="FJKg3G-JRpg" />
+<Video id="FJKg3G-JRpg" title="Youtube eksempel" />
 :::
 
 ## Bilder (ikke anbefalt)
@@ -367,17 +367,17 @@ Jeg markerer tabellen på Søk og skriv, går til [Tablesgenerator](https://www.
 Ellers anbefales det å ha tabellene i regneark i Teams.
 
 ``` markdown
-| Tabeller      | Er            | Blæh  |
-| ------------- |:-------------:| -----:|
-| col 3 er      | høyre-justert |  1600 |
-| col 2 er      | sentrert      |    12 |
-| zebra striper | er bra        |     1 |
+| Tabeller      |      Er       | Blæh |
+| ------------- | :-----------: | ---: |
+| col 3 er      | høyre-justert | 1600 |
+| col 2 er      |   sentrert    |   12 |
+| zebra striper |    er bra     |    1 |
 ```
 
 ::: eksempel
-| Tabeller      | Er            | Blæh  |
-| ------------- |:-------------:| -----:|
-| col 3 er      | høyre-justert |  1600 |
-| col 2 er      | sentrert      |    12 |
-| zebra striper | er bra        |     1 |
+| Tabeller      |      Er       | Blæh |
+| ------------- | :-----------: | ---: |
+| col 3 er      | høyre-justert | 1600 |
+| col 2 er      |   sentrert    |   12 |
+| zebra striper |    er bra     |    1 |
 :::

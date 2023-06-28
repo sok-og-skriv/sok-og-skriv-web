@@ -1,19 +1,19 @@
 module.exports = {
   '/en/searching/': [
-    '',
+    './',
     'plan-your-searches',
     'searching-techniques',
     'systematic-searching',
   ],
   '/en/study-skills/': [
-    '',
+    './',
     'ways-of-reading',
     'reading-and-writing',
     'study-groups',
     'time-management'
   ],
   '/en/writing/': [
-    '',
+    './',
     'getting-started',
     'structure',
     'argue-explain-discuss',
@@ -23,7 +23,7 @@ module.exports = {
     'formal-requirements'
   ],
   '/en/sources-and-referencing/': [
-    '',
+    './',
     'how-to-cite',
     'different-sources',
     'source-assessment',

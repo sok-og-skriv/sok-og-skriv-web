@@ -22,7 +22,7 @@ På Søk & Skriv viser me stilane [APA, 7. utgåve](/referansestiler/apa-7th.htm
 
 **Her er ei enkel oppskrift for å sette inn kjelder og unngå plagiat:**
 
-<Video id="3IIoBZ0Tf_I" />
+<Video id="3IIoBZ0Tf_I" title="Kjelder og plagiat" />
 
 
 ## Kva skal refererast?
@@ -183,5 +183,5 @@ Det er fullt mogeleg å skrive ei oppgåve eller ein artikkel utan å bruke eit 
 
 ## QUIZ: Kva type kjelde er dette?
 
-<QuizEn v-bind:quizNum=1 />
+<Quiz v-bind:quizNum=1 />
 

@@ -72,7 +72,8 @@ Sjå på teksten i lys av andre tekstar. Still følgjande spørsmål:
 
 ::: tip Tips 
 I denne filmen laga ved UiO kan du lære meir om kjeldevurdering og -kritikk.
-<Video id="LswBxnztpzU" />  
+
+<Video id="LswBxnztpzU" title="Kjeldevurdering og -kritikk" />  
 ::: 
 
 

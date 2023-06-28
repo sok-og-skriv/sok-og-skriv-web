@@ -6,14 +6,13 @@ tags:
   - redegjørelse 
   - drøfting 
   - diskusjon
-
 ---
 
 # Argumentere, redegjøre og drøfte
 
 Argumentasjon er det som driver teksten din framover. Hva er det du vil si? Hva er hovedpoenget, og hvordan vil du underbygge dette? Å argumentere i en tekst betyr å gjøre det klart _hva_ det er du hevder i teksten og _hva du bygger på_. Du skal med andre ord begrunne dine påstander. Filmen "Saying what you mean" er et eksempel på hvordan dette kan gjøres.
 
-<Video id="OWeAPxlxGnE" />
+<Video id="OWeAPxlxGnE" title="Saying what you mean" />
 
 ### Argumentasjon: enkelt sagt 
 En enkel, men brukbar definisjon av argumentasjon er **påstand + begrunnelse**. Det vil si et utsagn om hvordan noe er (påstand) og hvorfor det er slik (begrunnelse). Denne definisjonen av argumentasjon vil ofte være tilstrekkelig for å kunne argumentere i en oppgave. For å gjøre poenget tydelig, kan du gjerne gi et eksempel på det du nettopp har skrevet. En mer avansert argumentasjonsmodell finnes nederst på siden.
@@ -74,7 +73,7 @@ Let etter argumentasjon og drøfting i pensumtekster. Se hvordan skriveren byg
 
 Skrivementor Ragna Neraal forklarer drøftingens gåter i dette opptaket fra digital Skrivenatt ved Universitetet i Oslo: 
 
-<Video id="/crOKC-T06ss" />
+<Video id="/crOKC-T06ss" title="Skrivementor Ragna Neraal forklarer drøftingens gåter" />
 
 ::: 
 

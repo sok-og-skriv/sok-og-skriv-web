@@ -7,7 +7,7 @@ date: "2012-04-19"
 
 I den tidlige fasen av oppgaveskrivingen vil du gjerne orientere deg bredt for å avklare problemstilling, metode og tilnærming. Da kan det være nyttig å skumlese ulike kilder. Noen av kildene vil du ta med deg i det videre arbeidet, mens andre bare er nyttige i den innledende fasen.
 
-<Video id="KFbQV7If_ZY" />
+<Video id="KFbQV7If_ZY" title="Planlegg søket ditt" />
 
 ## Finn bakgrunnsinformasjon
 

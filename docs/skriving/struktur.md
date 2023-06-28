@@ -77,4 +77,4 @@ Les fem avsnitt i en innføringsbok fra pensum, og se hvor mange av disse som f�
 
 Bak envher tekst som har en god struktur, ligger det mye arbeid. I denne filmen kan du se og høre professor Ingvild Sælid Gilhus fortelle om hvordan hun jobber med å revidere tekst.
 
-<Video id="rnqQo0pyg3E" />
+<Video id="rnqQo0pyg3E" title="Hvordan få en god struktur? " />
