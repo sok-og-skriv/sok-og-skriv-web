@@ -6,7 +6,7 @@ home: true
 footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 ---
 
-# Oppdateringstest
+# Oppdateringstest II
 
 <div class="cards">
   <div class="card">
