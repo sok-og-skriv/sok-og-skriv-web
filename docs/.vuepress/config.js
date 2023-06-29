@@ -245,17 +245,18 @@ module.exports = {
     [
       "@vuepress/pwa",
       {
-        serviceWorker: false,
-        updatePopup: {
-          "/": {
-            message: "Nytt innhold er tilgjenglig.",
-            buttonText: "Last inn på nytt",
-          },
-          "/en/": {
-            message: "New content is available.",
-            buttonText: "Refresh",
-          },
-        },
+        serviceWorker: true,
+        updatePopup: false,
+        // updatePopup: {
+        //   "/": {
+        //     message: "Nytt innhold er tilgjenglig.",
+        //     buttonText: "Last inn på nytt",
+        //   },
+        //   "/en/": {
+        //     message: "New content is available.",
+        //     buttonText: "Refresh",
+        //   },
+        // },
       },
     ],
     [
