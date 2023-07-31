@@ -3,7 +3,7 @@
     <div class="persons">
       <div class="person" v-for="i in activePersons" :key="i.id">
         <div class="image">
-          <img :src="i.imageUrl" v-if="i.imageUrl">
+          <img :src="i.imageUrl" v-if="i.imageUrl" alt="">
         </div>
         <div class="content">
           <a :href="i.url" target="_blank">
