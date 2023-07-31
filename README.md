@@ -3,20 +3,19 @@
 # Søk & Skriv
 
 * [Søk & Skriv](https://sokogskriv.no)
-* [Forhåndsvisning](sok-og-skriv-gitlab-io.tarjelavik.vercel.app)
 
 Søk & Skriv er laget for alle studenter som ønsker å lære mer om informasjonssøk og akademisk skriving, uavhengig av studiested og -emne.
 
 ## Installasjon
 
+Søk & Skriv er en [Vuepress](https://vuepress.vuejs.org/)-applikasjon. For å kjøre den lokalt trenger du [pnpm](https://pnpm.js.org/). `pnpm` benyttes fordi `npm` og `yarn` begge har problemer med å installere avhengigheter i `node_modules`-mappen til Vuepress.
+
 ```bash
-yarn install
-yarn dev
+pnpm install
+pnpm dev
 ```
 
 ## PWA asset generator
-
-~~*NB!* PWA ble slått av 2022.07.07.~~ Og slått på igjen senere...
 
 Vi kan generere det vi trenger av iconer til Søk og skriv ved å bruke [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator). Se [PWA splash screen and icon generator](https://itnext.io/pwa-splash-screen-and-icon-generator-a74ebb8a130) for informasjon.
 
