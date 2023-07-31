@@ -40,8 +40,8 @@ $border-color_4: $sosBlue;
 
 :root {
   // brand colors
-  --c-brand: #3eaf7c;
-  --c-brand-light: #4abf8a;
+  --c-brand: #A50007;
+  --c-brand-light: #f3676e;
 
   // background colors
   --c-bg: #ffffff;
@@ -55,7 +55,7 @@ $border-color_4: $sosBlue;
 
   // text colors
   --c-text: #2c3e50;
-  --c-text-accent: var(--c-brand);
+  --c-text-accent: #A50007;
   --c-text-light: #3a5169;
   --c-text-lighter: #4e6e8e;
   --c-text-lightest: #6a8bad;
@@ -66,19 +66,19 @@ $border-color_4: $sosBlue;
   --c-border-dark: #dfe2e5;
 
   // custom container colors
-  --c-tip: #42b983;
+  --c-tip: #96A407;
   --c-tip-bg: var(--c-bg-light);
   --c-tip-title: var(--c-text);
   --c-tip-text: var(--c-text);
   --c-tip-text-accent: var(--c-text-accent);
-  --c-warning: #ffc310;
-  --c-warning-bg: #fffae3;
+  --c-warning: #ED7900;
+  --c-warning-bg: #fae5cf;
   --c-warning-bg-light: #fff3ba;
   --c-warning-bg-lighter: #fff0b0;
   --c-warning-border-dark: #f7dc91;
   --c-warning-details-bg: #fff5ca;
   --c-warning-title: #40330c;
-  --c-warning-text: #746000;
+  --c-warning-text: #5c3b01;
   --c-warning-text-accent: #edb100;
   --c-warning-text-light: #c1971c;
   --c-warning-text-quote: #ccab49;
@@ -126,6 +126,7 @@ $border-color_4: $sosBlue;
   --content-width: 740px;
   --homepage-width: 960px;
 }
+
 
 html.dark {
   // brand colors
@@ -197,6 +198,10 @@ html.dark {
 
 body {
   font-size: 17px;
+}
+
+.meta-item-info {
+  color: var(--c-text-lighter) !important;
 }
 
 summary {
