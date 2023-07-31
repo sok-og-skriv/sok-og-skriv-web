@@ -4,7 +4,6 @@ import { defineComponent } from 'vue'
 import { usePageLang, usePageData } from '@vuepress/client'
 const locale = usePageLang()
 const page = usePageData()
-console.log("🚀 ~ file: Layout.vue:7 ~ path:", page)
 
 defineComponent({
   setup() {
@@ -24,14 +23,6 @@ const iframe = `<iframe
 
 <template>
   <ParentLayout>
-    <template #page-content-bottom>
-      <details>
-        <summary v-if="locale === 'EN'">Embed</summary>
-        <summary v-if="locale === 'NO'">Bygg inn</summary>
-        <pre class="">{{ iframe }}</pre>
-      </details>
-    </template>
-
     <template #page-bottom>
       <div class="theme-default-content">
         <hr />
@@ -108,18 +99,26 @@ const iframe = `<iframe
 
         <hr />
 
-        <div class="container two-column footer-links">
-          <div class="align-right">
+        <div class="container  footer-links">
+          <div v-if="locale === 'NO'">
             <div><a href="/om/">Om Søk & Skriv</a></div>
             <div><a href="/om/kontaktinformasjon.html">Kontaktinformasjon</a></div>
             <div><a href="/om/sok-og-skriv-i-undervisning.html">Søk & Skriv i undervisning</a></div>
             <div><a
                 href="https://uustatus.no/nb/erklaringer/publisert/c6d9a394-b5ac-48fd-9f1f-0154b2daacbc">Tilgjengelighetserklæring</a>
             </div>
+            <details class="embed">
+              <summary>Bygg inn</summary>
+              <pre class="">{{ iframe }}</pre>
+            </details>
           </div>
-          <div class="align-left">
+          <div v-if="locale === 'EN'">
             <div><a href="/en/about/">About Search & Write</a></div>
             <div><a href="/en/about/contact-information.html">Contact</a></div>
+            <details class="embed">
+              <summary>Embed</summary>
+              <pre class="">{{ iframe }}</pre>
+            </details>
           </div>
         </div>
       </div>
@@ -128,25 +127,28 @@ const iframe = `<iframe
 </template>
 
 <style lang="css">
-details {
-  margin: 1em auto;
+details.embed {
+  margin: 0em auto;
+  padding: 10px;
 
-  width: 100%;
+  width: 640px;
 }
 
-summary {
+summary.embed {
+  background-color: var(--c-details-bg) !important;
   padding: 0;
-  margin-bottom: 5px;
+  margin: 5px 0 !important;
   color: #666;
+  overflow-x: scroll;
+  text-align: center;
 }
 
-details pre {
+details.embed pre {
   border-radius: 0 !important;
   font-size: 0.9em;
-  border-left: solid 0.5rem #96a407;
   background-color: #f3f5f7;
   padding: 0.5rem 1rem !important;
-  margin: 0 !important;
+  margin: 0.25em 0 !important;
 }
 
 .page {

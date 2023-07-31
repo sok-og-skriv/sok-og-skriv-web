@@ -694,6 +694,10 @@ table {
   }
 }
 
+details {
+  max-width: 630px;
+}
+
 @media (max-width: 719px) {
   .home {
     .feature {
