@@ -77,7 +77,7 @@ $border-color_4: $sosBlue;
   --c-warning-bg-lighter: #fff0b0;
   --c-warning-border-dark: #f7dc91;
   --c-warning-details-bg: #fff5ca;
-  --c-warning-title: #f1b300;
+  --c-warning-title: #40330c;
   --c-warning-text: #746000;
   --c-warning-text-accent: #edb100;
   --c-warning-text-light: #c1971c;
@@ -424,6 +424,7 @@ a {
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-word;
+  color: #234e5c;
 }
 
 p {
