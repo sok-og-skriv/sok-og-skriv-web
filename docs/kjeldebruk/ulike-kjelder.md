@@ -142,7 +142,3 @@ Du er i startfasen og har bestemt deg for overordna tema. Kvar vil du gå for å
 I startfasen kan det vere lurt å gå breitt ut. Dersom overordna tema er «Helse og fysisk aktivitet» kan eit søk på desse orda i t.d. Oria og Google vere ein god start. I denne fasen kan du sjå på alt frå avisartiklar og nettsider, til fagbøker og forskingsartiklar.  Korleis er tema vinkla? Er det nokre aspekt her som ser  særleg interessante ut? Merk deg relevante ord, fagtermar og fagpersonar til vidare søk.
 ::::
 
-:::
-
-
-
