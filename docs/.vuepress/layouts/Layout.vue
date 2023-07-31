@@ -1,9 +1,11 @@
 <script setup>
 import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 import { defineComponent } from 'vue'
-import { usePageLang } from '@vuepress/client'
+import { usePageLang, usePageData } from '@vuepress/client'
 const locale = usePageLang()
-console.log(locale)
+const page = usePageData()
+console.log("🚀 ~ file: Layout.vue:7 ~ path:", page)
+
 defineComponent({
   setup() {
     const locale = usePageLang();
@@ -14,10 +16,22 @@ defineComponent({
   }
 });
 
+const iframe = `<iframe
+  src="https://sokogskriv.no${page.value.path}"
+  width="900" height="600" style="overflow: hidden;" />`
+
 </script>
 
 <template>
   <ParentLayout>
+    <template #page-content-bottom>
+      <details>
+        <summary v-if="locale === 'EN'">Embed</summary>
+        <summary v-if="locale === 'NO'">Bygg inn</summary>
+        <pre class="">{{ iframe }}</pre>
+      </details>
+    </template>
+
     <template #page-bottom>
       <div class="theme-default-content">
         <hr />
@@ -114,7 +128,29 @@ defineComponent({
 </template>
 
 <style lang="css">
-.my-footer {
-  text-align: center;
+details {
+  margin: 1em auto;
+
+  width: 100%;
+}
+
+summary {
+  padding: 0;
+  margin-bottom: 5px;
+  color: #666;
+}
+
+details pre {
+  border-radius: 0 !important;
+  font-size: 0.9em;
+  border-left: solid 0.5rem #96a407;
+  background-color: #f3f5f7;
+  padding: 0.5rem 1rem !important;
+  margin: 0 !important;
+}
+
+.page {
+  padding-bottom: 2rem;
+  display: block;
 }
 </style>
