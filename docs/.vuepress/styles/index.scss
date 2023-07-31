@@ -79,7 +79,7 @@ $border-color_4: $sosBlue;
   --c-warning-details-bg: #fff5ca;
   --c-warning-title: #40330c;
   --c-warning-text: #5c3b01;
-  --c-warning-text-accent: #edb100;
+  --c-warning-text-accent: #594301;
   --c-warning-text-light: #c1971c;
   --c-warning-text-quote: #ccab49;
   --c-danger: #f11e37;
@@ -450,6 +450,10 @@ p {
 
   .custom-block-title {
     color: $color_4;
+  }
+
+  * a {
+    color: darken($color_4, 100%) !important;
   }
 }
 
