@@ -1,46 +1,20 @@
-<template>
-  <div class="video_container">
-    <LazyYoutubeVideo :src="data" previewImageSize="hqdefault" />
-  </div>
-</template>
+<script setup>
+import { ref } from 'vue'
+import LiteYouTubeEmbed from 'vue-lite-youtube-embed'
+import 'vue-lite-youtube-embed/style.css'
 
-<script>
-import Vue from "vue";
-import LazyYoutubeVideo from "vue-lazy-youtube-video";
-import "vue-lazy-youtube-video/dist/style.css";
+const props = defineProps({
+  id: String,
+  title: String,
+});
 
-export default {
-  components: {
-    LazyYoutubeVideo,
-  },
-  props: {
-    id: String,
-  },
-  data() {
-    let id = this.id;
-    let data = `https://www.youtube.com/embed/${id}`;
+const iframe = ref(null)
 
-    return {
-      data: data,
-    };
-  },
-};
+iframe.value?.stopVideo()
+iframe.value?.pauseVideo()
+iframe.value?.playVideo()
 </script>
 
-<style scoped>
-.video_container {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
-  margin-bottom: 1rem;
-}
-.video_container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
-</style>
+<template>
+  <LiteYouTubeEmbed :id="id" ref="iframe" :title="title" />
+</template>

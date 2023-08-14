@@ -73,7 +73,8 @@ Velg mellom nummererte og unummererte overskrifter. Antall overskriftsnivåer ti
 />
 
 ::: details Videoguide
-<Video id="aYdGlx8bFLI" />
+
+<Video id="aYdGlx8bFLI" title="Lister i Word" />
 
 Se også [hjelpesider for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). 
 :::

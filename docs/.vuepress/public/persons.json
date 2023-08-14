@@ -1,0 +1,111 @@
+{
+  "persons": [
+    {
+      "fullname": "Anne Sæbø",
+      "active": true,
+      "affiliation": {
+        "no": "Universitetet i Oslo",
+        "en": "University of Oslo"
+      },
+      "imageUrl": "/persons/anne-150x150.jpg",
+      "url": "https://www.ub.uio.no/om/ansatte/humsam/ang/index.html"
+    },
+    {
+      "fullname": "Ingunn Rødland",
+      "active": true,
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/persons/ingunn-150x150.jpg",
+      "url": "https://www.uib.no/personer/Ingunn.Rodland"
+    },
+    {
+      "fullname": "Kathrine Cohen",
+      "active": true,
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/persons/kathrine-150x150.jpg",
+      "url": "https://www.uib.no/personer/Kathrine.Cohen"
+    },
+    {
+      "fullname": "Iselin Brente",
+      "active": false,
+      "timespan": "2019-2020",
+      "affiliation": {
+        "no": "Universitetet i Oslo",
+        "en": "University of Oslo"
+      },
+      "imageUrl": "/persons/iselin-150x150.jpg",
+      "url": "https://www.ub.uio.no/om/ansatte/uhs/uhspublikum/iselinlb/"
+    },
+    {
+      "fullname": "Anita Svedal",
+      "active": true,
+      "affiliation": {
+        "no": "Høgskulen på Vestlandet",
+        "en": "Western Norway University of Applied Sciences"
+      },
+      "imageUrl": "/persons/anita-150x150.jpg",
+      "url": "https://www.hvl.no/person/?user=Anita.Svedal"
+    },
+    {
+      "fullname": "June Audsdotter Stafsnes",
+      "active": false,
+      "affiliation": {
+        "no": "Høgskulen på Vestlandet",
+        "en": "Western Norway University of Applied Sciences"
+      },
+      "imageUrl": "/persons/june-150x150.jpg",
+      "url": "https://www.hvl.no/person/?user=6022370"
+    },
+    {
+      "fullname": "Toril Engesæter",
+      "active": true,
+      "affiliation": {
+        "no": "Høgskulen på Vestlandet",
+        "en": "Western Norway University of Applied Sciences"
+      },
+      "imageUrl": "/persons/toril-150x150.png",
+      "url": "https://www.hvl.no/person/?user=2404847"
+    },
+    {
+      "fullname": "Øyunn Viken",
+      "active": false,
+      "timespan": "2019-2020",
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "",
+      "url": "https://www.uib.no/personer/Oyunn.Viken"
+    },
+    {
+      "fullname": "Johannes Servan",
+      "active": true,
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "imageUrl": "/persons/johannes-150x150.jpg",
+      "url": "https://www.uib.no/personer/Johannes.Servan"
+    },
+    {
+      "fullname": "Tarje Sælen Lavik",
+      "active": true,
+      "timespan": "2009-    ",
+      "affiliation": {
+        "no": "Universitetet i Bergen",
+        "en": "University of Bergen"
+      },
+      "bio": {
+        "no": "Webansvarlig",
+        "en": "Webmaster"
+      },
+      "imageUrl": "/persons/tarje-150x150.jpg",
+      "url": "https://www.uib.no/personer/Tarje.Lavik"
+    }
+  ]
+}

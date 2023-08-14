@@ -55,7 +55,7 @@ Certain universities have clear guidelines for self-citation and plagiarism, oth
 
 **Video: How to cite sources and avoid plagiarism**
 
-<Video id="esfZOcBIB6w" />
+<Video id="esfZOcBIB6w" title="How to cite sources and avoid plagiarism" />
 
 
 ## Copyright

@@ -27,7 +27,5 @@ Hør Birger Solheims råd om hvordan du som student kan bli en bedre leser:
 
 
 
-<Video id="JchpFI50UDk" />
-
-
+<Video id="JchpFI50UDk" title="Birger Solheim om lesing" />
 

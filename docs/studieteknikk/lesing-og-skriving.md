@@ -16,7 +16,7 @@ Gjennom lesingen plukker du opp og samler inn momenter du kan bruke i skrivingen
 ::: eksempel Hvordan kan jeg skrive selvstendig? 
 Hør filosof og skrivementor Åsne Grøgaard gi en innføring i hva det vil si å «ta stilling» til noe du har lest. 
 
-<Video id="FJKg3G-JRpg" />
+<Video id="FJKg3G-JRpg" title="Hvordan kan jeg skrive selvstendig?" />
 ::: 
 
 ## Hvordan ta gode notater? 

@@ -12,7 +12,7 @@ tags:
 
 God forsking bygger vidare på eksisterande kunnskap; det er dette me kallar kjeldebruk. Når du skriv akademiske tekstar blir det venta at du viser til gode kjelder. Utan bruk av relevant kunnskap, står oppgåva di på bar bakke. 
 
-<Video id="GPR0phJIsuk" />
+<Video id="GPR0phJIsuk" title="Kjeldebruk" />
 
 
 ## Kvifor skal ein referere til andre sitt arbeid? 

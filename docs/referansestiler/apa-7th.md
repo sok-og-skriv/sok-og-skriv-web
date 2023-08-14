@@ -228,7 +228,7 @@ E-bok uten DOI: Fyll ut feltene Author, Year, Title, Publisher, URL.
 ### Oversatte bøker
 Leser du et verk som er oversatt, er det oversettelsen det refereres til og ikke originalverket. Oversetteren skal krediteres i referansen. Årstallet for originalverket oppgis i slutten av referansen: 
 
-::: ref
+:::: ref
 <span class="ref">Tolkien, J. R. R. (2004). _Ringenes herre: Ringens brorskap_ (T. B. Høverstad, Overs.). Tiden. (Opprinnelig utgitt 1954).</span>
 
 
@@ -242,10 +242,8 @@ Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Titl
 I Zotero:
 
 Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
-
 ::: 
-
-:::
+::::
 
 ## Artikler 
 

@@ -63,8 +63,8 @@ Pettersen avslører i denne sammenheng noen myter om skriving.^2^
 
 Legges inn som «Book».
 
-Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher 
-.::: 
+Fyll ut feltene: Author (trykk "enter" mellom hvert navn hvis flere), Year, Title, Place Published, Publisher.
+::: 
 :::: 
 
 
@@ -682,7 +682,7 @@ NOU (2020: 3) Ny lov om universiteter og høyskoler
 :::
 
 
-:::: ref
+::: ref
 
 NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Eventuelt URL
 
@@ -690,7 +690,7 @@ NOU årstall: nr. _Tittel_. Utgiversted: Utgiver. Eventuelt URL
 
 NOU 2011: 18. _Struktur for likestilling_. Oslo: Barne-, likestillings- og inkluderingsdepartementet. [https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/](https://www.regjeringen.no/no/dokumenter/nou-2011-18/id663064/)
 
-:::: 
+::: 
 
 
 

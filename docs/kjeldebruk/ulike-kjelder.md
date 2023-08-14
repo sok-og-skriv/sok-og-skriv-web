@@ -129,7 +129,7 @@ Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje til
 ### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 
-<Video id="ktM1r1Ca5Tc" />
+<Video id="ktM1r1Ca5Tc" title="Odd Are Berkaak om å skrive informanter inn i teksten din" />
 
 
 
@@ -141,8 +141,4 @@ Du er i startfasen og har bestemt deg for overordna tema. Kvar vil du gå for å
 :::: details Forslag til løysing
 I startfasen kan det vere lurt å gå breitt ut. Dersom overordna tema er «Helse og fysisk aktivitet» kan eit søk på desse orda i t.d. Oria og Google vere ein god start. I denne fasen kan du sjå på alt frå avisartiklar og nettsider, til fagbøker og forskingsartiklar.  Korleis er tema vinkla? Er det nokre aspekt her som ser  særleg interessante ut? Merk deg relevante ord, fagtermar og fagpersonar til vidare søk.
 ::::
-
-:::
-
-
 

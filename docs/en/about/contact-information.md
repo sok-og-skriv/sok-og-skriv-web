@@ -11,26 +11,4 @@ Questions regarding use of references should be addressed to your academic libra
 
 ## Editors
 
-<div class="persons">
-  <div class="person" v-for="i in items">
-    <div class="image">
-      <img :src="i.imageUrl" v-if="i.imageUrl">
-    </div>
-    <div class="content">
-      <a :href="i.url" target="_blank"><h3>{{i.fullname}}</h3></a>
-      <p>{{i.affiliation.en}}</p>
-      <p v-if="i.bio && i.bio.no">{{i.bio.en}}</p>
-    </div>
-  </div>
-</div>
-
-<script>
-import data from '../../om/persons.json'
-export default {
-  data () {
-      return {
-          items: data.persons.filter(person => person.active === true)
-      }
-  }
-}
-</script>
+<Persons />

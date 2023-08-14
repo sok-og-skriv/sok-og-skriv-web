@@ -62,7 +62,7 @@ Numbered Headings
 />
 
 ::: details Video guide
-<Video id="aYdGlx8bFLI" />
+<Video id="aYdGlx8bFLI" title="Lists in Word" />
 
 You can also consult the [help site for Office](https://support.office.com/en-gb/article/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585). 
 
