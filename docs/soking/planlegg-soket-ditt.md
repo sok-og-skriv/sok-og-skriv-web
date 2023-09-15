@@ -56,7 +56,7 @@ Bruk fagterminologi når du søker. Fagtermer kan finnes i ordbøker, lærebøke
 ::: tip Tips 
 + Bruk fagterminologi
 + Merk at for hvert tematiske element kan det finnes mange synonymer eller relaterte begrep
-+ Vær oppmerksom på at søkeord som er gode i én database, kan være mindre gode i en annen
++ [Ordbokene.no](https://ordbokene.no/) er en kvalitetssikret kilde som kan være til hjelp når du skal finne gode søkeord
 :::
 
 ## Avgrensing av søk
