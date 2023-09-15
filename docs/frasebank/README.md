@@ -16,7 +16,9 @@ Denne frasebanken er dynamisk. Vi tar gjerne imot innspill til hvordan den kan b
 
 For phrases in English, we recommend the Academic Phrasebank from the University of Manchester: [https://www.phrasebank.manchester.ac.uk/](https://www.phrasebank.manchester.ac.uk/)
 
-Dersom du skriver nynorsk, kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste](https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
+::: tip TIPS
+Bruk gjerne ordbøker både for rettskriving, grammatikk og riktig bruk av ord. [Ordbokene.no](https://ordbokene.no/) er en kvalitetssikret og åpent tilgjengelig ordbok. Dersom du skriver nynorsk, kan administrativ ordliste fra Språkrådet være et godt supplement: [sprakradet.no/administrativordliste](https://www.sprakradet.no/sprakhjelp/Skriverad/Nynorskhjelp/administrativ-ordliste/#B)
+:::
 
 ## Vise til tidligere studier uten å ta stilling
 
