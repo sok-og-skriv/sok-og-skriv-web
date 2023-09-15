@@ -60,7 +60,7 @@ Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.or
 
 
 
-### Hvordan kan kunstig intelligens (f.eks ChatGPT) brukes på en etisk måte? 
+### Hvordan kan kunstig intelligens (f.eks ChatGPT) brukes? 
 
 ::: oppgave Verktøy som bruker kunstig intelligens 
 
