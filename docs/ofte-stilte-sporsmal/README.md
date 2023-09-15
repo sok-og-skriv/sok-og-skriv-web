@@ -22,6 +22,8 @@ tags:
   - AI
   - språkmodeller
   - "Large language models"
+  - "Bing Chat"
+  - Bard
 
 ---
 
