@@ -100,11 +100,11 @@ _Ny lov om universiteter og høyskoler_).
 
 ## Akademisk ordbruk 
 
-::: tip Skriv nøkternt 
-Bruk adjektiver med måte, og vær forsiktig med metaforbruken. "Less is more" i akademisk skriving.  
-:::
+"Less is more" i akademisk skriving. I det ligger det blant annet å bruke adjektiver med måte, og generelt være forsiktig med bruk av metaforer. Med andre ord; skriv nøkternt.
 
-::: warning Tips – og noen vanlige feil 
+Rettskriving er vesentlig for hvordan teksten din fremstår. Bruk gjerne ordbøker både for rettskriving, grammatikk og riktig bruk av ord. [Ordbokene.no](https://ordbokene.no/) er en kvalitessikret og åpent tilgjengelig nynorsk- og bokmålsordbok.
+
+::: details Les mer om tips - og noen vanlige feil
 Muntlig språk, private betraktninger, småprat og sterke karakteristikker bør unngås i en akademisk tekst. For å få en ryddigere tekst kan det også hjelpe å kutte ut ord som ikke tilfører noe til resonnementet, for eksempel adjektiver, adverb og småord.
 
 En god regel er å bruke vanlige ord som du er sikker på at du forstår. Unngå fremmedord dersom du kan bruke vanlige, norske ord som betyr det samme. Selv om en sensor ofte kan gjette seg fram til hva studenten ønsker å si, er det best å uttrykke seg presist.
