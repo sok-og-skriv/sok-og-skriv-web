@@ -58,13 +58,13 @@ Når du skriver en referanse som har DOI-nummer, må du legge til https://doi.or
 
 
 
-### Hvordan kan kunstig intelligens (f.eks ChatGPT) brukes på en etisk måte? 
+### Hvordan kan kunstig intelligens (f.eks ChatGPT) brukes? 
 
 ::: oppgave Verktøy som bruker kunstig intelligens 
 
 Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med mer. Norsk lovverk er ikke tilpasset den nye virkeligheten, og verktøyene er i en svært rask utvikling slik at det er vanskelig å utarbeide retningslinjer. Søk & Skriv-redaksjonen gir ingen egne anbefalinger, men formidler de retningslinjene som kommer fra sektoren. 
 
-[Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-verktøy som ChatGPT dersom man har anledning til å bruke det.
+[Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-generert tekst som ChatGPT dersom man har anledning til å bruke det.
 :::
 
  Det er viktig å huske på at tekster som leveres inn til vurdering, eksamen o.l., skal være skrevet av deg. Dersom du bruker ChatGPT eller tilsvarende språkmodeller til å produsere ferdig tekst, vil dette kunne regnes som fusk.
