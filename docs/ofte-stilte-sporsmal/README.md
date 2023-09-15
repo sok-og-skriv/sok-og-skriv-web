@@ -69,7 +69,7 @@ Kunstig intelligens brukes i verktøy for skriving, søking, studieteknikk med m
 [Referansestilen APA](https://www.sokogskriv.no/referansestiler/apa-7th.html#sprakmodeller-f-eks-chatgpt-writesonic-mfl) har laget en anbefaling for hvordan man kan vise til KI-genererte tekster som ChatGPT dersom man har anledning til å bruke det.
 :::
 
- Det er viktig å huske på at tekster som leveres inn til vurdering, eksamen o.l., skal være skrevet av deg. Dersom du bruker ChatGPT eller tilsvarende språkmodeller til å produsere ferdig tekst, vil dette kunne regnes som fusk..
+ Det er viktig å huske på at tekster som leveres inn til vurdering, eksamen o.l., skal være skrevet av deg. Dersom du bruker ChatGPT eller tilsvarende språkmodeller til å produsere ferdig tekst, vil dette kunne regnes som fusk.
 
 ChatGPT kan likevel være nyttig for å støtte skriveprosesser og utvikle skrivekompetanse, spesielt for dem som skriver på sitt andre- eller tredjespråk og/eller har lese- og skrivevansker. Verktøyet blir nyttigere jo mer man lærer seg om å snakke (chatte) med det. Poenget er altså ikke å «få svar» eller ferdig tekst, men å bruke språkmodellen til å utvikle ideer skapt **av deg**, i et språk som gir god mening **for en leser**.  
 
