@@ -81,7 +81,7 @@ Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei opp
 Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du kan nytte Google til raskt å finne informasjon, lese nettaviser for å finne siste nytt, eller sjå korleis emnet ditt blir dekka i media. Eit googlesøk kan gi deg treff på alt frå fagfellevurderte forskingsartiklar til hardkokte konspirasjonsteoriar. Ved å nytte internett som kunnskapskjelde blir du stilt ovanfor eit hav av informasjon. Det er såleis særs viktig at du [vurderer](/kjeldebruk/kjeldevurdering.html) det du finn kritisk med tanke på innhald, kontekst og opphav. 
 
 ### Leksikon og oppslagsverk
-Leksikon og oppslagsverk inneheld fagleg, kvalitetssikra informasjon. Innhaldet varierer frå korte innførslar til oversiktsratiklar som samanfattar sentral teori og forskning innanfor eit fagfelt. Sisnemnde kan dermed vere ei viktig kjelde til referanser.
+Leksikon og oppslagsverk inneheld fagleg, kvalitetssikra informasjon. Innhaldet varierer frå korte innførslar til oversiktsartiklar som samanfattar sentral teori og forskning innanfor eit emne. Sisnemnde kan dermed vere ei viktig kjelde til referanser.
 
 ::: tip Tips
 Nytt gjerne fagspesifikke leksikon som for eksempel _Store Medisinske Leksikon_.
