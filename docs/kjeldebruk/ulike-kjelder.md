@@ -113,5 +113,5 @@ Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje til
 ### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 
-<Video id="ktM1r1Ca5Tc" title="Odd Are Berkaak om å skrive informanter inn i teksten din" /
+<Video id="ktM1r1Ca5Tc" title="Odd Are Berkaak om å skrive informanter inn i teksten din" />
 
