@@ -4,16 +4,9 @@ date: "2012-03-16"
 prev: "../writing/formal-requirements"
 ---
 
-# Sources and referencing  
+# ![](/images/illustrasjoner_kildehenvisning_500x450.png) Sources and referencing  
 
 All research uses the work of others as its starting point – what we call ‘sources’. Good academic work is characterized by use of relevant, scientific sources, and builds on existing knowledge. Without citations to existing research, disciplinary knowledge and relevant information, your assignment will be detached from the scholarly community. Any sources you use will help to lay the foundations for the assessment of your text.
-
-<Figure
-  src="/images/illustrasjoner_kildehenvisning_500x450.png"
-  alt="Dialog boxes hanging over an open book"
-  caption=""
-  type="right"
-/>
 
 The best sources to use will vary from subject to subject, and from assignment to assignment. Relevant sources can be found everywhere: in books, articles, websites, news articles, and maps. Use your research question as a guide, and ask your tutors, fellow students and researchers within your field to help you find sources that are appropriate for your discipline. 
 
