@@ -80,36 +80,20 @@ Du skaper sjølv eit åndsverk når du skriv oppgåva di! Vel du å nytte ei opp
 ### Nettstader
 Det er mange ulike nettstader som kan vere relevante å nytte som kjelder. Du kan nytte Google til raskt å finne informasjon, lese nettaviser for å finne siste nytt, eller sjå korleis emnet ditt blir dekka i media. Eit googlesøk kan gi deg treff på alt frå fagfellevurderte forskingsartiklar til hardkokte konspirasjonsteoriar. Ved å nytte internett som kunnskapskjelde blir du stilt ovanfor eit hav av informasjon. Det er såleis særs viktig at du [vurderer](/kjeldebruk/kjeldevurdering.html) det du finn kritisk med tanke på innhald, kontekst og opphav. 
 
-### Leksikon
-Leksika inneheld fagleg, kvalitetssikra informasjon og bakgrunnsstoff om ei mengd emne. Artiklane er samla av eigne emneredaktørar innanfor ulike fagområde og har gode referanselister. Dei finst både i trykte og elektroniske utgåver. 
+### Leksikon og oppslagsverk
+Leksikon og oppslagsverk inneheld fagleg, kvalitetssikra informasjon. Innhaldet varierer frå korte innførslar til oversiktsratiklar som samanfattar sentral teori og forskning innanfor eit fagfelt. Sisnemnde kan dermed vere ei viktig kjelde til referanser.
 
 ::: tip Tips
-Nytt gjerne fagspesifikke leksika som for eksempel _Store Medisinske Leksikon_.
+Nytt gjerne fagspesifikke leksikon som for eksempel _Store Medisinske Leksikon_.
 :::
 
-Leksikon er ei god kjelde å nytte når du treng definisjonar til omgrep, ord og uttrykk.  
-
-### Blogg
-
-Ein blogg kan vere ein grei innfallsvinkel for å følgje diskusjonar i ulike fora. Ver merksam på kven som står bak bloggen då dei ofte har ei dagbokform og reflekterer personlege erfaringar og meiningar. Bloggar byggjer ikkje alltid på etterprøvbare og vitskaplege dokumenterte påstandar. 
-
-::: tip Tips
-Undersøk om du kan finne ein relevant fagblogg. Sjå for eksempel bloggen til [Forskning.no](https://blogg.forskning.no/).
-:::
+Treng du definisjonar til omgrep, ord og uttrykk, kan leksikon og oppslagsverk vere gode kjelder. 
 
 ### Kronikk
-Kronikk er ein relativt kort artikkel av opplysande eller resonnerande karakter, oftast i ei avis og skrive av ein som ikkje er tilsett i avisa. Kronikkar nyttast ofte av forskarar til å bringe forskingsbasert kunnskap inn i den offentlege meiningsutvekslinga. Kronikkar kan, på linje med leksika og Wikipedia, vere ein god stad å starte for å få ei grei oversikt på eit gitt emne og ei betre forståing av emne utan fagleg tunge ord og uttrykk.
+Kronikk er ein relativt kort artikkel av opplysande eller resonnerande karakter, oftast i ei avis og skrive av ein som ikkje er tilsett i avisa. Kronikkar nyttast ofte av forskarar til å bringe forskingsbasert kunnskap inn i den offentlege meiningsutvekslinga.
 
-### Nyhende
-Nyhende kan vere aktuelle å nytte for å danne seg eit bilete av korleis emne blir dekka av media og omtala i samtida. Merk at på same måte som kronikkar, populærvitskaplege tekstar og essay, er ikkje nyhende fagleg tunge, og bør ikkje brukast direkte til argumentasjon og drøfting. 
-
-
-### Radio- eller TV-program
-Radio- eller TV-program kan også vere ein god stad å starte for å få innfallsvinklar til oppgåva di. Om du skal skrive om psykiatrien, men er usikker på kva vinkling du ønskjer, kan det vere aktuelt å høyre podcasten «Hos Peder» eller å sjå tv-programmet «Helene sjekker inn». Eller om du skriv om andre temaer innan samfunn, helse eller miljø, finst det mange både norske og internasjonale program og podcastar som kan hjelpe deg å få idear og inspirasjon.
-
-::: warning OBS!
-Vel du å nytte radio- eller TV program som kjelde kan kortare klipp nyttast utan spesiell tillating frå dei som står bak, men for lengre klipp må opphavspersonen kontaktast. Unngå fordreiingar av meningsinnhaldet.
-:::
+### Nyheiter
+Nyheiter kan nyttast for å aktualisere eit emne og fortelje noko om korleis det blir omtala i media. 
 
 ### Bilete, fotografi, illustrasjonar, biletkunst
 Du har lov til å bruke foto du har teke sjølv, men hugs at i dei fleste tilfelle må avbilda personar gi samtykke.  
@@ -130,15 +114,4 @@ Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje til
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 
 <Video id="ktM1r1Ca5Tc" title="Odd Are Berkaak om å skrive informanter inn i teksten din" />
-
-
-
-## Oppgåve
-
-::: oppgave Øving 1
-Du er i startfasen og har bestemt deg for overordna tema. Kvar vil du gå for å få inspirasjon og idear til spissing og vinkling av  oppgåva di?
-
-:::: details Forslag til løysing
-I startfasen kan det vere lurt å gå breitt ut. Dersom overordna tema er «Helse og fysisk aktivitet» kan eit søk på desse orda i t.d. Oria og Google vere ein god start. I denne fasen kan du sjå på alt frå avisartiklar og nettsider, til fagbøker og forskingsartiklar.  Korleis er tema vinkla? Er det nokre aspekt her som ser  særleg interessante ut? Merk deg relevante ord, fagtermar og fagpersonar til vidare søk.
-::::
 
