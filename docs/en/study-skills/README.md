@@ -4,20 +4,13 @@ date: "2012-03-16"
 prev: "../searching/systematic-searching"
 ---
 
-# Study skills
+# ![](/images/illustrasjoner_lesing_500x450.png) Study skills
 
 Being aware of your own study skills is of great help to you. This section about study skills concentrates on planning, reading strategies and writing strategies. Here you will get tips on how to read and understand texts, take good notes, collaborate in study groups, and plan and manage time. 
 
 # Reading and writing are connected
 
 Reading and writing are closely related activities in all types of academic work. In order to write a good thesis, you need to be a good reader, and you need to be conscious of _how_ as well as of _what_ you read.
-
-<Figure
-  src="/images/illustrasjoner_lesing_500x450.png"
-  alt="Books flying into the air"
-  caption=""
-  type="right"
-/>
 
 The most important thing you can do to improve your reading is to actually _read_. People who read a lot on a regular basis will usually develop good reading and writing skills. Our number one advice to get started with your studies is simply this: Get reading! There is no other way to become a good student.
 
