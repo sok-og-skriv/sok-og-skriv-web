@@ -110,6 +110,18 @@ BONO er ein opphavsrettsorganisasjon for biletkunst. Sjekk om din institusjon ha
 
 Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje tillate å kopiere han inn i ditt eige arbeid utan samtykke frå opphavar. Skriv heller med dine eigne ord kva tabellen eller grafen seier – og vis til han, eller lag din eigen. Det enklaste kan vere å spørje opphavaren om lov til å bruke tabellen eller grafen. 
 
+### KI-verktøy
+
+Det er viktig å vere klar over kvar samtalerobotar som ChatGPT, BingChat og Bard hentar informasjonen sin frå.
+
+Samtalerobotane er språkmodellar som er trent på ei stor mengd tekst henta frå ulike kjelder. Det kan vere bøker, Wikipedia, avisartiklar eller vitskaplege tidsskrift. Det er ikkje mogleg å vite kvar informasjonen er henta, og heller ikkje mogleg å få roboten til å vise til kjeldene sine. Merk også at informasjonen robotane bygger svara sine på ikkje nødvendigvis er oppdatert.
+
+Sjølv om samtalerobotane er trent opp på tekstar som inneheld mykje informasjon, så er dei ikkje trent opp til å gje att informasjon korrekt eller innhente sikker kunnskap. Enkelte gongar samsvarar svaret med riktige opplysningar, andre gongar ikkje. 
+
+::: warning Viktig!
+Sjekk  alltid informasjonen du får frå ein samtalerobot opp mot ei truverdig kjelde!
+:::
+
 ### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 
