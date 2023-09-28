@@ -116,8 +116,11 @@ Det er viktig å vere klar over kvar samtalerobotar som ChatGPT, BingChat og Bar
 
 Samtalerobotane er språkmodellar som er trent på ei stor mengd tekst henta frå ulike kjelder. Det kan vere bøker, Wikipedia, avisartiklar eller vitskaplege tidskrift. Det er ikkje mogleg å vite kvar informasjonen er henta, og heller ikkje mogleg å få roboten til å vise til kjeldene sine. Merk også at informasjonen robotane bygger svara sine på ikkje nødvendigvis er oppdatert.
 
-Sjølv om samtalerobotane er trent opp på tekstar som inneheld mykje informasjon, så er dei ikkje trent opp til å gje att informasjon korrekt eller innhente sikker kunnskap. Enkelte gongar samsvarar svaret med riktige opplysningar, ande gongar ikkje. Sjekk  alltid informasjonen du får frå ein samtalerobot opp mot ei truverdig kjelde!
+Sjølv om samtalerobotane er trent opp på tekstar som inneheld mykje informasjon, så er dei ikkje trent opp til å gje att informasjon korrekt eller innhente sikker kunnskap. Enkelte gongar samsvarar svaret med riktige opplysningar, ande gongar ikkje. 
 
+::: warning Viktig!
+Sjekk  alltid informasjonen du får frå ein samtalerobot opp mot ei truverdig kjelde!
+:::
 
 ### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
