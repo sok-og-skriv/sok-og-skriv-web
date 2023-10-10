@@ -1,5 +1,5 @@
 ---
-title: "Akademisk frasebank"
+title: "Akademisk frasebank (bokmål)"
 date: "2022-03-01"
 tags: 
   - "setninger"
@@ -338,26 +338,26 @@ er forskjellen mellom ...
 
 Disse frasene kan du bruke når du skal beskrive konkrete resultater i tallmateriale:
 
-- Mer enn
-- Litt over 
-- Rett over 
-- Størstedelen 
-- Rundt 
-- Nesten 
-- Så mange som 
-- Omtrent 
-- Færre enn 
-- Rett under 
-- Godt under 
+- mer enn
+- litt over 
+- rett over 
+- størstedelen 
+- rundt 
+- nesten 
+- så mange som 
+- omtrent 
+- færre enn 
+- rett under 
+- godt under 
 
 - halvparten 
 - en tredjedel 
-- 25 % fjerdedel
+- 30% 50% 80%
 
 ... av informantene 
-- av intervjuobjektene 
-- av deltakerne 
-- av utvalget 
+… av intervjuobjektene 
+… av deltakerne 
+…  av utvalget 
 
 - oppga at ...  
 - sa seg enige i ...  
