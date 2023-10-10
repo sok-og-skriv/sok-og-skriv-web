@@ -135,15 +135,21 @@ Desse frasane kan du bruke når du skal introdusere likskapar:
 
 Desse frasane kan du bruke for å indikere ulikskap over to setningar
 
-| Første setning                                                | Frase                                                                                 | Avslutning                                                               |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| I demokratiske samfunn har innbyggjarane politisk innverknad. | Dette står i kontrast til …Dette er ei motsetning til … Slik skil demokrati seg frå … | … styreforma i eit diktatur, der den politiske innverknaden er avgrensa. |
+- I demokratiske samfunn har innbyggjarane politisk innverknad. 
+-  Dette står i kontrast til … 
+- Dette er ei motsetning til … 
+- Slik skil demokrati seg frå …
+
+… styreforma i eit diktatur, der den politiske innverknaden er avgrensa. 
 
 Desse frasane kan du bruke for å indikere likskap over to setningar:
 
-| Første setning                                           | Frase                                     | Avslutning                                                    |
-| -------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------- |
-| Innbyggjarane i Noreg vel representantar til Stortinget. | På same måte …Likeins …På liknande måte … | … vel amerikanarane representantar til senatet og kongressen. |
+Innbyggjarane i Noreg vel representantar til Stortinget. 
+- På same måte 
+- Likeins 
+- På liknande måte
+
+… vel amerikanarane representantar til senatet og kongressen. 
 
 ## Gje døme
 
@@ -157,20 +163,18 @@ Desse frasane kan du bruke når du skal gje døme på noko:
 - Ved å sjå til X kan ein illustrere …
 - Eit liknande tilfelle i England syner at …
 
-| Første setning | Frase | Avslutning |
-| -------------- | ----- | ---------- |
-|                |
+Eit … 
 
-Eit | velkjend
- mykje brukt
- sentralt
- godt
- klassisk
- nyttig
- viktig
- illustrerande |
+- velkjend
+- mykje brukt
+- sentralt
+- godt
+- klassisk
+- nyttig
+- viktig
+- illustrerande
 
-døme på X er … |
+døme på X er … 
 
 Desse frasane kan du bruke når du skal bruke eit døme for å støtte eit argument:
 
@@ -257,22 +261,100 @@ Desse frasane kan du bruke for å rettleie lesaren gjennom teksten og gjere argu
 
 Fraser for å skildre trendar i talmateriale:
 
-| Grafen syner at det har vore einFiguren syner korleis det har vore ein/eitFrå tabellen ser vi at det har vore ein/eit | svaksterkbrattgradvisstadigmerkbar
- | oppgangnedgangaukeløftfall | i talet på skilsmisser i Noreg sidan 1980 |
- | -------------------------- | ----------------------------------------- ||  |
+Grafen syner at det har vore ein … Figuren syner korleis det har vore ein/eit … Frå tabellen ser vi at det har vore ein/eit …
+- svak
+
+- sterk
+
+- bratt
+
+- gradvis
+
+- stadig
+
+- merkbar
+
+- oppgang
+
+- nedgang
+
+- auke
+
+- løft
+
+- fall 
+
+ i talet på skilsmisser i Noreg sidan 1980. 
+
+
 
 Desse frasane kan du bruke når du skal understreke tendensar i talmateriale:
 
-| Det sentraleDet som utmerkar segDet påfallandeDet interessanteDet som er verdt å merke seg | i   | tabellengrafenfiguren | er veksten av …er (den raske, stabile, svake) oppgangen/veksten i …er variasjonen i …er (den raske/stabile/svake) nedgangen/fallet i …er skilnaden mellom … |
-| ------------------------------------------------------------------------------------------ | --- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- Det sentrale
+- Det som utmerkar seg
+- Det påfallande
+- Det interessante
+- Det som er verdt å merke seg 
+
+… i  tabellen
+
+… grafen
+
+… figuren 
+
+ er veksten …
+ 
+ (den raske, stabile, svake) oppgangen/veksten i …
+
+ … er variasjonen i …
+ 
+ … er (den raske/stabile/svake) … nedgangen/fallet i …
+ 
+ er skilnaden mellom … 
+
 
 Desse frasane kan du bruke når du skal skildre konkrete resultat i talmateriale:
 
-| Meir enn Litt overRett over
-RundtNestenSå mange somOm lag
-Færre enn Rett underGodt under | halvpartenein tredjedelein fjerdedel
-| 30 %50 %80 % | av informantaneav intervjuobjektaav deltakaraneav utvalet | sa at …sa seg einige i …rapporterte om … |
-| ------------ | --------------------------------------------------------- | ---------------------------------------- ||
+- meir enn 
+
+- litt over
+
+- rett over
+
+- rundt
+
+- nesten
+
+- så mange som
+
+- om lag
+
+- færre enn 
+
+- rett under
+
+- godt under
+
+-  halvpartene
+
+- ein tredjedel
+
+- 30% 50% 80% 
+
+… av informantane
+
+…av intervjuobjekta
+
+… av deltakarane
+
+… av utvalet
+
+- sa at …
+
+- sa seg einige i …
+
+- rapporterte om … 
+
 
 ## Drøfte funn og resultat
 
