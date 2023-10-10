@@ -135,7 +135,7 @@ Desse frasane kan du bruke når du skal introdusere likskapar:
 
 Desse frasane kan du bruke for å indikere ulikskap over to setningar
 
-- I demokratiske samfunn har innbyggjarane politisk innverknad. 
+I demokratiske samfunn har innbyggjarane politisk innverknad. 
 -  Dette står i kontrast til … 
 - Dette er ei motsetning til … 
 - Slik skil demokrati seg frå …
@@ -288,7 +288,7 @@ Grafen syner at det har vore ein … Figuren syner korleis det har vore ein/eit 
 
 
 
-Desse frasane kan du bruke når du skal understreke tendensar i talmateriale:
+Desse frasane kan du bruke når du skal _understreke_ tendensar i talmateriale:
 
 - Det sentrale
 - Det som utmerkar seg
@@ -335,7 +335,7 @@ Desse frasane kan du bruke når du skal skildre konkrete resultat i talmateriale
 
 - godt under
 
--  halvpartene
+-  halvparten
 
 - ein tredjedel
 
@@ -343,7 +343,7 @@ Desse frasane kan du bruke når du skal skildre konkrete resultat i talmateriale
 
 … av informantane
 
-…av intervjuobjekta
+… av intervjuobjekta
 
 … av deltakarane
 
