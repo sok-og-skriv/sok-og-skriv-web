@@ -460,10 +460,10 @@ p {
 .tags {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 -0.5em;
+  margin: 0;
+  gap: 0.3em;
 
   .tag {
-    margin: 0.5em;
     align-items: center;
     background-color: $background-color_4;
     border-radius: 4px;
@@ -480,6 +480,36 @@ p {
     .is-large {
       font-size: 1.25rem;
     }
+  }
+}
+
+.faq {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding-top: 1em;
+  gap: 0.5em;
+
+  .faq-icon img {
+    object-fit: contain;
+  }
+
+  h2 {
+    font-size: 1.1em;
+    border-bottom: none;
+    margin: 0 !important;
+    padding: 0;
+  }
+
+  .content p {
+    font-size: 0.9em;
+    margin: 0 !important;
+    padding: 0;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
   }
 }
 
