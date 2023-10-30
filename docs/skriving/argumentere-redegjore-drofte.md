@@ -73,9 +73,10 @@ Let etter argumentasjon og drøfting i pensumtekster. Se hvordan skriveren byg
 
 Skrivementor Ragna Neraal forklarer drøftingens gåter i dette opptaket fra digital Skrivenatt ved Universitetet i Oslo: 
 
-<Video id="/crOKC-T06ss" title="Skrivementor Ragna Neraal forklarer drøftingens gåter" />
+<Video id="crOKC-T06ss" title="Skrivementor Ragna Neraal forklarer drøftingens gåter" />
 
 ::: 
+
 
 ## Argumentasjonens struktur: resonnement
 
