@@ -102,6 +102,18 @@ If you want to use radio or TV programmes, short clips can be used without speci
 
 Pictures, illustrations and artwork may all be useful for your work. You may want to illustrate a point, or the picture itself may be a source of information. As a general rule, you cannot reuse pictures without permission. However, there are exceptions, and there are illustrations you can use freely, for example, royalty-free images, Creative Commons images, or images in the public domain. Always read the terms of use. 
 
+### AI Tools
+
+It is important to be aware of where chatbots such as ChatGPT, BingChat, and Bard get their information from and how they create their answers to your prompts.
+
+The chatbots (conversation robots) are language models that have been trained on a large amount of text taken from various sources. These can be books, Wikipedia, newspaper articles, or scientific journals. 
+
+Although the chatbots are trained on texts that contain a lot of information, they are not trained to provide that information correctly or obtain reliable knowledge. They are trained to detect patterns in language and respond along the line of these patterns. Sometimes the answer will match correct information, other times it won’t. 
+
+It is not possible to know where the information was obtained, nor is the information the chatbots base their answers on necessarily up to date.
+
+Important! Always check the information a chatbot gives you with the information you can find in a reliable source. If a chatbot cites a source, check if this is an actual source. It might just be something the chatbot predicts *likely to exist*, even if it doesn’t, or that it has picked up as a *likely source* for its answer, even if it isn’t. 
+
 
 ### Fieldwork and other observational studies 
 
