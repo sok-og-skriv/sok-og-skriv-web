@@ -61,7 +61,7 @@ Dette er en god måte å oppdage eventuelle problemer som dine lesere vil kunne 
 
 La også andre lese og kommentere teksten din, gjerne både medstudenter og andre som ikke er like innforstått med tematikk og terminologi. De kan se ting ikke du ser. Når dere leser hverandres tekster, kan dere bli inspirert, men dere kan også bli oppmerksomme på svakheter og feil dere selv vil unngå. Det kan altså være nyttig både for den som leser og kommenterer og for den som får teksten sin kommentert.
 
-# Akademiske sjangrer
+## Akademiske sjangrer
 
 Når du studerer, leser du ulike typer tekster: lærebøker, oppslagsverk, vitenskapelige og populærvitenskapelige artikler og essays, konferanseinnlegg, rapporter og avhandlinger.
 

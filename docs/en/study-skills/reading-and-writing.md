@@ -45,7 +45,7 @@ Read your text out loud. This will help you discover problems your readers might
 Let other people read and comment on your text. Why not ask both fellow students and someone who is not familiar with your discipline? They might discover ambiguities that you are not aware of. When you and your fellow students read each other’s texts, you learn and find inspiration, and you may also become aware of weaknesses and mistakes in other texts that you want to avoid in your own. Thus, swapping texts can be useful for both reader and writer.
 
 
-# Academic genres
+## Academic genres
 
 When studying, you have to read different types of texts: textbooks, reference works, scholarly and popular articles and essays, conference papers, official reports and theses.
 
@@ -53,23 +53,23 @@ In other words, the texts you read belong to different genres. Being conscious o
 
 In school one learns about literary genres (poems, short stories, novels, plays, etc.) and non-fiction genres. There are both scholarly and non-scholarly genres within non-fiction. Non-scholarly examples are journalistic texts, such as editorials and news reports. The following section describes some genres of academic writing and outlines their particular characteristics.
 
-## Textbook
+### Textbook
 
 A textbook is mean to communicate established knowledge to students of a given subject. It provides a general introduction to the subject as well as relevant problems, concepts and theories. A textbook presents knowledge, and explains how it has been and can be used. It informs and instructs. Even though a textbook can include discussion and argumentation, its primary objective is not to argue for or against particular positions, but to present the existing views within the subject.
 
-## Scholarly article 
+### Scholarly article 
 
 The purpose of a scholarly article is to present new knowledge or to provide new perspectives on an academic or scientific problem or object. The target audience is other scholars. A scholarly article is primarily argumentative. It claims that something is true or probably true, and presents arguments to support the claim. Hence, a scholarly article has to present thorough and consistent reasoning. The reasoning must be properly substantiated, through references to empirical data or other research. Authors of scholarly articles should use acknowledged research methods and explain them.
 
-## Thesis
+### Thesis
 
 A thesis is a major piece of scholarly work. In some fields (especially medicine and the natural sciences), theses are frequently assembled from existing (published) articles. The thesis will then include an introduction that explains how the different articles are related to the overall theme of the thesis. In other fields (in particular the humanities and social sciences), a thesis is often a monograph, that is, a continuous text divided into chapters. In either case, a thesis is similar to a scholarly research paper in that it presents new knowledge to other professionals in the field, puts forward arguments, and is thoroughly substantiated. If you are writing a master’s thesis, this is the type of text you should aim to produce.
 
-## Popular (non-scholarly) work
+### Popular (non-scholarly) work
 
 "Popular" texts, in the form of either books or articles, are intended to communicate established knowledge to the “general reader”. Since such texts generally do not attempt to establish new knowledge or challenge accepted truths, there will normally be less argumentation than in a scholarly text. The author instead tries to bring the subject to life by devices such as stories, anecdotes and illustrations. Sometimes the whole text is constructed as a narrative, for example in the form of a biography of a leading expert, or by recounting historical events.
 
-## Encyclopaedia article
+### Encyclopaedia article
 
 The purpose of an encyclopaedia article is to present established knowledge neutrally, concisely and clearly. The target audience is usually general readers, as well as specialists, although there are also scholarly encyclopaedias that require the reader to have specialist knowledge. Encyclopaedia articles are not generally intended to persuade the reader by way of reasoned argument, and they do not clarify or instruct as a textbook would. Encyclopaedia articles are intended primarily to be informative and descriptive. They provide information, define words and concepts, and describe relevant circumstances.
 
