@@ -19,7 +19,7 @@ For at gruppearbeidet skal være effektivt er det viktig å planlegge: Bli enige
 Jo tidligere i studiet dere lager en kollokviegruppe, jo bedre. Begynn som en lese- og diskusjonsgruppe. Når dere etterhvert skal i gang med å [skrive oppgaver](?p=1216), kan dere bruke hverandre som lesere. Få ting er nyttigere enn å få kommentarer av medstudenter.
 
 
-# Skrivegrupper
+## Skrivegrupper
 
 Lengre tekster, som masteroppgaver, krever at du skriver jevnt og trutt. For å holde prosessen i gang, er det klokt å la andre lese utkast underveis. Slik vil du også finne ut hvordan oppgaven din kommuniserer med en leser. Som medlem av en skrivegruppe kan du legge fram utkast, gi og få respons og finne støtte i et fellesskap av medstudenter. Skrivegruppen erstatter ikke veilederen, men er et supplement. En ideell skrivegruppe er en gruppe studenter i samme fag som er på ulike stadier i oppgaven. Er du allerede med i en kollokvie eller lesegruppe som fungerer godt, bruk den!
 
