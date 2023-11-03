@@ -10,7 +10,7 @@ tags:
 
 # Lesemåter
 
-Det finnes ulike måter å lese på. Hvordan vi leser avhenger av hva vi leser, men også av formålet med lesingen. Hvis vi leser til en skoleeksamen, så er formålet å huske og forstå det viktigste i det vi leser. Hvis vi leser for å finne stoff til en hjemmeoppgave er formålet å finne stoff som er relevant for problemstillingen i oppgaven. I begge tilfeller er det nyttig å ha et reflektert forhold til argumentasjonen i tekstene. Hva er hovedpåstanden? Hva er argumentene for og imot denne påstanden?
+Det finnes ulike måter å lese på. Hvordan vi leser avhenger av hva vi leser, men også av formålet med lesingen. Hvis vi leser til en skoleeksamen, så er formålet å huske og forstå det viktigste i det vi leser. Hvis vi leser for å finne stoff til en hjemmeoppgave, er formålet å finne stoff som er relevant for problemstillingen i oppgaven. I begge tilfeller er det nyttig å ha et reflektert forhold til argumentasjonen i tekstene. Hva er hovedpåstanden? Hva er argumentene for og imot denne påstanden?
 
 Når du leser en roman som underholdning, lever du deg inn i fortellingen, blir kjent med personene, og er spent på hvordan det vil gå dem. Da blir slike spørsmål gjerne distraherende og ødeleggende for leseropplevelsen. Når du leser vitenskapelige tekster, er derimot slike spørsmål helt avgjørende. I det følgende vil du få presentert noen lesetips som hjelper deg å bli en mer distansert og profesjonell akademisk leser.  
 
@@ -49,7 +49,7 @@ Før du bruker mye tid på en tekst, er det viktig å vurdere om teksten er pål
 Still spørsmål til teksten, og forsøk å «tvinge» den til å svare. Når du leser en tekst med tanke på å få den til å kaste lys over noe du lurer på eller ikke forstår, vil lesingen bli både lettere og mer interessant. Spørsmålene kan variere med lesingens formål: alt fra spørsmål om tekstens agenda og hovedbudskap, hvordan argumentasjonen fungerer, til spesifikke spørsmål om ord og begreper. 
 
 ### Pensum 
-Når du leser pensum kan du stort sett stole på at andre har gjort en grundig kildevurdering for deg. Det er likevel nyttig å stille kritiske spørsmål utover innholdet i pensumtekstene, som for eksempel: Hvorfor har vi denne teksten på pensum? Hvordan passer denne teksten med emnebeskrivelsen og forventet læringsutbytte i kurset? 
+Når du leser pensum, kan du stort sett stole på at andre har gjort en grundig kildevurdering for deg. Det er likevel nyttig å stille kritiske spørsmål utover innholdet i pensumtekstene, som for eksempel: Hvorfor har vi denne teksten på pensum? Hvordan passer denne teksten med emnebeskrivelsen og forventet læringsutbytte i kurset? 
 
 
 ::: oppgave Oppgave
