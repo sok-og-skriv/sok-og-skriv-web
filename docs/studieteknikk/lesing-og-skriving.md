@@ -11,7 +11,7 @@ tags:
 
 Oppgaveskriving i høyere utdanning går ut på å bruke det du har lest og lært til å skrive noe selv, på en selvstendig måte. Du former din egen tekst blant annet gjennom å omforme og diskutere med andres tekster.
 
-Gjennom lesingen plukker du opp og samler inn momenter du kan bruke i skrivingen. Husk at du da endrer på den opprinnelige sammenhengen for det materialet du bruker. Når du viser til eller siterer fra en annen tekst, bruker du den til å forme egne resonnementer. Alt som skjer i din tekst er det du som gjør. Samtidig kan du ikke bare overta det andre har tenkt og skrevet som om det var deg selv som hadde tenkt og skrevet det. Du må skille klart mellom egne resonnementer, fortolkninger, parafrasering (indirekte sitater), og direkte sitater. Du må altså beherske grunnleggende [sitat- og referanseteknikk](/kjeldebruk/korleis-skal-ein-referere.html).
+Gjennom lesingen plukker du opp og samler inn momenter du kan bruke i skrivingen. Husk at du da endrer på den opprinnelige sammenhengen for det materialet du bruker. Når du viser til eller siterer fra en annen tekst, bruker du den til å forme egne resonnementer. Alt som skjer i din tekst, er det du som gjør. Samtidig kan du ikke bare overta det andre har tenkt og skrevet som om det var deg selv som hadde tenkt og skrevet det. Du må skille klart mellom egne resonnementer, fortolkninger, parafrasering (indirekte sitater), og direkte sitater. Du må altså beherske grunnleggende [sitat- og referanseteknikk](/kjeldebruk/korleis-skal-ein-referere.html).
 
 ::: eksempel Hvordan kan jeg skrive selvstendig? 
 Hør filosof og skrivementor Åsne Grøgaard gi en innføring i hva det vil si å «ta stilling» til noe du har lest. 

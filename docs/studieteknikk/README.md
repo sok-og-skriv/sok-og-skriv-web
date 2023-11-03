@@ -21,7 +21,7 @@ Studieteknikk handler også om livskvalitet, mestring, kognitiv trening og gode 
 
 # Lesing og skriving henger sammen
 
-I det akademiske håndverket er lesing og skriving tett forbundet. For å kunne skrive en god oppgave, må du lese effektivt og målrettet. Når du trener deg opp til som leser, vil du også kunne lese dine egne utkast og ideer på en oppmerksom måte. 
+I det akademiske håndverket er lesing og skriving tett forbundet. For å kunne skrive en god oppgave, må du lese effektivt og målrettet. Når du trener deg opp som leser, vil du også kunne lese dine egne utkast og ideer på en oppmerksom måte. 
 
 Hør Birger Solheims råd om hvordan du som student kan bli en bedre leser: 
 
