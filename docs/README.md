@@ -56,22 +56,37 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/frasebank/"><img src="/images/illustrasjoner_faq_500x450.png" alt="Kjeldebruk"></a>
+      <a href="/referansestiler/"><img src="/images/illustrasjoner_referansestilar_500x450.png" alt="Referansestiler"></a>
     </div>
     <div class="content">
-      <h2><a href="/ofte-stilte-sporsmal/">Ofte stilte spørsmål</a></h2>
-      <p>Finn svar på det alle andre lurer på!</p>
+      <h2><a href="/referansestiler/">Referansestiler</a></h2>
+      <p><span class="tags"> 
+      <span class="tag"><a href="/referansestiler/apa-7th.html">APA 7th</a></span>
+      <span class="tag"><a href="/referansestiler/chicago-forfatter-aar.html">Chicago forfatter-år</a></span>
+      <span class="tag"><a href="/referansestiler/chicago-fotnoter.html">Chicago fotnoter</a></span>
+      <span class="tag"><a href="/referansestiler/harvard.html">Harvard</a></span>
+      <span class="tag"><a href="/referansestiler/mla.html">MLA</a></span>
+      <span class="tag"><a href="/referansestiler/vancouver.html">Vancouver</a></span>
+    </span></p>
     </div>
   </div>
 </div>
-
-
   
+  <div class="faq">
+    <div class="faq-icon">
+      <img src="/images/illustrasjoner_faq_500x450.png" style="width: 50px; height: 50px;" alt="Kjeldebruk">
+    </div>
+    <div class="content">
+      <h2>
+        <a href="/ofte-stilte-sporsmal/">
+          Ofte stilte spørsmål
+        </a>
+      </h2>
+      <p>Finn svar på det alle andre lurer på!</p>
+    </div>
+  </div>
 
-<div class="card references">
-  <!-- <div class="image">
-    <a href="/referansestiler"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Referansestiler"></a>
-  </div> -->
+<!-- <div class="card references">
   <div class="content">
     <span class="tags"> 
       <span class="tag"><a href="/referansestiler/apa-7th.html">APA 7th</a></span>
@@ -82,7 +97,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
       <span class="tag"><a href="/referansestiler/vancouver.html">Vancouver</a></span>
     </span>
   </div>
-</div>
+</div> -->
 
 
 <section style="margin-bottom:3em;">
