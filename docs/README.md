@@ -74,7 +74,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   
   <div class="faq">
     <div class="faq-icon">
-      <img src="/images/illustrasjoner_faq_500x450.png" style="width: 50px; height: 50px;" alt="Kjeldebruk">
+      <img src="/images/illustrasjoner_referansestilar_500x450.png" style="width: 50px; height: 50px;" alt="Kjeldebruk">
     </div>
     <div class="content">
       <h2>
