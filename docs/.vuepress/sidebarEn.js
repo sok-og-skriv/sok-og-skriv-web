@@ -27,7 +27,6 @@ module.exports = {
     'how-to-cite',
     'different-sources',
     'source-assessment',
-    'intellectual-property-rights',
     'reference-styles'
   ],
   '/en/': [
