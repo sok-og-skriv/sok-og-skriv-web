@@ -433,6 +433,15 @@ a {
   color: #234e5c;
 }
 
+a:not(h1 *, h2 *, h3 *, h4 *, h5 *, h6 *, nav *, .sidebar-items *) {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  color: #234e5c;
+  text-underline-offset: 2;
+  text-decoration: underline;
+}
+
 p {
   overflow-wrap: break-word;
   word-wrap: break-word;
