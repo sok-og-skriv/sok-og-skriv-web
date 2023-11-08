@@ -1,6 +1,7 @@
 ---
 title: "Kjeldebruk"
 date: "2012-03-15"
+lang: "nn"
 prev: "../skriving/formelle-krav-til-oppsett"
 tags: 
   - "plagiat"

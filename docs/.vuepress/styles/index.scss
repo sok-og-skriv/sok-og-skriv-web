@@ -82,13 +82,13 @@ $border-color_4: $sosBlue;
   --c-warning-text-accent: #594301;
   --c-warning-text-light: #c1971c;
   --c-warning-text-quote: #ccab49;
-  --c-danger: #f11e37;
+  --c-danger: $sosRed;
   --c-danger-bg: #ffe0e0;
   --c-danger-bg-light: #ffcfde;
   --c-danger-bg-lighter: #ffc9c9;
   --c-danger-border-dark: #f1abab;
   --c-danger-details-bg: #ffd4d4;
-  --c-danger-title: #ed1e2c;
+  --c-danger-title: $sosRed;
   --c-danger-text: #660000;
   --c-danger-text-accent: #bd1a1a;
   --c-danger-text-light: #b5474d;
@@ -169,7 +169,7 @@ html.dark {
   --c-danger-bg-lighter: #553040;
   --c-danger-border-dark: #a25151;
   --c-danger-details-bg: #482936;
-  --c-danger-title: #fc2d3b;
+  --c-danger-title: #401416;
   --c-danger-text: #ea9ca0;
   --c-danger-text-accent: #fd3636;
   --c-danger-text-light: #d9777c;
@@ -201,7 +201,7 @@ body {
 }
 
 .meta-item-info {
-  color: var(--c-text-lighter) !important;
+  color: var(--c-text-light) !important;
 }
 
 summary {
@@ -267,12 +267,15 @@ blockquote {
 
 .footer {
   font-size: 0.9rem;
+  color: $color_4 !important;
 }
 
 .footer-links {
   text-align: center;
-  font-size: 0.9rem;
-  padding: 1rem;
+  font-size: 1rem;
+  padding-block: 1.5rem;
+  padding-bottom: 2rem;
+  line-height: 1.5;
 
   a {
     color: $color_5;
@@ -317,8 +320,6 @@ figcaption {
 
 .custom-block {
   table {
-    background-color: $background-color_1;
-    border-collapse: collapse;
     background-color: $background-color_1;
     border-collapse: collapse;
   }
@@ -430,6 +431,15 @@ a {
   word-wrap: break-word;
   word-break: break-word;
   color: #234e5c;
+}
+
+a:not(h1 *, h2 *, h3 *, h4 *, h5 *, h6 *, nav *, .sidebar-items *) {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  color: #234e5c;
+  text-underline-offset: 2;
+  text-decoration: underline;
 }
 
 p {

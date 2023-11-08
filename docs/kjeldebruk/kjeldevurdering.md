@@ -1,6 +1,7 @@
 ---
 title: "Kjeldevurdering"
 date: "2020-04-28"
+lang: "nn"
 next: "../referansestiler/"
 tags: 
   - "kildebruk"
