@@ -1,6 +1,7 @@
 ---
 title: "Ulike kjelder"
 date: "2020-04-28"
+lang: "nn"
 tags: 
   - "Vitskaplig artikkel"
   - "forskningartikkel"

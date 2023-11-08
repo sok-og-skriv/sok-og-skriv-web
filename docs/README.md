@@ -6,7 +6,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 <div class="cards">
   <div class="card">
     <div class="image">
-      <a href="/soking/"><img src="/images/illustrasjoner_sok_500x450.png" alt=""></a>
+      <a href="/soking/"><img src="/images/illustrasjoner_sok_500x450.png" alt="Søking"></a>
     </div>
     <div class="content">
       <h2><a href="/soking/">Søking</a></h2>
@@ -16,7 +16,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/studieteknikk/"><img src="/images/illustrasjoner_lesing_500x450.png" alt=""></a>
+      <a href="/studieteknikk/"><img src="/images/illustrasjoner_lesing_500x450.png" alt="Lesing"></a>
     </div>
     <div class="content">
       <h2><a href="/studieteknikk/">Studieteknikk</a></h2>
@@ -26,7 +26,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 
   <div class="card">
     <div class="image">
-      <a href="/skriving/"><img src="/images/illustrasjoner_skriving_500x450.png" alt=""></a>
+      <a href="/skriving/"><img src="/images/illustrasjoner_skriving_500x450.png" alt="Skriving"></a>
     </div>
     <div class="content">
       <h2><a href="/skriving/">Skriving</a></h2>
@@ -34,9 +34,9 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
     </div>
   </div>
 
-  <div class="card">
+  <div class="card" lang="nn">
     <div class="image">
-      <a href="/kjeldebruk/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt=""></a>
+      <a href="/kjeldebruk/"><img src="/images/illustrasjoner_kildehenvisning_500x450.png" alt="Kjeldebruk"></a>
     </div>
     <div class="content">
       <h2><a href="/kjeldebruk/">Kjeldebruk</a></h2>
@@ -46,7 +46,7 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   
   <div class="card">
     <div class="image">
-      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt=""></a>
+      <a href="/frasebank/"><img src="/images/illustrasjoner_frasebank_500x450.png" alt="Frasebank"></a>
     </div>
     <div class="content">
       <h2><a href="/frasebank/">Frasebank</a></h2>
@@ -72,33 +72,19 @@ footer: Søk & Skriv - Creative Commons Attribution-NonCommercial-ShareAlike 4.0
   </div>
 </div>
   
-  <div class="faq">
-    <div class="faq-icon">
-      <img src="/images/illustrasjoner_faq_500x450.png" style="width: 50px; height: 50px;" alt="Kjeldebruk">
-    </div>
-    <div class="content">
-      <h2>
-        <a href="/ofte-stilte-sporsmal/">
-          Ofte stilte spørsmål
-        </a>
-      </h2>
-      <p>Finn svar på det alle andre lurer på!</p>
-    </div>
+<div class="faq">
+  <div class="faq-icon">
+    <img src="/images/illustrasjoner_faq_500x450.png" style="width: 50px; height: 50px;" alt="Kjeldebruk">
   </div>
-
-<!-- <div class="card references">
   <div class="content">
-    <span class="tags"> 
-      <span class="tag"><a href="/referansestiler/apa-7th.html">APA 7th</a></span>
-      <span class="tag"><a href="/referansestiler/chicago-forfatter-aar.html">Chicago forfatter-år</a></span>
-      <span class="tag"><a href="/referansestiler/chicago-fotnoter.html">Chicago fotnoter</a></span>
-      <span class="tag"><a href="/referansestiler/harvard.html">Harvard</a></span>
-      <span class="tag"><a href="/referansestiler/mla.html">MLA</a></span>
-      <span class="tag"><a href="/referansestiler/vancouver.html">Vancouver</a></span>
-    </span>
+    <h2>
+      <a href="/ofte-stilte-sporsmal/">
+        Ofte stilte spørsmål
+      </a>
+    </h2>
+    <p>Finn svar på det alle andre lurer på!</p>
   </div>
-</div> -->
-
+</div>
 
 <section style="margin-bottom:3em;">
   <div class="flex">

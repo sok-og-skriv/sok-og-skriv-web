@@ -1,6 +1,7 @@
 ---
 title: "Korleis skal ein referere?"
 date: "2012-05-15"
+lang: "nn"
 tags: 
   - "kildebruk"
   - "henvisning"

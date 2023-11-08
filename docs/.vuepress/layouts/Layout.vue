@@ -99,7 +99,7 @@ const iframe = `<iframe
 
         <hr />
 
-        <div class="container  footer-links">
+        <div class="container footer-links">
           <div v-if="locale === 'NO'">
             <div><a href="/om/">Om Søk & Skriv</a></div>
             <div><a href="/om/kontaktinformasjon.html">Kontaktinformasjon</a></div>
