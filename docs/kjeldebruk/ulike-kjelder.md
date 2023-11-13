@@ -115,7 +115,7 @@ Vil du nytte ein tabell eller ein graf frå eit publisert verk, er det ikkje til
 
 Det er viktig å vere klar over kvar samtalerobotar som ChatGPT, BingChat og Bard hentar informasjonen sin frå.
 
-Samtalerobotane er språkmodellar som er trent på ei stor mengd tekst henta frå ulike kjelder. Det kan vere bøker, Wikipedia, avisartiklar eller vitskaplege tidsskrift. Det er ikkje mogleg å vite kvar informasjonen er henta, og heller ikkje mogleg å få roboten til å vise til kjeldene sine. Merk også at informasjonen robotane bygger svara sine på ikkje nødvendigvis er oppdatert.
+Samtalerobotane er språkmodellar som er trent på ei stor mengd tekst henta frå ulike kjelder. Det kan vere bøker, Wikipedia, avisartiklar eller vitskaplege tidsskrift. Det er ikkje alltid mogleg å vite kvar informasjonen er henta, eller å få roboten til å vise til kjeldene sine. Merk også at informasjonen robotane bygger svara sine på ikkje nødvendigvis er oppdatert.
 
 Sjølv om samtalerobotane er trent opp på tekstar som inneheld mykje informasjon, så er dei ikkje trent opp til å gje att informasjon korrekt eller innhente sikker kunnskap. Enkelte gongar samsvarar svaret med riktige opplysningar, andre gongar ikkje. 
 
