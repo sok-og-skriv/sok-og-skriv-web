@@ -75,7 +75,7 @@ ChatGPT kan likevel være nyttig for å støtte skriveprosesser og utvikle skriv
 
 
 
-::: details Her er et eksempel på hvordan du kan jobbe:  
+::: details Her er et eksempel på hvordan du kan jobbe  
 
 - Be chatboten om å skrive om mindre deler av teskten din til et lettere/mer direkte/klarere språk.  
 
