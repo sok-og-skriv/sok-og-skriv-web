@@ -1033,7 +1033,7 @@ En KI-generert tekst er ikke mulig for andre å gjenskape. I teksten din bør du
 
 :::
 
-::: warning I referanselisten
+:::: ref 
 <span class="ref">Rettighetshaver/Firma. (År). *Tittel på programvare* (versjon) [Stor språkmodell].  
 https://xxxxx</span>
 
@@ -1054,5 +1054,6 @@ I Zotero:
 Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/skrive-og-referere/zotero-og-endnote/zotero/apa7th/)
 
 :::
+::::
 
 Les mer på APA-bloggen [How to cite ChatGPT (apa.org)](https://apastyle.apa.org/blog/how-to-cite-chatgpt).
