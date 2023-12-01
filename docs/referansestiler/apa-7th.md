@@ -1054,5 +1054,3 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 
 :::
 ::::
-
-Les mer på APA-bloggen [How to cite ChatGPT (apa.org)](https://apastyle.apa.org/blog/how-to-cite-chatgpt).
