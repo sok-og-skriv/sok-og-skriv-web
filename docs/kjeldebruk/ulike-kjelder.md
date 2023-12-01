@@ -123,6 +123,8 @@ Sjølv om samtalerobotane er trent opp på tekstar som inneheld mykje informasjo
 Sjekk  alltid informasjonen du får frå ein samtalerobot opp mot ei truverdig kjelde!
 :::
 
+Lurer du på korleis du kan gjere nytte av verktøy som til dømes ChatGPT i skriveprossen, så kan du lese meir om dette under [Ofte stilte spørsmål](/ofte-stilte-sporsmal/#hvordan-kan-kunstig-intelligens-f-eks-chatgpt-brukes). Vår rettleiar for [APA 7h](/referansestiler/apa-7th.html#kunstig-intelligens-f-eks-store-sprakmodeller-som-chatgpt-writesonic-mfl) viser døme på korleis du kan referere til verktøy som baserer seg på kunstig intelligens i tekst og referanseliste.
+
 ### Feltarbeid og observasjonsstudiar
 I fag der deltakande observasjon er nytta som metode, er informantar ei viktig kjelde. Odd Are Berkaak, professor i sosialantropologi ved UiO, fortel i ein video om korleis du skriv informantar inn i teksten din.  
 
