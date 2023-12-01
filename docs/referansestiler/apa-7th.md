@@ -1017,7 +1017,7 @@ _Ingen innførsel i referanselisten_
 
 ### Kunstig intelligens (f.eks. store språkmodeller som ChatGPT, Writesonic mfl.)
 
-Eksempelet under viser hvordan du refererer til KI-generert tekst. Dersom du bruker KI-genererte bilder, kan du lese mer i [Norsk APA-manual](https://www.unit.no/tjenester/norsk-apa-referansestil) s. 64.
+Eksempelet under viser hvordan du refererer til KI-generert tekst. På [APA-bloggen](https://apastyle.apa.org/blog/how-to-cite-chatgpt) kan du lese mer utfyllende informasjon om dette. Dersom du bruker KI-genererte bilder, kan du lese mer i [Norsk APA-manual](https://www.unit.no/tjenester/norsk-apa-referansestil) s. 64.
 
 
 ::: eksempel Sjekk retningslinjene ved ditt studiested
