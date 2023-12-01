@@ -1039,7 +1039,6 @@ https://xxxxx</span>
 
 	
 <span class="ref">OpenAI. (2023). *ChatGPT* (20. april-versjon) [Stor språkmodell]. https://chat.openai.com/</span>
-:::
 
 ::: details I EndNote og Zotero
 
