@@ -27,7 +27,7 @@ _On 17 May 1814, all representatives at Eidsvoll signed a new constitution for t
 
 However, if you write about something that is not generally known, you must state where you get the information from.
 
-It can be difficult to assess how far the documentation requirement should go. Uncontroversial claims that are the knowledge base within your subject do not need documentation. If you are in doubt, ask the head of court. Then you avoid being suspected of plagiarism (see below).
+It can be difficult to assess how far the documentation requirement should go. Uncontroversial claims that are the knowledge base within your subject do not need documentation. If you are in doubt, ask your supervisor. Then you avoid being suspected of plagiarism (see below).
 
 ## Lectures
 
