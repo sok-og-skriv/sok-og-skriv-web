@@ -415,7 +415,6 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ::: details Flere eksempler
 ... her ble sjekklisten for oversiktsartikkel brukt (Kunnskapsbasertpraksis.no, 2021, 4.1 Sjekklister)
 
-:::
 <span class="ref">Kunnskapsbasertpraksis.no. (2021, 17. september). _Kunnskapsbasert praksis._ Helsebiblioteket. [https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no](https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no)</span>
 
 :::
