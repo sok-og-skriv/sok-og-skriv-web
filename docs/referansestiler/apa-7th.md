@@ -413,9 +413,9 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 :::: 
 
 ::: details Flere eksempler
-her ble sjekklisten for oversiktsartikkel brukt (Kunnskapsbasertpraksis.no, 2021, 4.1 Sjekklister)
+... her ble sjekklisten for oversiktsartikkel brukt (Kunnskapsbasertpraksis.no, 2021, 4.1 Sjekklister)
 
-Kunnskapsbasertpraksis.no. (2021, 17. september). Kunnskapsbasert praksis. Helsebiblioteket. [https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no](https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no)
+Kunnskapsbasertpraksis.no. (2021, 17. september). _Kunnskapsbasert praksis._ Helsebiblioteket. [https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no](https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no)
 
 
 #### Merknader 
@@ -940,13 +940,14 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ... tidligere utgitt som Retningslinjer for retningslinjer (Statens helsetilsyn, 2002)
 ... (Helsedirektoratet, 2015)
 
-<span class="ref">Statens helsetilsyn. (2002)._Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer_ (IK-2653). Statens helsetilsyn.</span>
-<span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). https://www.shorturl.at/akvB8</span>
+Statens helsetilsyn. (2002)._Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer_ (IK-2653). Statens helsetilsyn.
+
+Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). [https://www.shorturl.at/akvB8](https://www.shorturl.at/akvB8)
 
 ... i følge retningslinjene (Helsedirektoratet, 2017, s. 29)
 
-Helsedirektoratet. (2017, 24. januar). Behandling og rehabilitering av rusmiddelproblemer og avhengighet : nasjonal faglig retningslinje. [https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere](https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere)
-
+Helsedirektoratet. (2017, 24. januar). _Behandling og rehabilitering av rusmiddelproblemer og avhengighet : nasjonal faglig retningslinje._ [https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere](https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere)
+:::
 
 :::
 
