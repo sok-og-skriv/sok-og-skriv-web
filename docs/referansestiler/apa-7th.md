@@ -415,7 +415,8 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ::: details Flere eksempler
 ... her ble sjekklisten for oversiktsartikkel brukt (Kunnskapsbasertpraksis.no, 2021, 4.1 Sjekklister)
 
-Kunnskapsbasertpraksis.no. (2021, 17. september). _Kunnskapsbasert praksis._ Helsebiblioteket. [https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no](https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no)
+:::
+<span class="ref">Kunnskapsbasertpraksis.no. (2021, 17. september). _Kunnskapsbasert praksis._ Helsebiblioteket. [https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no](https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no)</span>
 
 :::
 
@@ -940,9 +941,10 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ::: details Flere eksempler
 
 ... tidligere utgitt som Retningslinjer for retningslinjer (Statens helsetilsyn, 2002)
-... (Helsedirektoratet, 2015)
 
 <span class="ref">Statens helsetilsyn. (2002)._Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer_ (IK-2653). Statens helsetilsyn.</span>
+
+... (Helsedirektoratet, 2015)
 
 <span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). [https://www.shorturl.at/akvB8](https://www.shorturl.at/akvB8)</span>
 
