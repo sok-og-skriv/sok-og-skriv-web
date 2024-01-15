@@ -24,6 +24,8 @@ tags:
   - "Large language models"
   - "Bing Chat"
   - Bard
+  - nasjonale retningslinjer
+  - nasjonal faglig retningslinje
 
 ---
 
@@ -150,7 +152,25 @@ Ofte er det en institusjon eller organisasjon som er ansvarlig for teksten. I sl
 … (Søk & Skriv, 2023) 
 
 :::
+### Hvordan referere til nasjonale retningslinjer
 
+::: oppgave Mer om dette:
+
+ [Du finner svar på spørsmålet her](https://www.sokogskriv.no/referansestiler/apa-7th.html#standarder-veiledere-og-retningslinjer)
+
+Se oppsett under "flere eksempler".
+
+:::
+
+### Hvordan referere til kunnskapsbasert praksis-sidene på Helsebiblioteket (Kunnskapsbasertpraksis.no)
+
+::: oppgave Mer om dette:
+
+ [Du finner svar på spørsmålet her](https://www.sokogskriv.no/referansestiler/apa-7th.html#nettside-fra-organisasjon)
+
+Se oppsett under "flere eksempler".
+
+:::
 
 ### Ingen kategorier passer
 
