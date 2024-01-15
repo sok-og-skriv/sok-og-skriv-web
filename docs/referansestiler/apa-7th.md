@@ -417,6 +417,8 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 
 Kunnskapsbasertpraksis.no. (2021, 17. september). _Kunnskapsbasert praksis._ Helsebiblioteket. [https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no](https://www.helsebiblioteket.no/innhold/artikler/kunnskapsbasert-praksis/kunnskapsbasertpraksis.no)
 
+:::
+
 
 #### Merknader 
 Nettstedets navn utgår dersom det er det samme som forfatter/organisasjon. 
@@ -940,16 +942,16 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 ... tidligere utgitt som Retningslinjer for retningslinjer (Statens helsetilsyn, 2002)
 ... (Helsedirektoratet, 2015)
 
-Statens helsetilsyn. (2002)._Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer_ (IK-2653). Statens helsetilsyn.
+<span class="ref">Statens helsetilsyn. (2002)._Retningslinjer for retningslinjer: Veileder: Prosesser og metoder for utvikling og implementering av faglig retningslinjer_ (IK-2653). Statens helsetilsyn.</span>
 
-Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). [https://www.shorturl.at/akvB8](https://www.shorturl.at/akvB8)
+<span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). [https://www.shorturl.at/akvB8](https://www.shorturl.at/akvB8)</span>
 
 ... i følge retningslinjene (Helsedirektoratet, 2017, s. 29)
 
-Helsedirektoratet. (2017, 24. januar). _Behandling og rehabilitering av rusmiddelproblemer og avhengighet : nasjonal faglig retningslinje._ [https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere](https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere)
+<span class="ref">Helsedirektoratet. (2017, 24. januar). _Behandling og rehabilitering av rusmiddelproblemer og avhengighet : nasjonal faglig retningslinje._ [https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere](https://www.helsedirektoratet.no/retningslinjer/behandling-og-rehabilitering-av-rusmiddelproblemer-og-avhengighet#referere)</span>
 :::
 
-:::
+
 
 
 ### Forelesningsmateriell og intranett-ressurser
