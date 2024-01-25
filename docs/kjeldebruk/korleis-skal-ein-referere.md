@@ -61,13 +61,13 @@ Vips, så har du unngått å plagiere!
   
 :::  
 
-Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – ved å ha kopiert eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon og i verste fall føre til tap av studieplass.  
+Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – ved å ha kopiert eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon med utestenging inntil eitt år.  
 
-Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. Dette gjeld òg for ditt eige arbeid: _Sjølvplagiat_ vert nemleg også rekna som plagiat.
+Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. Dette gjeld òg for ditt eige arbeid, hugs å oppgi referanse dersom du gjenbrukar tidlegare tekstar eller oppgåver. Såkalt _sjølvplagiat_ vert nemleg også rekna som plagiat.
 
 ::: warning Sjølvsitering eller sjølvplagiat?  
 
-Å vise til ditt eige arbeid kan kanskje vere nødvendig for å unngå plagiat, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
+Å vise til ditt eige arbeid kan vere nødvendig for å unngå bå bli skulda for plagiat. Hugs at dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
 
 Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar. 
 
