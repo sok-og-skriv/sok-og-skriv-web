@@ -67,7 +67,7 @@ Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du 
 
 ::: warning Sjølvsitering eller sjølvplagiat?  
 
-Å vise til ditt eige arbeid kan vere nødvendig for å unngå bå bli skulda for plagiat. Hugs at dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
+Å vise til ditt eige arbeid kan vere nødvendig for å unngå å bli skulda for plagiat. Hugs at dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
 
 Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar. 
 
