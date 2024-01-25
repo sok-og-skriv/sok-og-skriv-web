@@ -88,7 +88,6 @@ Opphavsrett er den retten skaparen av eit åndsverk har til verket. Åndsver
 I tillegg til den økonomiske råderetten opphavar har, kjem den ideelle – det vil seie retten til å bli namngjeven og verna mot at åndsverket blir nytta på eit krenkande vis. Merk at den ideelle retten ikkje går ut på dato. 
 Brot på gjeldande reglar om opphavsrett kan få uheldige følgjer. _Plagiat_ er å framstille andre sine resultat, tankar, idear eller formuleringar som om dei var sine eigne. Dette reknast som intellektuelt tjuveri ifølgje [åndsverkslova](https://lovdata.no/dokument/NL/lov/2018-06-15-40). 
 
-For meir om opphavsrett, sjå [DelRett](https://delrett.no/) som er ei offentleg rettleiingsteneste om opphavsrett. 
 
 
 ## Sitat
