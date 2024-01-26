@@ -61,23 +61,21 @@ Vips, så har du unngått å plagiere!
   
 :::  
 
-Omfattande og/eller medvite plagiat reknast som fusk, og vil få uheldige følgjer for deg som student. Dersom du blir skulda for å plagiere – ved å ha kopiert eit verk heilt eller delvis utan å vise til kor du har det frå – kan det forsinke studieprogresjon med utestenging inntil eitt år.  
+Omfattande og/eller medvite brot på opphavsretten kan bli rekna som forsøk på fusk, og kan få alvorlege følgjer for deg som student. Ved forsøk på fusk kan konsekvensane bli annullering av eksamen, utestenging frå institusjonen og tap av retten til å gå opp til eksamen ved andre universitet og høgskular i Noreg i inntil eitt år.  
 
-Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. Dette gjeld òg for ditt eige arbeid, hugs å oppgi referanse dersom du gjenbrukar tidlegare tekstar eller oppgåver. Såkalla _sjølvplagiat_ vert nemleg også rekna som plagiat.
+Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du trygg. Dette gjeld òg for ditt eige arbeid: _omfattande gjenbruk av ditt eige arbeid_ kan nemleg også bli rekna som forsøk på fusk.
 
 ::: warning Sjølvsitering eller sjølvplagiat?  
 
-Å vise til ditt eige arbeid kan vere nødvendig for å unngå å bli skulda for plagiat. Hugs at dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda: 
+Å vise til ditt eige arbeid kan kanskje vere nødvendig, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda:
 
-Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar. 
+Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar.
 
-Upubliserte studentarbeid kan visast til som "Eige/eget arbeid (årstal). Tittel på oppgåva 
-[Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen". 
+Upubliserte studentarbeid kan visast til som «Eige/eget arbeid (årstal). Tittel på oppgåva [Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen».
 
 Desse eksempla følger APA-stilen.
 
-Enkelte studiestader har tydelege retningslinjer for sjølvsitering og -plagiat, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker å gjenbruke tidlegare arbeid. 
-
+Enkelte studiestader har tydelege retningslinjer for gjenbruk av eige arbeid, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker å gjenbruke tidlegare arbeid.
 
 ::: 
 
