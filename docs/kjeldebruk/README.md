@@ -11,16 +11,13 @@ tags:
 
 # ![](/images/illustrasjoner_kildehenvisning_500x450.png) Kjeldebruk
 
-God forsking bygger vidare på eksisterande kunnskap; det er dette me kallar kjeldebruk. Når du skriv akademiske tekstar blir det venta at du viser til gode kjelder. Utan bruk av relevant kunnskap, står oppgåva di på bar bakke. 
-
+God forsking bygger vidare på eksisterande kunnskap; det er dette me kallar kjeldebruk. Her lærer du om korleis du vel ut relevante kjelder, og korleis  du bruker kjeldene korrekt og  ærleg i ditt akademiske arbeid. 
 <Video id="GPR0phJIsuk" title="Kjeldebruk" />
 
 
 ## Kvifor skal ein referere til andre sitt arbeid? 
 
-Å skrive akademisk er å delta i ein samtale der kjelder viser til andre kjelder. Kva kjelder som er best å nytte vil variere frå fag til fag og frå oppgåve til oppgåve. Aktuelle kjelder kan vere alt frå bøker og artiklar til ulike nettsider, nyhende og kart. Bruk problemstillinga til å orientere deg, og snakk gjerne med rettleiar, medstudentar og andre fagfolk for å finne ut kva kjelder som er gode innan ditt fagfelt. 
-
-Undervegs i oppgåva di skal du nytte kjeldetilvisingar. Kjeldetilvisinga viser lesaren vidare til referanselista, der ein finn fullstendig informasjon om opphavsperson, årstal og utgjevar. Dette gjer det i sin tur mogeleg for lesaren å finne kjelda.
+Undervegs i skrivinga di skal du nytte kjeldetilvisingar. Kjeldetilvisinga viser lesaren vidare til referanselista, der ein finn fullstendig informasjon om opphavsperson, årstal og utgjevar. Dette gjer det i sin tur mogeleg for lesaren å finne tilbake til kjelda.
 
 Nøyaktig dokumentasjon av kjelder gjer lesaren i stand til raskt å:
 

@@ -13,38 +13,33 @@ tags:
   - "sekundærreferanse"
   - "selvistering" 
   - "sjølvsitering"
+  - "gjennbruk av eget arbeid"
 ---
 
  # Korleis skal ein referere? 
 
-Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. I nokre fag står ein fritt til å velje, medan andre har ein bestemt referansestil dei skal følgje. Kva stil som nyttast innan di studieretning vil du finne i studieplanar, få vite av faglærar eller ved å sjå på tidlegare studentoppgåver. Når du har valgt ein referansestil, er det viktig at du føl denne konsekvent. Ver også konsekvent når det gjeld engelsk vs. norsk rettskriving, oppsett av dato mv. 
+Korleis kjeldetilvisingar og referanseliste skal sjå ut, vil avhenge av referansestilen du nyttar. Finn ut kva for referansestil som blir brukt på ditt fag. Når du har valt ein referansestil, er det viktig at du føl denne konsekvent. 
 
 På Søk & Skriv viser me stilane [APA, 7. utgåve](/referansestiler/apa-7th.html), [Chicago med fotnoter](/referansestiler/chicago-fotnoter.html), [Chicago forfatter-år](/referansestiler/chicago-forfatter-aar.html), [Harvard](/referansestiler/harvard.html), [MLA](/referansestiler/mla.html) og [Vancouver](/referansestiler/vancouver.html).
 
-**Her er ei enkel oppskrift for å sette inn kjelder og unngå plagiat:**
+APA 7 er den mest vanlege referansestilen og difor er dei fleste eksempla i Søk & Skriv henta frå denne stilen.
+
+**Sjå denne videoen for ei enkel innføring i korleis unngå plagiat::**
 
 <Video id="3IIoBZ0Tf_I" title="Kjelder og plagiat" />
 
 
 ## Kva skal refererast?
-
-For alt fagleg innhald som ikkje byggjer på eige materiale, eigne resonnement eller meiningar, **skal** ein oppgi kjelde i teksten og i referanselista. Dette kan for eksempel vere andre sine argument, meiningar og vurderingar, talmateriale, modellar, resultat og konklusjonar. Hugs at all bruk av figurar, tabellar, lyd og bilete er knytt til [opphavsrett](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#opphavsrett).
+Når du hentar noko frå ei kjelde skal du alltid vise til denne kjelda både i teksten din og i referanselista. Typiske kjelder kan for eksempel vere andre sine argument og vurderingar, talmateriale, modellar, resultat og konklusjonar.  Hugs at all bruk av [figurar, tabellar](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#bilete-fotografi-illustrasjonar-biletkunst), lyd og [bilete](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#bilete-fotografi-illustrasjonar-biletkunst) er knytt til [opphavsrett](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#opphavsrett).
 
 **Allmenne sanningar**
 
-Allmenne sanningar treng ikkje referanse, som for eksempel:
+«Danmark er ein del av Europa»,  «vi har fire årstider», eller at 17. mai er Noreg sin nasjonaldag.
+Skriv du derimot om noko som ikkje er allment kjend, må du vise kvar du hentar opplysningane frå.
+Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Det vil variere frå fag til fag kva som er rekna som allmenne sanningar. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å
+[plagiere](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-plagiat-brot-pa-opphavsretten).
 
-> Den 17. mai 1814 skreiv samtlege representantar på Eidsvoll under på ei ny grunnlov for den sjølvstendige staten Noreg, og dei tok Christian Frederik til konge.
 
-Skriv du derimot om noko som ikkje er allment kjend, må du oppgje kvar du hentar opplysningane frå.
-
-Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Ukontroversielle påstandar som er kunnskapsgrunnlaget innanfor ditt fag, treng ikkje dokumentasjon. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å [plagiere](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-plagiat-brot-pa-opphavsretten).
-
-**Førelesingar**
-
-Dine eigne førelesingsnotat reknast ikkje som kjelde, og skal ikkje visast til i ei oppgåve. Du kan sjølvsagt bruke førelesingsnotatene dine til inspirasjon når du skriv, men du må arbeide med stoffet, skrive det om og gjere det til ditt eige.
-
-Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjonar offentleg elektronisk, _kan_ du sitere desse. Som hovudregel er det betre å vise til (pensum-)litteratur. Les nøye: har førelesaren oppgitt sine kjelder? I så fall bør du nytte desse i staden for førelesningsnotat/handout/powerpoint-presentasjonen.
 
 
 ## Unngå plagiat / brot på opphavsretten
@@ -53,7 +48,7 @@ Dersom førelesaren har gjort førelesningsnotat/handouts/powerpoint-presentasjo
 
 Det viktigaste er å **aldri klippe og lime utan å oppgje kjelde**. 
 
-Gjengi sitat ordrett med hermeteikn, **eller** parafraser (skriv innhaldet med eigne ord). 
+Skriv sitat ordrett med hermeteikn, **eller** parafraser (skriv innhaldet med eigne ord). 
 
 Legg vekk kjelda medan du skriv, så blir du ikkje opphengd i skrivemåten til forfattaren. Sjekk at meiningsinnhaldet stemmer, og vis til kjelda som vanleg. 
 
@@ -67,15 +62,17 @@ Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du 
 
 ::: warning Sjølvsitering eller sjølvplagiat?  
 
-Å vise til ditt eige arbeid kan kanskje vere nødvendig, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda:
+Å gjenbruke eige arbeid **kan** vere aktuelt, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda:
+
 
 Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar.
 
 Upubliserte studentarbeid kan visast til som «Eige/eget arbeid (årstal). Tittel på oppgåva [Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen».
 
-Desse eksempla følger APA-stilen.
+Desse eksempla føl  APA-stilen.
 
-Enkelte studiestader har tydelege retningslinjer for gjenbruk av eige arbeid, andre ikkje. Sjekk alltid med rettleiar eller faglærar dersom du ønsker å gjenbruke tidlegare arbeid.
+Mange studiestader har tydelege retningslinjer for gjenbruk av eige arbeid/sjølvsitering. **Sjekk alltid med rettleiar eller faglærar dersom du ønsker å bruke tidlegare arbeid**.
+
 
 ::: 
 
