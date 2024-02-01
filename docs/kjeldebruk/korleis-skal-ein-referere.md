@@ -30,7 +30,7 @@ APA 7 er den mest vanlege referansestilen og difor er dei fleste eksempla i Søk
 
 
 ## Kva skal refererast?
-Når du hentar noko frå ei kjelde skal du alltid vise til denne kjelda både i teksten din og i referanselista. Typiske kjelder kan for eksempel vere andre sine argument og vurderingar, talmateriale, modellar, resultat og konklusjonar.  Hugs at all bruk av [figurar, tabellar](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#bilete-fotografi-illustrasjonar-biletkunst), lyd og [bilete](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#bilete-fotografi-illustrasjonar-biletkunst) er knytt til opphavsrett. [opphavsrett](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#opphavsrett).
+Når du hentar noko frå ei kjelde skal du alltid vise til denne kjelda både i teksten din og i referanselista. Typiske kjelder kan for eksempel vere andre sine argument og vurderingar, talmateriale, modellar, resultat og konklusjonar.  Hugs at all bruk av [figurar, tabellar](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#bilete-fotografi-illustrasjonar-biletkunst), lyd og [bilete](https://www.sokogskriv.no/kjeldebruk/ulike-kjelder.html#bilete-fotografi-illustrasjonar-biletkunst) er knytt til [opphavsrett](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#opphavsrett).
 
 **Allmenne sanningar**
 
@@ -62,11 +62,16 @@ Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du 
 
 ::: warning Sjølvsitering eller sjølvplagiat?  
 
-Å gjenbruke eigne arbeid kan vere aktuelt, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda:
+Å gjenbruke eige arbeid **kan** vere aktuelt, men dei færraste oppgåver blir betre av å trekke inn ting du har gjort tidlegare. Dersom du ikkje kjem utanom, gjeld desse råda:
+
+
 Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar.
+
 Upubliserte studentarbeid kan visast til som «Eige/eget arbeid (årstal). Tittel på oppgåva [Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen».
+
 Desse eksempla føl  APA-stilen.
-Mange studiestader har tydelege retningslinjer for gjenbruk av eige arbeid/sjølvsitering. Sjekk alltid med rettleiar eller faglærar dersom du ønsker å bruke tidlegare arbeid.
+
+Mange studiestader har tydelege retningslinjer for gjenbruk av eige arbeid/sjølvsitering. **Sjekk alltid med rettleiar eller faglærar dersom du ønsker å bruke tidlegare arbeid**.
 
 
 ::: 
