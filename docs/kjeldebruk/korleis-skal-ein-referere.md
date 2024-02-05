@@ -39,7 +39,7 @@ Allmenne sanningar treng ikkje referanse, som for eksempel:
 «Danmark er ein del av Europa»,  «vi har fire årstider», eller at 17. mai er Noreg sin nasjonaldag.
 
 Skriv du derimot om noko som ikkje er allment kjend, må du vise kvar du hentar opplysningane frå.
-Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Det vil variere frå fag til fag kva som er rekna som allmenne sanningar. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å
+Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå, og det vil variere frå fag til fag kva som er rekna som allmenne sanningar. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å
 plagiere.
 
 
