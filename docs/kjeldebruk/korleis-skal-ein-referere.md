@@ -34,10 +34,13 @@ Når du hentar noko frå ei kjelde skal du alltid vise til denne kjelda både i 
 
 **Allmenne sanningar**
 
+Allmenne sanningar treng ikkje referanse, som for eksempel: 
+
 «Danmark er ein del av Europa»,  «vi har fire årstider», eller at 17. mai er Noreg sin nasjonaldag.
+
 Skriv du derimot om noko som ikkje er allment kjend, må du vise kvar du hentar opplysningane frå.
-Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå. Det vil variere frå fag til fag kva som er rekna som allmenne sanningar. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å
-[plagiere](https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html#korleis-unnga-plagiat-brot-pa-opphavsretten).
+Det kan vere vanskeleg å vurdere kor langt dokumentasjonskravet skal gå, og det vil variere frå fag til fag kva som er rekna som allmenne sanningar. Er du i tvil, spør rettleiar. Då unngår du å bli mistenkt for å
+plagiere.
 
 
 
@@ -67,9 +70,9 @@ Vis alltid kvar du har henta informasjon eller formuleringar frå – då er du 
 
 Publiserte oppgåver viser du til på vanleg måte, med forfattar, årstal, tittel og utgjevar.
 
-Upubliserte studentarbeid kan visast til som «Eige/eget arbeid (årstal). Tittel på oppgåva [Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen».
+Upubliserte studentarbeid kan visast til som «Eige/eget arbeid (årstal). _Tittel på oppgåva_ [Upublisert semesteroppgåve eller det som passar]. Namnet på utdanningsinstitusjonen».
 
-Desse eksempla føl  APA-stilen.
+Desse eksempla føl  [APA-stilen](https://www.sokogskriv.no/referansestiler/apa-7th.html#studentoppgaver-og-doktorgradsavhandlinger).
 
 Mange studiestader har tydelege retningslinjer for gjenbruk av eige arbeid/sjølvsitering. **Sjekk alltid med rettleiar eller faglærar dersom du ønsker å bruke tidlegare arbeid**.
 
