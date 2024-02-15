@@ -945,7 +945,7 @@ Se eksempelsamling [fra Høgskulen på Vestlandet](https://www.hvl.no/bibliotek/
 
 ... (Helsedirektoratet, 2015)
 
-<span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418). [https://www.shorturl.at/akvB8](https://www.shorturl.at/akvB8)</span>
+<span class="ref">Helsedirektoratet. (2015). _Veileder om assistert befruktning med donorsæd_ (IS-2418).[https://www.helsedirektoratet.no/rundskriv/assistert-befruktning-med-donoregg-og-donorsaed]</span>
 
 ... i følge retningslinjene (Helsedirektoratet, 2017, s. 29)
 
